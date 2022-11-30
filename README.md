@@ -70,8 +70,8 @@ type Asset = {
   name: string;
   symbol: string;
   decimals: string;
-  // The optional entity which created or controls `id`
-  entity?: string | undefined;
+  // The entity which created or controls `id`
+  entity: string;
   // Following optional fields are all URL links
   circ_supply_api?: string | undefined;
   icon?: string | undefined;

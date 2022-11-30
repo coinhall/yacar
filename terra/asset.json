@@ -4,6 +4,7 @@
     "name": "alentejo.money",
     "symbol": "Alem",
     "decimals": "6",
+    "entity": "alentejo.money",
     "icon": "https://static.wixstatic.com/media/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png/v1/fill/w_560,h_560,fp_0.50_0.50,enc_auto/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png"
   },
   {
@@ -11,6 +12,7 @@
     "name": "Astroport",
     "symbol": "ASTRO",
     "decimals": "6",
+    "entity": "Astroport",
     "icon": "https://app.astroport.fi/tokens/astro.svg",
     "website": "https://t.co/ejYaePobxy",
     "telegram": "https://t.co/kiLJmew5Ls",
@@ -21,6 +23,7 @@
     "name": "Axelar AAVE",
     "symbol": "axlAAVE",
     "decimals": "18",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlAAVE.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -30,6 +33,7 @@
     "name": "Axelar ChainLink",
     "symbol": "axlLINK",
     "decimals": "18",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlLINK.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -39,6 +43,7 @@
     "name": "Axelar DAI",
     "symbol": "axlDAI",
     "decimals": "18",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlDAI.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -48,6 +53,7 @@
     "name": "Axelar Frax",
     "symbol": "axlFRAX",
     "decimals": "18",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlFRAX.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -57,6 +63,7 @@
     "name": "Axelar Matic",
     "symbol": "axlMATIC",
     "decimals": "18",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlMATIC.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -66,6 +73,7 @@
     "name": "Axelar Uniswap",
     "symbol": "axlUNI",
     "decimals": "18",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlUNI.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -75,6 +83,7 @@
     "name": "Axelar USD Coin",
     "symbol": "axlUSDC",
     "decimals": "6",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -84,6 +93,7 @@
     "name": "Axelar USD Tether",
     "symbol": "axlUSDT",
     "decimals": "6",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlUSDT.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -93,6 +103,7 @@
     "name": "Axelar Wrapped Bitcoin",
     "symbol": "axlWBTC",
     "decimals": "8",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlWBTC.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -102,6 +113,7 @@
     "name": "Axelar Wrapped Ethereum",
     "symbol": "axlWETH",
     "decimals": "18",
+    "entity": "Axelar",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlETH.svg",
     "website": "https://axelar.network/",
     "twitter": "https://twitter.com/axelarcore"
@@ -118,6 +130,7 @@
     "name": "Cosmos",
     "symbol": "ATOM",
     "decimals": "6",
+    "entity": "Cosmos",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
     "website": "https://cosmos.network/",
     "telegram": "https://t.me/cosmosproject",
@@ -130,6 +143,7 @@
     "name": "Crescent Network",
     "symbol": "CRE",
     "decimals": "6",
+    "entity": "Crescent Network",
     "icon": "https://assets.terra.money/icon/svg/ibc/CRE.svg",
     "website": "crescent.network",
     "telegram": "http://t.me/crescentnetwork",
@@ -137,17 +151,11 @@
     "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
   },
   {
-    "id": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
-    "name": "dinheiro",
-    "symbol": "Dinheiros",
-    "decimals": "0",
-    "icon": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png"
-  },
-  {
     "id": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
     "name": "Eris Amplified LUNA",
     "symbol": "ampLUNA",
     "decimals": "6",
+    "entity": "Eris Protocol",
     "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
     "website": "https://www.erisprotocol.com/",
@@ -155,24 +163,11 @@
     "twitter": "https://twitter.com/eris_protocol"
   },
   {
-    "id": "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
-    "name": "escudo",
-    "symbol": "Escudos",
-    "decimals": "6",
-    "icon": "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png"
-  },
-  {
-    "id": "terra1ttspm8jgeylc6us3mlpwpmlwzr3rkesm70vn6zkfr07pz7e3rzkq73ah2j",
-    "name": "Gidorah Token",
-    "symbol": "GIDO",
-    "decimals": "6",
-    "icon": "https://firebasestorage.googleapis.com/v0/b/wicca-c3bbe.appspot.com/o/app%2Fmainnet%2Ftoken%2FMIRhzK1keYKtJsRYg_oL9.jpeg?alt=media&token=5de0205f-d0f6-4a76-b765-e6dd59d7d47a"
-  },
-  {
     "id": "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
     "name": "Graviton",
     "symbol": "GRAV",
     "decimals": "6",
+    "entity": "Gravity Bridge",
     "icon": "https://assets.terra.money/icon/svg/ibc/GRAV.svg",
     "website": "https://t.co/rSb0msPbRI",
     "twitter": "https://twitter.com/gravity_bridge",
@@ -184,6 +179,7 @@
     "name": "Juno",
     "symbol": "JUNO",
     "decimals": "6",
+    "entity": "Juno",
     "icon": "https://assets.terra.money/icon/svg/ibc/JUNO.svg",
     "website": "https://www.junonetwork.io/",
     "telegram": "https://t.me/JunoNetwork",
@@ -196,6 +192,7 @@
     "name": "Kujira",
     "symbol": "KUJI",
     "decimals": "6",
+    "entity": "Kujira",
     "icon": "https://assets.terra.money/icon/svg/ibc/KUJI.svg"
   },
   {
@@ -203,6 +200,7 @@
     "name": "Lira",
     "symbol": "LIRA",
     "decimals": "6",
+    "entity": "Lira Financial",
     "icon": "https://lira.financial/images/icons/lira.svg"
   },
   {
@@ -210,6 +208,7 @@
     "name": "Luna",
     "symbol": "LUNA",
     "decimals": "6",
+    "entity": "Terra Money",
     "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
     "icon": "https://assets.terra.money/icon/svg/Luna.svg",
     "website": "https://www.terra.money/",
@@ -223,6 +222,7 @@
     "name": "Luna Bird",
     "symbol": "LUBI",
     "decimals": "6",
+    "entity": "Luna Bird",
     "icon": "https://www.lunabird.network/logo.png"
   },
   {
@@ -230,6 +230,7 @@
     "name": "Orne",
     "symbol": "ORNE",
     "decimals": "6",
+    "entity": "Orne",
     "icon": "https://orne.io/img/token_icon.png"
   },
   {
@@ -237,6 +238,7 @@
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
+    "entity": "Osmosis",
     "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
     "website": "https://osmosis.zone/",
     "telegram": "https://t.me/osmosis_chat",
@@ -245,17 +247,11 @@
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
-    "id": "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
-    "name": "real",
-    "symbol": "Reis",
-    "decimals": "6",
-    "icon": "https://static.wixstatic.com/media/1e62a0_89af25478e5144089de9292b990493e2~mv2.png"
-  },
-  {
     "id": "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk",
     "name": "Red",
     "symbol": "RED",
     "decimals": "6",
+    "entity": "Redacted Money",
     "circ_supply_api": "https://api-v2.redacted.money/circulating_supply",
     "icon": "https://red.redacted.money/red.svg"
   },
@@ -264,6 +260,7 @@
     "name": "Secret",
     "symbol": "SCRT",
     "decimals": "6",
+    "entity": "Secret Network",
     "icon": "https://assets.terra.money/icon/svg/ibc/SCRT.svg",
     "website": "scrt.network",
     "telegram": "https://t.me/scrtCommunity",
@@ -276,6 +273,7 @@
     "name": "Stader (Wormhole)",
     "symbol": "SD",
     "decimals": "8",
+    "entity": "Stader Labs",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png"
   },
   {
@@ -283,6 +281,7 @@
     "name": "Stader LunaX Token",
     "symbol": "LunaX",
     "decimals": "6",
+    "entity": "Stader Labs",
     "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
     "website": "https://staderlabs.com/",
@@ -296,6 +295,7 @@
     "name": "Staked Astroport",
     "symbol": "xASTRO",
     "decimals": "6",
+    "entity": "Astroport",
     "icon": "https://app.astroport.fi/tokens/xAstro.png",
     "website": "https://astroport.fi/en",
     "telegram": "http://t.me/astroport_fi",
@@ -306,6 +306,7 @@
     "name": "Steak Token",
     "symbol": "STEAK",
     "decimals": "6",
+    "entity": "Steak",
     "icon": "https://liquidstaking.app/steak.png",
     "website": "https://app.steak.club/",
     "telegram": "https://t.me/+PadO-WwMDxNjMGEx",
@@ -316,6 +317,7 @@
     "name": "Terra Poker Token",
     "symbol": "TPT",
     "decimals": "6",
+    "entity": "Terra Poker",
     "circ_supply_api": "https://index.terrapoker.games/circulating-supply",
     "icon": "https://terra.poker/ico/ms-icon-310x310.png",
     "website": "https://terra.poker/",
@@ -327,6 +329,7 @@
     "name": "TerraFloki",
     "symbol": "TFLOKI",
     "decimals": "6",
+    "entity": "TerraFloki",
     "icon": "https://terrafloki.io/tf-logo.png",
     "website": "https://terrafloki.io/",
     "telegram": "https://t.co/tFOOeLO45t",
@@ -338,6 +341,7 @@
     "name": "USK",
     "symbol": "USK",
     "decimals": "6",
+    "entity": "Kujira",
     "icon": "https://assets.terra.money/icon/svg/ibc/USK.svg"
   },
   {
@@ -345,6 +349,7 @@
     "name": "Valkyrie Token",
     "symbol": "VKR",
     "decimals": "6",
+    "entity": "Valkyrie Protocol",
     "circ_supply_api": "https://terra-api.valkyrieprotocol.com/partner/coinhall/circulating-supply",
     "icon": "https://app.valkyrieprotocol.com/icon_vkr.png",
     "website": "https://valkyrieprotocol.com/",
@@ -358,6 +363,7 @@
     "name": "Wrapped AVAX (Wormhole)",
     "symbol": "WAVAX",
     "decimals": "8",
+    "entity": "Wormhole",
     "icon": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
     "website": "https://wormholenetwork.com/",
     "twitter": "https://twitter.com/wormholecrypto",
@@ -369,6 +375,7 @@
     "name": "Wrapped Ether (Wormhole)",
     "symbol": "WETH",
     "decimals": "8",
+    "entity": "Wormhole",
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
     "website": "https://wormholenetwork.com/",
     "twitter": "https://twitter.com/wormholecrypto",
@@ -380,6 +387,7 @@
     "name": "Wrapped SOL (Wormhole)",
     "symbol": "SOL",
     "decimals": "8",
+    "entity": "Wormhole",
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
     "website": "https://wormholenetwork.com/",
     "twitter": "https://twitter.com/wormholecrypto",
@@ -391,6 +399,7 @@
     "name": "xTPT",
     "symbol": "xTPT",
     "decimals": "6",
+    "entity": "Terra Poker",
     "icon": "https://terra.poker/ico/ms-icon-310x310.png",
     "website": "https://terra.poker/",
     "telegram": "https://t.me/terrapoker_community",
