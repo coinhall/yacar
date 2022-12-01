@@ -67,11 +67,14 @@ type Asset = {
   // The contract address of the cw20 tokens
   // or denom of the ibc/native coins
   id: string;
-  name: string;
-  symbol: string;
-  decimals: string;
   // The entity which created or controls `id`
   entity: string;
+  // The canonical name of the asset (eg. "Axelar Wrapped Bitcoin")
+  name: string;
+  // The ticker of the asset (eg. "axlWBTC")
+  symbol: string;
+  // The number of decimals of the asset
+  decimals: string;
   // Following optional fields are all URL links
   circ_supply_api?: string | undefined;
   icon?: string | undefined;
@@ -94,7 +97,8 @@ type Pool = {
   id: string;
   asset_ids: string[];
   dex: string;
-  type: string; // typically "xyk" or "stable"
+  // The liquidity pool type; typically "xyk" or "stable"
+  type: string;
 };
 ```
 
