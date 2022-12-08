@@ -60,7 +60,7 @@ type Binary = {
 
 ### `asset.json`
 
-Contains **verified native / IBC / CW20 assets**.
+Contains **native / IBC / CW20 assets**.
 
 ```ts
 type Asset = {
@@ -68,7 +68,8 @@ type Asset = {
   // or denom of the ibc/native coins
   id: string;
   // The entity which created or controls `id`
-  entity: string;
+  // A nullish value means that the asset is "unverified"
+  entity?: string | undefined;
   // The canonical name of the asset (eg. "Axelar Wrapped Bitcoin")
   name: string;
   // The ticker of the asset (eg. "axlWBTC")
