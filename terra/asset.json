@@ -19,6 +19,17 @@
     "twitter": "https://twitter.com/astroport_fi"
   },
   {
+    "id": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
+    "entity": "Astroport",
+    "name": "Staked Astroport",
+    "symbol": "xASTRO",
+    "decimals": "6",
+    "icon": "https://app.astroport.fi/tokens/xAstro.png",
+    "website": "https://astroport.fi/en",
+    "telegram": "http://t.me/astroport_fi",
+    "twitter": "https://twitter.com/astroport_fi"
+  },
+  {
     "id": "ibc/2E9CD07D7A6572A4CDAABBF0FBB89F69A9A362818132221182654819E277220A",
     "entity": "Axelar",
     "name": "Axelar AAVE",
@@ -152,14 +163,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
   },
   {
-    "id": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
-    "entity": "portugal.protocol",
-    "name": "dinheiro",
-    "symbol": "Dinheiros",
-    "decimals": "0",
-    "icon": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png"
-  },
-  {
     "id": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
     "entity": "Eris Protocol",
     "name": "Eris Amplified LUNA",
@@ -170,14 +173,6 @@
     "website": "https://www.erisprotocol.com/",
     "telegram": "https://t.co/cqfIpelqbk",
     "twitter": "https://twitter.com/eris_protocol"
-  },
-  {
-    "id": "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
-    "entity": "portugal.protocol",
-    "name": "escudo",
-    "symbol": "Escudos",
-    "decimals": "6",
-    "icon": "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png"
   },
   {
     "id": "terra1ttspm8jgeylc6us3mlpwpmlwzr3rkesm70vn6zkfr07pz7e3rzkq73ah2j",
@@ -221,26 +216,20 @@
     "icon": "https://assets.terra.money/icon/svg/ibc/KUJI.svg"
   },
   {
+    "id": "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
+    "entity": "Kujira",
+    "name": "USK",
+    "symbol": "USK",
+    "decimals": "6",
+    "icon": "https://assets.terra.money/icon/svg/ibc/USK.svg"
+  },
+  {
     "id": "terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2",
     "entity": "Lira Financial",
     "name": "Lira",
     "symbol": "LIRA",
     "decimals": "6",
     "icon": "https://lira.financial/images/icons/lira.svg"
-  },
-  {
-    "id": "uluna",
-    "entity": "Terra Money",
-    "name": "Luna",
-    "symbol": "LUNA",
-    "decimals": "6",
-    "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
-    "icon": "https://assets.terra.money/icon/svg/Luna.svg",
-    "website": "https://www.terra.money/",
-    "telegram": "https://t.me/TerraNetworkLobby",
-    "twitter": "https://twitter.com/terra_money",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
-    "coingecko": "https://www.coingecko.com/en/coins/terra"
   },
   {
     "id": "terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s",
@@ -270,6 +259,22 @@
     "twitter": "https://twitter.com/osmosiszone",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis/",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
+  },
+  {
+    "id": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
+    "entity": "portugal.protocol",
+    "name": "dinheiro",
+    "symbol": "Dinheiros",
+    "decimals": "0",
+    "icon": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png"
+  },
+  {
+    "id": "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
+    "entity": "portugal.protocol",
+    "name": "escudo",
+    "symbol": "Escudos",
+    "decimals": "6",
+    "icon": "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png"
   },
   {
     "id": "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
@@ -324,17 +329,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/stader-lunax"
   },
   {
-    "id": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
-    "entity": "Astroport",
-    "name": "Staked Astroport",
-    "symbol": "xASTRO",
-    "decimals": "6",
-    "icon": "https://app.astroport.fi/tokens/xAstro.png",
-    "website": "https://astroport.fi/en",
-    "telegram": "http://t.me/astroport_fi",
-    "twitter": "https://twitter.com/astroport_fi"
-  },
-  {
     "id": "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
     "entity": "Steak",
     "name": "Steak Token",
@@ -346,12 +340,37 @@
     "twitter": "https://twitter.com/st4k3h0us3"
   },
   {
+    "id": "uluna",
+    "entity": "Terra Money",
+    "name": "Luna",
+    "symbol": "LUNA",
+    "decimals": "6",
+    "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
+    "icon": "https://assets.terra.money/icon/svg/Luna.svg",
+    "website": "https://www.terra.money/",
+    "telegram": "https://t.me/TerraNetworkLobby",
+    "twitter": "https://twitter.com/terra_money",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
+    "coingecko": "https://www.coingecko.com/en/coins/terra"
+  },
+  {
     "id": "terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2",
     "entity": "Terra Poker",
     "name": "Terra Poker Token",
     "symbol": "TPT",
     "decimals": "6",
     "circ_supply_api": "https://index.terrapoker.games/circulating-supply",
+    "icon": "https://terra.poker/ico/ms-icon-310x310.png",
+    "website": "https://terra.poker/",
+    "telegram": "https://t.me/terrapoker_community",
+    "twitter": "https://twitter.com/TP_TerraPoker"
+  },
+  {
+    "id": "terra1e9s5m6vrl9ms75q0862llq2vcsz8r43czm36s6xnn3vh8dfmwe0s3c86e8",
+    "entity": "Terra Poker",
+    "name": "xTPT",
+    "symbol": "xTPT",
+    "decimals": "6",
     "icon": "https://terra.poker/ico/ms-icon-310x310.png",
     "website": "https://terra.poker/",
     "telegram": "https://t.me/terrapoker_community",
@@ -368,14 +387,6 @@
     "telegram": "https://t.co/tFOOeLO45t",
     "twitter": "https://twitter.com/MetaFrens_",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrafloki/"
-  },
-  {
-    "id": "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
-    "entity": "Kujira",
-    "name": "USK",
-    "symbol": "USK",
-    "decimals": "6",
-    "icon": "https://assets.terra.money/icon/svg/ibc/USK.svg"
   },
   {
     "id": "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
@@ -428,14 +439,245 @@
     "coingecko": "https://www.coingecko.com/en/coins/wrapped-solana"
   },
   {
-    "id": "terra1e9s5m6vrl9ms75q0862llq2vcsz8r43czm36s6xnn3vh8dfmwe0s3c86e8",
-    "entity": "Terra Poker",
-    "name": "xTPT",
-    "symbol": "xTPT",
+    "id": "terra1p67lldutk5haqpmnk5thuhmhyff8ntf8axa37mzm87qq58082u0qqp9mmu",
+    "name": "Apple (Wormhole)",
+    "symbol": "mAAPL",
     "decimals": "6",
-    "icon": "https://terra.poker/ico/ms-icon-310x310.png",
-    "website": "https://terra.poker/",
-    "telegram": "https://t.me/terrapoker_community",
-    "twitter": "https://twitter.com/TP_TerraPoker"
+    "website": "https://wormholenetwork.com/",
+    "twitter": "https://twitter.com/wormholecrypto",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mirrored-apple/"
+  },
+  {
+    "id": "terra1plhefzma59lh6rjk5gfkq45pz2chfq35nm9xgdz4pcuhp3nnwekq8sthua",
+    "name": "APY 365%",
+    "symbol": "BOND",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1jqt5mmlpd6x3jtwfdsxwtrknvaczz2xmplukzc8h86xhupg7fe7q7nkzdp",
+    "name": "Auto TOKEN",
+    "symbol": "AUTO",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
+    "name": "bLuna",
+    "symbol": "bLuna",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1a2gdn43yjllg3jvna7xcv2zea0ppjchsww2fedd63l9k2azg6j7qg6v3pj",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": "6"
+  },
+  {
+    "id": "terra13e7da9f90m32s04kg4knlpsakmn50kqz2zx2rqypkahhp29gxdwqu4vy8q",
+    "name": "BURN",
+    "symbol": "BURN",
+    "decimals": "6"
+  },
+  {
+    "id": "terra129zjaxquhh3h5upn0clqzdawnze43a9z34ktt4l6um2hf5w0xqjsta42u5",
+    "name": "BUSD Token (Wormhole)",
+    "symbol": "BUSD",
+    "decimals": "8",
+    "website": "https://wormholenetwork.com/",
+    "twitter": "https://twitter.com/wormholecrypto",
+    "coingecko": "https://www.coingecko.com/en/coins/binance-usd-wormhole"
+  },
+  {
+    "id": "terra1ly8vd2q69h3jlyjgnwqq0q4wngulmr2l2gr0lxd93tqle42596rsq5zz5d",
+    "name": "ETH  in USDC",
+    "symbol": "uETH",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1zf90xr38pdgq0yjq2d56scclpfyu3ep4d720s9r2yw9gmwg7khaq0c30rl",
+    "name": "FatManTerra",
+    "symbol": "FATMAN",
+    "decimals": "6",
+    "twitter": "https://twitter.com/FATMANTOKEN"
+  },
+  {
+    "id": "terra13jlm0anpdd3hc0xctw9vtncmcfnrag8dh686s2juy7m226unwd4q0tmx2v",
+    "name": "GEA",
+    "symbol": "GEA",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1mrdgys0e0hhq0n56zgy3e0htahcnwtdt4dy2ec9wcltcr6qjntmq0yen07",
+    "name": "GEB",
+    "symbol": "GEB",
+    "decimals": "6"
+  },
+  {
+    "id": "terra177huv6k3gyqwxcd7n32ts56tvxt68dgll0fn56k56rcvy9zeke9s5gfn3c",
+    "name": "Gidorah",
+    "symbol": "gido",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
+    "name": "HERO",
+    "symbol": "HERO",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
+    "name": "INTERCHAIN DAO COIN",
+    "symbol": "IDC",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1xzkel96e5e8vfmqw7valzdzzv9hqasfyslclvnmvxdejvpda3xwsskxzus",
+    "name": "Local Terra Token (Wormhole)",
+    "symbol": "LOCAL",
+    "decimals": "6"
+  },
+  {
+    "id": "terra16h7keds26d52xj8rn9jfx6lj2x0ja79lt56yxnmlm4xsttf5mu5smq5f78",
+    "name": "Luna Classic (Wormhole)",
+    "symbol": "LUNC",
+    "decimals": "6",
+    "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
+    "website": "https://classic-agora.terra.money/",
+    "telegram": "https://t.me/TerraLunaChat",
+    "twitter": "https://twitter.com/terrac_money",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna/",
+    "coingecko": "https://www.coingecko.com/en/coins/terra-luna-classic"
+  },
+  {
+    "id": "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
+    "name": "Luna optimizer token",
+    "symbol": "OPZA",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1s8u586k3s7xtvasxv4p6ldl0jrxht9w886v8ymkst6crg5hxue3sqn49r9",
+    "name": "Microsoft Corporation (Wormhole)",
+    "symbol": "mMSFT",
+    "decimals": "6",
+    "website": "https://wormholenetwork.com/",
+    "twitter": "https://twitter.com/wormholecrypto",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mirrored-microsoft/"
+  },
+  {
+    "id": "terra1jg848acg7rzt7tnz6zqaxzsc94w2yjhafad80d3uel9937grkmfsv8aycw",
+    "name": "MOON",
+    "symbol": "MOON",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1z7xe8pjrr0tdguvsdxh2hj6u0gk3y93dxs2xncz00jsjzt8g6suq95lj5w",
+    "name": "MuskTerra",
+    "symbol": "Musk",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1gd3ntqq04lvd623xs8ht6dly0s7n4gxnz7lmlw5ga0qnamg9wyrqcggn2h",
+    "name": "Nauticus Luna Principal 042923",
+    "symbol": "pLuna",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1l02355pejytcakcpq6g3n57ydwpqeysuw5nj679hlnrrsz3sc3wssxr69j",
+    "name": "Nauticus Luna Yield 042923",
+    "symbol": "yLuna",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1gk0y0tcxj8pr65tanqvc8zyzv3c8szkwf2kcmzgqj9jm2t9z3f9q4xcnfz",
+    "name": "Nauticus Principal: USDC/USDT LP Astro",
+    "symbol": "pN-USDC-USDT",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1e0uch3fwned9rfhkaeehqv9mnfuwjh9jfhawd4gxw248czljdttsh22jkg",
+    "name": "Nauticus Yield: USDC/USDT LP Astro",
+    "symbol": "yN-USDC-USDT",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1dzahfzk3vavwy4zqt0x49guswvwe6ef8jm60fpl2cqmq0yl7pp4qyrx3cr",
+    "name": "Pce",
+    "symbol": "Pce",
+    "decimals": "6"
+  },
+  {
+    "id": "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
+    "name": "prism-cluna",
+    "symbol": "CLUNA",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1ykxe98arwtahe97h9y5nck8gw88kxn2z73gfwlnx5twcd96ct98sqzcsrk",
+    "name": "Pylon MINE Token",
+    "symbol": "MINE",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1nu0c3s69umqz862ltp6wytuztm0rrn6w5079g999u0hvwy62tf3q02qhmr",
+    "name": "StableDao",
+    "symbol": "SDO",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1mma39sqn43aen4jh2sdmka84mv94uk7v7xw3ype2fdvlay6emrlqweyf5u",
+    "name": "Test Cw20 TOKEN",
+    "symbol": "TCW",
+    "decimals": "6"
+  },
+  {
+    "id": "terra12ezq5402h5n3skhdshjp4f49zzg0saxum8fvvhjhauzas2ezyyrqpznqny",
+    "name": "Tether USD (Wormhole)",
+    "symbol": "USDT",
+    "decimals": "8",
+    "website": "https://wormholenetwork.com/",
+    "twitter": "https://twitter.com/wormholecrypto",
+    "coingecko": "https://www.coingecko.com/en/coins/tether-usd-wormhole-from-ethereum"
+  },
+  {
+    "id": "terra1nchx6x3xtmme9sq6gxtj0tuux9l3mh05ce0hmmm7ge35vl8zsdeshkn7z5",
+    "name": "TokenA",
+    "symbol": "TKNA",
+    "decimals": "6"
+  },
+  {
+    "id": "terra16er279t0mgumskzqp2eq5wju9ge68v6y7ylq4qju35rj5as6gwaqpf70xu",
+    "name": "TokenB",
+    "symbol": "TKNB",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1q4r4zzde2tg52306qevhnaf3qw76a68hnyzw404uuvvzx09n3ckqe2ylrm",
+    "name": "USD ",
+    "symbol": "USD",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1vzd98s9kqdkatahxs7rsd8m474lf2f8ct39zdgd6shj4nh5e6kuskaz2gy",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "USDC",
+    "decimals": "8",
+    "website": "https://wormholenetwork.com/",
+    "twitter": "https://twitter.com/wormholecrypto",
+    "coingecko": "https://www.coingecko.com/en/coins/usd-coin-wormhole-from-ethereum"
+  },
+  {
+    "id": "terra1uc3r74qg44csdrl8hrm5muzlue9gf7umgkyv569pgazh7tudpr4qdtgqh6",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1rwg5kt6kcyxtz69acjgpeut7dgr4y3r7tvntdxqt03dvpqktrfxq4jrvpq",
+    "name": "UST (Wormhole)",
+    "symbol": "UST",
+    "decimals": "6",
+    "website": "https://wormholenetwork.com/",
+    "twitter": "https://twitter.com/wormholecrypto",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd-wormhole/",
+    "coingecko": "https://www.coingecko.com/en/coins/terrausd-wormhole"
   }
 ]
