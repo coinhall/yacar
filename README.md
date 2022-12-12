@@ -3,7 +3,7 @@
 
 > Yet Another Cosmos Asset Registry
 
-- [JSON Files](#json-files)
+- [Files](#files)
   - [`account.json`](#accountjson)
   - [`contract.json`](#contractjson)
   - [`binary.json`](#binaryjson)
@@ -11,11 +11,11 @@
   - [`pool.json`](#pooljson)
 - [Contributing](#contributing)
 
-## JSON Files
+## Files
 
 ### `account.json`
 
-Contains **notable user accounts** including native multisig and CW3 multisig accounts.
+Contains **notable user addresses** including native multisig and CW3 multisig accounts. This file is updated manually.
 
 ```ts
 type Account = {
@@ -30,7 +30,7 @@ type Account = {
 
 ### `contract.json`
 
-Contains **notable cosmwasm smart contracts** excluding CW3 multisig accounts.
+Contains **notable cosmwasm smart contracts** excluding CW3 multisig accounts. This file is updated manually.
 
 ```ts
 type Contract = {
@@ -45,7 +45,7 @@ type Contract = {
 
 ### `binary.json`
 
-Contains **notable cosmwasm binaries**.
+Contains **notable cosmwasm binaries**. This file is updated manually.
 
 ```ts
 type Binary = {
@@ -60,7 +60,7 @@ type Binary = {
 
 ### `asset.json`
 
-Contains **native / IBC / CW20 assets**.
+Contains all verified and unverified **native / IBC / CW20 assets**. This file will update automatically if all required fields of an asset can be inferred. The optional fields must be updated manually.
 
 ```ts
 type Asset = {
@@ -90,7 +90,7 @@ type Asset = {
 
 ### `pool.json`
 
-Contains **dexes' liquidity pools**.
+Contains **dexes' liquidity pools**. This file will update automatically if all required fields of a pool can be inferred (specifically, `dex` and `type`). Otherwise, the missing fields must be updated manually.
 
 ```ts
 type Pool = {
@@ -105,4 +105,8 @@ type Pool = {
 
 ## Contributing
 
-TODO
+1. [Fork this repo](https://github.com/coinhall/yacar/fork)
+2. Push changes to your fork
+3. The files will be validated and formatted automatically
+4. If validation passes, [create a pull request](https://github.com/coinhall/yacar/compare)
+5. If necessary, seek for a review via [Telegram](https://t.me/coinhall_org)
