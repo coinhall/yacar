@@ -1,0 +1,70 @@
+name: Validate and sort yacar
+
+on:
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  validate-sort:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ".github/scripts"
+    steps:
+      - name: Checkout repository and branch
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Install Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 7.17.1
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        shell: bash
+        run: |
+          echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
+
+      - name: Setup pnpm cache
+        uses: actions/cache@v3
+        with:
+          path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install prod dependencies
+        run: pnpm install --prod
+
+      - name: Validate chain data
+        run: |
+          ROOT_DIR=${{ github.workspace }} pnpm validate
+
+      - name: Sort all json
+        run: |
+          ROOT_DIR=${{ github.workspace }} pnpm format
+
+      - name: Check for changes
+        id: diff
+        run: |
+          cd ${{ github.workspace }}
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          cd ${{ github.workspace }}
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "[bot] update files"
+          git push
