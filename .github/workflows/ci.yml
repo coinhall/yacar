@@ -2,11 +2,14 @@ name: CI
 
 on:
   pull_request:
+    branches-ignore:
+      - "main"
   push:
+    branches-ignore:
+      - "main"
 
 jobs:
   validate-and-format:
-    if: github.repository != 'coinhall/yacar'
     runs-on: ubuntu-latest
     defaults:
       run:
