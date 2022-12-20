@@ -2,8 +2,6 @@ name: CI
 
 on:
   pull_request:
-  push:
-  workflow_call:
 
 jobs:
   validate-and-format:
@@ -17,6 +15,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
 
       - name: Install Node.js 18
         uses: actions/setup-node@v3
