@@ -1,4 +1,4 @@
-import { Asset, LabelledType, Pool } from "../shared/types";
+import { Asset, LabelledType, Pool } from "../shared/schema";
 
 export function orderLabelledTypeKeys(
   labelledTypeData: LabelledType[]

@@ -1,4 +1,4 @@
-import { Asset, Pool, LabelledType } from "../shared/types";
+import { Asset, Pool, LabelledType } from "../shared/schema";
 
 export function sortLabelledJson(jsonData: LabelledType[]): LabelledType[] {
   return jsonData.sort((a, b) => {

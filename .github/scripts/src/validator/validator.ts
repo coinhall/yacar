@@ -1,5 +1,4 @@
-import Ajv from "ajv/dist/jtd";
-import betterAjvErrors from "better-ajv-errors";
+import { TypeCheck } from "@sinclair/typebox/compiler";
 
 import { JsonFiles } from "../shared/enums";
 import {
@@ -8,9 +7,9 @@ import {
   BinarySchema,
   ContractSchema,
   PoolSchema,
-} from "../shared/types";
+} from "../shared/schema";
 
-function getSchema(key: string) {
+function getSchema(key: string): TypeCheck<any> {
   switch (key) {
     case JsonFiles.ACCOUNT:
       return AccountSchema;
@@ -29,20 +28,18 @@ function getSchema(key: string) {
 }
 
 export function validate(enumJsonMap: Record<string, object[]>): boolean {
-  const ajv = new Ajv({ allErrors: true });
   let hasDetectedError = false;
 
   for (const [key, jsons] of Object.entries(enumJsonMap)) {
     const schema = getSchema(key);
-    const validate = ajv.compile(schema);
     for (const json of jsons) {
-      const valid = ajv.validate(schema, json);
-      if (!valid) {
+      const errors = [...schema.Errors(json)].map((v) => {
+        const { path, value, message } = v;
+        return { path, value, message };
+      });
+      if (errors.length !== 0) {
+        console.error(errors);
         hasDetectedError = true;
-        const output = betterAjvErrors(schema, json, validate.errors!, {
-          indent: 2,
-        });
-        console.error(output);
       }
     }
   }

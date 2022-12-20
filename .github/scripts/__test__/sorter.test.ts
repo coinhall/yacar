@@ -1,7 +1,7 @@
 import { describe, expect, test } from "vitest";
 import fs from "fs";
 
-import { Account, Asset, Binary, Contract, Pool } from "../src/shared/types";
+import { Account, Asset, Binary, Contract, Pool } from "../src/shared/schema";
 import { sortAsset, sortLabelledJson, sortPool } from "../src/sorter/sorter";
 import {
   orderAssetKeys,
