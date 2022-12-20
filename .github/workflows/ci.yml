@@ -6,6 +6,7 @@ on:
 
 jobs:
   validate-and-format:
+    if: github.repository != "coinhall/yacar"
     runs-on: ubuntu-latest
     defaults:
       run:
