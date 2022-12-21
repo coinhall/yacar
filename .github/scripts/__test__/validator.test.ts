@@ -7,7 +7,6 @@ import {
   duplicateCheck,
   getSchema,
   schemaErrorCheck,
-  validate,
 } from "../src/validator/validator";
 
 function loadJson(relativePath: string): object {
