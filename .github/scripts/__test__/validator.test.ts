@@ -2,7 +2,13 @@ import { describe, test, expect } from "vitest";
 import fs from "fs";
 
 import { JsonFiles } from "../src/shared/enums";
-import { validate } from "../src/validator/validator";
+import { Account, Asset, Binary, Contract, Pool } from "../src/shared/schema";
+import {
+  duplicateCheck,
+  getSchema,
+  schemaErrorCheck,
+  validate,
+} from "../src/validator/validator";
 
 function loadJson(relativePath: string): object {
   const rawData = fs.readFileSync(__dirname + relativePath, {
@@ -11,131 +17,167 @@ function loadJson(relativePath: string): object {
   return JSON.parse(rawData);
 }
 
-function toEnumJsonMap(
-  fileType: JsonFiles,
-  matchingJsons: object[]
-): Record<JsonFiles, object[]> {
-  const enumJsonMap: Record<string, object[]> = {};
-  enumJsonMap[fileType] = matchingJsons;
-  return enumJsonMap;
-}
-
 describe("given an account.json", () => {
   const fileType = JsonFiles.ACCOUNT;
+  const schema = getSchema(fileType);
 
   describe("if it is invalid", () => {
-    test("validate should return true, indicating an error", () => {
-      const invalidAccounts = loadJson("/data/validator/account_01.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [invalidAccounts]);
+    test("schemaErrorCheck should return true, indicating an error", () => {
+      const data = loadJson("/data/validator/account_01.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeTruthy();
     });
   });
 
   describe("if it is valid", () => {
-    test("validate should return false, indicating an error", () => {
-      const validAccounts = loadJson("/data/validator/account_02.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [validAccounts]);
+    test("schemaErrorCheck should return false, indicating an error", () => {
+      const data = loadJson("/data/validator/account_02.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeFalsy();
+    });
+  });
+
+  describe("if there exists a duplicate id", () => {
+    test("return true", () => {
+      const duplicateIdAccounts = loadJson(
+        "/data/validator/account_03.json"
+      ) as Account[];
+
+      expect(duplicateCheck(fileType, duplicateIdAccounts)).toBeTruthy();
     });
   });
 });
 
 describe("given an asset.json", () => {
   const fileType = JsonFiles.ASSET;
+  const schema = getSchema(fileType);
 
   describe("if it is invalid", () => {
-    test("validate should return true, indicating an error", () => {
-      const invalidAssets = loadJson("/data/validator/asset_01.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [invalidAssets]);
+    test("schemaErrorCheck should return true, indicating an error", () => {
+      const data = loadJson("/data/validator/asset_01.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeTruthy();
     });
   });
 
   describe("if it is valid", () => {
-    test("validate should return false, indicating an error", () => {
-      const validAssets = loadJson("/data/validator/asset_02.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [validAssets]);
+    test("schemaErrorCheck should return false, indicating an error", () => {
+      const data = loadJson("/data/validator/asset_02.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeFalsy();
+    });
+  });
+
+  describe("if there exists a duplicate id", () => {
+    test("return true", () => {
+      const duplicateIdAssets = loadJson(
+        "/data/validator/asset_03.json"
+      ) as Asset[];
+
+      expect(duplicateCheck(fileType, duplicateIdAssets)).toBeTruthy();
     });
   });
 });
 
 describe("given a binary.json", () => {
   const fileType = JsonFiles.BINARY;
+  const schema = getSchema(fileType);
 
   describe("if it is invalid", () => {
-    test("validate should return true, indicating an error", () => {
-      const invalidBinary = loadJson("/data/validator/binary_01.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [invalidBinary]);
+    test("schemaErrorCheck should return true, indicating an error", () => {
+      const data = loadJson("/data/validator/binary_01.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeTruthy();
     });
   });
 
   describe("if it is valid", () => {
-    test("validate should return false, indicating an error", () => {
-      const validBinary = loadJson("/data/validator/binary_02.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [validBinary]);
+    test("schemaErrorCheck should return false, indicating an error", () => {
+      const data = loadJson("/data/validator/binary_02.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeFalsy();
+    });
+  });
+
+  describe("if there exists a duplicate id", () => {
+    test("return true", () => {
+      const duplicateIdBinary = loadJson(
+        "/data/validator/binary_03.json"
+      ) as Binary[];
+
+      expect(duplicateCheck(fileType, duplicateIdBinary)).toBeTruthy();
     });
   });
 });
 
 describe("given a contract.json", () => {
   const fileType = JsonFiles.CONTRACT;
+  const schema = getSchema(fileType);
 
   describe("if it is invalid", () => {
-    test("validate should return true, indicating an error", () => {
-      const invalidContracts = loadJson("/data/validator/contract_01.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [invalidContracts]);
+    test("schemaErrorCheck should return true, indicating an error", () => {
+      const data = loadJson("/data/validator/contract_01.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeTruthy();
     });
   });
 
   describe("if it is valid", () => {
-    test("validate should return false, indicating an error", () => {
-      const validContracts = loadJson("/data/validator/contract_02.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [validContracts]);
+    test("schemaErrorCheck should return false, indicating an error", () => {
+      const data = loadJson("/data/validator/contract_02.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeFalsy();
+    });
+  });
+
+  describe("if there exists a duplicate id", () => {
+    test("return true", () => {
+      const duplicateIdContract = loadJson(
+        "/data/validator/contract_03.json"
+      ) as Contract[];
+
+      expect(duplicateCheck(fileType, duplicateIdContract)).toBeTruthy();
     });
   });
 });
 
 describe("given a pool.json", () => {
   const fileType = JsonFiles.POOL;
+  const schema = getSchema(fileType);
 
   describe("if it is invalid", () => {
-    test("validate should return true, indicating an error", () => {
-      const invalidPools = loadJson("/data/validator/pool_01.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [invalidPools]);
+    test("schemaErrorCheck should return true, indicating an error", () => {
+      const data = loadJson("/data/validator/pool_01.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeTruthy();
     });
   });
 
   describe("if it is valid", () => {
-    test("validate should return false, indicating an error", () => {
-      const validPools = loadJson("/data/validator/pool_02.json");
-      const enumJsonMap = toEnumJsonMap(fileType, [validPools]);
+    test("schemaErrorCheck should return false, indicating an error", () => {
+      const data = loadJson("/data/validator/pool_02.json");
+      const hasError = schemaErrorCheck(schema, data);
 
-      const hasError = validate(enumJsonMap);
       expect(hasError).toBeFalsy();
+    });
+  });
+
+  describe("if there exists a duplicate id", () => {
+    test("return true", () => {
+      const duplicateIdPool = loadJson(
+        "/data/validator/pool_03.json"
+      ) as Pool[];
+
+      expect(duplicateCheck(fileType, duplicateIdPool)).toBeTruthy();
     });
   });
 });

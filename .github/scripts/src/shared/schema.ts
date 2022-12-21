@@ -56,7 +56,6 @@ export type Asset = Static<typeof AssetType>;
 export type Binary = Static<typeof BinaryType>;
 export type Contract = Static<typeof ContractType>;
 export type Pool = Static<typeof PoolType>;
-export type LabelledType = Account | Binary | Contract;
 
 // Compiled schemas to compare against JSON
 export const AccountSchema = TypeCompiler.Compile(Type.Array(AccountType));

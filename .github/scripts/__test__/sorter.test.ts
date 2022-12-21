@@ -2,12 +2,12 @@ import { describe, expect, test } from "vitest";
 import fs from "fs";
 
 import { Account, Asset, Binary, Contract, Pool } from "../src/shared/schema";
-import { sortAsset, sortLabelledJson, sortPool } from "../src/sorter/sorter";
 import {
   orderAssetKeys,
-  orderLabelledTypeKeys,
+  orderLabelledKeys,
   orderPoolKeys,
 } from "../src/sorter/order";
+import { sortAsset, sortLabelledTypes, sortPool } from "../src/sorter/sorter";
 
 function loadJson(relativePath: string): object {
   const rawData = fs.readFileSync(__dirname + relativePath, {
@@ -27,7 +27,7 @@ describe("given an account.json", () => {
         "/data/sorter/expected/account_01.json"
       ) as Account[];
 
-      expect(orderLabelledTypeKeys(unorderedKeyAccounts)).toStrictEqual(
+      expect(orderLabelledKeys(unorderedKeyAccounts)).toStrictEqual(
         expectedAccounts
       );
     });
@@ -43,7 +43,7 @@ describe("given an account.json", () => {
         "/data/sorter/expected/account_02.json"
       ) as Account[];
 
-      expect(sortLabelledJson(shuffledAccounts)).toStrictEqual(
+      expect(sortLabelledTypes(shuffledAccounts)).toStrictEqual(
         expectedAccounts
       );
     });
@@ -91,7 +91,7 @@ describe("given an binary.json", () => {
         "/data/sorter/expected/binary_01.json"
       ) as Binary[];
 
-      expect(orderLabelledTypeKeys(unorderedKeyBinary)).toStrictEqual(
+      expect(orderLabelledKeys(unorderedKeyBinary)).toStrictEqual(
         expectedBinary
       );
     });
@@ -107,7 +107,7 @@ describe("given an binary.json", () => {
         "/data/sorter/expected/binary_02.json"
       ) as Binary[];
 
-      expect(sortLabelledJson(shuffledBinary)).toStrictEqual(expectedBinary);
+      expect(sortLabelledTypes(shuffledBinary)).toStrictEqual(expectedBinary);
     });
   });
 });
@@ -123,7 +123,7 @@ describe("given a contract.json", () => {
         "/data/sorter/expected/contract_01.json"
       ) as Contract[];
 
-      expect(orderLabelledTypeKeys(unorderedKeyContracts)).toStrictEqual(
+      expect(orderLabelledKeys(unorderedKeyContracts)).toStrictEqual(
         expectedContracts
       );
     });
@@ -139,7 +139,7 @@ describe("given a contract.json", () => {
         "/data/sorter/expected/contract_02.json"
       ) as Contract[];
 
-      expect(sortLabelledJson(shuffledContracts)).toStrictEqual(
+      expect(sortLabelledTypes(shuffledContracts)).toStrictEqual(
         expectedContracts
       );
     });
