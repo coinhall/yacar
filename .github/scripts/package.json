@@ -12,8 +12,7 @@
   "author": "yusufaine",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^8.11.2",
-    "better-ajv-errors": "^1.2.0",
+    "@sinclair/typebox": "^0.25.13",
     "glob": "^8.0.3",
     "tsx": "^3.12.1"
   },

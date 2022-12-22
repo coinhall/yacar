@@ -1,9 +1,13 @@
-import { Asset, LabelledType, Pool } from "../shared/types";
+import { Account, Asset, Binary, Contract, Pool } from "../shared/schema";
 
-export function orderLabelledTypeKeys(
-  labelledTypeData: LabelledType[]
-): LabelledType[] {
-  return labelledTypeData.map((v) => {
+export function orderLabelledKeys(
+  data: {
+    id: string;
+    entity: string;
+    label: string;
+  }[]
+) {
+  return data.map((v) => {
     const { id, entity, label } = v;
     return { id, entity, label };
   });
@@ -65,24 +69,25 @@ export function getOrderededPathJsonMap(
   const errorPaths: string[] = [];
 
   for (const [path, jsonData] of Object.entries(sortedJsonMap)) {
-    if (
-      path.endsWith("account.json") ||
-      path.endsWith("binary.json") ||
-      path.endsWith("contract.json")
-    ) {
-      orderedPathJsonMap[path] = orderLabelledTypeKeys(
-        jsonData as LabelledType[]
-      );
+    if (path.endsWith("account.json")) {
+      orderedPathJsonMap[path] = orderLabelledKeys(jsonData as Account[]);
     } else if (path.endsWith("asset.json")) {
       orderedPathJsonMap[path] = orderAssetKeys(jsonData as Asset[]);
+    } else if (path.endsWith("binary.json")) {
+      orderedPathJsonMap[path] = orderLabelledKeys(jsonData as Binary[]);
+    } else if (path.endsWith("contract.json")) {
+      orderedPathJsonMap[path] = orderLabelledKeys(jsonData as Contract[]);
     } else if (path.endsWith("pool.json")) {
       orderedPathJsonMap[path] = orderPoolKeys(jsonData as Pool[]);
     } else {
       errorPaths.push(path);
     }
   }
+
   if (errorPaths.length !== 0) {
-    console.warn(`Unable to sort:\n${errorPaths.join("\n")}`);
+    console.error(`Unable to order:\n${errorPaths.join("\n")}`);
+    process.exit(1);
   }
+
   return orderedPathJsonMap;
 }

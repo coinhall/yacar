@@ -1,5 +1,4 @@
-import Ajv from "ajv/dist/jtd";
-import betterAjvErrors from "better-ajv-errors";
+import { TypeCheck } from "@sinclair/typebox/compiler";
 
 import { JsonFiles } from "../shared/enums";
 import {
@@ -8,9 +7,9 @@ import {
   BinarySchema,
   ContractSchema,
   PoolSchema,
-} from "../shared/types";
+} from "../shared/schema";
 
-function getSchema(key: string) {
+export function getSchema(key: string): TypeCheck<any> {
   switch (key) {
     case JsonFiles.ACCOUNT:
       return AccountSchema;
@@ -28,23 +27,62 @@ function getSchema(key: string) {
   }
 }
 
-export function validate(enumJsonMap: Record<string, object[]>): boolean {
-  const ajv = new Ajv({ allErrors: true });
+/** Returns true if duplicate exists */
+export function duplicateCheck(type: string, data: { id: string }[]): boolean {
+  const uniqueIdSet = new Set<string>();
+  const duplicateIdSet = new Set<string>();
+
+  for (const { id } of data) {
+    if (uniqueIdSet.has(id)) {
+      duplicateIdSet.add(id);
+    } else {
+      uniqueIdSet.add(id);
+    }
+  }
+
+  if (duplicateIdSet.size !== 0) {
+    console.error("Duplicate(s) detected in:", type);
+    console.error([...duplicateIdSet], "\n");
+    return true;
+  }
+
+  return false;
+}
+
+/** Returns true if error exists */
+export function schemaErrorCheck(schema: TypeCheck<any>, data: object) {
+  const schemaErrors = [...schema.Errors(data)].map((v) => {
+    const { path, value, message } = v;
+    return { path, value, message };
+  });
+
+  if (schemaErrors.length !== 0) {
+    console.error(schemaErrors);
+    return true;
+  }
+
+  return false;
+}
+
+export function validate(enumJsonMap: Record<string, object[]>) {
   let hasDetectedError = false;
 
   for (const [key, jsons] of Object.entries(enumJsonMap)) {
     const schema = getSchema(key);
-    const validate = ajv.compile(schema);
     for (const json of jsons) {
-      const valid = ajv.validate(schema, json);
-      if (!valid) {
+      const hasDuplicate = duplicateCheck(key, json as { id: string }[]);
+      if (hasDuplicate) {
         hasDetectedError = true;
-        const output = betterAjvErrors(schema, json, validate.errors!, {
-          indent: 2,
-        });
-        console.error(output);
+      }
+
+      const hasSchemaERror = schemaErrorCheck(schema, json);
+      if (hasSchemaERror) {
+        hasDetectedError = true;
       }
     }
   }
-  return hasDetectedError;
+
+  if (hasDetectedError) {
+    process.exit(1);
+  }
 }
