@@ -2,13 +2,16 @@ name: CI - Format
 
 on:
   pull_request:
+  push:
+    branches: ["main"]
 
 jobs:
   repo-check:
     runs-on: ubuntu-latest
     steps:
       - name: Check if current and PR repo matches
-        run: echo '${{github.repository}} ${{ github.event.pull_request.head.repo.full_name }}'
+        run: |
+          echo '${{ github.repository }} == ${{ github.event.pull_request.head.repo.full_name }}'
 
   # format:
   #   if: github.repository == ''
