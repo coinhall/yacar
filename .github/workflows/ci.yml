@@ -1,4 +1,4 @@
-name: CI - Format
+name: CI
 
 on:
   pull_request:
@@ -6,7 +6,53 @@ on:
     branches: ["main"]
 
 jobs:
+  validate:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ".github/scripts"
+    steps:
+      - name: Checkout repository and branch
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+
+      - name: Install Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 7.17.1
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        shell: bash
+        run: |
+          echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
+
+      - name: Setup pnpm cache
+        uses: actions/cache@v3
+        with:
+          path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install prod dependencies
+        run: pnpm install --prod
+
+      - name: Validate chain data
+        run: |
+          ROOT_DIR=${{ github.workspace }} pnpm validate
+
   format:
+    needs: [validate]
     if: |
       github.repository == github.event.pull_request.head.repo.full_name || 
       github.repository != 'coinhall/yacar'
