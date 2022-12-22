@@ -11,8 +11,13 @@ jobs:
     steps:
       - name: Check if current and PR repo matches
         run: |
-          [[ "${{github.repository}}" == "${{github.event.pull_request.head.repo.full_name}}" ]] \
-          echo "1" && echo "0"
+          CURRENT=${{ github.repository }}
+          PR=${{ github.event.pull_request.head.repo.full_name }}
+          if ["$CURRENT" = "$PR"]; then
+            echo "1"
+          else 
+            echo "0"
+          fi
 
   # format:
   #   if: github.repository == ''
