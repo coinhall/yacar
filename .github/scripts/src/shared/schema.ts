@@ -42,6 +42,7 @@ const ContractType = Type.Object({
 
 const PoolType = Type.Object({
   id: Type.String(stringOptions),
+  lp_token_id: Type.String(stringOptions),
   asset_ids: Type.Tuple([
     Type.String(stringOptions),
     Type.String(stringOptions),
