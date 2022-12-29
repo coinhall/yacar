@@ -121,6 +121,8 @@ jobs:
     needs: [validate, format]
     if: |
       github.event_name == 'pull_request' && 
+      github.repository == github.event.pull_request.head.repo.full_name &&
+      github.repository == 'coinhall/yacar' &&
       github.event.pull_request.user.login == 'test'
     steps:
       - name: automerge
