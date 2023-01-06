@@ -11,7 +11,7 @@ export function sortLabelledTypes(
     return (
       a.entity.localeCompare(b.entity) ||
       a.label.localeCompare(b.label) ||
-      a.id.localeCompare(b.id, undefined, { numeric: true })
+      a.id.localeCompare(b.id)
     );
   });
 }
@@ -36,6 +36,12 @@ export function sortAsset(jsonData: Asset[]): Asset[] {
   return [...withEntities, ...withoutEntities];
 }
 
+export function sortBinary(jsonData: Binary[]): Binary[] {
+  return jsonData.sort((a, b) => {
+    return a.id.localeCompare(b.id, undefined, { numeric: true });
+  });
+}
+
 export function sortPool(jsonData: Pool[]): Pool[] {
   return jsonData.sort((a, b) => {
     return (
@@ -58,7 +64,7 @@ export function getSortedPathJsonMap(
     } else if (path.endsWith("asset.json")) {
       sortedPathJsonMap[path] = sortAsset(jsonData as Asset[]);
     } else if (path.endsWith("binary.json")) {
-      sortedPathJsonMap[path] = sortLabelledTypes(jsonData as Binary[]);
+      sortedPathJsonMap[path] = sortBinary(jsonData as Binary[]);
     } else if (path.endsWith("contract.json")) {
       sortedPathJsonMap[path] = sortLabelledTypes(jsonData as Contract[]);
     } else if (path.endsWith("pool.json")) {
