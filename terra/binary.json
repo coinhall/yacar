@@ -1,5 +1,10 @@
 [
   {
+    "id": "40",
+    "entity": "Phoenix",
+    "label": "Liquidity Pool"
+  },
+  {
     "id": "69",
     "entity": "Astroport",
     "label": "CW20 Token"
@@ -7,11 +12,6 @@
   {
     "id": "71",
     "entity": "Astroport",
-    "label": "Liquidity Pool"
-  },
-  {
-    "id": "40",
-    "entity": "Phoenix",
     "label": "Liquidity Pool"
   },
   {
@@ -23,5 +23,25 @@
     "id": "752",
     "entity": "White Whale",
     "label": "Liquidity Pool"
+  },
+  {
+    "id": "895",
+    "entity": "Edge",
+    "label": "eToken"
+  },
+  {
+    "id": "896",
+    "entity": "Edge",
+    "label": "Pool"
+  },
+  {
+    "id": "897",
+    "entity": "Edge",
+    "label": "Oracle"
+  },
+  {
+    "id": "898",
+    "entity": "Edge",
+    "label": "Liquidator"
   }
 ]
