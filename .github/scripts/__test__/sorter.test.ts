@@ -7,7 +7,12 @@ import {
   orderLabelledKeys,
   orderPoolKeys,
 } from "../src/sorter/order";
-import { sortAsset, sortLabelledTypes, sortPool } from "../src/sorter/sorter";
+import {
+  sortAsset,
+  sortBinary,
+  sortLabelledTypes,
+  sortPool,
+} from "../src/sorter/sorter";
 
 function loadJson(relativePath: string): object {
   const rawData = fs.readFileSync(__dirname + relativePath, {
@@ -107,7 +112,7 @@ describe("given an binary.json", () => {
         "/data/sorter/expected/binary_02.json"
       ) as Binary[];
 
-      expect(sortLabelledTypes(shuffledBinary)).toStrictEqual(expectedBinary);
+      expect(sortBinary(shuffledBinary)).toStrictEqual(expectedBinary);
     });
   });
 });
