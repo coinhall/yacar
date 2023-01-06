@@ -55,11 +55,6 @@
     "label": "xASTRO Staking"
   },
   {
-    "id": "terra1578x6m86q623uajchjdxsxc7v6f68k22ggzcnctraqc7p85s99kqja53sx",
-    "entity": "Edge",
-    "label": "Pool"
-  },
-  {
     "id": "terra1fhw3z8ypqde9stafphg3w2hld98sp3hcas9hgsz6wqjxlvedrc5sprswnq",
     "entity": "Edge",
     "label": "Liquidator"
@@ -68,6 +63,11 @@
     "id": "terra1lpxzrpzkfrzfuz8z6svqly0szpz98aj9c6z77wz5lmchnk7zmp2q2enyxv",
     "entity": "Edge",
     "label": "Oracle"
+  },
+  {
+    "id": "terra1578x6m86q623uajchjdxsxc7v6f68k22ggzcnctraqc7p85s99kqja53sx",
+    "entity": "Edge",
+    "label": "Pool"
   },
   {
     "id": "terra1e3nqr8vwu32pzgasraud9avpwdd8phmqgre5kpwlytgedj2emkkq3l67hy",
@@ -99,26 +99,10 @@
     "entity": "Random Earth",
     "label": "Marketplace"
   },
-
   {
-    "id": "terra1qczgczguzmxpsqfwlcaqm5hpy3jrkgrkkkcdxhd4uf28t8l8j6qsgtd863",
+    "id": "terra1vf9ceekuxx8kycm7yv6hs96hgwsmrzt4la6s84skrgvfu7t09huqqdg09d",
     "entity": "Spectrum",
-    "label": "Farm (LUNA-LunaX)"
-  },
-  {
-    "id": "terra1erm54gtdtfqv2s4c7ple3kmret7eecuj02nk5w8h08jjnenjffzsynsp0u",
-    "entity": "Spectrum",
-    "label": "Farm (LUNA-axlUSDC)"
-  },
-  {
-    "id": "terra144mkz6p3mmnuqaenu73pg4jwayr3m28xzhaxedlfwfnyke45w6yqvf9ed6",
-    "entity": "Spectrum",
-    "label": "Farm (ASTRO-axlUSDC)"
-  },
-  {
-    "id": "terra1udwqynsmrme00ksrakkyerrfjdkw9p05557yrrw6ca6x94uuj2zs0vpqt2",
-    "entity": "Spectrum",
-    "label": "Farm (LUNA-TPT)"
+    "label": "Astroport Generator Proxy"
   },
   {
     "id": "terra1jjajqlvjycmze540pzqq2wekqtt6tkn3d9t3muwfelqz43ewwdkskqn0tx",
@@ -126,9 +110,24 @@
     "label": "Compound Proxy (ASTRO-axlUSDC)"
   },
   {
-    "id": "terra1vf9ceekuxx8kycm7yv6hs96hgwsmrzt4la6s84skrgvfu7t09huqqdg09d",
+    "id": "terra144mkz6p3mmnuqaenu73pg4jwayr3m28xzhaxedlfwfnyke45w6yqvf9ed6",
     "entity": "Spectrum",
-    "label": "Astroport Generator Proxy"
+    "label": "Farm (ASTRO-axlUSDC)"
+  },
+  {
+    "id": "terra1erm54gtdtfqv2s4c7ple3kmret7eecuj02nk5w8h08jjnenjffzsynsp0u",
+    "entity": "Spectrum",
+    "label": "Farm (LUNA-axlUSDC)"
+  },
+  {
+    "id": "terra1qczgczguzmxpsqfwlcaqm5hpy3jrkgrkkkcdxhd4uf28t8l8j6qsgtd863",
+    "entity": "Spectrum",
+    "label": "Farm (LUNA-LunaX)"
+  },
+  {
+    "id": "terra1udwqynsmrme00ksrakkyerrfjdkw9p05557yrrw6ca6x94uuj2zs0vpqt2",
+    "entity": "Spectrum",
+    "label": "Farm (LUNA-TPT)"
   },
   {
     "id": "terra10y08s37a8uralncpqredva58e4aqfxc5kpz9yaf5rv48rzqtvsmqpy0f5h",
