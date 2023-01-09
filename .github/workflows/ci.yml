@@ -127,7 +127,7 @@ jobs:
         uses: pascalgn/automerge-action@v0.15.5
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          MERGE_FILTER_AUTHOR: "yacar-bot[bot]"
+          MERGE_FILTER_AUTHOR: "yacarbot[bot]"
           MERGE_LABELS: "status: done"
           MERGE_METHOD: "squash"
           UPDATE_METHOD: "rebase"
