@@ -121,14 +121,13 @@ jobs:
     needs: [validate, format]
     if: |
       github.event_name == 'pull_request' && 
-      github.repository == github.event.pull_request.head.repo.full_name &&
-      github.repository == 'coinhall/yacar' &&
-      github.event.pull_request.user.login == 'test'
+      github.repository == 'coinhall/yacar'
     steps:
-      - name: automerge
+      - name: auto-merge
         uses: pascalgn/automerge-action@v0.15.5
         env:
-          GITHUB_TOKEN: "${{ secrets.MERGE_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_FILTER_AUTHOR: "yacar-bot[bot]"
           MERGE_LABELS: "status: done"
           MERGE_METHOD: "squash"
           UPDATE_METHOD: "rebase"
