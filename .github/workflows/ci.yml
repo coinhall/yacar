@@ -55,8 +55,7 @@ jobs:
     needs: [validate]
     if: |
       github.repository == github.event.pull_request.head.repo.full_name || 
-      github.repository != 'coinhall/yacar' ||
-      github.ref == 'refs/heads/main'
+      github.repository != 'coinhall/yacar'
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -116,3 +115,19 @@ jobs:
           git add .
           git commit -m "[bot] auto-format files"
           git push
+
+  automerge:
+    runs-on: ubuntu-latest
+    needs: [validate, format]
+    if: |
+      github.event_name == 'pull_request' && 
+      github.repository == 'coinhall/yacar'
+    steps:
+      - name: auto-merge
+        uses: pascalgn/automerge-action@v0.15.5
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_FILTER_AUTHOR: "yacarbot[bot]"
+          MERGE_LABELS: "status: done"
+          MERGE_METHOD: "squash"
+          UPDATE_METHOD: "rebase"
