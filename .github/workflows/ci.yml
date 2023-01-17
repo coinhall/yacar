@@ -130,4 +130,5 @@ jobs:
           MERGE_FILTER_AUTHOR: "yacarbot[bot]"
           MERGE_LABELS: "status: done"
           MERGE_METHOD: "squash"
+          UPDATE_LABELS: "status: done"
           UPDATE_METHOD: "rebase"
