@@ -1110,6 +1110,16 @@
     "type": "xyk"
   },
   {
+    "id": "terra1vpd0qgmmg0euxdzrhdr3hqp97h90yhe0yzckflksf9fm73s597rsd4nalx",
+    "lp_token_id": "terra1l3r2z220fs6hfz8var4ms8w0tlxhw7aqdulslvgz9ur9g3g7mn9qd9mptr",
+    "asset_ids": [
+      "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3",
+      "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4"
+    ],
+    "dex": "Astroport",
+    "type": "xyk"
+  },
+  {
     "id": "terra1w579ysjvpx7xxhckxewk8sykxz70gm48wpcuruenl29rhe6p6raslhj0m6",
     "lp_token_id": "terra16esjk7qqlgh8w7p2a58yxhgkfk4ykv72p7ha056zul58adzjm6msvc674t",
     "asset_ids": [
@@ -1947,16 +1957,6 @@
       "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh"
     ],
     "dex": "White Whale",
-    "type": "xyk"
-  },
-  {
-    "id": "terra1vpd0qgmmg0euxdzrhdr3hqp97h90yhe0yzckflksf9fm73s597rsd4nalx",
-    "lp_token_id": "terra1l3r2z220fs6hfz8var4ms8w0tlxhw7aqdulslvgz9ur9g3g7mn9qd9mptr",
-    "asset_ids": [
-      "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3",
-      "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4"
-    ],
-    "dex": "Astroport",
     "type": "xyk"
   }
 ]
