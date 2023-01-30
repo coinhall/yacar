@@ -39,7 +39,7 @@ describe("given an account.json", () => {
   });
 
   describe("if the objects are out of order", () => {
-    test("objects should be sorted (id, entity, label)", () => {
+    test("objects should be sorted (entity, label, id)", () => {
       const shuffledAccounts = loadJson(
         "/data/sorter/raw/account_02.json"
       ) as Account[];
@@ -103,7 +103,7 @@ describe("given an binary.json", () => {
   });
 
   describe("if the objects are out of order", () => {
-    test("objects should be sorted (id, entity, label)", () => {
+    test("objects should be sorted (id)", () => {
       const shuffledBinary = loadJson(
         "/data/sorter/raw/binary_02.json"
       ) as Binary[];

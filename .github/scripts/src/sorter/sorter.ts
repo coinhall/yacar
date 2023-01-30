@@ -9,9 +9,9 @@ export function sortLabelledTypes(
 ) {
   return data.sort((a, b) => {
     return (
-      a.entity.localeCompare(b.entity) ||
-      a.label.localeCompare(b.label) ||
-      a.id.localeCompare(b.id)
+      a.entity.localeCompare(b.entity, "en-US") ||
+      a.label.localeCompare(b.label, "en-US") ||
+      a.id.localeCompare(b.id, "en-US")
     );
   });
 }
@@ -21,16 +21,19 @@ export function sortAsset(jsonData: Asset[]): Asset[] {
     .filter((v) => v.entity)
     .sort((a, b) => {
       return (
-        a.entity!.localeCompare(b.entity!) ||
-        a.name.localeCompare(b.name) ||
-        a.id.localeCompare(b.id)
+        a.entity!.localeCompare(b.entity!, "en-US") ||
+        a.name.localeCompare(b.name, "en-US") ||
+        a.id.localeCompare(b.id, "en-US")
       );
     });
 
   const withoutEntities = jsonData
     .filter((v) => !v.entity)
     .sort((a, b) => {
-      return a.name.localeCompare(b.name) || a.id.localeCompare(b.id);
+      return (
+        a.name.localeCompare(b.name, "en-US") ||
+        a.id.localeCompare(b.id, "en-US")
+      );
     });
 
   return [...withEntities, ...withoutEntities];
@@ -38,16 +41,16 @@ export function sortAsset(jsonData: Asset[]): Asset[] {
 
 export function sortBinary(jsonData: Binary[]): Binary[] {
   return jsonData.sort((a, b) => {
-    return a.id.localeCompare(b.id, undefined, { numeric: true });
+    return a.id.localeCompare(b.id, "en-US", { numeric: true });
   });
 }
 
 export function sortPool(jsonData: Pool[]): Pool[] {
   return jsonData.sort((a, b) => {
     return (
-      a.dex.localeCompare(b.dex) ||
-      a.type.localeCompare(b.type) ||
-      a.id.localeCompare(b.id)
+      a.dex.localeCompare(b.dex, "en-US") ||
+      a.type.localeCompare(b.type, "en-US") ||
+      a.id.localeCompare(b.id, "en-US")
     );
   });
 }
