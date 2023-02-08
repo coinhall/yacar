@@ -1,15 +1,24 @@
 import { describe, expect, test } from "vitest";
 import fs from "fs";
 
-import { Account, Asset, Binary, Contract, Pool } from "../src/shared/schema";
+import {
+  Account,
+  Asset,
+  Binary,
+  Contract,
+  Entity,
+  Pool,
+} from "../src/shared/schema";
 import {
   orderAssetKeys,
+  orderEntityKeys,
   orderLabelledKeys,
   orderPoolKeys,
 } from "../src/sorter/order";
 import {
   sortAsset,
   sortBinary,
+  sortEntity,
   sortLabelledTypes,
   sortPool,
 } from "../src/sorter/sorter";
@@ -147,6 +156,36 @@ describe("given a contract.json", () => {
       expect(sortLabelledTypes(shuffledContracts)).toStrictEqual(
         expectedContracts
       );
+    });
+  });
+});
+
+describe("given an entity.json", () => {
+  describe("if the object's keys are out of order ", () => {
+    test("sort the object's keys", () => {
+      const unorderedKeyEntity = loadJson(
+        "/data/sorter/raw/entity_01.json"
+      ) as Entity[];
+
+      const expectedEntity = loadJson(
+        "/data/sorter/expected/entity_01.json"
+      ) as Entity[];
+
+      expect(orderEntityKeys(unorderedKeyEntity)).toStrictEqual(expectedEntity);
+    });
+  });
+
+  describe("if the objects are out of order", () => {
+    test("objects should be sorted", () => {
+      const shuffledEntities = loadJson(
+        "/data/sorter/raw/entity_02.json"
+      ) as Entity[];
+
+      const expectedEntities = loadJson(
+        "/data/sorter/expected/entity_02.json"
+      ) as Entity[];
+
+      expect(sortEntity(shuffledEntities)).toStrictEqual(expectedEntities);
     });
   });
 });
