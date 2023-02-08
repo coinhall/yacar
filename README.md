@@ -8,6 +8,7 @@
   - [`contract.json`](#contractjson)
   - [`binary.json`](#binaryjson)
   - [`asset.json`](#assetjson)
+  - [`entity.json`](#entityjson)
   - [`pool.json`](#pooljson)
 - [Contributing](#contributing)
 
@@ -86,6 +87,22 @@ type Asset = {
   coinmarketcap?: string | undefined;
   coingecko?: string | undefined;
 };
+```
+
+### `entity.json`
+
+Contains all social information of an project. This file is updated manually.
+
+```ts
+type Entity = {
+  entity: string;
+  website?: string | undefined;
+  telegram?: string | undefined;
+  twitter?: string | undefined;
+  discord?: string | undefined;
+  coinmarketcap?: string | undefined;
+  coingecko?: string | undefined;
+}
 ```
 
 ### `pool.json`

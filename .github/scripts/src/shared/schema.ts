@@ -40,6 +40,16 @@ const ContractType = Type.Object({
   label: Type.String(),
 });
 
+const EntityType = Type.Object({
+  entity: Type.String(stringOptions),
+  website: Type.Optional(Type.String()),
+  telegram: Type.Optional(Type.String()),
+  twitter: Type.Optional(Type.String()),
+  discord: Type.Optional(Type.String()),
+  coinmarketcap: Type.Optional(Type.String()),
+  coingecko: Type.Optional(Type.String()),
+});
+
 const PoolType = Type.Object({
   id: Type.String(stringOptions),
   lp_token_id: Type.String(stringOptions),
@@ -56,6 +66,7 @@ export type Account = Static<typeof AccountType>;
 export type Asset = Static<typeof AssetType>;
 export type Binary = Static<typeof BinaryType>;
 export type Contract = Static<typeof ContractType>;
+export type Entity = Static<typeof EntityType>;
 export type Pool = Static<typeof PoolType>;
 
 // Compiled schemas to compare against JSON
@@ -63,4 +74,5 @@ export const AccountSchema = TypeCompiler.Compile(Type.Array(AccountType));
 export const AssetSchema = TypeCompiler.Compile(Type.Array(AssetType));
 export const BinarySchema = TypeCompiler.Compile(Type.Array(BinaryType));
 export const ContractSchema = TypeCompiler.Compile(Type.Array(ContractType));
+export const EntitySchema = TypeCompiler.Compile(Type.Array(EntityType));
 export const PoolSchema = TypeCompiler.Compile(Type.Array(PoolType));

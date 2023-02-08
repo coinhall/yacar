@@ -1,4 +1,11 @@
-import { Account, Asset, Binary, Contract, Pool } from "../shared/schema";
+import {
+  Account,
+  Asset,
+  Binary,
+  Contract,
+  Entity,
+  Pool,
+} from "../shared/schema";
 
 export function orderLabelledKeys(
   data: {
@@ -55,6 +62,36 @@ export function orderAssetKeys(assetData: Asset[]): Asset[] {
   });
 }
 
+export function orderEntityKeys(entityData: Entity[]): Entity[] {
+  return entityData.map((v) => {
+    const {
+      entity,
+      website,
+      telegram,
+      twitter,
+      discord,
+      coinmarketcap,
+      coingecko,
+    } = v;
+
+    const sortedEntity = {
+      entity,
+      website,
+      telegram,
+      twitter,
+      discord,
+      coinmarketcap,
+      coingecko,
+    };
+
+    const filteredEntity = Object.fromEntries(
+      Object.entries(sortedEntity).filter(([_key, value]) => value != null)
+    );
+
+    return filteredEntity as Entity;
+  });
+}
+
 export function orderPoolKeys(poolData: Pool[]): Pool[] {
   return poolData.map((v) => {
     const { id, lp_token_id, asset_ids, dex, type } = v;
@@ -77,6 +114,8 @@ export function getOrderededPathJsonMap(
       orderedPathJsonMap[path] = orderLabelledKeys(jsonData as Binary[]);
     } else if (path.endsWith("contract.json")) {
       orderedPathJsonMap[path] = orderLabelledKeys(jsonData as Contract[]);
+    } else if (path.endsWith("entity.json")) {
+      orderedPathJsonMap[path] = orderEntityKeys(jsonData as Entity[]);
     } else if (path.endsWith("pool.json")) {
       orderedPathJsonMap[path] = orderPoolKeys(jsonData as Pool[]);
     } else {

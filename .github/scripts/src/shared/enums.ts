@@ -8,5 +8,6 @@ export enum JsonFiles {
   ASSET = "asset",
   BINARY = "binary",
   CONTRACT = "contract",
+  ENTITY = "entity",
   POOL = "pool",
 }

@@ -1,4 +1,11 @@
-import { Account, Asset, Binary, Contract, Pool } from "../shared/schema";
+import {
+  Account,
+  Asset,
+  Binary,
+  Contract,
+  Entity,
+  Pool,
+} from "../shared/schema";
 
 export function sortLabelledTypes(
   data: {
@@ -45,6 +52,12 @@ export function sortBinary(jsonData: Binary[]): Binary[] {
   });
 }
 
+export function sortEntity(jsonData: Entity[]): Entity[] {
+  return jsonData.sort((a, b) => {
+    return a.entity.localeCompare(b.entity, "en-US");
+  });
+}
+
 export function sortPool(jsonData: Pool[]): Pool[] {
   return jsonData.sort((a, b) => {
     return (
@@ -70,6 +83,8 @@ export function getSortedPathJsonMap(
       sortedPathJsonMap[path] = sortBinary(jsonData as Binary[]);
     } else if (path.endsWith("contract.json")) {
       sortedPathJsonMap[path] = sortLabelledTypes(jsonData as Contract[]);
+    } else if (path.endsWith("entity.json")) {
+      sortedPathJsonMap[path] = sortEntity(jsonData as Entity[]);
     } else if (path.endsWith("pool.json")) {
       sortedPathJsonMap[path] = sortPool(jsonData as Pool[]);
     } else {
