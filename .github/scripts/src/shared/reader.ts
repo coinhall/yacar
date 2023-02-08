@@ -23,10 +23,12 @@ function fileEnumFromPath(path: string): JsonFiles {
     return JsonFiles.BINARY;
   } else if (path.endsWith("contract.json")) {
     return JsonFiles.CONTRACT;
+  } else if (path.endsWith("entity.json")) {
+    return JsonFiles.ENTITY;
   } else if (path.endsWith("pool.json")) {
     return JsonFiles.POOL;
   } else {
-    console.error("Unkown file detected, unable to provide file enum");
+    console.error("Unknown file detected, unable to provide file enum");
     process.exit(1);
   }
 }
