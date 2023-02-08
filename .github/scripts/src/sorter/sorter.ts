@@ -54,7 +54,7 @@ export function sortBinary(jsonData: Binary[]): Binary[] {
 
 export function sortEntity(jsonData: Entity[]): Entity[] {
   return jsonData.sort((a, b) => {
-    return a.entity.localeCompare(b.entity, "en-US");
+    return a.name.localeCompare(b.name, "en-US");
   });
 }
 

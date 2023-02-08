@@ -40,7 +40,7 @@ export function duplicateCheck(type: string, data: object): boolean {
     case JsonFiles.POOL:
       return duplicateIdCheck(type, data as { id: string }[]);
     case JsonFiles.ENTITY:
-      return duplicateEntityCheck(type, data as { entity: string }[]);
+      return duplicateNameCheck(type, data as { name: string }[]);
     default:
       console.error(`duplicateCheck cannot run on "${type}"!`);
       process.exit(1);
@@ -67,24 +67,22 @@ function duplicateIdCheck(type: string, data: { id: string }[]): boolean {
 
   return false;
 }
-function duplicateEntityCheck(
-  type: string,
-  data: { entity: string }[]
-): boolean {
-  const uniqueEntitySet = new Set<string>();
-  const duplicateEntity = new Set<string>();
 
-  for (const { entity } of data) {
-    if (uniqueEntitySet.has(entity)) {
-      duplicateEntity.add(entity);
+function duplicateNameCheck(type: string, data: { name: string }[]): boolean {
+  const uniqueNameSet = new Set<string>();
+  const duplicateName = new Set<string>();
+
+  for (const { name } of data) {
+    if (uniqueNameSet.has(name)) {
+      duplicateName.add(name);
     } else {
-      uniqueEntitySet.add(entity);
+      uniqueNameSet.add(name);
     }
   }
 
-  if (duplicateEntity.size !== 0) {
+  if (duplicateName.size !== 0) {
     console.error("Duplicate(s) detected in:", type);
-    console.error([...duplicateEntity], "\n");
+    console.error([...duplicateName], "\n");
     return true;
   }
 

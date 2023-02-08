@@ -65,7 +65,7 @@ export function orderAssetKeys(assetData: Asset[]): Asset[] {
 export function orderEntityKeys(entityData: Entity[]): Entity[] {
   return entityData.map((v) => {
     const {
-      entity,
+      name,
       website,
       telegram,
       twitter,
@@ -75,7 +75,7 @@ export function orderEntityKeys(entityData: Entity[]): Entity[] {
     } = v;
 
     const sortedEntity = {
-      entity,
+      name,
       website,
       telegram,
       twitter,

@@ -91,11 +91,11 @@ type Asset = {
 
 ### `entity.json`
 
-Contains all social information of an project. This file is updated manually.
+Contains all social information of a project. This file is updated manually.
 
 ```ts
 type Entity = {
-  entity: string;
+  name: string;
   website?: string | undefined;
   telegram?: string | undefined;
   twitter?: string | undefined;

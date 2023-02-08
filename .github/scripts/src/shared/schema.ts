@@ -41,7 +41,7 @@ const ContractType = Type.Object({
 });
 
 const EntityType = Type.Object({
-  entity: Type.String(stringOptions),
+  name: Type.String(stringOptions),
   website: Type.Optional(Type.String()),
   telegram: Type.Optional(Type.String()),
   twitter: Type.Optional(Type.String()),
