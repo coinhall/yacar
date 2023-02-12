@@ -1,5 +1,6 @@
 export enum ChainDirectories {
   OSMOSIS = "osmosis",
+  JUNO = "juno",
   TERRA = "terra",
 }
 
