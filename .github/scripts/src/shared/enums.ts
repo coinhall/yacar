@@ -3,6 +3,7 @@ export enum ChainDirectories {
   JUNO = "juno",
   KUIJIRA = "kujira",
   TERRA = "terra",
+  TERRACLASSIC = "terraclassic",
 }
 
 export enum JsonFiles {
