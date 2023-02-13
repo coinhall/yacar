@@ -22,21 +22,7 @@ export function orderLabelledKeys(
 
 export function orderAssetKeys(assetData: Asset[]): Asset[] {
   return assetData.map((v) => {
-    const {
-      id,
-      entity,
-      name,
-      symbol,
-      decimals,
-      circ_supply_api,
-      icon,
-      website,
-      telegram,
-      twitter,
-      discord,
-      coinmarketcap,
-      coingecko,
-    } = v;
+    const { id, entity, name, symbol, decimals, circ_supply_api, icon } = v;
 
     const sortedAsset: Asset = {
       id,
@@ -46,12 +32,6 @@ export function orderAssetKeys(assetData: Asset[]): Asset[] {
       decimals,
       circ_supply_api,
       icon,
-      website,
-      telegram,
-      twitter,
-      discord,
-      coinmarketcap,
-      coingecko,
     };
 
     const filteredAsset = Object.fromEntries(

@@ -72,7 +72,7 @@ describe("given an asset.json", () => {
       ) as Asset[];
 
       const expectedAssets = loadJson(
-        "/data/sorter/raw/asset_01.json"
+        "/data/sorter/expected/asset_01.json"
       ) as Asset[];
 
       expect(orderAssetKeys(unorderedKeyAssets)).toStrictEqual(expectedAssets);
