@@ -20,12 +20,6 @@ const AssetType = Type.Object({
   decimals: Type.RegEx(integerRegEx),
   circ_supply_api: Type.Optional(Type.String()),
   icon: Type.Optional(Type.String()),
-  website: Type.Optional(Type.String()),
-  telegram: Type.Optional(Type.String()),
-  twitter: Type.Optional(Type.String()),
-  discord: Type.Optional(Type.String()),
-  coinmarketcap: Type.Optional(Type.String()),
-  coingecko: Type.Optional(Type.String()),
 });
 
 const BinaryType = Type.Object({
