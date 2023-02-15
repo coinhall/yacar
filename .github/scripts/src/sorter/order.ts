@@ -30,8 +30,8 @@ export function orderAssetKeys(assetData: Asset[]): Asset[] {
       decimals,
       circ_supply_api,
       icon,
-      coingecko,
       coinmarketcap,
+      coingecko,
     } = v;
 
     const sortedAsset: Asset = {
@@ -42,8 +42,8 @@ export function orderAssetKeys(assetData: Asset[]): Asset[] {
       decimals,
       circ_supply_api,
       icon,
-      coingecko,
       coinmarketcap,
+      coingecko,
     };
 
     const filteredAsset = Object.fromEntries(
