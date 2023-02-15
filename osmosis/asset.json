@@ -1,5 +1,133 @@
 [
   {
+    "id": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
+    "entity": "Akash Network",
+    "name": "Akash Network",
+    "symbol": "AKT",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg"
+  },
+  {
+    "id": "ibc/384E5DD50BDE042E1AAF51F312B55F08F95BC985C503880189258B4D9374CBBE",
+    "entity": "Axelar",
+    "name": "Aave",
+    "symbol": "AAVE.axl",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/aave.svg"
+  },
+  {
+    "id": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
+    "entity": "Axelar",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/axl.svg"
+  },
+  {
+    "id": "ibc/6329DD8CF31A334DD5BE3F68C846C9FE313281362B37686A62343BAC1EB1546D",
+    "entity": "Axelar",
+    "name": "Binance USD",
+    "symbol": "BUSD.axl",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png"
+  },
+  {
+    "id": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
+    "entity": "Axelar",
+    "name": "Chainlink",
+    "symbol": "LINK.axl",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axllink.svg"
+  },
+  {
+    "id": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
+    "entity": "Axelar",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI.axl",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axldai.svg"
+  },
+  {
+    "id": "ibc/3FF92D26B407FD61AE95D975712A7C319CDE28DE4D80BDC9978D935932B991D7",
+    "entity": "Axelar",
+    "name": "DOT",
+    "symbol": "DOT.axl",
+    "decimals": "10",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axldot.svg"
+  },
+  {
+    "id": "ibc/0E43EDE2E2A3AFA36D0CD38BDDC0B49FECA64FA426A82E102F304E430ECF46EE",
+    "entity": "Axelar",
+    "name": "Frax",
+    "symbol": "FRAX.axl",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlfrax.svg"
+  },
+  {
+    "id": "ibc/D27DDDF34BB47E5D5A570742CC667DE53277867116CCCA341F27785E899A70F3",
+    "entity": "Axelar",
+    "name": "Maker",
+    "symbol": "MKR.axl",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlmkr.svg"
+  },
+  {
+    "id": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
+    "entity": "Axelar",
+    "name": "Tether USD",
+    "symbol": "USDT.axl",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdt.svg"
+  },
+  {
+    "id": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
+    "entity": "Axelar",
+    "name": "USD Coin",
+    "symbol": "USDC.axl",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg"
+  },
+  {
+    "id": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
+    "entity": "Axelar",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC.axl",
+    "decimals": "8",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlwbtc.png"
+  },
+  {
+    "id": "ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D",
+    "entity": "Axelar",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB.axl",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchainoonbeam/images/wbnb.svg"
+  },
+  {
+    "id": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
+    "entity": "Axelar",
+    "name": "Wrapped Ether",
+    "symbol": "WETH.axl",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlweth.png"
+  },
+  {
+    "id": "ibc/1E26DB0E5122AED464D98462BD384FCCB595732A66B3970AE6CE0B58BAE0FC49",
+    "entity": "Axelar",
+    "name": "Wrapped GLMR",
+    "symbol": "WGLMR.axl",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.svg"
+  },
+  {
+    "id": "ibc/AB589511ED0DD5FA56171A39978AFBF1371DB986EC1C3526CE138A16377E39BB",
+    "entity": "Axelar",
+    "name": "Wrapped Matic",
+    "symbol": "WMATIC.axl",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wmatic-wei L@3x.png"
+  },
+  {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
     "entity": "Cosmos",
     "name": "Cosmos",
@@ -16,12 +144,84 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.svg"
   },
   {
+    "id": "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59",
+    "entity": "e-Money",
+    "name": "e-Money",
+    "symbol": "NGM",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.svg"
+  },
+  {
+    "id": "ibc/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F",
+    "entity": "e-Money",
+    "name": "e-Money EUR",
+    "symbol": "EEUR",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/eeur.svg"
+  },
+  {
+    "id": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A",
+    "entity": "Evmos",
+    "name": "Evmos",
+    "symbol": "EVMOS",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg"
+  },
+  {
+    "id": "ibc/F292A17CF920E3462C816CBE6B042E779F676CAB59096904C4C1C966413E3DF5",
+    "entity": "Gravity Bridge",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI.grv",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gdai.svg"
+  },
+  {
     "id": "ibc/E97634A40119F1898989C2A23224ED83FDD0A57EA46B3A094E287288D1672B44",
     "entity": "Gravity Bridge",
     "name": "Graviton",
     "symbol": "GRAV",
     "decimals": "6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.svg"
+  },
+  {
+    "id": "ibc/71B441E27F1BBB44DD0891BCD370C2794D404D60A4FFE5AECCD9B1E28BC89805",
+    "entity": "Gravity Bridge",
+    "name": "Tether USD",
+    "symbol": "USDT.grv",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gusdt.svg"
+  },
+  {
+    "id": "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E",
+    "entity": "Gravity Bridge",
+    "name": "USD Coin",
+    "symbol": "USDC.grv",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gusdc.svg"
+  },
+  {
+    "id": "ibc/C9B0D48FD2C5B91135F118FF2484551888966590D7BDC20F6A87308DBA670796",
+    "entity": "Gravity Bridge",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC.grv",
+    "decimals": "8",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gwbtc.png"
+  },
+  {
+    "id": "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5",
+    "entity": "Gravity Bridge",
+    "name": "Wrapped Ethereum",
+    "symbol": "WETH.grv",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gweth.png"
+  },
+  {
+    "id": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
+    "entity": "Injective Protocol",
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
     "id": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
@@ -48,12 +248,52 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/usk.png"
   },
   {
+    "id": "ibc/297C64CC42B5A8D8F82FE2EBE208A6FE8F94B86037FA28C4529A23701C228F7A",
+    "entity": "Neta",
+    "name": "Neta",
+    "symbol": "NETA",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/neta.png"
+  },
+  {
+    "id": "uion",
+    "entity": "Osmosis",
+    "name": "Ion",
+    "symbol": "ION",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.svg"
+  },
+  {
     "id": "uosmo",
     "entity": "Osmosis",
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg"
+  },
+  {
+    "id": "ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293",
+    "entity": "Persistence",
+    "name": "Persistence",
+    "symbol": "XPRT",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg"
+  },
+  {
+    "id": "ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961",
+    "entity": "PSTAKE",
+    "name": "PSTAKE",
+    "symbol": "PSTAKE",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/pstake.svg"
+  },
+  {
+    "id": "ibc/46C83BB054E12E189882B5284542DB605D94C99827E367C9192CF0579CD5BC83",
+    "entity": "Quicksilver",
+    "name": "Quicksilver Liquid Staked STARS",
+    "symbol": "qSTARS",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qstars.svg"
   },
   {
     "id": "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A",
@@ -64,6 +304,94 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg"
   },
   {
+    "id": "ibc/8318FD63C42203D16DDCAF49FE10E8590669B3219A3E87676AC9DA50722687FB",
+    "entity": "Sifchain",
+    "name": "Sifchain Rowan",
+    "symbol": "ROWAN",
+    "decimals": "18",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sifchain/images/rowan.svg"
+  },
+  {
+    "id": "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E",
+    "entity": "Sommelier",
+    "name": "Sommelier",
+    "symbol": "SOMM",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.svg"
+  },
+  {
+    "id": "ibc/C2DF5C3949CA835B221C575625991F09BAB4E48FB9C11A4EE357194F736111E3",
+    "entity": "StakeEasy",
+    "name": "StakeEasy bJUNO",
+    "symbol": "BJUNO",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/bjuno.svg"
+  },
+  {
+    "id": "ibc/18A676A074F73B9B42DA4F9DFC8E5AEF334C9A6636DDEC8D34682F52F1DECDF6",
+    "entity": "StakeEasy",
+    "name": "StakeEasy SEASY",
+    "symbol": "SEASY",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/seasy.svg"
+  },
+  {
+    "id": "ibc/C6B6BFCB6EE49A7CAB1A7E7B021DE35B99D525AC660844952F0F6C78DCB2A57B",
+    "entity": "StakeEasy",
+    "name": "StakeEasy seJUNO",
+    "symbol": "SEJUNO",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/sejuno.svg"
+  },
+  {
+    "id": "ibc/5DD1F95ED336014D00CE2520977EC71566D282F9749170ADC83A392E0EA7426A",
+    "entity": "StakeEasy",
+    "name": "Stride Staked Stars",
+    "symbol": "stSTARS",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.svg"
+  },
+  {
+    "id": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
+    "entity": "Stargaze",
+    "name": "Stargaze",
+    "symbol": "STARS",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png"
+  },
+  {
+    "id": "ibc/C140AFD542AE77BD7DCC83F13FDD8C5E5BB8C4929785E6EC2F4C636F98F17901",
+    "entity": "Stride",
+    "name": "stATOM",
+    "symbol": "stATOM",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg"
+  },
+  {
+    "id": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
+    "entity": "Stride",
+    "name": "Stride",
+    "symbol": "STRD",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg"
+  },
+  {
+    "id": "ibc/84502A75BCA4A5F68D464C00B3F610CE2585847D59B52E5FFB7C3C9D2DDCD3FE",
+    "entity": "Stride",
+    "name": "Stride Juno",
+    "symbol": "stJUNO",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.svg"
+  },
+  {
+    "id": "ibc/D176154B0C63D1F9C6DCFB4F70349EBF2E2B5A87A05902F57A6AE92B863E9AEC",
+    "entity": "Stride",
+    "name": "Stride Staked osmo",
+    "symbol": "stOSMO",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg"
+  },
+  {
     "id": "ibc/785AFEC6B3741100D15E7AF01374E3C4C36F24888E96479B1C33F5C71F364EF9",
     "entity": "Terra Money",
     "name": "Luna",
@@ -72,18 +400,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.png"
   },
   {
+    "id": "ibc/2FBAC4BF296D7844796844B35978E5899984BA5A6314B2DD8F83C215550010B3",
+    "entity": "Wynd",
+    "name": "Wynd DAO Governance Token",
+    "symbol": "WYND",
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/wynd.svg"
+  },
+  {
     "id": "ibc/B797E4F42CD33C50511B341E50C5CC0E8EF0D93B1E1247ABAA071583B8619202",
     "name": "404Deep Records FanToken",
     "symbol": "404DR",
     "decimals": "6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft99091610CCC66F4277C66D14AF2BC4C5EE52E27A.png"
-  },
-  {
-    "id": "ibc/384E5DD50BDE042E1AAF51F312B55F08F95BC985C503880189258B4D9374CBBE",
-    "name": "Aave",
-    "symbol": "AAVE.axl",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/aave.svg"
   },
   {
     "id": "ibc/BB936517F7E5D77A63E0ADB05217A6608B0C4CF8FBA7EA2F4BAE4107A7238F06",
@@ -112,13 +441,6 @@
     "symbol": "BLD",
     "decimals": "6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png"
-  },
-  {
-    "id": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
-    "name": "Akash Network",
-    "symbol": "AKT",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg"
   },
   {
     "id": "ibc/A6383B6CF5EA23E067666C06BC34E2A96869927BD9744DC0C1643E589C710AA3",
@@ -170,13 +492,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/rizon/images/atolo.svg"
   },
   {
-    "id": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
-    "name": "Axelar",
-    "symbol": "AXL",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/axl.svg"
-  },
-  {
     "id": "ibc/6C0CB8653012DC2BC1820FD0B6B3AFF8A07D18630BDAEE066FEFB2D92F477C24",
     "name": "Axie Infinity Shard",
     "symbol": "AXS.axl",
@@ -196,13 +511,6 @@
     "symbol": "BZE",
     "decimals": "6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.svg"
-  },
-  {
-    "id": "ibc/6329DD8CF31A334DD5BE3F68C846C9FE313281362B37686A62343BAC1EB1546D",
-    "name": "Binance USD",
-    "symbol": "BUSD.axl",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png"
   },
   {
     "id": "ibc/D805F1DA50D31B96E4282C1D4181EDDFB1A44A598BFF5666F4B43E4B8BEA95A5",
@@ -282,13 +590,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/xcn.svg"
   },
   {
-    "id": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
-    "name": "Chainlink",
-    "symbol": "LINK.axl",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axllink.svg"
-  },
-  {
     "id": "ibc/7A08C6F11EF0F59EB841B9F788A87EC9F2361C7D9703157EC13D940DC53031FA",
     "name": "Cheqd",
     "symbol": "CHEQ",
@@ -331,20 +632,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cudos/images/cudos.svg"
   },
   {
-    "id": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI.axl",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axldai.svg"
-  },
-  {
-    "id": "ibc/F292A17CF920E3462C816CBE6B042E779F676CAB59096904C4C1C966413E3DF5",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI.grv",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gdai.svg"
-  },
-  {
     "id": "ibc/9BCB27203424535B6230D594553F1659C77EC173E36D9CF4759E7186EE747E84",
     "name": "Decentr",
     "symbol": "DEC",
@@ -380,32 +667,11 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dig/images/dig.png"
   },
   {
-    "id": "ibc/3FF92D26B407FD61AE95D975712A7C319CDE28DE4D80BDC9978D935932B991D7",
-    "name": "DOT",
-    "symbol": "DOT.axl",
-    "decimals": "10",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axldot.svg"
-  },
-  {
     "id": "ibc/E27CD305D33F150369AB526AEB6646A76EC3FFB1A6CA58A663B5DE657A89D55D",
     "name": "Dyson Protocol",
     "symbol": "DYS",
     "decimals": "0",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dyson/images/dys.png"
-  },
-  {
-    "id": "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59",
-    "name": "e-Money",
-    "symbol": "NGM",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.svg"
-  },
-  {
-    "id": "ibc/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F",
-    "name": "e-Money EUR",
-    "symbol": "EEUR",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/eeur.svg"
   },
   {
     "id": "ibc/47EE224A9B33CF0ABEAC82106E52F0F6E8D8CEC5BA80B9D9A6F55172CBB0177D",
@@ -429,13 +695,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft85AE1716C5E39EA6D64BBD7898C3899A7B500626.png"
   },
   {
-    "id": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A",
-    "name": "Evmos",
-    "symbol": "EVMOS",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg"
-  },
-  {
     "id": "ibc/7CE5F388D661D82A0774E47B5129DA51CC7129BD1A70B5FA6BCEBB5B0A2FAEAF",
     "name": "Fanfury",
     "symbol": "FURY",
@@ -455,13 +714,6 @@
     "symbol": "FONTI",
     "decimals": "6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft56664FC98A2CF5F4FBAC3566D1A11D891AD88305.png"
-  },
-  {
-    "id": "ibc/0E43EDE2E2A3AFA36D0CD38BDDC0B49FECA64FA426A82E102F304E430ECF46EE",
-    "name": "Frax",
-    "symbol": "FRAX.axl",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlfrax.svg"
   },
   {
     "id": "ibc/F49DE040EBA5AB2FAD5F660C2A1DDF98A68470FAE82229818BE775EBF3EE79F2",
@@ -527,25 +779,11 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/imversed/images/imversed.svg"
   },
   {
-    "id": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
-    "name": "Injective",
-    "symbol": "INJ",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
-  },
-  {
     "id": "ibc/92BE0717F4678905E53F4E45B2DED18BC0CB97BF1F8B6A25AFEDF3D5A879B4D5",
     "name": "Inter Protocol USD",
     "symbol": "IST",
     "decimals": "6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
-  },
-  {
-    "id": "uion",
-    "name": "Ion",
-    "symbol": "ION",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.svg"
   },
   {
     "id": "ibc/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0",
@@ -660,13 +898,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/lvn.png"
   },
   {
-    "id": "ibc/D27DDDF34BB47E5D5A570742CC667DE53277867116CCCA341F27785E899A70F3",
-    "name": "Maker",
-    "symbol": "MKR.axl",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlmkr.svg"
-  },
-  {
     "id": "ibc/F6B691D5F7126579DDC87357B09D653B47FDCE0A3383FF33C8D8B544FE29A8A6",
     "name": "Marble",
     "symbol": "MARBLE",
@@ -730,13 +961,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft387C1C279D962ED80C09C1D592A92C4275FD7C5D.png"
   },
   {
-    "id": "ibc/297C64CC42B5A8D8F82FE2EBE208A6FE8F94B86037FA28C4529A23701C228F7A",
-    "name": "Neta",
-    "symbol": "NETA",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/neta.png"
-  },
-  {
     "id": "ibc/423967B46B1A51D78619085105B04FCFA14F7CBC0BE7539A316B2DCDFC7D8C07",
     "name": "Nicola Fasano FanToken",
     "symbol": "FASANO",
@@ -772,13 +996,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.svg"
   },
   {
-    "id": "ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293",
-    "name": "Persistence",
-    "symbol": "XPRT",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg"
-  },
-  {
     "id": "ibc/B1E0166EA0D759FDF4B207D1F5F12210D8BFE36F2345CEFC76948CE2B36DFBAF",
     "name": "Planq",
     "symbol": "PLQ",
@@ -800,13 +1017,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/provenance/images/hash.svg"
   },
   {
-    "id": "ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961",
-    "name": "PSTAKE",
-    "symbol": "PSTAKE",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/pstake.svg"
-  },
-  {
     "id": "ibc/CAA179E40F0266B0B29FB5EAA288FB9212E628822265D4141EBD1C47C3CBFCBC",
     "name": "PSTAKE staked ATOM",
     "symbol": "stkATOM",
@@ -819,13 +1029,6 @@
     "symbol": "LOBO",
     "decimals": "6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft24C9FA4F10B0F235F4A815B15FC774E046A2B2EB.png"
-  },
-  {
-    "id": "ibc/46C83BB054E12E189882B5284542DB605D94C99827E367C9192CF0579CD5BC83",
-    "name": "Quicksilver Liquid Staked STARS",
-    "symbol": "qSTARS",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qstars.svg"
   },
   {
     "id": "ibc/6BDB4C8CCD45033F9604E4B93ED395008A753E01EECD6992E7D1EA23D9D3B788",
@@ -905,13 +1108,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/sienna.svg"
   },
   {
-    "id": "ibc/8318FD63C42203D16DDCAF49FE10E8590669B3219A3E87676AC9DA50722687FB",
-    "name": "Sifchain Rowan",
-    "symbol": "ROWAN",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sifchain/images/rowan.svg"
-  },
-  {
     "id": "ibc/C3FC4DED273E7D1DD2E7BAA3317EC9A53CD3252B577AA33DC00D9DF2BDF3ED5C",
     "name": "Solarbank DAO",
     "symbol": "SOLAR",
@@ -919,81 +1115,11 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/solar.svg"
   },
   {
-    "id": "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E",
-    "name": "Sommelier",
-    "symbol": "SOMM",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.svg"
-  },
-  {
-    "id": "ibc/C2DF5C3949CA835B221C575625991F09BAB4E48FB9C11A4EE357194F736111E3",
-    "name": "StakeEasy bJUNO",
-    "symbol": "BJUNO",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/bjuno.svg"
-  },
-  {
-    "id": "ibc/18A676A074F73B9B42DA4F9DFC8E5AEF334C9A6636DDEC8D34682F52F1DECDF6",
-    "name": "StakeEasy SEASY",
-    "symbol": "SEASY",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/seasy.svg"
-  },
-  {
-    "id": "ibc/C6B6BFCB6EE49A7CAB1A7E7B021DE35B99D525AC660844952F0F6C78DCB2A57B",
-    "name": "StakeEasy seJUNO",
-    "symbol": "SEJUNO",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/sejuno.svg"
-  },
-  {
-    "id": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
-    "name": "Stargaze",
-    "symbol": "STARS",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png"
-  },
-  {
     "id": "ibc/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC",
     "name": "Starname",
     "symbol": "IOV",
     "decimals": "6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/starname/images/iov.svg"
-  },
-  {
-    "id": "ibc/C140AFD542AE77BD7DCC83F13FDD8C5E5BB8C4929785E6EC2F4C636F98F17901",
-    "name": "stATOM",
-    "symbol": "stATOM",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg"
-  },
-  {
-    "id": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg"
-  },
-  {
-    "id": "ibc/84502A75BCA4A5F68D464C00B3F610CE2585847D59B52E5FFB7C3C9D2DDCD3FE",
-    "name": "Stride Juno",
-    "symbol": "stJUNO",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.svg"
-  },
-  {
-    "id": "ibc/D176154B0C63D1F9C6DCFB4F70349EBF2E2B5A87A05902F57A6AE92B863E9AEC",
-    "name": "Stride Staked osmo",
-    "symbol": "stOSMO",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg"
-  },
-  {
-    "id": "ibc/5DD1F95ED336014D00CE2520977EC71566D282F9749170ADC83A392E0EA7426A",
-    "name": "Stride Staked Stars",
-    "symbol": "stSTARS",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.svg"
   },
   {
     "id": "ibc/70CF1A54E23EA4E480DEDA9E12082D3FD5684C3483CBDCE190C5C807227688C5",
@@ -1024,20 +1150,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/ust.png"
   },
   {
-    "id": "ibc/71B441E27F1BBB44DD0891BCD370C2794D404D60A4FFE5AECCD9B1E28BC89805",
-    "name": "Tether USD",
-    "symbol": "USDT.grv",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gusdt.svg"
-  },
-  {
-    "id": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
-    "name": "Tether USD",
-    "symbol": "USDT.axl",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdt.svg"
-  },
-  {
     "id": "ibc/1E09CB0F506ACF12FDE4683FB6B34DA62FB4BE122641E0D93AAF98A87675676C",
     "name": "Tgrade",
     "symbol": "TGD",
@@ -1064,20 +1176,6 @@
     "symbol": "UNI.axl",
     "decimals": "18",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/uni.svg"
-  },
-  {
-    "id": "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E",
-    "name": "USD Coin",
-    "symbol": "USDC.grv",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gusdc.svg"
-  },
-  {
-    "id": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
-    "name": "USD Coin",
-    "symbol": "USDC.axl",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg"
   },
   {
     "id": "ibc/C78F65E1648A3DFE0BAEB6C4CDA69CC2A75437F1793C0E6386DFDA26393790AE",
@@ -1108,66 +1206,10 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/avax.png"
   },
   {
-    "id": "ibc/C9B0D48FD2C5B91135F118FF2484551888966590D7BDC20F6A87308DBA670796",
-    "name": "Wrapped Bitcoin",
-    "symbol": "WBTC.grv",
-    "decimals": "8",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gwbtc.png"
-  },
-  {
-    "id": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
-    "name": "Wrapped Bitcoin",
-    "symbol": "WBTC.axl",
-    "decimals": "8",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlwbtc.png"
-  },
-  {
-    "id": "ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D",
-    "name": "Wrapped BNB",
-    "symbol": "WBNB.axl",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchainoonbeam/images/wbnb.svg"
-  },
-  {
-    "id": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
-    "name": "Wrapped Ether",
-    "symbol": "WETH.axl",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlweth.png"
-  },
-  {
-    "id": "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5",
-    "name": "Wrapped Ethereum",
-    "symbol": "WETH.grv",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gweth.png"
-  },
-  {
     "id": "ibc/5E2DFDF1734137302129EA1C1BA21A580F96F778D4F021815EA4F6DB378DA1A4",
     "name": "Wrapped FTM",
     "symbol": "wFTM",
     "decimals": "18",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.png"
-  },
-  {
-    "id": "ibc/1E26DB0E5122AED464D98462BD384FCCB595732A66B3970AE6CE0B58BAE0FC49",
-    "name": "Wrapped GLMR",
-    "symbol": "WGLMR.axl",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.svg"
-  },
-  {
-    "id": "ibc/AB589511ED0DD5FA56171A39978AFBF1371DB986EC1C3526CE138A16377E39BB",
-    "name": "Wrapped Matic",
-    "symbol": "WMATIC.axl",
-    "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wmatic-wei L@3x.png"
-  },
-  {
-    "id": "ibc/2FBAC4BF296D7844796844B35978E5899984BA5A6314B2DD8F83C215550010B3",
-    "name": "Wynd DAO Governance Token",
-    "symbol": "WYND",
-    "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/wynd.svg"
   }
 ]
