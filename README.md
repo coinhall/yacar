@@ -80,6 +80,8 @@ type Asset = {
   // Following optional fields are all URL links
   circ_supply_api?: string | undefined;
   icon?: string | undefined;
+  coinmarketcap?: string | undefined;
+  coingecko?: string | undefined;
 };
 ```
 
@@ -94,8 +96,6 @@ type Entity = {
   telegram?: string | undefined;
   twitter?: string | undefined;
   discord?: string | undefined;
-  coinmarketcap?: string | undefined;
-  coingecko?: string | undefined;
 }
 ```
 
