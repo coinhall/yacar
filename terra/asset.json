@@ -3030,6 +3030,12 @@
     "decimals": "18"
   },
   {
+    "id": "terra1mdnu6c2a4zdjqa4guy2cjl3v54t64h33qrz5sktr33nqlh8fkl2sq8248q",
+    "name": "Dreamers (Wormhole)",
+    "symbol": "DRMR",
+    "decimals": "8"
+  },
+  {
     "id": "terra1gn3fwtw7k40gl465723phk4qgarthw32t962acxz5e5rjzgepwpsjysppv",
     "name": "DreamersCubed",
     "symbol": "DRC",
@@ -3044,6 +3050,12 @@
   {
     "id": "terra1cpflqqkse0lljw4cekrh9sqdz0km9p9lzteqd55y5qd0yrdzxg8sytqdpk",
     "name": "DRMR-IBC/-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra10lc6urvndh5e2s90t5dvqljffz7hsw3p4y0fnqw8hws0z8k7nxqqw9udw5",
+    "name": "DRMR-ULUN-LP",
     "symbol": "uLP",
     "decimals": "6"
   },
@@ -5687,6 +5699,12 @@
     "decimals": "0"
   },
   {
+    "id": "terra1ulmcxv5ph4qcx6dtg6kmdxhtx5vk6ksu7n82h60v284y56d2wexsy07taa",
+    "name": "SLQ-IBC/-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
     "id": "terra16thequeddc2jc2pcc8xpsyng5lexqwx45ch6yvngs0e3qxtmc7yqv0t6h0",
     "name": "soil-test",
     "symbol": "SOIL",
@@ -5811,6 +5829,12 @@
     "name": "Spike's World",
     "symbol": "SPIKE",
     "decimals": "8"
+  },
+  {
+    "id": "terra1a75qhypnu6twvapgrjwv8tg4k0agmazeqwzexmdl6qntdesu3jns59vkws",
+    "name": "Stable Liquidity",
+    "symbol": "SLQ",
+    "decimals": "18"
   },
   {
     "id": "terra1nu0c3s69umqz862ltp6wytuztm0rrn6w5079g999u0hvwy62tf3q02qhmr",
@@ -6513,9 +6537,27 @@
     "icon": "https://s3.ap-southeast-2.wasabisys.com/tuna/tunatoken.png"
   },
   {
+    "id": "terra175ja72ezq23tsffanzunpfrrmt9x9qy247nkes9xvmrp8gj2p59sdrl3jt",
+    "name": "U!O.-ULUN-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
     "id": "terra1vz7sw3gd5yf4ak755jt9kvshp7jnjc9l3rv6gaf8fehud2xnnltsqtsq2u",
     "name": "U\\\"\\ (Wormhole) (Wormhole)",
     "symbol": "U\\\"\\",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1glsk6qegl26dxl2ctxm3g8mjzerfa6he0q27vtpnrpm5p0v2ypgq3gdqu0",
+    "name": "U\\\\\\-ULUN-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1rcezrz4ezclkhjczcqpcf0u8uy5aae925c46rkplcnythq28fwyqgxw3xr",
+    "name": "U\\\\\\-ULUN-LP",
+    "symbol": "uLP",
     "decimals": "6"
   },
   {
@@ -6555,6 +6597,18 @@
     "decimals": "6"
   },
   {
+    "id": "terra194p8ysw7ct7570hrkdu7deg9036fdr5a32f3t3na90cgk3u0e6ssyxzhgu",
+    "name": "ULUN-UAUD-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1w65aqvs7asqch4kr5h4ppn47z0ez2fygwauu7as2qtuh9nwgccxscu3rzh",
+    "name": "ULUN-UUSD-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
     "id": "terra1w33n04crhh843ly5nh0km58w8zhz5ygstm9taqw6wgwkv57zfaas4w78a8",
     "name": "ULUN-YLUN-LP",
     "symbol": "uLP",
@@ -6579,14 +6633,50 @@
     "decimals": "6"
   },
   {
+    "id": "terra1m8xm5xz3cvwuknn2kekzyd9v3kz4jjn4g62d9p457yweeuax690s0uvaw6",
+    "name": "uluna-ASTRO-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1yavktq7v8re5hauw65cf3eapdmmss2tzevta0hw0zl2p86cvcr8sexjxfk",
+    "name": "uluna-ASTRO-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
     "id": "terra1rlmjwapg7y3p39aucq2rq5rffyns7z94twm8acl59na4d9aehu9sl2dfkc",
     "name": "uluna-ibc/B350...C9E4-LP",
     "symbol": "uLP",
     "decimals": "6"
   },
   {
+    "id": "terra17n7w8csf9wyg8wfy7h5z8pwrl9rv67fgggqpr65ejvke2f4h5x3s3tk06u",
+    "name": "uluna-LunaX-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1j3lyamr50n0ttn740f89ckmjedmkh9j8a09pcy403xycy6lxlutq9guaju",
+    "name": "uluna-LunaX-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
     "id": "terra1lt586fhwyuccktk58v8k96ugzp9szurhqvmlnjxhyn6yapa6v2jsmc468d",
     "name": "uluna-LunaX-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1257aredynnm89n80kqm58kmz8ceeppc22u6npzhvw9qntluzf9es3wzu7m",
+    "name": "uluna-SAYVE-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1607gccg4uvgh0k7usctr6pejva4mw2qmrfkjrlhxm9dhqmhp8taqa3h0hs",
+    "name": "uluna-SAYVE-LP",
     "symbol": "uLP",
     "decimals": "6"
   },
@@ -6694,6 +6784,24 @@
     "decimals": "6",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd-wormhole/",
     "coingecko": "https://www.coingecko.com/en/coins/terrausd-wormhole"
+  },
+  {
+    "id": "terra1jn903mnjq60knwhvsdzwyx06j6qx2srz0282r9dmhxu4870u6dkqd2w25n",
+    "name": "UST-ULUN-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra16zse6hkhm72keglh4q9ewxnpgjpku7u66yrje3v970cstpucxhysgwunds",
+    "name": "USTC-ULUN-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1v7w3rslq3ytpwpsclv4f73d952ngfg5d3tv35clsesth8zenwxtqe3ng2m",
+    "name": "UUSD-UST-LP",
+    "symbol": "uLP",
+    "decimals": "6"
   },
   {
     "id": "terra10tclyxjfcx7u0wd0d0he4muqvhd6nn6d7lr2ktmga275tq0axamqs6gxnj",
