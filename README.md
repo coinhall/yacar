@@ -107,12 +107,12 @@ Contains **dexes' liquidity pools**. This file will update automatically if all 
 type Pool = {
   // The contract address of the liquidity pool
   id: string;
-  // The contract address of the LP token
-  lp_token_id: string;
   asset_ids: string[];
   dex: string;
-  // The liquidity pool type; typically "xyk" or "stable"
+  // The liquidity pool type: "xyk" | "stable" | "orderbook" | "balancerV1"
   type: string;
+  // The contract address of the LP token (if it exists)
+  lp_token_id?: string | undefined;
 };
 ```
 
