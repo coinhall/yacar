@@ -80,8 +80,8 @@ type Asset = {
   // Following optional fields are all URL links
   circ_supply_api?: string | undefined;
   icon?: string | undefined;
-  coingecko?: string | undefined;
   coinmarketcap?: string | undefined;
+  coingecko?: string | undefined;
 };
 ```
 
