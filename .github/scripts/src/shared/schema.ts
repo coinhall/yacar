@@ -20,6 +20,8 @@ const AssetType = Type.Object({
   decimals: Type.RegEx(integerRegEx),
   circ_supply_api: Type.Optional(Type.String()),
   icon: Type.Optional(Type.String()),
+  coinmarketcap: Type.Optional(Type.String()),
+  coingecko: Type.Optional(Type.String()),
 });
 
 const BinaryType = Type.Object({
@@ -40,13 +42,11 @@ const EntityType = Type.Object({
   telegram: Type.Optional(Type.String()),
   twitter: Type.Optional(Type.String()),
   discord: Type.Optional(Type.String()),
-  coinmarketcap: Type.Optional(Type.String()),
-  coingecko: Type.Optional(Type.String()),
 });
 
 const PoolType = Type.Object({
   id: Type.String(stringOptions),
-  lp_token_id: Type.String(stringOptions),
+  lp_token_id: Type.Optional(Type.String(stringOptions)),
   asset_ids: Type.Tuple([
     Type.String(stringOptions),
     Type.String(stringOptions),

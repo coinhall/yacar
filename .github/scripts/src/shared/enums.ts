@@ -1,6 +1,9 @@
 export enum ChainDirectories {
   OSMOSIS = "osmosis",
+  JUNO = "juno",
+  KUIJIRA = "kujira",
   TERRA = "terra",
+  TERRACLASSIC = "terraclassic",
 }
 
 export enum JsonFiles {

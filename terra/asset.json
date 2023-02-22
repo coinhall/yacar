@@ -908,7 +908,9 @@
     "name": "Cosmos",
     "symbol": "ATOM",
     "decimals": "6",
-    "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
+    "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
+    "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
   },
   {
     "id": "ibc/B090DC21658BD57698522880590CA53947B8B09355764131AA94EC75517D46A5",
@@ -916,7 +918,8 @@
     "name": "Crescent Network",
     "symbol": "CRE",
     "decimals": "6",
-    "icon": "https://assets.terra.money/icon/svg/ibc/CRE.svg"
+    "icon": "https://assets.terra.money/icon/svg/ibc/CRE.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
   },
   {
     "id": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
@@ -941,7 +944,9 @@
     "name": "Graviton",
     "symbol": "GRAV",
     "decimals": "6",
-    "icon": "https://assets.terra.money/icon/svg/ibc/GRAV.svg"
+    "icon": "https://assets.terra.money/icon/svg/ibc/GRAV.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/grav/",
+    "coingecko": "https://www.coingecko.com/en/coins/graviton"
   },
   {
     "id": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
@@ -949,7 +954,9 @@
     "name": "Juno",
     "symbol": "JUNO",
     "decimals": "6",
-    "icon": "https://assets.terra.money/icon/svg/ibc/JUNO.svg"
+    "icon": "https://assets.terra.money/icon/svg/ibc/JUNO.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
+    "coingecko": "https://www.coingecko.com/en/coins/juno-network"
   },
   {
     "id": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
@@ -997,7 +1004,9 @@
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
-    "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg"
+    "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis/",
+    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
     "id": "terra167khnalh9aawqx9qynj7kk9y0n8hc30qe6s8cy7y5yu2azrc2edqyjprp9",
@@ -1091,7 +1100,7 @@
   {
     "id": "terra1q8kfp0v9rhef0d3u44ds9shwvwcusjheh8nhye3n7gwjd95ze96sehyp6w",
     "entity": "Santerra",
-    "name": "Santerra SANT",
+    "name": "Santerra",
     "symbol": "SANT",
     "decimals": "6",
     "icon": "https://santerra.app/sant_logo.svg"
@@ -1119,7 +1128,9 @@
     "name": "Secret",
     "symbol": "SCRT",
     "decimals": "6",
-    "icon": "https://assets.terra.money/icon/svg/ibc/SCRT.svg"
+    "icon": "https://assets.terra.money/icon/svg/ibc/SCRT.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
+    "coingecko": "https://www.coingecko.com/en/coins/secret"
   },
   {
     "id": "terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle",
@@ -1130,13 +1141,22 @@
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png"
   },
   {
+    "id": "terra129gzxm65ckt7p9tp3rnq8q0zvaz6m48e5l7qpxtmy2s3fnhcjd0sag3tm3",
+    "entity": "Stader Labs",
+    "name": "Stader LunaX Token",
+    "symbol": "LunaX",
+    "decimals": "6"
+  },
+  {
     "id": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
     "entity": "Stader Labs",
     "name": "Stader LunaX Token",
     "symbol": "LunaX",
     "decimals": "6",
     "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png"
+    "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stader-lunax/",
+    "coingecko": "https://www.coingecko.com/en/coins/stader-lunax"
   },
   {
     "id": "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
@@ -1153,7 +1173,9 @@
     "symbol": "LUNA",
     "decimals": "6",
     "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
-    "icon": "https://assets.terra.money/icon/svg/Luna.svg"
+    "icon": "https://assets.terra.money/icon/svg/Luna.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
+    "coingecko": "https://www.coingecko.com/en/coins/terra"
   },
   {
     "id": "terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2",
@@ -1178,7 +1200,8 @@
     "name": "TerraFloki",
     "symbol": "TFLOKI",
     "decimals": "6",
-    "icon": "https://terrafloki.io/tf-logo.png"
+    "icon": "https://terrafloki.io/tf-logo.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terrafloki/"
   },
   {
     "id": "terra10nnsamvtc5yux6m9utwc6dtee20h8fe8gp06jfqy0ffqtxrk384s4l0rru",
@@ -1558,7 +1581,9 @@
     "symbol": "VKR",
     "decimals": "6",
     "circ_supply_api": "https://terra-api.valkyrieprotocol.com/partner/coinhall/circulating-supply",
-    "icon": "https://app.valkyrieprotocol.com/icon_vkr.png"
+    "icon": "https://app.valkyrieprotocol.com/icon_vkr.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/valkyrie-protocol/",
+    "coingecko": "https://www.coingecko.com/en/coins/valkyrie-protocol"
   },
   {
     "id": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6",
@@ -1566,7 +1591,9 @@
     "name": "Wrapped AVAX (Wormhole)",
     "symbol": "WAVAX",
     "decimals": "8",
-    "icon": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png"
+    "icon": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wavax/",
+    "coingecko": "https://www.coingecko.com/en/coins/wrapped-avax"
   },
   {
     "id": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
@@ -1574,7 +1601,9 @@
     "name": "Wrapped Ether (Wormhole)",
     "symbol": "WETH",
     "decimals": "8",
-    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png"
+    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/weth/",
+    "coingecko": "https://www.coingecko.com/en/coins/weth"
   },
   {
     "id": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
@@ -1582,7 +1611,9 @@
     "name": "Wrapped SOL (Wormhole)",
     "symbol": "SOL",
     "decimals": "8",
-    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
+    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-solana/",
+    "coingecko": "https://www.coingecko.com/en/coins/wrapped-solana"
   },
   {
     "id": "terra1dwtgrdjtgx3d3laypgx8ptch0kk20skh4p6ra3euy38x6n9s7kws4yzlgf",
@@ -2194,7 +2225,8 @@
     "id": "terra1p67lldutk5haqpmnk5thuhmhyff8ntf8axa37mzm87qq58082u0qqp9mmu",
     "name": "Apple (Wormhole)",
     "symbol": "mAAPL",
-    "decimals": "6"
+    "decimals": "6",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mirrored-apple/"
   },
   {
     "id": "terra16hx93yrc3s7xlx8facausmtz3sfrgknd6mf70fhmzhjkej97g42qkflfs2",
@@ -2548,7 +2580,8 @@
     "id": "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp",
     "name": "Brand Governance Token",
     "symbol": "BGT",
-    "decimals": "6"
+    "decimals": "6",
+    "icon": "https://s3.ap-southeast-2.wasabisys.com/bgt/bgtoken.png"
   },
   {
     "id": "terra15sad8j5wx8u0aptgfvmz7zwsjrl7mfuc207d3gljh9gdaxx0d0kqq8d7kc",
@@ -2608,7 +2641,8 @@
     "id": "terra129zjaxquhh3h5upn0clqzdawnze43a9z34ktt4l6um2hf5w0xqjsta42u5",
     "name": "BUSD Token (Wormhole)",
     "symbol": "BUSD",
-    "decimals": "8"
+    "decimals": "8",
+    "coingecko": "https://www.coingecko.com/en/coins/binance-usd-wormhole"
   },
   {
     "id": "terra1aplktggys8uf3mm8rnx5nz2vz66jgu4pszpjg72nn6kst299y58qv46ajc",
@@ -2902,7 +2936,8 @@
     "id": "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz",
     "name": "Depegged UST",
     "symbol": "dUST",
-    "decimals": "6"
+    "decimals": "6",
+    "icon": "https://gateway.pinata.cloud/ipfs/QmTEo7AmbgygF2mek89MHBJ1wPrB23TA811VeXCdcXW5pf"
   },
   {
     "id": "terra1n3j3l0w2eclpv3me28yxzjesfa9cqt4m0e2d3xhxjk03pch2uxqsds9fud",
@@ -3028,6 +3063,12 @@
     "id": "terra10n8tq3hxa5rkgzwdjylehrl27alhlutyssqlrajr0h80vze46dfsye9y8v",
     "name": "DRMR-ULUN-LP",
     "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1trh2tl98zdu4swpghhnxdnna4rf029eptxau95kgscz520f4tp9sexmvkv",
+    "name": "Duke Token",
+    "symbol": "DUKE",
     "decimals": "6"
   },
   {
@@ -3640,7 +3681,8 @@
     "id": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
     "name": "INTERCHAIN DAO COIN",
     "symbol": "IDC",
-    "decimals": "6"
+    "decimals": "6",
+    "icon": "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png"
   },
   {
     "id": "terra1f7w3h99varl067u5qlsnpuss4etktcelv53at9jcyppsgkp3je4qajud0c",
@@ -4037,7 +4079,9 @@
     "name": "Luna Classic (Wormhole)",
     "symbol": "LUNC",
     "decimals": "6",
-    "icon": "https://assets.terra.money/icon/svg/LUNC.svg"
+    "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna/",
+    "coingecko": "https://www.coingecko.com/en/coins/terra-luna-classic"
   },
   {
     "id": "terra1fvdcu2j85nrlhwhy0rmhttst2caaxtf36ytjcngg47qkt8ndcu8sm6qff6",
@@ -4277,7 +4321,8 @@
     "id": "terra1s8u586k3s7xtvasxv4p6ldl0jrxht9w886v8ymkst6crg5hxue3sqn49r9",
     "name": "Microsoft Corporation (Wormhole)",
     "symbol": "mMSFT",
-    "decimals": "6"
+    "decimals": "6",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mirrored-microsoft/"
   },
   {
     "id": "terra1y5e4plp8evsh2urycmhy35lrqxneqc8ewdqzjpvlu5z9wurpqw7sfj9u5x",
@@ -5798,12 +5843,6 @@
     "decimals": "6"
   },
   {
-    "id": "terra129gzxm65ckt7p9tp3rnq8q0zvaz6m48e5l7qpxtmy2s3fnhcjd0sag3tm3",
-    "name": "Stader LunaX Token",
-    "symbol": "LunaX",
-    "decimals": "6"
-  },
-  {
     "id": "terra1s2lr8u69xammmg3s8hemegcz57y07ae0wa7c7d2adupp6du3neyqfukkaz",
     "name": "Stader LunaX Token",
     "symbol": "LunaX",
@@ -5910,6 +5949,20 @@
     "name": "Steak Token (Wormhole)",
     "symbol": "STEAK",
     "decimals": "6"
+  },
+  {
+    "id": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
+    "name": "Stride",
+    "symbol": "STRD",
+    "decimals": "6",
+    "icon": "https://assets.terra.money/icon/svg/ibc/STRD.svg"
+  },
+  {
+    "id": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
+    "name": "Stride LUNA",
+    "symbol": "stLUNA",
+    "decimals": "6",
+    "icon": "https://assets.terra.money/icon/svg/ibc/stLUNA.svg"
   },
   {
     "id": "terra1qpa5u2mwycsku0deum3a0jk8jsselv80xyqnpa5zw0agcumgw0jsuvm48w",
@@ -6311,7 +6364,8 @@
     "id": "terra12ezq5402h5n3skhdshjp4f49zzg0saxum8fvvhjhauzas2ezyyrqpznqny",
     "name": "Tether USD (Wormhole)",
     "symbol": "USDT",
-    "decimals": "8"
+    "decimals": "8",
+    "coingecko": "https://www.coingecko.com/en/coins/tether-usd-wormhole-from-ethereum"
   },
   {
     "id": "terra1p2wm9d7lp4pf32pmwzm5ll59q9sqj48p0u66cnfavuzj78gusdeskdgms2",
@@ -6479,7 +6533,8 @@
     "id": "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp",
     "name": "Tuna Token",
     "symbol": "TUNA",
-    "decimals": "6"
+    "decimals": "6",
+    "icon": "https://s3.ap-southeast-2.wasabisys.com/tuna/tunatoken.png"
   },
   {
     "id": "terra175ja72ezq23tsffanzunpfrrmt9x9qy247nkes9xvmrp8gj2p59sdrl3jt",
@@ -6677,7 +6732,8 @@
     "id": "terra1vzd98s9kqdkatahxs7rsd8m474lf2f8ct39zdgd6shj4nh5e6kuskaz2gy",
     "name": "USD Coin (Wormhole)",
     "symbol": "USDC",
-    "decimals": "8"
+    "decimals": "8",
+    "coingecko": "https://www.coingecko.com/en/coins/usd-coin-wormhole-from-ethereum"
   },
   {
     "id": "terra1tzaw5m79em9juj0lf4dxr6phxxht79jt770mn77ltvx5e6ww4vpss6hvnu",
@@ -6725,7 +6781,9 @@
     "id": "terra1rwg5kt6kcyxtz69acjgpeut7dgr4y3r7tvntdxqt03dvpqktrfxq4jrvpq",
     "name": "UST (Wormhole)",
     "symbol": "UST",
-    "decimals": "6"
+    "decimals": "6",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd-wormhole/",
+    "coingecko": "https://www.coingecko.com/en/coins/terrausd-wormhole"
   },
   {
     "id": "terra1jn903mnjq60knwhvsdzwyx06j6qx2srz0282r9dmhxu4870u6dkqd2w25n",
