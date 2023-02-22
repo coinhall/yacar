@@ -76,8 +76,8 @@ export function orderEntityKeys(entityData: Entity[]): Entity[] {
 
 export function orderPoolKeys(poolData: Pool[]): Pool[] {
   return poolData.map((v) => {
-    const { id, lp_token_id, asset_ids, dex, type } = v;
-    return { id, lp_token_id, asset_ids, dex, type };
+    const { id, asset_ids, dex, type, lp_token_id } = v;
+    return { id, asset_ids, dex, type, lp_token_id };
   });
 }
 
