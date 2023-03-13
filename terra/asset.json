@@ -5,6 +5,7 @@
     "name": "alentejo.money",
     "symbol": "Alem",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://static.wixstatic.com/media/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png/v1/fill/w_560,h_560,fp_0.50_0.50,enc_auto/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png"
   },
   {
@@ -12,63 +13,72 @@
     "entity": "Astroport",
     "name": "ALEM-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1q6hpxkcx5a0g8u0m0n30cl6afafufpl5yl4lza2umk5up9tzerwqszqvr7",
     "entity": "Astroport",
     "name": "AMPL-LUNA-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1e9ge099thjrfx9y74aznq38esfkm55lpqvdvun078aw0nejdhu0qsn5n9d",
     "entity": "Astroport",
     "name": "AMPL-STEA-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra16esjk7qqlgh8w7p2a58yxhgkfk4ykv72p7ha056zul58adzjm6msvc674t",
     "entity": "Astroport",
     "name": "ASTR-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1kusqucsy7x5yhfl4lu064f0kyhdx7mhj67z7uclhhxr8mm3ayatq4zse64",
     "entity": "Astroport",
     "name": "ASTR-RED-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra17ymsjrzhtz04wt6ftamthph5sfnuem0f0xgr4ajvas9uzjll6p0sdu36ff",
     "entity": "Astroport",
     "name": "ASTR-USD-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1fw969f420dy50t4glu0nct9whdftsralf2sdywxh5zklzyj7350sp94ycs",
     "entity": "Astroport",
     "name": "ASTR-USDC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1sdajd4wfkxvwzd3em9h9qdpsf0mavuc9ukt8hpcxklp2znd7lrhsgkudn0",
     "entity": "Astroport",
     "name": "ASTR-VKR-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1wkcyh5l9204m6ef5aujdlnh3frswyhpl8xp7evr7rk0qmyqyhrkqg287g8",
     "entity": "Astroport",
     "name": "ASTR-XAST-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
@@ -76,6 +86,7 @@
     "name": "Astroport",
     "symbol": "ASTRO",
     "decimals": "6",
+    "type": "cw20",
     "circ_supply_api": "https://markets-api.astroport.fi/protocol/circulating-supply",
     "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
@@ -84,385 +95,440 @@
     "entity": "Astroport",
     "name": "BGT-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1z3nctlwtasqshsagu2l4lj74pdm8hl7jhjyeepergtkny4cyka0se48n37",
     "entity": "Astroport",
     "name": "BGT-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1mckjrtvxvsxtxvc5jttxmvheyh4wjcrlrnfy28xnln5a87qhxz6s4el0sy",
     "entity": "Astroport",
     "name": "BLUN-AMPL-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
     "entity": "Astroport",
     "name": "BLUN-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1tr7355as8t6k9y94wru5humch34yacrv3mwz9n690fugwcc8mrvs296qz8",
     "entity": "Astroport",
     "name": "BLUN-XAST-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13f7dedzar82afsedw4kn388zvfg94r8uusefa8nj0zysrayqaszsvcje3e",
     "entity": "Astroport",
     "name": "BOND-USD-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1tf2lj6lp4y29kw36ue6tjsa97ad4e5fha6te08h26pg6y4v7c23qhu2k4j",
     "entity": "Astroport",
     "name": "BTC-UETH-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra18cl4602q8gfaxgm5gvh254s5qf9xhrhmlntsdpmduqgxa2qg9dgqkraadh",
     "entity": "Astroport",
     "name": "BTC-USD-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1eavy3qvhwcvmvah8hgru8x6sc3cnluxfyqlkctur0e4jkcqvwgxqxmc3hl",
     "entity": "Astroport",
     "name": "BTC-USDC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14hq8h7sjvkjv9dv90mcy3lt74fyevktrg9685rzeshx0y2vpkl9sg38zmv",
     "entity": "Astroport",
     "name": "BURN-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1yhpasjvjfc84ywwxl07tfy50zqqhh7l8k0280tfqyr8t5uu6gf4s6u0hxh",
     "entity": "Astroport",
     "name": "CLUN-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra17rlm3qv3c9epnkpc2l3h3n9zjn3ldjugwhxtuuw6mhhm2vskjkws04xzza",
     "entity": "Astroport",
     "name": "DUST-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ahr8gc72dht7s3fxhqp95xrnvn25uf3tw5elg3vfgtqm2qqk36yszxlcuq",
     "entity": "Astroport",
     "name": "FATM-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1xq08x97luxlraz7d79x240ntdaf8k8w0jtqmgtzr46drkz86xxqslh4fwt",
     "entity": "Astroport",
     "name": "GEA-GEB-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1rw5h8yrwkemd7nqmr2k70az2pel8r875qutu03cwjkczve4fev5q9m024s",
     "entity": "Astroport",
     "name": "GEA-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14qulp86csugtkn6mz2czdsf0rudwu8kt89ccrzdfrf5v9tt3jvxqnk94ce",
     "entity": "Astroport",
     "name": "GEB-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1r2e983ghd0jsk7r6k36zw4lnqf8y9raghzdnrusgsg97465uuvfq8nuls7",
     "entity": "Astroport",
     "name": "GIDO-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra15hgjqvr89q5t4qmvyt0qnmmlx34dyyn7e6x9z3fnqn5wtgj6lllqa95dm8",
     "entity": "Astroport",
     "name": "IBC/-BUSD-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra135t2lyz8638ad0l7nasth49agcm6cn36zdp9mtxd6gdxx0tzhlmqs3dq0q",
     "entity": "Astroport",
     "name": "IBC/-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra15me9trrk8nrtmwcgx248n98unlgw4a65vef8942rk336tytynqysqc53pq",
     "entity": "Astroport",
     "name": "IBC/-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1khsxwfnzuxqcyza2sraxf2ngkr3dwy9f7rm0uts0xpkeshs96ccsqtu6nv",
     "entity": "Astroport",
     "name": "IBC/-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14tu8x3hgzycpqlu6z87fm66uzthu409lk58u7uut5y9ev0swkxeq25axte",
     "entity": "Astroport",
     "name": "IBC/-LIRA-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ctkly6fuddqfpsq9fjjsqudx9zsl5crma0z4jl29zky3k8ezfe5s23gd7s",
     "entity": "Astroport",
     "name": "IBC/-LIRA-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra10rwjgm2nzweq04fqlqykld7azm4t0yhj8gwnyg9k7c4w4laht3aqrmwjyn",
     "entity": "Astroport",
     "name": "IBC/-OPZA-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1p2n59z2dnx9rt8m8qnztpyw9jgwt0gypenf3q6q0wpkqjcypkqvsq8u3pf",
     "entity": "Astroport",
     "name": "IBC/-TPT-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1s5ywajpamm25ny872ek26a56a7y3368h6eu4su2eff5ua8jw8yyqlxmtwr",
     "entity": "Astroport",
     "name": "IBC/-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1n9yykacl3ft9fw95sr0eckqsd6p9l62ehdhf5u6k6akmvupqr7as9ygupx",
     "entity": "Astroport",
     "name": "IBC/-USD-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1yj078tseqc85x9r54u06jhektnqhvcxayxqwycg0y3yt9867pglqcuqym5",
     "entity": "Astroport",
     "name": "IBC/-USDC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1v4ytr73tfkms7e5qhuy7qnmfkfgf6fs5ut9av6u78j9tv9ahwrlqazaycp",
     "entity": "Astroport",
     "name": "IBC/-USDT-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1r8m2zuy0wmrv5p3uxzctmpltztwd8x4hh0sw05hs7q9y7qq0m3hqws0lty",
     "entity": "Astroport",
     "name": "IBC/-UST-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gglgnmzuzfdu0v4v59c2442m9zj7sp7un256m0rvk6hg9jlh0wqsu4tsx3",
     "entity": "Astroport",
     "name": "IDC-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1l0dv709pqv2gcs86jr9w3k67jr7tk62vem0h8ntzzkpl443f27vsy47gsm",
     "entity": "Astroport",
     "name": "IDC-OPZA-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra16arnls40rkd07japhu3g4hf5j9ypqfmtfvl9hp9egmtg2m9eenvsaj72xu",
     "entity": "Astroport",
     "name": "IDC-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1t906pc4s8ptgrr8gx8m52hvvse8ytq5za86fmudm2wr4vw2kyqzqyph4ml",
     "entity": "Astroport",
     "name": "LOCA-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1s3fy4zc643suxfz7wsvhhgvhd0zv8jwrcl8ugdfq6z6nl3nxkg0q3s9nl2",
     "entity": "Astroport",
     "name": "LUBI-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1kv246hnusfqh3d97ww0u59hgaqf335844hmj4mrsadvnjwaf2n0qtyhrg5",
     "entity": "Astroport",
     "name": "LUNA-BLUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra16hnd8a8cy0z5u6t56mcv28yencp8dwv4rtjs4kftxmqn5mhnga3q0ceajp",
     "entity": "Astroport",
     "name": "LUNA-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1lgsccchaws9nnm74aj7uhdj289jd99893ngkv2am9j40cn0sza8sxkzc9r",
     "entity": "Astroport",
     "name": "LUNA-UST-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1zweae4lq0p3pa493njmjexywk9wmr6cznhp6pz50hmyvelluf8qqq82mpg",
     "entity": "Astroport",
     "name": "LUNA-XAST-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1qaudeq98hht76r9efvexhkf8k7waqq6cexqztgp5t6v0ptt7ljxq95nqlw",
     "entity": "Astroport",
     "name": "MAAP-UST-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1qqh6vpync8tylpdfv9mjemml02xutzmufetrp35na09k2cnlnl7qxh0lqy",
     "entity": "Astroport",
     "name": "MINE-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1alu4y2ncdyaamv9tgkxwefcazc433n5t9mpmpahnsy2dsng0m3rswmxpfp",
     "entity": "Astroport",
     "name": "MMSF-UST-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1n3zc3fey96mnfm094jka7hmezu38sdnswz3mp3my9hjuryd5gxjqxhx4ut",
     "entity": "Astroport",
     "name": "MOON-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14v6sh40tydg22c9ws2yhj8qgyhj8wsgand8uhmcvl4wad3209dzs0an099",
     "entity": "Astroport",
     "name": "MUSK-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra10ht5t5vzpt6lfh8r6lau6mtsha3rqeznhkw5whc65scgrtkqradq0zy9pa",
     "entity": "Astroport",
     "name": "ORNE-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1zf35dfsvk69c5dgytka82762922l2r4cj3v24un0uycln9hy695qkwlpga",
     "entity": "Astroport",
     "name": "PCE-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra17786erkmuydha7cwlgvvnler20cktz5egdea7pxs7ely9xu3v7eswdqa8h",
     "entity": "Astroport",
     "name": "PLUN-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1aqu49fznmzfgxky72fd3f4rjewexueu9c7yzjs59z2hqxv6ktxpsfffw87",
     "entity": "Astroport",
     "name": "PLUN-YLUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1qnxq4gjc72nraczff0gefthv0d83gxn3gzpqe70n9wynlvh2afjq86elkt",
     "entity": "Astroport",
     "name": "PN-U-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14a40x0uxgz3h76dk6l2u8qukkzsscrn3kdzv7ct85dltyrcqdpgs8uenjs",
     "entity": "Astroport",
     "name": "RED-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ua7uk7xvx89dg8tnr8k8smk5vermlaer50zsglmpx8plttaxvvtsem5fgy",
     "entity": "Astroport",
     "name": "RED-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1eex8w4vqukz54pzzngt8xzmp4w9wz2mp5hcde7wwqhmepzm0ec9qarwx3v",
     "entity": "Astroport",
     "name": "SD-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1fltdf8rkxz4ss06vtf2a4qt9tdplt52saefq650vyf47y4mt7q2qk0gtfv",
     "entity": "Astroport",
     "name": "SDO-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra109sh4nxudwcqrq0v8gdna46sc3mhs9qh49jrv3m6546asc3kk87s3z28hr",
     "entity": "Astroport",
     "name": "SOL-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1s7q7vl49xfqheeskh8dxss473kuaxhgd3qtrx5rpg0u57fwt7zeqzm7u9t",
     "entity": "Astroport",
     "name": "SOL-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
@@ -470,6 +536,7 @@
     "name": "Staked Astroport",
     "symbol": "xASTRO",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://app.astroport.fi/tokens/xAstro.png"
   },
   {
@@ -477,343 +544,392 @@
     "entity": "Astroport",
     "name": "STEA-ASTR-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1dpvp8xra378kadfmn0c93n9qvf942r04vkznh75c2s4cy3atq72sq3jetx",
     "entity": "Astroport",
     "name": "STEA-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra182wam9eklls989k5qqrcv5s64a9cat6ctw4zr3paa6k79dxt4k0q4kd97a",
     "entity": "Astroport",
     "name": "STEA-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1w45txv24j32l27kmnj23rrrpz34c0hf2aj2tmqf466g758ndhgzsu5y42s",
     "entity": "Astroport",
     "name": "TCW-AUTO-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1339twwfe6rqgj4ge7qe5mdzu238ke2farlnwm7k2allh9un96w9sywjsff",
     "entity": "Astroport",
     "name": "TCW-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra153zpj7f0shmfrt95s2jmets2k7fuuclerxh295n7hltf0z7p9xdsdngtdr",
     "entity": "Astroport",
     "name": "TFLO-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1y0hu67n6jq49a3ml43py4jzkr43a4qn38clvxsmd567rr4kdtj5sn4ehez",
     "entity": "Astroport",
     "name": "TKNA-TKNB-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1cjz82w795jcsxp09dpps697qwx55aryprvypl3n07my4zwrxfchs34lqcc",
     "entity": "Astroport",
     "name": "TPT-OPZA-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ces6k6jp7qzkjpwsl6xg4f7zfwre0u23cglg69hhj3g20fhygtpsu24dsy",
     "entity": "Astroport",
     "name": "TPT-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1n6sa5dykwq87w8v08xqr2jnhwv2r7kzznvvqz7dvhkqch8kapwjs6xtl5s",
     "entity": "Astroport",
     "name": "TPT-XTPT-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13qn86nhlj09kh6ea3pzvswj48yzyrh49rnhjwh9qv7gvu54qgq2qrmet53",
     "entity": "Astroport",
     "name": "TUNA-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1paat6jjgnfvavhfncdxhx4djpzansv9h06vge5grf3daqn8suezql2t7gx",
     "entity": "Astroport",
     "name": "TUNA-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra18e6uqw3sx6xgg57t7rglstmqgqrm4ks9428am8crg2aeuqkxk37qzhq9xx",
     "entity": "Astroport",
     "name": "TUNA-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13406847ntuyct7qgefrks05cfuca7jtf4u9zqnahud2c7vnarkysj2c8gj",
     "entity": "Astroport",
     "name": "UETH-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1cq22eugxwgp0x34cqfrxmd9jkyy43gas93yqjhmwrm7j0h5ecrqq5j7dgp",
     "entity": "Astroport",
     "name": "ULUN-AMPL-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1fs0p7gammucw7get7mq7rzdk6rexxgszp003zr3859qyfc02ur2sdha672",
     "entity": "Astroport",
     "name": "ULUN-ASTR-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra15sytd365u3nw8xku492cj9nec6pgn9py6w5qka83fd9d26yr8cgsu5apxc",
     "entity": "Astroport",
     "name": "ULUN-BLUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1xnjmgzzukpnp92mlhsu9ghmlg29h5hdtrv8n34mhvgmsctug4prq9prw2l",
     "entity": "Astroport",
     "name": "ULUN-BLUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1psd6waufk7hnhquh82wgnpt6qhevplnsjkwp6vw3enk2czxkjvmqzmyvkr",
     "entity": "Astroport",
     "name": "ULUN-BUSD-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra12lq8l9tc3z9h8cy4qt9khmalrzv2nszdu8rl2yfsmjvcn0vffnfqhznup3",
     "entity": "Astroport",
     "name": "ULUN-GIDO-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ngp9lsp72hjjate0jlmhz27ra6mjap97ptg0r4nuytf3kuk2md6sz8twrv",
     "entity": "Astroport",
     "name": "ULUN-HERO-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ckmsqdhlky9jxcmtyj64crgzjxad9pvsd58k8zsxsnv4vzvwdt7qke04hl",
     "entity": "Astroport",
     "name": "ULUN-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1yfm49ecnsaxjh83raczdxy6jgq2rykp8kc2pmlw62rxu3dyy4laq9fzmu2",
     "entity": "Astroport",
     "name": "ULUN-LIRA-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1kggfd6z0ad2k9q8v24f7ftxyqush8fp9xku9nyrjcs2wv0e4kypszfrfd0",
     "entity": "Astroport",
     "name": "ULUN-LUNA-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra12vc5agylj7g9xudc0lf06n76dfvplmqxcpcsuy9805sljrukhgxq3sfy5y",
     "entity": "Astroport",
     "name": "ULUN-USD-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1cfs2gjc96wca6ahq0hzjcj56wy37fj76slvtfq22hpfrly7vfzeqa9ruz7",
     "entity": "Astroport",
     "name": "ULUN-USDC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra120c58hp4d6e4c5uksdvcfhqkruxxhm3fljlmywza5x25gdm45tts8f9jkg",
     "entity": "Astroport",
     "name": "ULUN-USDT-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1pccqe4pufnw05wwl0xe9uc99lngnddpn8az48fe3svpeca0hq0tqrfeznp",
     "entity": "Astroport",
     "name": "USD-UETH-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1g79v06mvtn0jm6q274axyyg00l2yv5lgrxhl53ht728sxr8ke4fs8pgazj",
     "entity": "Astroport",
     "name": "USD-USDC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1mnysxy8lrsx0vzsgpnln8c6p40rm5z00umhpmks6he6utr0cw56scfpt48",
     "entity": "Astroport",
     "name": "USDC-BUSD-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1wv46n9zggd8sx30d8gfgzeyu2a7rmdc8makk7cl4qgtlnw342kpq94faz0",
     "entity": "Astroport",
     "name": "USDC-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1pqd0vm00z7urf8u8wmg4m4kpavr7g5myrcz9he4xzyq9etkafyds0hkkk9",
     "entity": "Astroport",
     "name": "USDC-UETH-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1v6z888r63vzc094w2cll9z42xjwc7kuf8feccyh9f5ehkqmwqcdst2afjf",
     "entity": "Astroport",
     "name": "USDC-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ef5veuvpudt392jvwrzfw79e0glcdjthgq0cyj3xs8uc98p7x3tqg293tl",
     "entity": "Astroport",
     "name": "USDC-USDT-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1vuh08zt4qcsmmu0g4p8k62mpzkj2v3rff4dg4srzdd2xenlm5qeqlwjht3",
     "entity": "Astroport",
     "name": "USDT-BUSD-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1r3v8yfhvkmx6gy2sa93d062sjf60c7atm3xage4pn3rsuum8ktvqesvl8h",
     "entity": "Astroport",
     "name": "UST-ASTR-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra19ugc0gmww0f94pckazqfa4elnvt3rlrd6wp23w0ry88j3dfuya5sm7nyns",
     "entity": "Astroport",
     "name": "UST-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ljjau3mzxv2rpje5p67vfa2uc82uvct5l70z5cqegd0pnus3u26svpura9",
     "entity": "Astroport",
     "name": "UST-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1vd0pgkrg0t0ekz5gefudvw0crlzvcqztc5ngec34memth5ft6mnqtjmd2m",
     "entity": "Astroport",
     "name": "UST-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra18mcmlf4v23ehukkh7qxgpf5tznzg6893fxmf9ffmdt9phgf365zqvmlug6",
     "entity": "Astroport",
     "name": "VKR-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra10e606vcy44er2p570a7g2dkugcvua4k0u0y3gvq9r606uemv3wus967av2",
     "entity": "Astroport",
     "name": "VKR-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra18pr2eu0js9laz3u4k5tcwyuqfup484z8qm66vtkwcfeukmpgyapq70wj44",
     "entity": "Astroport",
     "name": "WAVA-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1njqfs4v35leu654394yx0lyccvcau3j9u5v0k4gnx0dcl55rkqrqxwswd6",
     "entity": "Astroport",
     "name": "WAVA-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1cs9wyhlcdz7w5arfgs7c9u0x7l2ev8atd6vzqd8pl702zpe69ndqpln7ky",
     "entity": "Astroport",
     "name": "WETH-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1857ysefuel7ywk2qhj2zqfa5z2vcpesys7h38v5jdtttatadm36sq0j8vz",
     "entity": "Astroport",
     "name": "WETH-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1jv3ulmux29vtp89hgnmn9847ww7w5a9p433l7lgjrpzuxfagcs0sc77g48",
     "entity": "Astroport",
     "name": "XAST-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra19ruafuuna67knun0e4falancl0u39jtnar9euv8s3h08le46wyfq7lyn4u",
     "entity": "Astroport",
     "name": "XAST-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ysdymqfph9jwlkynm9rm8gskf38pulzc8p2t707wtu00j6n6w8vsyke4zp",
     "entity": "Astroport",
     "name": "XTPT-XAST-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra12xcl4p6wmksle9a4vax4vr9umju30s4mv495pmnmkjj9587ugkrqg7jz3l",
     "entity": "Astroport",
     "name": "YN-U-PN-U-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "ibc/2E9CD07D7A6572A4CDAABBF0FBB89F69A9A362818132221182654819E277220A",
@@ -821,6 +937,7 @@
     "name": "Axelar AAVE",
     "symbol": "axlAAVE",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlAAVE.svg"
   },
   {
@@ -829,6 +946,7 @@
     "name": "Axelar ChainLink",
     "symbol": "axlLINK",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlLINK.svg"
   },
   {
@@ -837,6 +955,7 @@
     "name": "Axelar DAI",
     "symbol": "axlDAI",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlDAI.svg"
   },
   {
@@ -845,6 +964,7 @@
     "name": "Axelar Frax",
     "symbol": "axlFRAX",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlFRAX.svg"
   },
   {
@@ -853,6 +973,7 @@
     "name": "Axelar Matic",
     "symbol": "axlMATIC",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlMATIC.svg"
   },
   {
@@ -861,6 +982,7 @@
     "name": "Axelar Uniswap",
     "symbol": "axlUNI",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlUNI.svg"
   },
   {
@@ -869,6 +991,7 @@
     "name": "Axelar USD Coin",
     "symbol": "axlUSDC",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg"
   },
   {
@@ -877,6 +1000,7 @@
     "name": "Axelar USD Tether",
     "symbol": "axlUSDT",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlUSDT.svg"
   },
   {
@@ -885,6 +1009,7 @@
     "name": "Axelar Wrapped Bitcoin",
     "symbol": "axlWBTC",
     "decimals": "8",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlWBTC.svg"
   },
   {
@@ -893,6 +1018,7 @@
     "name": "Axelar Wrapped Ethereum",
     "symbol": "axlWETH",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlETH.svg"
   },
   {
@@ -901,6 +1027,7 @@
     "name": "boneLuna",
     "symbol": "bLUNA",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://i.imgur.com/8CpJdcB.jpeg"
   },
   {
@@ -909,6 +1036,7 @@
     "name": "Cosmos",
     "symbol": "ATOM",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -919,6 +1047,7 @@
     "name": "Crescent Network",
     "symbol": "CRE",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/CRE.svg",
     "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
   },
@@ -928,6 +1057,7 @@
     "name": "Eris Amplified LUNA",
     "symbol": "ampLUNA",
     "decimals": "6",
+    "type": "cw20",
     "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
   },
@@ -937,6 +1067,7 @@
     "name": "Gidorah Token",
     "symbol": "GIDO",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://firebasestorage.googleapis.com/v0/b/wicca-c3bbe.appspot.com/o/app%2Fmainnet%2Ftoken%2FMIRhzK1keYKtJsRYg_oL9.jpeg?alt=media&token=5de0205f-d0f6-4a76-b765-e6dd59d7d47a"
   },
   {
@@ -945,6 +1076,7 @@
     "name": "Graviton",
     "symbol": "GRAV",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/GRAV.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/grav/",
     "coingecko": "https://www.coingecko.com/en/coins/graviton"
@@ -955,6 +1087,7 @@
     "name": "Juno",
     "symbol": "JUNO",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/JUNO.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
@@ -965,6 +1098,7 @@
     "name": "Kujira",
     "symbol": "KUJI",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/KUJI.svg"
   },
   {
@@ -973,6 +1107,7 @@
     "name": "USK",
     "symbol": "USK",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/USK.svg"
   },
   {
@@ -981,6 +1116,7 @@
     "name": "Lira",
     "symbol": "LIRA",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://lira.financial/images/icons/lira.svg"
   },
   {
@@ -989,6 +1125,7 @@
     "name": "Luna Bird",
     "symbol": "LUBI",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://www.lunabird.network/logo.png"
   },
   {
@@ -997,6 +1134,7 @@
     "name": "Orne",
     "symbol": "ORNE",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://orne.io/img/token_icon.png"
   },
   {
@@ -1005,6 +1143,7 @@
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis/",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -1014,56 +1153,64 @@
     "entity": "Phoenix",
     "name": "IBC/-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1s3zkg95yrmdl0nlxnynkunq3uqyeuu6mk3ca6vtcag0us9ejtjas0dv7em",
     "entity": "Phoenix",
     "name": "IBC/-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14s6uknh7zc97m3zqfejfqkkzm90tx9zez6k4swqa3422xvgpy56s3tyn49",
     "entity": "Phoenix",
     "name": "IBC/-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1fqh5u2m7qs7vfz0ty8c8n9td74afgltrgg98ezqmxqg2dgqdfqrq2wy9r6",
     "entity": "Phoenix",
     "name": "IBC/-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1wwmlrhulv55ph6vnv8wlgma5sjca2p8k8ykrmkfyh9qj3kct9m7sez5cv8",
     "entity": "Phoenix",
     "name": "IBC/-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra12ctxrpmkpqr0gzrndjwr2a8k0gp3stx94x4q5p7g7u30p9mnrezsc2sl3n",
     "entity": "Phoenix",
     "name": "LUNA-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1dxd7vh4x6cf6n20p2x6syatxdv4jftzzs45n42wn7kutqc0xxj8sj3p0dc",
     "entity": "Phoenix",
     "name": "LUNA-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14zymzz73zzmrpfujjxkv6drcqdjdve3jsz5rx00464x9jdld6ays06l0n3",
     "entity": "Phoenix",
     "name": "MINE-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
@@ -1071,6 +1218,7 @@
     "name": "dinheiro",
     "symbol": "Dinheiros",
     "decimals": "0",
+    "type": "cw20",
     "icon": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png"
   },
   {
@@ -1079,6 +1227,7 @@
     "name": "escudo",
     "symbol": "Escudos",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png"
   },
   {
@@ -1087,6 +1236,7 @@
     "name": "real",
     "symbol": "Reis",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://static.wixstatic.com/media/1e62a0_89af25478e5144089de9292b990493e2~mv2.png"
   },
   {
@@ -1095,6 +1245,7 @@
     "name": "Red",
     "symbol": "RED",
     "decimals": "6",
+    "type": "cw20",
     "circ_supply_api": "https://api-v2.redacted.money/circulating_supply",
     "icon": "https://red.redacted.money/red.svg"
   },
@@ -1104,6 +1255,7 @@
     "name": "Santerra",
     "symbol": "SANT",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://santerra.app/sant_logo.svg"
   },
   {
@@ -1112,6 +1264,7 @@
     "name": "Sayve Token",
     "symbol": "SAYVE",
     "decimals": "6",
+    "type": "cw20",
     "circ_supply_api": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/data/circulating-supply",
     "icon": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
   },
@@ -1121,6 +1274,7 @@
     "name": "xSAYVE",
     "symbol": "xSAYVE",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/xsayve-logo.png"
   },
   {
@@ -1129,6 +1283,7 @@
     "name": "Secret",
     "symbol": "SCRT",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/SCRT.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
     "coingecko": "https://www.coingecko.com/en/coins/secret"
@@ -1139,6 +1294,7 @@
     "name": "Stader (Wormhole)",
     "symbol": "SD",
     "decimals": "8",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png"
   },
   {
@@ -1146,7 +1302,8 @@
     "entity": "Stader Labs",
     "name": "Stader LunaX Token",
     "symbol": "LunaX",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
@@ -1154,6 +1311,7 @@
     "name": "Stader LunaX Token",
     "symbol": "LunaX",
     "decimals": "6",
+    "type": "cw20",
     "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stader-lunax/",
@@ -1165,6 +1323,7 @@
     "name": "Steak Token",
     "symbol": "STEAK",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://liquidstaking.app/steak.png"
   },
   {
@@ -1173,6 +1332,7 @@
     "name": "Luna",
     "symbol": "LUNA",
     "decimals": "6",
+    "type": "native",
     "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
     "icon": "https://assets.terra.money/icon/svg/Luna.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
@@ -1184,6 +1344,7 @@
     "name": "Terra Poker Token",
     "symbol": "TPT",
     "decimals": "6",
+    "type": "cw20",
     "circ_supply_api": "https://index.terrapoker.games/circulating-supply",
     "icon": "https://terra.poker/ico/ms-icon-310x310.png"
   },
@@ -1193,6 +1354,7 @@
     "name": "xTPT",
     "symbol": "xTPT",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://terra.poker/ico/ms-icon-310x310.png"
   },
   {
@@ -1201,6 +1363,7 @@
     "name": "TerraFloki",
     "symbol": "TFLOKI",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://terrafloki.io/tf-logo.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrafloki/"
   },
@@ -1209,371 +1372,424 @@
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra136ce352lvvlgs662hplc0rlf8tq8tvjrcaadp2ezzf2wf604gvsswflejp",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra139djw4keg5vu2x2cwucapkxp4efst286rf0n9gh3cv3ptm65c80shy0fwl",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13w89pfxhk5k62xp8ctckkhrjwwvq34czmltwkvsck0kvenyspk7q7cpcss",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14avgfstw3th676cy3mg7kwqd5a09yfwwk02uztqzq4lzu78e738saktxrk",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra14m6nt5dwnxsmvt6pv6am8dkmqrf263acgjq6ex00un3t0qdd9pts2fy2cq",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra18fe2jdsll40rhfhfj34n0vlkysjsndwd20jecvezdxc3dp4kcr5s7uucd3",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra18jq3nawedex6s67f2rwkz3e7a57a5nxq40r9905yvyran5x7dh6sm7krj2",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra19dgcuxy7vlu2u4lpv407kcrg7yeaj9an72r0gver20thkejgprksvd06yv",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1a0fyanyqm496fpgneqawhlsug6uqfvqg2epnw39q0jdenw3zs8zqlykdyd",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1a0s7u0zej7jpzuq90yglms75ng5yvq9q20awu44h395hc9k249hsry5d2j",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1a4hcacqpkqgmh94jpe290gekgv6f7euhfcl2fxm22s2r78uck9lqw33t99",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1dsy8ly4t2xtzlseflqlphg8cr47sgg3egmk8pktnnq5cd7hu04lqhp80mu",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1eh2aulwsyc9m45ggeznav402xcck4ll0yn0xgtlxyf4zkwch7juqsxvfzr",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ep6pquxwgfljxzvgs7l7d0epp8spx3erysymhd8m6u4x94ztjxhqyhmyrp",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1epvnlk847v85sa82ndvt730ndhkalq22lehkwrv3fwzy00kyydxqyk27m6",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1erku46zd9ac98ts6mzj0fxv3rv37c4al5afff4xejhx5cveqefrqa9js3n",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gdj85sxs0tqhap50pv6jr6vrku4vqfrx5k62x0fu4gxt4l66qjgqqyz386",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gkg8cxha802dy8km0jldyegmtj384f69wp0c3cvtfq43gu8caa7swpe4kc",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gte4eejaw3hrs2d8pt0zhp0yfd34xp24qdgqumjul29jt5hwl5tsx3qmw7",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gxnp98ghg5mqddw3n0ve6uw3ay9hnt0ks9r3dyucjn0y007u64vqw03d6f",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1h7kgccvtdf6z2udech63qlvn5j06pw0vny9uq2wl8eqad63vt95q2pkmrq",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1hhjh8hj0zdx2qh70gsuse4efer0dq93rwggkwd6w2jqpafa5gw4qhzn047",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1hw5n2l4v5vz8lk4sj69j7pwdaut0kkn90mw09snlkdd3f7ckld0sutg4p7",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1k6pf84kdfxqz6gmcl9w0wwphkvwxccuz3e9fryrgvlxepuw5qrhqp07sd9",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ka40j33h55z3vkr98etwd4l0v8htaup4883pa53ze4ncaa8z9vgqd49ngc",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1kzwl8dk45sn3nrfpangz73za32kzcyz4t6lq8jq9ctrwrzv07c4qda7sy8",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ma0g752dl0yujasnfs9yrk6uew7d0a2zrgvg62cfnlfftu2y0egqjpj90v",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1mpyp9t48q2dy6s4lkxwjpy8sgg4r823hwam2tap2ra86hmgrrqyqcf6ehy",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1nc84knc0n7td5xqplwy0luh97zd8hv5mhvm9cdempc05xk0xvxyqjr6cyg",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1nf8q6w0tl3hmnvs3llakr52f9gtlnyfmtt0ynmwweppx4g2y42dqxaqrek",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1np60v3wfrdp232m765ulrmvcwqz5ymkfvflfw59enhftnnn3sceq9gt7f0",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1nvd25azm56h9fk7qn9r0usjsn3g2n34w7dypw52gam8ytgvrcrfslrq2ff",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1nwju0tcdykx037phw8qh7jzwqal5uk7ekqjkxzpuymkpmc7a4sjs3d3t9a",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1pt6wkxlkga4fw2spxawd0ymqfdy63xk7y4tr6cawafmd06dfzgxqr9mwk8",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1q3647qp780u7y2zvau5fn748zqxsfm4kr6lcvr5jjev5a77kchxsjy2m4x",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1qatnqunnama825l0xf6nmxgts6j27vqfhnzadwecld4mnlumhkkq9q7cn7",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1qcax3h3cadtpqua2uev06euuse8wxsjzfrtlmt0nyp2aw0a7hctq0ww6p9",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1qzn7zc70c5npg5tyc6pvwrpvfp7p9utkpcwlaugn9avn6r49609suh5g0r",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1rwx6w02alc4kaz7xpyg3rlxpjl4g63x5jq292mkxgg65zqpn5llq9etvsk",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1rwz4h4xqlmlt6h475ckllxks8t8gulrg9dpgj5tkm8udf5mgcy7sj2rtva",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1sn3ee5c5ujczx9ksky8hn2x0jwqf2sc5hxgn9gch32933mxjjv7qtl53w5",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1tewy0s0xydvh3l2wkpf238rp48n5mmd3xjfwp6j3cy603hvpgf2sztgvv8",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ttaekgrc60xc3xcflq069m49lwu79m5t552rjcws48rzhxcr4g6shmdw2v",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ugtkewkzkq26ya8ye6gfwkt9jpj08sw0737ddjj9h803ee4768xqwr56d4",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1uvqk5vj9vn4gjemrp0myz4ku49aaemulgaqw7pfe0nuvfwp3gukq4rz3fj",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1vz29w25qu5lzfghz89yy6cq7jaj5snjf5p66qcmp4hza87jcstfqylf5er",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1w2l4w5p66l5t2nmrmsvz7k4cu50s7e8dc6h59gcxsnmp2tgy7q7smfaxql",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1xgkjhtn4d5csgwchma73gtx5yzjxuq0eywz25lj56eqgq4d4r37sygw8wn",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1xj8h7gkdr4kalgqmvvpmdxd2rkn6u5amlg0j3zek523y4sz2nlfs5gcgyv",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1xnudulcse7gp2rg0hpzxtx7cz72mg20pjqhzw87z0j3pk5y9lufqupgj22",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1xnxsxarhsj6v5xlrc2es2lw937z6jxat643p5uvqa3dllewl5s4qa7hwkw",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1zmlgklwyrzvhgvn5sfrq28fad69wcevjymkea7jgpz8gheuk6qas2w8krk",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
@@ -1581,6 +1797,7 @@
     "name": "Valkyrie Token",
     "symbol": "VKR",
     "decimals": "6",
+    "type": "cw20",
     "circ_supply_api": "https://terra-api.valkyrieprotocol.com/partner/coinhall/circulating-supply",
     "icon": "https://app.valkyrieprotocol.com/icon_vkr.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/valkyrie-protocol/",
@@ -1592,6 +1809,7 @@
     "name": "Wrapped AVAX (Wormhole)",
     "symbol": "WAVAX",
     "decimals": "8",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/wavax/",
     "coingecko": "https://www.coingecko.com/en/coins/wrapped-avax"
@@ -1602,6 +1820,7 @@
     "name": "Wrapped Ether (Wormhole)",
     "symbol": "WETH",
     "decimals": "8",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/weth/",
     "coingecko": "https://www.coingecko.com/en/coins/weth"
@@ -1612,6 +1831,7 @@
     "name": "Wrapped SOL (Wormhole)",
     "symbol": "SOL",
     "decimals": "8",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-solana/",
     "coingecko": "https://www.coingecko.com/en/coins/wrapped-solana"
@@ -1620,190 +1840,221 @@
     "id": "terra1693sgskk3tj24n8atssq5x7aq090awq6wy7hkmpew403vg6svzjq6x04nh",
     "name": "alentejo.money",
     "symbol": "alem",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1hva5lt2whpgav5hhsxfvegvkk2kjjshprzj7spe3cl24g4705asq4kx299",
     "name": "AMPL-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
     "name": "ampLUNA-uluna-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "ibc/B3F639855EE7478750CC8F82072307ED6E131A8EFF20345E1D136B50C4E5EC36",
     "name": "ampWhale",
     "symbol": "ampWHALE",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
   },
   {
     "id": "terra1wu5cts7zr3sfmwlxfh7an3nthrx9cuz8fx7xfesmdudg2kzcwmhsaw24r8",
     "name": "ANC",
     "symbol": "ANC",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gwdxyqtu75es0x5l6cd9flqhh87zjtj7qdankayyr0vtt7s9w4ssm7ds8m",
     "name": "Anchor Terra axlUSD",
     "symbol": "aaxlUSDT",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1p67lldutk5haqpmnk5thuhmhyff8ntf8axa37mzm87qq58082u0qqp9mmu",
     "name": "Apple (Wormhole)",
     "symbol": "mAAPL",
     "decimals": "6",
+    "type": "cw20",
     "coinmarketcap": "https://coinmarketcap.com/currencies/mirrored-apple/"
   },
   {
     "id": "terra1plhefzma59lh6rjk5gfkq45pz2chfq35nm9xgdz4pcuhp3nnwekq8sthua",
     "name": "APY 365%",
     "symbol": "BOND",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1tgjah63kfmsk38nmanckpf2j28qntdg6zp6vqx4v6mttaza0l3ls0ld7km",
     "name": "ASTR-BLUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1wrjl547wvaw7vm7e2vqvnvmaeszumfx9whpqdaw8xl5vh65cx24sf6jgap",
     "name": "ASTR-BRGR-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra185r56sntq8cjem0ttcg93l5cwsx58f4vsl74uen0j8j8z2qnlf2sjgaaqt",
     "name": "ASTR-DRMR-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13qaz542ft2ve34jfdy8epp33v6gfd857vc98sjxapf86fh83p99spzqf0u",
     "name": "ASTR-FRGY-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1u9amrmxnnhfwecku6ndaxk2034e73cddxau96avzg4r0xvta4wns2ckane",
     "name": "ASTR-TPT-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1jqt5mmlpd6x3jtwfdsxwtrknvaczz2xmplukzc8h86xhupg7fe7q7nkzdp",
     "name": "Auto TOKEN",
     "symbol": "AUTO",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1km69jdkp00zvsqya0pmyqn8e3thg7csuud2yw0v2a7jy87uh52qqz7rcq5",
     "name": "BASI-DRC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1uuz0sfj2gauppp9p8sul50x97nu3jhtfj7y22x93wgte4kgs0jpqad4qmf",
     "name": "BASI-DRMR-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1plcht4ueytcpwk6vh4c366g74p3dzrt7st4phszx4mjmsfh74y2sq04nw2",
     "name": "BASI-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1uelwtk27dq4luvyj0w0u8jvsejcw2l5fvy8n3kxurl69pleqkp5sl5t2rq",
     "name": "Basic",
     "symbol": "Basic",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra10k0kuaxr2lrgqlp9wqc0xxs3u5lwx434ttg2avc0mtttavykzh2qssgtku",
     "name": "BAZ",
     "symbol": "BAZ",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1a7zeajhk6nnj7jzu2rxynwr3yvp58gj2ffxe9k4dneyte0v5kkeqnmzwvq",
     "name": "BAZ",
     "symbol": "BAZ",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1vpcj4fj0yxy4m928lxf8us7tk8kdqr3ny6q2gtx7g0s935awdreqppm7au",
     "name": "BLUN-USDC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
     "name": "bLuna",
     "symbol": "bLuna",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
     "name": "bLUNA-uluna-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp",
     "name": "Brand Governance Token",
     "symbol": "BGT",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://s3.ap-southeast-2.wasabisys.com/bgt/bgtoken.png"
   },
   {
     "id": "terra15sad8j5wx8u0aptgfvmz7zwsjrl7mfuc207d3gljh9gdaxx0d0kqq8d7kc",
     "name": "BRGR-BASI-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1m06sj94uj26c9lscuyfvns5avk9jckehs7287zkfa9usctfpu5tq8y8fd8",
     "name": "BRGR-DRC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra152ffgyevz7u3nu2a8s0tfur8m7w2uqd5asv9tlzpfnldeft6k2jqraps9l",
     "name": "BRGR-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1a2gdn43yjllg3jvna7xcv2zea0ppjchsww2fedd63l9k2azg6j7qg6v3pj",
     "name": "BTC",
     "symbol": "BTC",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1uy87s853kqhlac6m7fdc7w2zx43ww5y20qv5llnuanj8fp9lek6q8djl75",
     "name": "Burger",
     "symbol": "BRGR",
-    "decimals": "12"
+    "decimals": "12",
+    "type": "cw20"
   },
   {
     "id": "terra13e7da9f90m32s04kg4knlpsakmn50kqz2zx2rqypkahhp29gxdwqu4vy8q",
     "name": "BURN",
     "symbol": "BURN",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra129zjaxquhh3h5upn0clqzdawnze43a9z34ktt4l6um2hf5w0xqjsta42u5",
     "name": "BUSD Token (Wormhole)",
     "symbol": "BUSD",
     "decimals": "8",
+    "type": "cw20",
     "coingecko": "https://www.coingecko.com/en/coins/binance-usd-wormhole"
   },
   {
@@ -1811,6 +2062,7 @@
     "name": "bWHALE",
     "symbol": "bWHALE",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://app.whitewhale.money/logos/bWHALE.png"
   },
   {
@@ -1818,279 +2070,325 @@
     "name": "Capapult",
     "symbol": "CAPA",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://assets.capapult.finance/icon/Capa.svg"
   },
   {
     "id": "terra1sp74507a9fn8clm6s62r2sl8t22x5lgqyvagserksycsqn7lj9kqnvl005",
     "name": "Capapult governance token",
     "symbol": "CAPA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra170e8mepwmndwfgs5897almdewrt6phnkksktlf958s90eh055xvsrndvku",
     "name": "Cavern Bonded Luna",
     "symbol": "aLUNA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz",
     "name": "Depegged UST",
     "symbol": "dUST",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://gateway.pinata.cloud/ipfs/QmTEo7AmbgygF2mek89MHBJ1wPrB23TA811VeXCdcXW5pf"
   },
   {
     "id": "terra1zjtpdke8qnqjflgeyyd8wrg2de32z3g2avk2utwlc4vzjw974jfs34nu08",
     "name": "DRC-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1c5qexuz3hx9rkac8tfa9ktytfgurg767qd5p08e7l7khkhtktk7sx84vdk",
     "name": "Dreamer",
     "symbol": "DRMR",
-    "decimals": "18"
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "terra1mdnu6c2a4zdjqa4guy2cjl3v54t64h33qrz5sktr33nqlh8fkl2sq8248q",
     "name": "Dreamers (Wormhole)",
     "symbol": "DRMR",
-    "decimals": "8"
+    "decimals": "8",
+    "type": "cw20"
   },
   {
     "id": "terra1gn3fwtw7k40gl465723phk4qgarthw32t962acxz5e5rjzgepwpsjysppv",
     "name": "DreamersCubed",
     "symbol": "DRC",
-    "decimals": "18"
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "terra1kytfl8v8e9pq0s5texq2vwcjy9k456ky44x0429yeh3cwj9m64cqdfpa9k",
     "name": "DRMR-DRC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1cpflqqkse0lljw4cekrh9sqdz0km9p9lzteqd55y5qd0yrdzxg8sytqdpk",
     "name": "DRMR-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra10n8tq3hxa5rkgzwdjylehrl27alhlutyssqlrajr0h80vze46dfsye9y8v",
     "name": "DRMR-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ms2jvfvhvxg83tu7w49cp438rf6fyy5vxjs7dd0c9fp2sjqye07q2w40e9",
     "name": "Duke Token",
     "symbol": "DUKE",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1trh2tl98zdu4swpghhnxdnna4rf029eptxau95kgscz520f4tp9sexmvkv",
     "name": "Duke Token",
     "symbol": "DUKE",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra10mdchp7kmpj8v5maqk902pwnm0ynj39shme66krac6nm2cw9zh4qxvvcx9",
     "name": "EGA",
     "symbol": "EGA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1v0g6jel2c5rf00yw5szjw38fn527w5p6szujmw44n2x9azkfumcqpv4j9s",
     "name": "EGB",
     "symbol": "EGB",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ly8vd2q69h3jlyjgnwqq0q4wngulmr2l2gr0lxd93tqle42596rsq5zz5d",
     "name": "ETH  in USDC",
     "symbol": "uETH",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "ibc/14accad1750327c74bb35978ad0c3e97b184dab9f0bf4bd876fbd1f782b57110",
     "name": "factory:kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7:uusk",
     "symbol": "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q6nuam0",
     "name": "FatManTerra",
     "symbol": "FATMAN",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1zf90xr38pdgq0yjq2d56scclpfyu3ep4d720s9r2yw9gmwg7khaq0c30rl",
     "name": "FatManTerra",
     "symbol": "FATMAN",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra10exkttsx4xq2j5k3uel9h4gvxy63yd90u46yt3qzn9vfcuh2utwqydz8rq",
     "name": "Froggy",
     "symbol": "FRGY",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13jlm0anpdd3hc0xctw9vtncmcfnrag8dh686s2juy7m226unwd4q0tmx2v",
     "name": "GEA",
     "symbol": "GEA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1mrdgys0e0hhq0n56zgy3e0htahcnwtdt4dy2ec9wcltcr6qjntmq0yen07",
     "name": "GEB",
     "symbol": "GEB",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra177huv6k3gyqwxcd7n32ts56tvxt68dgll0fn56k56rcvy9zeke9s5gfn3c",
     "name": "Gidorah",
     "symbol": "gido",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "ibc/1e6c27ce5a5c42f1d0bc946ce267425896f1b9ee42c9a69b1238a55210cb79ea",
     "name": "gravity0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d",
     "symbol": "ibc/1E6C27CE5A5C42F1D0BC946CE267425896F1B9EE42C9A69B1238A55210CB79EA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/4f81b5d69a628383427ef02c5a8cf95cb747c9bc0f867b0625796f452f2e9eeb",
     "name": "gravity0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
     "symbol": "ibc/4F81B5D69A628383427EF02C5A8CF95CB747C9BC0F867B0625796F452F2E9EEB",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
     "name": "HERO",
     "symbol": "HERO",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra18278qyznzktl8sxnepca4yw0cpdmxxjz54zf3xnn8sfh7au3uspq0ka994",
     "name": "IBC/-FRGY-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1px8kmqg3m6kvmuf39ewua8c9scvl5mypw4pczpt35t7t6rwadxxs53m8a7",
     "name": "IBC/-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1d8j3v5dg08mnw9yzh242nvdc2mznup400msx8d6hcgpd2ygv4uuqfy4v9p",
     "name": "IBC/-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1zgtka8nyjvnet5v4xhecwl4afpmkv26mp7c22jegsavhp2pmpcrquhluuz",
     "name": "IBC/-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra12857xqnmsxdcd73qvtl7cr92djguxs03mmpgmgksey0xxzmkzqvs29aadp",
     "name": "IBC/-USDC-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1avfsch3ee82wyrpwlawecyz6zktr9jln0zaxp58xuvmxyl5g305q3rwuj3",
     "name": "ibc/2739...5EB2-ibc/4CD5...3D04-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra17ly9laewec70qu6tl0e3qrwh2vhz9akpf2jd7mxqram63xg2n0rsj36xvr",
     "name": "ibc/2739...5EB2-ibc/B350...C9E4-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
     "name": "ibc/2739...5EB2-uluna-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1necjy4mmes4fvsvjvne5kkl3zhszg7s3s3jayfgzudsshnpv69kss5m2k2",
     "name": "ibc/36A0...B8DB-ibc/B350...C9E4-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1le46uu9qjk53aktjs8dev96sl9sd2ujvcpspk75pdeg0txfvhyuswm6653",
     "name": "ibc/517E...D84E-ibc/36A0...B8DB-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra16z3ksy6aqjkug8l3u48q0kvdaqk3dgaytl7ykt6vg2he9d6z9rgslr4k7l",
     "name": "ibc/B3F6...EC36-ibc/36A0...B8DB-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
     "name": "INTERCHAIN DAO COIN",
     "symbol": "IDC",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png"
   },
   {
     "id": "terra1087lrvk5zulanrjhdtcfrf49udx70dxqt7erhn4qssu5k60vz92qcrpv8w",
     "name": "ITO Token",
     "symbol": "ITO",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1fsseg53tn3wwj09gaue0crgx32ph9daeepyrmtpf62wf7xka5rfq9ph9nf",
     "name": "KRT (Wormhole)",
     "symbol": "KRT",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1tquaelpx4tw6xnv9wh8xj8e48auhyyy888s756z699ssfqpq2wasz00fmx",
     "name": "LIQ-ASTR-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1kvpf2swxmc7kmmh6usnrqr2gd2p0nxnfywvche7vj77807km2f3q3aqvrp",
     "name": "Liquidity",
     "symbol": "LIQ",
-    "decimals": "18"
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "terra1yetl2gafkhtanr6utpmxp0zqtkhkc05k4dgjg0zfyf86p9fzw3ssslv0fj",
     "name": "Local Alentejo Coin",
     "symbol": "LACO",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1xzkel96e5e8vfmqw7valzdzzv9hqasfyslclvnmvxdejvpda3xwsskxzus",
     "name": "Local Terra Token (Wormhole)",
     "symbol": "LOCAL",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1leavh38n7ycjh5xed5us2s8f576zmpj48ec0nhjs25r0wq5au9lqw3kdqz",
     "name": "Luna (Wormhole)",
     "symbol": "LUNA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra16h7keds26d52xj8rn9jfx6lj2x0ja79lt56yxnmlm4xsttf5mu5smq5f78",
     "name": "Luna Classic (Wormhole)",
     "symbol": "LUNC",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna/",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-classic"
@@ -2099,207 +2397,241 @@
     "id": "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
     "name": "Luna optimizer token",
     "symbol": "OPZA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1s8u586k3s7xtvasxv4p6ldl0jrxht9w886v8ymkst6crg5hxue3sqn49r9",
     "name": "Microsoft Corporation (Wormhole)",
     "symbol": "mMSFT",
     "decimals": "6",
+    "type": "cw20",
     "coinmarketcap": "https://coinmarketcap.com/currencies/mirrored-microsoft/"
   },
   {
     "id": "terra1jg848acg7rzt7tnz6zqaxzsc94w2yjhafad80d3uel9937grkmfsv8aycw",
     "name": "MOON",
     "symbol": "MOON",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1jzl4telukvjx56l72zxuts0xm60gefgu3kla36fvfqlfxn0ckuvsgd6akd",
     "name": "MuskTerra",
     "symbol": "Musk",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1y92wp8u58396mtaejwhtasz24vrcf0lhsznl7rj0nhw0khp8kchscuqgfs",
     "name": "MuskTerra",
     "symbol": "MUSK",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1z7xe8pjrr0tdguvsdxh2hj6u0gk3y93dxs2xncz00jsjzt8g6suq95lj5w",
     "name": "MuskTerra",
     "symbol": "Musk",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gd3ntqq04lvd623xs8ht6dly0s7n4gxnz7lmlw5ga0qnamg9wyrqcggn2h",
     "name": "Nauticus Luna Principal 042923",
     "symbol": "pLuna",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1l02355pejytcakcpq6g3n57ydwpqeysuw5nj679hlnrrsz3sc3wssxr69j",
     "name": "Nauticus Luna Yield 042923",
     "symbol": "yLuna",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13g39gz8uv4s8h9a7pzmg2pezcmd46jz774lffhe2n9dqckn87mlqqg86nc",
     "name": "Nauticus Principal: LUNA/LUNAX LP Astro",
     "symbol": "pLUNA-LUNAX",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1k57q7f7gh6rm4gyqpqygkxdgsh0d67nxngfuwj6n5d38jpd44psshn5gaq",
     "name": "Nauticus Principal: LUNA/LUNAX LP Astro",
     "symbol": "pLUNA-LUNAX",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1z56spghy7kmvv6j9p7gv2hf569x57mnnex4gcqyx5m8m76d0awvqd6ywfj",
     "name": "Nauticus Principal: LUNA/LUNAX LP Astro",
     "symbol": "pLUNA-LUNAX",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gk0y0tcxj8pr65tanqvc8zyzv3c8szkwf2kcmzgqj9jm2t9z3f9q4xcnfz",
     "name": "Nauticus Principal: USDC/USDT LP Astro",
     "symbol": "pN-USDC-USDT",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1sqxtvf93tpu08evzt6va072cefy45xuvjghutgmcv93pk2aaazgs220eev",
     "name": "Nauticus Yield: LUNA/LUNAX LP Astro",
     "symbol": "yLUNA-LUNAX",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1wjzwg8megt6zsfsr2tduwklh8sx3mpptquqcm7h0krxuzwc5n86sn2xh9a",
     "name": "Nauticus Yield: LUNA/LUNAX LP Astro",
     "symbol": "yLUNA-LUNAX",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1y03yesqka4m799fdtnjp6p5w7n9rup9e5tucdsdqes6pr98t6pes9w6dcv",
     "name": "Nauticus Yield: LUNA/LUNAX LP Astro",
     "symbol": "yLUNA-LUNAX",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1e0uch3fwned9rfhkaeehqv9mnfuwjh9jfhawd4gxw248czljdttsh22jkg",
     "name": "Nauticus Yield: USDC/USDT LP Astro",
     "symbol": "yN-USDC-USDT",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ey8nrqhufmj0lfcn33x345hf7zhggz03nss03keavs3nxcml0w8spl0w58",
     "name": "NUSANTARA",
     "symbol": "NUSA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1zd27zxxn976s0ygqa7h2cmgzq0emcuy2h4dk04a6s8jm5a346dfs3zc6u2",
     "name": "OnlyFeet",
     "symbol": "ONLY",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1zhwjeh96z0ce0l7ze6veynuekmqkhatmawgnmvkfnutg3z4ymsass9cfev",
     "name": "ORNE-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13y6q5agfqdvd4mkrzzw9fadp500nk4spnd8rzyrkdls5fsqgurksa74uxz",
     "name": "ORNE-RED-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1dzahfzk3vavwy4zqt0x49guswvwe6ef8jm60fpl2cqmq0yl7pp4qyrx3cr",
     "name": "Pce",
     "symbol": "Pce",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1cysh639syvrhhg7mnsdl4vrhhvmefrzd5udxtd0jftscha2n3cjsnxsmnx",
     "name": "PLUN-YLUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1e6395r0qgvdg204kuvy96rd2tlf32hme4ksrk86zmpantxku9s5sp59n0t",
     "name": "PLUN-YLUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
     "name": "prism-cluna",
     "symbol": "CLUNA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ykxe98arwtahe97h9y5nck8gw88kxn2z73gfwlnx5twcd96ct98sqzcsrk",
     "name": "Pylon MINE Token",
     "symbol": "MINE",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra138k8ca3rn28zgek2ljdtwhzaqmtekazvrgl9yp07prtvlws2ygqq8sdgq3",
     "name": "SAYV-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1l3r2z220fs6hfz8var4ms8w0tlxhw7aqdulslvgz9ur9g3g7mn9qd9mptr",
     "name": "SAYV-IBC/-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1w3vxxyvrq909w8nqrxypaeazqtt3ldyy3ucre3jwz23nyznnd3eql5hymn",
     "name": "SAYV-ULUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
     "name": "Solid",
     "symbol": "SOLID",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://assets.capapult.finance/icon/Solid.svg"
   },
   {
     "id": "terra1xmyxvkkrfwwaf84gydv6aff0pg4h50xlf5t9m89rjkdyhy60e9qqlkqvun",
     "name": "Solid",
     "symbol": "SOLID",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1a75qhypnu6twvapgrjwv8tg4k0agmazeqwzexmdl6qntdesu3jns59vkws",
     "name": "Stable Liquidity",
     "symbol": "SLQ",
-    "decimals": "18"
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "terra1nu0c3s69umqz862ltp6wytuztm0rrn6w5079g999u0hvwy62tf3q02qhmr",
     "name": "StableDao",
     "symbol": "SDO",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra175232yuat84jr5yx74mtz243egyyp904l9n69fvdzzkplhru5juqlv8ah6",
     "name": "Steady test",
     "symbol": "STDYTEST",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
     "name": "Stride",
     "symbol": "STRD",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/STRD.svg"
   },
   {
@@ -2307,214 +2639,249 @@
     "name": "Stride LUNA",
     "symbol": "stLUNA",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/stLUNA.svg"
   },
   {
     "id": "terra1qpa5u2mwycsku0deum3a0jk8jsselv80xyqnpa5zw0agcumgw0jsuvm48w",
     "name": "STT (Wormhole)",
     "symbol": "STT",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "ibc/08095cedea29977c9dd0ce9a48329fda622c183359d5f90cf04cc4ff80cbe431",
     "name": "stuluna",
     "symbol": "stLUNA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/177904239844d7d0e59d04f864d1278c07a80688ea67bcfa940e954ffa4cf699",
     "name": "Terra Luna",
     "symbol": "LUNA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/815fc81eb6bd612206bd9a9909a02f7691d24a5b97cdfe2124b1bdca9d4ab14c",
     "name": "Terra Luna",
     "symbol": "LUNA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra146ypndztcmmrmyxef7e20cul82gh43vjnw4uacwdvg5sp9kva7sqc9mjav",
     "name": "TerraDoge",
     "symbol": "TDOGE",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra13yp5jufdd2n5gez84fy26tujq540alr29cm4tpntcsaqg7h660cqwe8dx9",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra179w0ny7mv7qn5h5q4rz6k6jhvspeau5fmkuqpvmtn6qx6l36pu5qe06wr0",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1adyqxpz0vseur93xct7k4sgfjfqf9drhrxt58k2z2p7vvsh4wt5qpmc8dg",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1fn29pxsueea3zt3xw909gpgjmzcwfxw7q55jgcsfh7v5rh4y3a6s2s69k8",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gjmpaqvm5ns4pap0enqdtsm78m0rc9n3wxsecq8rsjxdv6chwvfqmpnwyn",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1s80jffm4a5awzed0dfjvkjz79rcs25wfttezgefmpzju6rmgt5eq43x5l8",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1yph6hsldjpc7up5q87jjqyzxnpfllpewzc89r0yk30t065ajv8nq5rz5mx",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1gsd4wtmpkcdlmkr4kpm4c2fe9syx8qyv5r3qykx708kv4850vqssgtvx44",
     "name": "TerraUSD (Wormhole)",
     "symbol": "UST",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1mma39sqn43aen4jh2sdmka84mv94uk7v7xw3ype2fdvlay6emrlqweyf5u",
     "name": "Test Cw20 TOKEN",
     "symbol": "TCW",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1ery8l6jquynn9a4cz2pff6khg8c68f7urt33l5n9dng2cwzz4c4qj3spm2",
     "name": "Tether",
     "symbol": "USDT",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra12ezq5402h5n3skhdshjp4f49zzg0saxum8fvvhjhauzas2ezyyrqpznqny",
     "name": "Tether USD (Wormhole)",
     "symbol": "USDT",
     "decimals": "8",
+    "type": "cw20",
     "coingecko": "https://www.coingecko.com/en/coins/tether-usd-wormhole-from-ethereum"
   },
   {
     "id": "terra1nchx6x3xtmme9sq6gxtj0tuux9l3mh05ce0hmmm7ge35vl8zsdeshkn7z5",
     "name": "TokenA",
     "symbol": "TKNA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra16er279t0mgumskzqp2eq5wju9ge68v6y7ylq4qju35rj5as6gwaqpf70xu",
     "name": "TokenB",
     "symbol": "TKNB",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra150qtrrrta74ewt9glydumq2fz4463hrcqm087vex2ynv97xz95gsha38dl",
     "name": "TPT-BLUN-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp",
     "name": "Tuna Token",
     "symbol": "TUNA",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://s3.ap-southeast-2.wasabisys.com/tuna/tunatoken.png"
   },
   {
     "id": "ibc/6cd39eacf052b761e3adc709a11747cfcca49f07da23a26e61db1cef4d0ccc33",
     "name": "ucmdx",
     "symbol": "UCMDX",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/bcb139b1fb690e0ac1ad98ebaad281949ecb341872e697717bcf95b67917c34f",
     "name": "ucmst",
     "symbol": "CMST",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra1f6lmzz9caag00uqssw4dlczrvlaeva4afn2yl3cxfd0ncawpelnqwmtj2d",
     "name": "ULUN-FRGY-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra19glrs2vtgxaxww39cq5acxapgv2v8hyw562zmsk7ucn4yznmyv3sljewv9",
     "name": "uluna-ASTRO-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1rlmjwapg7y3p39aucq2rq5rffyns7z94twm8acl59na4d9aehu9sl2dfkc",
     "name": "uluna-ibc/B350...C9E4-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1lt586fhwyuccktk58v8k96ugzp9szurhqvmlnjxhyn6yapa6v2jsmc468d",
     "name": "uluna-LunaX-LP",
     "symbol": "uLP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1q4r4zzde2tg52306qevhnaf3qw76a68hnyzw404uuvvzx09n3ckqe2ylrm",
     "name": "USD ",
     "symbol": "USD",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1vzd98s9kqdkatahxs7rsd8m474lf2f8ct39zdgd6shj4nh5e6kuskaz2gy",
     "name": "USD Coin (Wormhole)",
     "symbol": "USDC",
     "decimals": "8",
+    "type": "cw20",
     "coingecko": "https://www.coingecko.com/en/coins/usd-coin-wormhole-from-ethereum"
   },
   {
     "id": "ibc/b3504e092456ba618cc28ac671a71fb08c6ca0fd0be7c8a5b5a3e2dd933cc9e4",
     "name": "USDC",
     "symbol": "USDC",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra1uc3r74qg44csdrl8hrm5muzlue9gf7umgkyv569pgazh7tudpr4qdtgqh6",
     "name": "USDC",
     "symbol": "USDC",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "ibc/cbf67a2bcf6cae343fdf251e510c8e18c361fc02b23430c121116e0811835def",
     "name": "USDT",
     "symbol": "USDT",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra1rcmvfsn77pd6m04ctqj3wcu66pvrw9p265cdl72w4zarfup2rv7qjxhkzl",
     "name": "USDT on terra2",
     "symbol": "USDT",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1zwv6feuzhy6a9wekh96cd57lsarmqlwxdypdsplw6zhfncqw6ftqynf7kp",
     "name": "UST",
     "symbol": "UST",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "terra1rwg5kt6kcyxtz69acjgpeut7dgr4y3r7tvntdxqt03dvpqktrfxq4jrvpq",
     "name": "UST (Wormhole)",
     "symbol": "UST",
     "decimals": "6",
+    "type": "cw20",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd-wormhole/",
     "coingecko": "https://www.coingecko.com/en/coins/terrausd-wormhole"
   },
@@ -2522,19 +2889,22 @@
     "id": "terra1xepgy0lp0lkt9dq89pfe3sqwnfyln29r2zj5qqkp75l2egthmmkqkn36vv",
     "name": "Valkyrian Pass",
     "symbol": "vVP",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
     "name": "Whale",
     "symbol": "WHALE",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
     "id": "terra1sfhku0xmw62t8aau3r5rudjxmfxecr8j0ekvpfes6wed2q97yjdqrdnv6n",
     "name": "Wrapped LUNA Token (Wormhole)",
     "symbol": "LUNA",
-    "decimals": "8"
+    "decimals": "8",
+    "type": "cw20"
   }
 ]

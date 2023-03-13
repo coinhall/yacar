@@ -4,7 +4,8 @@
     "entity": "Astroport",
     "name": "Astroport",
     "symbol": "ASTRO",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -12,6 +13,7 @@
     "name": "Cosmos",
     "symbol": "ATOM",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos"
   },
@@ -20,7 +22,8 @@
     "entity": "Eris Protocol",
     "name": "Eris Amplified LUNA",
     "symbol": "ampLUNA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/2F1447818CF99498AE62D9FB4D5E0C9FD48C68FC118C34D2ECFFFED0AD082196",
@@ -28,6 +31,7 @@
     "name": "Graviton",
     "symbol": "GRAV",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.svg",
     "coingecko": "https://www.coingecko.com/en/coins/graviton"
   },
@@ -37,6 +41,7 @@
     "name": "Juno",
     "symbol": "JUNO",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
   },
@@ -46,6 +51,7 @@
     "name": "Kuji",
     "symbol": "KUJI",
     "decimals": "6",
+    "type": "native",
     "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png",
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
@@ -56,6 +62,7 @@
     "name": "USK",
     "symbol": "USK",
     "decimals": "6",
+    "type": "tokenfactory",
     "icon": "https://i.ibb.co/V3ZM8WF/usk.png"
   },
   {
@@ -64,6 +71,7 @@
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
@@ -73,6 +81,7 @@
     "name": "Secret Network",
     "symbol": "SCRT",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg",
     "coingecko": "https://www.coingecko.com/en/coins/secret"
   },
@@ -82,6 +91,7 @@
     "name": "Luna",
     "symbol": "LUNA",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.png",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2"
   },
@@ -91,6 +101,7 @@
     "name": "WAVAX - Wrapped AVAX",
     "symbol": "WAVAX",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/wavax.png"
   },
   {
@@ -99,6 +110,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
     "coingecko": "https://www.coingecko.com/en/coins/weth"
   },
@@ -106,13 +118,15 @@
     "id": "ibc/D36D2BBE441D3605EEF340EAFAC57D669880597073050A2650B1468F1634A5F5",
     "name": "AQUA",
     "symbol": "AQUA",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg",
     "coingecko": "https://www.coingecko.com/en/coins/axelar-network"
   },
@@ -121,6 +135,7 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.svg",
     "coingecko": "https://www.coingecko.com/en/coins/chainlink"
   },
@@ -129,6 +144,7 @@
     "name": "CMST",
     "symbol": "CMST",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.png",
     "coingecko": "https://www.coingecko.com/en/coins/composite"
   },
@@ -137,6 +153,7 @@
     "name": "Comdex",
     "symbol": "CMDX",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.png",
     "coingecko": "https://www.coingecko.com/en/coins/comdex"
   },
@@ -145,6 +162,7 @@
     "name": "Cronos",
     "symbol": "CRO",
     "decimals": "8",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png",
     "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain"
   },
@@ -153,6 +171,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.svg",
     "coingecko": "https://www.coingecko.com/en/coins/dai"
   },
@@ -161,6 +180,7 @@
     "name": "Evmos",
     "symbol": "EVMOS",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
     "coingecko": "https://www.coingecko.com/en/coins/evmos"
   },
@@ -168,13 +188,15 @@
     "id": "ibc/53796B3762678CD80784A7DD426EB45B89C024BE3D45224CC83FDE3DED7DA0A1",
     "name": "Fury",
     "symbol": "FURY",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/5A3DCF59BC9EC5C0BB7AA0CA0279FC2BB126640CB8B8F704F7BC2DC42495041B",
     "name": "Injective",
     "symbol": "INJ",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
     "coingecko": "https://www.coingecko.com/en/coins/injective-protocol"
   },
@@ -183,6 +205,7 @@
     "name": "Local Money",
     "symbol": "LOCAL",
     "decimals": "6",
+    "type": "tokenfactory",
     "icon": "https://localmoney.io/local-logo-dark.png"
   },
   {
@@ -190,6 +213,7 @@
     "name": "Loop Protocol",
     "symbol": "LOOP",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png"
   },
   {
@@ -197,6 +221,7 @@
     "name": "Mars",
     "symbol": "MARS",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
   },
   {
@@ -204,6 +229,7 @@
     "name": "Stargaze",
     "symbol": "STARS",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"
   },
@@ -212,6 +238,7 @@
     "name": "stATOM",
     "symbol": "stATOM",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
   },
@@ -220,6 +247,7 @@
     "name": "Stride",
     "symbol": "STRD",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
@@ -228,6 +256,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg",
     "coingecko": "https://www.coingecko.com/en/coins/tether"
   },
@@ -236,6 +265,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
     "coingecko": "https://www.coingecko.com/en/coins/usd-coin"
   },
@@ -244,6 +274,7 @@
     "name": "WFTM - Wrapped Fantom",
     "symbol": "WFTM",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/wftm.svg"
   },
   {
@@ -251,6 +282,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": "8",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png",
     "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin"
   },
@@ -259,6 +291,7 @@
     "name": "Wrapped BNB",
     "symbol": "WBNB",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.svg",
     "coingecko": "https://www.coingecko.com/en/coins/wbnb"
   },
@@ -267,6 +300,7 @@
     "name": "Wrapped Matic",
     "symbol": "WMATIC",
     "decimals": "18",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.svg",
     "coingecko": "https://www.coingecko.com/en/coins/matic-network"
   },
@@ -275,6 +309,7 @@
     "name": "Wrapped Polkadot",
     "symbol": "DOT",
     "decimals": "10",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.svg",
     "coingecko": "https://www.coingecko.com/en/coins/polkadot"
   }

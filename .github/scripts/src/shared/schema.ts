@@ -18,6 +18,7 @@ const AssetType = Type.Object({
   name: Type.String(stringOptions),
   symbol: Type.String(stringOptions),
   decimals: Type.RegEx(integerRegEx),
+  type: Type.String(stringOptions),
   circ_supply_api: Type.Optional(Type.String()),
   icon: Type.Optional(Type.String()),
   coinmarketcap: Type.Optional(Type.String()),

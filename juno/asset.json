@@ -5,6 +5,7 @@
     "name": "Atom",
     "symbol": "ATOM",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -15,6 +16,7 @@
     "name": "Juno",
     "symbol": "JUNO",
     "decimals": "6",
+    "type": "native",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
@@ -25,6 +27,7 @@
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis/",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -35,6 +38,7 @@
     "name": "Secret",
     "symbol": "SCRT",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/scrt.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
     "coingecko": "https://www.coingecko.com/en/coins/secret"
@@ -45,6 +49,7 @@
     "name": "Steak Token",
     "symbol": "STEAK",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Steak.png"
   },
   {
@@ -53,6 +58,7 @@
     "name": "Luna",
     "symbol": "LUNA",
     "decimals": "6",
+    "type": "ibc",
     "icon": "/logos/luna.svg"
   },
   {
@@ -60,6 +66,7 @@
     "name": "Akash Network",
     "symbol": "AKT",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/akt.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/akash-network/",
     "coingecko": "https://www.coingecko.com/en/coins/akash-network"
@@ -69,6 +76,7 @@
     "name": "Amplified JUNO",
     "symbol": "ampJUNO",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/ampjuno.png"
   },
   {
@@ -76,6 +84,7 @@
     "name": "Aqua",
     "symbol": "AQUA",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/AQUA.png"
   },
   {
@@ -83,6 +92,7 @@
     "name": "Aqua",
     "symbol": "AQUA",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/AQUA.png"
   },
   {
@@ -90,6 +100,7 @@
     "name": "Arto DAO",
     "symbol": "ARTO",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/arto.png"
   },
   {
@@ -97,6 +108,7 @@
     "name": "Asset Mantle",
     "symbol": "MNTL",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
   },
   {
@@ -104,6 +116,7 @@
     "name": "BitCanna",
     "symbol": "BCNA",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bcna.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/bitcanna/",
     "coingecko": "https://www.coingecko.com/en/coins/bitcanna"
@@ -113,6 +126,7 @@
     "name": "BitSong",
     "symbol": "BTSG",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/btsg.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/bitsong/",
     "coingecko": "https://www.coingecko.com/en/coins/bitsong"
@@ -122,19 +136,22 @@
     "name": "Block",
     "symbol": "BLOCK",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/MarbleDAO/brand-assets/main/block.png"
   },
   {
     "id": "juno17r2vpc5enkyfe2xle9sedxdq3msfpacwcfp9rnr6jc3e7v6av0jqmfyfzp",
     "name": "BOOBA",
     "symbol": "BOOB",
-    "decimals": "6"
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "juno1vaeuky9hqacenay9nmuualugvv54tdhyt2wsvhnjasx9s946hhmqaq3kh7",
     "name": "Burned Fortis Oeconomia Token",
     "symbol": "BFOT",
     "decimals": "10",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bFOT.png"
   },
   {
@@ -142,6 +159,7 @@
     "name": "CANLAB",
     "symbol": "CANLAB",
     "decimals": "3",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/cannalabs.png"
   },
   {
@@ -149,6 +167,7 @@
     "name": "Cardinal Finance ",
     "symbol": "PRIMO",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/primo.png"
   },
   {
@@ -156,6 +175,7 @@
     "name": "Chihuahua",
     "symbol": "HUAHUA",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/huahua.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/chihuahua-wtf/",
     "coingecko": "https://www.coingecko.com/en/coins/chihuahua-chain"
@@ -165,6 +185,7 @@
     "name": "CoinDex",
     "symbol": "COIN",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/coindex.png"
   },
   {
@@ -172,6 +193,7 @@
     "name": "Comdex",
     "symbol": "CMDX",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/cmdx.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/comdex/",
     "coingecko": "https://www.coingecko.com/en/coins/comdex"
@@ -181,6 +203,7 @@
     "name": "CZAR",
     "symbol": "CZAR",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/czar.png"
   },
   {
@@ -188,6 +211,7 @@
     "name": "Daisy Finance ",
     "symbol": "DAISY",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/daisy.png"
   },
   {
@@ -195,6 +219,7 @@
     "name": "Dig Chain",
     "symbol": "DIG",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/dig.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/dig-chain/",
     "coingecko": "https://www.coingecko.com/en/coins/dig-chain"
@@ -204,6 +229,7 @@
     "name": "e-Money",
     "symbol": "NGM",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/ngm.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/e-money-coin/",
     "coingecko": "https://www.coingecko.com/en/coins/e-money"
@@ -213,6 +239,7 @@
     "name": "e-Money EUR",
     "symbol": "EEUR",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/eeur.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/e-money/",
     "coingecko": "https://www.coingecko.com/en/coins/e-money-eur"
@@ -222,6 +249,7 @@
     "name": "FUTURE OF",
     "symbol": "FUTURE",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/futuretoken.png"
   },
   {
@@ -229,19 +257,22 @@
     "name": "Gelotto",
     "symbol": "GLTO",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/glto.png"
   },
   {
     "id": "juno10ynpq4wchr4ruu6mhrfh29495ep4cja5vjnkhz3j5lrgcsap9vtssyeekl",
     "name": "Grand Fortis Oeconomia Token",
     "symbol": "gFOT",
-    "decimals": "10"
+    "decimals": "10",
+    "type": "cw20"
   },
   {
     "id": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z",
     "name": "HOPE Galaxy",
     "symbol": "HOPE",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hopelogo.png",
     "coingecko": "https://www.coingecko.com/en/coins/hope-galaxy"
   },
@@ -250,6 +281,7 @@
     "name": "Hulcat",
     "symbol": "HULC",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hulcat.png"
   },
   {
@@ -257,6 +289,7 @@
     "name": "JoeDAO",
     "symbol": "JOE",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/joedao.png"
   },
   {
@@ -264,6 +297,7 @@
     "name": "Loop",
     "symbol": "Loop",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/loop-finance/",
     "coingecko": "https://www.coingecko.com/en/coins/loop"
@@ -273,6 +307,7 @@
     "name": "MARBLE",
     "symbol": "MARBLE",
     "decimals": "3",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/marble.png",
     "coingecko": "https://www.coingecko.com/en/coins/marble-dao"
   },
@@ -281,6 +316,7 @@
     "name": "MUSE",
     "symbol": "MUSE",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/MUSE.png"
   },
   {
@@ -288,6 +324,7 @@
     "name": "NETA",
     "symbol": "NETA",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/neta.png",
     "coingecko": "https://www.coingecko.com/en/coins/neta"
   },
@@ -296,6 +333,7 @@
     "name": "OpenNMN",
     "symbol": "NMN",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/nmn.png"
   },
   {
@@ -303,6 +341,7 @@
     "name": "Persistence",
     "symbol": "XPRT",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/xprt.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/persistence/",
     "coingecko": "https://www.coingecko.com/en/coins/persistence"
@@ -312,6 +351,7 @@
     "name": "POSTHUMAN",
     "symbol": "PHMN",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/PHMN.png"
   },
   {
@@ -319,6 +359,7 @@
     "name": "PUNK",
     "symbol": "PUNK",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/punk.png"
   },
   {
@@ -326,6 +367,7 @@
     "name": "RAC",
     "symbol": "RAC",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/racoon.png"
   },
   {
@@ -333,6 +375,7 @@
     "name": "Raw",
     "symbol": "RAW",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png"
   },
   {
@@ -340,19 +383,22 @@
     "name": "Signal",
     "symbol": "SGNL",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sgnl.png"
   },
   {
     "id": "juno17c7zyezg3m8p2tf9hqgue9jhahvle70d59e8j9nmrvhw9anrpk8qxlrghx",
     "name": "Stable Fortis Oeconomia Token",
     "symbol": "sFOT",
-    "decimals": "10"
+    "decimals": "10",
+    "type": "cw20"
   },
   {
     "id": "juno147t4fd3tny6hws6rha9xs5gah9qa6g7hrjv9tuvv6ce6m25sy39sq6yv52",
     "name": "Stake Dragons",
     "symbol": "DRGN",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/drgn.png"
   },
   {
@@ -360,6 +406,7 @@
     "name": "StakeEasy bJUNO",
     "symbol": "bJUNO",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/bjuno.png",
     "coingecko": "https://www.coingecko.com/en/coins/stakeeasy-bjuno/"
   },
@@ -368,6 +415,7 @@
     "name": "StakeEasy governance token",
     "symbol": "SEASY",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/seasy.png",
     "coingecko": "https://www.coingecko.com/en/coins/seasy"
   },
@@ -376,6 +424,7 @@
     "name": "StakeEasy seJUNO",
     "symbol": "seJUNO",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sejuno.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/loop-finance/",
     "coingecko": "https://www.coingecko.com/en/coins/stakeeasy-juno-derivative/"
@@ -385,6 +434,7 @@
     "name": "Stargaze",
     "symbol": "STARS",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/stars.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stargaze/",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"
@@ -394,6 +444,7 @@
     "name": "Terra Classic",
     "symbol": "LUNC",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/lunc.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna/",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-classic"
@@ -403,6 +454,7 @@
     "name": "Terra UST Classic",
     "symbol": "USTC",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/ustc.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd/",
     "coingecko": "https://www.coingecko.com/en/coins/terraclassicusd"
@@ -412,6 +464,7 @@
     "name": "Tuckermint",
     "symbol": "TUCK",
     "decimals": "3",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/tuckermint.png"
   },
   {
@@ -419,6 +472,7 @@
     "name": "UniverseDAO",
     "symbol": "VERSE",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/VERSE.png"
   },
   {
@@ -426,6 +480,7 @@
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",
+    "type": "ibc",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/axlusdc.png"
   },
   {
@@ -433,6 +488,7 @@
     "name": "WYND",
     "symbol": "WYND",
     "decimals": "6",
+    "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WYND.svg",
     "coingecko": "httpshttps://www.coingecko.com/en/coins/wynd"
   }
