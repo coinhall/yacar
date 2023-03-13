@@ -77,7 +77,7 @@ type Asset = {
   symbol: string;
   // The number of decimals of the asset
   decimals: string;
-  // The type of this asset: "native" | "ibc" | "cw20" | "cw721"
+  // The type of this asset: "native" | "ibc" | "cw20" | "cw721" | "tokenfactory"
   type: string;
   // Following optional fields are all URL links
   circ_supply_api?: string | undefined;

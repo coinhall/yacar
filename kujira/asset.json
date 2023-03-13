@@ -57,6 +57,15 @@
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
   },
   {
+    "id": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+    "entity": "Kujira",
+    "name": "USK",
+    "symbol": "USK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.ibb.co/V3ZM8WF/usk.png"
+  },
+  {
     "id": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
     "entity": "Osmosis",
     "name": "Osmosis",
@@ -190,6 +199,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
     "coingecko": "https://www.coingecko.com/en/coins/injective-protocol"
+  },
+  {
+    "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+    "name": "Local Money",
+    "symbol": "LOCAL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://localmoney.io/local-logo-dark.png"
   },
   {
     "id": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
