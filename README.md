@@ -61,7 +61,7 @@ type Binary = {
 
 ### `asset.json`
 
-Contains all verified and unverified **native / IBC / CW20 assets**. This file will update automatically if all required fields of an asset can be inferred. The optional fields must be updated manually.
+Contains all verified and unverified **native / IBC / CW20 / CW721 assets**. This file will update automatically if all required fields of an asset can be inferred. The optional fields must be updated manually.
 
 ```ts
 type Asset = {
@@ -77,6 +77,8 @@ type Asset = {
   symbol: string;
   // The number of decimals of the asset
   decimals: string;
+  // The type of this asset: "native" | "ibc" | "cw20" | "cw721"
+  type: string;
   // Following optional fields are all URL links
   circ_supply_api?: string | undefined;
   icon?: string | undefined;
