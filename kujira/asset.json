@@ -115,6 +115,22 @@
     "coingecko": "https://www.coingecko.com/en/coins/weth"
   },
   {
+    "id": "ibc/FD021051CD0A21590CAC7907B22749B19CC8CCB6A22DE48C21FE7D9EF1EE80B7",
+    "name": "Acre",
+    "symbol": "ACRE",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/acre.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/arable-protocol"
+  },
+  {
+    "id": "ibc/034FBAB83B9B8AB35217DD59452C92EBC845ECD2E44AB17D260D9A2E7200AC79",
+    "name": "ampWHALE",
+    "symbol": "ampWHALE",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/D36D2BBE441D3605EEF340EAFAC57D669880597073050A2650B1468F1634A5F5",
     "name": "AQUA",
     "symbol": "AQUA",
@@ -131,6 +147,15 @@
     "coingecko": "https://www.coingecko.com/en/coins/axelar-network"
   },
   {
+    "id": "ibc/FFA3D0E9C3CDE729559FB71A09E9E6CFA5A85AFABAC9F3CB5DD3942BFF935F9C",
+    "name": "Carbon",
+    "symbol": "SWTH",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/switcheo"
+  },
+  {
     "id": "ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB",
     "name": "Chainlink",
     "symbol": "LINK",
@@ -138,6 +163,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.svg",
     "coingecko": "https://www.coingecko.com/en/coins/chainlink"
+  },
+  {
+    "id": "ibc/BF603AD88AA4C36FC8CA99F6D703CA1D7D437A1EA97023A73A8BA4437A05ABDF",
+    "name": "Ciento Token",
+    "symbol": "CNTO",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/cnto.png"
   },
   {
     "id": "ibc/1603E8643A49AD47F536F645A4BF0E4C1E06C76F0A98CBE8054B177F1EE7C39A",
@@ -192,6 +225,15 @@
     "type": "ibc"
   },
   {
+    "id": "ibc/D20559F0071F4BFDFF519D0C12B77AFE2A4481D44214BD92808B0C36B1E223C9",
+    "name": "Graviton",
+    "symbol": "GRAV",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/graviton"
+  },
+  {
     "id": "ibc/5A3DCF59BC9EC5C0BB7AA0CA0279FC2BB126640CB8B8F704F7BC2DC42495041B",
     "name": "Injective",
     "symbol": "INJ",
@@ -217,12 +259,61 @@
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png"
   },
   {
+    "id": "factory/kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a/ulp",
+    "name": "LP KUJI-ATOM",
+    "symbol": "LP KUJI-ATOM",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "ibc/DBF6ABDB5F3D4267C039967515594453F4A31007FD838A566F563A01D2C2FB80",
     "name": "Mars",
     "symbol": "MARS",
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
+  },
+  {
+    "id": "ibc/B4DCACF7753C05040AF0A7BF2B583402C4B8C9B0A86FCECE32EF63CB7F0A46B3",
+    "name": "PAXG",
+    "symbol": "gPAXG",
+    "decimals": "18",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/F2A6A3D4C02E003CC3EDB84CFD1C6F8F0E21EE6815575C5FE82FAC7D96106239",
+    "name": "Planq",
+    "symbol": "PLQ",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/planq"
+  },
+  {
+    "id": "ibc/CF90BCBEDFF409F9187A0C3A69C1082D56908DC3F7FC342ED82455A504AD8AA9",
+    "name": "Sentinel",
+    "symbol": "DVPN",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sentinel/images/dvpn.png",
+    "coingecko": "https://www.coingecko.com/en/coins/sentinel"
+  },
+  {
+    "id": "ibc/21038E447A2D4A1183628C0EC366FE79C2E0B0BD91F9A85E6C906CD911FD676E",
+    "name": "Shade Token",
+    "symbol": "SHD",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/shd.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/shade-protocol"
+  },
+  {
+    "id": "ibc/1AE6C91DF755F63FB9E8393F7AE6A1725B2389730C0A46ECE247D761A72DA80D",
+    "name": "Staked Astroport Token",
+    "symbol": "xASTRO",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/astro.png"
   },
   {
     "id": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
@@ -241,6 +332,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
+  },
+  {
+    "id": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
+    "name": "stOSMO",
+    "symbol": "stOSMO",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg"
   },
   {
     "id": "ibc/239BFF83852F67DF5243DB89F339FF7FDBF858437F961CAB6DA5B5ADEFB2BC07",
@@ -278,6 +377,15 @@
     "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/wftm.svg"
   },
   {
+    "id": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
+    "name": "Whale",
+    "symbol": "WHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/whitewhale.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/white-whale"
+  },
+  {
     "id": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
@@ -312,5 +420,12 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.svg",
     "coingecko": "https://www.coingecko.com/en/coins/polkadot"
+  },
+  {
+    "id": "ibc/A2146858B5E3CFE759E32F47CA54591F8E27FAEDFF731D30B448E5AB25CA8EC5",
+    "name": "wTAO",
+    "symbol": "wTAO",
+    "decimals": "9",
+    "type": "ibc"
   }
 ]
