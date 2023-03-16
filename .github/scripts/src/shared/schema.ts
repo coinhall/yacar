@@ -48,10 +48,7 @@ const EntityType = Type.Object({
 const PoolType = Type.Object({
   id: Type.String(stringOptions),
   lp_token_id: Type.Optional(Type.String(stringOptions)),
-  asset_ids: Type.Tuple([
-    Type.String(stringOptions),
-    Type.String(stringOptions),
-  ]),
+  asset_ids: Type.Array(Type.String(stringOptions), { minItems: 2 }),
   dex: Type.String(stringOptions),
   type: Type.String(stringOptions),
 });
