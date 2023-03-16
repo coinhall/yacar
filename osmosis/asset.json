@@ -98,6 +98,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft99091610CCC66F4277C66D14AF2BC4C5EE52E27A.png"
   },
   {
+    "id": "ibc/8BE73A810E22F80E5E850531A688600D63AE7392E7C2770AE758CAA4FD921B7F",
+    "name": "8ball",
+    "symbol": "EBL",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/8ball/images/8ball.svg"
+  },
+  {
     "id": "ibc/384E5DD50BDE042E1AAF51F312B55F08F95BC985C503880189258B4D9374CBBE",
     "name": "Aave",
     "symbol": "AAVE.axl",
@@ -199,6 +207,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/assetmantle/images/mntl.png",
     "coingecko": "https://www.coingecko.com/en/coins/assetmantle"
+  },
+  {
+    "id": "ibc/8410580A4F5421DFDBD888212624591E92A9E3B5C87D3C58913CE16ABD98B9B4",
+    "name": "Astroport",
+    "symbol": "ASTRO",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/astro.png"
   },
   {
     "id": "ibc/2716E3F2E146664BEFA9217F1A03BFCEDBCD5178B3C71CACB1A0D7584451D219",
@@ -376,6 +392,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
     "coingecko": "https://www.coingecko.com/en/coins/chihuahua-token"
+  },
+  {
+    "id": "ibc/D38BB3DD46864694F009AF01DA5A815B3A875F8CC52FF5679BFFCC35DC7451D5",
+    "name": "Ciento Token",
+    "symbol": "CNTO",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/cnto.png"
   },
   {
     "id": "ibc/23CA6C8D1AB2145DD13EB1E089A2E3F960DC298B468CCE034E19E5A78B61136E",
@@ -619,6 +643,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/gkey.png"
   },
   {
+    "id": "ibc/AD4DEA52408EA07C0C9E19444EC8DA84A274A70AD2687A710EFDDEB28BB2986A",
+    "name": "Harbor",
+    "symbol": "HARBOR",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/harbor.svg"
+  },
+  {
     "id": "ibc/D6C28E07F7343360AC41E15DDD44D79701DDCA2E0C2C41279739C8D4AE5264BC",
     "name": "Hard",
     "symbol": "HARD",
@@ -711,6 +743,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/joe.png"
+  },
+  {
+    "id": "ibc/4F24D904BAB5FFBD3524F2DE3EC3C7A9E687A2408D9A985E57B356D9FA9201C6",
+    "name": "Juno Fox",
+    "symbol": "FOX",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/fox.png"
   },
   {
     "id": "ibc/00B6E60AD3D65CBEF5579AC8AF609527C0B57535B6E32D96C80A735344FD9DCC",
@@ -926,6 +966,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/onomy/images/nom.png"
   },
   {
+    "id": "ibc/E750D31033DC1CF4A044C3AA0A8117401316DC918FBEBC4E3D34F91B09D5F54C",
+    "name": "nRide Token",
+    "symbol": "NRIDE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/nride.svg"
+  },
+  {
     "id": "ibc/0CD46223FEABD2AEAAAF1F057D01E63BCA79B7D4BD6B68F1EB973A987344695D",
     "name": "O9W",
     "symbol": "O9W",
@@ -1010,6 +1058,22 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft24C9FA4F10B0F235F4A815B15FC774E046A2B2EB.png"
+  },
+  {
+    "id": "ibc/FA602364BEC305A696CBDF987058E99D8B479F0318E47314C49173E8838C5BAC",
+    "name": "Quicksilver Liquid Staked ATOM",
+    "symbol": "qATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qatom.svg"
+  },
+  {
+    "id": "ibc/79A676508A2ECA1021EDDC7BB9CF70CEEC9514C478DA526A5A8B3E78506C2206",
+    "name": "Quicksilver Liquid Staked Regen",
+    "symbol": "qREGEN",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qregen.svg"
   },
   {
     "id": "ibc/46C83BB054E12E189882B5284542DB605D94C99827E367C9192CF0579CD5BC83",
@@ -1196,6 +1260,22 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
   },
   {
+    "id": "ibc/C5579A9595790017C600DD726276D978B9BF314CF82406CE342720A9C7911A01",
+    "name": "stEVMOS",
+    "symbol": "stEVMOS",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stevmos.svg"
+  },
+  {
+    "id": "ibc/C491E7582E94AE921F6A029790083CDE1106C28F3F6C4AD7F1340544C13EC372",
+    "name": "stLUNA",
+    "symbol": "stLUNA",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.svg"
+  },
+  {
     "id": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
     "name": "Stride",
     "symbol": "STRD",
@@ -1335,6 +1415,22 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg",
     "coingecko": "https://www.coingecko.com/en/coins/usd-coin"
+  },
+  {
+    "id": "ibc/F17C9CA112815613C5B6771047A093054F837C3020CBA59DFFD9D780A8B2984C",
+    "name": "USD Coin from Avalanche",
+    "symbol": "avalanche.USDC",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+  },
+  {
+    "id": "ibc/231FD77ECCB2DB916D314019DA30FE013202833386B1908A191D16989AD80B5A",
+    "name": "USD Coin from Polygon",
+    "symbol": "polygon.USDC",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "ibc/C78F65E1648A3DFE0BAEB6C4CDA69CC2A75437F1793C0E6386DFDA26393790AE",
