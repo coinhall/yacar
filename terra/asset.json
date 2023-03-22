@@ -2243,6 +2243,13 @@
     "type": "ibc"
   },
   {
+    "id": "ibc/4F81B5D69A628383427EF02C5A8CF95CB747C9BC0F867B0625796F452F2E9EEB",
+    "name": "gravity0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+    "symbol": "ibc/4F81B5D69A628383427EF02C5A8CF95CB747C9BC0F867B0625796F452F2E9EEB",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
     "name": "HERO",
     "symbol": "HERO",
@@ -2595,6 +2602,13 @@
     "id": "terra1w3vxxyvrq909w8nqrxypaeazqtt3ldyy3ucre3jwz23nyznnd3eql5hymn",
     "name": "SAYV-ULUN-LP",
     "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1x7hzfa70wyhm936arahdp76620y87s6jjm8q6fn6x7yd9uvdtqwsueas6g",
+    "name": "SDT (Wormhole)",
+    "symbol": "SDT",
     "decimals": "6",
     "type": "cw20"
   },
