@@ -4020,66 +4020,6 @@
     "lp_token_id": "terra1auxjy8f8al78g9ecmv85agaynj8wkjp5kjce2p"
   },
   {
-    "id": "terra1ar2lwxegfnap7umqx9ljp0wytt3t76yyc8ys2z",
-    "asset_ids": [
-      "uusd",
-      "terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl"
-    ],
-    "dex": "Terraformer",
-    "type": "xyk",
-    "lp_token_id": "terra1633wdygwlds5dj3e97vyp3x8lhsnrwa8msc5tw"
-  },
-  {
-    "id": "terra1nmheu06jz6mxsg5n8nnmyn6fxgnvxzk28femx2",
-    "asset_ids": [
-      "uusd",
-      "terra193c42lfwmlkasvcw22l9qqzc5q2dx208tkd7wl"
-    ],
-    "dex": "Terraformer",
-    "type": "xyk",
-    "lp_token_id": "terra1g9esdhg0kjlzvmm7pwznwux0h7vpcclgjdx4wf"
-  },
-  {
-    "id": "terra1rvvz9r8ys755wy9hat39es03d6h25rtz2u329l",
-    "asset_ids": [
-      "uusd",
-      "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g"
-    ],
-    "dex": "Terraformer",
-    "type": "xyk",
-    "lp_token_id": "terra1ktwelwele8sfyqksk2863wslg68mrn2e9d4tgp"
-  },
-  {
-    "id": "terra1uccez5grl2sr8xd4rswtgtc7ewf8ugfvcfutv5",
-    "asset_ids": [
-      "uusd",
-      "terra1lrdzs5tgllwqgawtq2emuzn7snpxq87fzzl44y"
-    ],
-    "dex": "Terraformer",
-    "type": "xyk",
-    "lp_token_id": "terra1rttu7tzn7mnus9kw40j05nlzr0ef469lw43yfg"
-  },
-  {
-    "id": "terra1vsd2sgk47tm262q7l3eq74u9rrek4ucn2w2jm5",
-    "asset_ids": [
-      "uusd",
-      "terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4"
-    ],
-    "dex": "Terraformer",
-    "type": "xyk",
-    "lp_token_id": "terra1x604xhmxr5lfwze3s4fsxl50vy5gps47k9e6q3"
-  },
-  {
-    "id": "terra1x3fcujqgk8uvn8vssw52jtwtanlu3shgj3ftlk",
-    "asset_ids": [
-      "uusd",
-      "terra18xyl0ees6ueyhkhn0mjdtrm82e393ult2dazl3"
-    ],
-    "dex": "Terraformer",
-    "type": "xyk",
-    "lp_token_id": "terra1v5s3t4yzh0vyhlgrsy8uh2czjh2ylk56a4cr9r"
-  },
-  {
     "id": "terra100k5zacnuzl0ksxrn6lclmdl0u7w6l8qalcn6e",
     "asset_ids": [
       "terra1amehwqrzcdrwmwdz9apz9mmctckez66ns67k5s",
@@ -19898,5 +19838,65 @@
     "dex": "Terraswap",
     "type": "xyk",
     "lp_token_id": "terra1tk7a0hcs3yehfzrscjhw824jq52ndvsv07d7zk"
+  },
+  {
+    "id": "terra1ar2lwxegfnap7umqx9ljp0wytt3t76yyc8ys2z",
+    "asset_ids": [
+      "uusd",
+      "terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl"
+    ],
+    "dex": "TFM",
+    "type": "xyk",
+    "lp_token_id": "terra1633wdygwlds5dj3e97vyp3x8lhsnrwa8msc5tw"
+  },
+  {
+    "id": "terra1nmheu06jz6mxsg5n8nnmyn6fxgnvxzk28femx2",
+    "asset_ids": [
+      "uusd",
+      "terra193c42lfwmlkasvcw22l9qqzc5q2dx208tkd7wl"
+    ],
+    "dex": "TFM",
+    "type": "xyk",
+    "lp_token_id": "terra1g9esdhg0kjlzvmm7pwznwux0h7vpcclgjdx4wf"
+  },
+  {
+    "id": "terra1rvvz9r8ys755wy9hat39es03d6h25rtz2u329l",
+    "asset_ids": [
+      "uusd",
+      "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g"
+    ],
+    "dex": "TFM",
+    "type": "xyk",
+    "lp_token_id": "terra1ktwelwele8sfyqksk2863wslg68mrn2e9d4tgp"
+  },
+  {
+    "id": "terra1uccez5grl2sr8xd4rswtgtc7ewf8ugfvcfutv5",
+    "asset_ids": [
+      "uusd",
+      "terra1lrdzs5tgllwqgawtq2emuzn7snpxq87fzzl44y"
+    ],
+    "dex": "TFM",
+    "type": "xyk",
+    "lp_token_id": "terra1rttu7tzn7mnus9kw40j05nlzr0ef469lw43yfg"
+  },
+  {
+    "id": "terra1vsd2sgk47tm262q7l3eq74u9rrek4ucn2w2jm5",
+    "asset_ids": [
+      "uusd",
+      "terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4"
+    ],
+    "dex": "TFM",
+    "type": "xyk",
+    "lp_token_id": "terra1x604xhmxr5lfwze3s4fsxl50vy5gps47k9e6q3"
+  },
+  {
+    "id": "terra1x3fcujqgk8uvn8vssw52jtwtanlu3shgj3ftlk",
+    "asset_ids": [
+      "uusd",
+      "terra18xyl0ees6ueyhkhn0mjdtrm82e393ult2dazl3"
+    ],
+    "dex": "TFM",
+    "type": "xyk",
+    "lp_token_id": "terra1v5s3t4yzh0vyhlgrsy8uh2czjh2ylk56a4cr9r"
   }
 ]
