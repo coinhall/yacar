@@ -1360,6 +1360,13 @@
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png"
   },
   {
+    "id": "terra1thtantj2mygnju7k8lpcy96ct577xav307jw23",
+    "name": "__proto__.__proto__ (Wormhole)",
+    "symbol": "__proto__.__proto__",
+    "decimals": "8",
+    "type": "cw20"
+  },
+  {
     "id": "terra1s56hsyhyvq4xxxvnz8qr0pnktm2dadsm4gkl45",
     "name": "[REDACTED] Governance",
     "symbol": "RDCTD",
@@ -2329,6 +2336,14 @@
     "symbol": "CLAW",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
+    "name": "cLUNA",
+    "symbol": "cLUNA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://home.prismprotocol.app/cluna.png"
   },
   {
     "id": "ucny",
@@ -3592,6 +3607,14 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/73A56F04D27FC4CCF6F75C7516A9698B7411E1CE763E240C8A29A50404F86B53",
+    "name": "Gravity Bridge Wrapped USDC",
+    "symbol": "gbUSDC",
+    "decimals": "0",
+    "type": "ibc",
+    "icon": "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg"
+  },
+  {
     "id": "terra1xs3pv5rd2xu36w9vg05shkgxcrxkvz40fhnfsv",
     "name": "GRAY",
     "symbol": "GRY",
@@ -3748,6 +3771,14 @@
     "symbol": "howtest",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "ibc/FA0006F056DB6719B8C16C551FC392B62F5729978FC0B125AC9A432DBB2AA1A5",
+    "name": "ibc/FA0006F056DB6719B8C16C551FC392B62F5729978FC0B125AC9A432DBB2AA1A5",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/ATOM.svg"
   },
   {
     "id": "terra1nccuq0ujp4hc84kjmfwjc3002z2q7xzmdu6crm",
@@ -4499,6 +4530,14 @@
     "symbol": "LKWON",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70",
+    "name": "LunaPunks Remint Token",
+    "symbol": "LPRT",
+    "decimals": "0",
+    "type": "cw20",
+    "icon": "https://ipfs.lunapunks.io/ipfs/QmQmSwJEgPAWQNPR9S6cLc3cSKT3k16e44ZC7bUxuD7ERd"
   },
   {
     "id": "terra1g0pm8xm5c2dq4qtv8j9a80hg4mhe5ndy8qad07",
@@ -6222,6 +6261,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr",
+    "name": "Sonic Token",
+    "symbol": "SON",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://swap.sonikchain.com/sonic32.png"
+  },
+  {
     "id": "terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl",
     "name": "Sooah Studio Token",
     "symbol": "SST",
@@ -7350,6 +7397,3716 @@
     "type": "cw20"
   },
   {
+    "id": "terra105c7lxxvls5km92d80uh860duec28zve7r9kd9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10633typk69xknf2q6m0xr0wacsyhl7f5t54j8q",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra107z68zx4jz6cmwz3pdzl7nlk5x9e6rlrjgr3z0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra109fa5jzs7vvkey8mhuacpns8lczrrucpv30j80",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10f8efrxe9y6p3625ynztuvk0j35a05t5fstyfx",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10g39txd5n7f8m2u3f6zm3etg025mtrvy6xrmja",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10ja9mv4e2wpn8260x5lra58qnkmarl03ft0667",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10jcr5y0geuyxl350jlcvc0gauvdzzlr7csk7j4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10m40dna4wht424lwngv8e7jnawu579jth2m2pm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10t2zs46gs2j6quxem33s3kpgn030envy5w3hsx",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10teh3jaxpcecmgcpntm00ks2djdcvqc5mruknz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10u64f0qmysn9n4j7m34mzsyrkrxmmdpz2j8nl6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10uxuu9y5p3lyase5k8sgq6hrwdcplw25afcrdr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10vccc5zvrq7lg3z29z44r2snts4q7e20je9yml",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10y8egut5fut2qyx3cnwmwrzrstcmv2evcv5ka5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10z2g57ckszag7ulnau2kuxtnvzy0a3sc8rklxu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10zu6kqzu7gx4fkyw593njdf85ugu7xnt8jcss4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra123hvqls8hltc6t5llwfeegjfyp08rtysdvgk2r",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra12557le8xmrvrynwtzpptrndh346f7hg0aj3cem",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra125q4e2e77yyjvx5ea0zunacq8lzrw33e4madcl",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1285wxvzmtv25rmwvtq4gjf438cfrmg5fsdjzkv",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra128g3u5an60lua6sfgchr8krehg9lu9kcdryptj",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra12a7meyp30u4g2ykhvmrrcuxyz6g6p44u72ffyc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra12h49f229xk9msyg04y5yd6fjvwx5ag5ghkquns",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra12luewasdf567v0jwjjrmk6cmvguj6rmwjqx7ps",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra12m9t48jgj9hmja98p003y796x7zffxj6c55npl",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra12meyuwgsx6rw2qyncyp84de5hush7xssws8vpm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra12s77tcxsq2w9gnz3t6q3zw4un93jjslldkjsmr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra12y8yunq95w4zsqscwpvgxasdexgxw74wf80852",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra12yqf4necphf4cnnp5lag6v0g5yz4wfeud8asmd",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra130v6r5fq6tf5mny5ulm0c4e49x9y2pzuk7kah4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1339rprmq6x9a38nsx4hcnm570xpugtkxr5mram",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra135uuknl6dsmm63yr27t2t6rugzygnm4upxnc0y",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1365ur666tnpjauwgh00f8nsykvhy58y44xsuxs",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra136nzxlxrrz393xcxqjpxlykja0782fjza4nk8v",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra138rka52fc9f8c5kes07ewdvhq0e2usgqh8ahxq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13ejdr8g2p8vaj77cxsg7ktxuxakg8xlksvgvlg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13eukp6q6vqylemg7dd0krggs0s24cpgy496rl6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13gp0z7enc6mjp8flnwl967xz7xtwtr84k8pjjz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13hepznnc4j7x957ncqytfe2394ayu344vs46zf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13jnxl6ypha544q2et4l7mqsu2guqv4py5fxtrs",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13lpazf393n4d4qar0ujh08cww7c9an6287trtg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13n63tepetuv4xalstpkd99w38m5g8w4348gf8h",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13p6glny4ltdtrlptq2g9gs3e8m35t55uwgs9ea",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13p86g2zej8afkpytw5p68sckn87n4dpr6tmgf2",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13tc5edcm3t45cjqk3dj6j20c6mrgcpkw49dn9x",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13u9k3erera7qthy8m6ralrp0a6eu8f96xa6759",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13vx5qfefgw9trpzcdgtvp3w63qlknk954tatj6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra13zzhtt5wgzsf2ywln6kmh903y49memypavy6w7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra142s89pwnjx54sgk2j9jh6fr69vgaqgrajz79uk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra143wwytehdlhjf9m27qsxf7dahl7rltvss8asa6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra144d5ut8vq0ze5aeps77n5rm5wfftmmsk0samqt",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra145thwe2qx6c0a760676zqkan9ekpexgf5qz40y",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra148vrgxadxja93h5r9tj3s8500vuvhev66qpjpw",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14d4af0xpyhx3gdh7jjz7u63cq49s9jt5l26fnu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14dfavayvp9q246npc6zwvz58g5n07txy7hh5yq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14jkpnwrcwthkpwquut7sv9p8k432aj8fkt28wk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14jscwf4zr0c9dugkvqg3l4wvjza55txdjy9tj8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14k7e3kn9zr7vqgzgrxpmtfceag5l5zz65wd7d4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14kk9uujeaerveu7c0e5nce4n8yrfhupza2334k",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14la5rz6ufvtx5uexm95mhje3z7j3un4824468v",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14lvlk5z3kcdpm0026w4a7wfv5cvvegdyrpwjnh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14ppflprywpsgwds6wn6ffrlruyqv4sl3m90mjq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14rsf7c75zlmcg0z7kuucs6v4pwn06hl09376vw",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14s5xru8eksymzhxwacdsmsxv8ls8p8uxae4szg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14v3je4ndyds5uqur9xun0ds4nv53q2yp4eh266",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra14y8396cv7trzufwknxy0jd545jdagx5d0n82ce",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra150kam2z2lpllsaqzuev5l67kruefasjnr2yqrz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra154cdj5pw822fg97adm7zdsqg30qmshw4nv4sm0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra155gvpnvlq3mgw8204ur6u560ccxjt8tqpak0w4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra155hqaqxezpmmmzgww6s930p3c4qcpv6scvrg7p",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra158wdmf0zs6eeec9fda8v2mxajv9kh9730lmmll",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra15f3s8yz6sdrtnd9zcls6nlnguk36vlv4q92nxc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra15gjp8ckg7qp4gythdju9gx68w7dw434almw39c",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra15h6w938xnj3n4ree39n9hrdctr9h9f7t65lwrf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra15hp07kxl2husjddjvnhs8ua0q8ryp0lcxpm8mc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra15hre72m5u6fyfm8r0yq2m8n2u7xz8edu5eg9r9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra15lzsmh9yqxquekk0rn8nxauqrv9hmr84c6gmug",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra15pxsym8k28z56srf2lq8am9sxnj9letydd0lw0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra15qcztzv54tfvg8rcjw38gw4ce8kzm9dux0mtnc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra15sgpqean9zudvejld2f67kct9n50803nfnf2lp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16309gm9etujykt7tj6uh0z98lqevf2uc25rpkq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra164p2rcrcq64tq7dj9lz3gpfrmsnlpl5k07sq94",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra165uzwqpkp3l54fjzc75jrqqpv9hdcpl052zx97",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra166t2dkj53gmzs00x078fn97pjmj98sgjydk2u6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16734efefmfmdf2ferhtmqsnzgrq4ta0wt4nr03",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16997r7lh6nwq4v86t8awxnszvsuk8usxlur9ez",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16ckr9lz73w3ng6xyh6dutx9mhm7c4h83d0hmnn",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16dgudczq9palt2vltg20p0l4hssyqwe9t9tkhv",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16fsrkmmzd93rj8qry9ar9cypuernh2la8xzdcu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16g5q4kx9lq9cl825l95hzv8gjrl3hf5x3s52h6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16gxfwmfdlkmqafjqnq9qhnp8sty5e5kyy3vwy4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16l4xzu00mexypp2s522luhy6t6ce7c5gnyln7a",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16ltl7fs3ws2jyjmck674g6ykwxcmgp2erzhvp9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16m3897rpaanhhdplkenyyunyypskdc0z95ry0f",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16my8x459zl4g2vnenvkm3sg6d97jv9mywdppds",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16q2tfan6ct46trafnpluj56zq2m326uyc63rux",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16qpxugt98lhryy9g343jvpkz7l6kdretf7zmm8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16vfk4qege0e6s0mwy9s30830wenhg8sug243ye",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16vy5n650xa876eqkr2g8yk9yv7ms4fvwve3dxh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16w4f3frfyqkkd8gvc2r04ynyvykc558ssw93jw",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16xd3l0hnjekvh6tr3uafmpa8arrrxu6eyse4et",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16y33yq7hasynrmdl0k5txk3gv626nl8dxk53nw",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16y6zcgqllsr9lgmn3tmmveerm0md8q5uhz76c4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra170nht5nq7dydfqtwhe93m8efgev97nj7xnfkqk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1723s9sf094t6e8up3ejmy2xq65u2dzwvvwmsjk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1757aqwhfgdjdadpwvy9hv324g4ss73nn43eqp4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1760c0hc6knasknh8gqq2h50vxscethjswu4y84",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra176hg6jtdjy899ztd47t5aup3wfp3gefw5rfsfk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra176kvw7eug3ctrq4zjjpktr0wth2dqs07m5f2ae",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra178r9vpflnq9v4yhwgfp5s6c08h76k3znt0xf2x",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra178uj3atk4lsz2tc0l7sgm8h7sg2c3h7kg7sea6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra179sfdgh86sqheut899l5wl50nz22j85c4zg80c",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17cfp93qzf62qyds74jpcyxvs04cvrmf7dd4hau",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17d6fysc2zqxjs44ltnnfa2fadqld5qudgq6m3y",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17dkr970qz0l3w7fwlujfeuaavyr083k3vnafsc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17dlh4eyl90m9rxp8axxpsp87v7ekqsj3k3ymrj",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17h30xss9rscsgx397vxyclkefqelhrzww3k89p",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17jc09xe486fstjtashcdylsrfnqxraqv6gypcm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17jjweufkpz4vzcagnyyjx049yzcgv2fm8hh88c",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17jm3g3h04kpwyq2gxwjywz30lps92z4l5492lc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17knxk7g32vp5928qcj4zrd9zk6sfa2ek6y4naa",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17lnl4yfl5qx09dnv24km2umec4rr78vc822zx7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17pg8f8zy6ptzz3q647ag6kj5qj6um6cea88rwa",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17pxv3x8wrhj2f2w62tkvkx3nu34cl339aklczp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17s0z4f7ltd6hh4jkp2h6a3vjmxlvrgxey7zv0v",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17utsu6l44qwllz5krd73hc83sj735hlhdf92hq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17vp6s0uzl3kke2cy7rjnzjeum292u0pjnw73r5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17w7030exv80r86sszlfe7hpchzml64sfu580un",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17z48q83hpw9pekyxa405mvmvtq2hpx48ls8avs",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra180jwvqaeysldl36lnnq9xf9heekgd2nhajenhp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1832xefpwxhzsnn3rera0mtw4zmgaxk4utl93fe",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra184pjvym46u5klwwg95txaxc73gjn649ccnunsj",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra186hm4adzc0v3cnw8gq66725u2ckyu0rj7ut99z",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra188n0ul6a0g2aynche2jt5xm0ex5qy6puuz6e04",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra188v99lmwafjspapuegq2ay89rdzyd7qr2r9nzz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18a9xgf2x2zyc44ec3r884265g78w3le7678ncz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18e3u6naa9vljef3455lu368rqy2dl3uhdguyrk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18ghuy5kwl8tnepfq02ggqp7gqxfk49hl5cpmsq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18j943vljhcet5euulhahv0md2avnkxf5pqh9as",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18je0chakhsnp8wyur0tyvuygz3c05kna06sdd7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18k5y5ayr3pzye3s6gzjznk8xh8q0h00pwdqlvn",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18p7l2cwcnc6fzw94muc0l5pk6teve587kxrk39",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18p93y2ma5fx48u0xzj5cjngjfvte253wyc0p4r",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18qqchc8xxe98urpzkhrwuzfcls98p8y9gp8crs",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18rewnwd3mdd6husa0w8wxp4zhf3uh6wzpv4feg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18sdlwmwtyuyuf0upcvty6swsj537va24ttavxm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18v59jt68wdqv2np80fq3cgwrv3nr0tx6enxl6a",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18vdrlw4dxyqfzkx5dhaxzsrc60y4vl3afqt6ss",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18vnm2vhgqcl2zuyvauhsangmjfxylllaasvd6p",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18wn79ms3yy6n0q7fz8ufyw7dp30guvrjw9ffp9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18yasl4q4kk5j0cn47g660pcgf6txzn3swq3ka2",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18yvdqs04xyjgmzfv0vzcqh4xkecedv3l0q2ml2",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra18zea6jvea9t204dp50wsd8cw52vgjum04p84pp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra192cu5f5zl6hd7sr8j42g3yhlqkv4udwmevz0p3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra193jh62zsfzlh9nzk2dj3mzayh5f2hq9ellzwrz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra194gejkm5jpcufl0tat2nx7al4u9n2kjr5fg47p",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra196q36ed0q0fuwl8vmwxm6gax62mzcv0llw9kk9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra198gt0md2zahhu2zpkk7uvqp32mewcnhhd95xzx",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra198n837v6f3uq7vs0az46x0gy84e5f9xqmqdma7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1998ps0j24e9hegcqeq0ywz5lva4x7ldvkjztvs",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19c8jvpvc9zankg7h3v6fpz30qkazd3z92p5dxv",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19fg28zjmr6fukx0jfm5q472yn8jq83mhlwphrc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19jack5lsltalpxfx3uq7d2adnndexm0zmjkz2y",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19jfkgnpz6gr67vrp52ya9wx9fg9mkr4kffs3p7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19mddnjxjf69w2erx40kydfkfxv73v05xhtk6q6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19p9rqmesc66rm0tahnag8uza6nd8kdyx6c92xu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19qavvhe30rq44y22nf8vyk6cdwtewee7azel3e",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19sqazwrv99mu3frrmg403z6gjagn0szqlpwj00",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19ssqsggzlutkvlu86tpxs8caxgmwnnpjyxucge",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19udh4ewsp3xxcnukeu3da6az4hds6gkxmhdwpg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19ur8rp69x37apddlqlnmty8uvckxlgy60r6gqa",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19xf0y8duxhwgdx0vf9mmtcgtx53qegp8x562as",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19ynuzuwg9eymlyk745vw8suna2r2f20fu8uc8a",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19yxmfrdhdgz5xhpcyz0sje40tnxlq2psfpr4gd",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19z09k3hvy977za6llwzzdnqczz5ry5nnv89775",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1a2paas8m9ugj3xq93j29vxw8f6eaq0w8jy4u7q",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1a5vrtjqyxyurctjgcsegspzpyxr38mps06wqg5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1a708zke4q50myf53jmlelum40qsz8cw3rjr5g8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1a7egcatxt8wv4pdgjex9l0uclz4whjdwa45w6v",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1a8mwhsfysu7rk80skkj53qvs6vxr46wlurxxgz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1anh8e2zm69dx7l7yd399vn7qftt7tmck5elpa7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1au84xj9kw7c50hwk6nuurveqs3fg95r9ctkdct",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1av32ufyp5nrmmwm68nw629hgam9jwyajt6u76v",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1avac7r4n0jvaqgj6tnmkscujhmh2924jt9k2v8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1aw52tgnmu3dfeguy36vm3we3ju0v6dhnvkj2cg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1awcyg5efw8pmmhvkuycl6xas7c4e6h4ylexqf3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1aypgmzgz5a38m9arz5y7mnemrhcpss38v0nfqn",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1c0m5dfnyrvl6h0fpdh9jskurvhklucf445zv6m",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1c44kgxk8yzljs5hnk2ghmfptzvql0mrjcmh9vu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1c4p3hzarttdr4f9u0gx3tfay5yru72e83vp68d",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1c4va3msapgh7y2nz53uqf0ghwzny6xwpu7a5lh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1c5tmyr7hehzcsyxagxu8qdkx8za0au6pw24g64",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cahp2lp0zjcuyx25rcau04v8x7jk3qllmmhrx9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cakly3grns8kudwe64xn4mwcm80ednzr4xynv6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cdhpgkm7sj4z4fq6zqkusj2ppg6069xj78p396",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cdtr26mne3nr7tcnp3pn9l7ll00ndgw00l2ynj",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ce36rr00j68dw3w9a688mgm5alkydydcj6rxns",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cf0tl8s75k9nlk065xkgqxpu34ekyhvfeku93g",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cjka2zuywsr2s84y0gnvva8c8er0m700vlu0vv",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cksznpkpwffdlr7xzwzktpk8y2h505mm7jalgf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cl6gf6defreczyh8hwpfqlccmydmms429cu32l",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cn4q5jchl8kpz256qgqlce3n5t433xgsl5k70f",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1d3ruzjruwujhn960xrkmndxte3c4tmf74aqueh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1d5hkzql2u38dzmz2aestamju4pfnnj4mc2mltf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1d79vppgy4fe9wwvuxhmvawstlz274d50rfln26",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1d97n0zset2v4hu3z4zyqc0zycr8mtw22lfwh2d",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1d9g5x8v4j556ypr3jtc4n79ytc2hyyzcptdma9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dg0nft7nupacge7p0rkk2wqc6pzs7dt265wx3d",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dj5krfgva8n0gr6x5j6hv3mpsk909xy5u22zu9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1djk6dtcr5t4l7zq2pkjs8nhhqdvveahke8zrtl",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dkf5kj9k8rq6ug9g90epdt3qyx2qf4a8em7y9c",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dp5pt02qxmla9a88alp3ljl5m97p5ge690p50h",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dp68aa6e2fp2yppewp6yyqhwlfrf72dvts83gt",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dqshp8qzfd9xm507r3qf7mzhpwh6a85pnvf973",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1druh9e0jsn9xvkmzjw827we8wwngj4fk4lvygr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dux9wkwwa8ja36skvrkdv4llzx6achkve23s0a",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dvdcsulcjv90u0zhsrht6pueu7k5hzj572y5k0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dwjpsmgn7ajzf4r8pecalu3jdrtslnz772yqvq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1dykhv8g3zp30hjs0v4ccpgmnj756evpryarguh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1e0zhwys6tcvw7jtznv82j08zrhcjnjd2wec608",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1e2xk69he7mtxs2mw9uthmes82pcfut3vj2wjt7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1e4254fk90lld629zmcxwt20ny4q59nsclchsxx",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1e5e4ya0jejcylgquwrr8lvhpdqw3jdyth2w34d",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1e5twxxjms8pks8sjd9lentkcwqv9prgxj674wd",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1e7hnkz82l05mwmemug27wkw4dstyya9jf5uygu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1e8ve78whvc7kq4pnskxfjxx7pg50929dvx2jrt",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1eaejz6r4re20uhp9wn0nwzlzay9duxn3qmvqct",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ed7rjhvld0rum7uk6pdkwp7jwawsystzdkttc4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1eer3f5wsfm8s4nmm3f74sz382snww3gqkedu4e",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1egjzf8kd4qcrzrv872m6a5r5n9j3w8c526z4p6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1egnufc5nzjch6r9nuan4ywc90nmtyr5fqq6cv6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ej79xx6qnjetnp65rc6qkkg5zk47ecjw6c567x",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ek3mzrjdnehc3034gp4xan5z3pg9ccrs4hpwg7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ekzuqv40mmdr4rmdqsnqe9fuhg008ah86naprp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ellj9y4qnc9nt2gtfre656yvqyt8ss2jmrvvz7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1epnyjjcg6thvxrm0mzffrcx7wyludl9t7z3ja5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1erhp536h780d65rd3jzjm67zftctt03k22wacr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ertvffv637hkst43eh8ga4xqqtuxcpfsvg6e2z",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1erv8z2uu9axh4455wgvf4njuv88mphasmxflah",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ezytflpr8xrk64q0ajtu6xd054zgx08c7ls60x",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1f0zagera2smyvl3qr6vr3uvtsem8m2t60lufr2",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1f33dgwghmpfdz3xrs3emw90gg3mmuuqegfh6d6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1f6j9hk93x3kps4wpvdd47g346pdusyspvdw0yr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1f8jfs3qamk2tju87wzn3qgjsrkx8tlx9nnmre4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1fdmy4r7a8gzk700sy3k52ez7nqvrv0expj2x9u",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1fep5kj2pr4t9u4d5552qlfdhuc9m4h0g6g9mam",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ferw3qu4d4980kqemf6r3rstwpzw7egdkekprd",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1fh80esnsktj3uht9elujd522hd6ggj04q57us7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1fkkffszqrmskfynchj7pr3yrjq7ug27vsah26c",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1fn984w8kr48yh222rxusel7sk94z60m0krfl8h",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1fu63qv9ve4w26yed52hgaq8szy7w0xqe96d6f4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1fyxe3tsctxgzeaahs4xnf2t6u3v7n4jve5raj5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1g27hpr9nkwk8gamphfadpw7megegjcz6lx3er9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1g73ypdd0ewkwg6zqkjc3a682sgle4cz7k64rzy",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ge2jqx952gtj56u6xq4kvx4pny8rfrz2mn2wy6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1getncuw2stjm2y7e0w2vmmm33m3yemu9z2rd8s",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gfh8vlltxucakge2lqsn9q5xrp25zwyeek8n8l",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gfrece9w2fxghvgy0rqag7rxpvu3pxwd4q48ah",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gg4x98wlrgksnuz2tey2f3a2j5y4ughj58qd47",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gh8xxhyn5h9umg9t59gpcqvv8k4xlja9mrtge2",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gmg9ulld9u3pq3803k5jjw0vln03yupmnwlwgs",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gqfhyqlqmh09whk47y03a56azp76v5nl2qc3wc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gqx44u3n5y67wqgr7dt44sjjyw62atj79pe909",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gsea4we8vvhhfcfl5fzm3jrap8wnsuclpwamlz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gsljpvx2fnkkkzmlux3ljj6fy7cem828el895u",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gsltqym2plrf38h9rv7jtvmmjnaes800u2aelm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gsrk7l7mm2ktw5almrx9ka6jxfknucpteal3rx",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gtln9v2ze08xzt03sf6z9239fcp74xwmyp24f5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gtrkcwhu9e8ttzhtd654gs26ahqwtvrzgay9dg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gvh0yrrt5dxaedta4pta0wtrfpe8gpq6kvhr8x",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1gwgmqkhqn4fr40yyg3acy0szgw00jjf9r5e0nq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1h3h5tvfus4l4arh5qrt56hnyw874xx359p35d3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1h3j2s5rsa50vtuqpk6n3kr7gsqdr7cxgaa9yf8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1h8erlfpv4vv9pza36q5389xnx0azhct9l7gp5k",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1h95xxysdzsq2p76kgecryvuszy6lfsppc2fnds",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1h9gv869pltqcy5m5vspqpr3k2ytwze9l9a7vjw",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hadwt3f0jt2nm6f34neqrh6mulasf86v4nmx3r",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hdhnmqeuutz5lvleecvf0pnarhmsnqwtpdncat",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1heqkv7dx5w0u2q9mmvc546r7pd3eqenl28jvrs",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hevdkv40vw7yz5s5ssm38vzrcgsucpftx3u7jp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hqnaemqehvp7a6pkt5cveqp7ce9qtyvmn4tmjp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hr3tqs577djjeqew3aceev48cteavet2whnaa0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hrknxfdk5s09ff2gmpf2mxr5m6z8ghz3dmgdcm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hv4sxtsx3wz9pkhnkdtwapwhwl8892cad9a2su",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hwwlmujxw589ezmgpw6m82wgnkwqpzwl39kd7m",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hx90wu8dcgy2q7yyden04jnvcd9pzdnw69vvv3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1hzlzrx40a4eqxrt3kmahw3f5vl5wganm6h0pxl",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1j2cgnnz83zsr953jfsdc46mpkka28j2yluua08",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1j2saccf0y3rcdx7h4ned48t3rtwy4wg95wmdz4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1j33rxfgdpuv3dpxaexhsuc64n6ltlascr5te2j",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1j4kt5rgulg5gvvpnvqwxrxqdw5xad2pj97hypq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1j5457w56854qank678m655w0cjktnk87ttw5q4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1j55se82e2zreugewll9usrc766ukzud8e4hku0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1j7vqlj44g8aq3yu5d5ax7us6ddgwzvewpk246r",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jchnmncjhkxfkds9se6tmgh79vuwuekvh35d7s",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jcjg3jxe5kgx08h057r209u9qvykgkcwqvy9mp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jfwwngs4fx69zg2yglcul7q2fpcapn3tt5ey37",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jgm3nxupy6d83k0gw6u6lrw5y59lxx6qg8zwxg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jl0zw52lwguq52ydttxu9zsv0l2vgkdaetxz0w",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jngwh59zlk5ss2ydu5l0vggcnc6kamvwmsynm0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jny2ynnwl298fu2hh78nykydzgtnmv4h42m5cc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jtaxypycvnu29k2s4sq60r4gaz3j0hgg6s0kax",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jtvgryacsavdj0ssc57yst34u6rdhasagw2tvd",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jvyqwekdywt2ggjxqqq9f8w58yft0y0zgccd45",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jwd2unsva5qywx9wsdnzzzfxed3xmwsstrmc3h",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1jykxvy9w60ffdqlp44j6xn8mvcphsetak0n0ux",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1k2l6g9nlfqmch84afrv398qgv7k9h5kyhm3fcr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1k2mvlzm3k2x244m5ptzf65lhs02m2cl8rlf438",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1k6s98czdrlqnkg2mex9q9u6j6dv0g00zxwkams",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1k96cxt8j3apmsmdkytej2q46qy0aezxxe43yl5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1kfg4mdclr82ffud3jy7299nlvntava66v4k9qx",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1kg92ld6rgyvq92wq5lq65t6dh79mlexm57ctf4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1kjk5nxkmz26nds873qml7mqtuv45yqcak60ekq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1kstm6e9lue2m8v87tzm96azn9rav4u6a09yc32",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ktq0v8ut73k4te6exzfdyxge9uh94fz7rgkuka",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1kx5dcdgjemampwcfmzr99f0gqk6zez53g6y0ga",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1l2c542pktsx8rhu3jxhnnm4a9utnrltsh5tzjc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1l7gjnck2kx0h0wgx2fdgvyzhvaym20yu8c58yu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1l7s5smgduw23g3428un0yjvzhwt74mfvchqpj8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1lclsef54xeg9d7epxsapn6aheml00xk9k039fu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1lf9ewpfnxde4wf0072mez5j4e7n0t7uaf5xavm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1lffy3pr0tzuuk8sydwnl7ellgdkcx657wm0hy6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1lftyyms8vfg4fhmclr7h2sd62y3hjh38wjm699",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1lgr4y6xd92m53mdrtw2jk4zs87hahyw72k0kh6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ln3qkxway3alspk00vxhcfvd60z7a7xcw6qdt7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1lnvdapraskf3ndlr39a20sfqkplgr27nrnmxm7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1luejncg2je82xgts7sg3f3g4ytq2473ge5z3px",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1lw3x8vlxvq55a0uujmm7tzsf98tzyn9tks5f7k",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1lx0a3zkdvv9lfpjzgndzdypl49wp223pq5phxk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1lyzxxc0jppvtnptlcssy32mkwrj40tnjz5r7d3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1m0sclcw3wax9zu9g0fgytq5vw9z7sawvafkhq8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1m7gnl8m8zmhqw9nem8gjqaat8dr0mamsv282sv",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1m85va5xwj944mtppzaucqtlj32xl8pfkf5ktgk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mcdvj075qqcuakyr3nymf63vw4c4rmdm9k8n04",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mcvwe5lg5s0mup05kktlesq7vf5xt5cxljd0f0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mdujhgx37fjg7wrwqj98mkuu6knks7ap934987",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mgvpl8qr5dggllkjtt4gsvkejpq4ssvmgk2flr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mgz7rsnqzvdfem9zg55afdzxvzfhymeed42uw7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mhr8snhqv5328j4hz9gwhvz77rf2efgtv8xpyh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mkp4jcn32as0pf4nnsdxha9q650qp65dhthp9g",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mnhhs7rmym2ap7nevspmmf6f8x9sf08nhullmx",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mp2resp99kh2veyjlkxle3ht6y63zm8wzsq7q4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mr7mh33nyf86vzutwr6ypcv3ceeecfvfdwz0l6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1msypj8yppasgmpq6h5kq8hmfy0qerrcqgsqk9q",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mtyxdkzp7sv8fu0gw3ye8aj76r2s2c0t7k45zl",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mxup2qhrk0d5pd57erhxa9h4uwl9ugh2yn32ef",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1n029wutk47xq27tueyc9gn8rptsws678p7c2qg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1n35ar0kvfk0yzfdxpwunna9ykrtk89f78z8ya2",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1n3pa963zpxhscch86g36r0k95espsswdk5ehhc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1n5yuvr0fa0kjntjqpa5xgv5l5c7qjzllugpdz4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1n64a2s56dqdmw3q8lw39q4gmdsvnrcfsd0pa4v",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1nem0s83nfmcc4jn5vlwqwrepxv4w7uss278s4m",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1nhpqasm8c5dwutncvp7f3kqfgxsnwn2qjn07ex",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1njrs07k3yqkgnusm0g7py8sy9608da8y6ax8fw",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1nks5yffczcxcfrrahmv8kdg9yn3z9pmd3388ka",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1np5mrs70tkwatcx3s6sjuz3eezjvzttvr7dhad",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1nq0kpwqkkgxdfkevtwak3end4lk7qmefr3zseq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1nt0lwznlgnt3dxll2jdf8h9e3547s3cqe50y4s",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1nxc7tj3qv5ze2e8frekr6l93038qrkyt3xqw0v",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ny44zqwg973ct3k7e4v9q94efnmfnylgwpp3f8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1nyps4kvvnwlwjx47vrtwassmw6xykpawfsdsap",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1nywgdyztdlzrj6wgqdqta33ulvvylqaka2hd0u",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1nza05w9yqsltxylcl044y9g4q26raq3jy5y3s3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1p0lnuq0kmz0sk9qgphncktegdkeeepxrry82r2",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1p0lz8t7l6ycq3r7d0mhvmgr77cfvkxrjrz3dr5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1p2qgm4k6p9mmf4gyzgayrpw03sd3ftn450vxex",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1p3twrxme27qrh9sf7day9v9qpn345vvt0p8trk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1p6k93ydse7cugsg84rm6kxfwl4gtmmz0yntvsh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1p74vh70mx6gvgku8t36h5kcl04rkmzmy7q5srf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1p7ksezvvuapznuk7fv5zzn2qchrfm4hzdvgp8y",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1p9hy2wvdgzdngexhtqfhllme89gvjpsj4uqe9w",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pc50c0wpsf0dlnqv7fhqqe7tzfj8ec4nnd5rth",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pcnp4e8wqd5y0kxlgj3mlk06ep9fngmwgpgl6g",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pdv2jjtzsc0c4dkux0rmv4af8qn20cfx0fdew9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pf5m82vyy7xsez5klrsluhqjcttcxs7k86xp80",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1phpp3edrm3vu4w5z9nrdzp97s9lw8gtp5jpngf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pkuczv328lwpxy6w0kw52ke6emjvn93n3njpqh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pmjyd2v8qwxyj4hle80e9wn7qssa3yg0vt5n7a",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pp3dtzmd7dv0nxgg4szs8w9z6qz7cqlvmweyx8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pv7h57x8tysprrj3kqp6cdxfgct8a2uja7ahuw",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pxcc8vmng0laxz8t896vzymx84w2900xnkwgsh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1pyv4h3ztp34rvuu9a96lcwzrs0ed2p8qm5vur7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1q5mgsnqdnlca3zlffy8mc2fu5y4xmm9hd9w3gf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1q6hedz7kg3sr4cgdfgdhexn9fvhrs9rh455970",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1q6nq3j8nr6duyjcm684ju792yyxhsg7qnpk4s7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qdzjc0n0ea45slkhmcm9drwzkusgazdc72rule",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qjv26exw4zznkf89hjq9qvskne4vxu9ayug360",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qke9f04zv3cp2n528rxwqtthkje62n600tqplg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qmajg6qvtjn7ehst8uq3hqfwmt90aapu5e4u4h",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qqqmzyvd2wdzr06760758h6gju8ypy4j95we4u",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qu0p2eapsdvr7pxs6dathgml2d82fvac93hyeq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1queekpnr86x2swdg4y3wxa497wcnrtjcxvrnmm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1quhggntlqq37zd6kmltd8le34ka2npz0qket3d",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qvjujglqsd30llpsvruqd0yg3menzftqc9sgea",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qw6f0jny9vtpwp08s9nemspf22jlgx20t2pp2t",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qw6rrd8xyn9474ylf6nvms9jklpks4njmyslzz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qyjxgauyhmnlhuyan4md7zc92vcxkvq5pgck9p",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qzf6d0jp4seajurxtp6gfvr4gc3qe42mj5mzem",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1qzhe6zml60sa2wvvjl8v9vd0gnqrltkffd7zx6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1r0zl70x234pyfz78zkldjkz7xur35dzu8saz4f",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1r57zvkw0tf8ekz2qukhhzmy8vph2vv803u2376",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1r5v9jc9tsfzrvfrguwd54a4mcmhl3djrl63tl2",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1r6waeaa5gr4ekr03fjdh0g7yjp465qaxtjpggd",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1r9lte9fxr04s7y7tgv3vktxqj98qde4cfarqmt",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ra7ktuex2xyp7j28x6dlk7xkm0mcege6cl9nxs",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1rckmyh59j6lg29432yhy088q3umcd3ssc0pkwf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1reu7caz9ydaq2qy6p9l698edfl8x8lx3fg4jah",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1rfj4p33ezfr0mmjnrr68wtpy6nwrqvmruk3sza",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1rh5jhq4ps56e45gdcxv0rhhg9u3q79e4vzhqef",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1rjh6p3z4jvayka3dn8qduf06w6rtjtyqaj9nkw",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1rwk576s4mha5h8jatjca04jgv5e2sdtnxfru9n",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1rwsv6kx2sh8xhzvkrm68kwuyqjd8p5g25v6yd8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s0pcf407f6ljn2hprezdaep0wfgz53qyyhcxy6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s2a293t9gf2a4x07v399gdzexxsshx6awm6heg",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s4p8h244t7qgr6jyx4uzcfe69j6smma9tfk75y",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s5t5ql023p6twm5v9mm2ugch8sszl7lxmqs8lk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s6cs56sv760dfmq8dhc9svaggl2lqsm6t5aq5w",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s6nrlrc3r3hpf07ut8auc4p7nykqycaea4rq43",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s89d4snvnqchv5z78fqncz58c59gxz5jydnwd3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s89gf74pdhen0lgugethgf2jv3y2kc44xtyake",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s8euv39e7ydrn3qnuzd9em4zmp7l8l3w2pnp9d",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1s90ep6ndp3g3eshs7uff2vl6lkv6gflv7mjeyr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ses544z0rf9ejg8ghmhueknlxslst4tv34zg7z",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1sfu56eqhepfk6snvc64srx24s5gecyejag486r",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1sh5kl94y5q66syfqvr5nyfn9vyerxpzufyvug6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1shms8sle89dn7yj3anxmuqnua2ptn3hvcjlg0s",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1snd46sdudcqrjurd7pxxrdsl23hnzrfrn8trmu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1sql4zcyme0f0av83ahma4wwm455xejkynm0h3e",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1st34qkwxy99jsffak3zksq4tp30dhxmulv4794",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1sukupmhftyy0d32s75atnu4fcp0hcmeq6j7u39",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1sxu9nuzung9tw2eklqf80tcm3nyct68tvn42lr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1syglhuur2s60rk8mz7tyrldz4wxpf8mf7wnml9",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1t0wfvht3x9w0trgrhcyqnutvreg2k5trt3v255",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tadxc4uym7am609vk0zmgrcgg2jprx3v0fe0kv",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tchk3uh06v3x0fm7tlrtsc6qrgqj8h2wfz520r",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tdlrn8mg034rm0sts6ej5k4mxwfgdgd97wgrqq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1te6edaqkkn3dc0s74ljzddxwpydc4zn55ecmhp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1telq3xtuglrkzg0rvy58gwq6hd2edx7vpw33ru",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tfxtdv9x39m4gecmdg4mpkvxf5tfrslte7ea3s",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tgvsj42jjpn3t5436c6jv2r2vyjv63x7zfs3mf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tlfsla8sl0244v4jcjytzgma4av6qz4j76znzz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tlw7qds9n5pmw659488ugteq32ve6m2mdnvc8y",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1trfmflq833a4vx4m8mkdyz5f3xuwde0mfwflr6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ttul46957r00dkxuduqcadn5yuhqrspdk7hvga",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tvycmc67q4d5g4a29smjuarz2m3ufhrc2ma3sm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tyc3zqjqu3ddtc7gpy4yhe8sv6nkzuag0xmrhh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1u7rpc9za9mj2w9ypnnmcg8cvd0s68tf8jeppcc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1u9s0hj3sw840xkygjhemt4rxazv7gv2dgnu45c",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ucfttyyfm48fepyrstxlkjpp0qa9ygvln6jez0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1udcta30vdytasfv00gdwue7c8uaje7a584uf9n",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1udf3ddtxdn8wq9ayqe0tq86hjxfwagaupjw67h",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ufumstplfqt5c9qs6zjzr5vp3dew7s29u7e7jd",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ujl2ztzc6cz8kn4jclh455gcxv7d4fqupl8zfj",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ujpn0k55faap5cqav45rcs4qydtyekpqm3jyxh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ukwp5zzmtdn2stdr4rxs4vctq2mylh956fk8k5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ulm8m0g66fkxcalp8fpaqn7r7luqguqqf7wpe3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1umkmpnwdtdgujusgz7x8qvshs23mgkz0vg8dhq",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1urt477n29estvze3nuqp06y3me8u0tfehjc8e6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1utzadk7rt3lgak87exyku5vm0602p8uljkh89d",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1v0m5m875jjd2jsxpfp79qps6mvp4y2jrccffpf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1v6p7cesm59t77hjxscq458q0gy2zruwcw80pcl",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1v8hrdy2sy02668829f4hygxlaxyksugqj0an8z",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vce0erg7582s2ketqv2sgnlt6luwcaer0k6r7z",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vd6cp22nyepe9myhqx8l8nsl7d2tsj8ckzem39",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vej9l99ttjs0ty378dmc446le34rc8dlmt6wyl",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vk92ehqhlh26ujg6cgjlpule3gc5ntp9eq64ua",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vs524h984emzuqfg79pkqm5f057kt26ggvp0uj",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vszhc498ksmxnzv2t8p4pxnx5zw9xf6ran7e7k",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vtkx3rgqj2mct4yu773z4ka7l5lfs492v8fxc8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vuxc9xvwlwvnkq5wcsnzq0wxmtqv5yuh8gemzu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vwyzckh3e487fn6mmhr2e7789hktj0gxpancjl",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vz8wztxauw8tnlr6qxd7zdwrn37qulqgjymj5c",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1vzy9m4va44dlk3e2wkuakzt57fuf0qrrdm40ug",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1w08lk9xvd3nk078c6rgq3pdr92juhhy288dc0q",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1w22nrmxhdz9yv9j4s784mwxxpjmcm2a7etea0f",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1w43e02xuyvkkkqzzkulnq3l72696re0hdz7324",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1w80euux3mhrde2x2qnv8hs7jspcgfv9k4x3qaa",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1we3m0s4mhnlh8s892276evvq5nh7sp5ezftagd",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1weq8rdufgk08wtx8ret4us6jppqrjsl4kqpee4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1wh38f8205s3n6fwzynd3h2ful7j0dgu6w8tz9x",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1wjy67rjmkgn5mseme9sj3zchl8sffzatxfhqvf",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1wqkgmfx9m0lfs4xd2vv3zuep740u48qma6e5c3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1wrs40cp69k3xaaa4vtn9fexvxkwk8rak7a3pzw",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1wwmz97e83quvlpetuhzgcw4npgyhdhyg8fp9dm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1wym3mrptsmw4g9fd977sc96s4kwnde2nxct8cr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1x560xx2hc9lfwgy44wds9qffmm92lylcvpx4gj",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1x5phy27gp7xye5q0ctch6wt5xjs3t24hwwn9wc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1x5ykpmr6utj6nz7g48cnkm73eq8yhr2xftnrk7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xay9xrgln6f8ve9wryp8akhtwj02puxuk3zzxc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xpq8j5zlzmtd2r3zq340ch7063vet3e989kvv3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xqkqg72a72y2v5w732dyhpxk2rkmuwu5jsd7u6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xt7r3a5q397llyuezj2ptrc8yzkk0hwtkscj56",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xtrwsa7dh7jz0whaa5fsy0pu9x83z93r7lhmy4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xuwzeewzgc25d0qg8mz2396096vhvyxza5tvzy",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xv89pvcn97034n8qr0e3sq027rcmehgma7fzg8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xvur9y9z8m5c7cq9rpfh6lxwr047wreuqp043a",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xw7wqdna90rrr2rzaysqtrvdkwy4wh0hr8vq92",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xwup7jk3su3mnj5hjj6unsa2hrpc6uwr6t8anr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xxv4fyflcxly4pt0ve0xwztnsm5l0ty4vu3j06",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xz2yxgnwhqrufj4ty245m7uhavn8zy3ylqq7fz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1y0tql9jpmue9t75qvcvyau4nhdw4pakcgdckjz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1y6frqkq3ghvypja2t9uqxkfulpaqeuhfzm69vp",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1y9pukfn4zxxvfnzy5cdfu5gxxdmth2wslqcqem",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1yf5fmdps55ypsv5lleln925m0ugd7na9th3kcr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1yghalkqxlft7prfk3y8xk5mhntxx5685t2j4tv",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1yjqnl9em87f77x4l7cj9ush02w9t7p6rvhmrgm",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ylkc2f23pq0t63vz3ke2c3fu3lm09nqyn7el4c",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ymvmsd689y8wqeravg8mhw3tmergdq8t4f3d54",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1yqzg50qld6qvhuzwk9cryv3kwp9kknpq8897s4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1yrupzkl8ne5x63fp6fwrvdk52swvznkx8cjnp7",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1yxaczswtwnlqqyn9x9ccsa495lm2tlrte5aa9g",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1yxseyfr4cdgers6wlxr88ahelq0y35qy9afa5m",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1z0vnwxd8lzuqjzah6wnh0u4zlesl9wzvha2mgh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1z3n7asnxux0h9fc3v9jtx5lww52rj67qcgxqgu",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1z43xqp4f4ndz73ll6vqxf0x2wnx02u87c025na",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1z6detujgnxu24gv8htetq3r6qhy63tmtk4ff2h",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1z7ura0m4gg6zcp53fw5vx9cjhjsndvvpdy92ge",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zc86cnlsmgz50swt9nluhpmn45k2fc0w9du3ys",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zck3zn662n00tvfhmwaf4ujltr885qt5v2n4sn",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zhvgkx8h7c4l0te95ht96y3skwktsahd0l78sk",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zl55zufg86ruky5fh6yk70h333rgj3yftyksp6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zlcaqrtawqegt66dlufrrsngh9mwetnrynv30q",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zlw7gdsuze983f5ya8a0jmd040q7u3xwng0avh",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zp5vensepv6xkls426fp4dr44usvnlc4td2r6q",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zqz36yus8m3e5xadjrvlcdk4y8lz82230j83d2",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zs8tshcxjzwcdqze4p373zvmlsmwz2kh83dtl0",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zshuacxs7u9y7w96drp6q0kwpukhtykz4rjxhj",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1ztkljfzh4d7ekr0juqggsd9py385rkahx72r6k",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1zvlx4zhhhczjswu9eua96vft3hv5dgp3r6j5ka",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "uusd",
     "name": "TerraUSD Classic",
     "symbol": "USTC",
@@ -8312,6 +12069,13 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/FA7775734CC73176B7425910DE001A1D2AD9B6D9E93129A5D0750EAD13E4E63A",
+    "name": "uusdc",
+    "symbol": "ibc/FA7775734CC73176B7425910DE001A1D2AD9B6D9E93129A5D0750EAD13E4E63A",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "terra1l2stn9sszzg6qwfqd6ckfa5n58hs4x5wwjaehh",
     "name": "UUZ Token",
     "symbol": "UUZ",
@@ -8491,6 +12255,13 @@
     "type": "cw20"
   },
   {
+    "id": "terra1mre4cjqgjz624k4c0yscd9mdj5r6rs367zkquk",
+    "name": "Wormhole:",
+    "symbol": "wh",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "terra143gyjf53a8ksn6r4nulaa69ld0dp6yety5gkmx",
     "name": "Wormhole:Axelar Wrapped LUNA",
     "symbol": "whLUNA",
@@ -8564,6 +12335,20 @@
     "icon": "https://static.lido.fi/stSOL/stSOL.png"
   },
   {
+    "id": "terra1kfk35h34wt4nr67p723mszm2kvmzeq38pk45gd",
+    "name": "Wormhole:Luna",
+    "symbol": "whLUNA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1fn4qp9hsv5hselr8g9a4rz5gw6n52gwjrjsxas",
+    "name": "Wormhole:LUNA",
+    "symbol": "whLUNA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "terra15a9dr3a2a2lj5fclrw35xxg9yuxg0d908wpf2y",
     "name": "Wormhole:Magic Internet Money",
     "symbol": "whMIM",
@@ -8583,6 +12368,13 @@
     "name": "Wormhole:Sarcophagus",
     "symbol": "whSARCO",
     "decimals": "8",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1mwjqrcljdxnprmh6dqz5fqldpgsqqhyntp6m7n",
+    "name": "Wormhole:TerraUSD",
+    "symbol": "whUST",
+    "decimals": "6",
     "type": "cw20"
   },
   {
@@ -8632,6 +12424,13 @@
     "icon": "https://static.lido.fi/wstETH/wstETH.png"
   },
   {
+    "id": "terra1ky26p5m5t5anq3qsrdmalgj2gz6jyxarj5ps7q",
+    "name": "Wormhole:Wrapped LUNA Token",
+    "symbol": "whLUNA",
+    "decimals": "8",
+    "type": "cw20"
+  },
+  {
     "id": "terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh",
     "name": "Wormhole:XDEFI",
     "symbol": "whXDEFI",
@@ -8663,6 +12462,13 @@
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png"
   },
   {
+    "id": "terra12l2fukxxu7a3fx7mpxpuxmtat0m9glt6whq389",
+    "name": "Wrapped LUNC Burn Token (Wormhole)",
+    "symbol": "wLBUN",
+    "decimals": "8",
+    "type": "cw20"
+  },
+  {
     "id": "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8",
     "name": "Wrapped Matic (Wormhole)",
     "symbol": "WMATIC",
@@ -8677,6 +12483,13 @@
     "decimals": "8",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
+  },
+  {
+    "id": "terra1vr9tpr24um3pj7ldk9l2x0e56n0s50ppqh2kpd",
+    "name": "Wrapped UST Token (Wormhole)",
+    "symbol": "UST",
+    "decimals": "8",
+    "type": "cw20"
   },
   {
     "id": "terra1jl0egxpdfw0eqkzsgedzzet9zgwmhet2rd3s6u",
