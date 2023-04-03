@@ -80,6 +80,15 @@ describe("given an asset.json", () => {
       expect(duplicateCheck(fileType, duplicateIdAssets)).toBeTruthy();
     });
   });
+
+  describe("if an asset contains an emoji, expect no error", () => {
+    test("schemaErrorCheck should return true, indicating an error", () => {
+      const data = loadJson("/data/validator/asset_04.json");
+      const hasError = schemaErrorCheck(schema, data);
+
+      expect(hasError).toBeFalsy();
+    });
+  });
 });
 
 describe("given a binary.json", () => {

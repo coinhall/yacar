@@ -92,6 +92,20 @@ describe("given an asset.json", () => {
       expect(sortAsset(shuffledAssets)).toStrictEqual(expectedAssets);
     });
   });
+
+  describe("given an asset with an emoji", () => {
+    test("should not be sorted", () => {
+      const emojiAsset = loadJson("/data/sorter/raw/asset_03.json") as Asset[];
+
+      // console.log(sortAsset(emojiAsset));
+
+      // const expectedAsset = loadJson(
+      //   "/data/sorter/expected/asset_03.json"
+      // ) as Asset[];
+
+      // expect(sortAsset(emojiAsset)).toStrictEqual(expectedAsset);
+    });
+  });
 });
 
 describe("given an binary.json", () => {
