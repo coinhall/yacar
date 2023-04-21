@@ -1416,13 +1416,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1tj9zrn3myxvkct20ehzje5whu5j75c94s8r666",
-    "name": "🤖 RoboNFT 🤖",
-    "symbol": "RNFT",
-    "decimals": "3",
-    "type": "cw20"
-  },
-  {
     "id": "terra1c0awzlg4ujlt0c2prwtukqeapg2m4qty5fdgs2",
     "name": "1 COIN is 1 NFT",
     "symbol": "DEGEN",
@@ -7671,6 +7664,13 @@
     "type": "cw20"
   },
   {
+    "id": "terra13g4dpj88d0pe93vykakp7l648utuk6n2x4p0fn",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "terra13gp0z7enc6mjp8flnwl967xz7xtwtr84k8pjjz",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
@@ -12683,6 +12683,13 @@
     "name": "ZERG",
     "symbol": "ZUG",
     "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tj9zrn3myxvkct20ehzje5whu5j75c94s8r666",
+    "name": "🤖 RoboNFT 🤖",
+    "symbol": "RNFT",
+    "decimals": "3",
     "type": "cw20"
   }
 ]
