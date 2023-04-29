@@ -1416,13 +1416,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1tj9zrn3myxvkct20ehzje5whu5j75c94s8r666",
-    "name": "🤖 RoboNFT 🤖",
-    "symbol": "RNFT",
-    "decimals": "3",
-    "type": "cw20"
-  },
-  {
     "id": "terra1c0awzlg4ujlt0c2prwtukqeapg2m4qty5fdgs2",
     "name": "1 COIN is 1 NFT",
     "symbol": "DEGEN",
@@ -2548,6 +2541,13 @@
     "id": "terra1mely4fttd94g5kgjmz05dmclgdahq45xnv5n22",
     "name": "CVRG Token",
     "symbol": "CVRG",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra17elux0e7pwa0l4yws6yar3xj9kaalzal90yp22",
+    "name": "CW20 DFC",
+    "symbol": "DFC",
     "decimals": "6",
     "type": "cw20"
   },
@@ -12690,6 +12690,13 @@
     "name": "ZERG",
     "symbol": "ZUG",
     "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1tj9zrn3myxvkct20ehzje5whu5j75c94s8r666",
+    "name": "🤖 RoboNFT 🤖",
+    "symbol": "RNFT",
+    "decimals": "3",
     "type": "cw20"
   }
 ]
