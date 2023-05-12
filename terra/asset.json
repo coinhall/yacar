@@ -1356,6 +1356,15 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
     "coingecko": "https://www.coingecko.com/en/coins/terra"
   },
+    {
+    "id": "terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz",
+    "name": "Terra PEPE",
+    "symbol": "PEPE",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply_api": "https://raw.githubusercontent.com/trumpdao/public/main/pepe_supply",
+    "icon": "https://raw.githubusercontent.com/trumpdao/public/main/data/pepe_logo.jpeg"
+  },
   {
     "id": "terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2",
     "entity": "Terra Poker",
