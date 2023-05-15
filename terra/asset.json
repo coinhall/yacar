@@ -1111,6 +1111,15 @@
     "icon": "https://assets.terra.money/icon/svg/ibc/USK.svg"
   },
   {
+    "id": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t",
+    "entity": "Lion Cub DAO",
+    "name": "CUB",
+    "symbol": "CUB",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png"
+  },
+  {
     "id": "terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2",
     "entity": "Lira Financial",
     "name": "Lira",
@@ -1238,6 +1247,15 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://static.wixstatic.com/media/1e62a0_89af25478e5144089de9292b990493e2~mv2.png"
+  },
+  {
+    "id": "terra17r9jrknn2m0a8nuymhdpzhcnjz3c8veqszf6ajs7rkjz8zr3jtgqplhw2u",
+    "entity": "Rebase DAO",
+    "name": "Rebase DAO",
+    "symbol": "BASE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/RebaseDAO/web-assets/main/RebaseDAO.png"
   },
   {
     "id": "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk",
@@ -2762,6 +2780,13 @@
     "type": "ibc"
   },
   {
+    "id": "terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz",
+    "name": "Terra Pepe",
+    "symbol": "PEPE",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "terra146ypndztcmmrmyxef7e20cul82gh43vjnw4uacwdvg5sp9kva7sqc9mjav",
     "name": "TerraDoge",
     "symbol": "TDOGE",
@@ -2925,6 +2950,13 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
+    "name": "umars",
+    "symbol": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra1q4r4zzde2tg52306qevhnaf3qw76a68hnyzw404uuvvzx09n3ckqe2ylrm",
