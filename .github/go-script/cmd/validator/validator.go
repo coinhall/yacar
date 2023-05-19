@@ -70,7 +70,6 @@ func validateYacarJSON(filePath string) error {
 
 // TODO: Use validator pkg or shift the respective logic into yacar_util pkg
 func validation_handler(filePath string, file *os.File) error {
-	// switch case for different file names
 	switch {
 	case strings.Contains(filePath, enums.Account.Name()):
 		return validateAccountJSON(file)
