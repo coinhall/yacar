@@ -9,14 +9,16 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/coinhall/yacar/internal/config"
 	"github.com/coinhall/yacar/internal/enums"
 	"github.com/coinhall/yacar/internal/reader"
 	"github.com/coinhall/yacar_util"
 )
 
 func Start() {
-	projRoot := config.GetRootDir()
+	projRoot := os.Getenv("ROOT_DIR")
+	if projRoot == "" {
+		log.Fatal("ROOT_DIR env var not set")
+	}
 
 	// Get JSONs to validate and load into memory
 	chainDirsGlob := strings.Join(enums.GetAllChainNames(), ",")
@@ -84,7 +86,7 @@ func validation_handler(filePath string, file *os.File) error {
 	case strings.Contains(filePath, enums.Pool.Name()):
 		return validatePoolJSON(file)
 	default:
-		return fmt.Errorf("unknown file name: %s", filePath)
+		return fmt.Errorf("unknown file path: %s", filePath)
 	}
 }
 
