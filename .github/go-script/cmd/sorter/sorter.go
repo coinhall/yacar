@@ -172,17 +172,22 @@ func writeYacarJSONs(orderedJSONs sync.Map) {
 		filePath := key.(string)
 		orderedJSON := value.([]interface{})
 
-		file, err := os.OpenFile(filePath, os.O_RDWR, 0644)
+		file, err := os.OpenFile(filePath, os.O_RDWR|os.O_TRUNC, 0644)
 		if err != nil {
 			log.Fatalf("error while opening file: %s", err)
 		}
 		defer file.Close()
-		defer file.Sync()
 
-		file.Truncate(0)
-		if err := json.NewEncoder(file).Encode(orderedJSON); err != nil {
+		var sb strings.Builder
+		jsonEncoder := json.NewEncoder(&sb)
+		jsonEncoder.SetEscapeHTML(false)
+		jsonEncoder.SetIndent("", "  ")
+		if err := jsonEncoder.Encode(orderedJSON); err != nil {
 			log.Fatalf("error while encoding JSON: %s", err)
 		}
+
+		file.Truncate(0)
+		file.WriteString(sb.String())
 
 		return true
 	})
