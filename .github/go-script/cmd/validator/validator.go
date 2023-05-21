@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"path/filepath"
 	"strings"
 	"sync"
 
@@ -20,16 +19,8 @@ func Start() {
 		log.Fatal("ROOT_DIR env var not set")
 	}
 
-	// Get JSONs to validate and load into memory
-	chainDirsGlob := strings.Join(enums.GetAllChainNames(), ",")
-	fileNamesGlob := strings.Join(enums.GetAllFileNames(), ",")
-	fileGlobPattern := reader.AsGlobPattern(projRoot, chainDirsGlob, fileNamesGlob)
-	filePaths, err := filepath.Glob(fileGlobPattern)
-	if err != nil {
-		log.Fatalf("error while getting file paths from glob pattern: %s", err)
-	}
-
 	// Validate JSONs
+	filePaths := reader.GetLocalYacarFiles(projRoot)
 	if err := validateYacarJSONs(filePaths); err != nil {
 		log.Fatal(err)
 	}
