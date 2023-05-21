@@ -3,9 +3,9 @@ package enums
 type Chain string
 
 const (
-	Osmosis      Chain = "osmosis"
 	Juno         Chain = "juno"
 	Kujira       Chain = "kujira"
+	Osmosis      Chain = "osmosis"
 	Terra        Chain = "terra"
 	TerraClassic Chain = "terraclassic"
 )
@@ -16,9 +16,9 @@ func (c Chain) Name() string {
 
 func getAllChains() []Chain {
 	return []Chain{
-		Osmosis,
 		Juno,
 		Kujira,
+		Osmosis,
 		Terra,
 		TerraClassic,
 	}
