@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ".github/scripts/go"
+        working-directory: ".github/scripts"
     steps:
       - name: Checkout repository and branch
         uses: actions/checkout@v3
@@ -22,8 +22,8 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v4
         with:
-          go-version-file: ${{ github.workspace }}/.github/scripts/go/go.mod
-          cache-dependency-path: ${{ github.workspace }}/.github/scripts/go/go.sum
+          go-version-file: ${{ github.workspace }}/.github/scripts/go.mod
+          cache-dependency-path: ${{ github.workspace }}/.github/scripts/go.sum
           check-latest: true
           cache: true
 

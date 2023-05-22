@@ -13,7 +13,6 @@ import (
 )
 
 func Start(filePaths []string) {
-	// Validate JSONs
 	validateYacarJSONs(filePaths)
 	log.Println("Validated JSONs successfully...")
 }

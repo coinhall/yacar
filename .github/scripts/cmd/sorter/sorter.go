@@ -13,7 +13,6 @@ import (
 )
 
 func Start(filePaths []string) {
-	// Sort JSONs
 	sortedJSONsMap := sortYacarJSONs(filePaths)
 	writeYacarJSONs(sortedJSONsMap)
 	log.Println("Sorted JSONs successfully...")
