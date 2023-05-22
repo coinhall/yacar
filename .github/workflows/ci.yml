@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ".github/go-script"
+        working-directory: ".github/scripts/go"
     steps:
       - name: Checkout repository and branch
         uses: actions/checkout@v3
@@ -20,10 +20,10 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
 
       - name: Setup Go
-        uses: actions/setup-go@v3
+        uses: actions/setup-go@v4
         with:
-          go-version-file: /home/runner/work/yacar/yacar/.github/go-script/go.mod
-          cache-dependency-path: /home/runner/work/yacar/yacar/.github/go-script/go.sum
+          go-version-file: ${{ github.workspace }}/.github/scripts/go/go.mod
+          cache-dependency-path: ${{ github.workspace }}/.github/scripts/go/go.sum
           check-latest: true
           cache: true
 
