@@ -14,18 +14,15 @@ import (
 
 func Start(filePaths []string) {
 	// Sort JSONs
-	sortedJSONsMap, err := sortYacarJSONs(filePaths)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	// Write changes to disk, map is guaranteed to be populated
+	sortedJSONsMap := sortYacarJSONs(filePaths)
 	writeYacarJSONs(sortedJSONsMap)
+	log.Println("Sorted JSONs successfully...")
 }
 
-func sortYacarJSONs(filePaths []string) (sync.Map, error) {
+func sortYacarJSONs(filePaths []string) map[string]interface{} {
 	var wg sync.WaitGroup
-	var sm sync.Map
+	var mu sync.Mutex
+	sm := make(map[string]interface{}, len(filePaths))
 
 	for _, filePath := range filePaths {
 		wg.Add(1)
@@ -39,13 +36,15 @@ func sortYacarJSONs(filePaths []string) (sync.Map, error) {
 			defer file.Close()
 
 			sorted := sortYacarJSON(filePath, file)
-			sm.Store(filePath, sorted)
 
+			mu.Lock()
+			sm[filePath] = sorted
+			mu.Unlock()
 		}(filePath)
 	}
 	wg.Wait()
 
-	return sm, nil
+	return sm
 }
 
 func sortYacarJSON(filePath string, file *os.File) interface{} {
@@ -140,28 +139,36 @@ func sortPoolJSON(file *os.File) interface{} {
 	return pools
 }
 
-func writeYacarJSONs(orderedJSONs sync.Map) {
-	orderedJSONs.Range(func(key, value interface{}) bool {
-		filePath := key.(string)
-		orderedJSON := value.([]interface{})
+func writeYacarJSONs(sortedJSONsMap map[string]interface{}) {
 
-		file, err := os.OpenFile(filePath, os.O_RDWR|os.O_TRUNC, 0644)
-		if err != nil {
-			log.Fatalf("error while opening file: %s", err)
-		}
-		defer file.Close()
+	var wg sync.WaitGroup
+	for fp, data := range sortedJSONsMap {
+		wg.Add(1)
+		go func(fp string, data interface{}) {
+			defer wg.Done()
 
-		var sb strings.Builder
-		jsonEncoder := json.NewEncoder(&sb)
-		jsonEncoder.SetEscapeHTML(false)
-		jsonEncoder.SetIndent("", "  ")
-		if err := jsonEncoder.Encode(orderedJSON); err != nil {
-			log.Fatalf("error while encoding JSON: %s", err)
-		}
+			file, err := os.OpenFile(fp, os.O_RDWR|os.O_TRUNC, 0644)
+			if err != nil {
+				log.Fatalf("error while opening file: %s", err)
+			}
+			defer file.Close()
 
-		file.Truncate(0)
-		file.WriteString(sb.String())
+			var sb strings.Builder
+			enc := json.NewEncoder(&sb)
+			enc.SetEscapeHTML(false)
+			enc.SetIndent("", "  ")
+			if err := enc.Encode(data); err != nil {
+				log.Fatalf("error while encoding JSON: %s", err)
+			}
 
-		return true
-	})
+			if err := file.Truncate(0); err != nil {
+				log.Fatalf("error while truncating file: %s", err)
+			}
+
+			if _, err := file.WriteString(sb.String()); err != nil {
+				log.Fatalf("error while writing to file: %s", err)
+			}
+		}(fp, data)
+	}
+	wg.Wait()
 }
