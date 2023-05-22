@@ -9,18 +9,11 @@ import (
 	"sync"
 
 	"github.com/coinhall/yacar/internal/enums"
-	"github.com/coinhall/yacar/internal/reader"
 	"github.com/coinhall/yacar_util"
 )
 
-func Start() {
-	projRoot := os.Getenv("ROOT_DIR")
-	if projRoot == "" {
-		log.Fatal("ROOT_DIR env var not set")
-	}
-
+func Start(filePaths []string) {
 	// Sort JSONs
-	filePaths := reader.GetLocalYacarFiles(projRoot)
 	sortedJSONsMap, err := sortYacarJSONs(filePaths)
 	if err != nil {
 		log.Fatal(err)
@@ -146,10 +139,6 @@ func sortPoolJSON(file *os.File) interface{} {
 
 	return pools
 }
-
-// func orderYacarJSONs(sortedJSONs []interface{}) ([]interface{}, error) {
-// 	panic("unimplemented")
-// }
 
 func writeYacarJSONs(orderedJSONs sync.Map) {
 	orderedJSONs.Range(func(key, value interface{}) bool {

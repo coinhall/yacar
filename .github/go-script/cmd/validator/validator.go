@@ -9,60 +9,38 @@ import (
 	"sync"
 
 	"github.com/coinhall/yacar/internal/enums"
-	"github.com/coinhall/yacar/internal/reader"
 	"github.com/coinhall/yacar_util"
 )
 
-func Start() {
-	projRoot := os.Getenv("ROOT_DIR")
-	if projRoot == "" {
-		log.Fatal("ROOT_DIR env var not set")
-	}
-
+func Start(filePaths []string) {
 	// Validate JSONs
-	filePaths := reader.GetLocalYacarFiles(projRoot)
-	if err := validateYacarJSONs(filePaths); err != nil {
-		log.Fatal(err)
-	}
-
-	log.Printf("Validated the following files: %s", strings.Join(filePaths, "\n  "))
+	validateYacarJSONs(filePaths)
+	log.Println("Validated JSONs successfully...")
 }
 
-func validateYacarJSONs(filePaths []string) error {
+func validateYacarJSONs(filePaths []string) {
 	var wg sync.WaitGroup
 	for _, filePath := range filePaths {
 		wg.Add(1)
-		go func(filePath string) error {
+		go func(filePath string) {
 			defer wg.Done()
-			if err := validateYacarJSON(filePath); err != nil {
-				return err
+
+			file, err := os.Open(filePath)
+			if err != nil {
+				log.Fatalf("error while opening file: %s", err)
 			}
-			return nil
+			defer file.Close()
+
+			if err := validateYacarJSON(filePath, file); err != nil {
+				log.Fatalf("%s\npath: %s", err, filePath)
+			}
+
 		}(filePath)
 	}
 	wg.Wait()
-
-	return nil
 }
 
-func validateYacarJSON(filePath string) error {
-	// Load file into memory
-	file, err := os.Open(filePath)
-	if err != nil {
-		return fmt.Errorf("error while opening file: %s", err)
-	}
-	defer file.Close()
-
-	// Validate JSON
-	if err := validation_handler(filePath, file); err != nil {
-		return fmt.Errorf("error while validating JSON: %s", err)
-	}
-
-	return nil
-}
-
-// TODO: Use validator pkg or shift the respective logic into yacar_util pkg
-func validation_handler(filePath string, file *os.File) error {
+func validateYacarJSON(filePath string, file *os.File) error {
 	switch {
 	case strings.Contains(filePath, enums.Account.Name()):
 		return validateAccountJSON(file)
@@ -88,18 +66,18 @@ func validateAccountJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding JSON: %s", err)
 	}
 
-	idCount := make(map[string]int)
+	idCount := make(map[string]bool)
 	for _, account := range accounts {
-		if len(account.Entity) <= 1 || len(account.Id) <= 1 {
-			return fmt.Errorf("error while validating account JSON: %v", account)
+		if len(account.Entity) == 0 || len(account.Id) == 0 {
+			return fmt.Errorf("error while validating account JSON: %v", account.Id)
 		}
 
-		idCount[account.Id]++
-		if idCount[account.Id] > 1 {
+		if _, ok := idCount[account.Id]; !ok {
+			idCount[account.Id] = true
+		} else {
 			return fmt.Errorf("duplicate account ID: %s", account.Id)
 		}
 	}
-
 	return nil
 }
 
@@ -110,14 +88,15 @@ func validateAssetJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding JSON: %s", err)
 	}
 
-	idCount := make(map[string]int)
+	idCount := make(map[string]bool)
 	for _, asset := range assets {
 		if !asset.IsMinimallyPopulated() {
-			return fmt.Errorf("error while validating asset JSON: %v", asset)
+			return fmt.Errorf("asset ID %s is not minimally populated", asset.Id)
 		}
 
-		idCount[asset.Id]++
-		if idCount[asset.Id] > 1 {
+		if _, ok := idCount[asset.Id]; !ok {
+			idCount[asset.Id] = true
+		} else {
 			return fmt.Errorf("duplicate asset ID: %s", asset.Id)
 		}
 	}
@@ -132,14 +111,15 @@ func validateBinaryJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding JSON: %s", err)
 	}
 
-	idCount := make(map[string]int)
+	idCount := make(map[string]bool)
 	for _, binary := range binaries {
-		if len(binary.Entity) <= 1 || len(binary.Id) <= 1 {
-			return fmt.Errorf("error while validating binary JSON: %v", binary)
+		if len(binary.Entity) == 0 || len(binary.Id) == 0 {
+			return fmt.Errorf("formatting error detected for binary ID: %s", binary.Id)
 		}
 
-		idCount[binary.Id]++
-		if idCount[binary.Id] > 1 {
+		if _, ok := idCount[binary.Id]; !ok {
+			idCount[binary.Id] = true
+		} else {
 			return fmt.Errorf("duplicate binary ID: %s", binary.Id)
 		}
 	}
@@ -151,18 +131,19 @@ func validateContractJSON(file *os.File) error {
 	var contracts []yacar_util.Contract
 
 	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
-		return fmt.Errorf("error while decoding JSON: %s", err)
+		log.Fatalf("error while decoding JSON: %s", err)
 	}
 
-	idCount := make(map[string]int)
+	idCount := make(map[string]bool)
 	for _, contract := range contracts {
-		if len(contract.Entity) <= 1 || len(contract.Id) <= 1 {
-			return fmt.Errorf("error while validating contract JSON: %v", contract)
+		if len(contract.Entity) == 0 || len(contract.Id) == 0 {
+			log.Fatalf("formatting error detected for contract ID: %s", contract.Id)
 		}
 
-		idCount[contract.Id]++
-		if idCount[contract.Id] > 1 {
-			return fmt.Errorf("duplicate contract ID: %s", contract.Id)
+		if _, ok := idCount[contract.Id]; !ok {
+			idCount[contract.Id] = true
+		} else {
+			log.Fatalf("duplicate contract ID: %s", contract.Id)
 		}
 	}
 
@@ -176,14 +157,15 @@ func validateEntityJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding JSON: %s", err)
 	}
 
-	stringCount := make(map[string]int)
+	entityCount := make(map[string]bool)
 	for _, entity := range entities {
-		if len(entity.Name) <= 1 {
-			return fmt.Errorf("error while validating entity JSON: %v", entity)
+		if len(entity.Name) == 0 {
+			return fmt.Errorf("'%s' is not a valid entity name", entity.Name)
 		}
 
-		stringCount[entity.Name]++
-		if stringCount[entity.Name] > 1 {
+		if _, ok := entityCount[entity.Name]; !ok {
+			entityCount[entity.Name] = true
+		} else {
 			return fmt.Errorf("duplicate entity name: %s", entity.Name)
 		}
 	}
@@ -198,14 +180,15 @@ func validatePoolJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding JSON: %s", err)
 	}
 
-	idCount := make(map[string]int)
+	idCount := make(map[string]bool)
 	for _, pool := range pools {
 		if !pool.IsMinimallyPopulated() {
-			return fmt.Errorf("error while validating pool JSON: %v", pool)
+			return fmt.Errorf("pool ID %s is not minimally populated", pool.Id)
 		}
 
-		idCount[pool.Id]++
-		if idCount[pool.Id] > 1 {
+		if _, ok := idCount[pool.Id]; !ok {
+			idCount[pool.Id] = true
+		} else {
 			return fmt.Errorf("duplicate pool ID: %s", pool.Id)
 		}
 	}
