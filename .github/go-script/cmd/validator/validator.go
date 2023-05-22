@@ -68,8 +68,8 @@ func validateAccountJSON(file *os.File) error {
 
 	idCount := make(map[string]bool)
 	for _, account := range accounts {
-		if len(account.Entity) == 0 || len(account.Id) == 0 {
-			return fmt.Errorf("error while validating account JSON: %v", account.Id)
+		if !account.IsMinimallyPopulated() {
+			return fmt.Errorf("account ID %s is not minimally populated", account.Id)
 		}
 
 		if _, ok := idCount[account.Id]; !ok {
@@ -113,8 +113,8 @@ func validateBinaryJSON(file *os.File) error {
 
 	idCount := make(map[string]bool)
 	for _, binary := range binaries {
-		if len(binary.Entity) == 0 || len(binary.Id) == 0 {
-			return fmt.Errorf("formatting error detected for binary ID: %s", binary.Id)
+		if !binary.IsMinimallyPopulated() {
+			return fmt.Errorf("binary ID %s is not minimally populated", binary.Id)
 		}
 
 		if _, ok := idCount[binary.Id]; !ok {
@@ -131,19 +131,19 @@ func validateContractJSON(file *os.File) error {
 	var contracts []yacar_util.Contract
 
 	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
-		log.Fatalf("error while decoding JSON: %s", err)
+		return fmt.Errorf("error while decoding JSON: %s", err)
 	}
 
 	idCount := make(map[string]bool)
 	for _, contract := range contracts {
-		if len(contract.Entity) == 0 || len(contract.Id) == 0 {
-			log.Fatalf("formatting error detected for contract ID: %s", contract.Id)
+		if !contract.IsMinimallyPopulated() {
+			return fmt.Errorf("contract ID %s is not minimally populated", contract.Id)
 		}
 
 		if _, ok := idCount[contract.Id]; !ok {
 			idCount[contract.Id] = true
 		} else {
-			log.Fatalf("duplicate contract ID: %s", contract.Id)
+			return fmt.Errorf("duplicate contract ID: %s", contract.Id)
 		}
 	}
 
@@ -159,8 +159,8 @@ func validateEntityJSON(file *os.File) error {
 
 	entityCount := make(map[string]bool)
 	for _, entity := range entities {
-		if len(entity.Name) == 0 {
-			return fmt.Errorf("'%s' is not a valid entity name", entity.Name)
+		if !entity.IsMinimallyPopulated() {
+			return fmt.Errorf("entity name %s is not minimally populated", entity.Name)
 		}
 
 		if _, ok := entityCount[entity.Name]; !ok {
