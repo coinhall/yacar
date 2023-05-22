@@ -1,4 +1,4 @@
-package main
+package sorter
 
 import (
 	"encoding/json"
