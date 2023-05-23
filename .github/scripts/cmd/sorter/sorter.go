@@ -9,7 +9,7 @@ import (
 	"sync"
 
 	"github.com/coinhall/yacar/internal/enums"
-	"github.com/coinhall/yacar_util"
+	"github.com/coinhall/yacarsdk"
 )
 
 func Start(filePaths []string) {
@@ -67,73 +67,73 @@ func sortYacarJSON(filePath string, file *os.File) interface{} {
 }
 
 func sortAccountJSON(file *os.File) interface{} {
-	var accounts []yacar_util.Account
+	var accounts []yacarsdk.Account
 
 	if err := json.NewDecoder(file).Decode(&accounts); err != nil {
 		log.Fatalf("error while decoding JSON: %s", err)
 	}
 
-	sort.Stable(yacar_util.ByEnforcedAccountOrder(accounts))
+	sort.Stable(yacarsdk.ByEnforcedAccountOrder(accounts))
 
 	return accounts
 }
 
 func sortAssetJSON(file *os.File) interface{} {
-	var assets []yacar_util.Asset
+	var assets []yacarsdk.Asset
 
 	if err := json.NewDecoder(file).Decode(&assets); err != nil {
 		log.Fatalf("error while decoding JSON: %s", err)
 	}
 
-	sort.Stable(yacar_util.ByEnforcedAssetOrder(assets))
+	sort.Stable(yacarsdk.ByEnforcedAssetOrder(assets))
 
 	return assets
 }
 
 func sortBinaryJSON(file *os.File) interface{} {
-	var binaries []yacar_util.Binary
+	var binaries []yacarsdk.Binary
 
 	if err := json.NewDecoder(file).Decode(&binaries); err != nil {
 		log.Fatalf("error while decoding JSON: %s", err)
 	}
 
-	sort.Stable(yacar_util.ByEnforcedBinaryOrder(binaries))
+	sort.Stable(yacarsdk.ByEnforcedBinaryOrder(binaries))
 
 	return binaries
 }
 
 func sortContractJSON(file *os.File) interface{} {
-	var contracts []yacar_util.Contract
+	var contracts []yacarsdk.Contract
 
 	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
 		log.Fatalf("error while decoding JSON: %s", err)
 	}
 
-	sort.Stable(yacar_util.ByEnforcedContractOrder(contracts))
+	sort.Stable(yacarsdk.ByEnforcedContractOrder(contracts))
 
 	return contracts
 }
 
 func sortEntityJSON(file *os.File) interface{} {
-	var entities []yacar_util.Entity
+	var entities []yacarsdk.Entity
 
 	if err := json.NewDecoder(file).Decode(&entities); err != nil {
 		log.Fatalf("error while decoding JSON: %s", err)
 	}
 
-	sort.Stable(yacar_util.ByEnforcedEntityOrder(entities))
+	sort.Stable(yacarsdk.ByEnforcedEntityOrder(entities))
 
 	return entities
 }
 
 func sortPoolJSON(file *os.File) interface{} {
-	var pools []yacar_util.Pool
+	var pools []yacarsdk.Pool
 
 	if err := json.NewDecoder(file).Decode(&pools); err != nil {
 		log.Fatalf("error while decoding JSON: %s", err)
 	}
 
-	sort.Stable(yacar_util.ByEnforcedPoolOrder(pools))
+	sort.Stable(yacarsdk.ByEnforcedPoolOrder(pools))
 
 	return pools
 }

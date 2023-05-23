@@ -9,7 +9,7 @@ import (
 	"sync"
 
 	"github.com/coinhall/yacar/internal/enums"
-	"github.com/coinhall/yacar_util"
+	"github.com/coinhall/yacarsdk"
 )
 
 func Start(filePaths []string) {
@@ -59,7 +59,7 @@ func validateYacarJSON(filePath string, file *os.File) error {
 }
 
 func validateAccountJSON(file *os.File) error {
-	var accounts []yacar_util.Account
+	var accounts []yacarsdk.Account
 
 	if err := json.NewDecoder(file).Decode(&accounts); err != nil {
 		return fmt.Errorf("error while decoding JSON: %s", err)
@@ -81,7 +81,7 @@ func validateAccountJSON(file *os.File) error {
 }
 
 func validateAssetJSON(file *os.File) error {
-	var assets []yacar_util.Asset
+	var assets []yacarsdk.Asset
 
 	if err := json.NewDecoder(file).Decode(&assets); err != nil {
 		return fmt.Errorf("error while decoding JSON: %s", err)
@@ -104,7 +104,7 @@ func validateAssetJSON(file *os.File) error {
 }
 
 func validateBinaryJSON(file *os.File) error {
-	var binaries []yacar_util.Binary
+	var binaries []yacarsdk.Binary
 
 	if err := json.NewDecoder(file).Decode(&binaries); err != nil {
 		return fmt.Errorf("error while decoding JSON: %s", err)
@@ -127,7 +127,7 @@ func validateBinaryJSON(file *os.File) error {
 }
 
 func validateContractJSON(file *os.File) error {
-	var contracts []yacar_util.Contract
+	var contracts []yacarsdk.Contract
 
 	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
 		return fmt.Errorf("error while decoding JSON: %s", err)
@@ -150,7 +150,7 @@ func validateContractJSON(file *os.File) error {
 }
 
 func validateEntityJSON(file *os.File) error {
-	var entities []yacar_util.Entity
+	var entities []yacarsdk.Entity
 
 	if err := json.NewDecoder(file).Decode(&entities); err != nil {
 		return fmt.Errorf("error while decoding JSON: %s", err)
@@ -173,7 +173,7 @@ func validateEntityJSON(file *os.File) error {
 }
 
 func validatePoolJSON(file *os.File) error {
-	var pools []yacar_util.Pool
+	var pools []yacarsdk.Pool
 
 	if err := json.NewDecoder(file).Decode(&pools); err != nil {
 		return fmt.Errorf("error while decoding JSON: %s", err)
