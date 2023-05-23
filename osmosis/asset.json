@@ -475,6 +475,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.png"
   },
   {
+    "id": "ibc/4D7A6F2A7744B1534C984A21F9EDFFF8809FC71A9E9243FFB702073E7FCA513A",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/cbeth.png"
+  },
+  {
     "id": "ibc/EA3E1640F9B1532AB129A571203A0B9F789A7F14BB66E350DCBFA18E1A1931F0",
     "name": "Comdex",
     "symbol": "CMDX",
@@ -1321,6 +1329,14 @@
     "coingecko": "https://www.coingecko.com/en/coins/regen"
   },
   {
+    "id": "ibc/E610B83FD5544E00A8A1967A2EB3BEF25F1A8CFE8650FE247A8BD4ECA9DC9222",
+    "name": "Rocket Pool Ether",
+    "symbol": "rETH",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/reth.png"
+  },
+  {
     "id": "ibc/D0E5BF2940FB58D9B283A339032DE88111407AAD7D94A7F1F3EB78874F8616D4",
     "name": "SCRT Staking Derivatives",
     "symbol": "stkd-SCRT",
@@ -1447,6 +1463,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/spacer.png"
+  },
+  {
+    "id": "ibc/81F578C39006EB4B27FFFA9460954527910D73390991B379C03B18934D272F46",
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/sfrxeth.svg"
   },
   {
     "id": "ibc/C2DF5C3949CA835B221C575625991F09BAB4E48FB9C11A4EE357194F736111E3",
@@ -1800,6 +1824,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.svg",
     "coingecko": "https://www.coingecko.com/en/coins/wrapped-moonbeam"
+  },
+  {
+    "id": "ibc/B2BD584CD2A0A9CE53D4449667E26160C7D44A9C41AF50F602C201E5B3CCA46C",
+    "name": "Wrapped Lido Staked Ether",
+    "symbol": "wstETH",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg"
   },
   {
     "id": "ibc/AB589511ED0DD5FA56171A39978AFBF1371DB986EC1C3526CE138A16377E39BB",
