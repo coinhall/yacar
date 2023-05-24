@@ -141,7 +141,6 @@ func writeYacarJSON(file *os.File, data interface{}) {
 		log.Fatalf("error while seeking file: %s", err)
 	}
 
-	// var sb strings.Builder
 	enc := json.NewEncoder(file)
 	enc.SetEscapeHTML(false)
 	enc.SetIndent("", "  ")

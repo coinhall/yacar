@@ -64,18 +64,21 @@ func validateAccountJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding account JSON: %s", err)
 	}
 
-	idCount := make(map[string]struct{})
 	for _, account := range accounts {
 		if !account.IsMinimallyPopulated() {
 			return fmt.Errorf("account ID %s is not minimally populated", account.Id)
 		}
+	}
 
-		if _, ok := idCount[account.Id]; !ok {
-			idCount[account.Id] = struct{}{}
-		} else {
+	idCount := make(map[string]struct{})
+	for _, account := range accounts {
+		if _, ok := idCount[account.Id]; ok {
 			return fmt.Errorf("duplicate account ID: %s", account.Id)
 		}
+
+		idCount[account.Id] = struct{}{}
 	}
+
 	return nil
 }
 
@@ -86,17 +89,18 @@ func validateAssetJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding asset JSON: %s", err)
 	}
 
-	idCount := make(map[string]struct{})
 	for _, asset := range assets {
 		if !asset.IsMinimallyPopulated() {
 			return fmt.Errorf("asset ID %s is not minimally populated", asset.Id)
 		}
+	}
 
-		if _, ok := idCount[asset.Id]; !ok {
-			idCount[asset.Id] = struct{}{}
-		} else {
+	idCount := make(map[string]struct{})
+	for _, asset := range assets {
+		if _, ok := idCount[asset.Id]; ok {
 			return fmt.Errorf("duplicate asset ID: %s", asset.Id)
 		}
+		idCount[asset.Id] = struct{}{}
 	}
 
 	return nil
@@ -109,17 +113,19 @@ func validateBinaryJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding binary JSON: %s", err)
 	}
 
-	idCount := make(map[string]struct{})
 	for _, binary := range binaries {
 		if !binary.IsMinimallyPopulated() {
 			return fmt.Errorf("binary ID %s is not minimally populated", binary.Id)
 		}
+	}
 
-		if _, ok := idCount[binary.Id]; !ok {
-			idCount[binary.Id] = struct{}{}
-		} else {
+	idCount := make(map[string]struct{})
+	for _, binary := range binaries {
+		if _, ok := idCount[binary.Id]; ok {
 			return fmt.Errorf("duplicate binary ID: %s", binary.Id)
 		}
+
+		idCount[binary.Id] = struct{}{}
 	}
 
 	return nil
@@ -132,17 +138,19 @@ func validateContractJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding contract JSON: %s", err)
 	}
 
-	idCount := make(map[string]struct{})
 	for _, contract := range contracts {
 		if !contract.IsMinimallyPopulated() {
 			return fmt.Errorf("contract ID %s is not minimally populated", contract.Id)
 		}
+	}
 
-		if _, ok := idCount[contract.Id]; !ok {
-			idCount[contract.Id] = struct{}{}
-		} else {
+	idCount := make(map[string]struct{})
+	for _, contract := range contracts {
+		if _, ok := idCount[contract.Id]; ok {
 			return fmt.Errorf("duplicate contract ID: %s", contract.Id)
 		}
+
+		idCount[contract.Id] = struct{}{}
 	}
 
 	return nil
@@ -155,17 +163,19 @@ func validateEntityJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding entity JSON: %s", err)
 	}
 
-	entityCount := make(map[string]struct{})
 	for _, entity := range entities {
 		if !entity.IsMinimallyPopulated() {
 			return fmt.Errorf("entity name %s is not minimally populated", entity.Name)
 		}
+	}
 
-		if _, ok := entityCount[entity.Name]; !ok {
-			entityCount[entity.Name] = struct{}{}
-		} else {
+	entityCount := make(map[string]struct{})
+	for _, entity := range entities {
+		if _, ok := entityCount[entity.Name]; ok {
 			return fmt.Errorf("duplicate entity name: %s", entity.Name)
 		}
+
+		entityCount[entity.Name] = struct{}{}
 	}
 
 	return nil
@@ -178,17 +188,19 @@ func validatePoolJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding pool JSON: %s", err)
 	}
 
-	idCount := make(map[string]struct{})
 	for _, pool := range pools {
 		if !pool.IsMinimallyPopulated() {
 			return fmt.Errorf("pool ID %s is not minimally populated", pool.Id)
 		}
+	}
 
-		if _, ok := idCount[pool.Id]; !ok {
-			idCount[pool.Id] = struct{}{}
-		} else {
+	idCount := make(map[string]struct{})
+	for _, pool := range pools {
+		if _, ok := idCount[pool.Id]; ok {
 			return fmt.Errorf("duplicate pool ID: %s", pool.Id)
 		}
+
+		idCount[pool.Id] = struct{}{}
 	}
 
 	return nil
