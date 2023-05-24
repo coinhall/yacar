@@ -10,10 +10,9 @@ import (
 )
 
 func GetLocalYacarFiles(projRoot string) []string {
-	chains := enums.GetAllChainNames()
 	files := enums.GetAllFileNames()
 
-	fpMap := make(map[string]bool)
+	fpMap := make(map[string]struct{})
 
 	if err := filepath.Walk(projRoot, func(path string, info os.FileInfo, err error) error {
 		if err != nil {
@@ -25,11 +24,9 @@ func GetLocalYacarFiles(projRoot string) []string {
 			return nil
 		}
 
-		for _, chain := range chains {
-			for _, file := range files {
-				if strings.Contains(path, chain) && strings.HasSuffix(path, file+".json") {
-					fpMap[path] = true
-				}
+		for _, file := range files {
+			if strings.HasSuffix(path, file+".json") {
+				fpMap[path] = struct{}{}
 			}
 		}
 
