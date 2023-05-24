@@ -62,7 +62,7 @@ func validateAccountJSON(file *os.File) error {
 	var accounts []yacarsdk.Account
 
 	if err := json.NewDecoder(file).Decode(&accounts); err != nil {
-		return fmt.Errorf("error while decoding JSON: %s", err)
+		return fmt.Errorf("error while decoding account JSON: %s", err)
 	}
 
 	idCount := make(map[string]struct{})
@@ -84,7 +84,7 @@ func validateAssetJSON(file *os.File) error {
 	var assets []yacarsdk.Asset
 
 	if err := json.NewDecoder(file).Decode(&assets); err != nil {
-		return fmt.Errorf("error while decoding JSON: %s", err)
+		return fmt.Errorf("error while decoding asset JSON: %s", err)
 	}
 
 	idCount := make(map[string]struct{})
@@ -107,7 +107,7 @@ func validateBinaryJSON(file *os.File) error {
 	var binaries []yacarsdk.Binary
 
 	if err := json.NewDecoder(file).Decode(&binaries); err != nil {
-		return fmt.Errorf("error while decoding JSON: %s", err)
+		return fmt.Errorf("error while decoding binary JSON: %s", err)
 	}
 
 	idCount := make(map[string]struct{})
@@ -130,7 +130,7 @@ func validateContractJSON(file *os.File) error {
 	var contracts []yacarsdk.Contract
 
 	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
-		return fmt.Errorf("error while decoding JSON: %s", err)
+		return fmt.Errorf("error while decoding contract JSON: %s", err)
 	}
 
 	idCount := make(map[string]struct{})
@@ -153,7 +153,7 @@ func validateEntityJSON(file *os.File) error {
 	var entities []yacarsdk.Entity
 
 	if err := json.NewDecoder(file).Decode(&entities); err != nil {
-		return fmt.Errorf("error while decoding JSON: %s", err)
+		return fmt.Errorf("error while decoding entity JSON: %s", err)
 	}
 
 	entityCount := make(map[string]struct{})
@@ -176,7 +176,7 @@ func validatePoolJSON(file *os.File) error {
 	var pools []yacarsdk.Pool
 
 	if err := json.NewDecoder(file).Decode(&pools); err != nil {
-		return fmt.Errorf("error while decoding JSON: %s", err)
+		return fmt.Errorf("error while decoding pool JSON: %s", err)
 	}
 
 	idCount := make(map[string]struct{})
