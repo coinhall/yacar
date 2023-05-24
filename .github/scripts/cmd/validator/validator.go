@@ -9,7 +9,7 @@ import (
 	"sync"
 
 	"github.com/coinhall/yacar/internal/enums"
-	"github.com/coinhall/yacarsdk"
+	"github.com/coinhall/yacarsdk/v2"
 )
 
 func Start(filePaths []string) {
