@@ -10,7 +10,7 @@ import (
 )
 
 func GetLocalYacarFiles(projRoot string) []string {
-	files := enums.GetAllFileNames()
+	fileNames := enums.GetAllFileNames()
 
 	fpMap := make(map[string]struct{})
 
@@ -24,8 +24,8 @@ func GetLocalYacarFiles(projRoot string) []string {
 			return nil
 		}
 
-		for _, file := range files {
-			if strings.HasSuffix(path, file+".json") {
+		for _, fileName := range fileNames {
+			if strings.HasSuffix(path, fileName+".json") {
 				fpMap[path] = struct{}{}
 			}
 		}
