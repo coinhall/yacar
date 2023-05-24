@@ -13,52 +13,44 @@ import (
 )
 
 func Start(filePaths []string) {
-	sortedJSONsMap := sortYacarJSONs(filePaths)
-	writeYacarJSONs(sortedJSONsMap)
+	sortYacarJSONs(filePaths)
 	log.Println("Sorted JSONs successfully...")
 }
 
-func sortYacarJSONs(filePaths []string) map[string]interface{} {
+func sortYacarJSONs(filePaths []string) {
 	var wg sync.WaitGroup
-	var mu sync.Mutex
-	sm := make(map[string]interface{}, len(filePaths))
-
 	for _, filePath := range filePaths {
 		wg.Add(1)
 		go func(filePath string) {
 			defer wg.Done()
 
-			file, err := os.Open(filePath)
+			file, err := os.OpenFile(filePath, os.O_RDWR, 0644)
 			if err != nil {
 				log.Fatalf("error while opening file: %s", err)
 			}
 			defer file.Close()
 
-			sorted := sortYacarJSON(filePath, file)
+			sortedJSON := sortYacarJSON(file)
+			writeYacarJSON(file, sortedJSON)
 
-			mu.Lock()
-			sm[filePath] = sorted
-			mu.Unlock()
 		}(filePath)
 	}
 	wg.Wait()
-
-	return sm
 }
 
-func sortYacarJSON(filePath string, file *os.File) interface{} {
+func sortYacarJSON(file *os.File) interface{} {
 	switch {
-	case strings.Contains(filePath, enums.Account.Name()):
+	case strings.Contains(file.Name(), enums.Account.Name()):
 		return sortAccountJSON(file)
-	case strings.Contains(filePath, enums.Asset.Name()):
+	case strings.Contains(file.Name(), enums.Asset.Name()):
 		return sortAssetJSON(file)
-	case strings.Contains(filePath, enums.Binary.Name()):
+	case strings.Contains(file.Name(), enums.Binary.Name()):
 		return sortBinaryJSON(file)
-	case strings.Contains(filePath, enums.Contract.Name()):
+	case strings.Contains(file.Name(), enums.Contract.Name()):
 		return sortContractJSON(file)
-	case strings.Contains(filePath, enums.Entity.Name()):
+	case strings.Contains(file.Name(), enums.Entity.Name()):
 		return sortEntityJSON(file)
-	case strings.Contains(filePath, enums.Pool.Name()):
+	case strings.Contains(file.Name(), enums.Pool.Name()):
 		return sortPoolJSON(file)
 	default:
 		log.Fatal("unable to sort unknown JSON type")
@@ -138,36 +130,22 @@ func sortPoolJSON(file *os.File) interface{} {
 	return pools
 }
 
-func writeYacarJSONs(sortedJSONsMap map[string]interface{}) {
-
-	var wg sync.WaitGroup
-	for fp, data := range sortedJSONsMap {
-		wg.Add(1)
-		go func(fp string, data interface{}) {
-			defer wg.Done()
-
-			file, err := os.OpenFile(fp, os.O_RDWR|os.O_TRUNC, 0644)
-			if err != nil {
-				log.Fatalf("error while opening file: %s", err)
-			}
-			defer file.Close()
-
-			var sb strings.Builder
-			enc := json.NewEncoder(&sb)
-			enc.SetEscapeHTML(false)
-			enc.SetIndent("", "  ")
-			if err := enc.Encode(data); err != nil {
-				log.Fatalf("error while encoding JSON: %s", err)
-			}
-
-			if err := file.Truncate(0); err != nil {
-				log.Fatalf("error while truncating file: %s", err)
-			}
-
-			if _, err := file.WriteString(sb.String()); err != nil {
-				log.Fatalf("error while writing to file: %s", err)
-			}
-		}(fp, data)
+func writeYacarJSON(file *os.File, data interface{}) {
+	// Clear file
+	if err := file.Truncate(0); err != nil {
+		log.Fatalf("error while truncating file: %s", err)
 	}
-	wg.Wait()
+
+	// Move cursor to the beginning of the file
+	if _, err := file.Seek(0, 0); err != nil {
+		log.Fatalf("error while seeking file: %s", err)
+	}
+
+	// var sb strings.Builder
+	enc := json.NewEncoder(file)
+	enc.SetEscapeHTML(false)
+	enc.SetIndent("", "  ")
+	if err := enc.Encode(data); err != nil {
+		log.Fatalf("error while encoding JSON: %s", err)
+	}
 }
