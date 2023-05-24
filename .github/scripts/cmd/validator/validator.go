@@ -30,7 +30,7 @@ func validateYacarJSONs(filePaths []string) {
 			}
 			defer file.Close()
 
-			if err := validateYacarJSON(filePath, file); err != nil {
+			if err := validateYacarJSON(file); err != nil {
 				log.Fatalf("%s\npath: %s", err, filePath)
 			}
 
@@ -39,23 +39,22 @@ func validateYacarJSONs(filePaths []string) {
 	wg.Wait()
 }
 
-func validateYacarJSON(filePath string, file *os.File) error {
+func validateYacarJSON(file *os.File) error {
 	switch {
-	case strings.Contains(filePath, enums.Account.Name()):
+	case strings.Contains(file.Name(), enums.Account.Name()):
 		return validateAccountJSON(file)
-	case strings.Contains(filePath, enums.Asset.Name()):
+	case strings.Contains(file.Name(), enums.Asset.Name()):
 		return validateAssetJSON(file)
-	case strings.Contains(filePath, enums.Binary.Name()):
+	case strings.Contains(file.Name(), enums.Binary.Name()):
 		return validateBinaryJSON(file)
-	case strings.Contains(filePath, enums.Contract.Name()):
+	case strings.Contains(file.Name(), enums.Contract.Name()):
 		return validateContractJSON(file)
-	case strings.Contains(filePath, enums.Entity.Name()):
+	case strings.Contains(file.Name(), enums.Entity.Name()):
 		return validateEntityJSON(file)
-	case strings.Contains(filePath, enums.Pool.Name()):
+	case strings.Contains(file.Name(), enums.Pool.Name()):
 		return validatePoolJSON(file)
-	default:
-		return fmt.Errorf("unknown file path: %s", filePath)
 	}
+	return nil
 }
 
 func validateAccountJSON(file *os.File) error {
