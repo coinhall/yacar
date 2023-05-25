@@ -19,88 +19,22 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}
 
-      - name: Install Node.js 18
-        uses: actions/setup-node@v3
+      - name: Setup Go
+        uses: actions/setup-go@v4
         with:
-          node-version: 18
+          go-version-file: ${{ github.workspace }}/.github/scripts/go.mod
+          cache-dependency-path: ${{ github.workspace }}/.github/scripts/go.sum
+          check-latest: true
+          cache: true
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 7.17.1
-          run_install: false
-
-      - name: Get pnpm store directory
-        id: pnpm-cache
-        shell: bash
+      - name: Validate data and format JSON
+        id: validate
         run: |
-          echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
-
-      - name: Setup pnpm cache
-        uses: actions/cache@v3
-        with:
-          path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
-
-      - name: Install prod dependencies
-        run: pnpm install --prod
-
-      - name: Validate chain data
-        run: |
-          ROOT_DIR=${{ github.workspace }} pnpm validate
-
-  format:
-    needs: [validate]
-    if: |
-      github.repository == github.event.pull_request.head.repo.full_name || 
-      github.repository != 'coinhall/yacar'
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ".github/scripts"
-    steps:
-      - name: Checkout repository and branch
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.ref }}
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-
-      - name: Install Node.js 18
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
-      - name: Install pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 7.17.1
-          run_install: false
-
-      - name: Get pnpm store directory
-        id: pnpm-cache
-        shell: bash
-        run: |
-          echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
-
-      - name: Setup pnpm cache
-        uses: actions/cache@v3
-        with:
-          path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
-
-      - name: Install prod dependencies
-        run: pnpm install --prod
-
-      - name: Format all json
-        run: |
-          ROOT_DIR=${{ github.workspace }} pnpm format
+          ROOT_DIR=${{ github.workspace }} go run cmd/yacar_ci.go
+          echo "status=$?" >> $GITHUB_OUTPUT
 
       - name: Check for changes
+        if: steps.validate.outputs.status == '0'
         id: diff
         run: |
           cd ${{ github.workspace }}
@@ -118,7 +52,7 @@ jobs:
 
   automerge:
     runs-on: ubuntu-latest
-    needs: [validate, format]
+    needs: [validate]
     if: |
       github.event_name == 'pull_request' && 
       github.repository == 'coinhall/yacar'
