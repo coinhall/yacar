@@ -32,7 +32,7 @@ func GetLocalYacarFiles(projRoot string) []string {
 
 		return nil
 	}); err != nil {
-		log.Fatalf("error while walking root dir: %s", err)
+		log.Panicf("error while walking root dir: %s", err)
 	}
 
 	filePaths := make([]string, 0, len(fpMap))

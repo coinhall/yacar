@@ -26,7 +26,7 @@ func sortYacarJSONs(filePaths []string) {
 
 			file, err := os.OpenFile(filePath, os.O_RDWR, 0644)
 			if err != nil {
-				log.Fatalf("error while opening file: %s", err)
+				log.Panicf("error while opening file: %s", err)
 			}
 			defer file.Close()
 
@@ -53,7 +53,7 @@ func sortYacarJSON(file *os.File) interface{} {
 	case strings.Contains(file.Name(), enums.Pool.Name()):
 		return sortPoolJSON(file)
 	default:
-		log.Fatal("unable to sort unknown JSON type")
+		log.Panic("unable to sort unknown JSON type")
 		return nil
 	}
 }
@@ -62,7 +62,7 @@ func sortAccountJSON(file *os.File) interface{} {
 	var accounts []yacarsdk.Account
 
 	if err := json.NewDecoder(file).Decode(&accounts); err != nil {
-		log.Fatalf("error while decoding JSON: %s", err)
+		log.Panicf("error while decoding JSON: %s", err)
 	}
 
 	sort.Stable(yacarsdk.ByEnforcedAccountOrder(accounts))
@@ -74,7 +74,7 @@ func sortAssetJSON(file *os.File) interface{} {
 	var assets []yacarsdk.Asset
 
 	if err := json.NewDecoder(file).Decode(&assets); err != nil {
-		log.Fatalf("error while decoding JSON: %s", err)
+		log.Panicf("error while decoding JSON: %s", err)
 	}
 
 	sort.Stable(yacarsdk.ByEnforcedAssetOrder(assets))
@@ -86,7 +86,7 @@ func sortBinaryJSON(file *os.File) interface{} {
 	var binaries []yacarsdk.Binary
 
 	if err := json.NewDecoder(file).Decode(&binaries); err != nil {
-		log.Fatalf("error while decoding JSON: %s", err)
+		log.Panicf("error while decoding JSON: %s", err)
 	}
 
 	sort.Stable(yacarsdk.ByEnforcedBinaryOrder(binaries))
@@ -98,7 +98,7 @@ func sortContractJSON(file *os.File) interface{} {
 	var contracts []yacarsdk.Contract
 
 	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
-		log.Fatalf("error while decoding JSON: %s", err)
+		log.Panicf("error while decoding JSON: %s", err)
 	}
 
 	sort.Stable(yacarsdk.ByEnforcedContractOrder(contracts))
@@ -110,7 +110,7 @@ func sortEntityJSON(file *os.File) interface{} {
 	var entities []yacarsdk.Entity
 
 	if err := json.NewDecoder(file).Decode(&entities); err != nil {
-		log.Fatalf("error while decoding JSON: %s", err)
+		log.Panicf("error while decoding JSON: %s", err)
 	}
 
 	sort.Stable(yacarsdk.ByEnforcedEntityOrder(entities))
@@ -122,7 +122,7 @@ func sortPoolJSON(file *os.File) interface{} {
 	var pools []yacarsdk.Pool
 
 	if err := json.NewDecoder(file).Decode(&pools); err != nil {
-		log.Fatalf("error while decoding JSON: %s", err)
+		log.Panicf("error while decoding JSON: %s", err)
 	}
 
 	sort.Stable(yacarsdk.ByEnforcedPoolOrder(pools))
@@ -133,18 +133,18 @@ func sortPoolJSON(file *os.File) interface{} {
 func writeYacarJSON(file *os.File, data interface{}) {
 	// Clear file
 	if err := file.Truncate(0); err != nil {
-		log.Fatalf("error while truncating file: %s", err)
+		log.Panicf("error while truncating file: %s", err)
 	}
 
 	// Move cursor to the beginning of the file
 	if _, err := file.Seek(0, 0); err != nil {
-		log.Fatalf("error while seeking file: %s", err)
+		log.Panicf("error while seeking file: %s", err)
 	}
 
 	enc := json.NewEncoder(file)
 	enc.SetEscapeHTML(false)
 	enc.SetIndent("", "  ")
 	if err := enc.Encode(data); err != nil {
-		log.Fatalf("error while encoding JSON: %s", err)
+		log.Panicf("error while encoding JSON: %s", err)
 	}
 }

@@ -12,7 +12,7 @@ import (
 func main() {
 	projRoot := os.Getenv("ROOT_DIR")
 	if projRoot == "" {
-		log.Fatalln("ROOT_DIR env var not set")
+		log.Panicln("ROOT_DIR env var not set")
 	}
 
 	yacarFilePaths := reader.GetLocalYacarFiles(projRoot)
