@@ -34,7 +34,7 @@ jobs:
           echo "status=$?" >> $GITHUB_OUTPUT
 
       - name: Check for changes
-        if: steps.validate.outputs.status != '0'
+        if: steps.validate.outputs.status == '0'
         id: diff
         run: |
           cd ${{ github.workspace }}
