@@ -28,10 +28,13 @@ jobs:
           cache: true
 
       - name: Validate data and format JSON
+        id: validate
         run: |
           ROOT_DIR=${{ github.workspace }} go run cmd/yacar_ci.go
+          echo "status=$?" >> $GITHUB_OUTPUT
 
       - name: Check for changes
+        if: steps.validate.outputs.status != '0'
         id: diff
         run: |
           cd ${{ github.workspace }}
