@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-func GetLocalYacarFiles(projRoot string) []string {
+func GetLocalYacarFilePaths(projRoot string) []string {
 	fileNames := []string{
 		"account",
 		"asset",

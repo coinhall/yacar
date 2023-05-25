@@ -15,7 +15,7 @@ func main() {
 		log.Panicln("ROOT_DIR env var not set")
 	}
 
-	yacarFilePaths := walker.GetLocalYacarFiles(projRoot)
+	yacarFilePaths := walker.GetLocalYacarFilePaths(projRoot)
 
 	validator.Start(yacarFilePaths)
 	sorter.Start(yacarFilePaths)
