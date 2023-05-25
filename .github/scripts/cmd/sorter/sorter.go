@@ -8,7 +8,6 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/coinhall/yacar/internal/enums"
 	"github.com/coinhall/yacarsdk/v2"
 )
 
@@ -40,17 +39,17 @@ func sortYacarJSONs(filePaths []string) {
 
 func sortYacarJSON(file *os.File) interface{} {
 	switch {
-	case strings.Contains(file.Name(), enums.Account.Name()):
+	case strings.Contains(file.Name(), "account"):
 		return sortAccountJSON(file)
-	case strings.Contains(file.Name(), enums.Asset.Name()):
+	case strings.Contains(file.Name(), "asset"):
 		return sortAssetJSON(file)
-	case strings.Contains(file.Name(), enums.Binary.Name()):
+	case strings.Contains(file.Name(), "binary"):
 		return sortBinaryJSON(file)
-	case strings.Contains(file.Name(), enums.Contract.Name()):
+	case strings.Contains(file.Name(), "contract"):
 		return sortContractJSON(file)
-	case strings.Contains(file.Name(), enums.Entity.Name()):
+	case strings.Contains(file.Name(), "entity"):
 		return sortEntityJSON(file)
-	case strings.Contains(file.Name(), enums.Pool.Name()):
+	case strings.Contains(file.Name(), "pool"):
 		return sortPoolJSON(file)
 	default:
 		log.Panic("unable to sort unknown JSON type")

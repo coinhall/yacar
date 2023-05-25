@@ -8,7 +8,6 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/coinhall/yacar/internal/enums"
 	"github.com/coinhall/yacarsdk/v2"
 )
 
@@ -41,17 +40,17 @@ func validateYacarJSONs(filePaths []string) {
 
 func validateYacarJSON(file *os.File) error {
 	switch {
-	case strings.Contains(file.Name(), enums.Account.Name()):
+	case strings.Contains(file.Name(), "account"):
 		return validateAccountJSON(file)
-	case strings.Contains(file.Name(), enums.Asset.Name()):
+	case strings.Contains(file.Name(), "asset"):
 		return validateAssetJSON(file)
-	case strings.Contains(file.Name(), enums.Binary.Name()):
+	case strings.Contains(file.Name(), "binary"):
 		return validateBinaryJSON(file)
-	case strings.Contains(file.Name(), enums.Contract.Name()):
+	case strings.Contains(file.Name(), "contract"):
 		return validateContractJSON(file)
-	case strings.Contains(file.Name(), enums.Entity.Name()):
+	case strings.Contains(file.Name(), "entity"):
 		return validateEntityJSON(file)
-	case strings.Contains(file.Name(), enums.Pool.Name()):
+	case strings.Contains(file.Name(), "pool"):
 		return validatePoolJSON(file)
 	}
 	return nil

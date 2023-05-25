@@ -1,16 +1,21 @@
-package reader
+package walker
 
 import (
 	"log"
 	"os"
 	"path/filepath"
 	"strings"
-
-	"github.com/coinhall/yacar/internal/enums"
 )
 
 func GetLocalYacarFiles(projRoot string) []string {
-	fileNames := enums.GetAllFileNames()
+	fileNames := []string{
+		"account",
+		"asset",
+		"binary",
+		"contract",
+		"entity",
+		"pool",
+	}
 
 	fpMap := make(map[string]struct{})
 
