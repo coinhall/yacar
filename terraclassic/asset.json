@@ -3780,6 +3780,14 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+    "name": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/USDC.svg"
+  },
+  {
     "id": "ibc/FA0006F056DB6719B8C16C551FC392B62F5729978FC0B125AC9A432DBB2AA1A5",
     "name": "ibc/FA0006F056DB6719B8C16C551FC392B62F5729978FC0B125AC9A432DBB2AA1A5",
     "symbol": "ATOM",
@@ -8050,6 +8058,13 @@
   },
   {
     "id": "terra16dgudczq9palt2vltg20p0l4hssyqwe9t9tkhv",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra16dzappmv4thvra8ng9rv5r29utj56524jf6l2l",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
     "decimals": "6",
