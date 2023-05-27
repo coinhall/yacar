@@ -22,7 +22,7 @@ Contains **notable user addresses** including native multisig and CW3 multisig a
 type Account = { terra1n3heyk9vleutjh74rr0vwcurlgkqj8zlxvp4wrke0l60qyaqt8tqy9uk56
   id: string; terra18h3lrcmcavaggmj6ylyqd9030xae746lk582z90u3xtk5l3303mspg6ffk
   entity: string; Borat DAO
-  label: string; Borat
+  label: string; BORAT
 };
 ```
 
@@ -32,12 +32,12 @@ Contains **notable cosmwasm smart contracts** excluding CW3 multisig accounts. T
 
 ```ts
 type Contract = {
-  // The address of the smart contract
+ terra1n3heyk9vleutjh74rr0vwcurlgkqj8zlxvp4wrke0l60qyaqt8tqy9uk56
   id: string;
-  // The entity which created or controls `id`
+  terra18h3lrcmcavaggmj6ylyqd9030xae746lk582z90u3xtk5l3303mspg6ffk
   entity: string;
-  // A short descriptive label of `id`
-  label: string;
+  Borat DAO
+  label: string; BORAT
 };
 ```
 
