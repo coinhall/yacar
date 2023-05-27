@@ -19,10 +19,13 @@
 Contains **notable user addresses** including native multisig and CW3 multisig accounts. This file is updated manually.
 
 ```ts
-type Account = { terra1n3heyk9vleutjh74rr0vwcurlgkqj8zlxvp4wrke0l60qyaqt8tqy9uk56
-  id: string; terra18h3lrcmcavaggmj6ylyqd9030xae746lk582z90u3xtk5l3303mspg6ffk
-  entity: string; Borat DAO
-  label: string; BORAT
+type Account = {
+  // The address of the wallet or smart contract
+  id: string;
+  // The entity which created or controls `id`
+  entity: string;
+  // A short descriptive label of `id`
+  label: string;
 };
 ```
 
@@ -32,12 +35,12 @@ Contains **notable cosmwasm smart contracts** excluding CW3 multisig accounts. T
 
 ```ts
 type Contract = {
- terra1n3heyk9vleutjh74rr0vwcurlgkqj8zlxvp4wrke0l60qyaqt8tqy9uk56
+  // The address of the smart contract
   id: string;
-  terra18h3lrcmcavaggmj6ylyqd9030xae746lk582z90u3xtk5l3303mspg6ffk
+  // The entity which created or controls `id`
   entity: string;
-  Borat DAO
-  label: string; BORAT
+  // A short descriptive label of `id`
+  label: string;
 };
 ```
 
