@@ -64,27 +64,18 @@ type Binary = {
 Contains all verified and unverified **native / IBC / CW20 / CW721 assets**. This file will update automatically if all required fields of an asset can be inferred. The optional fields must be updated manually.
 
 ```ts
-type Asset = {
-  // The contract address of the cw20 tokens
-  // or denom of the ibc/native coins
-  id: string;
-  // The entity which created or controls `id`
-  // A nullish value means that the asset is "unverified"
-  entity?: string | undefined;
-  // The canonical name of the asset (eg. "Axelar Wrapped Bitcoin")
-  name: string;
-  // The ticker of the asset (eg. "axlWBTC")
-  symbol: string;
-  // The number of decimals of the asset
-  decimals: string;
-  // The type of this asset: "native" | "ibc" | "cw20" | "cw721" | "tokenfactory"
-  type: string;
-  // Following optional fields are all URL links
-  circ_supply_api?: string | undefined;
-  icon?: string | undefined;
-  coinmarketcap?: string | undefined;
-  coingecko?: string | undefined;
-};
+},
+  {
+    "id": "terra1n3heyk9vleutjh74rr0vwcurlgkqj8zlxvp4wrke0l60qyaqt8tqy9uk56",
+    "entity": "Borat DAO",
+    "name": "Rorat DAO",
+    "symbol": "BRT",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://i.imgur.com/ZceCb9l.png"
+  },
+  {
+    "id": "terra1y2dwydnnnctdwwmvs23ct60fj626t66qk53cae2gc55k3ce92jmqldj0sf",
 ```
 
 ### `entity.json`
