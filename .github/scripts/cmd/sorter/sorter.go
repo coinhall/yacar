@@ -11,6 +11,20 @@ import (
 	"github.com/coinhall/yacarsdk/v2"
 )
 
+type CustomAsset struct {
+	Id             string `json:"id"`
+	Entity         string `json:"entity,omitempty"`
+	Name           string `json:"name"`
+	Symbol         string `json:"symbol"`
+	Decimals       string `json:"decimals"`
+	Type           string `json:"type"`
+	CircSupplyAPI  string `json:"-"`
+	TotalSupplyAPI string `json:"-"`
+	Icon           string `json:"icon,omitempty"`
+	CoinMarketCap  string `json:"coinmarketcap,omitempty"`
+	CoinGecko      string `json:"coingecko,omitempty"`
+}
+
 func Start(filePaths []string) {
 	sortYacarJSONs(filePaths)
 	log.Println("Sorted JSONs successfully...")
@@ -71,9 +85,26 @@ func sortAccountJSON(file *os.File) interface{} {
 
 func sortAssetJSON(file *os.File) interface{} {
 	var assets []yacarsdk.Asset
+	var customAssets []CustomAsset
 
-	if err := json.NewDecoder(file).Decode(&assets); err != nil {
+	if err := json.NewDecoder(file).Decode(&customAssets); err != nil {
 		log.Panicf("error while decoding JSON: %s", err)
+	}
+
+	for _, customAsset := range customAssets {
+		assets = append(assets, yacarsdk.Asset{
+			Id:             customAsset.Id,
+			Entity:         customAsset.Entity,
+			Name:           customAsset.Name,
+			Symbol:         customAsset.Symbol,
+			Decimals:       customAsset.Decimals,
+			Type:           customAsset.Type,
+			CircSupplyAPI:  "",
+			TotalSupplyAPI: "",
+			Icon:           customAsset.Icon,
+			CoinMarketCap:  customAsset.CoinMarketCap,
+			CoinGecko:      customAsset.CoinGecko,
+		})
 	}
 
 	sort.Stable(yacarsdk.ByEnforcedAssetOrder(assets))

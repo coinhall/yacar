@@ -87,7 +87,6 @@
     "symbol": "ASTRO",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://markets-api.astroport.fi/protocol/circulating-supply",
     "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
   {
@@ -1058,7 +1057,6 @@
     "symbol": "ampLUNA",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
   },
   {
@@ -1264,7 +1262,6 @@
     "symbol": "RED",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://api-v2.redacted.money/circulating_supply",
     "icon": "https://red.redacted.money/red.svg"
   },
   {
@@ -1292,7 +1289,6 @@
     "symbol": "SAYVE",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/data/circulating-supply",
     "icon": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
   },
   {
@@ -1339,7 +1335,6 @@
     "symbol": "LunaX",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stader-lunax/",
     "coingecko": "https://www.coingecko.com/en/coins/stader-lunax"
@@ -1360,7 +1355,6 @@
     "symbol": "LUNA",
     "decimals": "6",
     "type": "native",
-    "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
     "icon": "https://assets.terra.money/icon/svg/Luna.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
     "coingecko": "https://www.coingecko.com/en/coins/terra"
@@ -1372,7 +1366,6 @@
     "symbol": "TPT",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://index.terrapoker.games/circulating-supply",
     "icon": "https://terra.poker/ico/ms-icon-310x310.png"
   },
   {
@@ -1825,7 +1818,6 @@
     "symbol": "VKR",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://terra-api.valkyrieprotocol.com/partner/coinhall/circulating-supply",
     "icon": "https://app.valkyrieprotocol.com/icon_vkr.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/valkyrie-protocol/",
     "coingecko": "https://www.coingecko.com/en/coins/valkyrie-protocol"
@@ -2994,7 +2986,6 @@
     "symbol": "TRUMP",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://raw.githubusercontent.com/trumpdao/public/main/supply",
     "icon": "https://raw.githubusercontent.com/trumpdao/public/main/data/trump_logo.png"
   },
   {
