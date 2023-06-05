@@ -1109,6 +1109,15 @@
     "icon": "https://assets.terra.money/icon/svg/ibc/USK.svg"
   },
   {
+    "id": "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584",
+    "entity": "Lion Cub DAO",
+    "name": "Blue CUB DAO",
+    "symbol": "BLUE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/lioncubdao/logo/main/blue.png"
+  },
+  {
     "id": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t",
     "entity": "Lion Cub DAO",
     "name": "Lion Cub DAO",
@@ -1996,15 +2005,6 @@
     "symbol": "BAZ",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584",
-    "entity": "Lion Cub DAO",
-    "name": "Blue CUB DAO",
-    "symbol": "BLUE",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/lioncubdao/logo/main/blue.png"
   },
   {
     "id": "terra1vpcj4fj0yxy4m928lxf8us7tk8kdqr3ny6q2gtx7g0s935awdreqppm7au",
@@ -3030,6 +3030,13 @@
     "id": "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F",
     "name": "ucmst",
     "symbol": "CMST",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/7A6428206CBDE7B47F78A7A8CF4587CDCFD2B3BF06DD0352CEF678E88F1A501D",
+    "name": "ucrbrus",
+    "symbol": "ibc/7A6428206CBDE7B47F78A7A8CF4587CDCFD2B3BF06DD0352CEF678E88F1A501D",
     "decimals": "6",
     "type": "ibc"
   },
