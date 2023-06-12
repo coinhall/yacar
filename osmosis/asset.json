@@ -891,14 +891,17 @@
   },
   {
     "id": "ibc/2DA9C149E9AD2BD27FEFA635458FB37093C256C1A940392634A16BEA45262604",
+    "entity": "Agoric",
     "name": "Agoric",
     "symbol": "BLD",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png",
+    "coingecko": "https://www.coingecko.com/en/coins/agoric"
   },
   {
     "id": "ubld",
+    "entity": "Agoric",
     "name": "Agoric Staking Token",
     "symbol": "BLD",
     "decimals": "6",
@@ -965,6 +968,7 @@
   },
   {
     "id": "ibc/6C0CB8653012DC2BC1820FD0B6B3AFF8A07D18630BDAEE066FEFB2D92F477C24",
+    "entity": "Axelar",
     "name": "Axie Infinity Shard",
     "symbol": "AXS.axl",
     "decimals": "18",
@@ -992,6 +996,7 @@
   },
   {
     "id": "ibc/6329DD8CF31A334DD5BE3F68C846C9FE313281362B37686A62343BAC1EB1546D",
+    "entity": "Axelar",
     "name": "Binance USD",
     "symbol": "BUSD.axl",
     "decimals": "18",
@@ -1059,6 +1064,7 @@
   },
   {
     "id": "ibc/B901BEC1B71D0573E6EE874FEC39E2DF4C2BDB1DB74CB3DA0A9CACC4A435B0EC",
+    "entity": "Axelar",
     "name": "Chain",
     "symbol": "XCN.axl",
     "decimals": "18",
@@ -1068,6 +1074,7 @@
   },
   {
     "id": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
+    "entity": "Axelar",
     "name": "Chainlink",
     "symbol": "LINK.axl",
     "decimals": "18",
@@ -1102,6 +1109,7 @@
   {
     "id": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
     "name": "Dai Stablecoin",
+    "entity": "Axelar",
     "symbol": "DAI.axl",
     "decimals": "18",
     "type": "ibc",
@@ -1111,6 +1119,7 @@
   {
     "id": "ibc/F292A17CF920E3462C816CBE6B042E779F676CAB59096904C4C1C966413E3DF5",
     "name": "Dai Stablecoin",
+    "entity": "Gravity Bridge",
     "symbol": "DAI.grv",
     "decimals": "18",
     "type": "ibc",
@@ -1154,6 +1163,7 @@
     "id": "ibc/3FF92D26B407FD61AE95D975712A7C319CDE28DE4D80BDC9978D935932B991D7",
     "name": "DOT",
     "symbol": "DOT.axl",
+    "entity": "Axelar",
     "decimals": "10",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axldot.svg",
@@ -1186,6 +1196,7 @@
   {
     "id": "ibc/0E43EDE2E2A3AFA36D0CD38BDDC0B49FECA64FA426A82E102F304E430ECF46EE",
     "name": "Frax",
+    "entity": "Axelar",
     "symbol": "FRAX.axl",
     "decimals": "18",
     "type": "ibc",
@@ -1379,6 +1390,7 @@
   {
     "id": "ibc/D27DDDF34BB47E5D5A570742CC667DE53277867116CCCA341F27785E899A70F3",
     "name": "Maker",
+    "entity": "Axelar",
     "symbol": "MKR.axl",
     "decimals": "18",
     "type": "ibc",
@@ -1581,6 +1593,7 @@
   {
     "id": "ibc/BD796662F8825327D41C96355DF62045A5BA225BAE31C0A86289B9D88ED3F44E",
     "name": "Rai Reflex Index",
+    "entity": "Axelar",
     "symbol": "RAI.axl",
     "decimals": "18",
     "type": "ibc",
@@ -1624,6 +1637,7 @@
   {
     "id": "ibc/19305E20681911F14D1FB275E538CDE524C3BF88CF9AE5D5F78F4D4DA05E85B2",
     "name": "Shiba Inu",
+    "entity": "Axelar",
     "symbol": "SHIB.axl",
     "decimals": "18",
     "type": "ibc",
@@ -1762,6 +1776,7 @@
   {
     "id": "ibc/71B441E27F1BBB44DD0891BCD370C2794D404D60A4FFE5AECCD9B1E28BC89805",
     "name": "Tether USD",
+    "entity": "Gravity Bridge",
     "symbol": "USDT.grv",
     "decimals": "6",
     "type": "ibc",
@@ -1771,6 +1786,7 @@
   {
     "id": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
     "name": "Tether USD",
+    "entity": "Axelar",
     "symbol": "USDT.axl",
     "decimals": "6",
     "type": "ibc",
@@ -1788,6 +1804,7 @@
   {
     "id": "ibc/AE2719773D6FCDD05AC17B1ED63F672F5F9D84144A61965F348C86C2A83AD161",
     "name": "Uniswap",
+    "entity": "Axelar",
     "symbol": "UNI.axl",
     "decimals": "18",
     "type": "ibc",
@@ -1796,6 +1813,7 @@
   },
   {
     "id": "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E",
+    "entity": "Gravity Bridge",
     "name": "USD Coin",
     "symbol": "USDC.grv",
     "decimals": "6",
@@ -1806,6 +1824,7 @@
   {
     "id": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
     "name": "USD Coin",
+    "entity": "Axelar",
     "symbol": "USDC.axl",
     "decimals": "6",
     "type": "ibc",
@@ -1863,6 +1882,7 @@
   {
     "id": "ibc/C9B0D48FD2C5B91135F118FF2484551888966590D7BDC20F6A87308DBA670796",
     "name": "Wrapped Bitcoin",
+    "entity": "Gravity Bridge",
     "symbol": "WBTC.grv",
     "decimals": "8",
     "type": "ibc",
@@ -1872,6 +1892,7 @@
   {
     "id": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
     "name": "Wrapped Bitcoin",
+    "entity": "Axelar",
     "symbol": "WBTC.axl",
     "decimals": "8",
     "type": "ibc",
@@ -1881,6 +1902,7 @@
   {
     "id": "ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D",
     "name": "Wrapped BNB",
+    "entity": "Axelar",
     "symbol": "WBNB.axl",
     "decimals": "6",
     "type": "ibc",
@@ -1890,6 +1912,7 @@
   {
     "id": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
     "name": "Wrapped Ether",
+    "entity": "Axelar",
     "symbol": "WETH.axl",
     "decimals": "18",
     "type": "ibc",
@@ -1899,6 +1922,7 @@
   {
     "id": "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5",
     "name": "Wrapped Ethereum",
+    "entity": "Gravity Bridge",
     "symbol": "WETH.grv",
     "decimals": "18",
     "type": "ibc",
@@ -1924,6 +1948,7 @@
   {
     "id": "ibc/1E26DB0E5122AED464D98462BD384FCCB595732A66B3970AE6CE0B58BAE0FC49",
     "name": "Wrapped GLMR",
+    "entity": "Axelar",
     "symbol": "WGLMR.axl",
     "decimals": "18",
     "type": "ibc",
@@ -1941,6 +1966,7 @@
   {
     "id": "ibc/AB589511ED0DD5FA56171A39978AFBF1371DB986EC1C3526CE138A16377E39BB",
     "name": "Wrapped Matic",
+    "entity": "Axelar",
     "symbol": "WMATIC.axl",
     "decimals": "18",
     "type": "ibc",
@@ -1949,6 +1975,7 @@
   },
   {
     "id": "ibc/2FBAC4BF296D7844796844B35978E5899984BA5A6314B2DD8F83C215550010B3",
+    "entity": "Wynd",
     "name": "Wynd DAO Governance Token",
     "symbol": "WYND",
     "decimals": "6",
