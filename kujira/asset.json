@@ -1,11 +1,81 @@
 [
   {
+    "id": "ibc/7023F9629A70F8112764D959D04F52EA3115A0AED3CEE59694799FD8C91A97FA",
+    "entity": "Akash Network",
+    "name": "Akash Network",
+    "symbol": "AKT",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/akash-network"
+  },
+  {
+    "id": "ibc/FD021051CD0A21590CAC7907B22749B19CC8CCB6A22DE48C21FE7D9EF1EE80B7",
+    "entity": "Arable Protocol",
+    "name": "Arable Protocol",
+    "symbol": "ACRE",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/acre.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/arable-protocol"
+  },
+  {
+    "id": "ibc/193C32A9BB54632C383CF2D2BA1A47F73624446D8554762F934B7A61EF26B191",
+    "entity": "AssetMantle",
+    "name": "AssetMantle",
+    "symbol": "MNTL",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/assetmantle/images/mntl.png",
+    "coingecko": "https://www.coingecko.com/en/coins/assetmantle"
+  },
+  {
     "id": "ibc/640E1C3E28FD45F611971DF891AE3DC90C825DF759DF8FAA8F33F7F72B35AD56",
     "entity": "Astroport",
     "name": "Astroport",
     "symbol": "ASTRO",
     "decimals": "6",
     "type": "ibc"
+  },
+  {
+    "id": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
+    "entity": "Axelar",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/axelar-network"
+  },
+  {
+    "id": "ibc/FFA3D0E9C3CDE729559FB71A09E9E6CFA5A85AFABAC9F3CB5DD3942BFF935F9C",
+    "entity": "Carbon Network",
+    "name": "Carbon Protocol",
+    "symbol": "SWTH",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/switcheo"
+  },
+  {
+    "id": "ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB",
+    "entity": "Chainlink",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/chainlink"
+  },
+  {
+    "id": "ibc/3607EB5B5E64DD1C0E12E07F077FF470D5BC4706AFCBC98FE1BA960E5AE4CE07",
+    "entity": "Comdex",
+    "name": "Comdex",
+    "symbol": "CMDX",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.png",
+    "coingecko": "https://www.coingecko.com/en/coins/comdex"
   },
   {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -18,12 +88,42 @@
     "coingecko": "https://www.coingecko.com/en/coins/cosmos"
   },
   {
+    "id": "ibc/E41F596AC5F1BF0298758CC40CBF1DB2DA0615F10BF28E4D9E82B9EEE7A0DBF2",
+    "entity": "Crescent Network",
+    "name": "Crescent Network",
+    "symbol": "CRE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/crescent-network/asset/main/images/coin/CRE.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
+  },
+  {
+    "id": "ibc/BBC45F1B65B6D3C11C3C56A9428D38C3A8D03944473791C52DFB7CD3F8342CBC",
+    "entity": "Crypto.com",
+    "name": "Cronos",
+    "symbol": "CRO",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png",
+    "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain"
+  },
+  {
     "id": "ibc/F33B313325B1C99B646B1B786F1EA621E3794D787B90C204C30FE1D4D45970AE",
     "entity": "Eris Protocol",
     "name": "Eris Amplified LUNA",
     "symbol": "ampLUNA",
     "decimals": "6",
     "type": "ibc"
+  },
+  {
+    "id": "ibc/F3AA7EF362EC5E791FE78A0F4CCC69FEE1F9A7485EB1A8CAB3F6601C00522F10",
+    "entity": "Evmos",
+    "name": "Evmos",
+    "symbol": "EVMOS",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/evmos"
   },
   {
     "id": "ibc/2F1447818CF99498AE62D9FB4D5E0C9FD48C68FC118C34D2ECFFFED0AD082196",
@@ -34,6 +134,36 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.svg",
     "coingecko": "https://www.coingecko.com/en/coins/graviton"
+  },
+  {
+    "id": "ibc/D20559F0071F4BFDFF519D0C12B77AFE2A4481D44214BD92808B0C36B1E223C9",
+    "entity": "Gravity Bridge",
+    "name": "Graviton",
+    "symbol": "GRAV",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/graviton"
+  },
+  {
+    "id": "ibc/1603E8643A49AD47F536F645A4BF0E4C1E06C76F0A98CBE8054B177F1EE7C39A",
+    "entity": "Harbor Protocol",
+    "name": "Composite",
+    "symbol": "CMST",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.png",
+    "coingecko": "https://www.coingecko.com/en/coins/composite"
+  },
+  {
+    "id": "ibc/5A3DCF59BC9EC5C0BB7AA0CA0279FC2BB126640CB8B8F704F7BC2DC42495041B",
+    "entity": "Injective",
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/injective-protocol"
   },
   {
     "id": "ibc/EFF323CC632EC4F747C61BCE238A758EFDB7699C3226565F7C20DA06509D59A5",
@@ -62,7 +192,48 @@
     "symbol": "USK",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://i.ibb.co/V3ZM8WF/usk.png"
+    "icon": "https://i.ibb.co/V3ZM8WF/usk.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/usk",
+    "coingecko": "https://www.coingecko.com/en/coins/usk"
+  },
+  {
+    "id": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
+    "entity": "Loop Finance",
+    "name": "Loop Protocol",
+    "symbol": "LOOP",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png"
+  },
+  {
+    "id": "ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242",
+    "entity": "Maker DAO",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/dai"
+  },
+  {
+    "id": "ibc/DBF6ABDB5F3D4267C039967515594453F4A31007FD838A566F563A01D2C2FB80",
+    "entity": "Mars Protocol",
+    "name": "Mars Protocol",
+    "symbol": "MARS",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/mars-protocol"
+  },
+  {
+    "id": "ibc/15FF6DF1FA1790C9199EDB6F6DAAE0EEE93BA22B3B4E9326282C389074098B8A",
+    "entity": "OmniFlix Network",
+    "name": "OmniFlix Network",
+    "symbol": "FLIX",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.png",
+    "coingecko": "https://www.coingecko.com/en/coins/omniflix-network"
   },
   {
     "id": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
@@ -75,6 +246,26 @@
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
+    "id": "ibc/F2A6A3D4C02E003CC3EDB84CFD1C6F8F0E21EE6815575C5FE82FAC7D96106239",
+    "entity": "Planq",
+    "name": "Planq",
+    "symbol": "PLQ",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/planq"
+  },
+  {
+    "id": "ibc/CC4EF9E26EC1C0BDEA058F5F08778C38E140353AF6E360B079EE3124018A1CC9",
+    "entity": "Regen Network",
+    "name": "Regen",
+    "symbol": "REGEN",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/regen/images/regen.png",
+    "coingecko": "https://www.coingecko.com/en/coins/regen"
+  },
+  {
     "id": "ibc/A358D7F19237777AF6D8AD0E0F53268F8B18AE8A53ED318095C14D6D7F3B2DB5",
     "entity": "Secret Network",
     "name": "Secret Network",
@@ -85,6 +276,66 @@
     "coingecko": "https://www.coingecko.com/en/coins/secret"
   },
   {
+    "id": "ibc/CF90BCBEDFF409F9187A0C3A69C1082D56908DC3F7FC342ED82455A504AD8AA9",
+    "entity": "Sentinel",
+    "name": "Sentinel",
+    "symbol": "DVPN",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sentinel/images/dvpn.png",
+    "coingecko": "https://www.coingecko.com/en/coins/sentinel"
+  },
+  {
+    "id": "ibc/A7A5C44AA67317F1B3FFB27BAFC89C9CC04F61306F6F834F89A74B8F82D252A1",
+    "entity": "Sommelier",
+    "name": "Sommelier",
+    "symbol": "SOMM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/sommelier"
+  },
+  {
+    "id": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
+    "entity": "Stargaze",
+    "name": "Stargaze",
+    "symbol": "STARS",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
+    "coingecko": "https://www.coingecko.com/en/coins/stargaze"
+  },
+  {
+    "id": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
+    "entity": "Stride",
+    "name": "stATOM",
+    "symbol": "stATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stride-staked-atom",
+    "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
+  },
+  {
+    "id": "ibc/239BFF83852F67DF5243DB89F339FF7FDBF858437F961CAB6DA5B5ADEFB2BC07",
+    "entity": "Stride",
+    "name": "Stride",
+    "symbol": "STRD",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/stride"
+  },
+  {
+    "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+    "entity": "Team Local Money",
+    "name": "Local Money",
+    "symbol": "LOCAL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://localmoney.io/local-logo-dark.png"
+  },
+  {
     "id": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
     "entity": "Terra Money",
     "name": "Luna",
@@ -93,6 +344,25 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.png",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2"
+  },
+  {
+    "id": "ibc/119334C55720942481F458C9C462F5C0CD1F1E7EEAC4679D674AA67221916AEA",
+    "entity": "Terra Money",
+    "name": "Luna Classic",
+    "symbol": "LUNC",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/terra-luna"
+  },
+  {
+    "id": "ibc/217755344c0d40c75036110e20b0427cc6505760f071be4080dad5ac845969ee",
+    "entity": "Terra Money",
+    "name": "Terra UST Classic",
+    "symbol": "USTC",
+    "decimals": "6",
+    "type": "ibc",
+    "coingecko": "https://www.coingecko.com/en/coins/terraclassicusd"
   },
   {
     "id": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
@@ -112,24 +382,6 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
     "coingecko": "https://www.coingecko.com/en/coins/weth"
-  },
-  {
-    "id": "ibc/FD021051CD0A21590CAC7907B22749B19CC8CCB6A22DE48C21FE7D9EF1EE80B7",
-    "name": "Acre",
-    "symbol": "ACRE",
-    "decimals": "18",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/acre.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/arable-protocol"
-  },
-  {
-    "id": "ibc/7023F9629A70F8112764D959D04F52EA3115A0AED3CEE59694799FD8C91A97FA",
-    "name": "Akash Network",
-    "symbol": "AKT",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/akash-network"
   },
   {
     "id": "factory/kujira1n3fr5f56r2ce0s37wdvwrk98yhhq3unnxgcqus8nzsfxvllk0yxquurqty/ampKUJI",
@@ -161,111 +413,12 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/arbitrum/images/arb.svg"
   },
   {
-    "id": "ibc/193C32A9BB54632C383CF2D2BA1A47F73624446D8554762F934B7A61EF26B191",
-    "name": "AssetMantle",
-    "symbol": "MNTL",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/assetmantle/images/mntl.png",
-    "coingecko": "https://www.coingecko.com/en/coins/assetmantle"
-  },
-  {
-    "id": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
-    "name": "Axelar",
-    "symbol": "AXL",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/axelar-network"
-  },
-  {
-    "id": "ibc/FFA3D0E9C3CDE729559FB71A09E9E6CFA5A85AFABAC9F3CB5DD3942BFF935F9C",
-    "name": "Carbon",
-    "symbol": "SWTH",
-    "decimals": "8",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/switcheo"
-  },
-  {
-    "id": "ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB",
-    "name": "Chainlink",
-    "symbol": "LINK",
-    "decimals": "18",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/chainlink"
-  },
-  {
     "id": "ibc/BF603AD88AA4C36FC8CA99F6D703CA1D7D437A1EA97023A73A8BA4437A05ABDF",
     "name": "Ciento Token",
     "symbol": "CNTO",
     "decimals": "18",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/cnto.png"
-  },
-  {
-    "id": "ibc/1603E8643A49AD47F536F645A4BF0E4C1E06C76F0A98CBE8054B177F1EE7C39A",
-    "name": "CMST",
-    "symbol": "CMST",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.png",
-    "coingecko": "https://www.coingecko.com/en/coins/composite"
-  },
-  {
-    "id": "ibc/3607EB5B5E64DD1C0E12E07F077FF470D5BC4706AFCBC98FE1BA960E5AE4CE07",
-    "name": "Comdex",
-    "symbol": "CMDX",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.png",
-    "coingecko": "https://www.coingecko.com/en/coins/comdex"
-  },
-  {
-    "id": "ibc/E41F596AC5F1BF0298758CC40CBF1DB2DA0615F10BF28E4D9E82B9EEE7A0DBF2",
-    "name": "Crescent",
-    "symbol": "CRE",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/crescent-network/asset/main/images/coin/CRE.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
-  },
-  {
-    "id": "ibc/BBC45F1B65B6D3C11C3C56A9428D38C3A8D03944473791C52DFB7CD3F8342CBC",
-    "name": "Cronos",
-    "symbol": "CRO",
-    "decimals": "8",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png",
-    "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain"
-  },
-  {
-    "id": "ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "decimals": "18",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/dai"
-  },
-  {
-    "id": "ibc/F3AA7EF362EC5E791FE78A0F4CCC69FEE1F9A7485EB1A8CAB3F6601C00522F10",
-    "name": "Evmos",
-    "symbol": "EVMOS",
-    "decimals": "18",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/evmos"
-  },
-  {
-    "id": "ibc/15FF6DF1FA1790C9199EDB6F6DAAE0EEE93BA22B3B4E9326282C389074098B8A",
-    "name": "Flix",
-    "symbol": "FLIX",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.png",
-    "coingecko": "https://www.coingecko.com/en/coins/omniflix-network"
   },
   {
     "id": "ibc/90D9BE4D0D9BFD6AE61FCACF84765820EDA9EE795548324AD60FF416E6685ECF",
@@ -291,24 +444,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/glto.svg"
   },
   {
-    "id": "ibc/D20559F0071F4BFDFF519D0C12B77AFE2A4481D44214BD92808B0C36B1E223C9",
-    "name": "Graviton",
-    "symbol": "GRAV",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/graviton"
-  },
-  {
-    "id": "ibc/5A3DCF59BC9EC5C0BB7AA0CA0279FC2BB126640CB8B8F704F7BC2DC42495041B",
-    "name": "Injective",
-    "symbol": "INJ",
-    "decimals": "18",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/injective-protocol"
-  },
-  {
     "id": "ibc/31ED168F5E93D988FCF223B1298113ACA818DB7BED8F7B73764C5C9FAC293609",
     "name": "Lion DAO ROAR",
     "symbol": "ROAR",
@@ -317,44 +452,11 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png"
   },
   {
-    "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
-    "name": "Local Money",
-    "symbol": "LOCAL",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://localmoney.io/local-logo-dark.png"
-  },
-  {
-    "id": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
-    "name": "Loop Protocol",
-    "symbol": "LOOP",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png"
-  },
-  {
     "id": "factory/kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a/ulp",
     "name": "LP KUJI-ATOM",
     "symbol": "LP KUJI-ATOM",
     "decimals": "6",
     "type": "tokenfactory"
-  },
-  {
-    "id": "ibc/119334C55720942481F458C9C462F5C0CD1F1E7EEAC4679D674AA67221916AEA",
-    "name": "Luna Classic",
-    "symbol": "LUNC",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/terra-luna"
-  },
-  {
-    "id": "ibc/DBF6ABDB5F3D4267C039967515594453F4A31007FD838A566F563A01D2C2FB80",
-    "name": "Mars",
-    "symbol": "MARS",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
   },
   {
     "id": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
@@ -378,15 +480,6 @@
     "type": "ibc"
   },
   {
-    "id": "ibc/F2A6A3D4C02E003CC3EDB84CFD1C6F8F0E21EE6815575C5FE82FAC7D96106239",
-    "name": "Planq",
-    "symbol": "PLQ",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/planq"
-  },
-  {
     "id": "ibc/03E988788ED3EE6326C95151F4E3947820B2F40BDC8C4170FEF5FC75B56EB6DC",
     "name": "Racoon",
     "symbol": "RAC",
@@ -404,24 +497,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stafihub/images/ratom.svg"
   },
   {
-    "id": "ibc/CC4EF9E26EC1C0BDEA058F5F08778C38E140353AF6E360B079EE3124018A1CC9",
-    "name": "Regen Network",
-    "symbol": "REGEN",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/regen/images/regen.png",
-    "coingecko": "https://www.coingecko.com/en/coins/regen"
-  },
-  {
-    "id": "ibc/CF90BCBEDFF409F9187A0C3A69C1082D56908DC3F7FC342ED82455A504AD8AA9",
-    "name": "Sentinel",
-    "symbol": "DVPN",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sentinel/images/dvpn.png",
-    "coingecko": "https://www.coingecko.com/en/coins/sentinel"
-  },
-  {
     "id": "ibc/21038E447A2D4A1183628C0EC366FE79C2E0B0BD91F9A85E6C906CD911FD676E",
     "name": "Shade Token",
     "symbol": "SHD",
@@ -431,39 +506,12 @@
     "coingecko": "https://www.coingecko.com/en/coins/shade-protocol"
   },
   {
-    "id": "ibc/A7A5C44AA67317F1B3FFB27BAFC89C9CC04F61306F6F834F89A74B8F82D252A1",
-    "name": "Somm",
-    "symbol": "SOMM",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/sommelier"
-  },
-  {
     "id": "ibc/1AE6C91DF755F63FB9E8393F7AE6A1725B2389730C0A46ECE247D761A72DA80D",
     "name": "Staked Astroport Token",
     "symbol": "xASTRO",
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/astro.png"
-  },
-  {
-    "id": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
-    "name": "Stargaze",
-    "symbol": "STARS",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
-    "coingecko": "https://www.coingecko.com/en/coins/stargaze"
-  },
-  {
-    "id": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
-    "name": "stATOM",
-    "symbol": "stATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
   },
   {
     "id": "ibc/C19813F6D22F91CC64D2EEDF8702904DD61E0D022972EDFE0039F70C8A6EAD24",
@@ -480,15 +528,6 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg"
-  },
-  {
-    "id": "ibc/239BFF83852F67DF5243DB89F339FF7FDBF858437F961CAB6DA5B5ADEFB2BC07",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
   {
     "id": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
@@ -512,13 +551,6 @@
     "id": "ibc/FE98AAD68F02F03565E9FA39A5E627946699B2B07115889ED812D8BA639576A9",
     "name": "USDC",
     "symbol": "USDC",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/217755344c0d40c75036110e20b0427cc6505760f071be4080dad5ac845969ee",
-    "name": "USTC",
-    "symbol": "USTC",
     "decimals": "6",
     "type": "ibc"
   },
