@@ -1,5 +1,61 @@
 [
   {
+    "id": "terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv",
+    "entity": "Altered Protocol",
+    "name": "Altered",
+    "symbol": "ALTE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://gblobscdn.gitbook.com/spaces%2F-Mf4Y6TIGwMtHEN3AaXV%2Favatar-1626907729941.png?alt=media"
+  },
+  {
+    "id": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
+    "entity": "Anchor Protocol",
+    "name": "Anchor Token",
+    "symbol": "ANC",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/anchor-protocol/",
+    "coingecko": "https://www.coingecko.com/en/coins/anchor-protocol"
+  },
+  {
+    "id": "terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun",
+    "entity": "Anchor Protocol",
+    "name": "Bonded ETH",
+    "symbol": "bETH",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
+  },
+  {
+    "id": "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp",
+    "entity": "Anchor Protocol",
+    "name": "Bonded Luna",
+    "symbol": "bLUNA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.anchorprotocol.com/logo/bLUNA.png"
+  },
+  {
+    "id": "terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq",
+    "entity": "Angel Protocol",
+    "name": "Angel Protocol",
+    "symbol": "HALO",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://i.ibb.co/q9krLwC/halo-token.png"
+  },
+  {
+    "id": "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",
+    "entity": "ApolloDAO",
+    "name": "Apollo DAO Token",
+    "symbol": "APOLLO",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://i.ibb.co/VC517zj/apollo.png"
+  },
+  {
     "id": "terra17raumdxxxlm8smtx2pcxmqpz7qq9am4zfxzl8d",
     "entity": "Astroport",
     "name": "Astroport",
@@ -1082,13 +1138,14 @@
     "type": "cw20"
   },
   {
-    "id": "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp",
-    "entity": "boneLuna",
-    "name": "Bonded Luna",
-    "symbol": "bLUNA",
+    "id": "terra193c42lfwmlkasvcw22l9qqzc5q2dx208tkd7wl",
+    "entity": "Bitlocus",
+    "name": "Bitlocus Token",
+    "symbol": "BTL",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://whitelist.anchorprotocol.com/logo/bLUNA.png"
+    "icon": "https://bitlocus.com/assets/btl-token.png",
+    "coingecko": "https://www.coingecko.com/en/coins/bitlocus"
   },
   {
     "id": "ibc/18ABA66B791918D51D33415DA173632735D830E2E77E63C91C11D3008CFD5262",
@@ -1109,12 +1166,41 @@
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
+    "id": "terra1lrdzs5tgllwqgawtq2emuzn7snpxq87fzzl44y",
+    "entity": "DragonSB",
+    "name": "DragonSB",
+    "symbol": "SB",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/14451.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dragonsb/",
+    "coingecko": "https://www.coingecko.com/en/coins/dragonsb"
+  },
+  {
     "id": "terra1vsl7etwe53vglc2xq2rdt7mujarcjy9j694hdk",
     "entity": "Juno",
     "name": "JUNO",
     "symbol": "JUNO",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1yeyr6taynkwdl85ppaggr3zr8txhf66cny2ang",
+    "entity": "Kinetic Money",
+    "name": "Kinetic Token",
+    "symbol": "KNTC",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://app.astroport.fi/tokens/kinetic.svg"
+  },
+  {
+    "id": "terra1g53pyke8jtmt4lwvk4yl0xaqc4u0qlsl8dz3ex",
+    "entity": "Kinetic Money",
+    "name": "Synthetic UST Token",
+    "symbol": "kUST",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://app.astroport.fi/tokens/kUST.svg"
   },
   {
     "id": "terra1r7e9a5su34ne07e6v0r7n2xp4h6tjkxc8j2lz2",
@@ -1184,6 +1270,448 @@
     "icon": "https://lira.financial/images/icons/lira.svg"
   },
   {
+    "id": "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+    "entity": "Loop Finance",
+    "name": "Loop Finance",
+    "symbol": "LOOP",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://loop.markets/token/logo2.png"
+  },
+  {
+    "id": "terra1jx4lmmke2srcvpjeereetc9hgegp4g5j0p9r2q",
+    "entity": "Loop Finance",
+    "name": "LOOPR Token",
+    "symbol": "LOOPR",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://loop.markets/token/logo3.png"
+  },
+  {
+    "id": "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr",
+    "entity": "LoTerra",
+    "name": "LoTerra",
+    "symbol": "LOTA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://loterra.io/LOTA.png"
+  },
+  {
+    "id": "terra1vwz7t30q76s7xx6qgtxdqnu6vpr3ak3vw62ygk",
+    "entity": "LUART",
+    "name": "LUART Token",
+    "symbol": "LUART",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://staking.luart.io/token-white.svg"
+  },
+  {
+    "id": "terra1g0pm8xm5c2dq4qtv8j9a80hg4mhe5ndy8qad07",
+    "entity": "Lunart",
+    "name": "Lunart",
+    "symbol": "ARTS",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://i.ibb.co/K9Q53VQ/lunart.png"
+  },
+  {
+    "id": "terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6",
+    "entity": "Lunaverse",
+    "name": "Lunaverse",
+    "symbol": "LUV",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://lunaverse.io/assets/images/logo.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lunaverse/",
+    "coingecko": "https://www.coingecko.com/en/coins/lunaverse"
+  },
+  {
+    "id": "terra1m3tdguf59xq3pa2twk5fjte5g6szj5y9x5npy7",
+    "entity": "LUNI",
+    "name": "LUNI",
+    "symbol": "LUNI",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://d2s3n99uw51hng.cloudfront.net/static/100_100_LUNI_logo.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/luni",
+    "coingecko": "https://www.coingecko.com/en/coins/luni"
+  },
+  {
+    "id": "terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n",
+    "entity": "Mars Protocol",
+    "name": "Mars Token",
+    "symbol": "MARS",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://marsprotocol.io/MARSTokenMini.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mars-protocol/",
+    "coingecko": "https://www.coingecko.com/en/coins/mars-protocol"
+  },
+  {
+    "id": "terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4",
+    "entity": "Mars Protocol",
+    "name": "xMars Token",
+    "symbol": "XMARS",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://marsprotocol.io/xMARSTokenMini.svg"
+  },
+  {
+    "id": "terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63",
+    "entity": "Miaw Trader",
+    "name": "Miaw Token",
+    "symbol": "MIAW",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://www.miaw-trader.com/logo.png"
+  },
+  {
+    "id": "terra18ej5nsuu867fkx4tuy2aglpvqjrkcrjjslap3z",
+    "entity": "Mirror Protocol",
+    "name": "Advanced Micro Devices, Inc.",
+    "symbol": "mAMD",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/AMD.png"
+  },
+  {
+    "id": "terra1g4x2pzmkc9z3mseewxf758rllg08z3797xly0n",
+    "entity": "Mirror Protocol",
+    "name": "Airbnb Inc.",
+    "symbol": "mABNB",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/ABNB.png"
+  },
+  {
+    "id": "terra1w7zgkcyt7y4zpct9dw8mw362ywvdlydnum2awa",
+    "entity": "Mirror Protocol",
+    "name": "Alibaba Group Holding Limited",
+    "symbol": "mBABA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/BABA.png"
+  },
+  {
+    "id": "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt",
+    "entity": "Mirror Protocol",
+    "name": "Alphabet Inc.",
+    "symbol": "mGOOGL",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/GOOGL.png"
+  },
+  {
+    "id": "terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
+    "entity": "Mirror Protocol",
+    "name": "Amazon.com, Inc.",
+    "symbol": "mAMZN",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/AMZN.png"
+  },
+  {
+    "id": "terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy",
+    "entity": "Mirror Protocol",
+    "name": "AMC Entertainment Holdings Inc.",
+    "symbol": "mAMC",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/AMC.png"
+  },
+  {
+    "id": "terra1vxtwu4ehgzz77mnfwrntyrmgl64qjs75mpwqaz",
+    "entity": "Mirror Protocol",
+    "name": "Apple Inc.",
+    "symbol": "mAAPL",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/AAPL.png"
+  },
+  {
+    "id": "terra1qqfx5jph0rsmkur2zgzyqnfucra45rtjae5vh6",
+    "entity": "Mirror Protocol",
+    "name": "ARK Innovation ETF",
+    "symbol": "mARKK",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/ARKK.png"
+  },
+  {
+    "id": "terra1rhhvx8nzfrx5fufkuft06q5marfkucdqwq5sjw",
+    "entity": "Mirror Protocol",
+    "name": "Bitcoin",
+    "symbol": "mBTC",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/BTC.png"
+  },
+  {
+    "id": "terra18wayjpyq28gd970qzgjfmsjj7dmgdk039duhph",
+    "entity": "Mirror Protocol",
+    "name": "Coinbase Global, Inc.",
+    "symbol": "mCOIN",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/COIN.png"
+  },
+  {
+    "id": "terra1dk3g53js3034x4v5c3vavhj2738une880yu6kx",
+    "entity": "Mirror Protocol",
+    "name": "Ether",
+    "symbol": "mETH",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/ETH.png"
+  },
+  {
+    "id": "terra1mqsjugsugfprn3cvgxsrr8akkvdxv2pzc74us7",
+    "entity": "Mirror Protocol",
+    "name": "Facebook Inc.",
+    "symbol": "mFB",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/FB.png"
+  },
+  {
+    "id": "terra1l5lrxtwd98ylfy09fn866au6dp76gu8ywnudls",
+    "entity": "Mirror Protocol",
+    "name": "Galaxy Digital Holdings Ltd",
+    "symbol": "mGLXY",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/GLXY.png"
+  },
+  {
+    "id": "terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p",
+    "entity": "Mirror Protocol",
+    "name": "GameStop Corp",
+    "symbol": "mGME",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/GME.png"
+  },
+  {
+    "id": "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v",
+    "entity": "Mirror Protocol",
+    "name": "Goldman Sachs Group Inc.",
+    "symbol": "mGS",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/GS.png"
+  },
+  {
+    "id": "terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp",
+    "entity": "Mirror Protocol",
+    "name": "Invesco QQQ Trust",
+    "symbol": "mQQQ",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/QQQ.png"
+  },
+  {
+    "id": "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq",
+    "entity": "Mirror Protocol",
+    "name": "iShares Gold Trust",
+    "symbol": "mIAU",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/IAU.png"
+  },
+  {
+    "id": "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec",
+    "entity": "Mirror Protocol",
+    "name": "iShares Gold Trust (Delisted)",
+    "symbol": "mIAU",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/IAU.png"
+  },
+  {
+    "id": "terra1kscs6uhrqwy6rx5kuw5lwpuqvm3t6j2d6uf2lp",
+    "entity": "Mirror Protocol",
+    "name": "iShares Silver Trust",
+    "symbol": "mSLV",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/SLV.png"
+  },
+  {
+    "id": "terra1ptdxmj3xmmljzx02nr4auwfuelmj0cnkh8egs2",
+    "entity": "Mirror Protocol",
+    "name": "Johnson & Johnson",
+    "symbol": "mJNJ",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/JNJ.png"
+  },
+  {
+    "id": "terra1227ppwxxj3jxz8cfgq00jgnxqcny7ryenvkwj6",
+    "entity": "Mirror Protocol",
+    "name": "Microsoft Corporation",
+    "symbol": "mMSFT",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/MSFT.png"
+  },
+  {
+    "id": "terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6",
+    "entity": "Mirror Protocol",
+    "name": "Mirror",
+    "symbol": "MIR",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/MIR.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mirror-protocol/",
+    "coingecko": "https://www.coingecko.com/en/coins/mirror-protocol"
+  },
+  {
+    "id": "terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k",
+    "entity": "Mirror Protocol",
+    "name": "Netflix, Inc.",
+    "symbol": "mNFLX",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/NFLX.png"
+  },
+  {
+    "id": "terra1rh2907984nudl7vh56qjdtvv7947z4dujj92sx",
+    "entity": "Mirror Protocol",
+    "name": "PayPal Holdings Inc",
+    "symbol": "mPYPL",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/PYPL.png"
+  },
+  {
+    "id": "terra19ya4jpvjvvtggepvmmj6ftmwly3p7way0tt08r",
+    "entity": "Mirror Protocol",
+    "name": "Polkadot",
+    "symbol": "mDOT",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/DOT.png"
+  },
+  {
+    "id": "terra19cmt6vzvhnnnfsmccaaxzy2uaj06zjktu6yzjx",
+    "entity": "Mirror Protocol",
+    "name": "ProShares VIX Short-Term Futures ETF",
+    "symbol": "mVIXY",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
+  },
+  {
+    "id": "terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45",
+    "entity": "Mirror Protocol",
+    "name": "ProShares VIX Short-Term Futures ETF (Delisted)",
+    "symbol": "mVIXY",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
+  },
+  {
+    "id": "terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr",
+    "entity": "Mirror Protocol",
+    "name": "Robinhood Markets, Inc.",
+    "symbol": "mHOOD",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/HOOD.png"
+  },
+  {
+    "id": "terra1aa00lpfexyycedfg5k2p60l9djcmw0ue5l8fhc",
+    "entity": "Mirror Protocol",
+    "name": "SPDR S&P 500",
+    "symbol": "mSPY",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/SPY.png"
+  },
+  {
+    "id": "terra1u43zu5amjlsgty5j64445fr9yglhm53m576ugh",
+    "entity": "Mirror Protocol",
+    "name": "Square, Inc.",
+    "symbol": "mSQ",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/SQ.png"
+  },
+  {
+    "id": "terra1246zy658dfgtausf0c4a6ly8sc2e285q4kxqga",
+    "entity": "Mirror Protocol",
+    "name": "Starbucks Corporation",
+    "symbol": "mSBUX",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/SBUX.png"
+  },
+  {
+    "id": "terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh",
+    "entity": "Mirror Protocol",
+    "name": "Tesla, Inc.",
+    "symbol": "mTSLA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/TSLA.png"
+  },
+  {
+    "id": "terra1cc3enj9qgchlrj34cnzhwuclc4vl2z3jl7tkqg",
+    "entity": "Mirror Protocol",
+    "name": "Twitter, Inc.",
+    "symbol": "mTWTR",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/TWTR.png"
+  },
+  {
+    "id": "terra1lvmx8fsagy70tv0fhmfzdw9h6s3sy4prz38ugf",
+    "entity": "Mirror Protocol",
+    "name": "United States Oil Fund, LP",
+    "symbol": "mUSO",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitelist.mirror.finance/icon/USO.png"
+  },
+  {
+    "id": "terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn",
+    "entity": "Nexus Protocol",
+    "name": "Nexus bETH Token",
+    "symbol": "nETH",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://terra.nexusprotocol.app/nEth.svg"
+  },
+  {
+    "id": "terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j",
+    "entity": "Nexus Protocol",
+    "name": "Nexus bLUNA Token",
+    "symbol": "nLUNA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://terra.nexusprotocol.app/nLuna.svg"
+  },
+  {
+    "id": "terra12897djskt9rge8dtmm86w654g7kzckkd698608",
+    "entity": "Nexus Protocol",
+    "name": "Nexus Governance Token",
+    "symbol": "Psi",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://terra.nexusprotocol.app/assets/psi.png"
+  },
+  {
+    "id": "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03",
+    "entity": "Orion Money",
+    "name": "Orion Money Token",
+    "symbol": "ORION",
+    "decimals": "8",
+    "type": "cw20",
+    "icon": "https://orion.money/assets/ORION-LOGO-2.1-GREEN@256x256.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/orion-money/",
+    "coingecko": "https://www.coingecko.com/en/coins/orion-money"
+  },
+  {
     "id": "terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf",
     "entity": "Orne",
     "name": "Orne",
@@ -1201,6 +1729,80 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg"
+  },
+  {
+    "id": "terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu",
+    "entity": "PlayNity",
+    "name": "PlayNity token",
+    "symbol": "PLY",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://i.ibb.co/Snt8gXx/Projekt-bez-tytu-u-3.png"
+  },
+  {
+    "id": "terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau",
+    "entity": "Prism Protocol",
+    "name": "Prism cLUNA Token",
+    "symbol": "cLUNA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://home.prismprotocol.app/cluna.png"
+  },
+  {
+    "id": "terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz",
+    "entity": "Prism Protocol",
+    "name": "Prism Governance Token",
+    "symbol": "xPRISM",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://prismprotocol.app/xprism.png"
+  },
+  {
+    "id": "terra1tlgelulz9pdkhls6uglfn5lmxarx7f2gxtdzh2",
+    "entity": "Prism Protocol",
+    "name": "Prism pLUNA Token",
+    "symbol": "pLUNA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://home.prismprotocol.app/pluna.png"
+  },
+  {
+    "id": "terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw",
+    "entity": "Prism Protocol",
+    "name": "Prism Protocol Token",
+    "symbol": "PRISM",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://prismprotocol.app/prism.png"
+  },
+  {
+    "id": "terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz",
+    "entity": "Prism Protocol",
+    "name": "Prism yLUNA Token",
+    "symbol": "yLUNA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://home.prismprotocol.app/yluna.png"
+  },
+  {
+    "id": "terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy",
+    "entity": "Pylon Protocol",
+    "name": "Pylon MINE Token",
+    "symbol": "MINE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://assets.pylon.rocks/logo/MINE.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pylon-protocol/",
+    "coingecko": "https://www.coingecko.com/en/coins/pylon-protocol"
+  },
+  {
+    "id": "terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93",
+    "entity": "Reactor",
+    "name": "Reactor Token",
+    "symbol": "RCT",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://reactor.money/assets/logo.svg"
   },
   {
     "id": "terra1ye68rx8etwj7xylwc4nd4vp58zz236mlhk0cpx",
@@ -1227,8 +1829,19 @@
     "type": "cw20"
   },
   {
+    "id": "terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp",
+    "entity": "RoboHero",
+    "name": "RoboHero",
+    "symbol": "ROBO",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://i.ibb.co/nmhRXB9/token.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/robohero/",
+    "coingecko": "https://www.coingecko.com/en/coins/robohero"
+  },
+  {
     "id": "terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr",
-    "entity": "Sayve Protocol Classic",
+    "entity": "Sayve Protocol",
     "name": "SAYVE Classic Token",
     "symbol": "SAYVEC",
     "decimals": "6",
@@ -1243,6 +1856,44 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://assets.terra.money/icon/60/SCRT.png"
+  },
+  {
+    "id": "terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq",
+    "entity": "Space Dollars",
+    "name": "Space Dollars",
+    "symbol": "SDOLLAR",
+    "decimals": "2",
+    "type": "cw20",
+    "icon": "https://spacedollars.money/wp-content/uploads/2021/10/spacedollars512x512.png"
+  },
+  {
+    "id": "terra1z2u9p4x9cnp7c44rnntxzhgqlnepv8elmde43d",
+    "entity": "Space Dollars",
+    "name": "Space Dollars Ticket - Lootopians",
+    "symbol": "SDLTIC",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://terrafloki.io/SDTIC2-logo.svg"
+  },
+  {
+    "id": "terra15uc875u7uu8xyqf833nxwh5x4dm2kmu29u04vl",
+    "entity": "Space Dollars",
+    "name": "Space Dollars Ticket - SpacePets",
+    "symbol": "SDTICI",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://terrafloki.io/SDOLLAR_ticket.png"
+  },
+  {
+    "id": "terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr",
+    "entity": "Spectrum Protocol",
+    "name": "Spectrum Token",
+    "symbol": "SPEC",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://terra.spec.finance/assets/SPEC.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/spectrum-token/",
+    "coingecko": "https://www.coingecko.com/en/coins/spectrum-token"
   },
   {
     "id": "terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup",
@@ -1265,6 +1916,17 @@
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png"
   },
   {
+    "id": "terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n",
+    "entity": "StarTerra",
+    "name": "StarTerra Token",
+    "symbol": "STT",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://starterra.io/assets/100x100_starterra.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/starterra/",
+    "coingecko": "https://www.coingecko.com/en/coins/starterra"
+  },
+  {
     "id": "terra1rl4zyexjphwgx6v3ytyljkkc4mrje2pyznaclv",
     "entity": "Steak",
     "name": "Steak Token",
@@ -1272,6 +1934,44 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://larry.engineer/assets/steak.svg"
+  },
+  {
+    "id": "terra1vchw83qt25j89zqwdpmdzj722sqxthnckqzxxp",
+    "entity": "Team Local Money",
+    "name": "Local Terra Token",
+    "symbol": "LOCAL",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://localterra.money/local-logo-dark.png"
+  },
+  {
+    "id": "uluna",
+    "entity": "Terra Money",
+    "name": "Luna Classic",
+    "symbol": "LUNC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna/",
+    "coingecko": "https://www.coingecko.com/en/coins/terra-luna"
+  },
+  {
+    "id": "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
+    "entity": "Terra Name Service",
+    "name": "Terra Name Service",
+    "symbol": "TNS",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://tns.money/static/images/token-logo.svg"
+  },
+  {
+    "id": "terra14mvkydkwm2pzz62cgrkpeusphm4trrqrzd88ju",
+    "entity": "TerraDogeShib",
+    "name": "TerraDogeShib",
+    "symbol": "DOSH",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://dogeshib.xyz/static/media/shiba-doge.0f2ade2f.png"
   },
   {
     "id": "terra1kx4y3y4pn32jssqr90cj0rw89ds98dc0t5eqfp",
@@ -1298,6 +1998,16 @@
     "symbol": "TFLOKI",
     "decimals": "3",
     "type": "cw20"
+  },
+  {
+    "id": "terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc",
+    "entity": "TerraLand",
+    "name": "TerraLand Token",
+    "symbol": "TLAND",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-land/"
   },
   {
     "id": "terra1cx8rey3xpd7e7t6pkywvq6n9y98yq3wlfashpm",
@@ -1333,6 +2043,15 @@
     "type": "cw20"
   },
   {
+    "id": "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz",
+    "entity": "White Whale",
+    "name": "Whale Token",
+    "symbol": "WHALE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://whitewhale.money/logo-small.svg"
+  },
+  {
     "id": "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m",
     "entity": "Wormhole",
     "name": "Wrapped AVAX (Wormhole)",
@@ -1349,6 +2068,15 @@
     "decimals": "8",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png"
+  },
+  {
+    "id": "terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh",
+    "entity": "XDEFI",
+    "name": "Wormhole:XDEFI",
+    "symbol": "whXDEFI",
+    "decimals": "8",
+    "type": "cw20",
+    "icon": "https://github.com/sushiswap/assets/blob/master/blockchains/ethereum/assets/0x72B886d09C117654aB7dA13A14d603001dE0B777/logo.png?raw=true"
   },
   {
     "id": "terra1thtantj2mygnju7k8lpcy96ct577xav307jw23",
@@ -1505,14 +2233,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra18ej5nsuu867fkx4tuy2aglpvqjrkcrjjslap3z",
-    "name": "Advanced Micro Devices, Inc.",
-    "symbol": "mAMD",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/AMD.png"
-  },
-  {
     "id": "terra12qxyx2l90c37kylw4jqe8t40ppnrnu8wqmx940",
     "name": "AguilarBoys",
     "symbol": "AGB",
@@ -1520,27 +2240,11 @@
     "type": "cw20"
   },
   {
-    "id": "terra1g4x2pzmkc9z3mseewxf758rllg08z3797xly0n",
-    "name": "Airbnb Inc.",
-    "symbol": "mABNB",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/ABNB.png"
-  },
-  {
     "id": "terra1xc5ll57yu269x8ysxvdpjmvxmac3js7pst5ddr",
     "name": "Alameda Research DAO",
     "symbol": "ARD",
     "decimals": "3",
     "type": "cw20"
-  },
-  {
-    "id": "terra1w7zgkcyt7y4zpct9dw8mw362ywvdlydnum2awa",
-    "name": "Alibaba Group Holding Limited",
-    "symbol": "mBABA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/BABA.png"
   },
   {
     "id": "terra14xulq5g99rfmrm6qkgzmrrspvknupajdqyd92k",
@@ -1573,27 +2277,11 @@
     "icon": "https://ipfs.playlot.io/icon/profile-logo.png"
   },
   {
-    "id": "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt",
-    "name": "Alphabet Inc.",
-    "symbol": "mGOOGL",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/GOOGL.png"
-  },
-  {
     "id": "terra17azgr4x2gz20uquy7vdacfdgjjkgd0h9lm377v",
     "name": "Alpine Protocol",
     "symbol": "ALP",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv",
-    "name": "Altered",
-    "symbol": "ALTE",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://gblobscdn.gitbook.com/spaces%2F-Mf4Y6TIGwMtHEN3AaXV%2Favatar-1626907729941.png?alt=media"
   },
   {
     "id": "terra1q93ws00plywc5prwv7mf2gdf7alhuqgk5w68lq",
@@ -1617,22 +2305,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
-    "name": "Amazon.com, Inc.",
-    "symbol": "mAMZN",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/AMZN.png"
-  },
-  {
-    "id": "terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy",
-    "name": "AMC Entertainment Holdings Inc.",
-    "symbol": "mAMC",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/AMC.png"
-  },
-  {
     "id": "terra1fx6ffswrmgyuf5nsxruce5gertr8vgsm7krrp7",
     "name": "Anchor aUST Token",
     "symbol": "aUST",
@@ -1653,16 +2325,6 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://whitelist.anchorprotocol.com/logo/aUST.png"
-  },
-  {
-    "id": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
-    "name": "Anchor Token",
-    "symbol": "ANC",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/anchor-protocol/",
-    "coingecko": "https://www.coingecko.com/en/coins/anchor-protocol"
   },
   {
     "id": "terra1587zn7hagaylrp22x5edz25zpqfn6szfmvtym4",
@@ -1693,14 +2355,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq",
-    "name": "Angel Protocol",
-    "symbol": "HALO",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://i.ibb.co/q9krLwC/halo-token.png"
-  },
-  {
     "id": "terra15xf5wqprgzl59ckfyjtgavh7rqtxcju7gn57rc",
     "name": "Ape NFT",
     "symbol": "ANFT",
@@ -1713,14 +2367,6 @@
     "symbol": "APOLLO",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",
-    "name": "Apollo DAO Token",
-    "symbol": "APOLLO",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://i.ibb.co/VC517zj/apollo.png"
   },
   {
     "id": "terra10jgqgc3vt34w79t4puharnzjxxv7s3fq8tmnkp",
@@ -1744,27 +2390,11 @@
     "type": "cw20"
   },
   {
-    "id": "terra1vxtwu4ehgzz77mnfwrntyrmgl64qjs75mpwqaz",
-    "name": "Apple Inc.",
-    "symbol": "mAAPL",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/AAPL.png"
-  },
-  {
     "id": "terra1vyusa796w86yh99l67dpd5g3hfva759vyuhn5z",
     "name": "APS Token",
     "symbol": "APS",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1qqfx5jph0rsmkur2zgzyqnfucra45rtjae5vh6",
-    "name": "ARK Innovation ETF",
-    "symbol": "mARKK",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/ARKK.png"
   },
   {
     "id": "terra1yjlqptvn3al5402jp600l7n3l5yl8man8d4kex",
@@ -1964,28 +2594,11 @@
     "type": "cw20"
   },
   {
-    "id": "terra1rhhvx8nzfrx5fufkuft06q5marfkucdqwq5sjw",
-    "name": "Bitcoin",
-    "symbol": "mBTC",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/BTC.png"
-  },
-  {
     "id": "terra1vpehfldr2u2m2gw38zaryp4tfw7fe2kw2lryjf",
     "name": "Bitcoin",
     "symbol": "BTC",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra193c42lfwmlkasvcw22l9qqzc5q2dx208tkd7wl",
-    "name": "Bitlocus Token",
-    "symbol": "BTL",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://bitlocus.com/assets/btl-token.png",
-    "coingecko": "https://www.coingecko.com/en/coins/bitlocus"
   },
   {
     "id": "terra1ss460ny4hl5zew0tlvywnw38rsy2ql3n420lv2",
@@ -2043,14 +2656,6 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://files.pstake.finance/logos/bAssets/bATOM.svg"
-  },
-  {
-    "id": "terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun",
-    "name": "Bonded ETH",
-    "symbol": "bETH",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
   },
   {
     "id": "terra17wgmccdu57lx09yzhnnev39srqj7msg9ky2j76",
@@ -2346,14 +2951,6 @@
     "symbol": "SWAP",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra18wayjpyq28gd970qzgjfmsjj7dmgdk039duhph",
-    "name": "Coinbase Global, Inc.",
-    "symbol": "mCOIN",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/COIN.png"
   },
   {
     "id": "terra1n8awtfqa0wphx90pd2zc9v8vccc65f0gvv6rq5",
@@ -2822,14 +3419,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra14mvkydkwm2pzz62cgrkpeusphm4trrqrzd88ju",
-    "name": "dosh",
-    "symbol": "DOSH",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://dogeshib.xyz/static/media/shiba-doge.0f2ade2f.png"
-  },
-  {
     "id": "terra1ewesd6y7dswxd8qdfff7vxl8g2p0dfwpanf5fv",
     "name": "dosh",
     "symbol": "DOSH",
@@ -2884,16 +3473,6 @@
     "symbol": "GAR",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1lrdzs5tgllwqgawtq2emuzn7snpxq87fzzl44y",
-    "name": "DragonSB",
-    "symbol": "SB",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/14451.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/dragonsb/",
-    "coingecko": "https://www.coingecko.com/en/coins/dragonsb"
   },
   {
     "id": "terra1nh6theuhf4pv67pcyqnz58czljr382mxrp2rdh",
@@ -3114,14 +3693,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1dk3g53js3034x4v5c3vavhj2738une880yu6kx",
-    "name": "Ether",
-    "symbol": "mETH",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/ETH.png"
-  },
-  {
     "id": "ueur",
     "name": "EUT",
     "symbol": "EUT",
@@ -3135,14 +3706,6 @@
     "symbol": "EXPEDITION",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1mqsjugsugfprn3cvgxsrr8akkvdxv2pzc74us7",
-    "name": "Facebook Inc.",
-    "symbol": "mFB",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/FB.png"
   },
   {
     "id": "terra17nekftv2yp8n4lsex85008sphchs4t3rnfcqzf",
@@ -3398,14 +3961,6 @@
     "icon": "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png"
   },
   {
-    "id": "terra1l5lrxtwd98ylfy09fn866au6dp76gu8ywnudls",
-    "name": "Galaxy Digital Holdings Ltd",
-    "symbol": "mGLXY",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/GLXY.png"
-  },
-  {
     "id": "terra1hytrupk3argcrsl5x7dv55gyda0tn7f2qqlwkl",
     "name": "Game G",
     "symbol": "GGGG",
@@ -3418,14 +3973,6 @@
     "symbol": "GAME",
     "decimals": "3",
     "type": "cw20"
-  },
-  {
-    "id": "terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p",
-    "name": "GameStop Corp",
-    "symbol": "mGME",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/GME.png"
   },
   {
     "id": "ugbp",
@@ -3549,14 +4096,6 @@
     "symbol": "GODSq",
     "decimals": "3",
     "type": "cw20"
-  },
-  {
-    "id": "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v",
-    "name": "Goldman Sachs Group Inc.",
-    "symbol": "mGS",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/GS.png"
   },
   {
     "id": "terra1d633fx8wlpgqnns9j4xw66cq6ypdy4u8r0rr7j",
@@ -3842,14 +4381,6 @@
     "icon": "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro"
   },
   {
-    "id": "terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp",
-    "name": "Invesco QQQ Trust",
-    "symbol": "mQQQ",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/QQQ.png"
-  },
-  {
     "id": "terra1enj2np0785hw3vt2gn2yga9y75306g6e9lq799",
     "name": "Invesco QQQ Trust",
     "symbol": "mQQQ",
@@ -3857,35 +4388,11 @@
     "type": "cw20"
   },
   {
-    "id": "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq",
-    "name": "iShares Gold Trust",
-    "symbol": "mIAU",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/IAU.png"
-  },
-  {
     "id": "terra12lvpnlphqh3q0cxp8y47e5km8k2ad5ydw5asu4",
     "name": "iShares Gold Trust",
     "symbol": "mIAU",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec",
-    "name": "iShares Gold Trust (Delisted)",
-    "symbol": "mIAU",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/IAU.png"
-  },
-  {
-    "id": "terra1kscs6uhrqwy6rx5kuw5lwpuqvm3t6j2d6uf2lp",
-    "name": "iShares Silver Trust",
-    "symbol": "mSLV",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/SLV.png"
   },
   {
     "id": "terra1td527f09l7lgf55fqtr0zvtx5ek0yl0fdrx574",
@@ -3945,14 +4452,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1ptdxmj3xmmljzx02nr4auwfuelmj0cnkh8egs2",
-    "name": "Johnson & Johnson",
-    "symbol": "mJNJ",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/JNJ.png"
-  },
-  {
     "id": "terra1t5y4xm7xdc7csud2j2aezxs6e4uuj3lqpqk7jy",
     "name": "Joseph @ GT",
     "symbol": "JGT",
@@ -3993,8 +4492,7 @@
     "name": "Juta Club Token",
     "symbol": "JUTA",
     "decimals": "2",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/terraswap/terraswap-web-app/main/public/images/CW20/JUTA.png"
+    "type": "cw20"
   },
   {
     "id": "terra1kujvztl5p8a45k56u42fq39jxldxcvuejtpfq5",
@@ -4039,14 +4537,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1yeyr6taynkwdl85ppaggr3zr8txhf66cny2ang",
-    "name": "Kinetic Token",
-    "symbol": "KNTC",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://app.astroport.fi/tokens/kinetic.svg"
-  },
-  {
     "id": "terra18glhvftntrqg00hv96qkpx3r37g34qh8qytnps",
     "name": "Kinetic.Money",
     "symbol": "KINETIC",
@@ -4058,8 +4548,7 @@
     "name": "Kingsman DAO",
     "symbol": "KINGS",
     "decimals": "6",
-    "type": "cw20",
-    "icon": "https://kingsmandao.com/wp-content/uploads/2021/10/kingsman-logo-transparent_1@0.5x.png"
+    "type": "cw20"
   },
   {
     "id": "terra1c5fr3wdf2trj3dkxcckhmzzxlnnpepqn8cu8f8",
@@ -4254,14 +4743,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1vchw83qt25j89zqwdpmdzj722sqxthnckqzxxp",
-    "name": "Local Terra Token",
-    "symbol": "LOCAL",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://localterra.money/local-logo-dark.png"
-  },
-  {
     "id": "terra14s3g6jmytjjg2jcxmmaj6k837vcr6h98muxc07",
     "name": "Locker Test",
     "symbol": "LOCK",
@@ -4269,35 +4750,11 @@
     "type": "cw20"
   },
   {
-    "id": "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
-    "name": "Loop Finance",
-    "symbol": "LOOP",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://loop.markets/token/logo2.png"
-  },
-  {
     "id": "terra1ew3yvrg0ejpgvswyw70gcqqp3g2j45d24se5xq",
     "name": "LOOP Token",
     "symbol": "LOOP",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1jx4lmmke2srcvpjeereetc9hgegp4g5j0p9r2q",
-    "name": "LOOPR Token",
-    "symbol": "LOOPR",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://loop.markets/token/logo3.png"
-  },
-  {
-    "id": "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr",
-    "name": "LoTerra",
-    "symbol": "LOTA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://loterra.io/LOTA.png"
   },
   {
     "id": "terra182740uw8nh6tk3yjfcf7gu5phg3kqryhtuxp0p",
@@ -4377,14 +4834,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1vwz7t30q76s7xx6qgtxdqnu6vpr3ak3vw62ygk",
-    "name": "LUART Token",
-    "symbol": "LUART",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://staking.luart.io/token-white.svg"
-  },
-  {
     "id": "terra1z454qecteghkd8m3shgd48cdc7j7vtnsgxh4z7",
     "name": "LUART Token",
     "symbol": "LUART",
@@ -4439,16 +4888,6 @@
     "symbol": "BULL",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "uluna",
-    "name": "Luna Classic",
-    "symbol": "LUNC",
-    "decimals": "6",
-    "type": "native",
-    "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna/",
-    "coingecko": "https://www.coingecko.com/en/coins/terra-luna"
   },
   {
     "id": "terra1ex5age9gqd5em86wg8hu0ak5wrqez9yufvlrat",
@@ -4508,14 +4947,6 @@
     "icon": "https://ipfs.lunapunks.io/ipfs/QmQmSwJEgPAWQNPR9S6cLc3cSKT3k16e44ZC7bUxuD7ERd"
   },
   {
-    "id": "terra1g0pm8xm5c2dq4qtv8j9a80hg4mhe5ndy8qad07",
-    "name": "Lunart",
-    "symbol": "ARTS",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://i.ibb.co/K9Q53VQ/lunart.png"
-  },
-  {
     "id": "terra1fj06x3hq2xum56htlrdeame70knzl765cq4txr",
     "name": "LunaticDoge",
     "symbol": "LDoge",
@@ -4535,16 +4966,6 @@
     "symbol": "LunaT",
     "decimals": "8",
     "type": "cw20"
-  },
-  {
-    "id": "terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6",
-    "name": "Lunaverse",
-    "symbol": "LUV",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://lunaverse.io/assets/images/logo.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/lunaverse/",
-    "coingecko": "https://www.coingecko.com/en/coins/lunaverse"
   },
   {
     "id": "terra1kd4rfff04cvw7vae0szgawj0xye90fkchljv7y",
@@ -4574,16 +4995,6 @@
     "symbol": "OPZC",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1m3tdguf59xq3pa2twk5fjte5g6szj5y9x5npy7",
-    "name": "LUNI",
-    "symbol": "LUNI",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://d2s3n99uw51hng.cloudfront.net/static/100_100_LUNI_logo.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/luni",
-    "coingecko": "https://www.coingecko.com/en/coins/luni"
   },
   {
     "id": "terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4",
@@ -4658,16 +5069,6 @@
     "symbol": "MARS",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n",
-    "name": "Mars Token",
-    "symbol": "MARS",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://marsprotocol.io/MARSTokenMini.svg",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/mars-protocol/",
-    "coingecko": "https://www.coingecko.com/en/coins/mars-protocol"
   },
   {
     "id": "terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6",
@@ -4798,14 +5199,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63",
-    "name": "Miaw Token",
-    "symbol": "MIAW",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://www.miaw-trader.com/logo.png"
-  },
-  {
     "id": "terra1pshxc56zwgm6j78mhjgn2rgkj5d32aa887l7j6",
     "name": "Micro Kwon",
     "symbol": "mcKWON",
@@ -4818,14 +5211,6 @@
     "symbol": "PETS",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1227ppwxxj3jxz8cfgq00jgnxqcny7ryenvkwj6",
-    "name": "Microsoft Corporation",
-    "symbol": "mMSFT",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/MSFT.png"
   },
   {
     "id": "terra1yrch507vhsmd9rue6q3v8pz4pe445jl09nrvz6",
@@ -4890,16 +5275,6 @@
     "symbol": "MIR",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6",
-    "name": "Mirror",
-    "symbol": "MIR",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/mirror-protocol/",
-    "coingecko": "https://www.coingecko.com/en/coins/mirror-protocol"
   },
   {
     "id": "terra1h4hvry62zk4zh0udecqmatfg02phnyu6hq74xd",
@@ -5027,8 +5402,7 @@
     "name": "Nebula Token",
     "symbol": "NEB",
     "decimals": "6",
-    "type": "cw20",
-    "icon": "https://assets.neb.money/icons/NEB.png"
+    "type": "cw20"
   },
   {
     "id": "terra1cczv3ck2r909w64n9rdqs3gh5gsmwumh4utz49",
@@ -5036,14 +5410,6 @@
     "symbol": "mNFLX",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k",
-    "name": "Netflix, Inc.",
-    "symbol": "mNFLX",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/NFLX.png"
   },
   {
     "id": "terra1nagqpmyw55yjphea4rhntlfv87ugmeaj8ym756",
@@ -5093,35 +5459,11 @@
     "icon": "https://terra.nexusprotocol.app/nAVAX.svg"
   },
   {
-    "id": "terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn",
-    "name": "Nexus bETH Token",
-    "symbol": "nETH",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://terra.nexusprotocol.app/nEth.svg"
-  },
-  {
     "id": "terra1f887h6wqygswcp4arjjak6mpdhwlrv6nj8y9wt",
     "name": "Nexus bETH token share representation",
     "symbol": "nETH",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j",
-    "name": "Nexus bLUNA Token",
-    "symbol": "nLUNA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://terra.nexusprotocol.app/nLuna.svg"
-  },
-  {
-    "id": "terra12897djskt9rge8dtmm86w654g7kzckkd698608",
-    "name": "Nexus Governance Token",
-    "symbol": "Psi",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://terra.nexusprotocol.app/assets/psi.png"
   },
   {
     "id": "terra15z4tj56cdpdk5jxf28nep3ep0myu0frhlh6f3u",
@@ -5345,16 +5687,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03",
-    "name": "Orion Money Token",
-    "symbol": "ORION",
-    "decimals": "8",
-    "type": "cw20",
-    "icon": "https://orion.money/assets/ORION-LOGO-2.1-GREEN@256x256.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/orion-money/",
-    "coingecko": "https://www.coingecko.com/en/coins/orion-money"
-  },
-  {
     "id": "terra1yhlhrea3rgyx2xdnsswsfakn28qa8z7yp5gmhd",
     "name": "Orion Money xASTRO Derivative Token",
     "symbol": "orionASTRO",
@@ -5428,14 +5760,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1rh2907984nudl7vh56qjdtvv7947z4dujj92sx",
-    "name": "PayPal Holdings Inc",
-    "symbol": "mPYPL",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/PYPL.png"
-  },
-  {
     "id": "terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s",
     "name": "PEPSON TOKEN",
     "symbol": "PEPON",
@@ -5500,14 +5824,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu",
-    "name": "PlayNity token",
-    "symbol": "PLY",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://i.ibb.co/Snt8gXx/Projekt-bez-tytu-u-3.png"
-  },
-  {
     "id": "terra1kdkcxnsldqmj50ll77gmq5x26u69z8m69hdas6",
     "name": "PLEASE DONT BUY",
     "symbol": "PDB",
@@ -5529,14 +5845,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra19ya4jpvjvvtggepvmmj6ftmwly3p7way0tt08r",
-    "name": "Polkadot",
-    "symbol": "mDOT",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/DOT.png"
-  },
-  {
     "id": "terra130fhr9jz0nylzhdvuwcpp3hne2s5qlft6hfzgv",
     "name": "PORT Token",
     "symbol": "PORT",
@@ -5549,14 +5857,6 @@
     "symbol": "PSAYVE",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau",
-    "name": "Prism cLUNA Token",
-    "symbol": "cLUNA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://home.prismprotocol.app/cluna.png"
   },
   {
     "id": "terra12y2uzvrn3j4y5390kfljtpq6z3wqflyg0wls2z",
@@ -5573,22 +5873,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz",
-    "name": "Prism Governance Token",
-    "symbol": "xPRISM",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://prismprotocol.app/xprism.png"
-  },
-  {
-    "id": "terra1tlgelulz9pdkhls6uglfn5lmxarx7f2gxtdzh2",
-    "name": "Prism pLUNA Token",
-    "symbol": "pLUNA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://home.prismprotocol.app/pluna.png"
-  },
-  {
     "id": "terra1krg7amkeenvqwkaarp4r4grmrnldd83lmkl26u",
     "name": "PRISM Protocol",
     "symbol": "PRISM",
@@ -5603,27 +5887,11 @@
     "type": "cw20"
   },
   {
-    "id": "terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw",
-    "name": "Prism Protocol Token",
-    "symbol": "PRISM",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://prismprotocol.app/prism.png"
-  },
-  {
     "id": "terra1jn0w9ttjavzqeqmp79jzx3da6dx3p6jwmm6tk2",
     "name": "Prism Token",
     "symbol": "PRISM",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz",
-    "name": "Prism yLUNA Token",
-    "symbol": "yLUNA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://home.prismprotocol.app/yluna.png"
   },
   {
     "id": "terra1djd0hmv2hq8s0g9hs53s7gmc2phgg33kqq4uul",
@@ -5652,22 +5920,6 @@
     "symbol": "mVIXY",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra19cmt6vzvhnnnfsmccaaxzy2uaj06zjktu6yzjx",
-    "name": "ProShares VIX Short-Term Futures ETF",
-    "symbol": "mVIXY",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
-  },
-  {
-    "id": "terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45",
-    "name": "ProShares VIX Short-Term Futures ETF (Delisted)",
-    "symbol": "mVIXY",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
   },
   {
     "id": "terra128pe5jpempxu0nws5lw28se9zknhsr78626cpn",
@@ -5735,16 +5987,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy",
-    "name": "Pylon MINE Token",
-    "symbol": "MINE",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://assets.pylon.rocks/logo/MINE.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/pylon-protocol/",
-    "coingecko": "https://www.coingecko.com/en/coins/pylon-protocol"
-  },
-  {
     "id": "terra1u9hgxjw5k0aje9xjf0ejfu6uwmamc2k8ylzd7l",
     "name": "Pylon MINE Token",
     "symbol": "MINE",
@@ -5786,14 +6028,6 @@
     "symbol": "reASTRO",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93",
-    "name": "Reactor Token",
-    "symbol": "RCT",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://reactor.money/assets/logo.svg"
   },
   {
     "id": "terra1tdc7hmydg3es6lmn2asfwfgs8ykq7xa0nz9rkh",
@@ -5847,29 +6081,11 @@
     "type": "cw20"
   },
   {
-    "id": "terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr",
-    "name": "Robinhood Markets, Inc.",
-    "symbol": "mHOOD",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/HOOD.png"
-  },
-  {
     "id": "terra19qad83kr29qg89fpl4qh8m02wapmlwzpw5hvc4",
     "name": "RoboHero",
     "symbol": "ROBO",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp",
-    "name": "RoboHero",
-    "symbol": "ROBO",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://i.ibb.co/nmhRXB9/token.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/robohero/",
-    "coingecko": "https://www.coingecko.com/en/coins/robohero"
   },
   {
     "id": "terra1gpwkclxwwuzd5wyjw2qn3km0r5ge4t4f4mnf0x",
@@ -6219,30 +6435,6 @@
     "icon": "https://sooahphoto.co.kr/icon/logo.png"
   },
   {
-    "id": "terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq",
-    "name": "Space Dollars",
-    "symbol": "SDOLLAR",
-    "decimals": "2",
-    "type": "cw20",
-    "icon": "https://spacedollars.money/wp-content/uploads/2021/10/spacedollars512x512.png"
-  },
-  {
-    "id": "terra1z2u9p4x9cnp7c44rnntxzhgqlnepv8elmde43d",
-    "name": "Space Dollars Ticket - Lootopians",
-    "symbol": "SDLTIC",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://terrafloki.io/SDTIC2-logo.svg"
-  },
-  {
-    "id": "terra15uc875u7uu8xyqf833nxwh5x4dm2kmu29u04vl",
-    "name": "Space Dollars Ticket - SpacePets",
-    "symbol": "SDTICI",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://terrafloki.io/SDOLLAR_ticket.png"
-  },
-  {
     "id": "terra1j3w0tswl56yxduhen4gnela7m4we86w9xkwaee",
     "name": "Space Haven",
     "symbol": "SPH",
@@ -6257,24 +6449,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1aa00lpfexyycedfg5k2p60l9djcmw0ue5l8fhc",
-    "name": "SPDR S&P 500",
-    "symbol": "mSPY",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/SPY.png"
-  },
-  {
-    "id": "terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr",
-    "name": "Spectrum Token",
-    "symbol": "SPEC",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://terra.spec.finance/assets/SPEC.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/spectrum-token/",
-    "coingecko": "https://www.coingecko.com/en/coins/spectrum-token"
-  },
-  {
     "id": "terra1k9ltsdc6e4ay4g8f8nt8qd7my9yyd27m7eh82d",
     "name": "SpeicherX_Lovers",
     "symbol": "SPX",
@@ -6287,14 +6461,6 @@
     "symbol": "SPD",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1u43zu5amjlsgty5j64445fr9yglhm53m576ugh",
-    "name": "Square, Inc.",
-    "symbol": "mSQ",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/SQ.png"
   },
   {
     "id": "terra16gnk7mpqr84f4mnmqjklpdxxe602dn0fjslwhy",
@@ -6433,24 +6599,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1246zy658dfgtausf0c4a6ly8sc2e285q4kxqga",
-    "name": "Starbucks Corporation",
-    "symbol": "mSBUX",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/SBUX.png"
-  },
-  {
-    "id": "terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n",
-    "name": "StarTerra Token",
-    "symbol": "STT",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://starterra.io/assets/100x100_starterra.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/starterra/",
-    "coingecko": "https://www.coingecko.com/en/coins/starterra"
-  },
-  {
     "id": "terra146fhkmq8d7ae3e6jemufy4h5eq9zerftm8wzmt",
     "name": "Stest",
     "symbol": "Stest",
@@ -6520,14 +6668,6 @@
     "symbol": "SWAP",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1g53pyke8jtmt4lwvk4yl0xaqc4u0qlsl8dz3ex",
-    "name": "Synthetic UST Token",
-    "symbol": "kUST",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://app.astroport.fi/tokens/kUST.svg"
   },
   {
     "id": "terra10vvl9llw4p7ca2zhmcdljk5el9fkpp9hg6qy53",
@@ -6945,14 +7085,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
-    "name": "Terra Name Service",
-    "symbol": "TNS",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://tns.money/static/images/token-logo.svg"
-  },
-  {
     "id": "terra1xy2gf523j92khfn8nx0uurkmkguul2u95cwv8v",
     "name": "Terra Name Service",
     "symbol": "TNS",
@@ -7106,8 +7238,7 @@
     "name": "Terra World Token",
     "symbol": "TWD",
     "decimals": "6",
-    "type": "cw20",
-    "icon": "https://app.terraworld.me/static/media/logo.f81b8104.png"
+    "type": "cw20"
   },
   {
     "id": "terra1dmkfkt5em3heh003hc9e0sqmplh2cp7vmuxv59",
@@ -7263,15 +7394,6 @@
     "symbol": "TLAND",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc",
-    "name": "TerraLand Token",
-    "symbol": "TLAND",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-land/"
   },
   {
     "id": "terra19y395vzlylv3s3nasr7cu4yey7s22ghqd35ps8",
@@ -11149,14 +11271,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh",
-    "name": "Tesla, Inc.",
-    "symbol": "mTSLA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/TSLA.png"
-  },
-  {
     "id": "terra14rq6etqgza9qqpgz9yjfmsclgnzhk9jsafdtyc",
     "name": "test",
     "symbol": "test",
@@ -11682,8 +11796,7 @@
     "name": "TFloki NFT TICKET",
     "symbol": "TFTIC",
     "decimals": "6",
-    "type": "cw20",
-    "icon": "https://terrafloki.io/ticket_logo.png"
+    "type": "cw20"
   },
   {
     "id": "terra1xt9fgu7965kgvunnjts9zkprd8986kcc444q86",
@@ -11940,14 +12053,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1cc3enj9qgchlrj34cnzhwuclc4vl2z3jl7tkqg",
-    "name": "Twitter, Inc.",
-    "symbol": "mTWTR",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/TWTR.png"
-  },
-  {
     "id": "terra158y6aypem94yj34ycvgdm3py23afhnu2dj24ak",
     "name": "TXXC Token",
     "symbol": "TXXC",
@@ -11990,14 +12095,6 @@
     "symbol": "mUSO",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1lvmx8fsagy70tv0fhmfzdw9h6s3sy4prz38ugf",
-    "name": "United States Oil Fund, LP",
-    "symbol": "mUSO",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitelist.mirror.finance/icon/USO.png"
   },
   {
     "id": "terra1av9tfs7k5gfuzm04e7p0d4ezrc53vq9mn3m08z",
@@ -12192,14 +12289,6 @@
     "symbol": "WHC",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz",
-    "name": "Whale Token",
-    "symbol": "WHALE",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://whitewhale.money/logo-small.svg"
   },
   {
     "id": "terra19v4cg3w698qprsjwzw52cns6245vkxug74q9lc",
@@ -12407,14 +12496,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh",
-    "name": "Wormhole:XDEFI",
-    "symbol": "whXDEFI",
-    "decimals": "8",
-    "type": "cw20",
-    "icon": "https://github.com/sushiswap/assets/blob/master/blockchains/ethereum/assets/0x72B886d09C117654aB7dA13A14d603001dE0B777/logo.png?raw=true"
-  },
-  {
     "id": "terra133q7a0uctlld9kru6put3hk99qvxm9qzmklu9f",
     "name": "Wouaf Token",
     "symbol": "WOUAF",
@@ -12487,14 +12568,6 @@
     "symbol": "XDEFI",
     "decimals": "3",
     "type": "cw20"
-  },
-  {
-    "id": "terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4",
-    "name": "xMars Token",
-    "symbol": "XMARS",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://marsprotocol.io/xMARSTokenMini.svg"
   },
   {
     "id": "terra103ws85fnvy3j9vr3ss9va2zr26vepemqx2n88u",
