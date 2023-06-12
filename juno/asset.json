@@ -1,67 +1,5 @@
 [
   {
-    "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-    "entity": "Cosmos",
-    "name": "Atom",
-    "symbol": "ATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
-    "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
-  },
-  {
-    "id": "ujuno",
-    "entity": "Juno",
-    "name": "Juno",
-    "symbol": "JUNO",
-    "decimals": "6",
-    "type": "native",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
-    "coingecko": "https://www.coingecko.com/en/coins/juno-network"
-  },
-  {
-    "id": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-    "entity": "Osmosis",
-    "name": "Osmosis",
-    "symbol": "OSMO",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
-    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
-  },
-  {
-    "id": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD",
-    "entity": "Secret Network",
-    "name": "Secret",
-    "symbol": "SCRT",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/scrt.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/secret",
-    "coingecko": "https://www.coingecko.com/en/coins/secret"
-  },
-  {
-    "id": "juno173c59crjqeec28cpzs7n0y7hm4cd308zda8z6j4cnl6pct3stenseg2dxp",
-    "entity": "Steak",
-    "name": "Steak Token",
-    "symbol": "STEAK",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Steak.png"
-  },
-  {
-    "id": "ibc/107D152BB3176FAEBF4C2A84C5FFDEEA7C7CB4FE1BBDAB710F1FD25BCD055CBF",
-    "entity": "Terra Money",
-    "name": "Luna",
-    "symbol": "LUNA",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "/logos/luna.svg"
-  },
-  {
     "id": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A",
     "entity": "Akash Network",
     "name": "Akash Network",
@@ -73,38 +11,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/akash-network"
   },
   {
-    "id": "juno1a0khag6cfzu5lrwazmyndjgvlsuk7g4vn9jd8ceym8f4jf6v2l9q6d348a",
-    "name": "Amplified JUNO",
-    "symbol": "ampJUNO",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/ampjuno.png"
-  },
-  {
-    "id": "ibc/2F7C2A3D5D42553ED46F57D8B0DE3733B1B5FF571E2C6A051D34525904B4C0AF",
-    "name": "ampWHALE",
-    "symbol": "ampWHALE",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
-  },
-  {
-    "id": "juno1hnftys64ectjfynm6qjk9my8jd3f6l9dq9utcd3dy8ehwrsx9q4q7n9uxt",
-    "name": "Aqua",
-    "symbol": "AQUA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/AQUA.png"
-  },
-  {
-    "id": "juno1w7kspnu3j4hmzvsltsk00xujfa84sf502vs2zjcawl03vgn7vj3sww9mh7",
-    "name": "Aqua",
-    "symbol": "AQUA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/AQUA.png"
-  },
-  {
     "id": "juno1hy0ky3pe742phd4w55tdfej0ez55h4jx4g06rp4wsa0mne9wzudqy4hum2",
     "entity": "Arto DAO",
     "name": "Arto DAO",
@@ -112,14 +18,6 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/arto.png"
-  },
-  {
-    "id": "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F",
-    "name": "Asset Mantle",
-    "symbol": "MNTL",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
   },
   {
     "id": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9",
@@ -144,46 +42,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/bitsong"
   },
   {
-    "id": "juno1mvkgcr5uce2rnpzr4qrzf50hx4qreuwzlt7fzsjrhjud3xnjmttq5mkh2m",
-    "name": "bJuno",
-    "symbol": "bJuno",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://app.whitewhale.money/logos/bJUNO.png"
-  },
-  {
-    "id": "juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq",
-    "name": "Block",
-    "symbol": "BLOCK",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/MarbleDAO/brand-assets/main/block.png"
-  },
-  {
-    "id": "juno17r2vpc5enkyfe2xle9sedxdq3msfpacwcfp9rnr6jc3e7v6av0jqmfyfzp",
-    "name": "BOOBA",
-    "symbol": "BOOB",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "juno1vaeuky9hqacenay9nmuualugvv54tdhyt2wsvhnjasx9s946hhmqaq3kh7",
-    "entity": "Fortis Oeconomia",
-    "name": "Burned Fortis Oeconomia Token",
-    "symbol": "BFOT",
-    "decimals": "10",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bFOT.png"
-  },
-  {
-    "id": "ibc/01BAE2E69D02670B22758FBA74E4114B6E88FC1878936C919DA345E6C6C92ABF",
-    "name": "bWHALE",
-    "symbol": "bWHALE",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://app.whitewhale.money/logos/bWHALE.png"
-  },
-  {
     "id": "juno1vn38rzq0wc7zczp4dhy0h5y5kxh2jjzeahwe30c9cc6dw3lkyk5qn5rmfa",
     "entity": "CANLAB",
     "name": "CANLAB",
@@ -191,22 +49,6 @@
     "decimals": "3",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/cannalabs.png"
-  },
-  {
-    "id": "juno1t8dnpktypue65q0hjz7tr3cvqypgj5vkxhd2twvng4a2ywa3j25spjuk6z",
-    "name": "Cardinal Finance ",
-    "symbol": "PRIMO",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/primo.png"
-  },
-  {
-    "id": "juno1ju8k8sqwsqu5k6umrypmtyqu2wqcpnrkf4w4mntvl0javt4nma7s8lzgss",
-    "name": "CASA",
-    "symbol": "CASA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/CASA.png"
   },
   {
     "id": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241",
@@ -240,6 +82,17 @@
     "coingecko": "https://www.coingecko.com/en/coins/comdex"
   },
   {
+    "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+    "entity": "Cosmos",
+    "name": "Atom",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
+    "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
+  },
+  {
     "id": "juno1x02k67asfmjawgc96dj8nxq6se3fmx36gedgs5hvkjegdhfy97rs3jgj2h",
     "entity": "CZAR",
     "name": "CZAR",
@@ -247,14 +100,6 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/czar.png"
-  },
-  {
-    "id": "juno1p32te9zfhd99ehpxfd06hka6hc9p7tv5kyl5909mzedg5klze09qrg08ry",
-    "name": "Daisy Finance ",
-    "symbol": "DAISY",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/daisy.png"
   },
   {
     "id": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A",
@@ -290,26 +135,27 @@
     "coingecko": "https://www.coingecko.com/en/coins/e-money-eur"
   },
   {
-    "id": "juno1gzys54drag6753qq75mkt3yhjwyv4rp698kfvesh0wcy5737z4tsn0chtm",
-    "name": "FUTURE OF",
-    "symbol": "FUTURE",
-    "decimals": "6",
+    "id": "juno1vaeuky9hqacenay9nmuualugvv54tdhyt2wsvhnjasx9s946hhmqaq3kh7",
+    "entity": "Fortis Oeconomia",
+    "name": "Burned Fortis Oeconomia Token",
+    "symbol": "BFOT",
+    "decimals": "10",
     "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/futuretoken.png"
-  },
-  {
-    "id": "juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se",
-    "name": "Gelotto",
-    "symbol": "GLTO",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/glto.png"
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bFOT.png"
   },
   {
     "id": "juno10ynpq4wchr4ruu6mhrfh29495ep4cja5vjnkhz3j5lrgcsap9vtssyeekl",
     "entity": "Fortis Oeconomia",
     "name": "Grand Fortis Oeconomia Token",
     "symbol": "gFOT",
+    "decimals": "10",
+    "type": "cw20"
+  },
+  {
+    "id": "juno17c7zyezg3m8p2tf9hqgue9jhahvle70d59e8j9nmrvhw9anrpk8qxlrghx",
+    "entity": "Fortis Oeconomia",
+    "name": "Stable Fortis Oeconomia Token",
+    "symbol": "sFOT",
     "decimals": "10",
     "type": "cw20"
   },
@@ -322,14 +168,6 @@
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hopelogo.png",
     "coingecko": "https://www.coingecko.com/en/coins/hope-galaxy"
-  },
-  {
-    "id": "juno1g0wuyu2f49ncf94r65278puxzclf5arse9f3kvffxyv4se4vgdmsk4dvqz",
-    "name": "HOWL",
-    "symbol": "HOWL",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/HOWL.png"
   },
   {
     "id": "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx",
@@ -350,12 +188,15 @@
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/joedao.png"
   },
   {
-    "id": "juno10gthz5ufgrpuk5cscve2f0hjp56wgp90psqxcrqlg4m9mcu9dh8q4864xy",
-    "name": "Kleomedes",
-    "symbol": "KLEO",
+    "id": "ujuno",
+    "entity": "Juno",
+    "name": "Juno",
+    "symbol": "JUNO",
     "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/KLEO.png"
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
+    "coingecko": "https://www.coingecko.com/en/coins/juno-network"
   },
   {
     "id": "juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
@@ -379,14 +220,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/marble-dao"
   },
   {
-    "id": "juno1p8x807f6h222ur0vssqy3qk6mcpa40gw2pchquz5atl935t7kvyq894ne3",
-    "name": "MUSE",
-    "symbol": "MUSE",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/MUSE.png"
-  },
-  {
     "id": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
     "entity": "NETA",
     "name": "NETA",
@@ -404,6 +237,17 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/nmn.png"
+  },
+  {
+    "id": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+    "entity": "Osmosis",
+    "name": "Osmosis",
+    "symbol": "OSMO",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
+    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
     "id": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898",
@@ -426,14 +270,6 @@
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/PHMN.png"
   },
   {
-    "id": "juno13926947pmrjly5p9hf5juey65c6rget0gqrnx3us3r6pvnpf4hwqm8mchy",
-    "name": "PUNK",
-    "symbol": "PUNK",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/punk.png"
-  },
-  {
     "id": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
     "entity": "Racoon Supply",
     "name": "RAC",
@@ -452,6 +288,17 @@
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png"
   },
   {
+    "id": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD",
+    "entity": "Secret Network",
+    "name": "Secret",
+    "symbol": "SCRT",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/scrt.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/secret",
+    "coingecko": "https://www.coingecko.com/en/coins/secret"
+  },
+  {
     "id": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
     "entity": "Signal",
     "name": "Signal",
@@ -459,22 +306,6 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sgnl.png"
-  },
-  {
-    "id": "juno17c7zyezg3m8p2tf9hqgue9jhahvle70d59e8j9nmrvhw9anrpk8qxlrghx",
-    "entity": "Fortis Oeconomia",
-    "name": "Stable Fortis Oeconomia Token",
-    "symbol": "sFOT",
-    "decimals": "10",
-    "type": "cw20"
-  },
-  {
-    "id": "juno147t4fd3tny6hws6rha9xs5gah9qa6g7hrjv9tuvv6ce6m25sy39sq6yv52",
-    "name": "Stake Dragons",
-    "symbol": "DRGN",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/drgn.png"
   },
   {
     "id": "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3",
@@ -519,6 +350,24 @@
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"
   },
   {
+    "id": "juno173c59crjqeec28cpzs7n0y7hm4cd308zda8z6j4cnl6pct3stenseg2dxp",
+    "entity": "Steak",
+    "name": "Steak Token",
+    "symbol": "STEAK",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Steak.png"
+  },
+  {
+    "id": "ibc/107D152BB3176FAEBF4C2A84C5FFDEEA7C7CB4FE1BBDAB710F1FD25BCD055CBF",
+    "entity": "Terra Money",
+    "name": "Luna",
+    "symbol": "LUNA",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "/logos/luna.svg"
+  },
+  {
     "id": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75",
     "entity": "Terra Money",
     "name": "Terra Classic",
@@ -531,6 +380,7 @@
   },
   {
     "id": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27",
+    "entity": "Terra Money",
     "name": "Terra UST Classic",
     "symbol": "USTC",
     "decimals": "6",
@@ -547,6 +397,167 @@
     "decimals": "3",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/tuckermint.png"
+  },
+  {
+    "id": "juno1mkw83sv6c7sjdvsaplrzc8yaes9l42p4mhy0ssuxjnyzl87c9eps7ce3m9",
+    "entity": "WYND",
+    "name": "WYND",
+    "symbol": "WYND",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WYND.svg",
+    "coingecko": "httpshttps://www.coingecko.com/en/coins/wynd"
+  },
+  {
+    "id": "juno1a0khag6cfzu5lrwazmyndjgvlsuk7g4vn9jd8ceym8f4jf6v2l9q6d348a",
+    "name": "Amplified JUNO",
+    "symbol": "ampJUNO",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/ampjuno.png"
+  },
+  {
+    "id": "ibc/2F7C2A3D5D42553ED46F57D8B0DE3733B1B5FF571E2C6A051D34525904B4C0AF",
+    "name": "ampWHALE",
+    "symbol": "ampWHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
+  },
+  {
+    "id": "juno1hnftys64ectjfynm6qjk9my8jd3f6l9dq9utcd3dy8ehwrsx9q4q7n9uxt",
+    "name": "Aqua",
+    "symbol": "AQUA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/AQUA.png"
+  },
+  {
+    "id": "juno1w7kspnu3j4hmzvsltsk00xujfa84sf502vs2zjcawl03vgn7vj3sww9mh7",
+    "name": "Aqua",
+    "symbol": "AQUA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/AQUA.png"
+  },
+  {
+    "id": "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F",
+    "name": "Asset Mantle",
+    "symbol": "MNTL",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
+  },
+  {
+    "id": "juno1mvkgcr5uce2rnpzr4qrzf50hx4qreuwzlt7fzsjrhjud3xnjmttq5mkh2m",
+    "name": "bJuno",
+    "symbol": "bJuno",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://app.whitewhale.money/logos/bJUNO.png"
+  },
+  {
+    "id": "juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq",
+    "name": "Block",
+    "symbol": "BLOCK",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/MarbleDAO/brand-assets/main/block.png"
+  },
+  {
+    "id": "juno17r2vpc5enkyfe2xle9sedxdq3msfpacwcfp9rnr6jc3e7v6av0jqmfyfzp",
+    "name": "BOOBA",
+    "symbol": "BOOB",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "ibc/01BAE2E69D02670B22758FBA74E4114B6E88FC1878936C919DA345E6C6C92ABF",
+    "name": "bWHALE",
+    "symbol": "bWHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://app.whitewhale.money/logos/bWHALE.png"
+  },
+  {
+    "id": "juno1t8dnpktypue65q0hjz7tr3cvqypgj5vkxhd2twvng4a2ywa3j25spjuk6z",
+    "name": "Cardinal Finance ",
+    "symbol": "PRIMO",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/primo.png"
+  },
+  {
+    "id": "juno1ju8k8sqwsqu5k6umrypmtyqu2wqcpnrkf4w4mntvl0javt4nma7s8lzgss",
+    "name": "CASA",
+    "symbol": "CASA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/CASA.png"
+  },
+  {
+    "id": "juno1p32te9zfhd99ehpxfd06hka6hc9p7tv5kyl5909mzedg5klze09qrg08ry",
+    "name": "Daisy Finance ",
+    "symbol": "DAISY",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/daisy.png"
+  },
+  {
+    "id": "juno1gzys54drag6753qq75mkt3yhjwyv4rp698kfvesh0wcy5737z4tsn0chtm",
+    "name": "FUTURE OF",
+    "symbol": "FUTURE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/futuretoken.png"
+  },
+  {
+    "id": "juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se",
+    "name": "Gelotto",
+    "symbol": "GLTO",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/glto.png"
+  },
+  {
+    "id": "juno1g0wuyu2f49ncf94r65278puxzclf5arse9f3kvffxyv4se4vgdmsk4dvqz",
+    "name": "HOWL",
+    "symbol": "HOWL",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/HOWL.png"
+  },
+  {
+    "id": "juno10gthz5ufgrpuk5cscve2f0hjp56wgp90psqxcrqlg4m9mcu9dh8q4864xy",
+    "name": "Kleomedes",
+    "symbol": "KLEO",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/KLEO.png"
+  },
+  {
+    "id": "juno1p8x807f6h222ur0vssqy3qk6mcpa40gw2pchquz5atl935t7kvyq894ne3",
+    "name": "MUSE",
+    "symbol": "MUSE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/MUSE.png"
+  },
+  {
+    "id": "juno13926947pmrjly5p9hf5juey65c6rget0gqrnx3us3r6pvnpf4hwqm8mchy",
+    "name": "PUNK",
+    "symbol": "PUNK",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/punk.png"
+  },
+  {
+    "id": "juno147t4fd3tny6hws6rha9xs5gah9qa6g7hrjv9tuvv6ce6m25sy39sq6yv52",
+    "name": "Stake Dragons",
+    "symbol": "DRGN",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/drgn.png"
   },
   {
     "id": "juno1kqx9rhc8ksx52tukdx797k4rjrhkgfh4gljs04ql97hmnnkgyvxs5cqt7d",
@@ -579,15 +590,5 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/wyJUNO.png"
-  },
-  {
-    "id": "juno1mkw83sv6c7sjdvsaplrzc8yaes9l42p4mhy0ssuxjnyzl87c9eps7ce3m9",
-    "entity": "WYND",
-    "name": "WYND",
-    "symbol": "WYND",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WYND.svg",
-    "coingecko": "httpshttps://www.coingecko.com/en/coins/wynd"
   }
 ]
