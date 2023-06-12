@@ -197,6 +197,15 @@
     "coingecko": "https://www.coingecko.com/en/coins/usk"
   },
   {
+    "id": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
+    "entity": "Loop Finance",
+    "name": "Loop Protocol",
+    "symbol": "LOOP",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png"
+  },
+  {
     "id": "ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242",
     "entity": "Maker DAO",
     "name": "Dai Stablecoin",
@@ -318,6 +327,15 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
   {
+    "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+    "entity": "Team Local Money",
+    "name": "Local Money",
+    "symbol": "LOCAL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://localmoney.io/local-logo-dark.png"
+  },
+  {
     "id": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
     "entity": "Terra Money",
     "name": "Luna",
@@ -432,24 +450,6 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png"
-  },
-  {
-    "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
-    "entity": "Team Local Money",
-    "name": "Local Money",
-    "symbol": "LOCAL",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://localmoney.io/local-logo-dark.png"
-  },
-  {
-    "id": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
-    "entity": "Loop Finance",
-    "name": "Loop Protocol",
-    "symbol": "LOOP",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png"
   },
   {
     "id": "factory/kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a/ulp",
