@@ -88,6 +88,7 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd-cosmoshub.blockapsis.com/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -194,6 +195,8 @@
     "symbol": "JUNO",
     "decimals": "6",
     "type": "native",
+    "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://juno-api.reece.sh/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
@@ -245,6 +248,8 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -256,6 +261,8 @@
     "symbol": "XPRT",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/circulatingSupply",
+    "total_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/totalSupply",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/xprt.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/persistence",
     "coingecko": "https://www.coingecko.com/en/coins/persistence"
@@ -345,6 +352,8 @@
     "symbol": "STARS",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://supply-api.publicawesome.dev",
+    "total_supply_api": "https://supply-api.publicawesome.dev",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/stars.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stargaze/",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"
@@ -365,7 +374,9 @@
     "symbol": "LUNA",
     "decimals": "6",
     "type": "ibc",
-    "icon": "/logos/luna.svg"
+    "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=dWx1bmE%3D&pagination.limit=1",
+    "icon": "https://assets.terra.money/icon/svg/Luna.svg"
   },
   {
     "id": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75",
@@ -374,6 +385,8 @@
     "symbol": "LUNC",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://classicterra.money/api/v1/csupply",
+    "total_supply_api": "https://classicterra.money/api/v1/tsupply",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/lunc.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-classic"
@@ -405,6 +418,8 @@
     "symbol": "WYND",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://coingecko.wynddao.com/supply",
+    "total_supply_api": "https://coingecko.wynddao.com/supply",
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WYND.svg",
     "coingecko": "httpshttps://www.coingecko.com/en/coins/wynd"
   },
@@ -581,6 +596,8 @@
     "symbol": "WHALE",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://apex.migaloo.zone/api/supply",
+    "total_supply_api": "https://apex.migaloo.zone/api/supply",
     "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {

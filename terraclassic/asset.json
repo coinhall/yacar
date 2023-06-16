@@ -6,6 +6,7 @@
     "symbol": "ALTE",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://gblobscdn.gitbook.com/spaces%2F-Mf4Y6TIGwMtHEN3AaXV%2Favatar-1626907729941.png?alt=media"
   },
   {
@@ -26,6 +27,7 @@
     "symbol": "bETH",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
   },
   {
@@ -35,6 +37,7 @@
     "symbol": "bLUNA",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://whitelist.anchorprotocol.com/logo/bLUNA.png"
   },
   {
@@ -1154,6 +1157,7 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd-cosmoshub.blockapsis.com/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
@@ -1163,6 +1167,7 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd-cosmoshub.blockapsis.com/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
@@ -1217,6 +1222,8 @@
     "symbol": "KUJI",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
+    "total_supply_api": "https://lcd-kujira.mintthemoon.xyz/cosmos/bank/v1beta1/supply?pagination.key=dWt1amk=&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/KUJI.svg"
   },
   {
@@ -1321,6 +1328,7 @@
     "symbol": "LUV",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://source.lunaverse.io/circulation",
     "icon": "https://lunaverse.io/assets/images/logo.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/lunaverse/",
     "coingecko": "https://www.coingecko.com/en/coins/lunaverse"
@@ -1354,6 +1362,7 @@
     "symbol": "XMARS",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://marsprotocol.io/xMARSTokenMini.svg"
   },
   {
@@ -1707,6 +1716,7 @@
     "symbol": "ORION",
     "decimals": "8",
     "type": "cw20",
+    "circ_supply_api": "https://app.orion.money/circulating-supply.txt",
     "icon": "https://orion.money/assets/ORION-LOGO-2.1-GREEN@256x256.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/orion-money/",
     "coingecko": "https://www.coingecko.com/en/coins/orion-money"
@@ -1728,6 +1738,8 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg"
   },
   {
@@ -1737,6 +1749,7 @@
     "symbol": "PLY",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://playnity.io/api/?q=circulating-supply",
     "icon": "https://i.ibb.co/Snt8gXx/Projekt-bez-tytu-u-3.png"
   },
   {
@@ -1746,6 +1759,7 @@
     "symbol": "cLUNA",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://home.prismprotocol.app/cluna.png"
   },
   {
@@ -1755,6 +1769,7 @@
     "symbol": "xPRISM",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://prismprotocol.app/xprism.png"
   },
   {
@@ -1782,6 +1797,7 @@
     "symbol": "yLUNA",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://home.prismprotocol.app/yluna.png"
   },
   {
@@ -1802,6 +1818,7 @@
     "symbol": "RCT",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://reactor.money/assets/logo.svg"
   },
   {
@@ -1835,6 +1852,8 @@
     "symbol": "ROBO",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://robohero-io-api.vercel.app/token/circulatingsupply",
+    "total_supply_api": "https://robohero-io-api.vercel.app/token/totalsupply",
     "icon": "https://i.ibb.co/nmhRXB9/token.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/robohero/",
     "coingecko": "https://www.coingecko.com/en/coins/robohero"
@@ -1902,6 +1921,7 @@
     "symbol": "LunaX",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stader/",
     "coingecko": "https://www.coingecko.com/en/coins/stader"
@@ -1971,6 +1991,7 @@
     "symbol": "DOSH",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra14mvkydkwm2pzz62cgrkpeusphm4trrqrzd88ju/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://dogeshib.xyz/static/media/shiba-doge.0f2ade2f.png"
   },
   {
@@ -6581,6 +6602,7 @@
     "symbol": "sKUJI",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-fcd.publicnode.com/terra/wasm/v1beta1/contracts/terra188w26t95tf4dz77raftme8p75rggatxjxfeknw/store?query_msg=eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://assets.kujira.app/skuji.png"
   },
   {

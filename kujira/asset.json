@@ -84,6 +84,7 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd-cosmoshub.blockapsis.com/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos"
   },
@@ -104,6 +105,8 @@
     "symbol": "CRO",
     "decimals": "8",
     "type": "ibc",
+    "circ_supply_api": "https://rest.mainnet.crypto.org/cosmos/bank/v1beta1/supply?pagination.key=YmFzZWNybw==&pagination.limit=1",
+    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png",
     "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain"
   },
@@ -122,6 +125,8 @@
     "symbol": "EVMOS",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://rest.bd.evmos.org:1317/evmos/inflation/v1/circulating_supply",
+    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
     "coingecko": "https://www.coingecko.com/en/coins/evmos"
   },
@@ -172,6 +177,8 @@
     "symbol": "JUNO",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://juno-api.reece.sh/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
   },
@@ -182,6 +189,8 @@
     "symbol": "KUJI",
     "decimals": "6",
     "type": "native",
+    "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
+    "total_supply_api": "https://lcd-kujira.mintthemoon.xyz/cosmos/bank/v1beta1/supply?pagination.key=dWt1amk=&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png",
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
   },
@@ -222,6 +231,8 @@
     "symbol": "MARS",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://status.marsprotocol.io/cs",
+    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg",
     "coingecko": "https://www.coingecko.com/en/coins/mars-protocol"
   },
@@ -242,6 +253,8 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
@@ -302,6 +315,8 @@
     "symbol": "STARS",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://supply-api.publicawesome.dev",
+    "total_supply_api": "https://supply-api.publicawesome.dev",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"
   },
@@ -312,6 +327,7 @@
     "symbol": "stATOM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://stride-fleet.main.stridenet.co/api/cosmos/bank/v1beta1/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stride-staked-atom",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
@@ -323,6 +339,8 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://stride-fleet.main.stridenet.co/api/cosmos/bank/v1beta1/supply",
+    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
@@ -342,6 +360,8 @@
     "symbol": "LUNA",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=dWx1bmE%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.png",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2"
   },
@@ -352,6 +372,8 @@
     "symbol": "LUNC",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://classicterra.money/api/v1/csupply",
+    "total_supply_api": "https://classicterra.money/api/v1/tsupply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.svg",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna"
   },
@@ -519,6 +541,7 @@
     "symbol": "stINJ",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://stride-fleet.main.stridenet.co/api/cosmos/bank/v1beta1/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stinj.svg"
   },
   {
@@ -527,6 +550,7 @@
     "symbol": "stOSMO",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://stride-fleet.main.stridenet.co/api/cosmos/bank/v1beta1/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg"
   },
   {
@@ -577,6 +601,8 @@
     "symbol": "WHALE",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://apex.migaloo.zone/api/supply",
+    "total_supply_api": "https://apex.migaloo.zone/api/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/whitewhale.svg",
     "coingecko": "https://www.coingecko.com/en/coins/white-whale"
   },
