@@ -106,7 +106,6 @@
     "decimals": "8",
     "type": "ibc",
     "circ_supply_api": "https://rest.mainnet.crypto.org/cosmos/bank/v1beta1/supply?pagination.key=YmFzZWNybw==&pagination.limit=1",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png",
     "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain"
   },
@@ -126,7 +125,6 @@
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://rest.bd.evmos.org:1317/evmos/inflation/v1/circulating_supply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
     "coingecko": "https://www.coingecko.com/en/coins/evmos"
   },
@@ -178,7 +176,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://juno-api.reece.sh/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
   },
@@ -190,7 +187,6 @@
     "decimals": "6",
     "type": "native",
     "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
-    "total_supply_api": "https://lcd-kujira.mintthemoon.xyz/cosmos/bank/v1beta1/supply?pagination.key=dWt1amk=&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png",
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
   },
@@ -232,7 +228,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://status.marsprotocol.io/cs",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg",
     "coingecko": "https://www.coingecko.com/en/coins/mars-protocol"
   },
@@ -254,7 +249,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
@@ -316,7 +310,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://supply-api.publicawesome.dev",
-    "total_supply_api": "https://supply-api.publicawesome.dev",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"
   },
@@ -340,7 +333,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://stride-fleet.main.stridenet.co/api/cosmos/bank/v1beta1/supply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
@@ -361,7 +353,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
-    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=dWx1bmE%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.png",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2"
   },
@@ -373,7 +364,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://classicterra.money/api/v1/csupply",
-    "total_supply_api": "https://classicterra.money/api/v1/tsupply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.svg",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna"
   },
@@ -464,6 +454,15 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/glto.svg"
+  },
+  {
+    "id": "ibc/2034A2717C2E9F5C19285A7F697CECFA14F34784B912AD32B6E3D7833090EB16",
+    "name": "Jackal",
+    "symbol": "JKL",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/jackal/images/jkl.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/jackal-protocol"
   },
   {
     "id": "ibc/31ED168F5E93D988FCF223B1298113ACA818DB7BED8F7B73764C5C9FAC293609",
@@ -602,7 +601,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://apex.migaloo.zone/api/supply",
-    "total_supply_api": "https://apex.migaloo.zone/api/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/whitewhale.svg",
     "coingecko": "https://www.coingecko.com/en/coins/white-whale"
   },
