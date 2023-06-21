@@ -179,6 +179,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
   },
@@ -190,6 +191,7 @@
     "decimals": "6",
     "type": "native",
     "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
+    "total_supply_api": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=dWt1amk=&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png",
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
   },
@@ -315,6 +317,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://supply-api.publicawesome.dev",
+    "total_supply_api": "https://supply-api.publicawesome.dev",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"
   },
@@ -607,6 +610,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://apex.migaloo.zone/api/supply",
+    "total_supply_api": "https://apex.migaloo.zone/api/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/whitewhale.svg",
     "coingecko": "https://www.coingecko.com/en/coins/white-whale"
   },

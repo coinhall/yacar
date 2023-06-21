@@ -1099,6 +1099,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/JUNO.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
@@ -1111,6 +1112,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
+    "total_supply_api": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=dWt1amk=&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/KUJI.svg"
   },
   {
@@ -1896,6 +1898,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://apex.migaloo.zone/api/supply",
+    "total_supply_api": "https://apex.migaloo.zone/api/supply",
     "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
