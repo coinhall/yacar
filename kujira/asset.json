@@ -115,7 +115,10 @@
     "name": "Eris Amplified LUNA",
     "symbol": "ampLUNA",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "fhttps://rest.cosmos.directory/terra2/cosmwasm/wasm/v1/contract/terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
   },
   {
     "id": "ibc/F3AA7EF362EC5E791FE78A0F4CCC69FEE1F9A7485EB1A8CAB3F6601C00522F10",
