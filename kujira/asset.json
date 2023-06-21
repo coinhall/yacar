@@ -356,6 +356,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
+    "total_supply_api": "https://rest.cosmos.directory/terra2/cosmos/bank/v1beta1/supply?pagination.key=dWx1bmE%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.png",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2"
   },
