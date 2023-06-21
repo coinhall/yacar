@@ -1738,8 +1738,10 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg"
+    "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
+    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
     "id": "terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu",
@@ -1919,7 +1921,7 @@
     "symbol": "LunaX",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stader/",
     "coingecko": "https://www.coingecko.com/en/coins/stader"

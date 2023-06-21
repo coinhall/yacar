@@ -1190,6 +1190,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis/",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -1368,6 +1369,7 @@
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://rest.cosmos.directory/terra2/cosmwasm/wasm/v1/contract/terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stader-lunax/",
     "coingecko": "https://www.coingecko.com/en/coins/stader-lunax"
