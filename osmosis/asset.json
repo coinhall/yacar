@@ -387,7 +387,6 @@
     "decimals": "8",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/cryptoorgchain/cosmos/bank/v1beta1/supply?pagination.key=YmFzZWNybw==&pagination.limit=1",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cryptoorgchain/images/cro.png",
     "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain"
   },
@@ -469,7 +468,6 @@
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://rest.bd.evmos.org:1317/evmos/inflation/v1/circulating_supply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
     "coingecko": "https://www.coingecko.com/en/coins/evmos"
   },
@@ -610,7 +608,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
   },
@@ -682,7 +679,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
-    "total_supply_api": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=dWt1amk=&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png",
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
   },
@@ -814,7 +810,6 @@
     "decimals": "6",
     "type": "native",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -827,7 +822,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/circulatingSupply",
-    "total_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/totalSupply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg",
     "coingecko": "https://www.coingecko.com/en/coins/persistence"
   },
@@ -987,7 +981,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://supply-api.publicawesome.dev",
-    "total_supply_api": "https://supply-api.publicawesome.dev",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"
   },
@@ -1020,7 +1013,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stride",
     "coingecko": "https://www.coingecko.com/en/coins/stride"
@@ -1054,7 +1046,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
-    "total_supply_api": "https://rest.cosmos.directory/terra2/cosmos/bank/v1beta1/supply?pagination.key=dWx1bmE%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.png",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2"
   },
@@ -1066,7 +1057,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://classicterra.money/api/v1/csupply",
-    "total_supply_api": "https://classicterra.money/api/v1/tsupply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/luna.svg",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna"
   },
@@ -1138,7 +1128,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://coingecko.wynddao.com/supply",
-    "total_supply_api": "https://coingecko.wynddao.com/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/wynd.svg"
   },
   {
@@ -1265,6 +1254,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/block.svg"
+  },
+  {
+    "id": "ibc/DA961FE314B009C38595FFE3AF41225D8894D663B8C3F6650DCB5B6F8435592E",
+    "name": "BLUE CUB DAO",
+    "symbol": "BLUE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/blue.png"
   },
   {
     "id": "ibc/1FBA9E763B8679BEF7BAAAF2D16BCA78C3B297D226C3F31312C769D7B8F992D8",
@@ -1484,7 +1481,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://main.supply.agoric.net/supply?denom=ist",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
   },
   {
@@ -1544,6 +1540,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/light.png"
   },
   {
+    "id": "ibc/6F18EFEBF1688AA77F7EAC17065609494DC1BA12AFC78E9AEC832AF70A11BEF3",
+    "name": "Lion Cub DAO",
+    "symbol": "CUB",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/cub.png"
+  },
+  {
     "id": "ibc/98BCD43F190C6960D0005BC46BB765C827403A361C9C03C2FF694150A30284B0",
     "name": "Lion DAO",
     "symbol": "ROAR",
@@ -1590,7 +1594,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://status.marsprotocol.io/cs",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
   },
   {
@@ -1991,7 +1994,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://apex.migaloo.zone/api/supply",
-    "total_supply_api": "https://apex.migaloo.zone/api/supply",
     "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
