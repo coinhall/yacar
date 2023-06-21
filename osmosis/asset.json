@@ -386,7 +386,7 @@
     "symbol": "CRO",
     "decimals": "8",
     "type": "ibc",
-    "circ_supply_api": "https://rest.mainnet.crypto.org/cosmos/bank/v1beta1/supply?pagination.key=YmFzZWNybw==&pagination.limit=1",
+    "circ_supply_api": "https://rest.cosmos.directory/cryptoorgchain/cosmos/bank/v1beta1/supply?pagination.key=YmFzZWNybw==&pagination.limit=1",
     "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cryptoorgchain/images/cro.png",
     "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain"
