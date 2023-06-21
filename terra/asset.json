@@ -88,7 +88,6 @@
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "https://markets-api.astroport.fi/protocol/circulating-supply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
   {
@@ -1061,7 +1060,6 @@
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
   },
   {
@@ -1100,7 +1098,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://juno-api.reece.sh/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/JUNO.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
@@ -1113,7 +1110,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
-    "total_supply_api": "https://lcd-kujira.mintthemoon.xyz/cosmos/bank/v1beta1/supply?pagination.key=dWt1amk=&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/KUJI.svg"
   },
   {
@@ -1133,7 +1129,6 @@
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "https://raw.githubusercontent.com/lioncubdao/logo/main/blue_supply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/lioncubdao/logo/main/blue.png"
   },
   {
@@ -1144,7 +1139,6 @@
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "https://raw.githubusercontent.com/lioncubdao/logo/main/cub_supply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png"
   },
   {
@@ -1195,7 +1189,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis/",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -1336,7 +1329,6 @@
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/data/circulating-supply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
   },
   {
@@ -1375,7 +1367,6 @@
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stader-lunax/",
     "coingecko": "https://www.coingecko.com/en/coins/stader-lunax"
@@ -1397,7 +1388,6 @@
     "decimals": "6",
     "type": "native",
     "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
-    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=dWx1bmE%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/Luna.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
     "coingecko": "https://www.coingecko.com/en/coins/terra"
@@ -1872,7 +1862,6 @@
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "https://terra-api.valkyrieprotocol.com/partner/coinhall/circulating-supply",
-    "total_supply_api": "https://terra-api.valkyrieprotocol.com/partner/coinhall/total-supply",
     "icon": "https://app.valkyrieprotocol.com/icon_vkr.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/valkyrie-protocol/",
     "coingecko": "https://www.coingecko.com/en/coins/valkyrie-protocol"
@@ -1903,7 +1892,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://apex.migaloo.zone/api/supply",
-    "total_supply_api": "https://apex.migaloo.zone/api/supply",
     "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
@@ -2260,6 +2248,13 @@
     "symbol": "cluck",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "ibc/55892DEC5D6213E0353F76D72161037780DB2DCEF27C9134817808AD5005B35A",
+    "name": "cw20:juno12etxwkxvms0uy9ak8g3pyq6a53myukufdnx82pakzmjmpm77a0ksr9gs5v",
+    "symbol": "ibc/55892DEC5D6213E0353F76D72161037780DB2DCEF27C9134817808AD5005B35A",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz",
@@ -2930,7 +2925,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://stride-fleet.main.stridenet.co/api/cosmos/bank/v1beta1/supply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://assets.terra.money/icon/svg/ibc/STRD.svg"
   },
   {
@@ -3090,7 +3084,6 @@
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "fromTotalSupply",
-    "total_supply_api": "fromStaticAmount",
     "icon": "https://raw.githubusercontent.com/trumpdao/public/main/data/trump_logo.png"
   },
   {
