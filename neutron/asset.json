@@ -1,24 +1,36 @@
 [
   {
     "id": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
+    "entity": "Astroport",
     "name": "Astroport",
     "symbol": "ASTRO",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://markets-api.astroport.fi/protocol/circulating-supply",
+    "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
   {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-    "name": "Atom",
+    "entity": "Cosmos",
+    "name": "Cosmos",
     "symbol": "ATOM",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
+    "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
   },
   {
     "id": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
-    "name": "stuatom",
-    "symbol": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
+    "entity": "Stride",
+    "name": "stATOM",
+    "symbol": "stATOM",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
   },
   {
     "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
