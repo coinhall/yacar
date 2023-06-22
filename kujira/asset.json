@@ -35,7 +35,9 @@
     "name": "Astroport",
     "symbol": "ASTRO",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://markets-api.astroport.fi/protocol/circulating-supply",
+    "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
   {
     "id": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
@@ -416,7 +418,8 @@
     "name": "ampWHALE",
     "symbol": "ampWHALE",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
   },
   {
     "id": "ibc/D36D2BBE441D3605EEF340EAFAC57D669880597073050A2650B1468F1634A5F5",
