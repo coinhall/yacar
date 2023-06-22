@@ -1,5 +1,25 @@
 [
   {
+    "id": "neutron1adk7gupr0thjr3e6wcnlxr7ugclcg4cukv2np8la29dz38zuzymqjcv5s4",
+    "asset_ids": [
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
+      "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "neutron1kmuv6zmpr2nd3fnqefcffgfmhm74c8vhyerklaphrawyp3398gws74huny"
+  },
+  {
+    "id": "neutron1gexnrw67sqje6y8taeehlmrl5nyw0tn9vtpq6tgxs62upsjhql5q2glanc",
+    "asset_ids": [
+      "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
+      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "neutron1msr69q9w67js23lammhal9xp4jhc9c87xyrj8lckq95mted540wscpzh4c"
+  },
+  {
     "id": "terra102t6psqa45ahfd7wjskk3gcnfev32wdngkcjzd",
     "asset_ids": [
       "terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau",
@@ -518,6 +538,86 @@
     "dex": "Astroport",
     "type": "stable",
     "lp_token_id": "terra1d26uyepczdxxam5p4txx3cxslnk3ctsw8h907r"
+  },
+  {
+    "id": "neutron16yll06qup0j0mnjc7v68stmw939e73ykr3twtd78l3hqlkstm2ysr0k4q8",
+    "asset_ids": [
+      "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
+      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron1y7ty5e7gwq5770vrkzgkskgyjeyt48cfvd8x6ev9y66cyzk6320qumane4"
+  },
+  {
+    "id": "neutron17wg25zvvud2d27pnxjv76f5xk5tm5jfda4c7003valghrlju5u6q5dt83n",
+    "asset_ids": [
+      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron1n648rfqqvjxm6c7zgfnfqay85rkapgg0z7da9pnmjazz5m5d7l0qdqc773"
+  },
+  {
+    "id": "neutron18dll2ugfwfhjsytrm46r5dyv7gfka8q334wvxu824s0glev0hdlsg8757n",
+    "asset_ids": [
+      "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
+      "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron18ut0pkc574g2tmg67zs64lsndm3fxffz2qql850tac20l5g95ces9tdgph"
+  },
+  {
+    "id": "neutron1e22zh5p8meddxjclevuhjmfj69jxfsa8uu3jvht72rv9d8lkhves6t8veq",
+    "asset_ids": [
+      "untrn",
+      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron1jkcf80nd4pfc2krce3xk9m9y994pllq58avx89sfzqlalej4frus27ms3a"
+  },
+  {
+    "id": "neutron1jpm7j2cmj2mmk5pnxv20dxz869tw2vyy87qdl0xjasqnn23l04psudtf2y",
+    "asset_ids": [
+      "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron1vw93hy8tm3xekpz9286428gesmmc8dqxmw8cujsh3fcu3rt0hvdqvlyrrl"
+  },
+  {
+    "id": "neutron1l3gtxnwjuy65rzk63k352d52ad0f2sh89kgrqwczgt56jc8nmc3qh5kag3",
+    "asset_ids": [
+      "untrn",
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron1sx99fxy4lqx0nv3ys86tkdrch82qygxyec5c8dxsk9raz4at5zpq48m66c"
+  },
+  {
+    "id": "neutron1s2lr8u69xammmg3s8hemegcz57y07ae0wa7c7d2adupp6du3neyqd8ygp7",
+    "asset_ids": [
+      "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
+      "untrn"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron12zfwyzcpzyqwc7secjcmxa267n9quurr037sw449znnhdsn4w8qqpxcu7y"
+  },
+  {
+    "id": "neutron1y4048k0rn0y8wmcy8x6vj03w572g20xyj7s9zsarvcz283rslnyq9x50xx",
+    "asset_ids": [
+      "untrn",
+      "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron1jh29hfhqnq80s024f2qlraldhm8ukz6hezrcx7fzrasw806kyy2s78xus8"
   },
   {
     "id": "terra100csa9uvu6ksu98y95fr6m5aqstahagmq3gl2r",
