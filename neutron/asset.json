@@ -34,10 +34,12 @@
   },
   {
     "id": "untrn",
-    "name": "untrn",
+    "name": "Neutron",
     "symbol": "untrn",
     "decimals": "6",
-    "type": "native"
+    "type": "native",
+    "total_supply_api": "https://rest.cosmos.directory/neutron/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg"
   },
   {
     "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
