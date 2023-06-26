@@ -25,12 +25,12 @@ func validateYacarJSONs(filePaths []string) {
 
 			file, err := os.Open(filePath)
 			if err != nil {
-				panic(fmt.Errorf("error while opening file: %s", err))
+				log.Panicf("error while opening file: %s", err)
 			}
 			defer file.Close()
 
 			if err := validateYacarJSON(file); err != nil {
-				panic(fmt.Errorf("%s\npath: %s", err, filePath))
+				log.Panicf("%s\npath: %s", err, filePath)
 			}
 
 		}(filePath)

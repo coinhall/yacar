@@ -1,7 +1,6 @@
 package walker
 
 import (
-	"fmt"
 	"log"
 	"os"
 	"path/filepath"
@@ -38,7 +37,7 @@ func GetLocalYacarFilePaths(projRoot string) []string {
 
 		return nil
 	}); err != nil {
-		panic(fmt.Errorf("error while walking root dir: %s", err))
+		log.Panicf("error while walking root dir: %s", err)
 	}
 
 	filePaths := make([]string, 0, len(fpMap))
