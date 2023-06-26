@@ -15,9 +15,9 @@ func main() {
 		if r := recover(); r != nil {
 			switch err := r.(type) {
 			case error:
-				log.Printf("yacar ci error: %s\n", err.Error())
+				log.Printf("yacar ci error: %s", err.Error())
 			case string:
-				log.Printf("yacar ci error: %s\n", err)
+				log.Printf("yacar ci error: %s", err)
 			case fmt.Stringer:
 				log.Printf("yacar ci error: %s", err.String())
 			default:
