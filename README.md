@@ -79,6 +79,8 @@ type Asset = {
   decimals: string;
   // The type of this asset: "native" | "ibc" | "cw20" | "cw721" | "tokenfactory"
   type: string;
+  // The transaction hash that contains "Coinhall verification" memo
+  verification_tx?: string | undefined;
   // Following optional fields are all URL links
   circ_supply_api?: string | undefined;
   total_supply_api?: string | undefined;

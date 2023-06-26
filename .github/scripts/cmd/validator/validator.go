@@ -102,13 +102,12 @@ func validateAssetJSON(file *os.File) error {
 		idCount[asset.Id] = struct{}{}
 	}
 
-	// TODO: Update yacarsdk and replace with `asset.VerificationTx`
 	txCheck := make(map[string]struct{})
 	for _, asset := range assets {
-		if _, ok := idCount[asset.Id]; ok {
+		if _, ok := idCount[asset.VerificationTx]; ok {
 			return fmt.Errorf("duplicate asset tx hash: %s", asset.Id)
 		}
-		txCheck[asset.Id] = struct{}{}
+		txCheck[asset.VerificationTx] = struct{}{}
 	}
 	return nil
 }
