@@ -102,6 +102,17 @@ func validateAssetJSON(file *os.File) error {
 		idCount[asset.Id] = struct{}{}
 	}
 
+	txCheck := make(map[string]struct{})
+	for _, asset := range assets {
+		if asset.VerificationTx == "" {
+			continue
+		}
+
+		if _, ok := txCheck[asset.VerificationTx]; ok {
+			return fmt.Errorf("duplicate asset tx hash: %s", asset.Id)
+		}
+		txCheck[asset.VerificationTx] = struct{}{}
+	}
 	return nil
 }
 

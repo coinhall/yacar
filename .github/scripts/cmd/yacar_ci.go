@@ -10,9 +10,9 @@ import (
 )
 
 func main() {
-	projRoot := os.Getenv("ROOT_DIR")
-	if projRoot == "" {
-		log.Panicln("ROOT_DIR env var not set")
+	projRoot, ok := os.LookupEnv("ROOT_DIR")
+	if !ok {
+		log.Panicf("ROOT_DIR env var not set")
 	}
 
 	yacarFilePaths := walker.GetLocalYacarFilePaths(projRoot)
