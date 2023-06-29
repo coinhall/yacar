@@ -2371,8 +2371,8 @@
   },
   {
     "id": "ibc/7C5F3D31658C890C44A9FC2FDD5EB68242C33D851BA169DBEC37587A8F50B3D3",
-    "name": "factory:kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6:local",
-    "symbol": "ibc/7C5F3D31658C890C44A9FC2FDD5EB68242C33D851BA169DBEC37587A8F50B3D3",
+    "name": "Local Money",
+    "symbol": "LOCAL",
     "decimals": "6",
     "type": "ibc"
   },
@@ -2919,6 +2919,13 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228",
+    "name": "stATOM",
+    "symbol": "stATOM",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "terra175232yuat84jr5yx74mtz243egyyp904l9n69fvdzzkplhru5juqlv8ah6",
     "name": "Steady test",
     "symbol": "STDYTEST",
@@ -3117,8 +3124,8 @@
   },
   {
     "id": "ibc/7A6428206CBDE7B47F78A7A8CF4587CDCFD2B3BF06DD0352CEF678E88F1A501D",
-    "name": "ucrbrus",
-    "symbol": "ibc/7A6428206CBDE7B47F78A7A8CF4587CDCFD2B3BF06DD0352CEF678E88F1A501D",
+    "name": "Cerberus",
+    "symbol": "CRBRUS",
     "decimals": "6",
     "type": "ibc"
   },
@@ -3152,8 +3159,8 @@
   },
   {
     "id": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
-    "name": "umars",
-    "symbol": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
+    "name": "Mars",
+    "symbol": "MARS",
     "decimals": "6",
     "type": "ibc"
   },
