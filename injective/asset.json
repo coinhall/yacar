@@ -246,6 +246,13 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+    "name": "Astroport",
+    "symbol": "ASTRO",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "name": "Atom",
     "symbol": "ATOM",
@@ -258,20 +265,6 @@
     "symbol": "INJ",
     "decimals": "18",
     "type": "cw20"
-  },
-  {
-    "id": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-    "name": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
-    "symbol": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/FECCDCFA89278B117C76A11A946A7991A68E5DD12DED6EB938ADC1B1286AC591",
-    "name": "factory:kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6:local",
-    "symbol": "ibc/FECCDCFA89278B117C76A11A946A7991A68E5DD12DED6EB938ADC1B1286AC591",
-    "decimals": "6",
-    "type": "ibc"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
@@ -300,6 +293,13 @@
     "symbol": "GF",
     "decimals": "18",
     "type": "erc20"
+  },
+  {
+    "id": "ibc/FECCDCFA89278B117C76A11A946A7991A68E5DD12DED6EB938ADC1B1286AC591",
+    "name": "Local Money",
+    "symbol": "LOCAL",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
@@ -351,24 +351,24 @@
     "type": "erc20"
   },
   {
-    "id": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
-    "name": "stinj",
-    "symbol": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
-    "decimals": "18",
+    "id": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
+    "name": "Persistence",
+    "symbol": "XPRT",
+    "decimals": "6",
     "type": "ibc"
   },
   {
     "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
-    "name": "usomm",
-    "symbol": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
+    "name": "Sommelier",
+    "symbol": "SOMM",
     "decimals": "6",
     "type": "ibc"
   },
   {
-    "id": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
-    "name": "uxprt",
-    "symbol": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
-    "decimals": "6",
+    "id": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
+    "name": "stINJ",
+    "symbol": "stINJ",
+    "decimals": "18",
     "type": "ibc"
   }
 ]
