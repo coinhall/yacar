@@ -2243,6 +2243,13 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/7A6428206CBDE7B47F78A7A8CF4587CDCFD2B3BF06DD0352CEF678E88F1A501D",
+    "name": "Cerberus",
+    "symbol": "CRBRUS",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "terra14j4xzzg998arjejvzfxegn8zgn5hwgem6kd2az8lr5rfdc3tqddqs59a7h",
     "name": "CHECK DAO",
     "symbol": "CDD",
@@ -2368,13 +2375,6 @@
     "symbol": "uETH",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "ibc/7C5F3D31658C890C44A9FC2FDD5EB68242C33D851BA169DBEC37587A8F50B3D3",
-    "name": "Local Money",
-    "symbol": "LOCAL",
-    "decimals": "6",
-    "type": "ibc"
   },
   {
     "id": "terra1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q6nuam0",
@@ -2560,6 +2560,13 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/7C5F3D31658C890C44A9FC2FDD5EB68242C33D851BA169DBEC37587A8F50B3D3",
+    "name": "Local Money",
+    "symbol": "LOCAL",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "terra1xzkel96e5e8vfmqw7valzdzzv9hqasfyslclvnmvxdejvpda3xwsskxzus",
     "name": "Local Terra Token (Wormhole)",
     "symbol": "LOCAL",
@@ -2601,6 +2608,13 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg"
+  },
+  {
+    "id": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
+    "name": "Mars",
+    "symbol": "MARS",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra154klny52tlnjw46hkp3zunletuk9as37vrxxuyj2ucda9whycfysahrv8j",
@@ -3123,13 +3137,6 @@
     "type": "ibc"
   },
   {
-    "id": "ibc/7A6428206CBDE7B47F78A7A8CF4587CDCFD2B3BF06DD0352CEF678E88F1A501D",
-    "name": "Cerberus",
-    "symbol": "CRBRUS",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
     "id": "terra1f6lmzz9caag00uqssw4dlczrvlaeva4afn2yl3cxfd0ncawpelnqwmtj2d",
     "name": "ULUN-FRGY-LP",
     "symbol": "uLP",
@@ -3156,13 +3163,6 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
-    "name": "Mars",
-    "symbol": "MARS",
-    "decimals": "6",
-    "type": "ibc"
   },
   {
     "id": "terra1q4r4zzde2tg52306qevhnaf3qw76a68hnyzw404uuvvzx09n3ckqe2ylrm",
