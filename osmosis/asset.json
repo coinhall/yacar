@@ -763,6 +763,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/neta"
   },
   {
+    "id": "ibc/D9AFCECDD361D38302AA66EB3BAC23B95234832C51D12489DC451FA2B7C72782",
+    "entity": "Nolus",
+    "name": "Nolus",
+    "symbol": "NLS",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://supply.nolus.io/supply?type=circulating",
+    "total_supply_api": "https://supply.nolus.io/supply?type=total",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nolus/images/nolus.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nolus/",
+    "coingecko": "https://www.coingecko.com/en/coins/nolus"
+  },
+  {
     "id": "ibc/C360EF34A86D334F625E4CBB7DA3223AEA97174B61F35BB3758081A8160F7D9B",
     "entity": "Odin Protocol",
     "name": "Odin Protocol",
@@ -1682,14 +1695,6 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft25B30C386CDDEBD1413D5AE1180956AE9EB3B9F7.png"
-  },
-  {
-    "id": "ibc/D9AFCECDD361D38302AA66EB3BAC23B95234832C51D12489DC451FA2B7C72782",
-    "name": "Nolus",
-    "symbol": "NLS",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nolus/images/nolus.svg"
   },
   {
     "id": "ibc/B9606D347599F0F2FDF82BA3EE339000673B7D274EA50F59494DC51EFCD42163",
