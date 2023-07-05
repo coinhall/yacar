@@ -9,6 +9,7 @@ import (
 	"sync"
 
 	"github.com/coinhall/yacarsdk/v2"
+	"golang.org/x/exp/slices"
 )
 
 func Start(filePaths []string) {
@@ -102,9 +103,10 @@ func validateAssetJSON(file *os.File) error {
 		idCount[asset.Id] = struct{}{}
 	}
 
+	permissionedDex := []string{"osmosis-main", "kujira-fin"}
 	txCheck := make(map[string]struct{})
 	for _, asset := range assets {
-		if asset.VerificationTx == "" {
+		if asset.VerificationTx == "" || slices.Contains(permissionedDex, asset.VerificationTx) {
 			continue
 		}
 
