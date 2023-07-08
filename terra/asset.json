@@ -2406,10 +2406,12 @@
   },
   {
     "id": "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv",
+    "entity": "GEM DAO",
     "name": "GEM DAO",
     "symbol": "GEM",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://raw.githubusercontent.com/terragem/gem/main/assets/gem_sup"
     "icon": "https://raw.githubusercontent.com/terragem/gem/main/gem2.png"
   },
   {
