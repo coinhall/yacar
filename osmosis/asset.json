@@ -1289,6 +1289,15 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/23AB778D694C1ECFC59B91D8C399C115CC53B0BD1C61020D8E19519F002BDD85",
+    "name": "Archway",
+    "symbol": "ARCH",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/0F91EE8B98AAE3CF393D94CD7F89A10F8D7758C5EC707E721899DFE65C164C28",
     "name": "Arkh",
     "symbol": "ARKH",
@@ -1733,6 +1742,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/mnpu.svg"
+  },
+  {
+    "id": "ibc/DD3938D8131F41994C1F01F4EB5233DEE9A0A5B787545B9A07A321925655BF38",
+    "name": "MPWR",
+    "symbol": "MPWR",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/empowerchain/images/mpwr.png"
   },
   {
     "id": "ibc/6B982170CE024689E8DD0E7555B129B488005130D4EDA426733D552D10B36D8F",
