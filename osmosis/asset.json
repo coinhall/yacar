@@ -852,6 +852,7 @@
     "symbol": "ION",
     "decimals": "6",
     "type": "native",
+    "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dWlvbg%3D%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.svg",
     "coingecko": "https://www.coingecko.com/en/coins/ion",
     "verification_tx": "osmosis-main"
@@ -864,6 +865,7 @@
     "decimals": "6",
     "type": "native",
     "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis",
