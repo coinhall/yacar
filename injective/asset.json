@@ -5,7 +5,9 @@
     "name": "Injective",
     "symbol": "INJ",
     "decimals": "18",
-    "type": "native"
+    "type": "native",
+    "circ_supply_api": "https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
     "id": "peggy0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
