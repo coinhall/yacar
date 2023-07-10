@@ -5,12 +5,14 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"strconv"
 	"strings"
 	"sync"
 
 	"github.com/coinhall/yacarsdk/v2"
-	"golang.org/x/exp/slices"
 )
+
+const STATIC_TOTAL_SUPPLY_PREFIX = "static:"
 
 func Start(filePaths []string) {
 	validateYacarJSONs(filePaths)
@@ -103,10 +105,30 @@ func validateAssetJSON(file *os.File) error {
 		idCount[asset.Id] = struct{}{}
 	}
 
-	permissionedDex := []string{"osmosis-main", "kujira-fin"}
+	// Verify optional fields
+	// Static total supply
+	for _, asset := range assets {
+		// Skip checking assets with non-prefixed total API
+		if !strings.HasPrefix(asset.TotalSupplyAPI, STATIC_TOTAL_SUPPLY_PREFIX) {
+			continue
+		}
+
+		rawAmount := strings.TrimPrefix(asset.TotalSupplyAPI, STATIC_TOTAL_SUPPLY_PREFIX)
+		rawAmount = strings.TrimSpace(rawAmount)
+		if _, err := strconv.ParseFloat(rawAmount, 64); err != nil {
+			return fmt.Errorf("invalid static total supply format: %s", asset.TotalSupplyAPI)
+		}
+	}
+
+	// Non-permissioned DEX TxHash must be unique
+	permissionedDex := map[string]struct{}{
+		"osmosis-main": {},
+		"kujira-fin":   {},
+	}
 	txCheck := make(map[string]struct{})
 	for _, asset := range assets {
-		if asset.VerificationTx == "" || slices.Contains(permissionedDex, asset.VerificationTx) {
+		// If asset is from a permissioned DEX or is empty, skip
+		if _, ok := permissionedDex[asset.VerificationTx]; ok || asset.VerificationTx == "" {
 			continue
 		}
 
