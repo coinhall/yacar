@@ -2017,6 +2017,14 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/2F991B31CE426BCA00C5270F33AF520C2ACC73690541DBC84CBF68431D54DF04",
+    "name": "ampKUJI",
+    "symbol": "ampKUJI",
+    "decimals": "0",
+    "type": "ibc",
+    "icon": "https://assets.terra.money/icon/svg/ibc/ampKUJI.svg"
+  },
+  {
     "id": "terra1hva5lt2whpgav5hhsxfvegvkk2kjjshprzj7spe3cl24g4705asq4kx299",
     "name": "AMPL-IBC/-LP",
     "symbol": "uLP",
@@ -2234,6 +2242,14 @@
     "symbol": "CAPA",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
+    "name": "Carbon",
+    "symbol": "SWTH",
+    "decimals": "0",
+    "type": "ibc",
+    "icon": "https://assets.terra.money/icon/svg/ibc/SWTH.svg"
   },
   {
     "id": "terra170e8mepwmndwfgs5897almdewrt6phnkksktlf958s90eh055xvsrndvku",
@@ -2679,6 +2695,14 @@
     "symbol": "MHO",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "ibc/96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46",
+    "name": "MNTA",
+    "symbol": "MNTA",
+    "decimals": "0",
+    "type": "ibc",
+    "icon": "https://assets.terra.money/icon/svg/ibc/MNTA.svg"
   },
   {
     "id": "terra1jg848acg7rzt7tnz6zqaxzsc94w2yjhafad80d3uel9937grkmfsv8aycw",
@@ -3219,6 +3243,13 @@
     "name": "Wrapped LUNA Token (Wormhole)",
     "symbol": "LUNA",
     "decimals": "8",
+    "type": "cw20"
+  },
+  {
+    "id": "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
+    "name": "xxx",
+    "symbol": "xxx",
+    "decimals": "10",
     "type": "cw20"
   }
 ]
