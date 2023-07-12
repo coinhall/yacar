@@ -77,6 +77,8 @@
     "symbol": "CMDX",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.cros-nest.com/comdex-1/supply",
+    "total_supply_api": "https://rest.cosmos.directory/comdex/cosmos/bank/v1beta1/supply?pagination.key=dWNtZHg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/cmdx.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/comdex",
     "coingecko": "https://www.coingecko.com/en/coins/comdex"
@@ -461,6 +463,8 @@
     "symbol": "MNTL",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://supply.assetmantle.one/circulating-supply",
+    "total_supply_api": "https://supply.assetmantle.one/total-supply",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
   },
   {
