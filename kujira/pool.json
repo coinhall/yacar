@@ -81,6 +81,15 @@
     "type": "orderbook"
   },
   {
+    "id": "kujira140mxwk6w70yhrgumc0fv62p6aptgwx8t3eh9v08nq252dc5ur6qsyw6gg5",
+    "asset_ids": [
+      "ibc/B572E6F30E7C33D78A50D8B4E973A9C118C30F848DF31A95FAA5E4C7450A8BD0",
+      "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk"
+    ],
+    "dex": "FIN",
+    "type": "orderbook"
+  },
+  {
     "id": "kujira1467jk0ljtesmtcut5tec9j4a6rnu59vd38ea5n0q2y6k85qk803qqqhsg8",
     "asset_ids": [
       "ibc/0447761C090DB521DAC0268E8CB4EBF567E519B937DE6FECD2472AA6A1EDE658",
@@ -360,6 +369,15 @@
     "type": "orderbook"
   },
   {
+    "id": "kujira1ehwsdvgs3chpxuexktymjmmjj68m3h4q67p9vjj9rrgjqycc3gtsfzej24",
+    "asset_ids": [
+      "ibc/B572E6F30E7C33D78A50D8B4E973A9C118C30F848DF31A95FAA5E4C7450A8BD0",
+      "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7"
+    ],
+    "dex": "FIN",
+    "type": "orderbook"
+  },
+  {
     "id": "kujira1fkwjqyfdyktgu5f59jpwhvl23zh8aav7f98ml9quly62jx2sehysqa4unf",
     "asset_ids": [
       "ibc/A358D7F19237777AF6D8AD0E0F53268F8B18AE8A53ED318095C14D6D7F3B2DB5",
@@ -405,10 +423,28 @@
     "type": "orderbook"
   },
   {
+    "id": "kujira1hf44at7dqewrn3ssa392d9p8nh5mr538u59gqsukdza35663hlestqr29e",
+    "asset_ids": [
+      "ibc/B572E6F30E7C33D78A50D8B4E973A9C118C30F848DF31A95FAA5E4C7450A8BD0",
+      "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta"
+    ],
+    "dex": "FIN",
+    "type": "orderbook"
+  },
+  {
     "id": "kujira1hs95lgvuy0p6jn4v7js5x8plfdqw867lsuh5xv6d2ua20jprkgesw2pujt",
     "asset_ids": [
       "factory/kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a/ulp",
       "ukuji"
+    ],
+    "dex": "FIN",
+    "type": "orderbook"
+  },
+  {
+    "id": "kujira1hsdzhyvuc2z3f8d3yae84uk62d69vk68vxgudkun7gccz6hvrvfq0vx6fd",
+    "asset_ids": [
+      "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
+      "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta"
     ],
     "dex": "FIN",
     "type": "orderbook"
