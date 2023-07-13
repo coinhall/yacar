@@ -1299,6 +1299,7 @@
     "symbol": "ARCH",
     "decimals": "18",
     "type": "ibc",
+    "total_supply_api": "https://rest.cosmos.directory/archway/cosmos/bank/v1beta1/supply?pagination.key=YWFyY2g%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
     "verification_tx": "osmosis-main"
   },
