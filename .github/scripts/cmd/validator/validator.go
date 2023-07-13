@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"strconv"
+	"regexp"
 	"strings"
 	"sync"
 
@@ -104,18 +104,26 @@ func validateAssetJSON(file *os.File) error {
 	}
 
 	// Verify optional fields
-	// Static total supply
-	const STATIC_PREFIX = "static:"
+	staticSupplyRegex := regexp.MustCompile(`^\d+\.?\d*$`) // Matches 0 as well
+	// Circ supply check
 	for _, asset := range assets {
-		// Skip checking assets with non-prefixed total API
-		if !strings.HasPrefix(asset.TotalSupplyAPI, STATIC_PREFIX) {
-			continue
+		if len(asset.CircSupply) > 0 && len(asset.CircSupplyAPI) > 0 {
+			return fmt.Errorf("[%s] only 'circ_supply' or 'circ_supply_api' must be specified", asset.Id)
 		}
 
-		rawAmount := strings.TrimPrefix(asset.TotalSupplyAPI, STATIC_PREFIX)
-		rawAmount = strings.TrimSpace(rawAmount)
-		if amount, err := strconv.ParseFloat(rawAmount, 64); err != nil || amount < 0 {
-			return fmt.Errorf("invalid static total supply format: %s", asset.TotalSupplyAPI)
+		if len(asset.CircSupply) > 0 && !staticSupplyRegex.MatchString(asset.CircSupply) {
+			return fmt.Errorf("[%s] 'circ_supply' must be number greater than 0", asset.Id)
+		}
+	}
+
+	// Total supply check
+	for _, asset := range assets {
+		if len(asset.TotalSupply) > 0 && len(asset.TotalSupplyAPI) > 0 {
+			return fmt.Errorf("[%s] only 'total_supply' or 'total_supply_api' must be specified", asset.Id)
+		}
+
+		if len(asset.TotalSupply) > 0 && !staticSupplyRegex.MatchString(asset.TotalSupply) {
+			return fmt.Errorf("[%s] 'total_supply' must be number greater than 0", asset.Id)
 		}
 	}
 
