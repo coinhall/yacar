@@ -12,8 +12,6 @@ import (
 	"github.com/coinhall/yacarsdk/v2"
 )
 
-const STATIC_TOTAL_SUPPLY_PREFIX = "static:"
-
 func Start(filePaths []string) {
 	validateYacarJSONs(filePaths)
 	log.Println("Validated JSONs successfully...")
@@ -28,12 +26,12 @@ func validateYacarJSONs(filePaths []string) {
 
 			file, err := os.Open(filePath)
 			if err != nil {
-				log.Panicf("error while opening file: %s", err)
+				panic(fmt.Sprintf("error while opening file: %s", err))
 			}
 			defer file.Close()
 
 			if err := validateYacarJSON(file); err != nil {
-				log.Panicf("%s\npath: %s", err, filePath)
+				panic(fmt.Sprintf("%s\npath: %s", err, filePath))
 			}
 
 		}(filePath)
@@ -107,15 +105,16 @@ func validateAssetJSON(file *os.File) error {
 
 	// Verify optional fields
 	// Static total supply
+	const STATIC_PREFIX = "static:"
 	for _, asset := range assets {
 		// Skip checking assets with non-prefixed total API
-		if !strings.HasPrefix(asset.TotalSupplyAPI, STATIC_TOTAL_SUPPLY_PREFIX) {
+		if !strings.HasPrefix(asset.TotalSupplyAPI, STATIC_PREFIX) {
 			continue
 		}
 
-		rawAmount := strings.TrimPrefix(asset.TotalSupplyAPI, STATIC_TOTAL_SUPPLY_PREFIX)
+		rawAmount := strings.TrimPrefix(asset.TotalSupplyAPI, STATIC_PREFIX)
 		rawAmount = strings.TrimSpace(rawAmount)
-		if _, err := strconv.ParseFloat(rawAmount, 64); err != nil {
+		if amount, err := strconv.ParseFloat(rawAmount, 64); err != nil || amount < 0 {
 			return fmt.Errorf("invalid static total supply format: %s", asset.TotalSupplyAPI)
 		}
 	}
