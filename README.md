@@ -104,7 +104,7 @@ type Asset = {
 
 > With static total supply, and dynamic circulating supply.
 
-```json
+```ts
 {
   id: "ibc/example_asset_id",
   name: "Example Asset",
@@ -119,7 +119,7 @@ type Asset = {
 > Invalid example, with both static and dynamic circ supply.
 > Applies to total supply too
 
-```json
+```ts
 {
   id: "ibc/example_asset_id",
   name: "Example Asset",
