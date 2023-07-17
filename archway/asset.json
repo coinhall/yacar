@@ -1,5 +1,17 @@
 [
   {
+    "id": "aarch",
+    "entity": "Archway",
+    "name": "Archway",
+    "symbol": "ARCH",
+    "decimals": "18",
+    "type": "native",
+    "total_supply_api": "https://api.mainnet.archway.io/cosmos/bank/v1beta1/supply/aarch",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/archway/",
+    "coingecko": "https://www.coingecko.com/en/coins/archway"
+  },
+  {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
     "entity": "Cosmos",
     "name": "Atom",
@@ -7,7 +19,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
   },
@@ -18,21 +30,10 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "fromTotalSupply",
+    "circ_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
-  },
-  {
-    "id": "aarch",
-    "name": "Archway",
-    "symbol": "ARCH",
-    "decimals": "18",
-    "type": "native",
-    "total_supply_api": "https://api.mainnet.archway.io/cosmos/bank/v1beta1/supply/aarch",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/archway/",
-    "coingecko": "https://www.coingecko.com/en/coins/archway"
   }
 ]
