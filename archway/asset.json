@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "entity": "Cosmos",
+    "name": "Atom",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
+    "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
+  },
+  {
+    "id": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+    "entity": "Osmosis",
+    "name": "Osmosis",
+    "symbol": "OSMO",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "fromTotalSupply",
+    "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
+    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
+  },
+  {
+    "id": "aarch",
+    "name": "Archway",
+    "symbol": "ARCH",
+    "decimals": "18",
+    "type": "native",
+    "total_supply_api": "https://api.mainnet.archway.io/cosmos/bank/v1beta1/supply/aarch",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/archway/",
+    "coingecko": "https://www.coingecko.com/en/coins/archway"
+  }
+]
