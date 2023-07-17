@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"regexp"
+	"strconv"
 	"strings"
 	"sync"
 
@@ -103,27 +103,29 @@ func validateAssetJSON(file *os.File) error {
 		idCount[asset.Id] = struct{}{}
 	}
 
-	// Verify optional fields
-	staticSupplyRegex := regexp.MustCompile(`^\d+\.?\d*$`) // Matches 0 as well
 	// Circ supply check
 	for _, asset := range assets {
 		if len(asset.CircSupply) > 0 && len(asset.CircSupplyAPI) > 0 {
-			return fmt.Errorf("[%s] only 'circ_supply' or 'circ_supply_api' must be specified", asset.Id)
+			return fmt.Errorf("[%s] either 'circ_supply' or 'circ_supply_api' must be specified, but not both", asset.Id)
 		}
 
-		if len(asset.CircSupply) > 0 && !staticSupplyRegex.MatchString(asset.CircSupply) {
-			return fmt.Errorf("[%s] 'circ_supply' must be number greater than 0", asset.Id)
+		if len(asset.CircSupply) > 0 {
+			if parsed, err := strconv.ParseFloat(asset.CircSupply, 64); err != nil && parsed > 0 {
+				return fmt.Errorf("[%s] 'circ_supply' must be float greater than 0", asset.Id)
+			}
 		}
 	}
 
 	// Total supply check
 	for _, asset := range assets {
 		if len(asset.TotalSupply) > 0 && len(asset.TotalSupplyAPI) > 0 {
-			return fmt.Errorf("[%s] only 'total_supply' or 'total_supply_api' must be specified", asset.Id)
+			return fmt.Errorf("[%s] either 'total_supply' or 'total_supply_api' must be specified, but not both", asset.Id)
 		}
 
-		if len(asset.TotalSupply) > 0 && !staticSupplyRegex.MatchString(asset.TotalSupply) {
-			return fmt.Errorf("[%s] 'total_supply' must be number greater than 0", asset.Id)
+		if len(asset.TotalSupply) > 0 {
+			if parsed, err := strconv.ParseFloat(asset.TotalSupply, 64); err != nil && parsed > 0 {
+				return fmt.Errorf("[%s] 'total_supply' must be number greater than 0", asset.Id)
+			}
 		}
 	}
 
