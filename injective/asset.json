@@ -80,6 +80,13 @@
     "type": "ibc"
   },
   {
+    "id": "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": "18",
+    "type": "erc20"
+  },
+  {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6kpxy6ar5lkxqudjvryarrrttmakwsvzkvcyh",
     "name": "chiliZ (Wormhole)",
     "symbol": "CHZ",
@@ -120,13 +127,6 @@
     "symbol": "EVMOS",
     "decimals": "18",
     "type": "ibc"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
-    "name": "USD Coin",
-    "symbol": "USDCET",
-    "decimals": "6",
-    "type": "tokenfactory"
   },
   {
     "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
@@ -178,44 +178,9 @@
     "type": "ibc"
   },
   {
-    "id": "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
-    "name": "Chainlink",
-    "symbol": "LINK",
-    "decimals": "18",
-    "type": "erc20"
-  },
-  {
-    "id": "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-    "name": "Polygon",
-    "symbol": "MATIC",
-    "decimals": "18",
-    "type": "erc20"
-  },
-  {
     "id": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
     "name": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
     "symbol": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-    "decimals": "18",
-    "type": "erc20"
-  },
-  {
-    "id": "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "name": "Wrapped Ethereum",
-    "symbol": "WETH",
-    "decimals": "18",
-    "type": "erc20"
-  },
-  {
-    "id": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "name": "Tether",
-    "symbol": "USDT",
-    "decimals": "6",
-    "type": "erc20"
-  },
-  {
-    "id": "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
-    "name": "Puggo",
-    "symbol": "PUG",
     "decimals": "18",
     "type": "erc20"
   },
@@ -232,6 +197,20 @@
     "symbol": "XPRT",
     "decimals": "6",
     "type": "ibc"
+  },
+  {
+    "id": "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "decimals": "18",
+    "type": "erc20"
+  },
+  {
+    "id": "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
+    "name": "Puggo",
+    "symbol": "PUG",
+    "decimals": "18",
+    "type": "erc20"
   },
   {
     "id": "peggy0x4a220E6096B25EADb88358cb44068A3248254675",
@@ -290,11 +269,25 @@
     "type": "erc20"
   },
   {
+    "id": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "erc20"
+  },
+  {
     "id": "peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
     "name": "UNI",
     "symbol": "UNI",
     "decimals": "18",
     "type": "erc20"
+  },
+  {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
+    "name": "USD Coin",
+    "symbol": "USDCET",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj12pwnhtv7yat2s30xuf4gdk9qm85v4j3e60dgvu",
@@ -321,6 +314,13 @@
     "id": "peggy0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "name": "WBTC",
     "symbol": "WBTC",
+    "decimals": "18",
+    "type": "erc20"
+  },
+  {
+    "id": "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "name": "Wrapped Ethereum",
+    "symbol": "WETH",
     "decimals": "18",
     "type": "erc20"
   },
