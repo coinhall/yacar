@@ -89,6 +89,7 @@
     "symbol": "ASTRO",
     "decimals": "6",
     "type": "cw20",
+    "total_supply": "1099999997.921598",
     "icon": "https://astroport.fi/astro_logo.png"
   },
   {
@@ -1747,7 +1748,7 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "fromTotalSupply",
+    "circ_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
