@@ -8,6 +8,7 @@
   - [`contract.json`](#contractjson)
   - [`binary.json`](#binaryjson)
   - [`asset.json`](#assetjson)
+    - [Example assets](#example-assets)
   - [`entity.json`](#entityjson)
   - [`pool.json`](#pooljson)
 - [Contributing](#contributing)
@@ -65,8 +66,7 @@ Contains all verified and unverified **native / IBC / CW20 / CW721 assets**. Thi
 
 ```ts
 type Asset = {
-  // The contract address of the cw20 tokens
-  // or denom of the ibc/native coins
+  // The contract address of the cw20 tokens or denom of the ibc/native coins
   id: string;
   // The entity which created or controls `id`
   // A nullish value means that the asset is "unverified"
@@ -79,15 +79,57 @@ type Asset = {
   decimals: string;
   // The type of this asset: "native" | "ibc" | "cw20" | "cw721" | "tokenfactory"
   type: string;
+
+  // The following fields are all optional
   // The transaction hash that contains "Coinhall verification" memo
   verification_tx?: string | undefined;
-  // Following optional fields are all URL links
+
+  // Supply values, do not populate both static and dynamic amounts (see example below)
+  // Set the static amount of assets
+  circ_supply?: string | undefined;
+  total_supply?: string | undefined;
+
+  // Set the dynamic amount of assets through a URL link
   circ_supply_api?: string | undefined;
   total_supply_api?: string | undefined;
+
+  // These fields are all URL links
   icon?: string | undefined;
   coinmarketcap?: string | undefined;
   coingecko?: string | undefined;
 };
+```
+
+#### Example assets
+
+> With static total supply, and dynamic circulating supply.
+
+```ts
+{
+  id: "ibc/example_asset_id",
+  name: "Example Asset",
+  symbol: "EA",
+  decimals: "6",
+  type: "ibc",
+  circ_supply_api: "https://exampleasset.com/circulating_supply",
+  total_supply: "1000000"
+}
+```
+
+> Invalid example, with both static and dynamic circ supply.
+> Applies to total supply too
+
+```ts
+{
+  id: "ibc/example_asset_id",
+  name: "Example Asset",
+  symbol: "EA",
+  decimals: "6",
+  type: "ibc",
+  circ_supply: "1000000",
+  circ_supply_api: "https://exampleasset.com/circulating_supply",
+  total_supply: "1000000"
+}
 ```
 
 ### `entity.json`

@@ -1,7 +1,6 @@
 package main
 
 import (
-	"log"
 	"os"
 
 	"github.com/coinhall/yacar/cmd/sorter"
@@ -12,7 +11,7 @@ import (
 func main() {
 	projRoot, ok := os.LookupEnv("ROOT_DIR")
 	if !ok {
-		log.Panicf("ROOT_DIR env var not set")
+		panic("ROOT_DIR env var not set")
 	}
 
 	yacarFilePaths := walker.GetLocalYacarFilePaths(projRoot)

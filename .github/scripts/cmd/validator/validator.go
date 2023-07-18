@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"strconv"
 	"strings"
 	"sync"
 
 	"github.com/coinhall/yacarsdk/v2"
-	"golang.org/x/exp/slices"
 )
 
 func Start(filePaths []string) {
@@ -26,12 +26,12 @@ func validateYacarJSONs(filePaths []string) {
 
 			file, err := os.Open(filePath)
 			if err != nil {
-				log.Panicf("error while opening file: %s", err)
+				panic(fmt.Sprintf("error while opening file: %s", err))
 			}
 			defer file.Close()
 
 			if err := validateYacarJSON(file); err != nil {
-				log.Panicf("%s\npath: %s", err, filePath)
+				panic(fmt.Sprintf("%s\npath: %s", err, filePath))
 			}
 
 		}(filePath)
@@ -103,10 +103,41 @@ func validateAssetJSON(file *os.File) error {
 		idCount[asset.Id] = struct{}{}
 	}
 
-	permissionedDex := []string{"osmosis-main", "kujira-fin"}
+	// Circ supply check
+	for _, asset := range assets {
+		if len(asset.CircSupply) > 0 && len(asset.CircSupplyAPI) > 0 {
+			return fmt.Errorf("[%s] either 'circ_supply' or 'circ_supply_api' must be specified, but not both", asset.Id)
+		}
+
+		if len(asset.CircSupply) > 0 {
+			if parsed, err := strconv.ParseFloat(asset.CircSupply, 64); err != nil && parsed > 0 {
+				return fmt.Errorf("[%s] 'circ_supply' must be float greater than 0", asset.Id)
+			}
+		}
+	}
+
+	// Total supply check
+	for _, asset := range assets {
+		if len(asset.TotalSupply) > 0 && len(asset.TotalSupplyAPI) > 0 {
+			return fmt.Errorf("[%s] either 'total_supply' or 'total_supply_api' must be specified, but not both", asset.Id)
+		}
+
+		if len(asset.TotalSupply) > 0 {
+			if parsed, err := strconv.ParseFloat(asset.TotalSupply, 64); err != nil && parsed > 0 {
+				return fmt.Errorf("[%s] 'total_supply' must be number greater than 0", asset.Id)
+			}
+		}
+	}
+
+	// Non-permissioned DEX TxHash must be unique
+	permissionedDex := map[string]struct{}{
+		"osmosis-main": {},
+		"kujira-fin":   {},
+	}
 	txCheck := make(map[string]struct{})
 	for _, asset := range assets {
-		if asset.VerificationTx == "" || slices.Contains(permissionedDex, asset.VerificationTx) {
+		// If asset is from a permissioned DEX or is empty, skip
+		if _, ok := permissionedDex[asset.VerificationTx]; ok || asset.VerificationTx == "" {
 			continue
 		}
 
