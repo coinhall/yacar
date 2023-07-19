@@ -892,5 +892,45 @@
     ],
     "dex": "Helix",
     "type": "orderbook/perp"
+  },
+  {
+    "id": "inj14zykjnz94dr9nj4v2yzpvnlrw5uurk5hhea8xw",
+    "asset_ids": [
+      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "White Whale",
+    "type": "xyk",
+    "lp_token_id": "inj1j30wx6kjfsessdx5mlp32hqwklj48ufvxx6tyc"
+  },
+  {
+    "id": "inj17dez7atlgwrl7lxzszxjy7gzuj325n8re3f7mh",
+    "asset_ids": [
+      "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
+      "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2"
+    ],
+    "dex": "White Whale",
+    "type": "xyk",
+    "lp_token_id": "inj1a6tcf60pyz8qq2n532dzcs7s7sj8klcmj94nhd"
+  },
+  {
+    "id": "inj1gyxlm5j537d8pvl5eqfswya93delvh3nlhustk",
+    "asset_ids": [
+      "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
+      "ibc/168C3904C45C6FE3539AE85A8892DF87371D00EA7942515AFC50AA43C4BB0A32"
+    ],
+    "dex": "White Whale",
+    "type": "xyk",
+    "lp_token_id": "inj185gqewrlde8vrqw7j8lpad67v8jfrx9u28w38t"
+  },
+  {
+    "id": "inj1zfw930csx0k5qzf35vndaulwada4wa3pywekyx",
+    "asset_ids": [
+      "inj",
+      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "White Whale",
+    "type": "xyk",
+    "lp_token_id": "inj14n26cr7dj79smrgg44hfylhph9y45h4yx5gvzm"
   }
 ]
