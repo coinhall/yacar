@@ -124,7 +124,6 @@
     "decimals": "8",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/cryptoorgchain/cosmos/bank/v1beta1/supply?pagination.key=YmFzZWNybw==&pagination.limit=1",
-    "total_supply": "30000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png",
     "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain",
     "verification_tx": "kujira-fin"
@@ -149,7 +148,6 @@
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://rest.bd.evmos.org:1317/evmos/inflation/v1/circulating_supply",
-    "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
     "coingecko": "https://www.coingecko.com/en/coins/evmos",
     "verification_tx": "kujira-fin"
@@ -194,7 +192,6 @@
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
-    "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
     "coingecko": "https://www.coingecko.com/en/coins/injective-protocol",
     "verification_tx": "kujira-fin"
@@ -266,7 +263,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://status.marsprotocol.io/cs",
-    "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg",
     "coingecko": "https://www.coingecko.com/en/coins/mars-protocol",
     "verification_tx": "kujira-fin"
@@ -385,7 +381,6 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply",
-    "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride",
     "verification_tx": "kujira-fin"
@@ -569,6 +564,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "verification_tx": "kujira-fin"
+  },
+  {
+    "id": "ibc/173E561B8E97AB49FBA540663C1D02DC1B2D2871B5C8434935982CB15B0C7765",
+    "name": "Neutron",
+    "symbol": "NTRN",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/neutron"
   },
   {
     "id": "ibc/B4DCACF7753C05040AF0A7BF2B583402C4B8C9B0A86FCECE32EF63CB7F0A46B3",
