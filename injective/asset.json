@@ -7,7 +7,6 @@
     "decimals": "18",
     "type": "native",
     "circ_supply_api": "https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
-    "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
@@ -23,6 +22,14 @@
     "symbol": "AAVE",
     "decimals": "18",
     "type": "erc20"
+  },
+  {
+    "id": "ibc/168C3904C45C6FE3539AE85A8892DF87371D00EA7942515AFC50AA43C4BB0A32",
+    "name": "ampWHALE",
+    "symbol": "ampWHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
   },
   {
     "id": "peggy0x4d224452801ACEd8B2F0aebE155379bb5D594381",
@@ -114,6 +121,14 @@
     "symbol": "BTC",
     "decimals": "18",
     "type": "oracle"
+  },
+  {
+    "id": "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2",
+    "name": "bWHALE",
+    "symbol": "bWHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://app.whitewhale.money/logos/bWHALE.png"
   },
   {
     "id": "ibc/D91A2C4EE7CD86BBAFCE0FA44A60DDD9AFBB7EEB5B2D46C0984DEBCC6FEDFAE8",
@@ -394,6 +409,14 @@
     "symbol": "WBTC",
     "decimals": "18",
     "type": "erc20"
+  },
+  {
+    "id": "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
+    "name": "WHALE",
+    "symbol": "WHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
     "id": "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
