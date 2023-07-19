@@ -2451,20 +2451,6 @@
     "type": "cw20"
   },
   {
-    "id": "ibc/1E6C27CE5A5C42F1D0BC946CE267425896F1B9EE42C9A69B1238A55210CB79EA",
-    "name": "gravity0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d",
-    "symbol": "ibc/1E6C27CE5A5C42F1D0BC946CE267425896F1B9EE42C9A69B1238A55210CB79EA",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/4F81B5D69A628383427EF02C5A8CF95CB747C9BC0F867B0625796F452F2E9EEB",
-    "name": "gravity0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
-    "symbol": "ibc/4F81B5D69A628383427EF02C5A8CF95CB747C9BC0F867B0625796F452F2E9EEB",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
     "id": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
     "name": "HERO",
     "symbol": "HERO",
@@ -2611,6 +2597,13 @@
     "symbol": "LOCAL",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "ibc/1E6C27CE5A5C42F1D0BC946CE267425896F1B9EE42C9A69B1238A55210CB79EA",
+    "name": "Luna (Gravity Bridge)",
+    "symbol": "LUNA",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra1leavh38n7ycjh5xed5us2s8f576zmpj48ec0nhjs25r0wq5au9lqw3kdqz",
@@ -3270,5 +3263,12 @@
     "symbol": "LUNA",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "ibc/4F81B5D69A628383427EF02C5A8CF95CB747C9BC0F867B0625796F452F2E9EEB",
+    "name": "Wrapped LUNC Token",
+    "symbol": "LUNC",
+    "decimals": "6",
+    "type": "ibc"
   }
 ]
