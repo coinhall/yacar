@@ -10,6 +10,13 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
+    "id": "bandIbc-0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
+    "name": "0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
+    "symbol": "0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
+    "decimals": "18",
+    "type": "oracle"
+  },
+  {
     "id": "peggy0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
     "name": "AAVE",
     "symbol": "AAVE",
@@ -59,6 +66,13 @@
     "type": "ibc"
   },
   {
+    "id": "bandIbc-ATOM",
+    "name": "ATOM",
+    "symbol": "ATOM",
+    "decimals": "18",
+    "type": "oracle"
+  },
+  {
     "id": "ibc/7E1AF94AD246BE522892751046F0C959B768642E5671CC3742264068D49553C0",
     "name": "axlUSDC",
     "symbol": "axlUSDC",
@@ -71,6 +85,34 @@
     "symbol": "AXS",
     "decimals": "18",
     "type": "erc20"
+  },
+  {
+    "id": "bandIbc-BAYC",
+    "name": "BAYC",
+    "symbol": "BAYC",
+    "decimals": "18",
+    "type": "oracle"
+  },
+  {
+    "id": "bandIbc-BNB",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": "18",
+    "type": "oracle"
+  },
+  {
+    "id": "bandIbc-BONK",
+    "name": "BONK",
+    "symbol": "BONK",
+    "decimals": "18",
+    "type": "oracle"
+  },
+  {
+    "id": "bandIbc-BTC",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": "18",
+    "type": "oracle"
   },
   {
     "id": "ibc/D91A2C4EE7CD86BBAFCE0FA44A60DDD9AFBB7EEB5B2D46C0984DEBCC6FEDFAE8",
@@ -115,6 +157,20 @@
     "type": "ibc"
   },
   {
+    "id": "bandIbc-ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
+    "name": "ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
+    "symbol": "ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
+    "decimals": "18",
+    "type": "oracle"
+  },
+  {
+    "id": "bandIbc-ETH",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": "18",
+    "type": "oracle"
+  },
+  {
     "id": "peggy0x6b7f87279982d919Bbf85182DDeAB179B366D8f2",
     "name": "ETHBTCTrend",
     "symbol": "ETHBTCTrend",
@@ -157,6 +213,13 @@
     "type": "ibc"
   },
   {
+    "id": "bandIbc-INJ",
+    "name": "INJ",
+    "symbol": "INJ",
+    "decimals": "18",
+    "type": "oracle"
+  },
+  {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
     "name": "Lido DAO Token (Wormhole)",
     "symbol": "LDO",
@@ -176,6 +239,13 @@
     "symbol": "LUNA",
     "decimals": "6",
     "type": "ibc"
+  },
+  {
+    "id": "bandIbc-OSMO",
+    "name": "OSMO",
+    "symbol": "OSMO",
+    "decimals": "18",
+    "type": "oracle"
   },
   {
     "id": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
@@ -225,6 +295,13 @@
     "symbol": "SNX",
     "decimals": "18",
     "type": "erc20"
+  },
+  {
+    "id": "bandIbc-SOL",
+    "name": "SOL",
+    "symbol": "SOL",
+    "decimals": "18",
+    "type": "oracle"
   },
   {
     "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
