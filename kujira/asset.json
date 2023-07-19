@@ -124,6 +124,7 @@
     "decimals": "8",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/cryptoorgchain/cosmos/bank/v1beta1/supply?pagination.key=YmFzZWNybw==&pagination.limit=1",
+    "total_supply": "30000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png",
     "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain",
     "verification_tx": "kujira-fin"
@@ -135,7 +136,7 @@
     "symbol": "ampLUNA",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "fromTotalSupply",
+    "circ_supply_api": "https://rest.cosmos.directory/terra2/cosmwasm/wasm/v1/contract/terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "total_supply_api": "https://rest.cosmos.directory/terra2/cosmwasm/wasm/v1/contract/terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
     "verification_tx": "kujira-fin"
@@ -148,6 +149,7 @@
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://rest.bd.evmos.org:1317/evmos/inflation/v1/circulating_supply",
+    "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
     "coingecko": "https://www.coingecko.com/en/coins/evmos",
     "verification_tx": "kujira-fin"
@@ -192,6 +194,7 @@
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
+    "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
     "coingecko": "https://www.coingecko.com/en/coins/injective-protocol",
     "verification_tx": "kujira-fin"
@@ -203,7 +206,7 @@
     "symbol": "JUNO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "fromTotalSupply",
+    "circ_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "total_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network",
@@ -263,6 +266,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://status.marsprotocol.io/cs",
+    "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg",
     "coingecko": "https://www.coingecko.com/en/coins/mars-protocol",
     "verification_tx": "kujira-fin"
@@ -285,7 +289,7 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "fromTotalSupply",
+    "circ_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
@@ -381,6 +385,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply",
+    "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride",
     "verification_tx": "kujira-fin"

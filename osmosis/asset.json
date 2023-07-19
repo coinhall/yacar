@@ -414,6 +414,7 @@
     "decimals": "8",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/cryptoorgchain/cosmos/bank/v1beta1/supply?pagination.key=YmFzZWNybw==&pagination.limit=1",
+    "total_supply": "30000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cryptoorgchain/images/cro.png",
     "coingecko": "https://www.coingecko.com/en/coins/crypto-com-chain",
     "verification_tx": "osmosis-main"
@@ -499,6 +500,7 @@
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://rest.bd.evmos.org:1317/evmos/inflation/v1/circulating_supply",
+    "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
     "coingecko": "https://www.coingecko.com/en/coins/evmos",
     "verification_tx": "osmosis-main"
@@ -612,6 +614,7 @@
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
+    "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
     "coingecko": "https://www.coingecko.com/en/coins/injective-protocol",
     "verification_tx": "osmosis-main"
@@ -645,7 +648,8 @@
     "symbol": "JUNO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "fromTotalSupply",
+    "circ_supply_api": "tps://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
+    "total_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network",
     "verification_tx": "osmosis-main"
@@ -871,7 +875,7 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "native",
-    "circ_supply_api": "fromTotalSupply",
+    "circ_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
@@ -1087,6 +1091,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply",
+    "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stride",
     "coingecko": "https://www.coingecko.com/en/coins/stride",
@@ -1585,7 +1590,8 @@
     "symbol": "IST",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "fromTotalSupply",
+    "circ_supply_api": "https://main.supply.agoric.net/supply?denom=ist",
+    "total_supply_api": "https://main.supply.agoric.net/supply?denom=ist",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png",
     "verification_tx": "osmosis-main"
   },
@@ -1708,6 +1714,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://status.marsprotocol.io/cs",
+    "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg",
     "verification_tx": "osmosis-main"
   },
