@@ -11,13 +11,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
-    "id": "bandIbc-0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
-    "name": "0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
-    "symbol": "0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
     "id": "helix/0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
     "name": "0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
     "symbol": "0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
@@ -82,13 +75,6 @@
     "type": "ibc"
   },
   {
-    "id": "bandIbc-ATOM",
-    "name": "ATOM",
-    "symbol": "ATOM",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
     "id": "helix/ATOM",
     "name": "ATOM",
     "symbol": "ATOM",
@@ -110,25 +96,11 @@
     "type": "erc20"
   },
   {
-    "id": "bandIbc-BAYC",
-    "name": "BAYC",
-    "symbol": "BAYC",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
     "id": "helix/BAYC",
     "name": "BAYC",
     "symbol": "BAYC",
     "decimals": "6",
     "type": "native"
-  },
-  {
-    "id": "bandIbc-BNB",
-    "name": "BNB",
-    "symbol": "BNB",
-    "decimals": "6",
-    "type": "oracle"
   },
   {
     "id": "helix/BNB",
@@ -138,25 +110,11 @@
     "type": "native"
   },
   {
-    "id": "bandIbc-BONK",
-    "name": "BONK",
-    "symbol": "BONK",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
     "id": "helix/BONK",
     "name": "BONK",
     "symbol": "BONK",
     "decimals": "6",
     "type": "native"
-  },
-  {
-    "id": "bandIbc-BTC",
-    "name": "BTC",
-    "symbol": "BTC",
-    "decimals": "6",
-    "type": "oracle"
   },
   {
     "id": "helix/BTC",
@@ -216,23 +174,9 @@
     "type": "ibc"
   },
   {
-    "id": "bandIbc-ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
-    "name": "ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
-    "symbol": "ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
     "id": "helix/ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
     "name": "ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
     "symbol": "ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
-    "id": "bandIbc-ETH",
-    "name": "ETH",
-    "symbol": "ETH",
     "decimals": "6",
     "type": "oracle"
   },
@@ -286,13 +230,6 @@
     "type": "ibc"
   },
   {
-    "id": "bandIbc-INJ",
-    "name": "INJ",
-    "symbol": "INJ",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
     "id": "helix/INJ",
     "name": "INJ",
     "symbol": "INJ",
@@ -319,13 +256,6 @@
     "symbol": "LUNA",
     "decimals": "6",
     "type": "ibc"
-  },
-  {
-    "id": "bandIbc-OSMO",
-    "name": "OSMO",
-    "symbol": "OSMO",
-    "decimals": "6",
-    "type": "oracle"
   },
   {
     "id": "helix/OSMO",
@@ -382,13 +312,6 @@
     "symbol": "SNX",
     "decimals": "18",
     "type": "erc20"
-  },
-  {
-    "id": "bandIbc-SOL",
-    "name": "SOL",
-    "symbol": "SOL",
-    "decimals": "6",
-    "type": "oracle"
   },
   {
     "id": "helix/SOL",
