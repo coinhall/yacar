@@ -18,6 +18,13 @@
     "type": "oracle"
   },
   {
+    "id": "helix/0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
+    "name": "0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
+    "symbol": "0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
+    "decimals": "6",
+    "type": "oracle"
+  },
+  {
     "id": "peggy0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
     "name": "AAVE",
     "symbol": "AAVE",
@@ -82,6 +89,13 @@
     "type": "oracle"
   },
   {
+    "id": "helix/ATOM",
+    "name": "ATOM",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
     "id": "ibc/7E1AF94AD246BE522892751046F0C959B768642E5671CC3742264068D49553C0",
     "name": "axlUSDC",
     "symbol": "axlUSDC",
@@ -103,11 +117,25 @@
     "type": "oracle"
   },
   {
+    "id": "helix/BAYC",
+    "name": "BAYC",
+    "symbol": "BAYC",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
     "id": "bandIbc-BNB",
     "name": "BNB",
     "symbol": "BNB",
     "decimals": "6",
     "type": "oracle"
+  },
+  {
+    "id": "helix/BNB",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": "6",
+    "type": "native"
   },
   {
     "id": "bandIbc-BONK",
@@ -117,11 +145,25 @@
     "type": "oracle"
   },
   {
+    "id": "helix/BONK",
+    "name": "BONK",
+    "symbol": "BONK",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
     "id": "bandIbc-BTC",
     "name": "BTC",
     "symbol": "BTC",
     "decimals": "6",
     "type": "oracle"
+  },
+  {
+    "id": "helix/BTC",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": "6",
+    "type": "native"
   },
   {
     "id": "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2",
@@ -181,11 +223,25 @@
     "type": "oracle"
   },
   {
+    "id": "helix/ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
+    "name": "ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
+    "symbol": "ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
+    "decimals": "6",
+    "type": "oracle"
+  },
+  {
     "id": "bandIbc-ETH",
     "name": "ETH",
     "symbol": "ETH",
     "decimals": "6",
     "type": "oracle"
+  },
+  {
+    "id": "helix/ETH",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": "6",
+    "type": "native"
   },
   {
     "id": "peggy0x6b7f87279982d919Bbf85182DDeAB179B366D8f2",
@@ -237,6 +293,13 @@
     "type": "oracle"
   },
   {
+    "id": "helix/INJ",
+    "name": "INJ",
+    "symbol": "INJ",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
     "name": "Lido DAO Token (Wormhole)",
     "symbol": "LDO",
@@ -263,6 +326,13 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "oracle"
+  },
+  {
+    "id": "helix/OSMO",
+    "name": "OSMO",
+    "symbol": "OSMO",
+    "decimals": "6",
+    "type": "native"
   },
   {
     "id": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
@@ -319,6 +389,13 @@
     "symbol": "SOL",
     "decimals": "6",
     "type": "oracle"
+  },
+  {
+    "id": "helix/SOL",
+    "name": "SOL",
+    "symbol": "SOL",
+    "decimals": "6",
+    "type": "native"
   },
   {
     "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
