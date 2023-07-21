@@ -174,13 +174,6 @@
     "type": "ibc"
   },
   {
-    "id": "helix/ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
-    "name": "XRP",
-    "symbol": "XRP",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
     "id": "helix/ETH",
     "name": "ETH",
     "symbol": "ETH",
@@ -446,5 +439,12 @@
     "symbol": "XBX",
     "decimals": "18",
     "type": "erc20"
+  },
+  {
+    "id": "helix/ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": "6",
+    "type": "oracle"
   }
 ]
