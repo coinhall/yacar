@@ -22,8 +22,8 @@
     "name": "AAVE",
     "symbol": "AAVE",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/AAVE.svg",
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/AAVE.svg"
   },
   {
     "id": "ibc/168C3904C45C6FE3539AE85A8892DF87371D00EA7942515AFC50AA43C4BB0A32",
@@ -38,101 +38,94 @@
     "name": "APE",
     "symbol": "APE",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ape.png",
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ape.png"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1d5vz0uzwlpfvgwrwulxg6syy82axa58y4fuszd",
     "name": "Arbitrum (Wormhole)",
     "symbol": "ARB",
     "decimals": "8",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/arb.png",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/arb.png"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
     "name": "Astar",
     "symbol": "ASTR",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astar.svg",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astar.svg"
   },
   {
     "id": "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
     "name": "Astar",
     "symbol": "ASTR",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astar.svg",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astar.svg"
   },
   {
     "id": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
     "name": "Astroport",
     "symbol": "ASTRO",
     "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astroport.png",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astroport.png"
   },
   {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "name": "Atom",
     "symbol": "ATOM",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg",
-
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
   },
   {
     "id": "helix/ATOM",
     "name": "ATOM",
     "symbol": "ATOM",
     "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg",
-
-    "type": "native"
+    "type": "native",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
   },
   {
     "id": "ibc/7E1AF94AD246BE522892751046F0C959B768642E5671CC3742264068D49553C0",
     "name": "axlUSDC",
     "symbol": "axlUSDC",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg",
-
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg"
   },
   {
     "id": "peggy0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
     "name": "AXS",
     "symbol": "AXS",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/axs.png",
-
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/axs.png"
   },
   {
     "id": "helix/BAYC",
     "name": "BAYC",
     "symbol": "BAYC",
     "decimals": "6",
-    "icon": "https://moon.ly/uploads/nft/82e50e35-dfdd-4be3-9930-5cc2f91a13df.jpg",
-
-    "type": "native"
+    "type": "native",
+    "icon": "https://moon.ly/uploads/nft/82e50e35-dfdd-4be3-9930-5cc2f91a13df.jpg"
   },
   {
     "id": "helix/BNB",
     "name": "BNB",
     "symbol": "BNB",
     "decimals": "6",
-    "icon": "https://cryptologos.cc/logos/bnb-bnb-logo.svg",
-
-    "type": "native"
+    "type": "native",
+    "icon": "https://cryptologos.cc/logos/bnb-bnb-logo.svg"
   },
   {
     "id": "helix/BONK",
     "name": "BONK",
     "symbol": "BONK",
     "decimals": "6",
-
     "type": "native"
   },
   {
@@ -140,9 +133,8 @@
     "name": "BTC",
     "symbol": "BTC",
     "decimals": "6",
-    "icon": "https://helixapp.com/vendor/@injectivelabs/token-metadata/bitcoin.svg",
-
-    "type": "native"
+    "type": "native",
+    "icon": "https://helixapp.com/vendor/@injectivelabs/token-metadata/bitcoin.svg"
   },
   {
     "id": "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2",
@@ -157,79 +149,72 @@
     "name": "CANTO",
     "symbol": "CANTO",
     "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/canto.webp",
-
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/canto.webp"
   },
   {
     "id": "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chainlink.svg",
-
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chainlink.svg"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6kpxy6ar5lkxqudjvryarrrttmakwsvzkvcyh",
     "name": "chiliZ (Wormhole)",
     "symbol": "CHZ",
     "decimals": "8",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chz.png",
-
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chz.png"
   },
   {
     "id": "ibc/3A6DD3358D9F7ADD18CDE79BA10B400511A5DE4AE2C037D7C9639B52ADAF35C6",
     "name": "CRE",
     "symbol": "CRE",
     "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/crescent.jpeg",
-
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/crescent.jpeg"
   },
   {
     "id": "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55",
     "name": "CW20-wrapped inj",
     "symbol": "INJ",
     "decimals": "18",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
     "id": "ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4",
     "name": "DOT",
     "symbol": "DOT",
     "decimals": "10",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/DOT.svg",
-
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/DOT.svg"
   },
   {
     "id": "helix/ETH",
     "name": "ETH",
     "symbol": "ETH",
     "decimals": "6",
-    "icon":"https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg",
-    "type": "native"
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
   },
   {
     "id": "peggy0x6b7f87279982d919Bbf85182DDeAB179B366D8f2",
     "name": "ETHBTCTrend",
     "symbol": "ETHBTCTrend",
     "decimals": "18",
-    "icon":"https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethbtctrend.svg",
-
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethbtctrend.svg"
   },
   {
     "id": "ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821",
     "name": "EVMOS",
     "symbol": "EVMOS",
     "decimals": "18",
-    "icon":"https://explorer.injective.network/vendor/@injectivelabs/token-metadata/evmos.svg",
-
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/evmos.svg"
   },
   {
     "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
@@ -243,79 +228,69 @@
     "name": "GRT",
     "symbol": "GRT",
     "decimals": "18",
-    "icon":"https://explorer.injective.network/vendor/@injectivelabs/token-metadata/graphToken.svg",
-
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/graphToken.svg"
   },
   {
     "id": "peggy0xAaEf88cEa01475125522e117BFe45cF32044E238",
     "name": "GuildFi",
     "symbol": "GF",
     "decimals": "18",
-    "icon":"https://explorer.injective.network/vendor/@injectivelabs/token-metadata/gf.png",
-
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/gf.png"
   },
   {
     "id": "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
     "name": "HUAHUA",
     "symbol": "HUAHUA",
     "decimals": "6",
-    "icon":"https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chihuahua.jpeg",
-
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chihuahua.jpeg"
   },
   {
     "id": "helix/INJ",
     "name": "INJ",
     "symbol": "INJ",
     "decimals": "6",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
-    "type": "native"
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
     "name": "Lido DAO Token (Wormhole)",
     "symbol": "LDO",
     "decimals": "8",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/lido-dao.webp",
-
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/lido-dao.webp"
   },
   {
     "id": "ibc/FECCDCFA89278B117C76A11A946A7991A68E5DD12DED6EB938ADC1B1286AC591",
-
     "name": "Local Money",
     "symbol": "LOCAL",
     "decimals": "6",
-    "icon": "https://localterra.money/local-logo-dark.png",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://localterra.money/local-logo-dark.png"
   },
   {
     "id": "ibc/B8AF5D92165F35AB31F3FC7C7B444B9D240760FA5D406C49D24862BD0284E395",
     "name": "LUNA",
     "symbol": "LUNA",
     "decimals": "6",
-    
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/luna.png",
-
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/luna.png"
   },
   {
     "id": "helix/OSMO",
     "name": "OSMO",
     "symbol": "OSMO",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/osmo.png",
-
     "decimals": "6",
-    "type": "native"
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/osmo.png"
   },
   {
     "id": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
     "name": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
     "symbol": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-
-
     "decimals": "18",
     "type": "erc20"
   },
@@ -323,8 +298,6 @@
     "id": "peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933",
     "name": "Pepe",
     "symbol": "PEPE",
-
-
     "decimals": "18",
     "type": "erc20"
   },
@@ -332,171 +305,152 @@
     "id": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
     "name": "Persistence",
     "symbol": "XPRT",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xprt.svg",
-
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xprt.svg"
   },
   {
     "id": "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
     "name": "Polygon",
     "symbol": "MATIC",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/polygon.png",
-
     "decimals": "18",
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/polygon.png"
   },
   {
     "id": "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
     "name": "Puggo",
     "symbol": "PUG",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/puggo.jpg",
-
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/puggo.jpg"
   },
   {
     "id": "peggy0x4a220E6096B25EADb88358cb44068A3248254675",
     "name": "QNT",
     "symbol": "QNT",
     "decimals": "18",
-
     "type": "erc20"
   },
   {
     "id": "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
     "name": "SNX",
     "symbol": "SNX",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/synthetix.svg",
-
     "decimals": "18",
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/synthetix.svg"
   },
   {
     "id": "helix/SOL",
     "name": "SOL",
-    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
-
     "symbol": "SOL",
     "decimals": "6",
-    "type": "native"
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
   },
   {
     "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
     "name": "Sommelier",
     "symbol": "SOMM",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sommelier.png",
-
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sommelier.png"
   },
   {
     "id": "peggy0x4986fD36b6b16f49b43282Ee2e24C5cF90ed166d",
     "name": "SteadyBTC",
     "symbol": "SteadyBTC",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadybtc.svg",
-
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadybtc.svg"
   },
   {
     "id": "peggy0x3F07A84eCdf494310D397d24c1C78B041D2fa622",
     "name": "SteadyETH",
     "symbol": "SteadyETH",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadyeth.svg",
-
-    "type": "erc20"
-  },
-  {
-    "id": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
-    "name": "Stride Staked Injective",
-    "symbol": "stINJ",
-    "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stinj.png",
-
-    "type": "ibc"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadyeth.svg"
   },
   {
     "id": "ibc/3FDD002A3A4019B05A33D324B2F29748E77AF501BEA5C96D1F28B2D6755F9F25",
     "name": "Stride",
     "symbol": "STRD",
     "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stride.png",
-
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stride.png"
+  },
+  {
+    "id": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
+    "name": "Stride Staked Injective",
+    "symbol": "stINJ",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stinj.png"
   },
   {
     "id": "peggy0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
     "name": "SushiSwap",
     "symbol": "SUSHI",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sushi.svg",
-
     "decimals": "18",
-    "type": "erc20"
-  },
-  {
-    "id": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "name": "Tether",
-    "symbol": "USDT",
-    "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdt.svg",
-
-    "type": "erc20"
-  },
-  {
-    "id": "peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-    "name": "UNI",
-    "symbol": "UNI",
-    "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/uni.svg",
-
-    "type": "erc20"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
-    "name": "USD Coin",
-    "symbol": "USDCET",
-    "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg",
-
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj12pwnhtv7yat2s30xuf4gdk9qm85v4j3e60dgvu",
-    "name": "USD Coin (Wormhole)",
-    "symbol": "USDC",
-    "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg",
-
-    "type": "tokenfactory"
-  },
-  {
-    "id": "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "name": "USDC",
-    "symbol": "USDC",
-    "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg",
-
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sushi.svg"
   },
   {
     "id": "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C",
     "name": "TerraUSD",
     "symbol": "UST",
     "decimals": "6",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ust.png",
-
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ust.png"
+  },
+  {
+    "id": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdt.svg"
+  },
+  {
+    "id": "peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "name": "UNI",
+    "symbol": "UNI",
+    "decimals": "18",
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/uni.svg"
+  },
+  {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
+    "name": "USD Coin",
+    "symbol": "USDCET",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
+  },
+  {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj12pwnhtv7yat2s30xuf4gdk9qm85v4j3e60dgvu",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
+  },
+  {
+    "id": "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
   },
   {
     "id": "peggy0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "name": "WBTC",
     "symbol": "WBTC",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/wbtc.svg",
-
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/wbtc.svg"
   },
   {
     "id": "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
@@ -511,42 +465,39 @@
     "name": "Wrapped Ethereum",
     "symbol": "WETH",
     "decimals": "18",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethereum.svg",
-    "type": "erc20"
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethereum.svg"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h",
     "name": "Wrapped Matic (Wormhole)",
     "symbol": "WMATIC",
     "decimals": "8",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/polygon.png",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/polygon.png"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
     "name": "Wrapped SOL",
     "symbol": "SOL",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/solana.svg",
     "decimals": "8",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/solana.svg"
   },
   {
     "id": "peggy0x080B12E80C9b45e97C23b6ad10a16B3e2a123949",
     "name": "XBX",
     "symbol": "XBX",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xbx.png",
-
     "decimals": "18",
-    "type": "erc20"
-    
+    "type": "erc20",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xbx.png"
   },
   {
     "id": "helix/ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
     "name": "XRP",
     "symbol": "XRP",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/solana.svg",
-
     "decimals": "6",
-    "type": "oracle"
+    "type": "oracle",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/solana.svg"
   }
 ]
