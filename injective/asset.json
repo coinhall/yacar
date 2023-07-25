@@ -22,7 +22,7 @@
     "name": "AAVE",
     "symbol": "AAVE",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/AAVE.svg"
   },
   {
@@ -38,7 +38,7 @@
     "name": "APE",
     "symbol": "APE",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ape.png"
   },
   {
@@ -102,7 +102,7 @@
     "name": "AXS",
     "symbol": "AXS",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/axs.png"
   },
   {
@@ -157,7 +157,7 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chainlink.svg"
   },
   {
@@ -205,7 +205,7 @@
     "name": "ETHBTCTrend",
     "symbol": "ETHBTCTrend",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethbtctrend.svg"
   },
   {
@@ -228,7 +228,7 @@
     "name": "GRT",
     "symbol": "GRT",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/graphToken.svg"
   },
   {
@@ -236,7 +236,7 @@
     "name": "GuildFi",
     "symbol": "GF",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/gf.png"
   },
   {
@@ -292,14 +292,14 @@
     "name": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
     "symbol": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
     "decimals": "18",
-    "type": "erc20"
+    "type": "peggy"
   },
   {
     "id": "peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933",
     "name": "Pepe",
     "symbol": "PEPE",
     "decimals": "18",
-    "type": "erc20"
+    "type": "peggy"
   },
   {
     "id": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
@@ -314,7 +314,7 @@
     "name": "Polygon",
     "symbol": "MATIC",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/polygon.png"
   },
   {
@@ -322,7 +322,7 @@
     "name": "Puggo",
     "symbol": "PUG",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/puggo.jpg"
   },
   {
@@ -330,14 +330,14 @@
     "name": "QNT",
     "symbol": "QNT",
     "decimals": "18",
-    "type": "erc20"
+    "type": "peggy"
   },
   {
     "id": "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
     "name": "SNX",
     "symbol": "SNX",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/synthetix.svg"
   },
   {
@@ -361,7 +361,7 @@
     "name": "SteadyBTC",
     "symbol": "SteadyBTC",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadybtc.svg"
   },
   {
@@ -369,7 +369,7 @@
     "name": "SteadyETH",
     "symbol": "SteadyETH",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadyeth.svg"
   },
   {
@@ -393,7 +393,7 @@
     "name": "SushiSwap",
     "symbol": "SUSHI",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sushi.svg"
   },
   {
@@ -409,7 +409,7 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": "6",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdt.svg"
   },
   {
@@ -417,7 +417,7 @@
     "name": "UNI",
     "symbol": "UNI",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/uni.svg"
   },
   {
@@ -441,7 +441,7 @@
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
   },
   {
@@ -449,7 +449,7 @@
     "name": "WBTC",
     "symbol": "WBTC",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/wbtc.svg"
   },
   {
@@ -465,7 +465,7 @@
     "name": "Wrapped Ethereum",
     "symbol": "WETH",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethereum.svg"
   },
   {
@@ -489,7 +489,7 @@
     "name": "XBX",
     "symbol": "XBX",
     "decimals": "18",
-    "type": "erc20",
+    "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xbx.png"
   },
   {
