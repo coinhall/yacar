@@ -217,13 +217,6 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/evmos.svg"
   },
   {
-    "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
-    "name": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
-    "symbol": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
     "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
     "name": "GRT",
     "symbol": "GRT",
@@ -264,6 +257,21 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/lido-dao.webp"
   },
   {
+    "id": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "name": "Lido Staked ETH",
+    "symbol": "wstETH",
+    "decimals": "18",
+    "type": "erc20"
+  },
+  {
+    "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+    "name": "Local Money",
+    "symbol": "LOCAL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://localmoney.io/local-logo-dark.png"
+  },
+  {
     "id": "ibc/FECCDCFA89278B117C76A11A946A7991A68E5DD12DED6EB938ADC1B1286AC591",
     "name": "Local Money",
     "symbol": "LOCAL",
@@ -286,13 +294,6 @@
     "decimals": "6",
     "type": "native",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/osmo.png"
-  },
-  {
-    "id": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-    "name": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-    "symbol": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-    "decimals": "18",
-    "type": "peggy"
   },
   {
     "id": "peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933",
