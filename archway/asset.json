@@ -35,5 +35,61 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
+  },
+  {
+    "id": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
+    "name": "AXL",
+    "symbol": "AXL",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/13C5990F84FA5D472E1F8BB1BAAEA8774DA5F24128EC02B119107AD21FB52A61",
+    "name": "ETH.axl",
+    "symbol": "ETH.axl",
+    "decimals": "18",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/926432AE1C5FA4F857B36D970BE7774C7472079506820B857B75C5DE041DD7A3",
+    "name": "JKL",
+    "symbol": "JKL",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/B9E4FD154C92D3A23BEA029906C4C5FF2FE74CB7E3A058290B77197A263CF88B",
+    "name": "USDC.axl",
+    "symbol": "USDC.axl",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
+    "name": "xARCH",
+    "symbol": "xARCH",
+    "decimals": "18",
+    "type": "cw20"
+  },
+  {
+    "id": "archway1m273xq2fjmn993jm4kft5c49w2c70yfv5zypt3d92cqp4n5faefqqkuf0l",
+    "name": "xATOM",
+    "symbol": "xATOM",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway135pmrdfsu8le852q5xztwdlxpmzqrp2t589lrqtw2athnr70wgcqg26ecc",
+    "name": "xAXL",
+    "symbol": "xAXL",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway1yjdgfut7jkq5xwzyp6p5hs7hdkmszn34zkhun6mglu3falq3yh8sdkaj7j",
+    "name": "xJKL",
+    "symbol": "xJKL",
+    "decimals": "6",
+    "type": "cw20"
   }
 ]
