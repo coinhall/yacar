@@ -2026,6 +2026,13 @@
     "coingecko": "https://www.coingecko.com/en/coins/wrapped-solana"
   },
   {
+    "id": "terra10nz4aa0p7wm639jang56n456yfglvzhf7pjea08r5q3h86u5w9tq5lnn5c",
+    "name": "AAA private money",
+    "symbol": "AAA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "terra1693sgskk3tj24n8atssq5x7aq090awq6wy7hkmpew403vg6svzjq6x04nh",
     "name": "alentejo.money",
     "symbol": "alem",
@@ -3131,6 +3138,8 @@
     "symbol": "xxx",
     "decimals": "10",
     "type": "cw20",
+    "circ_supply": "96000000000",
+    "total_supply": "96000000000",
     "icon": "https://i.imgur.com/tVzAnyP.png",
     "verification_tx": "A2D2DCB69CBA0600722F852637D6F20891DE3E71058D4755BD153C8245194FB9"
   },
