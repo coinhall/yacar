@@ -1472,6 +1472,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/doga.png"
   },
   {
+    "id": "ibc/6B2B19D874851F631FF0AF82C38A20D4B82F438C7A22F41EDA33568345397244",
+    "name": "DOT",
+    "symbol": "DOT",
+    "decimals": "10",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.svg"
+  },
+  {
     "id": "ibc/E27CD305D33F150369AB526AEB6646A76EC3FFB1A6CA58A663B5DE657A89D55D",
     "name": "Dyson Protocol",
     "symbol": "DYS",
@@ -1486,6 +1494,15 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft85AE1716C5E39EA6D64BBD7898C3899A7B500626.png"
+  },
+  {
+    "id": "factory/osmo1dv8wz09tckslr2wy5z86r46dxvegylhpt97r9yd6qc3kyc6tv42qa89dr9/ampOSMO",
+    "name": "ERIS Amplified OSMO",
+    "symbol": "ampOSMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/amp.osmo.png",
+    "verification_tx": "osmosis-main"
   },
   {
     "id": "ibc/239A507997222805E441956EBE8087D7E2D05D6535C6D4C75EF8DCF83B3DE1A1",
@@ -1650,6 +1667,14 @@
     "symbol": "KSM",
     "decimals": "12",
     "type": "ibc"
+  },
+  {
+    "id": "ibc/613BF0BF2F2146AE9941E923725745E931676B2C14E9768CD609FA0849B2AE13",
+    "name": "KYVE",
+    "symbol": "KYVE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kyve/images/kyve-token.svg"
   },
   {
     "id": "ibc/3DC08BDF2689978DBCEE28C7ADC2932AA658B2F64B372760FBC5A0058669AD29",
@@ -2126,6 +2151,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/teritori/images/tori.svg"
   },
   {
+    "id": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/1E09CB0F506ACF12FDE4683FB6B34DA62FB4BE122641E0D93AAF98A87675676C",
     "name": "Tgrade",
     "symbol": "TGD",
@@ -2149,6 +2183,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+  },
+  {
+    "id": "ibc/FDFCC2BD1D609151C3593EC84FD9EA43057FF45F264BC89B18E7085F3F29A248",
+    "name": "USDT",
+    "symbol": "USDT.comp",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.comp.svg"
   },
   {
     "id": "ibc/8A07D4BD40E0F44ECFDF360F7EA7008B288926FB87C54489FE54DB81A5340E0C",
