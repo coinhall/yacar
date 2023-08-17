@@ -6,8 +6,8 @@
     "symbol": "AKT",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/akash/cosmos/bank/v1beta1/supply?pagination.key=dWFrdA%3D%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/akash/cosmos/bank/v1beta1/supply?pagination.key=dWFrdA%3D%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-akash-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWFrdA%3D%3D&pagination.limit=1",
+    "total_supply_api": "https://api-akash-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWFrdA%3D%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/akt.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/akash-network",
     "coingecko": "https://www.coingecko.com/en/coins/akash-network"
@@ -80,7 +80,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.cros-nest.com/comdex-1/supply",
-    "total_supply_api": "https://rest.cosmos.directory/comdex/cosmos/bank/v1beta1/supply?pagination.key=dWNtZHg%3D&pagination.limit=1",
+    "total_supply_api": "https://comdex-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=dWNtZHg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/cmdx.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/comdex",
     "coingecko": "https://www.coingecko.com/en/coins/comdex"
@@ -92,7 +92,7 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -199,8 +199,8 @@
     "symbol": "JUNO",
     "decimals": "6",
     "type": "native",
-    "circ_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
@@ -252,8 +252,8 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/osmosis/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -379,7 +379,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
-    "total_supply_api": "https://rest.cosmos.directory/terra2/cosmos/bank/v1beta1/supply?pagination.key=dWx1bmE%3D&pagination.limit=1",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=dWx1bmE%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/Luna.svg"
   },
   {
