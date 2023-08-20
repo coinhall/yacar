@@ -1,1 +1,512 @@
-[]
+[
+  {
+    "id": "sei1a94tfxh0lgnsx20wsfv2ur737g2yejx8tt4e6uf6k5cc5jg77f0q0ekwar",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "sei1nz4ku8ewwttm7gm82d0ydsgaq06tsgwf69dxvak8swf2mzs5zk9qqndaur"
+  },
+  {
+    "id": "sei1lkpzdvvyuz40nckjmpu38xykamfjx5afc7x22n8zf8rgr7pd2ysqdk8hca",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "sei1yrr44384ua49s9etytyxjpr84wrn97cye6e8k6eak6vpn6h663fsexdhas"
+  },
+  {
+    "id": "sei1mmn28xt7l2d905gllhw4d2mr3j2kzstqscjypp460rwm8xqqvu6q0ey37s",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "sei1paa5dm2glgmets9yxafa4w68w5hymthh0as8em80684ntmd930jq0e950p"
+  },
+  {
+    "id": "sei1myu6k4vxrht2g36ecdjrlav0xwlymlqts5wpwtzp53x9m87duasqux9hgz",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "sei1r56pkdf29vmcnk53r207xwwfsy4hcngvgj4wm9eezrv96up7mvmste2ach"
+  },
+  {
+    "id": "sei1prqsm5y7tumchkugx5wcz4y0fya7cta5ch9h366em806frq4jtnqlrazgt",
+    "asset_ids": [
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "sei1ulh0klfgzzwgl642vrk4xwa3v04mtf7mgq70584842cl7cea7sxsamgmy9"
+  },
+  {
+    "id": "sei1qzfur4expluacnscycseqpulxvar39snljjdzveaedamj0zfdk2qr2l5ce",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "sei1uecw0ha4taym2q09daw9y0zzf3jpguxvfd2z2m07l289geg2tk7shr8hsh"
+  },
+  {
+    "id": "sei1skvzums72hmygk7re26ys68p4nc45y4dach4hymgzgwsdpyfmpcsdn4an6",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "sei18q7cla9ty528ehffqu9frvyc0djcr4plcpfnnfuumyyc03z7fnksg83yyu"
+  },
+  {
+    "id": "sei1z04thpm8refvjve8j55uynwujueqf32vzvh7k7sf7p6whlmujxuqt94u74",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "sei1ukh0hd4pneg8fd0mhvqtqczxj4gn3uz7jcagcwcdrxs660pan8aq5espqf"
+  },
+  {
+    "id": "sei104g8qxzp0ztxuwc3tgww7vawsx547ukt55hzp799dpjpt5yztzasxvm3yz",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
+      "sei123gd6c6je3nmtjuvesuwhxphtuxgtuu6gu5ck3h5zcn6qqzzmgaqe85df2"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei16fexvs7nks2a2dtjk8lpjdemqh2ztf3hakevdm3xv8jfgmlns7vqdzyy05"
+  },
+  {
+    "id": "sei10jj0ucwl3fdwrxdqecmk7auamgpfgcvvkyar67ykyvyxxwum0tpsh06w9x",
+    "asset_ids": [
+      "factory/sei1x2fgaaqecvk8kwuqkjqcj27clw5p5g99uawdzy9sc4rku8avumcq3cky4k/ampSEI",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1vkphg6hz8fky9ufcrdthkn9da7fs6yfs70queus327mnfdyhddrs7j02ld"
+  },
+  {
+    "id": "sei132k995g5smm2qf543l3w5az0y7m0aduamw3e0kgmqqt4qj4zph9su00fmu",
+    "asset_ids": [
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei14gm98jxefrcz0tl6rpzeyuu3vjlj900me5j35h7p4pazhjepcfksvxvc65"
+  },
+  {
+    "id": "sei13qvlefrjthwmdfgrwmj7lkdjm2qkks3va2pp5xzujpk9m55k2j6s7jql0w",
+    "asset_ids": [
+      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1vrgxg85tglkdfz04wjenysmzl3nr43gxdqex6hj8wqwnp8ppnfgsnyak3x"
+  },
+  {
+    "id": "sei14kxy2g2cw37ng0mmyk6u54qq7xxxnksyhwcvsaf57g30q7ym23vqlmjpm0",
+    "asset_ids": [
+      "ibc/6CDD4663F2F09CD62285E2D45891FC149A3568E316CE3EBBE201A71A78A69388",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1heaumavd6zxggcyzvqgy4htw4je3pl59gv9s4s3grujmtyw6kraqrxnskl"
+  },
+  {
+    "id": "sei16vp6mfeezfzd4j4wlr4je5ax4dfcyv6mgwl0hwygp0qt64pu2mqsuezm9p",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1f9en0nhza42tggvujxyfyhhztmcdpsr8qr6lxd090d5vv0dtht3sdmmxtl"
+  },
+  {
+    "id": "sei1743z2ssyqaulw22q3pvgz5n2havewwlh0pwm77plmxa0nk5thptsk6atvy",
+    "asset_ids": [
+      "sei1hujt4dydg2lt0yaw8qp6gs3e78fv0tsehp6temwfq28m356v6kmqt9lctc",
+      "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1qs9nm9anktv5adgu00jh3d8eeh2zxx9svvfu6apdtjt5uqmap2vqpy334a"
+  },
+  {
+    "id": "sei17xlh367wzse4gm6955m68me83ry5n6pgwrc6m759fknv00ax35fsrn8c36",
+    "asset_ids": [
+      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1fxehy7nhapdspnj989uuekda8sxv57xvq6wwj6kjtk670gzdf5fszgm4n7"
+  },
+  {
+    "id": "sei18qy5wh827vmkh2swfqqt4m6j8h7hzlsv36xktugzmdmumfqxgjasq7e3h3",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1dh2t9j0kgzxcm7ry53rwzt00qkjd6exfjunpx2wxyatc88klqrxsujmedd"
+  },
+  {
+    "id": "sei18vgt8vpmgkh8vzx9n79lxjukr6mpk009typshm65c6rl5hct8d5qrmcpfn",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1pv5kyq33sw9hf2m62s0xweu3sevv4z2m8g3d9f60n4c3et5ztr6suk4mpl"
+  },
+  {
+    "id": "sei1de0llwr6j2rytlteczn9pzqjjtmt2nf6f6qd7r8nlwd79srwvs8q48uz9z",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1zcct5r3j5lqxp77mwa3s3fuuv08lnn4qkl2ynlder4jc2xt65xusl76yp2"
+  },
+  {
+    "id": "sei1dv6y7jkkksw4evvrm7x4d2dpm9334rp5xrfar7jh8p38f82y3xus25psnj",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1faw9thtkntmlacmhdjrrp5774wnc3ns7e4j2exvcevg39m7hlv6s3s05ej"
+  },
+  {
+    "id": "sei1e02jqekmdhysc239xh6mn6hw4fdv7ct0afahfgul6ed8zj29rjzq4xwvvt",
+    "asset_ids": [
+      "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1ceutwq2dxsjurunp64qnzj8qucz62qgj392q4havt4y8w3zjcfqsm037zw"
+  },
+  {
+    "id": "sei1e7kcd62rqsc9zu5a8xyecr367e88zvuysnfnm3yhvjkmtdxwelcscs88ny",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
+      "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1framvm7qu7pshl60hl56tpzwu7vj0nr5j67sphk3hrk2hmr47laq75gsmq"
+  },
+  {
+    "id": "sei1ea3s0kacfle84pf7ncw7k7ldl8t56qnvgxnk274cghmja9xmvypqg5elst",
+    "asset_ids": [
+      "sei1ys77cs0qsqzx4dvtds0e077qc0sg4k7tg32lcmqemek8g0tpr57s5ckxd7",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei17q8t987rvkj3usugrmz8gryfspcuz2jmqgy4qjhf9cr9d23ga52s4d4qdv"
+  },
+  {
+    "id": "sei1ehrlfpqnq35c7wknhrg2pupx44xcvac0un602wk68jgvx093uxwsyjtsey",
+    "asset_ids": [
+      "usei",
+      "sei1y6t2swnwjewa07hxeuv3pvxd9x9vc8chtwtfz8awpyex0tuurp9qkdzq66"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1aety7v4s3rtylxpppj6hd9a233mzhpqjcs4kwuzahlqhxhss374q9nxaj9"
+  },
+  {
+    "id": "sei1et0jm5d5704uvdzkn3l9e2q260xsdd2kneumws2a7detcsa293ts3qd8tr",
+    "asset_ids": [
+      "usei",
+      "sei1nnrhfhegm072tlwwme4a0y50q80tnkjjqv2zh0pkrwrj45pqthpsrjmeqd"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei133k7jpn37t3nx7mtuz5q3rqesplqe24nqac4hc0nkrmnjxwjnmaqwtgpve"
+  },
+  {
+    "id": "sei1eve0pps8rgzp6xa75t97ezku8v5r2cun5xaz48ker3qejz3zahlq7ljle5",
+    "asset_ids": [
+      "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei15u9s0j7trjaatv8c5uenguhaw8nz06a8jxfne9m9g6kws8q0vfqqezgtv5"
+  },
+  {
+    "id": "sei1f08dl9tkntsjmxx2txccthvx9n0mdcyqajvg4yyuuyh76sgef5dsfpsnhe",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1qxy60cnpqzgt2cel3cdmk9xjwuhjam7a2zmzfdzcs72pn55rkt5qdgruma"
+  },
+  {
+    "id": "sei1f4q4yka46rqzu7sydr902j9km8pppmwm2k523w7qms65jaurl69sxzm3qw",
+    "asset_ids": [
+      "ibc/52BDB3EFE4EC2AA5086F16A93772F5F9B503FF818F3B9494AE5AA2C304C6FF49",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1hvmq2a8zensgqhm0xh4vq6watlr7jdy08fdq788ldn4wqsuued7spdrxzm"
+  },
+  {
+    "id": "sei1f8uemr75vnvcxam2c06x6nmc0exzmtu75er466jmp2msvfjfldwse4y5sr",
+    "asset_ids": [
+      "ibc/6CDD4663F2F09CD62285E2D45891FC149A3568E316CE3EBBE201A71A78A69388",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1k3f08vztd27snjpdlnv0kznkkxpjuqtn8m3tamwa68anuklfv2dqw3yrg7"
+  },
+  {
+    "id": "sei1fgmuswqv3wpxqnpj0ya045zg52udk93qcdm64v3jc74pkcq9z7xsg034ay",
+    "asset_ids": [
+      "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1ryun6k6gpp5wh3hkdmct3c5l5kjqc4r46908szaesmqgwvke3f7qa9z379"
+  },
+  {
+    "id": "sei1fure4v7xvar7vqqk5mqrcp2qkxmkap28asdqejz4kw4z39mrfk5sgauxnv",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
+      "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei153svagc4vtpjege2t7p8tvu36s8a5davfdv0wylvjx4ed5cwzxrs3nn50m"
+  },
+  {
+    "id": "sei1g5s84juvcjamggl6t36pejc4489zgkx4tg42j9m6pfruskv8ajcqml2xsq",
+    "asset_ids": [
+      "usei",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1yj07xdntlactdx77sz4khgh56gq2cxxvrmdmzeza0gefcxd4nmgsecxxnv"
+  },
+  {
+    "id": "sei1gzsjdjhgaav84lgc4u8wn7yel7yaq6mng6rqzz8xw00ldupm32kqm2ezye",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1x4xs095ku22vruc563trcasqak828ajva8j76f78g60h0xqa06gqdynalk"
+  },
+  {
+    "id": "sei1hklg9ev2krf394rh8aqxlcksrzl3z6z97uytpv66jl47lunz052qwe3pwp",
+    "asset_ids": [
+      "factory/sei1t9k0adfpn8rxwcvedafku5595ue73pl3m86anr/tirso",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1kk6lt2a9ue3ay7yra0f2jz7urqtl3wjkldz25nx9u3wmr64wrknq6t4sqr"
+  },
+  {
+    "id": "sei1jc4gk0ua02kvrpggat77r25226h6hg5rrfwlywu7zclkdscjwlhqep7nwm",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1x5fxrxlma86lmy0wf67gxl8x98f05eaz8pwqc56xkmtkacrw0j6sqd0sms"
+  },
+  {
+    "id": "sei1jeqmlhstuumxa8hhu357nwq7wc7sg2em00vpejz6zlgj0st7vucshflugw",
+    "asset_ids": [
+      "usei",
+      "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1ecg7vttnv4jt3rcuwuvxd0snjjmpngrtxnkw3g6kry3044pnrunqmhl2sy"
+  },
+  {
+    "id": "sei1lvvmj606l9vjqxtk53zahwlfv29pm7ke8fglsfu70sy66xnl3hlqe3eufd",
+    "asset_ids": [
+      "sei1606hlfm6sxee9ha7myshcyelhqydjfaca6w37wljphkjpt53fzrqlw9y68",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1x76us00svwqg3jc7e3tgewlwd9rr966dkrm55vcce0u47udelngq86e0ss"
+  },
+  {
+    "id": "sei1nl0ugs5vsy06f9qya2n777wva8lahunu9tpj8scf9fx8pr5xd9tsr89tww",
+    "asset_ids": [
+      "sei1hujt4dydg2lt0yaw8qp6gs3e78fv0tsehp6temwfq28m356v6kmqt9lctc",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1wu8f34zr6p4m7pxnd24hg2stf0trphxkne02d8fp70hgyezg2qcsv57vhe"
+  },
+  {
+    "id": "sei1py6wrf4gcfmn00shy4f8rags6wrvgv26yhsm9ns0l8vc6gwrcajqv33xm5",
+    "asset_ids": [
+      "sei1sfty5rryknlc0x9tm36pvpcsyknem80fwsltctxk3w863suxltwqd0mcht",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei197dqcsngcgw56yvdssayyfef63f78fz4r703muafhsqtlnsxnd5s32yn3y"
+  },
+  {
+    "id": "sei1pzuhurtwmrpx5yaem7r48j62e3fgc3ra2nsjal87tl2kuez2rq0q5ycpgf",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1c00gp2a8cgyhl0kczr3vqd76lrfgpphcdqw3jyrh03lhezg90sqqe7cyuu"
+  },
+  {
+    "id": "sei1q6c2yxkggm40u34vtkg76fs7ljqhf5f7an5uqwzqzrt28nfl6jvsueev8j",
+    "asset_ids": [
+      "sei16aa3whueaddmms3qw0apz7ylddg0vwtw2zugafmccdtrxrwyx0kqwxntat",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1nuxu3y6hpm7txftyq6z0a35ddckecj9ptqk5w8r44lnlr3mgg4eq6w7u3h"
+  },
+  {
+    "id": "sei1qa749d6e3mvjvpekxmea8xamajhl5dz4vthdchatr0s8dhm8z39qpcht0h",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
+      "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei13yk08attt08qd4akmvaf2l6f3t3enyd6z3mjzaa2rdjww5cy4ntqtcjyky"
+  },
+  {
+    "id": "sei1qfpl7gnhhxapqflpy2qpyw6ndkarku9lyz2wa2psptgkdxensgfstpthkz",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
+      "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1tykf5tgc0v3wyj5cezwep69y0926kkv8zyp7jagldtrrgv97lels4g08k3"
+  },
+  {
+    "id": "sei1rslpx99upnmrqjpysn6663kksuaer4dn5tr9la73km3z6fln0z6qpt9s6h",
+    "asset_ids": [
+      "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1cxlup9et0gj66l5y6lcnvs7juq5cg05y5vnwzzv374duzlaugh9qzzktfg"
+  },
+  {
+    "id": "sei1sqtzqp5hetvmjp9g2htv64dv2tfe6lec5v29zywqltnsy2z4asrs8wapqs",
+    "asset_ids": [
+      "sei132zrqrk2de8zmu64sy8j7g2hgsc9xse3jfc88py8ufpkla0pu9gsexgu09",
+      "sei108mlhpvgxgl8556lwvf3cxfcw647wch4ear25kxjmp642cn3cdys92splz"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1v69rjp9nwdulj60dhx22yv7zr5fgf36cxsch6sykcfcmet5un32qc0s67r"
+  },
+  {
+    "id": "sei1tyjzngs505dpx5exu6zfv6z5v2gellj5waew0r0fyv07e3tkx36sffcag2",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1f90r645nx483tv3dzktd6x0xm82svppula0y6uulhhlcpflhzx4s2q38ta"
+  },
+  {
+    "id": "sei1wz2um8232nljc32zx6dr3kzx5lvl2urq0766zctt0397q70kfw3qhy3ea4",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1zqxumcjlmntd9yf34h5xsn6hd95af7p78d9wj7t7n8d0xauwmf3semylee"
+  },
+  {
+    "id": "sei1xfxjrxhgjqtvfcmfemu89lxftf0fq4hxz7vcg9shgczta26nt4lqlmjm9n",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1nxpe6xcr3fysckgd39utza2j7updcjystkz5d45yre04xcu2m85sjpugme"
+  },
+  {
+    "id": "sei1xx6ppf36f9amaq0rmz5q2du3ae053aevt7lyv3gqudphamqstwxq028cer",
+    "asset_ids": [
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1enn6h2nex76xd7a83mzjdmr98kq9g0wkl8ny2yh9xkyt0h56whes3yr7qx"
+  },
+  {
+    "id": "sei1yytwmnxnudhctd605yq6pmsmth6g9jey4nxryz3f34xdhr2cc8zswanalk",
+    "asset_ids": [
+      "sei1y6t2swnwjewa07hxeuv3pvxd9x9vc8chtwtfz8awpyex0tuurp9qkdzq66",
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei16nqvy5epmjpyhluhqvwapuw92dheevc9lw4pkyx5dtf00jj7fxlqlrmey5"
+  },
+  {
+    "id": "sei1zp6ucuft3fptzfysd06cd37we7setrt364ea753dkwepr4ulfwwqdeqvyw",
+    "asset_ids": [
+      "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "sei1kuglu9hazls93h4pwcehk6gwrvv9uznfja6afjdanyud8fwkzlrqefl2qs"
+  }
+]
