@@ -162,6 +162,15 @@
     "type": "orderbook"
   },
   {
+    "id": "kujira15xmhc4u5lnp8pq46wvlvq6qwrmnrpvaxny7gsdqmase8sqa4v7kqp6sgf3",
+    "asset_ids": [
+      "ibc/2661BA7AD557526A9BE35C7576EEF8E82B14A01ECCE36AD139979FD683D37C9D",
+      "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk"
+    ],
+    "dex": "FIN",
+    "type": "orderbook"
+  },
+  {
     "id": "kujira1625a0ks8ceawxsu2am5xxpwtej87h0t3hguqu4rxuq37vgn6lnqsrrqkq0",
     "asset_ids": [
       "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
@@ -778,6 +787,15 @@
     "asset_ids": [
       "ibc/CA4AC8725BA74A291623BACAA8733DCC300D2A43059FB2EDB38657D794D8C7E2",
       "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2"
+    ],
+    "dex": "FIN",
+    "type": "orderbook"
+  },
+  {
+    "id": "kujira1sr2hf68nc8a8f2e42tsjf3zmsgjkl4jmctszdzxes0whyk2tzn5sd3avg7",
+    "asset_ids": [
+      "ibc/B4B3B08FE5FEA65CB25E467C9D95D180A6CDB0EBE730E7BB20CA1BF6C9A80D9B",
+      "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta"
     ],
     "dex": "FIN",
     "type": "orderbook"
