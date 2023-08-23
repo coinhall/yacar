@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+    "entity": "Osmosis",
+    "name": "Osmosis",
+    "symbol": "OSMO",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
+    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
+  },
+  {
+    "id": "uqsr",
+    "entity": "Quasar",
+    "name": "Quasar",
+    "symbol": "QSR",
+    "decimals": "6",
+    "type": "native",
+    "circ_supply_api": "https://rest.cosmos.directory/quasar/cosmos/bank/v1beta1/supply/uqsr",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quasar/images/quasar.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/quasar-2/",
+    "coingecko": "https://www.coingecko.com/en/coins/quasar-fi"
+  }
+]
