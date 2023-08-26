@@ -1091,7 +1091,7 @@
     "symbol": "stATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://stride-api.polkachu.com/cosmos/bank/v1beta1/supply",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom",
     "verification_tx": "osmosis-main"
@@ -1103,7 +1103,7 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://stride-api.polkachu.com/cosmos/bank/v1beta1/supply",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply",
     "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stride",
@@ -1117,7 +1117,7 @@
     "symbol": "stJUNO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://stride-api.polkachu.com/cosmos/bank/v1beta1/supply",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.svg",
     "verification_tx": "osmosis-main"
   },
@@ -1128,7 +1128,7 @@
     "symbol": "stOSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://stride-api.polkachu.com/cosmos/bank/v1beta1/supply",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-osmo",
     "verification_tx": "osmosis-main"
@@ -1319,7 +1319,7 @@
     "symbol": "ARCH",
     "decimals": "18",
     "type": "ibc",
-    "total_supply_api": "https://lcd-archway.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=YWFyY2g%3D&pagination.limit=1",
+    "total_supply_api": "https://m-archway.api.utsa.tech/cosmos/bank/v1beta1/supply?pagination.key=YWFyY2g%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
     "verification_tx": "osmosis-main"
   },
@@ -2113,7 +2113,7 @@
     "symbol": "stEVMOS",
     "decimals": "18",
     "type": "ibc",
-    "circ_supply_api": "https://stride-api.polkachu.com/cosmos/bank/v1beta1/supply",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stevmos.svg",
     "verification_tx": "osmosis-main"
   },
@@ -2132,7 +2132,7 @@
     "symbol": "stLUNA",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://stride-api.polkachu.com/cosmos/bank/v1beta1/supply",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.svg",
     "verification_tx": "osmosis-main"
   },
@@ -2142,7 +2142,7 @@
     "symbol": "stSTARS",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://stride-api.polkachu.com/cosmos/bank/v1beta1/supply",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.svg",
     "verification_tx": "osmosis-main"
   },
