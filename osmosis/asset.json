@@ -1305,6 +1305,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/apemos.png"
   },
   {
+    "id": "ibc/F5493DA7706B00E955ADBC6DDDA24789D4644A81C5E96277A54A0B9C5FD63543",
+    "name": "Aptos Coin (Wormhole)",
+    "symbol": "APT",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/aptos/images/aptos.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/10E5E5B06D78FFBB61FD9F89209DEE5FD4446ED0550CBB8E3747DA79E10D9DC6",
     "name": "Arbitrum",
     "symbol": "ARB",
@@ -1373,6 +1382,15 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/blue.png"
+  },
+  {
+    "id": "ibc/620CD4A652485ECC8BEE7716D5D64BEA1B165612FCCD9706D63A4248CB685E7C",
+    "name": "Bonk (Wormhole)",
+    "symbol": "Bonk",
+    "decimals": "5",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/bonk.png",
+    "verification_tx": "osmosis-main"
   },
   {
     "id": "ibc/1FBA9E763B8679BEF7BAAAF2D16BCA78C3B297D226C3F31312C769D7B8F992D8",
@@ -2174,6 +2192,15 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/034873957DC93F6650D50760F2C289C5AA0AFEB307D8A8AE7E167F40023341D5",
+    "name": "Sui (Wormhole)",
+    "symbol": "SUI",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/sui/images/sui.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/56B988C4D934FB7503F5EA9B440C75D489C8AD5D193715B477BEC4F84B8BBA2A",
     "name": "Summit",
     "symbol": "SUMMIT",
@@ -2196,6 +2223,15 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/4EDA0CAEE870C8FCA5DDCD390F11B89BA850654D81FEAEF9DBBA17D722239D70",
+    "name": "Tether USD (Wormhole)",
+    "symbol": "USDT.wh",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.hole.svg",
     "verification_tx": "osmosis-main"
   },
   {
@@ -2299,6 +2335,15 @@
     "decimals": "18",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/C058818AD1980A9C77F26D1BEF9E3ADF674C9659EB88563FD46950A9BC4164A6",
+    "name": "Wrapped SOL (Wormhole)",
+    "symbol": "SOL",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/sol.svg",
     "verification_tx": "osmosis-main"
   }
 ]
