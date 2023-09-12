@@ -40,6 +40,13 @@
     "type": "ibc"
   },
   {
+    "id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
+    "name": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
+    "symbol": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
+    "decimals": "6",
+    "type": ""
+  },
+  {
     "id": "ibc/5A027DC380009335DC96374937E7AA5D7D45FA710E9A0AE76854541441026E11",
     "name": "Kusama",
     "symbol": "KSM",
@@ -85,5 +92,12 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdt.svg"
+  },
+  {
+    "id": "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D",
+    "name": "Wrapped Ether (wei)",
+    "symbol": "wETH",
+    "decimals": "6",
+    "type": "ibc"
   }
 ]
