@@ -1708,6 +1708,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kyve/images/kyve-token.svg"
   },
   {
+    "id": "ibc/DB421D24F8571EDBA4816557B8D459B444ADD795E499289841228AD3EFB2B791",
+    "name": "Licorice",
+    "symbol": "DGL",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dgl.png"
+  },
+  {
     "id": "ibc/3DC08BDF2689978DBCEE28C7ADC2932AA658B2F64B372760FBC5A0058669AD29",
     "name": "LIGHT",
     "symbol": "LIGHT",
@@ -2252,6 +2260,24 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "name": "USD Coin",
+    "symbol": "noble.USDC",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/noble.usdc.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/9FB3464A62D6E1D712E3036E11757FF88626F41CCA87F061AB0EF469CF4D19FC",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "USDC.wh",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.hole.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/F17C9CA112815613C5B6771047A093054F837C3020CBA59DFFD9D780A8B2984C",
     "name": "USD Coin from Avalanche",
     "symbol": "avalanche.USDC",
@@ -2317,6 +2343,15 @@
     "decimals": "18",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/avax.png",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/580F8A1EF2A4281116B8F331973CC87E579811593859AC11B4E46BF6EA73EBFE",
+    "name": "Wrapped Ether (Wormhole)",
+    "symbol": "wETH.wh",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/weth.hole.svg",
     "verification_tx": "osmosis-main"
   },
   {
