@@ -47,6 +47,13 @@
     "type": "ibc"
   },
   {
+    "id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
+    "name": "Lido wstETH",
+    "symbol": "wstETH",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "untrn",
     "name": "Neutron",
     "symbol": "NTRN",
@@ -85,5 +92,12 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdt.svg"
+  },
+  {
+    "id": "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D",
+    "name": "Wrapped Ether (wei)",
+    "symbol": "wETH",
+    "decimals": "6",
+    "type": "ibc"
   }
 ]
