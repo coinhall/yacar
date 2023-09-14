@@ -40,18 +40,18 @@
     "type": "ibc"
   },
   {
-    "id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
-    "name": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
-    "symbol": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
-    "decimals": "6",
-    "type": ""
-  },
-  {
     "id": "ibc/5A027DC380009335DC96374937E7AA5D7D45FA710E9A0AE76854541441026E11",
     "name": "Kusama",
     "symbol": "KSM",
     "decimals": "6",
     "type": "ibc"
+  },
+  {
+    "id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
+    "name": "Lido wstETH",
+    "symbol": "wstETH",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "untrn",
