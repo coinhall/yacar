@@ -610,6 +610,15 @@
     "type": "orderbook"
   },
   {
+    "id": "0xa04adeed0f09ed45c73b344b520d05aa31eabe2f469dcbb02a021e0d9d098715",
+    "asset_ids": [
+      "ibc/C20C0A822BD22B2CEF0D067400FCCFB6FAEEE9E91D360B4E0725BD522302D565",
+      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
     "id": "0xa43d2be9861efb0d188b136cef0ae2150f80e08ec318392df654520dd359fcd7",
     "asset_ids": [
       "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
@@ -775,6 +784,15 @@
     "id": "0xe8bf0467208c24209c1cf0fd64833fa43eb6e8035869f9d043dbff815ab76d01",
     "asset_ids": [
       "peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
+    "id": "0xe8fe754e16233754e2811c36aca89992e35951cfd61376f1cbdc44be6ac8d3fb",
+    "asset_ids": [
+      "ibc/F6CC233E5C0EA36B1F74AB1AF98471A2D6A80E2542856639703E908B4D93E7C4",
       "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
     ],
     "dex": "Helix",
