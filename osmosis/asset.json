@@ -1305,6 +1305,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/apemos.png"
   },
   {
+    "id": "ibc/A4D176906C1646949574B48C1928D475F2DF56DE0AC04E1C99B08F90BC21ABDE",
+    "name": "Aptos Coin (Wormhole)",
+    "symbol": "APT",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/aptos/images/aptos.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/F5493DA7706B00E955ADBC6DDDA24789D4644A81C5E96277A54A0B9C5FD63543",
     "name": "Aptos Coin (Wormhole)",
     "symbol": "APT",
@@ -1385,6 +1394,15 @@
   },
   {
     "id": "ibc/620CD4A652485ECC8BEE7716D5D64BEA1B165612FCCD9706D63A4248CB685E7C",
+    "name": "Bonk (Wormhole)",
+    "symbol": "Bonk",
+    "decimals": "5",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/bonk.png",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/CA3733CB0071F480FAE8EF0D9C3D47A49C6589144620A642BBE0D59A293D110E",
     "name": "Bonk (Wormhole)",
     "symbol": "Bonk",
     "decimals": "5",
@@ -1708,6 +1726,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kyve/images/kyve-token.svg"
   },
   {
+    "id": "ibc/D69F6D787EC649F4E998161A9F0646F4C2DCC64748A2AB982F14CAFBA7CC0EC9",
+    "name": "Licorice",
+    "symbol": "DGL",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dgl.png"
+  },
+  {
     "id": "ibc/DB421D24F8571EDBA4816557B8D459B444ADD795E499289841228AD3EFB2B791",
     "name": "Licorice",
     "symbol": "DGL",
@@ -2024,6 +2050,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ftE4903ECC861CA45F2C2BC7EAB8255D2E6E87A33A.png"
   },
   {
+    "id": "ibc/FBB3FEF80ED2344D821D4F95C31DBFD33E4E31D5324CAD94EF756E67B749F668",
+    "name": "Real Yield Eth",
+    "symbol": "YieldETH",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/yieldeth.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/1CDF9C7D073DD59ED06F15DB08CC0901F2A24759BE70463570E8896F9A444ADF",
     "name": "Realio Network",
     "symbol": "RIO",
@@ -2217,6 +2252,15 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/B1C287C2701774522570010EEBCD864BCB7AB714711B3AA218699FDD75E832F5",
+    "name": "Sui (Wormhole)",
+    "symbol": "SUI",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/sui/images/sui.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/56B988C4D934FB7503F5EA9B440C75D489C8AD5D193715B477BEC4F84B8BBA2A",
     "name": "Summit",
     "symbol": "SUMMIT",
@@ -2239,6 +2283,15 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/2108F2D81CBE328F371AD0CEF56691B18A86E08C3651504E42487D9EE92DDE9C",
+    "name": "Tether USD (Wormhole)",
+    "symbol": "USDT.wh",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.hole.svg",
     "verification_tx": "osmosis-main"
   },
   {
@@ -2266,6 +2319,15 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/noble.usdc.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/6B99DB46AA9FF47162148C1726866919E44A6A5E0274B90912FD17E19A337695",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "USDC.wh",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.hole.svg",
     "verification_tx": "osmosis-main"
   },
   {
@@ -2355,6 +2417,15 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/62F82550D0B96522361C89B0DA1119DE262FBDFB25E5502BC5101B5C0D0DBAAC",
+    "name": "Wrapped Ether (Wormhole)",
+    "symbol": "wETH.wh",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/weth.hole.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/18FB5C09D9D2371F659D4846A956FA56225E377EE3C3652A2BF3542BF809159D",
     "name": "Wrapped FIL from Filecoin",
     "symbol": "axlFIL",
@@ -2378,6 +2449,15 @@
     "decimals": "18",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/1E43D59E565D41FB4E54CA639B838FFD5BCFC20003D330A56CB1396231AA1CBA",
+    "name": "Wrapped SOL (Wormhole)",
+    "symbol": "SOL",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/sol.svg",
     "verification_tx": "osmosis-main"
   },
   {
