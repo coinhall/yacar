@@ -217,20 +217,6 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/evmos.svg"
   },
   {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
-    "name": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
-    "symbol": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla",
-    "name": "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla",
-    "symbol": "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
     "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
     "name": "GRT",
     "symbol": "GRT",
@@ -300,6 +286,27 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/luna.png"
+  },
+  {
+    "id": "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla",
+    "name": "Nebula",
+    "symbol": "NBLA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "ibc/F6CC233E5C0EA36B1F74AB1AF98471A2D6A80E2542856639703E908B4D93E7C4",
+    "name": "NEOK",
+    "symbol": "NEOK",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/C20C0A822BD22B2CEF0D067400FCCFB6FAEEE9E91D360B4E0725BD522302D565",
+    "name": "ORAI",
+    "symbol": "ORAI",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "helix/OSMO",
@@ -489,6 +496,13 @@
     "decimals": "18",
     "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethereum.svg"
+  },
+  {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
+    "name": "Wrapped Klaytn",
+    "symbol": "WKLAY",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h",

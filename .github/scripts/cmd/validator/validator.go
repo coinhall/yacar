@@ -93,6 +93,10 @@ func validateAssetJSON(file *os.File) error {
 		if !asset.IsMinimallyPopulated() {
 			return fmt.Errorf("asset ID %s is not minimally populated", asset.Id)
 		}
+
+		if asset.Id == asset.Name {
+			return fmt.Errorf("asset name for %s cannot be the asset ID", asset.Id)
+		}
 	}
 
 	idCount := make(map[string]struct{})

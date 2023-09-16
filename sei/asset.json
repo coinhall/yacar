@@ -11,6 +11,14 @@
     "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
   {
+    "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+    "entity": "Cosmos",
+    "name": "Atom",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
     "entity": "Osmosis",
     "name": "Osmosis",
@@ -30,6 +38,7 @@
     "symbol": "SEI",
     "decimals": "6",
     "type": "native",
+    "circ_supply_api": "https://rest.cosmos.directory/sei/cosmos/bank/v1beta1/supply?pagination.key=dXNlaQ%3D%3D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/sei.svg",
     "coingecko": "https://www.coingecko.com/en/coins/sei"
   },
@@ -47,13 +56,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
   {
-    "id": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
-    "name": "79228162514264337593543950342",
-    "symbol": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
     "id": "factory/sei1x2fgaaqecvk8kwuqkjqcj27clw5p5g99uawdzy9sc4rku8avumcq3cky4k/ampSEI",
     "name": "ampSEI",
     "symbol": "ampSEI",
@@ -68,11 +70,12 @@
     "type": "ibc"
   },
   {
-    "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-    "name": "Atom",
-    "symbol": "ATOM",
+    "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
+    "name": "Axelar USDC",
+    "symbol": "USDC",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
@@ -104,22 +107,15 @@
   },
   {
     "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hello",
-    "name": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hello",
-    "symbol": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hello",
+    "name": "hello",
+    "symbol": "hello",
     "decimals": "6",
     "type": "tokenfactory"
   },
   {
     "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hellooo",
-    "name": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hellooo",
-    "symbol": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hellooo",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/xxx",
-    "name": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/xxx",
-    "symbol": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/xxx",
+    "name": "hellooo",
+    "symbol": "hellooo",
     "decimals": "6",
     "type": "tokenfactory"
   },
@@ -136,6 +132,13 @@
     "symbol": "OIN",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "sei1606hlfm6sxee9ha7myshcyelhqydjfaca6w37wljphkjpt53fzrqlw9y68",
@@ -224,14 +227,6 @@
     "type": "cw20"
   },
   {
-    "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
-    "name": "USDC",
-    "symbol": "USDC",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
-  },
-  {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
     "name": "Wrapped Bitcoin from Ethereum (Wormhole)",
     "symbol": "WBTC",
@@ -307,6 +302,13 @@
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
     "name": "Wrapped USDC from Solana (Wormhole)",
     "symbol": "USDCso",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/xxx",
+    "name": "xxx",
+    "symbol": "xxx",
     "decimals": "6",
     "type": "tokenfactory"
   }
