@@ -407,6 +407,7 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stride.png"
   },
   {
@@ -415,6 +416,7 @@
     "symbol": "stINJ",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3Rpbmo=&pagination.limit=1",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stinj.png"
   },
   {
