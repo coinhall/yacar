@@ -72,15 +72,15 @@
   {
     "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "name": "Axelar USDC",
-    "symbol": "USDC",
+    "symbol": "USDC.axl",
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
-    "name": "Binance-Peg BSC-USD from BSC (Wormhole)",
-    "symbol": "USDTbs",
+    "name": "Wormhole BSC USDT",
+    "symbol": "USDT.bsc",
     "decimals": "6",
     "type": "tokenfactory"
   },
@@ -93,14 +93,14 @@
   },
   {
     "id": "sei1zx373qvk4vwuvjc5nhl84u85tvhrsp8vd58p0ypvt9ktant52x7sn3zf09",
-    "name": "CW20-wrapped usei",
+    "name": "Wrapped SEI",
     "symbol": "USEI",
     "decimals": "6",
     "type": "cw20"
   },
   {
     "id": "sei1n4mn9j8fcruzv0xf5ccuavjg8hxp75n2c4vme6yp0awlhx4g8qzs6nzseh",
-    "name": "CW20-wrapped ustrd",
+    "name": "Wrapped STRD",
     "symbol": "USTRD",
     "decimals": "6",
     "type": "cw20"
@@ -228,80 +228,80 @@
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
-    "name": "Wrapped Bitcoin from Ethereum (Wormhole)",
+    "name": "Wormhole Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": "6",
     "type": "tokenfactory"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
-    "name": "Wrapped Ether from Arbitrum (Wormhole)",
-    "symbol": "WETHar",
+    "name": "Arbitrum Wrapped Ether",
+    "symbol": "WETH.arb",
     "decimals": "6",
     "type": "tokenfactory"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
-    "name": "Wrapped Ether from BSC (Wormhole)",
-    "symbol": "WETHbs",
+    "name": "BSC Wrapped Ether",
+    "symbol": "WETH.bsc",
     "decimals": "6",
     "type": "tokenfactory"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
-    "name": "Wrapped Ether from Ethereum (Wormhole)",
+    "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": "6",
     "type": "tokenfactory"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
-    "name": "Wrapped Tether USD from Ethereum (Wormhole)",
-    "symbol": "USDTet",
+    "name": "Wrapped Tether USD",
+    "symbol": "USDT.eth",
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
-    "name": "Wrapped USD Coin from Ethereum (Wormhole)",
-    "symbol": "USDCet",
+    "name": "Wrapped USD Coin",
+    "symbol": "USDC.eth",
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
-    "name": "Wrapped USDC from Arbitrum (Wormhole)",
-    "symbol": "USDCar",
+    "name": "Arbitrum Wrapped USDC",
+    "symbol": "USDC.arb",
     "decimals": "6",
     "type": "tokenfactory"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
-    "name": "Wrapped USDC from BSC (Wormhole)",
-    "symbol": "USDCbs",
+    "name": "BSC Wrapped USDC",
+    "symbol": "USDC.bsc",
     "decimals": "6",
     "type": "tokenfactory"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
-    "name": "Wrapped USDC from Optimism (Wormhole)",
-    "symbol": "USDCop",
+    "name": "Optimism Wrapped USDC",
+    "symbol": "USDC.op",
     "decimals": "6",
     "type": "tokenfactory"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
-    "name": "Wrapped USDC from Polygon (Wormhole)",
-    "symbol": "USDCpo",
+    "name": "Polygon Wrapped USDC",
+    "symbol": "USDC.matic",
     "decimals": "6",
     "type": "tokenfactory"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
-    "name": "Wrapped USDC from Solana (Wormhole)",
-    "symbol": "USDCso",
+    "name": "Solana Wrapped USDC",
+    "symbol": "USDC.sol",
     "decimals": "6",
     "type": "tokenfactory"
   },
