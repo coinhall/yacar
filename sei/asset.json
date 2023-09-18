@@ -63,6 +63,22 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
+    "name": "Arbitrum Wrapped Ether",
+    "symbol": "WETH.arb",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/weth.png"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
+    "name": "Arbitrum Wrapped USDC",
+    "symbol": "USDC.arb",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+  },
+  {
     "id": "ibc/6CDD4663F2F09CD62285E2D45891FC149A3568E316CE3EBBE201A71A78A69388",
     "name": "Atom",
     "symbol": "ATOM",
@@ -78,30 +94,25 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
-    "name": "Wormhole BSC USDT",
-    "symbol": "USDT.bsc",
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
+    "name": "BSC Wrapped Ether",
+    "symbol": "WETH.bsc",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/weth.png"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
+    "name": "BSC Wrapped USDC",
+    "symbol": "USDC.bsc",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
   },
   {
     "id": "sei1r5fjagxce2sf3ll8c23falpg534anzha574ldgalafftprv8fznqfktdqc",
     "name": "CLAM",
     "symbol": "SHELL",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1zx373qvk4vwuvjc5nhl84u85tvhrsp8vd58p0ypvt9ktant52x7sn3zf09",
-    "name": "Wrapped SEI",
-    "symbol": "USEI",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1n4mn9j8fcruzv0xf5ccuavjg8hxp75n2c4vme6yp0awlhx4g8qzs6nzseh",
-    "name": "Wrapped STRD",
-    "symbol": "USTRD",
     "decimals": "6",
     "type": "cw20"
   },
@@ -134,11 +145,27 @@
     "type": "cw20"
   },
   {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
+    "name": "Optimism Wrapped USDC",
+    "symbol": "USDC.op",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+  },
+  {
     "id": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
     "name": "Polkadot",
     "symbol": "DOT",
     "decimals": "6",
     "type": "ibc"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
+    "name": "Polygon Wrapped USDC",
+    "symbol": "USDC.matic",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
   },
   {
     "id": "sei1606hlfm6sxee9ha7myshcyelhqydjfaca6w37wljphkjpt53fzrqlw9y68",
@@ -204,6 +231,14 @@
     "type": "cw20"
   },
   {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
+    "name": "Solana Wrapped USDC",
+    "symbol": "USDC.sol",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+  },
+  {
     "id": "ibc/52BDB3EFE4EC2AA5086F16A93772F5F9B503FF818F3B9494AE5AA2C304C6FF49",
     "name": "Stride Staked ATOM",
     "symbol": "stATOM",
@@ -227,23 +262,17 @@
     "type": "cw20"
   },
   {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
+    "name": "Wormhole BSC USDT",
+    "symbol": "USDT.bsc",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdt.svg"
+  },
+  {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
     "name": "Wormhole Wrapped Bitcoin",
     "symbol": "WBTC",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
-    "name": "Arbitrum Wrapped Ether",
-    "symbol": "WETH.arb",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
-    "name": "BSC Wrapped Ether",
-    "symbol": "WETH.bsc",
     "decimals": "6",
     "type": "tokenfactory"
   },
@@ -252,7 +281,22 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/weth.png"
+  },
+  {
+    "id": "sei1zx373qvk4vwuvjc5nhl84u85tvhrsp8vd58p0ypvt9ktant52x7sn3zf09",
+    "name": "Wrapped SEI",
+    "symbol": "USEI",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1n4mn9j8fcruzv0xf5ccuavjg8hxp75n2c4vme6yp0awlhx4g8qzs6nzseh",
+    "name": "Wrapped STRD",
+    "symbol": "USTRD",
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
@@ -269,41 +313,6 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
-    "name": "Arbitrum Wrapped USDC",
-    "symbol": "USDC.arb",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
-    "name": "BSC Wrapped USDC",
-    "symbol": "USDC.bsc",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
-    "name": "Optimism Wrapped USDC",
-    "symbol": "USDC.op",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
-    "name": "Polygon Wrapped USDC",
-    "symbol": "USDC.matic",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
-    "name": "Solana Wrapped USDC",
-    "symbol": "USDC.sol",
-    "decimals": "6",
-    "type": "tokenfactory"
   },
   {
     "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/xxx",
