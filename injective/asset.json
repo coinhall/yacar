@@ -86,7 +86,7 @@
     "name": "ATOM",
     "symbol": "ATOM",
     "decimals": "6",
-    "type": "native",
+    "type": "oracle",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
   },
   {
@@ -110,7 +110,7 @@
     "name": "BAYC",
     "symbol": "BAYC",
     "decimals": "6",
-    "type": "native",
+    "type": "oracle",
     "icon": "https://moon.ly/uploads/nft/82e50e35-dfdd-4be3-9930-5cc2f91a13df.jpg"
   },
   {
@@ -118,7 +118,7 @@
     "name": "BNB",
     "symbol": "BNB",
     "decimals": "6",
-    "type": "native",
+    "type": "oracle",
     "icon": "https://cryptologos.cc/logos/bnb-bnb-logo.svg"
   },
   {
@@ -126,14 +126,14 @@
     "name": "BONK",
     "symbol": "BONK",
     "decimals": "6",
-    "type": "native"
+    "type": "oracle"
   },
   {
     "id": "helix/BTC",
     "name": "BTC",
     "symbol": "BTC",
     "decimals": "6",
-    "type": "native",
+    "type": "oracle",
     "icon": "https://helixapp.com/vendor/@injectivelabs/token-metadata/bitcoin.svg"
   },
   {
@@ -197,7 +197,7 @@
     "name": "ETH",
     "symbol": "ETH",
     "decimals": "6",
-    "type": "native",
+    "type": "oracle",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
   },
   {
@@ -245,7 +245,7 @@
     "name": "INJ",
     "symbol": "INJ",
     "decimals": "6",
-    "type": "native",
+    "type": "oracle",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
@@ -313,7 +313,7 @@
     "name": "OSMO",
     "symbol": "OSMO",
     "decimals": "6",
-    "type": "native",
+    "type": "oracle",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/osmo.png"
   },
   {
@@ -359,7 +359,7 @@
     "name": "SEI",
     "symbol": "SEI",
     "decimals": "6",
-    "type": "native"
+    "type": "oracle"
   },
   {
     "id": "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
@@ -374,7 +374,7 @@
     "name": "SOL",
     "symbol": "SOL",
     "decimals": "6",
-    "type": "native",
+    "type": "oracle",
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
   },
   {
