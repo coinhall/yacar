@@ -11,6 +11,27 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
+    "id": "helix/0x60144b1d5c9e9851732ad1d9760e3485ef80be39b984f6bf60f82b28a2b7f126",
+    "name": "0x60144b1d5c9e9851732ad1d9760e3485ef80be39b984f6bf60f82b28a2b7f126",
+    "symbol": "0x60144b1d5c9e9851732ad1d9760e3485ef80be39b984f6bf60f82b28a2b7f126",
+    "decimals": "6",
+    "type": "oracle"
+  },
+  {
+    "id": "helix/0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+    "name": "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+    "symbol": "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+    "decimals": "6",
+    "type": "oracle"
+  },
+  {
+    "id": "helix/0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+    "name": "0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+    "symbol": "0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+    "decimals": "6",
+    "type": "oracle"
+  },
+  {
     "id": "helix/0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
     "name": "1MPEPE",
     "symbol": "1MPEPE",
@@ -249,6 +270,13 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
+    "id": "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
+    "name": "KAVA",
+    "symbol": "KAVA",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
     "name": "Lido DAO Token (Wormhole)",
     "symbol": "LDO",
@@ -444,6 +472,13 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdt.svg"
   },
   {
+    "id": "helix/TIA",
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": "6",
+    "type": "oracle"
+  },
+  {
     "id": "peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
     "name": "UNI",
     "symbol": "UNI",
@@ -474,6 +509,13 @@
     "decimals": "6",
     "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
+  },
+  {
+    "id": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
+    "name": "USDTkv PERP",
+    "symbol": "USDTkv PERP",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "peggy0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
