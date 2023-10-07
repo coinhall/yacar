@@ -234,10 +234,28 @@
     "type": "orderbook"
   },
   {
+    "id": "kujira17356flrg56cjs7ardg0c6jpufwyeafegss6l4asza4chrr0ne7aqfesynu",
+    "asset_ids": [
+      "ibc/5A3DCF59BC9EC5C0BB7AA0CA0279FC2BB126640CB8B8F704F7BC2DC42495041B",
+      "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta"
+    ],
+    "dex": "FIN",
+    "type": "orderbook"
+  },
+  {
     "id": "kujira17qp8g5n5wwelrsnfdakrv0p550nzg72agpcz5t0ea6thlqd300hquxljcc",
     "asset_ids": [
       "ibc/A2146858B5E3CFE759E32F47CA54591F8E27FAEDFF731D30B448E5AB25CA8EC5",
       "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F"
+    ],
+    "dex": "FIN",
+    "type": "orderbook"
+  },
+  {
+    "id": "kujira17r5u5r9gl3p9lql7p4dhdcffnv2z0f4xxafvgl8wnhw8qeez4x6q9zflp7",
+    "asset_ids": [
+      "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
+      "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta"
     ],
     "dex": "FIN",
     "type": "orderbook"
@@ -598,6 +616,15 @@
     "asset_ids": [
       "ibc/03E988788ED3EE6326C95151F4E3947820B2F40BDC8C4170FEF5FC75B56EB6DC",
       "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk"
+    ],
+    "dex": "FIN",
+    "type": "orderbook"
+  },
+  {
+    "id": "kujira1krepsjxnpesa5u2amklew60r6zgtrmt9h2ljx8dnzljp0wxcstnqxfy0tk",
+    "asset_ids": [
+      "ibc/7023F9629A70F8112764D959D04F52EA3115A0AED3CEE59694799FD8C91A97FA",
+      "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta"
     ],
     "dex": "FIN",
     "type": "orderbook"
