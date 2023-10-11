@@ -853,6 +853,8 @@
     "symbol": "ORAI",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.token.orai.io/v1/cs",
+    "total_supply_api": "https://api.token.orai.io/v1/total-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.svg",
     "coingecko": "https://www.coingecko.com/en/coins/oraichain-token"
   },
