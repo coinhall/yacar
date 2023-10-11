@@ -97,6 +97,14 @@ func validateAssetJSON(file *os.File) error {
 		if asset.Id == asset.Name {
 			return fmt.Errorf("asset name for %s cannot be the asset ID", asset.Id)
 		}
+
+		if asset.Id == asset.Symbol {
+			return fmt.Errorf("asset symbol for %s cannot be the asset ID", asset.Id)
+		}
+
+		if len(asset.Symbol) > 10 {
+			return fmt.Errorf("asset symbol for %s cannot be longer than 10 characters", asset.Id)
+		}
 	}
 
 	idCount := make(map[string]struct{})
