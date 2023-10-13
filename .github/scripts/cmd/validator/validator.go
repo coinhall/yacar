@@ -102,8 +102,8 @@ func validateAssetJSON(file *os.File) error {
 			return fmt.Errorf("asset symbol for %s cannot be the asset ID", asset.Id)
 		}
 
-		if len(asset.Symbol) > 10 {
-			return fmt.Errorf("asset symbol for %s cannot be longer than 10 characters", asset.Id)
+		if len(asset.Symbol) > 20 {
+			return fmt.Errorf("asset symbol for %s cannot be longer than 20 characters", asset.Id)
 		}
 	}
 
