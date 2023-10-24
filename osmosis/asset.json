@@ -1455,6 +1455,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/catmos.png"
   },
   {
+    "id": "factory/osmo1s794h9rxggytja3a4pmwul53u98k06zy2qtrdvjnfuxruh7s8yjs6cyxgd/ucdt",
+    "name": "CDT",
+    "symbol": "CDT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/CDT.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/0E4FA664327BD40B32803EE84A77F145834C0281B7F82B65521333B3669FA0BA",
     "name": "Celestims",
     "symbol": "CLST",
@@ -1562,6 +1571,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/amp.osmo.png",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/01D2F0C4739C871BFBEE7E786709E6904A55559DC1483DD92ED392EF12247862",
+    "name": "FIS",
+    "symbol": "FIS",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stafihub/images/stafihub.png",
     "verification_tx": "osmosis-main"
   },
   {
@@ -1820,6 +1838,15 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1s794h9rxggytja3a4pmwul53u98k06zy2qtrdvjnfuxruh7s8yjs6cyxgd/umbrn",
+    "name": "MBRN",
+    "symbol": "MBRN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/MBRN.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/01e94a5ff29b8ddefc86f412cc3927f7330e9b523cc63a6194b1108f5276025c",
     "name": "MedasDigital",
     "symbol": "MEDAS",
@@ -2069,6 +2096,15 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/B66CE615C600ED0A8B5AF425ECFE0D57BE2377587F66C45934A76886F34DC9B7",
+    "name": "rATOM",
+    "symbol": "rATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stafihub/images/ratom.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/56C276FC136E239449DCE664292DBEEF5795C4EF4B5B35DB98BD1C0948274867",
     "name": "Rawanne FanToken",
     "symbol": "RWNE",
@@ -2220,6 +2256,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/sejuno.svg"
+  },
+  {
+    "id": "ibc/CFF40564FDA3E958D9904B8B479124987901168494655D9CC6B7C0EC0416020B",
+    "name": "Stardust STRDST",
+    "symbol": "STRDST",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/dust.svg"
   },
   {
     "id": "ibc/C5579A9595790017C600DD726276D978B9BF314CF82406CE342720A9C7911A01",
