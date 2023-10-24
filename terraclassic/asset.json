@@ -1317,8 +1317,8 @@
     "symbol": "BASE",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply": "28477573.700000",
-    "total_supply": "28477573.700000",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/793058e47634d50ec157d52f721dd634de4fa518/src/images/Token/LBUNC_256.png",
     "verification_tx": "71C20F33FB244F2D317D922697E255DD97C2ADB21D788B7E8FDAA7E278D3DBEB"
   },
@@ -4152,7 +4152,9 @@
     "symbol": "GRDX",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://i.ibb.co/jkwPpnS/zz1.png"
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://i.ibb.co/jkwPpnS/zz1.png",
+    "verification_tx": "FE2083204EE9FF88CCA2C93E2B2AB0A94681D347F8218D04122DEE6B91BE6DBD"
   },
   {
     "id": "ugbp",
