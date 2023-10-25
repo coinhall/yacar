@@ -2098,6 +2098,14 @@
     "type": "cw20"
   },
   {
+    "id": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
+    "name": "ampRoar",
+    "symbol": "ampROAR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://app.whitewhale.money/logos/lion.png"
+  },
+  {
     "id": "terra1wu5cts7zr3sfmwlxfh7an3nthrx9cuz8fx7xfesmdudg2kzcwmhsaw24r8",
     "name": "ANC",
     "symbol": "ANC",
@@ -2448,6 +2456,13 @@
     "id": "ibc/55892DEC5D6213E0353F76D72161037780DB2DCEF27C9134817808AD5005B35A",
     "name": "EMPWR",
     "symbol": "EMPWR",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992",
+    "name": "erc20/tether/usdt",
+    "symbol": "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992",
     "decimals": "6",
     "type": "ibc"
   },
@@ -3292,6 +3307,13 @@
     "symbol": "USD",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "terra1uc3r74qg44csdrl8hrm5muzlue9gf7umgkyv569pgazh7tudpr4qdtgqh6",
