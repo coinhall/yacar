@@ -40,6 +40,14 @@
     "type": "ibc"
   },
   {
+    "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
+    "name": "Axelar USDC",
+    "symbol": "axlUSDC",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg"
+  },
+  {
     "id": "neutron149tpx0nequ0cpctw06nk29hwfps0343wvwfh6tkhju3ra7hxvpeq8pvstf",
     "name": "CW20-wrapped factory/neutron1ug740qrkquxzrk2hh29qr",
     "symbol": "FACTORY/",
@@ -90,14 +98,6 @@
     "symbol": "MARS",
     "decimals": "6",
     "type": "ibc"
-  },
-  {
-    "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
-    "name": "USDC",
-    "symbol": "USDC",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg"
   },
   {
     "id": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
