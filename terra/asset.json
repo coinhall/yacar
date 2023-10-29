@@ -2643,12 +2643,16 @@
     "decimals": "6",
     "type": "ibc"
   },
-  {
+    {
     "id": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv",
-    "name": "King",
+    "entity": "CrownCraft",
+    "name": "CrownCraft",
     "symbol": "KING",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply": "1000000000",
+    "total_supply": "1000000000",
+    "icon": "https://imgur.com/a/mRplffK",   
   },
   {
     "id": "terra1fsseg53tn3wwj09gaue0crgx32ph9daeepyrmtpf62wf7xka5rfq9ph9nf",
