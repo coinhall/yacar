@@ -235,6 +235,13 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/evmos.svg"
   },
   {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
+    "name": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
+    "symbol": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
     "name": "GRT",
     "symbol": "GRT",
@@ -340,6 +347,13 @@
     "decimals": "6",
     "type": "oracle",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/osmo.png"
+  },
+  {
+    "id": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "name": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "symbol": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "decimals": "6",
+    "type": "peggy"
   },
   {
     "id": "peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933",
@@ -451,6 +465,13 @@
     "decimals": "18",
     "type": "peggy",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sushi.svg"
+  },
+  {
+    "id": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
+    "name": "TALIS",
+    "symbol": "TALIS",
+    "decimals": "0",
+    "type": "tokenfactory"
   },
   {
     "id": "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C",
