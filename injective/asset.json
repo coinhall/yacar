@@ -235,13 +235,6 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/evmos.svg"
   },
   {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
-    "name": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
-    "symbol": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
     "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
     "name": "GRT",
     "symbol": "GRT",
@@ -349,13 +342,6 @@
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/osmo.png"
   },
   {
-    "id": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-    "name": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-    "symbol": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-    "decimals": "6",
-    "type": "peggy"
-  },
-  {
     "id": "peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933",
     "name": "Pepe",
     "symbol": "PEPE",
@@ -399,6 +385,13 @@
     "symbol": "SEI",
     "decimals": "6",
     "type": "oracle"
+  },
+  {
+    "id": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "name": "SHIBA INU",
+    "symbol": "SHIB",
+    "decimals": "6",
+    "type": "peggy"
   },
   {
     "id": "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
@@ -548,6 +541,13 @@
     "symbol": "USDTkv PERP",
     "decimals": "6",
     "type": "ibc"
+  },
+  {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
+    "name": "Vatreni Token",
+    "symbol": "VATRENI",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "peggy0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
