@@ -612,6 +612,13 @@
     "coingecko": "https://www.coingecko.com/en/coins/neutron"
   },
   {
+    "id": "factory/kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh/unstk",
+    "name": "NSTK",
+    "symbol": "NSTK",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "ibc/B4DCACF7753C05040AF0A7BF2B583402C4B8C9B0A86FCECE32EF63CB7F0A46B3",
     "name": "PAXG",
     "symbol": "gPAXG",
@@ -848,6 +855,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.svg",
     "coingecko": "https://www.coingecko.com/en/coins/polkadot",
     "verification_tx": "kujira-fin"
+  },
+  {
+    "id": "ibc/E5CA126979E2FFB4C70C072F8094D07ECF27773B37623AD2BF7582AD0726F0F3",
+    "name": "Wrapped SOL (Wormhole)",
+    "symbol": "whSOL",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/sol.svg"
   },
   {
     "id": "ibc/A2146858B5E3CFE759E32F47CA54591F8E27FAEDFF731D30B448E5AB25CA8EC5",
