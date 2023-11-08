@@ -43,6 +43,8 @@
     "symbol": "ASH",
     "decimals": "6",
     "type": "tokenfactory",
+    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVydWw2eHlxMGdrNndzOThuY2o3bG5xOWw0am40Z25udTl3ZTczZ2R6Nzh5eWwybHI3cXFydmNndXAvYXNo&pagination.limit=1",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVydWw2eHlxMGdrNndzOThuY2o3bG5xOWw0am40Z25udTl3ZTczZ2R6Nzh5eWwybHI3cXFydmNndXAvYXNo&pagination.limit=1",
     "icon": "https://app.whitewhale.money/logos/ash.svg"
   },
   {
