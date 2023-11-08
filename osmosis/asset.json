@@ -1567,6 +1567,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.svg"
   },
   {
+    "id": "ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C",
+    "name": "dYdX",
+    "symbol": "DYDX",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx-circle.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/E27CD305D33F150369AB526AEB6646A76EC3FFB1A6CA58A663B5DE657A89D55D",
     "name": "Dyson Protocol",
     "symbol": "DYS",
@@ -1615,6 +1624,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/frnz.png"
+  },
+  {
+    "id": "ibc/2B30802A0B03F91E4E16D6175C9B70F2911377C1CAE9E50FF011C821465463F9",
+    "name": "Function X",
+    "symbol": "FX",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fxcore/images/fx.svg"
   },
   {
     "id": "ibc/F49DE040EBA5AB2FAD5F660C2A1DDF98A68470FAE82229818BE775EBF3EE79F2",
@@ -1967,6 +1984,15 @@
     "decimals": "18",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/onomy/images/nom.png"
+  },
+  {
+    "id": "ibc/75345531D87BD90BF108BE7240BD721CB2CB0A1F16D4EBA71B09EC3C43E15C8F",
+    "name": "Nomic Bitcoin",
+    "symbol": "nBTC",
+    "decimals": "14",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nomic/images/nbtc.svg",
+    "verification_tx": "osmosis-main"
   },
   {
     "id": "ibc/E750D31033DC1CF4A044C3AA0A8117401316DC918FBEBC4E3D34F91B09D5F54C",
