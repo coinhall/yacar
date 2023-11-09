@@ -765,7 +765,7 @@
   {
     "id": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
     "name": "USD Coin",
-    "symbol": "USDC",
+    "symbol": "axlUSDC",
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
@@ -774,10 +774,11 @@
   },
   {
     "id": "ibc/FE98AAD68F02F03565E9FA39A5E627946699B2B07115889ED812D8BA639576A9",
-    "name": "USDC",
-    "symbol": "USDC",
+    "name": "USD Coin",
+    "symbol": "nobleUSDC",
     "decimals": "6",
     "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
     "verification_tx": "kujira-fin"
   },
   {
