@@ -69,6 +69,9 @@
     "symbol": "RAC",
     "decimals": "6",
     "type": "tokenfactory",
+    
+    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3VyYWM=&pagination.limit=1",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3VyYWM=&pagination.limit=1",
     "icon": "https://app.whitewhale.money/logos/rac.png"
   },
   {
