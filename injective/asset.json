@@ -27,7 +27,8 @@
     "symbol": "SOMM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://stats.somm.fi/v1/circulating-supply",
+    "circ_supply": "249643969",
+    "total_supply": "500000000",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sommelier.png",
     "coingecko": "https://www.coingecko.com/en/coins/sommelier"
   },
@@ -100,6 +101,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
   },
   {
@@ -108,6 +111,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "oracle",
+    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
   },
   {
@@ -179,6 +184,7 @@
     "symbol": "TIA",
     "decimals": "6",
     "type": "oracle",
+    "circ_supply": "141043527",
     "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
   },
@@ -188,6 +194,7 @@
     "symbol": "TIA",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply": "141043527",
     "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
   },
