@@ -54,6 +54,7 @@
     "symbol": "AXL",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg",
     "coingecko": "https://www.coingecko.com/en/coins/axelar-network",
     "verification_tx": "kujira-fin"
@@ -232,6 +233,7 @@
     "symbol": "USK",
     "decimals": "6",
     "type": "tokenfactory",
+    "circ_supply_api": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExcWswMGg1YXR1dHBzdjkwMHgyMDJweHg0Mm5wanI5dGhnNThkbnFwYTcyZjJwN20ybHVhc2U0NDRhNy91dXNr&pagination.limit=1",
     "icon": "https://i.ibb.co/V3ZM8WF/usk.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/usk",
     "coingecko": "https://www.coingecko.com/en/coins/usk",
@@ -325,6 +327,7 @@
     "symbol": "SCRT",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/circulating_supply/",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg",
     "coingecko": "https://www.coingecko.com/en/coins/secret",
     "verification_tx": "kujira-fin"
@@ -347,6 +350,7 @@
     "symbol": "SOMM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://stats.somm.fi/v1/circulating-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.svg",
     "coingecko": "https://www.coingecko.com/en/coins/sommelier",
     "verification_tx": "kujira-fin"
@@ -585,6 +589,7 @@
     "symbol": "MNTA",
     "decimals": "6",
     "type": "tokenfactory",
+    "circ_supply_api": "https://api.mantadao.app/circulating",
     "verification_tx": "kujira-fin"
   },
   {
@@ -674,6 +679,7 @@
     "symbol": "SHD",
     "decimals": "8",
     "type": "ibc",
+    "circ_supply_api": "https://shdsupply.52.90.219.147.nip.io/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/shd.svg",
     "coingecko": "https://www.coingecko.com/en/coins/shade-protocol"
   },

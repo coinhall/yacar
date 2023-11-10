@@ -1043,6 +1043,15 @@
     "icon": "https://i.imgur.com/8CpJdcB.jpeg"
   },
   {
+    "id": "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759",
+    "entity": "Chihuahua",
+    "name": "Chihuahua",
+    "symbol": "HUAHUA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply/"
+  },
+  {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
     "entity": "Cosmos",
     "name": "Cosmos",
@@ -1144,6 +1153,7 @@
     "symbol": "USK",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExcWswMGg1YXR1dHBzdjkwMHgyMDJweHg0Mm5wanI5dGhnNThkbnFwYTcyZjJwN20ybHVhc2U0NDRhNy91dXNr&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/USK.svg"
   },
   {
@@ -1377,6 +1387,7 @@
     "symbol": "SCRT",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/circulating_supply/",
     "icon": "https://assets.terra.money/icon/svg/ibc/SCRT.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
     "coingecko": "https://www.coingecko.com/en/coins/secret"
@@ -2553,13 +2564,6 @@
     "type": "cw20"
   },
   {
-    "id": "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759",
-    "name": "HUAHUA",
-    "symbol": "HUAHUA",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
     "id": "terra18278qyznzktl8sxnepca4yw0cpdmxxjz54zf3xnn8sfh7au3uspq0ka994",
     "name": "IBC/-FRGY-LP",
     "symbol": "uLP",
@@ -2664,7 +2668,9 @@
     "name": "KAVA",
     "symbol": "KAVA",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://api.kava.io/vesting/circulatingsupply",
+    "total_supply_api": "https://api.kava.io/vesting/totalsupply"
   },
   {
     "id": "terra1fsseg53tn3wwj09gaue0crgx32ph9daeepyrmtpf62wf7xka5rfq9ph9nf",
@@ -2827,6 +2833,7 @@
     "symbol": "MNTA",
     "decimals": "0",
     "type": "ibc",
+    "circ_supply_api": "https://api.mantadao.app/circulating",
     "icon": "https://assets.terra.money/icon/svg/ibc/MNTA.svg"
   },
   {
