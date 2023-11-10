@@ -395,6 +395,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos",
     "verification_tx": "osmosis-main"
@@ -745,6 +746,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExcWswMGg1YXR1dHBzdjkwMHgyMDJweHg0Mm5wanI5dGhnNThkbnFwYTcyZjJwN20ybHVhc2U0NDRhNy91dXNr&pagination.limit=1",
+    "total_supply": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExcWswMGg1YXR1dHBzdjkwMHgyMDJweHg0Mm5wanI5dGhnNThkbnFwYTcyZjJwN20ybHVhc2U0NDRhNy91dXNr&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/usk.png",
     "coingecko": "https://www.coingecko.com/en/coins/usk"
   },
@@ -852,6 +854,7 @@
     "symbol": "FLIX",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://supply-api.omniflix.network/circulating-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.svg",
     "coingecko": "https://www.coingecko.com/en/coins/omniflix-network",
     "verification_tx": "osmosis-main"
@@ -1061,7 +1064,8 @@
     "symbol": "SOMM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://stats.somm.fi/v1/circulating-supply",
+    "circ_supply": "249643969",
+    "total_supply": "500000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.svg",
     "coingecko": "https://www.coingecko.com/en/coins/sommelier",
     "verification_tx": "osmosis-main"
@@ -1484,6 +1488,7 @@
     "symbol": "TIA",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply": "141043527",
     "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
     "verification_tx": "osmosis-main"
@@ -1587,6 +1592,8 @@
     "symbol": "DYDX",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply": "179458348",
+    "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx-circle.svg",
     "verification_tx": "osmosis-main"
   },
