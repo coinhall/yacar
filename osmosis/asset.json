@@ -6,6 +6,7 @@
     "symbol": "BLD",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://main.supply.agoric.net/circulation?denom=bld",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png",
     "coingecko": "https://www.coingecko.com/en/coins/agoric",
     "verification_tx": "osmosis-main"
@@ -92,6 +93,7 @@
     "symbol": "AXL",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
     "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/axl.svg",
     "coingecko": "https://www.coingecko.com/en/coins/axelar",
     "verification_tx": "osmosis-main"
@@ -367,6 +369,7 @@
     "symbol": "HUAHUA",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply/",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
     "coingecko": "https://www.coingecko.com/en/coins/chihuahua-token",
     "verification_tx": "osmosis-main"
@@ -458,6 +461,8 @@
     "symbol": "NGM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.e-money.com/v1/supply/circulating/ngm",
+    "total_supply_api": "https://api.e-money.com/v1/supply/total/ngm",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.svg",
     "coingecko": "https://www.coingecko.com/en/coins/e-money",
     "verification_tx": "osmosis-main"
@@ -469,6 +474,8 @@
     "symbol": "EEUR",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.e-money.com/v1/supply/circulating/eeur",
+    "total_supply_api": "https://api.e-money.com/v1/supply/total/eeur",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/eeur.svg",
     "coingecko": "https://www.coingecko.com/en/coins/e-money-eur"
   },
@@ -671,6 +678,8 @@
     "symbol": "KAVA",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.kava.io/vesting/circulatingsupply",
+    "total_supply_api": "https://api.kava.io/vesting/totalsupply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.png",
     "coingecko": "https://www.coingecko.com/en/coins/kava",
     "verification_tx": "osmosis-main"
@@ -735,6 +744,7 @@
     "symbol": "USK",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExcWswMGg1YXR1dHBzdjkwMHgyMDJweHg0Mm5wanI5dGhnNThkbnFwYTcyZjJwN20ybHVhc2U0NDRhNy91dXNr&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/usk.png",
     "coingecko": "https://www.coingecko.com/en/coins/usk"
   },
@@ -998,6 +1008,7 @@
     "symbol": "SCRT",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/circulating_supply/",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg",
     "coingecko": "https://www.coingecko.com/en/coins/secret",
     "verification_tx": "osmosis-main"
@@ -1020,6 +1031,7 @@
     "symbol": "SHD",
     "decimals": "8",
     "type": "ibc",
+    "circ_supply_api": "https://shdsupply.52.90.219.147.nip.io/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/shd.svg",
     "coingecko": "https://www.coingecko.com/en/coins/shade-protocol"
   },
@@ -1049,6 +1061,7 @@
     "symbol": "SOMM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://stats.somm.fi/v1/circulating-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.svg",
     "coingecko": "https://www.coingecko.com/en/coins/sommelier",
     "verification_tx": "osmosis-main"
@@ -1357,6 +1370,8 @@
     "symbol": "BAND",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.bandchain.org/supply/circulating",
+    "total_supply_api": "https://api.bandchain.org/supply/total",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.svg",
     "coingecko": "https://www.coingecko.com/en/coins/band-protocol",
     "verification_tx": "osmosis-main"
@@ -1927,6 +1942,7 @@
     "symbol": "MNTA",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.mantadao.app/circulating",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/mnta.svg"
   },
   {

@@ -1,5 +1,15 @@
 [
   {
+    "id": "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
+    "entity": "Chihuahua",
+    "name": "Chihuahua",
+    "symbol": "HUAHUA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply/",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chihuahua.jpeg"
+  },
+  {
     "id": "inj",
     "entity": "Injective",
     "name": "Injective",
@@ -9,6 +19,17 @@
     "circ_supply_api": "https://injective-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
     "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
+  },
+  {
+    "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
+    "entity": "Sommelier",
+    "name": "Sommelier",
+    "symbol": "SOMM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://stats.somm.fi/v1/circulating-supply",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sommelier.png",
+    "coingecko": "https://www.coingecko.com/en/coins/sommelier"
   },
   {
     "id": "helix/0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
@@ -251,14 +272,6 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/gf.png"
   },
   {
-    "id": "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
-    "name": "HUAHUA",
-    "symbol": "HUAHUA",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chihuahua.jpeg"
-  },
-  {
     "id": "helix/INJ",
     "name": "INJ",
     "symbol": "INJ",
@@ -271,7 +284,9 @@
     "name": "KAVA",
     "symbol": "KAVA",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://api.kava.io/vesting/circulatingsupply",
+    "total_supply_api": "https://api.kava.io/vesting/totalsupply"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
@@ -408,14 +423,6 @@
     "decimals": "6",
     "type": "oracle",
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
-  },
-  {
-    "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
-    "name": "Sommelier",
-    "symbol": "SOMM",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sommelier.png"
   },
   {
     "id": "peggy0x4986fD36b6b16f49b43282Ee2e24C5cF90ed166d",

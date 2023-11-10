@@ -1,5 +1,16 @@
 [
   {
+    "id": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
+    "entity": "Agoric",
+    "name": "Agoric",
+    "symbol": "BLD",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://main.supply.agoric.net/circulation?denom=bld",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png",
+    "coingecko": "https://www.coingecko.com/en/coins/agoric"
+  },
+  {
     "id": "aarch",
     "entity": "Archway",
     "name": "Archway",
@@ -56,7 +67,9 @@
     "symbol": "AXL",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://astrovault.io/static/media/logo-axl.d0d2aff65fc25b2de25c.svg"
+    "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
+    "icon": "https://astrovault.io/static/media/logo-axl.d0d2aff65fc25b2de25c.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/axelar"
   },
   {
     "id": "ibc/fcb240d2c3838369155a0fa8970a8be3ec1042f698269b9d6d9859274f00a0bb",
@@ -69,13 +82,6 @@
     "id": "ibc/FCB240D2C3838369155A0FA8970A8BE3EC1042F698269B9D6D9859274F00A0BB",
     "name": "BCNA",
     "symbol": "BCNA",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
-    "name": "BLD",
-    "symbol": "BLD",
     "decimals": "6",
     "type": "ibc"
   },
