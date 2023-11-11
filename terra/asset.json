@@ -1071,6 +1071,8 @@
     "symbol": "CRE",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://apigw-v2.crescent.network/stat/supply",
+    "total_supply_api": "https://apigw-v2.crescent.network/stat/supply",
     "icon": "https://assets.terra.money/icon/svg/ibc/CRE.svg",
     "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
   },
@@ -1119,6 +1121,8 @@
     "symbol": "GRAV",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://info.gravitychain.io:9000/supply_info",
+    "total_supply_api": "https://info.gravitychain.io:9000/supply_info",
     "icon": "https://assets.terra.money/icon/svg/ibc/GRAV.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/grav/",
     "coingecko": "https://www.coingecko.com/en/coins/graviton"
@@ -1390,6 +1394,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/circulating_supply",
+    "total_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/total_supply",
     "icon": "https://assets.terra.money/icon/svg/ibc/SCRT.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
     "coingecko": "https://www.coingecko.com/en/coins/secret"

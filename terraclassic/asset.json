@@ -1954,7 +1954,10 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/circulating_supply",
-    "icon": "https://assets.terra.money/icon/60/SCRT.png"
+    "total_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/total_supply",
+    "icon": "https://assets.terra.money/icon/60/SCRT.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
+    "coingecko": "https://www.coingecko.com/en/coins/secret"
   },
   {
     "id": "terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq",
@@ -11730,7 +11733,10 @@
     "symbol": "USTC",
     "decimals": "6",
     "type": "native",
-    "icon": "https://assets.terra.money/icon/60/UST.png"
+    "circ_supply_api": "https://classicterra.money/api/v1/csupply/ustc",
+    "icon": "https://assets.terra.money/icon/60/UST.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd",
+    "coingecko": "https://www.coingecko.com/en/coins/terraclassicusd"
   },
   {
     "id": "terra1zvhvg09zeyl3txrc7v3crnqnnwc0d2nvgxvdhd",

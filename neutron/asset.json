@@ -10,6 +10,18 @@
     "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
   {
+    "id": "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
+    "entity": "Axelar",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
+    "total_supply": "1114358529",
+    "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/axl.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/axelar"
+  },
+  {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "entity": "Cosmos",
     "name": "Cosmos",
@@ -32,16 +44,6 @@
     "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
-  },
-  {
-    "id": "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
-    "name": "Axelar",
-    "symbol": "AXL",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
-    "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/axl.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/axelar"
   },
   {
     "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",

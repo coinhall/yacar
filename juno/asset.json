@@ -39,6 +39,8 @@
     "symbol": "BTSG",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://supply.bitsong.io/circulating-supply",
+    "total_supply_api": "https://supply.bitsong.io/total-supply",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/btsg.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/bitsong",
     "coingecko": "https://www.coingecko.com/en/coins/bitsong"
@@ -312,6 +314,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/circulating_supply",
+    "total_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/total_supply",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/scrt.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret",
     "coingecko": "https://www.coingecko.com/en/coins/secret"
@@ -409,6 +412,7 @@
     "symbol": "USTC",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://classicterra.money/api/v1/csupply/ustc",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/ustc.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd",
     "coingecko": "https://www.coingecko.com/en/coins/terraclassicusd"

@@ -94,6 +94,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
+    "total_supply": "1114358529",
     "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/axl.svg",
     "coingecko": "https://www.coingecko.com/en/coins/axelar",
     "verification_tx": "osmosis-main"
@@ -306,6 +307,8 @@
     "symbol": "BTSG",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://supply.bitsong.io/circulating-supply",
+    "total_supply_api": "https://supply.bitsong.io/total-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.svg",
     "coingecko": "https://www.coingecko.com/en/coins/bitsong",
     "verification_tx": "osmosis-main"
@@ -327,6 +330,8 @@
     "symbol": "BOOT",
     "decimals": "0",
     "type": "ibc",
+    "circ_supply_api": "https://market-data.cybernode.ai/circulating_supply",
+    "total_supply_api": "https://market-data.cybernode.ai/total_supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bostrom/images/boot.png",
     "coingecko": "https://www.coingecko.com/en/coins/bostrom"
   },
@@ -358,6 +363,8 @@
     "symbol": "CHEQ",
     "decimals": "9",
     "type": "ibc",
+    "circ_supply_api": "https://data-api.cheqd.io/supply/circulating",
+    "total_supply_api": "https://data-api.cheqd.io/supply/total",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cheqd/images/cheq.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cheqd-network",
     "verification_tx": "osmosis-main"
@@ -407,6 +414,8 @@
     "symbol": "CRE",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://apigw-v2.crescent.network/stat/supply",
+    "total_supply_api": "https://apigw-v2.crescent.network/stat/supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.svg",
     "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
   },
@@ -560,6 +569,8 @@
     "symbol": "GRAV",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://info.gravitychain.io:9000/supply_info",
+    "total_supply_api": "https://info.gravitychain.io:9000/supply_info",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.svg",
     "coingecko": "https://www.coingecko.com/en/coins/graviton",
     "verification_tx": "osmosis-main"
@@ -634,6 +645,8 @@
     "symbol": "IRIS",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://rpc.irisnet.org/token-stats/circulation",
+    "total_supply_api": "https://rpc.irisnet.org/token-stats/total",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/irisnet/images/iris.svg",
     "coingecko": "https://www.coingecko.com/en/coins/iris-network",
     "verification_tx": "osmosis-main"
@@ -712,6 +725,8 @@
     "symbol": "XKI",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://oracle.blockchain.ki/details.json",
+    "total_supply_api": "https://oracle.blockchain.ki/details.json",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.svg",
     "coingecko": "https://www.coingecko.com/en/coins/ki",
     "verification_tx": "osmosis-main"
@@ -767,6 +782,8 @@
     "symbol": "LIKE",
     "decimals": "9",
     "type": "ibc",
+    "circ_supply_api": "https://like.co/api/misc/totalsupply/likecoinchain",
+    "total_supply": "2000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.svg",
     "coingecko": "https://www.coingecko.com/en/coins/likecoin",
     "verification_tx": "osmosis-main"
@@ -916,6 +933,8 @@
     "symbol": "PLQ",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://planq.network/api/circulating-supply",
+    "total_supply_api": "https://planq.network/api/total-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg"
   },
   {
@@ -1012,7 +1031,9 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/circulating_supply",
+    "total_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/total_supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
     "coingecko": "https://www.coingecko.com/en/coins/secret",
     "verification_tx": "osmosis-main"
   },
@@ -1023,6 +1044,8 @@
     "symbol": "DVPN",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.supply.sentinel.co",
+    "total_supply_api": "https://api.supply.sentinel.co",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sentinel/images/dvpn.png",
     "coingecko": "https://www.coingecko.com/en/coins/sentinel",
     "verification_tx": "osmosis-main"
@@ -1191,8 +1214,10 @@
     "symbol": "USTC",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://classicterra.money/api/v1/csupply/ustc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/ust.png",
-    "coingecko": "https://www.coingecko.com/en/coins/terrausd"
+    "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd",
+    "coingecko": "https://www.coingecko.com/en/coins/terraclassicusd"
   },
   {
     "id": "ibc/A76EB6ECF4E3E2D4A23C526FD1B48FDD42F171B206C9D2758EF778A7826ADD68",
@@ -1549,6 +1574,7 @@
     "symbol": "DSM",
     "decimals": "6",
     "type": "ibc",
+    "total_supply_api": "https://api.mainnet.desmos.network/desmos/supply/v1/total/udsm?divider_exponent=6",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.svg",
     "coingecko": "https://www.coingecko.com/en/coins/desmos",
     "verification_tx": "osmosis-main"
@@ -1761,7 +1787,10 @@
     "symbol": "JKL",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://supply-api.jackalprotocol.com/circulating-supply",
+    "total_supply_api": "https://supply-api.jackalprotocol.com/total-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/jackal/images/jkl.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/jackal-protocol",
     "verification_tx": "osmosis-main"
   },
   {
@@ -2089,6 +2118,8 @@
     "symbol": "PICA",
     "decimals": "12",
     "type": "ibc",
+    "circ_supply_api": "https://204.48.25.128/coingecko/circulating_supply",
+    "total_supply": "10000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/composable/images/composable.svg"
   },
   {
@@ -2239,6 +2270,8 @@
     "symbol": "CTK",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://data.noopsbycertik.com/circulating-supply",
+    "total_supply_api": "https://data.noopsbycertik.com/total-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/shentu/images/ctk.png",
     "coingecko": "https://www.coingecko.com/en/coins/certik"
   },
@@ -2467,6 +2500,8 @@
     "symbol": "noble.USDC",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api.noble.strange.love/cosmos/bank/v1beta1/supply?pagination.key=dXVzZGM%3D&pagination.limit=1",
+    "total_supply_api": "https://api.noble.strange.love/cosmos/bank/v1beta1/supply?pagination.key=dXVzZGM%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/noble.usdc.svg",
     "verification_tx": "osmosis-main"
   },
@@ -2624,6 +2659,7 @@
     "symbol": "XPLA",
     "decimals": "18",
     "type": "ibc",
+    "total_supply": "2000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/xpla/images/xpla.svg",
     "verification_tx": "osmosis-main"
   }

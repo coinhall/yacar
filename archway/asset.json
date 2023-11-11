@@ -23,6 +23,18 @@
     "coingecko": "https://www.coingecko.com/en/coins/archway"
   },
   {
+    "id": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
+    "entity": "Axelar",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
+    "total_supply": "1114358529",
+    "icon": "https://astrovault.io/static/media/logo-axl.d0d2aff65fc25b2de25c.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/axelar"
+  },
+  {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
     "entity": "Cosmos",
     "name": "Atom",
@@ -63,16 +75,6 @@
     "type": "cw20"
   },
   {
-    "id": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
-    "name": "AXL",
-    "symbol": "AXL",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
-    "icon": "https://astrovault.io/static/media/logo-axl.d0d2aff65fc25b2de25c.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/axelar"
-  },
-  {
     "id": "ibc/fcb240d2c3838369155a0fa8970a8be3ec1042f698269b9d6d9859274f00a0bb",
     "name": "BCNA",
     "symbol": "BCNA",
@@ -110,11 +112,14 @@
   },
   {
     "id": "ibc/926432AE1C5FA4F857B36D970BE7774C7472079506820B857B75C5DE041DD7A3",
-    "name": "JKL",
+    "name": "Jackal",
     "symbol": "JKL",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://astrovault.io/static/media/logo-jkl.775e0818c92acfa58f36.svg"
+    "circ_supply_api": "https://supply-api.jackalprotocol.com/circulating-supply",
+    "total_supply_api": "https://supply-api.jackalprotocol.com/total-supply",
+    "icon": "https://astrovault.io/static/media/logo-jkl.775e0818c92acfa58f36.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/jackal-protocol"
   },
   {
     "id": "archway1t2llqsvwwunf98v692nqd5juudcmmlu3zk55utx7xtfvznel030saclvq6",
