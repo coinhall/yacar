@@ -7,6 +7,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://main.supply.agoric.net/circulation?denom=bld",
+    "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWJsZA%3D%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png",
     "coingecko": "https://www.coingecko.com/en/coins/agoric",
     "verification_tx": "osmosis-main"
@@ -18,6 +19,8 @@
     "symbol": "BLD",
     "decimals": "6",
     "type": "native",
+    "circ_supply_api": "https://main.supply.agoric.net/circulation?denom=bld",
+    "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWJsZA%3D%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png"
   },
   {
@@ -1768,8 +1771,8 @@
     "symbol": "IST",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://main.supply.agoric.net/supply?denom=ist",
-    "total_supply_api": "https://main.supply.agoric.net/supply?denom=ist",
+    "circ_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
+    "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png",
     "verification_tx": "osmosis-main"
   },
