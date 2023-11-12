@@ -1240,6 +1240,8 @@
     "symbol": "UMEE",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/umee/cosmos/bank/v1beta1/supply?pagination.key=dXVtZWU%3D&pagination.limit=1",
+    "total_supply_api": "https://rest.cosmos.directory/umee/cosmos/bank/v1beta1/supply?pagination.key=dXVtZWU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png",
     "coingecko": "https://www.coingecko.com/en/coins/umee",
     "verification_tx": "osmosis-main"
