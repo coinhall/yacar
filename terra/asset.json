@@ -2205,6 +2205,22 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/0A31B4B46B4C5F10ED3EF4BFBD1453CE96A270D168FC672436ABCA2DB4CC1401",
+    "name": "Axelar Arbitrum",
+    "symbol": "axlARB",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/ARB.svg"
+  },
+  {
+    "id": "ibc/EF21BC562B7EB4D22BBF467D011E3118B7E3AD6D095000A672A9FCECA5ABCF15",
+    "name": "Axelar Maker",
+    "symbol": "axlMKR",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/MKR.svg"
+  },
+  {
     "id": "terra1km69jdkp00zvsqya0pmyqn8e3thg7csuud2yw0v2a7jy87uh52qqz7rcq5",
     "name": "BASI-DRC-LP",
     "symbol": "uLP",
@@ -2245,6 +2261,14 @@
     "symbol": "BAZ",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
+    "name": "Binance Coin (Portal)",
+    "symbol": "BNB",
+    "decimals": "8",
+    "type": "cw20",
+    "icon": "https://assets.terra.dev/icon/svg/wBNB.svg"
   },
   {
     "id": "terra1vpcj4fj0yxy4m928lxf8us7tk8kdqr3ny6q2gtx7g0s935awdreqppm7au",
