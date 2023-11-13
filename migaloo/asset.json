@@ -1,5 +1,16 @@
 [
   {
+    "id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac",
+    "entity": "Racoon Supply",
+    "name": "RAC",
+    "symbol": "RAC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3VyYWM=&pagination.limit=1",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3VyYWM=&pagination.limit=1",
+    "icon": "https://i.ibb.co/SsFSxmv/rac.png"
+  },
+  {
     "id": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
     "entity": "White Whale",
     "name": "ampWhale",
@@ -62,16 +73,6 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://app.whitewhale.money/logos/axlUSDC.png"
-  },
-  {
-    "id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac",
-    "name": "RAC",
-    "symbol": "RAC",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3VyYWM=&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3VyYWM=&pagination.limit=1",
-    "icon": "https://app.whitewhale.money/logos/rac.png"
   },
   {
     "id": "ibc/BC5C0BAFD19A5E4133FDA0F3E04AE1FBEE75A4A226554B2CBB021089FF2E1F8A",

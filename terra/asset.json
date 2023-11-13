@@ -1043,6 +1043,17 @@
     "icon": "https://i.imgur.com/8CpJdcB.jpeg"
   },
   {
+    "id": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+    "entity": "Capapult",
+    "name": "Capapult",
+    "symbol": "CAPA",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply_api": "https://capa-supply.capapult-se.workers.dev",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://assets.capapult.finance/icon/Capa.svg"
+  },
+  {
     "id": "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759",
     "entity": "Chihuahua",
     "name": "Chihuahua",
@@ -2361,16 +2372,6 @@
     "symbol": "bUST",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-    "name": "Capapult",
-    "symbol": "CAPA",
-    "decimals": "6",
-    "type": "cw20",
-    "circ_supply_api": "https://capa-supply.capapult-se.workers.dev",
-    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://assets.capapult.finance/icon/Capa.svg"
   },
   {
     "id": "terra1sp74507a9fn8clm6s62r2sl8t22x5lgqyvagserksycsqn7lj9kqnvl005",
