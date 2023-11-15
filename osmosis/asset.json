@@ -1411,6 +1411,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/arkh/images/arkh.svg"
   },
   {
+    "id": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqatom",
+    "name": "ATOM Squared",
+    "symbol": "sqATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/sqatom.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/F867AE2112EFE646EC71A25CD2DFABB8927126AC1E19F1BBF0FF693A4ECA05DE",
     "name": "Band Protocol",
     "symbol": "BAND",
@@ -1471,6 +1480,23 @@
     "decimals": "5",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/bonk.png",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/71DAA4CAFA4FE2F9803ABA0696BA5FC0EFC14305A2EA8B4E01880DB851B1EC02",
+    "name": "Branch",
+    "symbol": "BRNCH",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/brnch.svg"
+  },
+  {
+    "id": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqbtc",
+    "name": "BTC Squared",
+    "symbol": "sqBTC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/sqbtc.svg",
     "verification_tx": "osmosis-main"
   },
   {
@@ -2218,6 +2244,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/09FAF1E04435E14C68DE7AB0D03C521C92975C792DB12B2EA390BAA2E06B3F3D",
+    "name": "Qwoyn Blockchain",
+    "symbol": "QWOYN",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/qwoyn/images/qwoyn.png"
+  },
+  {
     "id": "ibc/B66CE615C600ED0A8B5AF425ECFE0D57BE2377587F66C45934A76886F34DC9B7",
     "name": "rATOM",
     "symbol": "rATOM",
@@ -2684,6 +2718,15 @@
     "decimals": "8",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/sol.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/2F21E6D4271DE3F561F20A02CD541DAF7405B1E9CB3B9B07E3C2AC7D8A4338A5",
+    "name": "wstETH",
+    "symbol": "wstETH",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg",
     "verification_tx": "osmosis-main"
   },
   {
