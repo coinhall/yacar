@@ -930,6 +930,18 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/56D7C03B8F6A07AD322EEE1BEF3AE996E09D1C1E34C27CF37E0D4A0AC5972516",
+    "entity": "Picasso",
+    "name": "Pica",
+    "symbol": "PICA",
+    "decimals": "12",
+    "type": "ibc",
+    "circ_supply_api": "https://204.48.25.128/coingecko/circulating_supply",
+    "total_supply": "10000000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/composable/images/composable.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/picasso"
+  },
+  {
     "id": "ibc/B1E0166EA0D759FDF4B207D1F5F12210D8BFE36F2345CEFC76948CE2B36DFBAF",
     "entity": "Planq Network",
     "name": "Planq",
@@ -2133,16 +2145,6 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/pepec.png"
-  },
-  {
-    "id": "ibc/56D7C03B8F6A07AD322EEE1BEF3AE996E09D1C1E34C27CF37E0D4A0AC5972516",
-    "name": "Pica",
-    "symbol": "PICA",
-    "decimals": "12",
-    "type": "ibc",
-    "circ_supply_api": "https://204.48.25.128/coingecko/circulating_supply",
-    "total_supply": "10000000000",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/composable/images/composable.svg"
   },
   {
     "id": "ibc/CE5BFF1D9BADA03BB5CCA5F56939392A761B53A10FBD03B37506669C3218D3B2",
