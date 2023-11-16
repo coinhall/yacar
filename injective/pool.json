@@ -1,5 +1,15 @@
 [
   {
+    "id": "inj100q996rctey97esv8aejly49h5ydm5g0pj235g",
+    "asset_ids": [
+      "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
+      "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "inj16al3rfeu3n93rcuyvnpqrk3m9xg7wtxhz44205"
+  },
+  {
     "id": "inj1mmnj6rc0d4ksjyaapx82l6suuxh4upq20e2h80",
     "asset_ids": [
       "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
@@ -669,6 +679,15 @@
     "asset_ids": [
       "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
       "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
+    "id": "0x6922cf4383294c673971dd06aa4ae5ef47f65cb4f1ec1c2af4271c5e5ca67486",
+    "asset_ids": [
+      "ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204",
+      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
     ],
     "dex": "Helix",
     "type": "orderbook"
