@@ -85,7 +85,7 @@ type Asset = {
   verification_tx?: string | undefined;
 
   // Supply values, do not populate both static and dynamic amounts (see example below)
-  // Set the static amount of assets
+  // Set the static amount of assets (after dividing the chain amount by 10^`decimals`)
   circ_supply?: string | undefined;
   total_supply?: string | undefined;
 
