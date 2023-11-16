@@ -1214,6 +1214,17 @@
     "icon": "https://www.lunabird.network/logo.png"
   },
   {
+    "id": "ibc/96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46",
+    "entity": "Manta DAO",
+    "name": "MNTA",
+    "symbol": "MNTA",
+    "decimals": "0",
+    "type": "ibc",
+    "circ_supply_api": "https://api.mantadao.app/circulating",
+    "total_supply": "100000000",
+    "icon": "https://assets.terra.money/icon/svg/ibc/MNTA.svg"
+  },
+  {
     "id": "terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3",
     "entity": "NICO",
     "name": "NICO",
@@ -2897,15 +2908,6 @@
     "symbol": "MHO",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "ibc/96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46",
-    "name": "MNTA",
-    "symbol": "MNTA",
-    "decimals": "0",
-    "type": "ibc",
-    "circ_supply_api": "https://api.mantadao.app/circulating",
-    "icon": "https://assets.terra.money/icon/svg/ibc/MNTA.svg"
   },
   {
     "id": "terra1jg848acg7rzt7tnz6zqaxzsc94w2yjhafad80d3uel9937grkmfsv8aycw",

@@ -97,7 +97,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
-    "total_supply": "1114358529",
+    "total_supply_api": "https://api.axelarscan.io/total-supply",
     "icon": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/assets/axl.svg",
     "coingecko": "https://www.coingecko.com/en/coins/axelar",
     "verification_tx": "osmosis-main"
@@ -801,6 +801,17 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumnetwork/images/lum.png",
     "coingecko": "https://www.coingecko.com/en/coins/lum-network",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/51D893F870B7675E507E91DA8DB0B22EA66333207E4F5C0708757F08EE059B0B",
+    "entity": "Manta DAO",
+    "name": "MNTA",
+    "symbol": "MNTA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.mantadao.app/circulating",
+    "total_supply": "100000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/mnta.svg"
   },
   {
     "id": "ibc/F6B691D5F7126579DDC87357B09D653B47FDCE0A3383FF33C8D8B544FE29A8A6",
@@ -2014,15 +2025,6 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/mnpu.svg"
-  },
-  {
-    "id": "ibc/51D893F870B7675E507E91DA8DB0B22EA66333207E4F5C0708757F08EE059B0B",
-    "name": "MNTA",
-    "symbol": "MNTA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api.mantadao.app/circulating",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/mnta.svg"
   },
   {
     "id": "ibc/DD3938D8131F41994C1F01F4EB5233DEE9A0A5B787545B9A07A321925655BF38",
