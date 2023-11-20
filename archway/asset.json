@@ -105,6 +105,13 @@
     "icon": "https://astrovault.io/static/media/logo-eth.axl.c9502083459f6541237d.svg"
   },
   {
+    "id": "ibc/8E6E7AB89246F87DA936F0EEA0A40654E7FB6B0C3E834F447EB444AAD95A106F",
+    "name": "FLIX",
+    "symbol": "FLIX",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/C0336ECF2DF64E7D2C98B1422EC2B38DE9EF33C34AAADF18C6F2E3FFC7BE3615",
     "name": "Inter Protocol USD",
     "symbol": "IST",
@@ -190,6 +197,13 @@
     "id": "archway1veyq07az0d7mlp49sa9f9ef56w0dd240vjsy76yv0m4pl5a2x2uq698cs7",
     "name": "xDEC",
     "symbol": "xDEC",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway1asgu5g79cdjcdd40lgefplszehykpwzcunx30ca4456a4tddmwcsrmtvx8",
+    "name": "xFLIX",
+    "symbol": "xFLIX",
     "decimals": "6",
     "type": "cw20"
   },
