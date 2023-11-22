@@ -90,6 +90,13 @@
     "type": "ibc"
   },
   {
+    "id": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",
+    "name": "CMDX",
+    "symbol": "CMDX",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/E3409E92F78AE5BF44DBC7C4741901E21EF73B7B8F98C4D48F2BD360AF242C00",
     "name": "DEC",
     "symbol": "DEC",
@@ -190,6 +197,13 @@
     "id": "archway1mast3w89sn8gtmvdhr6gfemu4jdx60563fajs5ucsc7s7e9jv00q7qw0hu",
     "name": "xBCNA",
     "symbol": "xBCNA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway14fzmzu2apcdzwx9dspyk0yjmxwwnpmxh7zlezh5ywe4l0pky39ysgzd9gg",
+    "name": "xCMDX",
+    "symbol": "xCMDX",
     "decimals": "6",
     "type": "cw20"
   },
