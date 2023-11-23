@@ -13,11 +13,11 @@
   {
     "id": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
     "entity": "White Whale",
-    "name": "ampWhale",
+    "name": "ERIS Amplified WHALE",
     "symbol": "ampWHALE",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/ampwhale.svg"
   },
   {
     "id": "factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
@@ -26,7 +26,7 @@
     "symbol": "bWHALE",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://app.whitewhale.money/logos/bWHALE.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg"
   },
   {
     "id": "factory/migaloo1ey4sn2mkmhew4pdrzk90l9acluvas25qlhuvsfgssw42ugz8yjlqx92j9l/arbWHALE",
@@ -35,7 +35,7 @@
     "symbol": "WHALE",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://app.whitewhale.money/logos/whale.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg"
   },
   {
     "id": "uwhale",
@@ -46,15 +46,15 @@
     "type": "native",
     "circ_supply_api": "https://apex.migaloo.zone/api/supply",
     "total_supply_api": "https://apex.migaloo.zone/api/supply",
-    "icon": "https://app.whitewhale.money/logos/whale.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg"
   },
   {
     "id": "ibc/0102CC6E28D29F57444C645C86AE2F4E8789C3A85445A3B185E51F0A23862E87",
-    "name": "ampMNTA",
+    "name": "ERIS Amplified MNTA",
     "symbol": "ampMNTA",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://app.whitewhale.money/logos/ampmnta.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/ampmnta.png"
   },
   {
     "id": "factory/migaloo1erul6xyq0gk6ws98ncj7lnq9l4jn4gnnu9we73gdz78yyl2lr7qqrvcgup/ash",
@@ -64,7 +64,7 @@
     "type": "tokenfactory",
     "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVydWw2eHlxMGdrNndzOThuY2o3bG5xOWw0am40Z25udTl3ZTczZ2R6Nzh5eWwybHI3cXFydmNndXAvYXNo&pagination.limit=1",
     "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVydWw2eHlxMGdrNndzOThuY2o3bG5xOWw0am40Z25udTl3ZTczZ2R6Nzh5eWwybHI3cXFydmNndXAvYXNo&pagination.limit=1",
-    "icon": "https://app.whitewhale.money/logos/ash.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/ash.svg"
   },
   {
     "id": "ibc/80E8F826480B995AE28C1EE86106C1BE2034FF1966579D29951CF61885458040",
@@ -72,7 +72,7 @@
     "symbol": "axlUSDC",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://app.whitewhale.money/logos/axlUSDC.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "ibc/BC5C0BAFD19A5E4133FDA0F3E04AE1FBEE75A4A226554B2CBB021089FF2E1F8A",
@@ -80,6 +80,6 @@
     "symbol": "USDC",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://app.whitewhale.money/logos/axlUSDC.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   }
 ]
