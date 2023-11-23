@@ -119,6 +119,13 @@
     "type": "ibc"
   },
   {
+    "id": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
+    "name": "GRAV",
+    "symbol": "GRAV",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/C0336ECF2DF64E7D2C98B1422EC2B38DE9EF33C34AAADF18C6F2E3FFC7BE3615",
     "name": "Inter Protocol USD",
     "symbol": "IST",
@@ -218,6 +225,13 @@
     "id": "archway1asgu5g79cdjcdd40lgefplszehykpwzcunx30ca4456a4tddmwcsrmtvx8",
     "name": "xFLIX",
     "symbol": "xFLIX",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway1zfnzv39cp4dv3jjy0aptn5msc02tjmy602l46u90dt729q80939qjgqcdj",
+    "name": "xGRAV",
+    "symbol": "xGRAV",
     "decimals": "6",
     "type": "cw20"
   },
