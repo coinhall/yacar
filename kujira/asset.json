@@ -702,6 +702,13 @@
     "verification_tx": "kujira-fin"
   },
   {
+    "id": "factory/kujira166ysf07ze5suazfzj0r05tv8amk2yn8zvsfuu7/uplnk",
+    "name": "PLNK",
+    "symbol": "PLNK",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/kujira1m96ucsfpt2yy72w09z2rxjdj38y5qd8lqx5jtggnejmdua2ynpnsxyvjex/urcpt",
     "name": "qcKUJI",
     "symbol": "qcKUJI",
@@ -856,6 +863,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
     "coingecko": "https://www.coingecko.com/en/coins/usd-coin",
     "verification_tx": "kujira-fin"
+  },
+  {
+    "id": "ibc/3458D4A2653918EAE5926A6F7CB6DCE91C13DAECDB05AA40F050F8867A6649FE",
+    "name": "USD Coin",
+    "symbol": "gUSDC",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
   },
   {
     "id": "ibc/FE98AAD68F02F03565E9FA39A5E627946699B2B07115889ED812D8BA639576A9",
