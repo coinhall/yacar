@@ -1,5 +1,65 @@
 [
   {
+    "id": "neutron12gkx5m4zgz3uttqjq36jh5hzqlxr23c2z4w5elzzdzxpw0zqupnsz02xx3",
+    "asset_ids": [
+      "untrn",
+      "ibc/6C9E6701AC217C0FC7D74B0F7A6265B9B4E3C3CDA6E80AADE5F950A8F52F9972"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "neutron1pevcmuml2evcz3mj2nme9qjx0dzhvcsndjghhynxe6n5syvmw8mq9nkl69"
+  },
+  {
+    "id": "neutron1c4p33xy3ps35gs7w3mcc5vzsdfkwqd3klhnxry0yn2nhl4wnwhxslcp8g8",
+    "asset_ids": [
+      "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
+      "untrn"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "neutron1gzp3p2puncr8q3x5xc0z4jdgn0c6tuedcwzrs9mdz84x0cslkv3sncd6dd"
+  },
+  {
+    "id": "neutron1h3yv07ftzkfml82x5ev84ujhe3darvda0xu8ldtyxgpvps28vvms44mels",
+    "asset_ids": [
+      "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "neutron1y34aemcveq07cfxcjpvcqseumdxmvrlv8lufm4k5zxlwg8gpkmlstpec96"
+  },
+  {
+    "id": "neutron1ny6cysje5f6u5jlmvzfxnf06t4zgdr3v7eyvfc0cgwuxy74lqfusuewch3",
+    "asset_ids": [
+      "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
+      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "neutron12jlxn5gsyjpke7xdg0c3wnumn5dwlqhpehwy9q5pj69vmmmkq7sq8xjezg"
+  },
+  {
+    "id": "neutron1yw0a7nxa8jdgzmdsme4gwxhj76n44z305qgwrzvlfavgna9epcys3k9m2f",
+    "asset_ids": [
+      "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
+      "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "neutron1uywpz5esk0r3z7p7vl2h3vnqlrchra5phkex76z0rh2pckun0x9q3lj7va"
+  },
+  {
+    "id": "neutron1zwnj9zclxkxlyksnns3wuw7fq24kkn70ke6wezquw9nwqed24vkq8wlgh4",
+    "asset_ids": [
+      "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
+      "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "neutron1mwwgjw6ul09zkam9c99ejysf9h5s2q7vaxfl9g93ndnjnvfemuks80zgh7"
+  },
+  {
     "id": "neutron10fztjv4atdgs4dyfkh2yu9rhn9n6vkctvdqa34g7g4nc0qckygqqksvz0r",
     "asset_ids": [
       "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
@@ -118,6 +178,16 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "neutron18ut0pkc574g2tmg67zs64lsndm3fxffz2qql850tac20l5g95ces9tdgph"
+  },
+  {
+    "id": "neutron18j8kpe4pd4ngdla9xtmvvw0sfym5ne7y2u62zt2w7fhuyz8csxuqcz3kfj",
+    "asset_ids": [
+      "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
+      "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron1n3lc3cumhfql94aejtf9ugsvgld07cu0cvt5nvy9s55qln38j4es3atah8"
   },
   {
     "id": "neutron1e22zh5p8meddxjclevuhjmfj69jxfsa8uu3jvht72rv9d8lkhves6t8veq",
@@ -258,5 +328,15 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "neutron1jh29hfhqnq80s024f2qlraldhm8ukz6hezrcx7fzrasw806kyy2s78xus8"
+  },
+  {
+    "id": "neutron1ytty6qu5yskwvwtpvfld6flfkpytq8m7t7q95rm5j7g625jwcghsrrf7tf",
+    "asset_ids": [
+      "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "neutron18g53drwvady7kwknjauxke0za9dscv0yjyvwska2d7wsgw2gemlsl9unw8"
   }
 ]
