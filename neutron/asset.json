@@ -102,6 +102,13 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg"
   },
   {
+    "id": "ibc/6C9E6701AC217C0FC7D74B0F7A6265B9B4E3C3CDA6E80AADE5F950A8F52F9972",
+    "name": "NLS",
+    "symbol": "NLS",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
     "name": "Osmosis",
     "symbol": "OSMO",
@@ -134,6 +141,13 @@
     "id": "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D",
     "name": "Wrapped Ether (wei)",
     "symbol": "wETH",
+    "decimals": "18",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/4D04085167777659C11784A356D6B0D13D5C7F0CE77F7DB1152FE03A2DE2CBF2",
+    "name": "wstETH",
+    "symbol": "wstETH",
     "decimals": "18",
     "type": "ibc"
   }
