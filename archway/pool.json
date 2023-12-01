@@ -130,6 +130,16 @@
     "lp_token_id": "archway123h0jfnk3rhhuapkytrzw22u6w4xkf563lqhy42a9r5lmv32w73s8f6ql2"
   },
   {
+    "id": "archway1yczh6rtqh090fp66k74a5stuj548t83ncpsw2qy6v8e02thhlelsau720h",
+    "asset_ids": [
+      "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
+      "archway1yv8uhe795xs4fwz6mjm278yr35ps0yagjchfp39q5x49dty9jgssm5tnkv"
+    ],
+    "dex": "Astrovault",
+    "type": "stable",
+    "lp_token_id": "archway1lzm9l560jl7uq632utlkxxk35ylk9d9fdt4vv89346d28hcg9qks0e7u0j"
+  },
+  {
     "id": "archway1382ascq6guh3qyq29jsehls5zwkffnxatn9k6vtuuq7crdw7wvrqznw3zz",
     "asset_ids": [
       "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
@@ -258,5 +268,15 @@
     "dex": "Astrovault",
     "type": "xyk",
     "lp_token_id": "archway1j2gvsuzche6r5u7m6m5t5ncqs0skvd2hfq2mql8pzldxgelcl4rsldnkhk"
+  },
+  {
+    "id": "archway1yr9nad5dv34nze2wtx6ye5hl38ymy5q70t4eu96l8hydwhs9tnkq3gwmev",
+    "asset_ids": [
+      "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
+      "archway1yv8uhe795xs4fwz6mjm278yr35ps0yagjchfp39q5x49dty9jgssm5tnkv"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "archway13yrv3wr75rhnk96k5dyaekysrte7a9l05rc7lrmrm32fmpd2y3tqwa788v"
   }
 ]
