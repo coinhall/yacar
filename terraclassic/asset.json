@@ -2611,6 +2611,54 @@
     "type": "cw20"
   },
   {
+    "id": "ibc/E6773A970EA824CA7E62467098506762DAD69083BB71CB1603337D9F1A8CF123",
+    "name": "Axelar Arbitrum",
+    "symbol": "ARB",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/ARB.svg"
+  },
+  {
+    "id": "ibc/F4B1551A3470D93A725460F109FB57990702B703790D8A21C7DC66AEF3BACBF4",
+    "name": "Axelar BNB",
+    "symbol": "BNB",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://assets.terra.dev/icon/thorswap/BNB.svg"
+  },
+  {
+    "id": "ibc/45368D217CE1F76A1214FA6F1F31493B5F127793E6AB4873B39A81A8CE21A18E",
+    "name": "Axelar Matic",
+    "symbol": "MATIC",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/axlMATIC.svg"
+  },
+  {
+    "id": "ibc/386A4031D68DE6370B85F9FF7E89CEF8DE7CDE01CC193CBD87BD3ED60F6662CE",
+    "name": "Axelar USD Tether",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/axlUSDT.svg"
+  },
+  {
+    "id": "ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2",
+    "name": "Axelar Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/axlWBTC.svg"
+  },
+  {
+    "id": "ibc/9B68CC79EFF12D25AF712EB805C5062B8F97B2CCE5F3FE55B107EE03095514A3",
+    "name": "Axelar Wrapped Ethereum",
+    "symbol": "WETH",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/axlETH.svg"
+  },
+  {
     "id": "terra1dd2qt59v86gwgzl2e6u3xexefvrkjmgd8mu638",
     "name": "BABY TERRA",
     "symbol": "BABY",
@@ -4744,6 +4792,14 @@
     "symbol": "KINU",
     "decimals": "3",
     "type": "cw20"
+  },
+  {
+    "id": "terra107s9c27aj08rgcwwuxmyzapz66xu9u7c66urypy9v8mzurqh87pst4yv8t",
+    "name": "Knights Gaming Token",
+    "symbol": "KNGT",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://lunaburningknights.io/kngt-logo.png"
   },
   {
     "id": "terra1545laqy9s6jcej2pgts32rhqy6dzq62umk8g9q",
