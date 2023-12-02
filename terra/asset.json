@@ -3160,7 +3160,10 @@
     "name": "SEUL",
     "symbol": "SEUL",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply_api": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/Circulation-supply%20SEUL",
+    "total_supply": "21000000",
+    "icon": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/seul.png"
   },
   {
     "id": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
@@ -3196,7 +3199,10 @@
     "name": "Staked xSEUL",
     "symbol": "xSEUL",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply_api": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/Circulation-supply%20SEUL",
+    "total_supply": "21000000",
+    "icon": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/xseul.png"
   },
   {
     "id": "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228",
