@@ -174,7 +174,9 @@
     "name": "WBTC.axl",
     "symbol": "WBTC.axl",
     "decimals": "8",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://api.axelarscan.io",
+    "total_supply_api": "https://api.axelarscan.io"
   },
   {
     "id": "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
