@@ -1744,7 +1744,11 @@
     "symbol": "FX",
     "decimals": "18",
     "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fxcore/images/fx.svg"
+    "circ_supply_api": "https://fx-rest.functionx.io/cosmos/bank/v1beta1/supply/by_denom?denom=FX",
+    "total_supply_api": "https://fx-rest.functionx.io/cosmos/bank/v1beta1/supply/by_denom?denom=FX",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fxcore/images/fx.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/function-x",
+    "coingecko": "https://www.coingecko.com/en/coins/function-x"
   },
   {
     "id": "ibc/F49DE040EBA5AB2FAD5F660C2A1DDF98A68470FAE82229818BE775EBF3EE79F2",
