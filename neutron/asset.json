@@ -82,7 +82,9 @@
     "name": "DYDX",
     "symbol": "DYDX",
     "decimals": "18",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/dydx"
   },
   {
     "id": "ibc/5A027DC380009335DC96374937E7AA5D7D45FA710E9A0AE76854541441026E11",
@@ -97,6 +99,16 @@
     "symbol": "wstETH",
     "decimals": "18",
     "type": "tokenfactory"
+  },
+  {
+    "id": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
+    "name": "Mars",
+    "symbol": "MARS",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://status.marsprotocol.io/cs",
+    "total_supply": "1000000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
   },
   {
     "id": "untrn",
@@ -119,13 +131,6 @@
     "id": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
     "name": "Osmosis",
     "symbol": "OSMO",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
-    "name": "umars",
-    "symbol": "MARS",
     "decimals": "6",
     "type": "ibc"
   },
