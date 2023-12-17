@@ -76,6 +76,17 @@
     "icon": "https://raw.githubusercontent.com/kdelia12/injective-ts/dev/packages/token-metadata/src/images/kira.jpeg"
   },
   {
+    "id": "factory/inj1lttm52qk6hs43vqak5qyk4hl4fzu2snq2gmg0c/nyan",
+    "entity": "NYAN",
+    "name": "NYAN",
+    "symbol": "NYAN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "69420000000",
+    "total_supply": "69420000000",
+    "icon": "https://i.ibb.co/4Sq6KYX/stsmall507x507-pad600x600f8f8f8.png"
+  },
+  {
     "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
     "entity": "Sommelier",
     "name": "Sommelier",
@@ -304,16 +315,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
-    "id": "factory/inj1wlwsd6w84ydmsqs5swthm5hw22qm8fxrth5ggx/FUINJ",
-    "name": "FUINJ",
-    "symbol": "FUINJ",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "69420000000",
-    "total_supply": "69420000000",
-    "icon": "https://bafybeihqkruoo6c6verku7l4bt2k7dulcik4dp2m77uc6a66febhfgbyxy.ipfs.cf-ipfs.com/"
-  },
-  {
     "id": "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana",
     "name": "Dog Wif Katana",
     "symbol": "KATANA",
@@ -353,6 +354,16 @@
     "decimals": "18",
     "type": "ibc",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/evmos.svg"
+  },
+  {
+    "id": "factory/inj1wlwsd6w84ydmsqs5swthm5hw22qm8fxrth5ggx/FUINJ",
+    "name": "FUINJ",
+    "symbol": "FUINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "69420000000",
+    "total_supply": "69420000000",
+    "icon": "https://bafybeihqkruoo6c6verku7l4bt2k7dulcik4dp2m77uc6a66febhfgbyxy.ipfs.cf-ipfs.com/"
   },
   {
     "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
