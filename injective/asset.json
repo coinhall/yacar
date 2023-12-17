@@ -1,790 +1,799 @@
 [
-  {
-    "id": "factory/inj1lhr06p7k3rdgk0knw5hfsde3fj87g2aq4e9a52/BINJ",
-    "entity": "Bird INJ",
-    "name": "Bird INJ",
-    "symbol": "BINJ",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "100000000",
-    "total_supply": "100000000",
-    "icon": "https://raw.githubusercontent.com/BirdINJ/BINJ/main/BINJ.png"
-  },
-  {
-    "id": "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
-    "entity": "Chihuahua",
-    "name": "Chihuahua",
-    "symbol": "HUAHUA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chihuahua.jpeg"
-  },
-  {
-    "id": "factory/inj1y207pve646dtac77v7qehw85heuy92c03t7t07/ak47",
-    "entity": "Dog wif AK47",
-    "name": "Dog wif AK47",
-    "symbol": "AK47",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "1000000000",
-    "total_supply": "1000000000",
-    "icon": "https://i.ibb.co/stSd6Lb/file-s-Vt1-UYut-BZZuf-Ww-NNIZfp30-Y.png"
-  },
-  {
-    "id": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
-    "entity": "Dog Wif Nunchucks",
-    "name": "Dog Wif Nunchucks",
-    "symbol": "NINJA",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "1000000000",
-    "total_supply": "1000000000",
-    "icon": "https://www.dogwifnunchucks.com/dwn.png"
-  },
-  {
-    "id": "inj",
-    "entity": "Injective",
-    "name": "Injective",
-    "symbol": "INJ",
-    "decimals": "18",
-    "type": "native",
-    "circ_supply_api": "https://injective-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
-    "total_supply": "100000000",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
-  },
-  {
-    "id": "factory/inj1av2965j0asg5qwyccm8ycz3qk0eya4873dkp3u/kermit",
-    "entity": "KERMIT",
-    "name": "Kermit",
-    "symbol": "KMT",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "1000000000",
-    "total_supply": "1000000000",
-    "icon": "https://kermitcoin.io/wp-content/uploads/2023/11/logo-kermit2-1.webp"
-  },
-  {
-    "id": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
-    "entity": "KIRA",
-    "name": "KIRA",
-    "symbol": "KIRA",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "69000000000",
-    "total_supply": "69000000000",
-    "icon": "https://raw.githubusercontent.com/kdelia12/injective-ts/dev/packages/token-metadata/src/images/kira.jpeg"
-  },
-  {
-    "id": "factory/inj1lttm52qk6hs43vqak5qyk4hl4fzu2snq2gmg0c/nyan",
-    "entity": "NYAN",
-    "name": "NYAN",
-    "symbol": "NYAN",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "69420000000",
-    "total_supply": "69420000000",
-    "icon": "https://i.ibb.co/4Sq6KYX/stsmall507x507-pad600x600f8f8f8.png"
-  },
-  {
-    "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
-    "entity": "Sommelier",
-    "name": "Sommelier",
-    "symbol": "SOMM",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply": "249643969",
-    "total_supply": "500000000",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sommelier.png",
-    "coingecko": "https://www.coingecko.com/en/coins/sommelier"
-  },
-  {
-    "id": "factory/inj17kqcwkgdayv585dr7mljclechqzymgfsqc8x9k/WOJAK",
-    "entity": "WOJAK",
-    "name": "WOJAK",
-    "symbol": "WOJAK",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "1000000000",
-    "total_supply": "1000000000",
-    "icon": "https://pbs.twimg.com/media/GBgy74XaoAALtbc?format=jpg&name=240x240"
-  },
-  {
-    "id": "helix/0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
-    "name": "1MPEPE",
-    "symbol": "1MPEPE",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
-    "id": "peggy0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-    "name": "AAVE",
-    "symbol": "AAVE",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/AAVE.svg"
-  },
-  {
-    "id": "factory/inj1cdwt8g7nxgtg2k4fn8sj363mh9ahkw2qt0vrnc/ampINJ",
-    "name": "ampINJ",
-    "symbol": "ampINJ",
-    "decimals": "18",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "ibc/168C3904C45C6FE3539AE85A8892DF87371D00EA7942515AFC50AA43C4BB0A32",
-    "name": "ampWHALE",
-    "symbol": "ampWHALE",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
-  },
-  {
-    "id": "peggy0x4d224452801ACEd8B2F0aebE155379bb5D594381",
-    "name": "APE",
-    "symbol": "APE",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ape.png"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1d5vz0uzwlpfvgwrwulxg6syy82axa58y4fuszd",
-    "name": "Arbitrum (Wormhole)",
-    "symbol": "ARB",
-    "decimals": "8",
-    "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/arb.png"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
-    "name": "Astar",
-    "symbol": "ASTR",
-    "decimals": "18",
-    "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astar.svg"
-  },
-  {
-    "id": "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
-    "name": "Astar",
-    "symbol": "ASTR",
-    "decimals": "18",
-    "type": "cw20",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astar.svg"
-  },
-  {
-    "id": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-    "name": "Astroport",
-    "symbol": "ASTRO",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astroport.png"
-  },
-  {
-    "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-    "name": "Atom",
-    "symbol": "ATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
-  },
-  {
-    "id": "helix/ATOM",
-    "name": "ATOM",
-    "symbol": "ATOM",
-    "decimals": "6",
-    "type": "oracle",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
-  },
-  {
-    "id": "ibc/7E1AF94AD246BE522892751046F0C959B768642E5671CC3742264068D49553C0",
-    "name": "axlUSDC",
-    "symbol": "axlUSDC",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg"
-  },
-  {
-    "id": "peggy0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
-    "name": "AXS",
-    "symbol": "AXS",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/axs.png"
-  },
-  {
-    "id": "helix/BAYC",
-    "name": "BAYC",
-    "symbol": "BAYC",
-    "decimals": "6",
-    "type": "oracle",
-    "icon": "https://moon.ly/uploads/nft/82e50e35-dfdd-4be3-9930-5cc2f91a13df.jpg"
-  },
-  {
-    "id": "helix/BNB",
-    "name": "BNB",
-    "symbol": "BNB",
-    "decimals": "6",
-    "type": "oracle",
-    "icon": "https://cryptologos.cc/logos/bnb-bnb-logo.svg"
-  },
-  {
-    "id": "helix/BONK",
-    "name": "BONK",
-    "symbol": "BONK",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
-    "id": "helix/BTC",
-    "name": "BTC",
-    "symbol": "BTC",
-    "decimals": "6",
-    "type": "oracle",
-    "icon": "https://helixapp.com/vendor/@injectivelabs/token-metadata/bitcoin.svg"
-  },
-  {
-    "id": "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2",
-    "name": "bWHALE",
-    "symbol": "bWHALE",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://app.whitewhale.money/logos/bWHALE.png"
-  },
-  {
-    "id": "ibc/D91A2C4EE7CD86BBAFCE0FA44A60DDD9AFBB7EEB5B2D46C0984DEBCC6FEDFAE8",
-    "name": "CANTO",
-    "symbol": "CANTO",
-    "decimals": "18",
-    "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/canto.webp"
-  },
-  {
-    "id": "helix/0x09f7c1d7dfbb7df2b8fe3d3d87ee94a2259d212da4f30c1f0540d066dfa44723",
-    "name": "Celestia",
-    "symbol": "TIA",
-    "decimals": "6",
-    "type": "oracle",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
-  },
-  {
-    "id": "helix/TIA",
-    "name": "Celestia",
-    "symbol": "TIA",
-    "decimals": "6",
-    "type": "oracle",
-    "circ_supply": "141043527",
-    "total_supply": "1000000000",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
-  },
-  {
-    "id": "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
-    "name": "Celestia",
-    "symbol": "TIA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply": "141043527",
-    "total_supply": "1000000000",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
-  },
-  {
-    "id": "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
-    "name": "Chainlink",
-    "symbol": "LINK",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chainlink.svg"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6kpxy6ar5lkxqudjvryarrrttmakwsvzkvcyh",
-    "name": "chiliZ (Wormhole)",
-    "symbol": "CHZ",
-    "decimals": "8",
-    "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chz.png"
-  },
-  {
-    "id": "ibc/3A6DD3358D9F7ADD18CDE79BA10B400511A5DE4AE2C037D7C9639B52ADAF35C6",
-    "name": "Crescent Network",
-    "symbol": "CRE",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://apigw-v2.crescent.network/stat/supply",
-    "total_supply_api": "https://apigw-v2.crescent.network/stat/supply",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/crescent.jpeg",
-    "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
-  },
-  {
-    "id": "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55",
-    "name": "CW20-wrapped inj",
-    "symbol": "INJ",
-    "decimals": "18",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
-  },
-  {
-    "id": "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana",
-    "name": "Dog Wif Katana",
-    "symbol": "KATANA",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "total_supply": "1000000000",
-    "icon": "https://i.ibb.co/yYVqfXF/token-icon.webp"
-  },
-  {
-    "id": "ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4",
-    "name": "DOT",
-    "symbol": "DOT",
-    "decimals": "10",
-    "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/DOT.svg"
-  },
-  {
-    "id": "helix/ETH",
-    "name": "ETH",
-    "symbol": "ETH",
-    "decimals": "6",
-    "type": "oracle",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
-  },
-  {
-    "id": "peggy0x6b7f87279982d919Bbf85182DDeAB179B366D8f2",
-    "name": "ETHBTCTrend",
-    "symbol": "ETHBTCTrend",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethbtctrend.svg"
-  },
-  {
-    "id": "ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821",
-    "name": "EVMOS",
-    "symbol": "EVMOS",
-    "decimals": "18",
-    "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/evmos.svg"
-  },
-  {
-    "id": "factory/inj1wlwsd6w84ydmsqs5swthm5hw22qm8fxrth5ggx/FUINJ",
-    "name": "FUINJ",
-    "symbol": "FUINJ",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "69420000000",
-    "total_supply": "69420000000",
-    "icon": "https://bafybeihqkruoo6c6verku7l4bt2k7dulcik4dp2m77uc6a66febhfgbyxy.ipfs.cf-ipfs.com/"
-  },
-  {
-    "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-    "name": "GRT",
-    "symbol": "GRT",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/graphToken.svg"
-  },
-  {
-    "id": "peggy0xAaEf88cEa01475125522e117BFe45cF32044E238",
-    "name": "GuildFi",
-    "symbol": "GF",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/gf.png"
-  },
-  {
-    "id": "helix/INJ",
-    "name": "INJ",
-    "symbol": "INJ",
-    "decimals": "6",
-    "type": "oracle",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
-  },
-  {
-    "id": "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
-    "name": "KAVA",
-    "symbol": "KAVA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api.kava.io/vesting/circulatingsupply",
-    "total_supply_api": "https://api.kava.io/vesting/circulatingsupply",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.png"
-  },
-  {
-    "id": "ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204",
-    "name": "KUJI",
-    "symbol": "KUJI",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
-    "name": "Lido DAO Token (Wormhole)",
-    "symbol": "LDO",
-    "decimals": "8",
-    "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/lido-dao.webp"
-  },
-  {
-    "id": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-    "name": "Lido Staked ETH",
-    "symbol": "wstETH",
-    "decimals": "18",
-    "type": "erc20"
-  },
-  {
-    "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
-    "name": "Local Money",
-    "symbol": "LOCAL",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://localmoney.io/local-logo-dark.png"
-  },
-  {
-    "id": "ibc/FECCDCFA89278B117C76A11A946A7991A68E5DD12DED6EB938ADC1B1286AC591",
-    "name": "Local Money",
-    "symbol": "LOCAL",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://localterra.money/local-logo-dark.png"
-  },
-  {
-    "id": "ibc/B8AF5D92165F35AB31F3FC7C7B444B9D240760FA5D406C49D24862BD0284E395",
-    "name": "LUNA",
-    "symbol": "LUNA",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/luna.png"
-  },
-  {
-    "id": "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla",
-    "name": "Nebula",
-    "symbol": "NBLA",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://raw.githubusercontent.com/PunksDAO/NebulaBrandImages/main/NBLA_img.PNG"
-  },
-  {
-    "id": "ibc/F6CC233E5C0EA36B1F74AB1AF98471A2D6A80E2542856639703E908B4D93E7C4",
-    "name": "NEOK",
-    "symbol": "NEOK",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD",
-    "name": "nUSD",
-    "symbol": "nUSD",
-    "decimals": "18",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "ibc/C20C0A822BD22B2CEF0D067400FCCFB6FAEEE9E91D360B4E0725BD522302D565",
-    "name": "ORAI",
-    "symbol": "ORAI",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "helix/OSMO",
-    "name": "OSMO",
-    "symbol": "OSMO",
-    "decimals": "6",
-    "type": "oracle",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/osmo.png"
-  },
-  {
-    "id": "peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933",
-    "name": "Pepe",
-    "symbol": "PEPE",
-    "decimals": "18",
-    "type": "peggy"
-  },
-  {
-    "id": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
-    "name": "Persistence",
-    "symbol": "XPRT",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xprt.svg"
-  },
-  {
-    "id": "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-    "name": "Polygon",
-    "symbol": "MATIC",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/polygon.png"
-  },
-  {
-    "id": "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
-    "name": "Puggo",
-    "symbol": "PUG",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/puggo.jpg"
-  },
-  {
-    "id": "helix/PYTH",
-    "name": "PYTH",
-    "symbol": "PYTH",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tjcf9497fwmrnk22jfu5hsdq82qshga54ajvzy",
-    "name": "Pyth Network (Wormhole)",
-    "symbol": "PYTH",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "peggy0x4a220E6096B25EADb88358cb44068A3248254675",
-    "name": "QNT",
-    "symbol": "QNT",
-    "decimals": "18",
-    "type": "peggy"
-  },
-  {
-    "id": "helix/SEI",
-    "name": "SEI",
-    "symbol": "SEI",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
-    "id": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-    "name": "SHIBA INU",
-    "symbol": "SHIB",
-    "decimals": "6",
-    "type": "peggy"
-  },
-  {
-    "id": "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-    "name": "SNX",
-    "symbol": "SNX",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/synthetix.svg"
-  },
-  {
-    "id": "helix/SOL",
-    "name": "SOL",
-    "symbol": "SOL",
-    "decimals": "6",
-    "type": "oracle",
-    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
-  },
-  {
-    "id": "peggy0x4986fD36b6b16f49b43282Ee2e24C5cF90ed166d",
-    "name": "SteadyBTC",
-    "symbol": "SteadyBTC",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadybtc.svg"
-  },
-  {
-    "id": "peggy0x3F07A84eCdf494310D397d24c1C78B041D2fa622",
-    "name": "SteadyETH",
-    "symbol": "SteadyETH",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadyeth.svg"
-  },
-  {
-    "id": "ibc/3FDD002A3A4019B05A33D324B2F29748E77AF501BEA5C96D1F28B2D6755F9F25",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stride.png"
-  },
-  {
-    "id": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
-    "name": "Stride Staked Injective",
-    "symbol": "stINJ",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3Rpbmo=&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stinj.png"
-  },
-  {
-    "id": "peggy0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-    "name": "SushiSwap",
-    "symbol": "SUSHI",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sushi.svg"
-  },
-  {
-    "id": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
-    "name": "TALIS",
-    "symbol": "TALIS",
-    "decimals": "0",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C",
-    "name": "TerraUSD",
-    "symbol": "UST",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ust.png"
-  },
-  {
-    "id": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "name": "Tether",
-    "symbol": "USDT",
-    "decimals": "6",
-    "type": "peggy",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
-  },
-  {
-    "id": "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
-    "name": "The Blue PEPE",
-    "symbol": "BRETT",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "420000000",
-    "total_supply": "420000000",
-    "icon": "https://i.ibb.co/TRt5mD3/Brett.png"
-  },
-  {
-    "id": "peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-    "name": "UNI",
-    "symbol": "UNI",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/uni.svg"
-  },
-  {
-    "id": "helix/0x60144b1d5c9e9851732ad1d9760e3485ef80be39b984f6bf60f82b28a2b7f126",
-    "name": "Unknown Helix Oracle Token",
-    "symbol": "UNKNOWN",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
-    "id": "helix/0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
-    "name": "Unknown Helix Oracle Token",
-    "symbol": "UNKNOWN",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
-    "id": "helix/0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
-    "name": "Unknown Helix Oracle Token",
-    "symbol": "UNKNOWN",
-    "decimals": "6",
-    "type": "oracle"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
-    "name": "USD Coin",
-    "symbol": "USDCET",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj12pwnhtv7yat2s30xuf4gdk9qm85v4j3e60dgvu",
-    "name": "USD Coin (Wormhole)",
-    "symbol": "USDC",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
-  },
-  {
-    "id": "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "name": "USDC",
-    "symbol": "USDC",
-    "decimals": "6",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
-  },
-  {
-    "id": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-    "name": "USDTkv PERP",
-    "symbol": "USDTkv PERP",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "peggy0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
-    "name": "USDY",
-    "symbol": "USDY",
-    "decimals": "18",
-    "type": "peggy"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
-    "name": "Vatreni Token",
-    "symbol": "VATRENI",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "peggy0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-    "name": "WBTC",
-    "symbol": "WBTC",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/wbtc.svg"
-  },
-  {
-    "id": "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
-    "name": "WHALE",
-    "symbol": "WHALE",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://app.whitewhale.money/logos/whale.svg"
-  },
-  {
-    "id": "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "name": "Wrapped Ethereum",
-    "symbol": "WETH",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethereum.svg"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
-    "name": "Wrapped Klaytn",
-    "symbol": "WKLAY",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h",
-    "name": "Wrapped Matic (Wormhole)",
-    "symbol": "WMATIC",
-    "decimals": "8",
-    "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/polygon.png"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
-    "name": "Wrapped SOL",
-    "symbol": "SOL",
-    "decimals": "8",
-    "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/solana.svg"
-  },
-  {
-    "id": "peggy0x080B12E80C9b45e97C23b6ad10a16B3e2a123949",
-    "name": "XBX",
-    "symbol": "XBX",
-    "decimals": "18",
-    "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xbx.png"
-  },
-  {
-    "id": "helix/ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
-    "name": "XRP",
-    "symbol": "XRP",
-    "decimals": "6",
-    "type": "oracle",
-    "icon": "https://cryptologos.cc/logos/xrp-xrp-logo.svg"
-  }
+    {
+        "id": "factory/inj1lhr06p7k3rdgk0knw5hfsde3fj87g2aq4e9a52/BINJ",
+        "entity": "Bird INJ",
+        "name": "Bird INJ",
+        "symbol": "BINJ",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "circ_supply": "100000000",
+        "total_supply": "100000000",
+        "icon": "https://raw.githubusercontent.com/BirdINJ/BINJ/main/BINJ.png"
+    },
+    {
+        "id": "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
+        "entity": "Chihuahua",
+        "name": "Chihuahua",
+        "symbol": "HUAHUA",
+        "decimals": "6",
+        "type": "ibc",
+        "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chihuahua.jpeg"
+    },
+    {
+        "id": "factory/inj1y207pve646dtac77v7qehw85heuy92c03t7t07/ak47",
+        "entity": "Dog wif AK47",
+        "name": "Dog wif AK47",
+        "symbol": "AK47",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "circ_supply": "1000000000",
+        "total_supply": "1000000000",
+        "icon": "https://i.ibb.co/stSd6Lb/file-s-Vt1-UYut-BZZuf-Ww-NNIZfp30-Y.png"
+    },
+    {
+        "id": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
+        "entity": "Dog Wif Nunchucks",
+        "name": "Dog Wif Nunchucks",
+        "symbol": "NINJA",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "circ_supply": "1000000000",
+        "total_supply": "1000000000",
+        "icon": "https://www.dogwifnunchucks.com/dwn.png"
+    },
+    {
+        "id": "inj",
+        "entity": "Injective",
+        "name": "Injective",
+        "symbol": "INJ",
+        "decimals": "18",
+        "type": "native",
+        "circ_supply_api": "https://injective-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
+        "total_supply": "100000000",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
+    },
+    {
+        "id": "factory/inj1av2965j0asg5qwyccm8ycz3qk0eya4873dkp3u/kermit",
+        "entity": "KERMIT",
+        "name": "Kermit",
+        "symbol": "KMT",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "circ_supply": "1000000000",
+        "total_supply": "1000000000",
+        "icon": "https://kermitcoin.io/wp-content/uploads/2023/11/logo-kermit2-1.webp"
+    },
+    {
+        "id": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
+        "entity": "KIRA",
+        "name": "KIRA",
+        "symbol": "KIRA",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "circ_supply": "69000000000",
+        "total_supply": "69000000000",
+        "icon": "https://raw.githubusercontent.com/kdelia12/injective-ts/dev/packages/token-metadata/src/images/kira.jpeg"
+    },
+    {
+        "id": "factory/inj1lttm52qk6hs43vqak5qyk4hl4fzu2snq2gmg0c/nyan",
+        "entity": "NYAN",
+        "name": "NYAN",
+        "symbol": "NYAN",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "circ_supply": "69420000000",
+        "total_supply": "69420000000",
+        "icon": "https://i.ibb.co/4Sq6KYX/stsmall507x507-pad600x600f8f8f8.png"
+    },
+    {
+        "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
+        "entity": "Sommelier",
+        "name": "Sommelier",
+        "symbol": "SOMM",
+        "decimals": "6",
+        "type": "ibc",
+        "circ_supply": "249643969",
+        "total_supply": "500000000",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sommelier.png",
+        "coingecko": "https://www.coingecko.com/en/coins/sommelier"
+    },
+    {
+        "id": "factory/inj17kqcwkgdayv585dr7mljclechqzymgfsqc8x9k/WOJAK",
+        "entity": "WOJAK",
+        "name": "WOJAK",
+        "symbol": "WOJAK",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "circ_supply": "1000000000",
+        "total_supply": "1000000000",
+        "icon": "https://pbs.twimg.com/media/GBgy74XaoAALtbc?format=jpg&name=240x240"
+    },
+    {
+        "id": "helix/0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
+        "name": "1MPEPE",
+        "symbol": "1MPEPE",
+        "decimals": "6",
+        "type": "oracle"
+    },
+    {
+        "id": "peggy0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "name": "AAVE",
+        "symbol": "AAVE",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/AAVE.svg"
+    },
+    {
+        "id": "factory/inj1cdwt8g7nxgtg2k4fn8sj363mh9ahkw2qt0vrnc/ampINJ",
+        "name": "ampINJ",
+        "symbol": "ampINJ",
+        "decimals": "18",
+        "type": "tokenfactory"
+    },
+    {
+        "id": "ibc/168C3904C45C6FE3539AE85A8892DF87371D00EA7942515AFC50AA43C4BB0A32",
+        "name": "ampWHALE",
+        "symbol": "ampWHALE",
+        "decimals": "6",
+        "type": "ibc",
+        "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
+    },
+    {
+        "id": "peggy0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+        "name": "APE",
+        "symbol": "APE",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ape.png"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1d5vz0uzwlpfvgwrwulxg6syy82axa58y4fuszd",
+        "name": "Arbitrum (Wormhole)",
+        "symbol": "ARB",
+        "decimals": "8",
+        "type": "tokenfactory",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/arb.png"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
+        "name": "Astar",
+        "symbol": "ASTR",
+        "decimals": "18",
+        "type": "tokenfactory",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astar.svg"
+    },
+    {
+        "id": "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
+        "name": "Astar",
+        "symbol": "ASTR",
+        "decimals": "18",
+        "type": "cw20",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astar.svg"
+    },
+    {
+        "id": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+        "name": "Astroport",
+        "symbol": "ASTRO",
+        "decimals": "6",
+        "type": "ibc",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astroport.png"
+    },
+    {
+        "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+        "name": "Atom",
+        "symbol": "ATOM",
+        "decimals": "6",
+        "type": "ibc",
+        "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+        "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
+    },
+    {
+        "id": "helix/ATOM",
+        "name": "ATOM",
+        "symbol": "ATOM",
+        "decimals": "6",
+        "type": "oracle",
+        "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+        "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
+    },
+    {
+        "id": "ibc/7E1AF94AD246BE522892751046F0C959B768642E5671CC3742264068D49553C0",
+        "name": "axlUSDC",
+        "symbol": "axlUSDC",
+        "decimals": "6",
+        "type": "ibc",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg"
+    },
+    {
+        "id": "peggy0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+        "name": "AXS",
+        "symbol": "AXS",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/axs.png"
+    },
+    {
+        "id": "helix/BAYC",
+        "name": "BAYC",
+        "symbol": "BAYC",
+        "decimals": "6",
+        "type": "oracle",
+        "icon": "https://moon.ly/uploads/nft/82e50e35-dfdd-4be3-9930-5cc2f91a13df.jpg"
+    },
+    {
+        "id": "helix/BNB",
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": "6",
+        "type": "oracle",
+        "icon": "https://cryptologos.cc/logos/bnb-bnb-logo.svg"
+    },
+    {
+        "id": "helix/BONK",
+        "name": "BONK",
+        "symbol": "BONK",
+        "decimals": "6",
+        "type": "oracle"
+    },
+    {
+        "id": "helix/BTC",
+        "name": "BTC",
+        "symbol": "BTC",
+        "decimals": "6",
+        "type": "oracle",
+        "icon": "https://helixapp.com/vendor/@injectivelabs/token-metadata/bitcoin.svg"
+    },
+    {
+        "id": "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2",
+        "name": "bWHALE",
+        "symbol": "bWHALE",
+        "decimals": "6",
+        "type": "ibc",
+        "icon": "https://app.whitewhale.money/logos/bWHALE.png"
+    },
+    {
+        "id": "ibc/D91A2C4EE7CD86BBAFCE0FA44A60DDD9AFBB7EEB5B2D46C0984DEBCC6FEDFAE8",
+        "name": "CANTO",
+        "symbol": "CANTO",
+        "decimals": "18",
+        "type": "ibc",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/canto.webp"
+    },
+    {
+        "id": "helix/0x09f7c1d7dfbb7df2b8fe3d3d87ee94a2259d212da4f30c1f0540d066dfa44723",
+        "name": "Celestia",
+        "symbol": "TIA",
+        "decimals": "6",
+        "type": "oracle",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
+    },
+    {
+        "id": "helix/TIA",
+        "name": "Celestia",
+        "symbol": "TIA",
+        "decimals": "6",
+        "type": "oracle",
+        "circ_supply": "141043527",
+        "total_supply": "1000000000",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
+    },
+    {
+        "id": "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
+        "name": "Celestia",
+        "symbol": "TIA",
+        "decimals": "6",
+        "type": "ibc",
+        "circ_supply": "141043527",
+        "total_supply": "1000000000",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
+    },
+    {
+        "id": "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "name": "Chainlink",
+        "symbol": "LINK",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chainlink.svg"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6kpxy6ar5lkxqudjvryarrrttmakwsvzkvcyh",
+        "name": "chiliZ (Wormhole)",
+        "symbol": "CHZ",
+        "decimals": "8",
+        "type": "tokenfactory",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chz.png"
+    },
+    {
+        "id": "ibc/3A6DD3358D9F7ADD18CDE79BA10B400511A5DE4AE2C037D7C9639B52ADAF35C6",
+        "name": "Crescent Network",
+        "symbol": "CRE",
+        "decimals": "6",
+        "type": "ibc",
+        "circ_supply_api": "https://apigw-v2.crescent.network/stat/supply",
+        "total_supply_api": "https://apigw-v2.crescent.network/stat/supply",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/crescent.jpeg",
+        "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
+    },
+    {
+        "id": "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55",
+        "name": "CW20-wrapped inj",
+        "symbol": "INJ",
+        "decimals": "18",
+        "type": "cw20",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
+    },
+    {
+        "id": "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana",
+        "name": "Dog Wif Katana",
+        "symbol": "KATANA",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "total_supply": "1000000000",
+        "icon": "https://i.ibb.co/yYVqfXF/token-icon.webp"
+    },
+    {
+        "id": "ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4",
+        "name": "DOT",
+        "symbol": "DOT",
+        "decimals": "10",
+        "type": "ibc",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/DOT.svg"
+    },
+    {
+        "id": "helix/ETH",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": "6",
+        "type": "oracle",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
+    },
+    {
+        "id": "peggy0x6b7f87279982d919Bbf85182DDeAB179B366D8f2",
+        "name": "ETHBTCTrend",
+        "symbol": "ETHBTCTrend",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethbtctrend.svg"
+    },
+    {
+        "id": "ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821",
+        "name": "EVMOS",
+        "symbol": "EVMOS",
+        "decimals": "18",
+        "type": "ibc",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/evmos.svg"
+    },
+    {
+        "id": "factory/inj1wlwsd6w84ydmsqs5swthm5hw22qm8fxrth5ggx/FUINJ",
+        "name": "FUINJ",
+        "symbol": "FUINJ",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "circ_supply": "69420000000",
+        "total_supply": "69420000000",
+        "icon": "https://bafybeihqkruoo6c6verku7l4bt2k7dulcik4dp2m77uc6a66febhfgbyxy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "name": "GRT",
+        "symbol": "GRT",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/graphToken.svg"
+    },
+    {
+        "id": "peggy0xAaEf88cEa01475125522e117BFe45cF32044E238",
+        "name": "GuildFi",
+        "symbol": "GF",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/gf.png"
+    },
+    {
+        "id": "helix/INJ",
+        "name": "INJ",
+        "symbol": "INJ",
+        "decimals": "6",
+        "type": "oracle",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
+    },
+    {
+        "id": "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
+        "name": "KAVA",
+        "symbol": "KAVA",
+        "decimals": "6",
+        "type": "ibc",
+        "circ_supply_api": "https://api.kava.io/vesting/circulatingsupply",
+        "total_supply_api": "https://api.kava.io/vesting/circulatingsupply",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.png"
+    },
+    {
+        "id": "ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204",
+        "name": "KUJI",
+        "symbol": "KUJI",
+        "decimals": "6",
+        "type": "ibc"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
+        "name": "Lido DAO Token (Wormhole)",
+        "symbol": "LDO",
+        "decimals": "8",
+        "type": "tokenfactory",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/lido-dao.webp"
+    },
+    {
+        "id": "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+        "name": "Lido Staked ETH",
+        "symbol": "wstETH",
+        "decimals": "18",
+        "type": "erc20"
+    },
+    {
+        "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+        "name": "Local Money",
+        "symbol": "LOCAL",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "icon": "https://localmoney.io/local-logo-dark.png"
+    },
+    {
+        "id": "ibc/FECCDCFA89278B117C76A11A946A7991A68E5DD12DED6EB938ADC1B1286AC591",
+        "name": "Local Money",
+        "symbol": "LOCAL",
+        "decimals": "6",
+        "type": "ibc",
+        "icon": "https://localterra.money/local-logo-dark.png"
+    },
+    {
+        "id": "ibc/B8AF5D92165F35AB31F3FC7C7B444B9D240760FA5D406C49D24862BD0284E395",
+        "name": "LUNA",
+        "symbol": "LUNA",
+        "decimals": "6",
+        "type": "ibc",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/luna.png"
+    },
+    {
+        "id": "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla",
+        "name": "Nebula",
+        "symbol": "NBLA",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "icon": "https://raw.githubusercontent.com/PunksDAO/NebulaBrandImages/main/NBLA_img.PNG"
+    },
+    {
+        "id": "ibc/F6CC233E5C0EA36B1F74AB1AF98471A2D6A80E2542856639703E908B4D93E7C4",
+        "name": "NEOK",
+        "symbol": "NEOK",
+        "decimals": "6",
+        "type": "ibc"
+    },
+    {
+        "id": "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD",
+        "name": "nUSD",
+        "symbol": "nUSD",
+        "decimals": "18",
+        "type": "tokenfactory"
+    },
+    {
+        "id": "ibc/C20C0A822BD22B2CEF0D067400FCCFB6FAEEE9E91D360B4E0725BD522302D565",
+        "name": "ORAI",
+        "symbol": "ORAI",
+        "decimals": "6",
+        "type": "ibc"
+    },
+    {
+        "id": "helix/OSMO",
+        "name": "OSMO",
+        "symbol": "OSMO",
+        "decimals": "6",
+        "type": "oracle",
+        "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/osmo.png"
+    },
+    {
+        "id": "peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": "18",
+        "type": "peggy"
+    },
+    {
+        "id": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
+        "name": "Persistence",
+        "symbol": "XPRT",
+        "decimals": "6",
+        "type": "ibc",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xprt.svg"
+    },
+    {
+        "id": "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/polygon.png"
+    },
+    {
+        "id": "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
+        "name": "Puggo",
+        "symbol": "PUG",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/puggo.jpg"
+    },
+    {
+        "id": "helix/PYTH",
+        "name": "PYTH",
+        "symbol": "PYTH",
+        "decimals": "6",
+        "type": "oracle"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tjcf9497fwmrnk22jfu5hsdq82qshga54ajvzy",
+        "name": "Pyth Network (Wormhole)",
+        "symbol": "PYTH",
+        "decimals": "6",
+        "type": "tokenfactory"
+    },
+    {
+        "id": "peggy0x4a220E6096B25EADb88358cb44068A3248254675",
+        "name": "QNT",
+        "symbol": "QNT",
+        "decimals": "18",
+        "type": "peggy"
+    },
+    {
+        "id": "helix/SEI",
+        "name": "SEI",
+        "symbol": "SEI",
+        "decimals": "6",
+        "type": "oracle"
+    },
+    {
+        "id": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+        "name": "SHIBA INU",
+        "symbol": "SHIB",
+        "decimals": "6",
+        "type": "peggy"
+    },
+    {
+        "id": "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+        "name": "SNX",
+        "symbol": "SNX",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/synthetix.svg"
+    },
+    {
+        "id": "helix/SOL",
+        "name": "SOL",
+        "symbol": "SOL",
+        "decimals": "6",
+        "type": "oracle",
+        "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
+    },
+    {
+        "id": "peggy0x4986fD36b6b16f49b43282Ee2e24C5cF90ed166d",
+        "name": "SteadyBTC",
+        "symbol": "SteadyBTC",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadybtc.svg"
+    },
+    {
+        "id": "peggy0x3F07A84eCdf494310D397d24c1C78B041D2fa622",
+        "name": "SteadyETH",
+        "symbol": "SteadyETH",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/steadyeth.svg"
+    },
+    {
+        "id": "ibc/3FDD002A3A4019B05A33D324B2F29748E77AF501BEA5C96D1F28B2D6755F9F25",
+        "name": "Stride",
+        "symbol": "STRD",
+        "decimals": "6",
+        "type": "ibc",
+        "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stride.png"
+    },
+    {
+        "id": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
+        "name": "Stride Staked Injective",
+        "symbol": "stINJ",
+        "decimals": "18",
+        "type": "ibc",
+        "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3Rpbmo=&pagination.limit=1",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stinj.png"
+    },
+    {
+        "id": "peggy0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "name": "SushiSwap",
+        "symbol": "SUSHI",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sushi.svg"
+    },
+    {
+        "id": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
+        "name": "TALIS",
+        "symbol": "TALIS",
+        "decimals": "0",
+        "type": "tokenfactory"
+    },
+    {
+        "id": "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C",
+        "name": "TerraUSD",
+        "symbol": "UST",
+        "decimals": "6",
+        "type": "ibc",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ust.png"
+    },
+    {
+        "id": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "name": "Tether",
+        "symbol": "USDT",
+        "decimals": "6",
+        "type": "peggy",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
+    },
+    {
+        "id": "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
+        "name": "The Blue PEPE",
+        "symbol": "BRETT",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "circ_supply": "420000000",
+        "total_supply": "420000000",
+        "icon": "https://i.ibb.co/TRt5mD3/Brett.png"
+    },
+    {
+        "id": "peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "name": "UNI",
+        "symbol": "UNI",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/uni.svg"
+    },
+    {
+        "id": "helix/0x60144b1d5c9e9851732ad1d9760e3485ef80be39b984f6bf60f82b28a2b7f126",
+        "name": "Unknown Helix Oracle Token",
+        "symbol": "UNKNOWN",
+        "decimals": "6",
+        "type": "oracle"
+    },
+    {
+        "id": "helix/0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+        "name": "Unknown Helix Oracle Token",
+        "symbol": "UNKNOWN",
+        "decimals": "6",
+        "type": "oracle"
+    },
+    {
+        "id": "helix/0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+        "name": "Unknown Helix Oracle Token",
+        "symbol": "UNKNOWN",
+        "decimals": "6",
+        "type": "oracle"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
+        "name": "USD Coin",
+        "symbol": "USDCET",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj12pwnhtv7yat2s30xuf4gdk9qm85v4j3e60dgvu",
+        "name": "USD Coin (Wormhole)",
+        "symbol": "USDC",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
+    },
+    {
+        "id": "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": "6",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
+    },
+    {
+        "id": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
+        "name": "USDTkv PERP",
+        "symbol": "USDTkv PERP",
+        "decimals": "6",
+        "type": "ibc"
+    },
+    {
+        "id": "peggy0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+        "name": "USDY",
+        "symbol": "USDY",
+        "decimals": "18",
+        "type": "peggy"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
+        "name": "Vatreni Token",
+        "symbol": "VATRENI",
+        "decimals": "6",
+        "type": "tokenfactory"
+    },
+    {
+        "id": "peggy0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/wbtc.svg"
+    },
+    {
+        "id": "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
+        "name": "WHALE",
+        "symbol": "WHALE",
+        "decimals": "6",
+        "type": "ibc",
+        "icon": "https://app.whitewhale.money/logos/whale.svg"
+    },
+    {
+        "id": "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "name": "Wrapped Ethereum",
+        "symbol": "WETH",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethereum.svg"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
+        "name": "Wrapped Klaytn",
+        "symbol": "WKLAY",
+        "decimals": "6",
+        "type": "tokenfactory"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h",
+        "name": "Wrapped Matic (Wormhole)",
+        "symbol": "WMATIC",
+        "decimals": "8",
+        "type": "tokenfactory",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/polygon.png"
+    },
+    {
+        "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
+        "name": "Wrapped SOL",
+        "symbol": "SOL",
+        "decimals": "8",
+        "type": "tokenfactory",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/solana.svg"
+    },
+    {
+        "id": "peggy0x080B12E80C9b45e97C23b6ad10a16B3e2a123949",
+        "name": "XBX",
+        "symbol": "XBX",
+        "decimals": "18",
+        "type": "peggy",
+        "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xbx.png"
+    },
+    {
+        "id": "helix/ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
+        "name": "XRP",
+        "symbol": "XRP",
+        "decimals": "6",
+        "type": "oracle",
+        "icon": "https://cryptologos.cc/logos/xrp-xrp-logo.svg"
+    },
+    {
+        "id": "factory/inj1h3h0yjxlchmydvsjpazcfyhp57lajdurznpeh0/grinj",
+        "name": "GRINJ",
+        "symbol": "GRINJ",
+        "decimals": "6",
+        "type": "tokenfactory",
+        "total_supply": "690000000",
+        "icon": "https://pbs.twimg.com/profile_images/1736036405514522624/sO0vByM1_400x400.jpg"
+    }
 ]

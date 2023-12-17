@@ -1,1825 +1,1346 @@
 [
-  {
-    "id": "inj100q996rctey97esv8aejly49h5ydm5g0pj235g",
-    "asset_ids": [
-      "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
-      "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj16al3rfeu3n93rcuyvnpqrk3m9xg7wtxhz44205"
-  },
-  {
-    "id": "inj16m2dzf7ulr7ytchwv9l89huem2us487cuak6qp",
-    "asset_ids": [
-      "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj1eux0764t05hmmyfksjmwhahq9kh3yq4stcg0rs"
-  },
-  {
-    "id": "inj19m96w8ezjzy9py6ualg5v4shx5fh9pvhecmtk8",
-    "asset_ids": [
-      "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-      "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj14t08awza9pn4dqvs72cwyna4s45ny8sf9f5l68"
-  },
-  {
-    "id": "inj1a9ylwfcz9tg39ud0tfzuy59za5qq22qwvdcqze",
-    "asset_ids": [
-      "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
-      "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj1j99w2a3k099npzy83lznetuhm6mkjl3u3xj4fa"
-  },
-  {
-    "id": "inj1c95v0zr7ah777qn05sqwfnd03le4f40rucs0dp",
-    "asset_ids": [
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj1wea6emsvgrxnsg07wsf9kx5djn2r4fyqzsxcja"
-  },
-  {
-    "id": "inj1cuvucg62w6j0xftjy4g3x4m0732nhvvm2mzucm",
-    "asset_ids": [
-      "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-      "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj1wa3jk3szleegpfvw8cm4464zekwy0x9pge7w23"
-  },
-  {
-    "id": "inj1mmnj6rc0d4ksjyaapx82l6suuxh4upq20e2h80",
-    "asset_ids": [
-      "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj1x0nncuz0rgy72ah038apgwfwyezw57ru84v4xk"
-  },
-  {
-    "id": "inj1xa8qeatflh3d2kexne7tgekjzwkykpmka85jaq",
-    "asset_ids": [
-      "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-      "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj19jynhq3fh44nd0nlryfnnhxnt7a0h20ln75fky"
-  },
-  {
-    "id": "inj1yucuzt37yusrz4jpe8al4uf654zyqc4m2jz3ef",
-    "asset_ids": [
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj1e2uc2p26509gtnrv2gj8832fkqx70vt0dmv6eh"
-  },
-  {
-    "id": "inj1z80xzhh4mkyzd6kjm4ffwyf5rp0lj5x3f75t08",
-    "asset_ids": [
-      "inj",
-      "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD"
-    ],
-    "dex": "Astroport",
-    "type": "pcl",
-    "lp_token_id": "inj1c6l2f2mwejyeffpy3zwtzw5dzv5ahy8juj3tml"
-  },
-  {
-    "id": "inj10fd06xl4q6jp9qlhemvm6ymmm83ppj2g8rzquw",
-    "asset_ids": [
-      "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "stable",
-    "lp_token_id": "inj1hxq5q8h7d8up6j4jcmxje42zpkzr409j6ay4wu"
-  },
-  {
-    "id": "inj1adn8ygp3czd7avxhhwzta6y7w8p3c2dmd4fv4e",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "stable",
-    "lp_token_id": "inj1j8jdreca56zey784s43jqqsgp224ulhqxygsmp"
-  },
-  {
-    "id": "inj1p45wx427vdalfsuw8278agnq90xv7z2pyml4uz",
-    "asset_ids": [
-      "factory/inj1cdwt8g7nxgtg2k4fn8sj363mh9ahkw2qt0vrnc/ampINJ",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "stable",
-    "lp_token_id": "inj164fk9tp5gfyf4ezck23f899ejvrfykxkxxfg9e"
-  },
-  {
-    "id": "inj1tfnmzqzwudkld4uavk3nrec9uq6gusxks6q225",
-    "asset_ids": [
-      "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-      "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB"
-    ],
-    "dex": "Astroport",
-    "type": "stable",
-    "lp_token_id": "inj1tm8dj8jv6ytmxvxc36nft0qmydzvufngrrz3s7"
-  },
-  {
-    "id": "inj100qy7fcvjhd5527m6h8yj3qhccd7l6pzdmuwmk",
-    "asset_ids": [
-      "inj",
-      "factory/inj1rdu7lqpvq4h2fyrjdfnp9gycdkut5ewql3e4uq/coolcat"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1wr6c4xdyv72nayzd4v59lwlatwauz4hgqa9kqr"
-  },
-  {
-    "id": "inj106pxurs8cjdre6p2ph7h8l73765t0yxuxr2hay",
-    "asset_ids": [
-      "inj",
-      "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj14apaa2cdr7rnpzm3xzvgpfcmvrmcsxevmucwf8"
-  },
-  {
-    "id": "inj10dmg9gtsu236f7al2dm2gvpsyaft6yn4220sym",
-    "asset_ids": [
-      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1h2s5vkv8uxvydvnyzru7cnjcg9qssjccmpqulz"
-  },
-  {
-    "id": "inj10nvp23ykw35zk2stv0xxayat2m9ydmumm4jgzu",
-    "asset_ids": [
-      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1zejzp0ne0hh7c0wupuspkcqwajlw6kww3r86jl"
-  },
-  {
-    "id": "inj12kl0584re00kqlffpr4rfp5x3mx7m6yxca595w",
-    "asset_ids": [
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1k7wcvumxnkkwedq4l5pdlczr59scc6yn2tky5y"
-  },
-  {
-    "id": "inj12x0q48dwzf7gzrnhasr7sv8ec3hks6rmk8hxxy",
-    "asset_ids": [
-      "inj",
-      "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj176hfnednzk8y6s686tk6nhxa6pfcx97mqsav2a"
-  },
-  {
-    "id": "inj13yguagsmmj7zymmnksaj0085ykklyw89t3jql8",
-    "asset_ids": [
-      "ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1vk6szmdq4akcckt3h077pqhkuk7vf0xzv55dd4"
-  },
-  {
-    "id": "inj14kh5m3fsdd83c4h50cfaa2yllxz8ueyy9rfcn6",
-    "asset_ids": [
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1qkdpkqay77uk67pvxm6thtv8rhl8mqjpvmh2wk"
-  },
-  {
-    "id": "inj14ny2s35cyffdyth0r95sq6r5ff7pr0ex0jvu9m",
-    "asset_ids": [
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1d7d83gktpdlq0w0y0wtq6qd6yzp5jv74gxuw60"
-  },
-  {
-    "id": "inj1500q8numf879gjyr7385t9q0zwsvkz0h63cezd",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
-      "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj12c30qkdr256vrn4fp585y5mgwezng2zkfg8zpp"
-  },
-  {
-    "id": "inj158pjm2dk30x2r7mc309zujzfmju82fe0fzuvl8",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
-      "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj17re58vfptt36svgu98qjdfudrhegrlfw03j23s"
-  },
-  {
-    "id": "inj15v9nthjd99rfqvc8luktx3h3m5v4w28ay2el89",
-    "asset_ids": [
-      "factory/inj174r3j8pm93gfcdu0g36dg6g7u0alygppypa45e/GRINJ",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1sglfxrfwlj6x3f80w6d7mqh8fy5ed3yqq0jm3e"
-  },
-  {
-    "id": "inj15yaw8vpv0vskh5qgpkxnuaq3dyvuzaxtytqhku",
-    "asset_ids": [
-      "inj",
-      "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1yzjcwy4m2qyn3kvspgsxhdltxz5kw34n8x80xx"
-  },
-  {
-    "id": "inj1606zcqxlu07g5g5rjzhqs8c8axlway99g03svz",
-    "asset_ids": [
-      "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1dlxwcprckmzu277lc895mr9qpme8lms2r05v9f"
-  },
-  {
-    "id": "inj16avlg6nspxp6fegzwmgx70u8qd5j3trp8rdzjp",
-    "asset_ids": [
-      "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1mqpf7p9rgzknj77yxkpj8x5lvdxxz70kasgnge"
-  },
-  {
-    "id": "inj16jg37axpyr7wwqjmm5mhnvzxh4xjfguy0950tf",
-    "asset_ids": [
-      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-      "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1tr9et439dej6l0xqedaesw8dne0arf5ykn29qw"
-  },
-  {
-    "id": "inj16mfr5kjcclr7v3y9gfhj65ekpnn37slt6c7ded",
-    "asset_ids": [
-      "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1surff5rgkcm3z7vddtmd5h88zke07nardd528k"
-  },
-  {
-    "id": "inj16njgm9l3fq7waxt6mzp64s97scupd9rrqttvcr",
-    "asset_ids": [
-      "factory/inj17kqcwkgdayv585dr7mljclechqzymgfsqc8x9k/WOJAK",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1u28jkf6ftlq869t3hq35j602mpavw32uk3sj0v"
-  },
-  {
-    "id": "inj16q3pq477n7dg2cv42vews0rtlma6f927v85n6c",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj15nhszwx82dudrpyhpnms6p776j9rs6yyujhqy3"
-  },
-  {
-    "id": "inj16t06zt2ew6tajsyw074f4srd3exthfc3x76p9u",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj12jszhw03el5pja9yh6km4f23chec0e85mcgmef"
-  },
-  {
-    "id": "inj175l9neteeujgnn4gux7spg7247pacm3sr7zz53",
-    "asset_ids": [
-      "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1cmawqguvsv6eu5f7233g283uetdvu0zyd9jxdw"
-  },
-  {
-    "id": "inj17u06g05sc3jyc9c94qmnquw7gsty7qwu0epssz",
-    "asset_ids": [
-      "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1rx2yfurr3zh4nzv5gazh899dyc2v4lhx2fex3r"
-  },
-  {
-    "id": "inj17y0fgwkz7vhh3wcfyfme9gh7lfcqwp7y9u0va3",
-    "asset_ids": [
-      "inj",
-      "factory/inj1lhr06p7k3rdgk0knw5hfsde3fj87g2aq4e9a52/BINJ"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1nsqv4d588xl9a8rxvvjxrzr4rpdzh39umj60h7"
-  },
-  {
-    "id": "inj189sfhaxxghg8q027lns9j7744ksrxukezdqw3w",
-    "asset_ids": [
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1jphdzrc267xpdpek8pnpjvn0z49ugwnay9ekhn"
-  },
-  {
-    "id": "inj18jrhqzzy303scvuukhkxvcpdnpy3gaqhqq5saa",
-    "asset_ids": [
-      "ibc/F8D4A8A44D8EF57F83D49624C4C89EECB1472D6D2D1242818CDABA6BC2479DA9",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1qu0zyksruugw9az7e0m7wf9lmatacf5d2uznqw"
-  },
-  {
-    "id": "inj190qjez75m3tnnm9ve95u8v6kny0qmjttt66mr6",
-    "asset_ids": [
-      "inj",
-      "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj12qdyl6d5ntsdw33wc2nqrd8wcmdk98mc2smzcj"
-  },
-  {
-    "id": "inj194da3ds0n4sshm8x86qayagl9uv7supamph5w7",
-    "asset_ids": [
-      "inj",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj19a8rugawr4llf0uq8qu2rrsghf06jv7jf3muec"
-  },
-  {
-    "id": "inj19fxup4wedegez9wh36c6q2azr0wzy23fnzaefy",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj10u8gzf9erumt32gtcy52urp85xhnw6w4msq9vk"
-  },
-  {
-    "id": "inj1a78hlc49t4g3xls4zm0f59aqqvnq7d7c6reaa6",
-    "asset_ids": [
-      "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1xe3g9z2j5pescdzpxk5qd37txq4yxd68wnr73s"
-  },
-  {
-    "id": "inj1a7khkwuc4kdrcg566d305rh9knvsvnmplr2pam",
-    "asset_ids": [
-      "factory/inj1wlwsd6w84ydmsqs5swthm5hw22qm8fxrth5ggx/FUINJ",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1024swnt5cd9ewjgp5vr5yweea332vydh8dvpdw"
-  },
-  {
-    "id": "inj1ajs70zfl6z2tc8rdu56h734f6qt2kyjuqqh0xq",
-    "asset_ids": [
-      "ibc/C20C0A822BD22B2CEF0D067400FCCFB6FAEEE9E91D360B4E0725BD522302D565",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj16n8e9js72hj96a3pw94a8wt3kqhqfxv2gjcpjj"
-  },
-  {
-    "id": "inj1any7ulg79crzrmt24gjze7ycszrz98r2aqvz7v",
-    "asset_ids": [
-      "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/dbt",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1u0gt5xd8f4kcxe57qau3tjpmtspcsnp6yqpv7c"
-  },
-  {
-    "id": "inj1ap7hlpzlpjxlqe7w06e70fn906m3gvafx5nkqm",
-    "asset_ids": [
-      "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj100pwnxfuvlw38nchzwnrcz4d7hvhq90yael2hq"
-  },
-  {
-    "id": "inj1c8dlv5mtzmesc9qsr75zswv5adx5cskhre080n",
-    "asset_ids": [
-      "factory/inj1lttm52qk6hs43vqak5qyk4hl4fzu2snq2gmg0c/nyan",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1j45zv0xxlek265w47az0lv2vxzqzw34hdggczt"
-  },
-  {
-    "id": "inj1c9k2d6rmva9l5xmeq62j0qca08k70u4frqzvxe",
-    "asset_ids": [
-      "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj13t4g5gvzkxpw35u68n069pwl3js034vxp07dkt"
-  },
-  {
-    "id": "inj1d2a6lptn8rdd5s5a8enguxpdvvjl85s643fggx",
-    "asset_ids": [
-      "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1n643uzjlz4gseve7jh95m3s8skzmvy6g9f8c3q"
-  },
-  {
-    "id": "inj1d35lkhr2l42rd7ra3gxn7ufxuzs3lqrlc8p4g3",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1wxlrjf96z6z9jganklwjq37wvjfccw7llhy3hn"
-  },
-  {
-    "id": "inj1d7ru9e8qcs70qp97ffwgya7lt5qpe7r646nufu",
-    "asset_ids": [
-      "inj",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1hawmarr2vaswduu09xvkcqjqm79d5zp8zku95r"
-  },
-  {
-    "id": "inj1d83wr42vwe9yh88gjrptq72mxlg4gg4r7zsg2m",
-    "asset_ids": [
-      "inj",
-      "factory/inj1ureedhqkm8tv2v60de54xzgqgu9u25xkuw8ecs/tyler"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1x5rqkny06wq9nhvhzlx3684hyarjl7tkwdnzzk"
-  },
-  {
-    "id": "inj1d8thneasuuhrflhel59hcvj77rj5vf6vndtjyl",
-    "asset_ids": [
-      "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1rqfr752hn6auzm3vzzyr2pd8rt6fapf279tyfp"
-  },
-  {
-    "id": "inj1dghf6ym9s8c5magfnk94xqsn46h8swxh70xrm4",
-    "asset_ids": [
-      "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1hqrmrgzw8hfdmdzthadh7x87vaqeesd3d28j7x"
-  },
-  {
-    "id": "inj1dnnadrzzfxn7tpdqqw7g2cerqq30szuh3wfcjf",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6kpxy6ar5lkxqudjvryarrrttmakwsvzkvcyh",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1ywkz72p5tkp5hj7mv6k4l73q9a7lgehm5n50tc"
-  },
-  {
-    "id": "inj1e2mw9s9n2alf4n8dy8hady2llyy7r0kjvh8vue",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1x63a3epxrywywm46jh7tvn8lr454ypf96hpmks"
-  },
-  {
-    "id": "inj1faccd69y862f73h3jay3qvxqfxtxt9wn43v564",
-    "asset_ids": [
-      "inj",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1testuvgnvkfwlr65xuhxkwrznlfars9hq2njt6"
-  },
-  {
-    "id": "inj1fjddvscpg8smyrg6lp5nntm8q8addaycfu0xwx",
-    "asset_ids": [
-      "factory/inj1k7ygz5ufgavnutv0hkgsz7u9g4c3yj6lq6p0jn/MOON",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1aam8qy9gdup7vw8kr6mugj66ppcvgaj46favj3"
-  },
-  {
-    "id": "inj1fxl6jju92qvx5e3ftx5ep3fhrup9fh3v6skpfw",
-    "asset_ids": [
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1rn0hfpfcj09uq7r6l7tx2fhdwsufptv340w904"
-  },
-  {
-    "id": "inj1g8ftaglcmyqsang8gwgl7tg2n222x09yf42cm7",
-    "asset_ids": [
-      "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1a7wd7ks949wxzcw69n6md60c0qhykk93w0r8g6"
-  },
-  {
-    "id": "inj1h047zu3h0kal9w9yuf3kf7y4ajaf40vh5fm9x7",
-    "asset_ids": [
-      "inj",
-      "factory/inj13f6c0hc3l80qa7w80j992wtscslkg8pm65rxua/CHAD"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj19t9f59rry4lk4uufdjly9jlgq47e2ak0tpdj2v"
-  },
-  {
-    "id": "inj1h5tz3pvy6e4ujndfdyjxy84hlmq28lnajjkl4z",
-    "asset_ids": [
-      "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1rnraxu54huv7wkmpff3v8mzhqh49g0e6fj67sd"
-  },
-  {
-    "id": "inj1hdvqk8tw8st80eywhrk9nrcjhdevlxa4enqjw6",
-    "asset_ids": [
-      "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1ew7t376ffnpv6r62gpy474ut27npk8r86yk956"
-  },
-  {
-    "id": "inj1hhr03yklc402uu3vesa7g7fl5cjgr3fx4lyk82",
-    "asset_ids": [
-      "factory/inj1h3h0yjxlchmydvsjpazcfyhp57lajdurznpeh0/grinj",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1gp6s5flmxyj0rp0heyafx7msykgauzg7gu3zr4"
-  },
-  {
-    "id": "inj1jfs89p3tk236hhxnptqzcv0ts25hra8yyqevgx",
-    "asset_ids": [
-      "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1d80q5y4uy40ttkpe2ke4ulk8gesfwwtcn05wex"
-  },
-  {
-    "id": "inj1ju5kk24ffjjn5ufe7flxznzyect5rt2u63cncd",
-    "asset_ids": [
-      "ibc/D91A2C4EE7CD86BBAFCE0FA44A60DDD9AFBB7EEB5B2D46C0984DEBCC6FEDFAE8",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1z9e4670vmmvm5msu7fza3zuq2vgetn0k2kk7d2"
-  },
-  {
-    "id": "inj1kdhan8sqdag7tnem3k0maecv3ghpqgmcqzujgc",
-    "asset_ids": [
-      "factory/inj1y207pve646dtac77v7qehw85heuy92c03t7t07/ak47",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1vwt3q7f2jxxm8ka5hfjy0rmyd3d55pkfgpcsrl"
-  },
-  {
-    "id": "inj1kj7pd6a0gxqrry9r338cp7m4mq8tm4v8muezqv",
-    "asset_ids": [
-      "peggy0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1xnepvg44fx7j29etsfm5tk079fdscww3xxk9gn"
-  },
-  {
-    "id": "inj1kpxdrl753e2rgyt2a5xwgldyxnu3yglxmr22qw",
-    "asset_ids": [
-      "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1zjgtu7n7vlruvl3v96g0urm5ppcsd5ltyvp0q7"
-  },
-  {
-    "id": "inj1l0py5p3l2708xvvz8wjmgs49rdjf7cw9jt93qu",
-    "asset_ids": [
-      "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj16t06swlcmrhq0e27859n2caq3ll2rhdhj5465a"
-  },
-  {
-    "id": "inj1lyjpwyeuxv5jwzmk9datrspywwgqks82x4kax8",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tjcf9497fwmrnk22jfu5hsdq82qshga54ajvzy",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1lnzwrg8809mqs50u5e5zjhtfjsxvyccx8fv0yn"
-  },
-  {
-    "id": "inj1mswg9220ffhlhuaaefre236q3xwhdfj9eclg9q",
-    "asset_ids": [
-      "peggy0xAaEf88cEa01475125522e117BFe45cF32044E238",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj16gk5664xccg262nf9lsjgcp6e77al7tfy22fn5"
-  },
-  {
-    "id": "inj1n85quv7pa5q7yndyykgvy40gnxwv76tjk96t6a",
-    "asset_ids": [
-      "factory/inj1z426atp9k68uv49kaam7m0vnehw5fulxkyvde0/SHURIKEN",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1g7qxtpxxynuz4dr4k9fanccxuvnsdfet8dnymk"
-  },
-  {
-    "id": "inj1nadynqy36ud049whys4mtzhr29j6806zv50jee",
-    "asset_ids": [
-      "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1yt0jq8z0vrtpgcsg8ts4h5lrpkph7j0uga5a66"
-  },
-  {
-    "id": "inj1ng2wje4dxt5sxuh777jzlh5lasgdz8nkm9rlcg",
-    "asset_ids": [
-      "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
-      "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj19f6ww9peaa3tjhjynjcsxms9v4mcpqrpdxz76l"
-  },
-  {
-    "id": "inj1pdnkuhg8d4tngcv8v4cf43ma6wa4sqq025uve8",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
-      "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1p5ge6anam3wzvzz8ynnrdu9ut35de7e8j79yjg"
-  },
-  {
-    "id": "inj1plm4mz9e33kfl7xtekee4773zrhv29m654zydy",
-    "asset_ids": [
-      "ibc/3FDD002A3A4019B05A33D324B2F29748E77AF501BEA5C96D1F28B2D6755F9F25",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1kh2f3ktzrp22a7qavrwdtptkquwkrgwn8386gx"
-  },
-  {
-    "id": "inj1ppqlp9ezt45rpju7vewzdprlp8x06f3z06dk2t",
-    "asset_ids": [
-      "peggy0XA8C8CFB141A3BB59FEA1E2EA6B79B5ECBCD7B6CA",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1jgfzyj770g2aauc65tuvegq9wmqxny0wnuwlf9"
-  },
-  {
-    "id": "inj1qa3h5mm602x5f79wz8rte3xn2y3rq7ltyy6dg0",
-    "asset_ids": [
-      "inj",
-      "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1vylz6hpral722dqq8wt8c07a2crhtkzcdrmjak"
-  },
-  {
-    "id": "inj1r0l53fjp2nqkqgwndv4ultwdedyvh53vnh5mgz",
-    "asset_ids": [
-      "inj",
-      "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1s2rs23gg0mw6jr7s3rjhwsrssnnhn8vck24n2r"
-  },
-  {
-    "id": "inj1rjpsw7ke0tfup4kes6wn29alm764uz4fj00t0j",
-    "asset_ids": [
-      "peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1t3vf8pgs82uvyczvsepdcw0jf2saafpr3svy34"
-  },
-  {
-    "id": "inj1rm8mn6kwhv9zp4l8fcjv6jae8cnm50m7ykprjc",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1d5vz0uzwlpfvgwrwulxg6syy82axa58y4fuszd",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj16n7wkrc8tj6s98xtvcx2jacj5h6mj53dd5lx24"
-  },
-  {
-    "id": "inj1s4dkef5u2gsn3uj58menmwk9x9nmjyefnkgewf",
-    "asset_ids": [
-      "factory/inj1k7ygz5ufgavnutv0hkgsz7u9g4c3yj6lq6p0jn/FOMO",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1ddkjwktq8pkle738d6g5wflwsj7xkper29rdav"
-  },
-  {
-    "id": "inj1sc5tmhstuu4hulzl0q0a22n85plhaaq8vkv4nn",
-    "asset_ids": [
-      "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1mw99k3jrxhzhktphtr55e9fhp2rncc2elh75js"
-  },
-  {
-    "id": "inj1tssemsjdsnvw4phe90svgc2u4wf2uexwtzfr7a",
-    "asset_ids": [
-      "factory/inj1av2965j0asg5qwyccm8ycz3qk0eya4873dkp3u/kermit",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1vqg623q0xzf2seag70hurmftam78su7mu35e7c"
-  },
-  {
-    "id": "inj1tzgl34fnhyqgft0a5l37l8j7a3an8gyme0w97p",
-    "asset_ids": [
-      "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1p2yfm2rhlyvy23z8zae9elgzgzq7aeqfskdp4z"
-  },
-  {
-    "id": "inj1uv93r6gw7g2us4hsrr8n426t6cvxwznnaatmr7",
-    "asset_ids": [
-      "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1mfngvq0050teluzrhlcw7z8k8y6whkpv8qre8x"
-  },
-  {
-    "id": "inj1vaj5j879d35x4tevpnuwmvq7wpl63mcrkceav6",
-    "asset_ids": [
-      "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1d62ry5fwsafggxu67fwhavpu3954vf5n8e5pmt"
-  },
-  {
-    "id": "inj1vv8d4zsax2jyt745vg0p2a29ymcjrmn58jf2z4",
-    "asset_ids": [
-      "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1dtpqn48watxrezj6gg630x0xzxw4jm70mqxgpt"
-  },
-  {
-    "id": "inj1w2l8axy30jrax9una46we5m7wrhh7frj4qg698",
-    "asset_ids": [
-      "peggy0xa670d7237398238DE01267472C6f13e5B8010FD1",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1hmq99t9q9ty0lwhhz5ekma2a8nm320yxq52sr0"
-  },
-  {
-    "id": "inj1wgdz8rzrgf3qfrlz434377r3a6hphepq6yz2vd",
-    "asset_ids": [
-      "ibc/FECCDCFA89278B117C76A11A946A7991A68E5DD12DED6EB938ADC1B1286AC591",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1nvxe0e9ddtth7e8jgcqdgne5kkmdxzq0xd93m4"
-  },
-  {
-    "id": "inj1x2skrlvnq0cre76zrn0mm9rwefkexszatskj8p",
-    "asset_ids": [
-      "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1q5wmfzl6gfe629cc5yacluerphf8d5gqjd5055"
-  },
-  {
-    "id": "inj1x7rhzr9428wg9cwu2ctsf53m526ttvzgtw5g4e",
-    "asset_ids": [
-      "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
-      "ibc/F8D4A8A44D8EF57F83D49624C4C89EECB1472D6D2D1242818CDABA6BC2479DA9"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1nre7rym7ahsnap4lm3qwrmpr8yldv8d3a4qgs5"
-  },
-  {
-    "id": "inj1y726kmjxnqvdx58hx680suy2yery6nzz7qpmve",
-    "asset_ids": [
-      "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1uu9dsss65z2dt6cz9avr2tk6wrdjxxe0cxh4d5"
-  },
-  {
-    "id": "inj1yczzrzayyneh84dsjta8q8t9zx9c3qt9tu3zp3",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
-      "inj"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1xn0lza6kukg8z2w8zj25h752c43l9usyhg8vv5"
-  },
-  {
-    "id": "inj1ymx3u9njnsamm29snspq2mk6ujazqgfdgpkfg8",
-    "asset_ids": [
-      "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
-      "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1gc9c4rn8dt52j88vw8h9qjmgj9nn2fvpdvnuj3"
-  },
-  {
-    "id": "inj1yqm0ejkrrm9h9rr4nucgzyydff2m8js7lefgrc",
-    "asset_ids": [
-      "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1sqc9jap0yye84dx5uyqyvepg83p7hvqke5sjvk"
-  },
-  {
-    "id": "inj1yr8s6wq7gnpa43qsrk59cmyagf4pp0a6nxxvn7",
-    "asset_ids": [
-      "peggy0xAaEf88cEa01475125522e117BFe45cF32044E238",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "inj1kl3cs35rqj20exq94x22nhv33rkuw4lucascts"
-  },
-  {
-    "id": "0x01e920e081b6f3b2e5183399d5b6733bb6f80319e6be3805b95cb7236910ff0e",
-    "asset_ids": [
-      "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x01edfab47f124748dc89998eb33144af734484ba07099014594321729a0ca16b",
-    "asset_ids": [
-      "peggy0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x0511ddc4e6586f3bfe1acb2dd905f8b8a82c97e1edaef654b12ca7e6031ca0fa",
-    "asset_ids": [
-      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x0686357b934c761784d58a2b8b12618dfe557de108a220e06f8f6580abb83aab",
-    "asset_ids": [
-      "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x09cc2c28fbedbdd677e07924653f8f583d0ee5886e74046e7f114210d990784b",
-    "asset_ids": [
-      "peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x0c9f98c99b23e89dbf6a60bec05372790b39e03da0f86dd0208fc8e28751bd8c",
-    "asset_ids": [
-      "peggy0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x0f1a11df46d748c2b20681273d9528021522c6a0db00de4684503bbd53bef16e",
-    "asset_ids": [
-      "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x170a06eb653548f67e94b0fcb82c5258c83b0a2b62ed24c55749d5ac77bc7621",
-    "asset_ids": [
-      "peggy0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x1bba49ea1eb64958a19b66c450e241f17151bc2e5ea81ed5e2793af45598b906",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1d5vz0uzwlpfvgwrwulxg6syy82axa58y4fuszd",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x2021159081a88c9a627c66f770fb60c7be78d492509c89b203e1829d0413995a",
-    "asset_ids": [
-      "peggy0x6b7f87279982d919Bbf85182DDeAB179B366D8f2",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x219b522871725d175f63d5cb0a55e95aa688b1c030272c5ae967331e45620032",
-    "asset_ids": [
-      "peggy0x3F07A84eCdf494310D397d24c1C78B041D2fa622",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x21f3eed62ddc64458129c0dcbff32b3f54c92084db787eb5cf7c20e69a1de033",
-    "asset_ids": [
-      "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x26413a70c9b78a495023e5ab8003c9cf963ef963f6755f8b57255feb5744bf31",
-    "asset_ids": [
-      "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x28f3c9897e23750bf653889224f93390c467b83c86d736af79431958fff833d1",
-    "asset_ids": [
-      "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x29255e99290ff967bc8b351ce5b1cb08bc76a9a9d012133fb242bdf92cd28d89",
-    "asset_ids": [
-      "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x2d8b2a2bef3782b988e16a8d718ea433d6dfebbb3b932975ca7913589cb408b5",
-    "asset_ids": [
-      "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x35fd4fa9291ea68ce5eef6e0ea8567c7744c1891c2059ef08580ba2e7a31f101",
-    "asset_ids": [
-      "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x4807e9ac33c565b4278fb9d288bd79546abbf5a368dfc73f160fe9caa37a70b1",
-    "asset_ids": [
-      "ibc/7E1AF94AD246BE522892751046F0C959B768642E5671CC3742264068D49553C0",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x4b29b6df99d73920acdc56962050786ac950fcdfec6603094b63cd38cad5197e",
-    "asset_ids": [
-      "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x4d030dccc9564ab1536a7751c3a566fa3adcb6a08ac807edc82890f2a6ec4fed",
-    "asset_ids": [
-      "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x4fa0bd2c2adbfe077f58395c18a72f5cbf89532743e3bddf43bc7aba706b0b74",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6kpxy6ar5lkxqudjvryarrrttmakwsvzkvcyh",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x510855ccf9148b47c6114e1c9e26731f9fd68a6f6dbc5d148152d02c0f3e5ce0",
-    "asset_ids": [
-      "peggy0x4986fD36b6b16f49b43282Ee2e24C5cF90ed166d",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x51092ddec80dfd0d41fee1a7d93c8465de47cd33966c8af8ee66c14fe341a545",
-    "asset_ids": [
-      "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x572f05fd93a6c2c4611b2eba1a0a36e102b6a592781956f0128a27662d84f112",
-    "asset_ids": [
-      "peggy0x4d224452801ACEd8B2F0aebE155379bb5D594381",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x5abfffe9079d53e0bf8ee9b3064b427acc3d71d6ba58a44235abe38f60115678",
-    "asset_ids": [
-      "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x66a113e1f0c57196985f8f1f1cfce2f220fa0a96bca39360c70b6788a0bc06e0",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x689ea50a30b0aeaf162e57100fefe5348a00099774f1c1ebcd90c4b480fda46a",
-    "asset_ids": [
-      "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x6922cf4383294c673971dd06aa4ae5ef47f65cb4f1ec1c2af4271c5e5ca67486",
-    "asset_ids": [
-      "ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x719f1617efc6e998472b70436549e0999fab8c05701177b15ba8910f2c5e7ab2",
-    "asset_ids": [
-      "ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x7471d361b90fc8541267bd088f498c2a461a2c0c57ff2b9a08279480e803b470",
-    "asset_ids": [
-      "peggy0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x75f6a79b552dac417df219ab384be19cb13b53dec7cf512d73a965aee8bc83af",
-    "asset_ids": [
-      "peggy0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x7f71c4fba375c964be8db7fc7a5275d974f8c6cdc4d758f2ac4997f106bb052b",
-    "asset_ids": [
-      "peggy0xAaEf88cEa01475125522e117BFe45cF32044E238",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x7fce43f1140df2e5f16977520629e32a591939081b59e8fbc1e1c4ddfa77a044",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x84ba79ffde31db8273a9655eb515cb6cadfdf451b8f57b83eb3f78dca5bbbe6d",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x8b1a4d3e8f6b559e30e40922ee3662dd78edf7042330d4d620d188699d1a9715",
-    "asset_ids": [
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x9a629b947b6f946af4f6076cfda67f3535d73ee3cef6176cf6d9c8d6b0a03f37",
-    "asset_ids": [
-      "peggy0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xa04adeed0f09ed45c73b344b520d05aa31eabe2f469dcbb02a021e0d9d098715",
-    "asset_ids": [
-      "ibc/C20C0A822BD22B2CEF0D067400FCCFB6FAEEE9E91D360B4E0725BD522302D565",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xa43d2be9861efb0d188b136cef0ae2150f80e08ec318392df654520dd359fcd7",
-    "asset_ids": [
-      "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xa508cb32923323679f29a032c70342c147c17d0145625922b0ef22e955c844c0",
-    "asset_ids": [
-      "inj",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xa6ec1de114a5ffa85b6b235144383ce51028a1c0c2dee7db5ff8bf14d5ca0d49",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tjcf9497fwmrnk22jfu5hsdq82qshga54ajvzy",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xa7fb70ac87e220f3ea7f7f77faf48b47b3575a9f7ad22291f04a02799e631ca9",
-    "asset_ids": [
-      "ibc/D91A2C4EE7CD86BBAFCE0FA44A60DDD9AFBB7EEB5B2D46C0984DEBCC6FEDFAE8",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xabc20971099f5df5d1de138f8ea871e7e9832e3b0b54b61056eae15b09fed678",
-    "asset_ids": [
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xac938722067b1dfdfbf346d2434573fb26cb090d309b19af17df2c6827ceb32c",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xb825e2e4dbe369446e454e21c16e041cbc4d95d73f025c369f92210e82d2106f",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj12pwnhtv7yat2s30xuf4gdk9qm85v4j3e60dgvu",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xb9a07515a5c239fcbfa3e25eaa829a03d46c4b52b9ab8ee6be471e9eb0e9ea31",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xba33c2cdb84b9ad941f5b76c74e2710cf35f6479730903e93715f73f2f5d44be",
-    "asset_ids": [
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xbe9d4a0a768c7e8efb6740be76af955928f93c247e0b3a1a106184c6cf3216a7",
-    "asset_ids": [
-      "peggy0x4a220E6096B25EADb88358cb44068A3248254675",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xcd4b823ad32db2245b61bf498936145d22cdedab808d2f9d65100330da315d29",
-    "asset_ids": [
-      "ibc/3FDD002A3A4019B05A33D324B2F29748E77AF501BEA5C96D1F28B2D6755F9F25",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xcdfbfaf1f24055e89b3c7cc763b8cb46ffff08cdc38c999d01f58d64af75dca9",
-    "asset_ids": [
-      "peggy0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xce1829d4942ed939580e72e66fd8be3502396fc840b6d12b2d676bdb86542363",
-    "asset_ids": [
-      "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
-      "inj"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xd1956e20d74eeb1febe31cd37060781ff1cb266f49e0512b446a5fafa9a16034",
-    "asset_ids": [
-      "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xd5f5895102b67300a2f8f2c2e4b8d7c4c820d612bc93c039ba8cb5b93ccedf22",
-    "asset_ids": [
-      "ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xd7487c1fc78fdb283d838fa562339db0ca05cd4af57c6a20e6561f260c78d1ae",
-    "asset_ids": [
-      "peggy0x080B12E80C9b45e97C23b6ad10a16B3e2a123949",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xda0bb7a7d8361d17a9d2327ed161748f33ecbf02738b45a7dd1d812735d1531c",
-    "asset_ids": [
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xdce84d5e9c4560b549256f34583fb4ed07c82026987451d5da361e6e238287b3",
-    "asset_ids": [
-      "ibc/B8AF5D92165F35AB31F3FC7C7B444B9D240760FA5D406C49D24862BD0284E395",
-      "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xe03df6e1571acb076c3d8f22564a692413b6843ad2df67411d8d8e56449c7ff4",
-    "asset_ids": [
-      "ibc/3A6DD3358D9F7ADD18CDE79BA10B400511A5DE4AE2C037D7C9639B52ADAF35C6",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xe0dc13205fb8b23111d8555a6402681965223135d368eeeb964681f9ff12eb2a",
-    "asset_ids": [
-      "inj",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xe8bf0467208c24209c1cf0fd64833fa43eb6e8035869f9d043dbff815ab76d01",
-    "asset_ids": [
-      "peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xe8fe754e16233754e2811c36aca89992e35951cfd61376f1cbdc44be6ac8d3fb",
-    "asset_ids": [
-      "ibc/F6CC233E5C0EA36B1F74AB1AF98471A2D6A80E2542856639703E908B4D93E7C4",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xf04d1b7acf40b331d239fcff7950f98a4f2ab7adb2ceb8f65aa32ac29455d7b4",
-    "asset_ids": [
-      "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xf09dd242aea343afd7b6644151bb00d1b8770d842881009bea867658602b6bf0",
-    "asset_ids": [
-      "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
-      "inj"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xf66f797a0ff49bd2170a04d288ca3f13b5df1c822a7b0cc4204aca64a5860666",
-    "asset_ids": [
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xfbc729e93b05b4c48916c1433c9f9c2ddb24605a73483303ea0f87a8886b52af",
-    "asset_ids": [
-      "inj",
-      "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0xfe93c19c0a072c8dd208b96694e024305a7dff01bbf12cac2bfa81b246c69040",
-    "asset_ids": [
-      "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
-      "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    ],
-    "dex": "Helix",
-    "type": "orderbook"
-  },
-  {
-    "id": "0x06c5a306492ddc2b8dc56969766959163287ed68a6b59baa2f42330dda0aebe0",
-    "asset_ids": [
-      "helix/SOL",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x1afa358349b140e49441b6e68529578c7d2f27f06e18ef874f428457c0aaeb8b",
-    "asset_ids": [
-      "helix/SEI",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x1c79dac019f73e4060494ab1b4fcba734350656d6fc4d474f6a238c13c6f9ced",
-    "asset_ids": [
-      "helix/BNB",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x2d1fc1ebff7cae29d6f85d3a2bb7f3f6f2bab12a25d6cc2834bcb06d7b08fd74",
-    "asset_ids": [
-      "helix/BAYC",
-      "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x332230109e7afb839b4750d4cf961666b608071ecb64dac55662dac37529639e",
-    "asset_ids": [
-      "helix/0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
-      "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x3b7fb1d9351f7fa2e6e0e5a11b3639ee5e0486c33a6a74f629c3fc3c3043efd5",
-    "asset_ids": [
-      "helix/BONK",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x4b7a550e1760cbd2c6ccb97562c56878083b92e32d07e9e3326945c6e60e6b60",
-    "asset_ids": [
-      "helix/TIA",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x4ca0f92fc28be0c9761326016b5a1a2177dd6375558365116b5bdda9abc229ce",
-    "asset_ids": [
-      "helix/BTC",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x4fe7aff4dd27be7cbb924336e7fe2d160387bb1750811cf165ce58d4c612aebb",
-    "asset_ids": [
-      "helix/0x60144b1d5c9e9851732ad1d9760e3485ef80be39b984f6bf60f82b28a2b7f126",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x54d4505adef6a5cef26bc403a33d595620ded4e15b9e2bc3dd489b714813366a",
-    "asset_ids": [
-      "helix/ETH",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x63bafbeee644b6606afb8476dd378fba35d516c7081d6045145790af963545aa",
-    "asset_ids": [
-      "helix/ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x64c3a57b693ede854b0a2794ed5c99546925d1fbe74d91a2e3286e4155a00dee",
-    "asset_ids": [
-      "helix/TIA",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x8158e603fb80c4e417696b0e98765b4ca89dcf886d3b9b2b90dc15bfb1aebd51",
-    "asset_ids": [
-      "helix/LUNA",
-      "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x887beca72224f88fb678a13a1ae91d39c53a05459fd37ef55005eb68f745d46d",
-    "asset_ids": [
-      "helix/PYTH",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x8c7fd5e6a7f49d840512a43d95389a78e60ebaf0cde1af86b26a785eb23b3be5",
-    "asset_ids": [
-      "helix/OSMO",
-      "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x9066bfa1bd97685e0df4e22a104f510fb867fde7f74a52f3341c7f5f56eb889c",
-    "asset_ids": [
-      "helix/0x09f7c1d7dfbb7df2b8fe3d3d87ee94a2259d212da4f30c1f0540d066dfa44723",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0x9b9980167ecc3645ff1a5517886652d94a0825e54a77d2057cbbe3ebee015963",
-    "asset_ids": [
-      "helix/INJ",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0xbf94d932d1463959badee52ffbeb2eeeeeda750e655493e909ced540c375a277",
-    "asset_ids": [
-      "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0xc559df216747fc11540e638646c384ad977617d6d8f0ea5ffdfc18d52e58ab01",
-    "asset_ids": [
-      "helix/ATOM",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0xc60c2ba4c11976e4c10ed7c1f5ca789b63282d0b3782ec3d7fc29dec9f43415e",
-    "asset_ids": [
-      "helix/STX",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0xca3682d053e8c804ea9cd322cfc0476d9016b99210fe42774a61b06e8868fef3",
-    "asset_ids": [
-      "helix/0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
-      "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0xcd0c859a99f26bb3530e21890937ed77d20754aa7825a599c71710514fc125ef",
-    "asset_ids": [
-      "helix/0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0xcf18525b53e54ad7d27477426ade06d69d8d56d2f3bf35fe5ce2ad9eb97c2fbc",
-    "asset_ids": [
-      "helix/OSMO",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "inj14zykjnz94dr9nj4v2yzpvnlrw5uurk5hhea8xw",
-    "asset_ids": [
-      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "White Whale",
-    "type": "xyk",
-    "lp_token_id": "inj1j30wx6kjfsessdx5mlp32hqwklj48ufvxx6tyc"
-  },
-  {
-    "id": "inj17dez7atlgwrl7lxzszxjy7gzuj325n8re3f7mh",
-    "asset_ids": [
-      "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
-      "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2"
-    ],
-    "dex": "White Whale",
-    "type": "xyk",
-    "lp_token_id": "inj1a6tcf60pyz8qq2n532dzcs7s7sj8klcmj94nhd"
-  },
-  {
-    "id": "inj1gyxlm5j537d8pvl5eqfswya93delvh3nlhustk",
-    "asset_ids": [
-      "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
-      "ibc/168C3904C45C6FE3539AE85A8892DF87371D00EA7942515AFC50AA43C4BB0A32"
-    ],
-    "dex": "White Whale",
-    "type": "xyk",
-    "lp_token_id": "inj185gqewrlde8vrqw7j8lpad67v8jfrx9u28w38t"
-  },
-  {
-    "id": "inj1t9daxn85sz688vkn8wu4w47jnrak296hh2q579",
-    "asset_ids": [
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445"
-    ],
-    "dex": "White Whale",
-    "type": "xyk",
-    "lp_token_id": "inj1869zena97sctemj78sgjmu737p2g9490esftk5"
-  },
-  {
-    "id": "inj1zfw930csx0k5qzf35vndaulwada4wa3pywekyx",
-    "asset_ids": [
-      "inj",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "White Whale",
-    "type": "xyk",
-    "lp_token_id": "inj14n26cr7dj79smrgg44hfylhph9y45h4yx5gvzm"
-  }
+    {
+        "id": "inj100q996rctey97esv8aejly49h5ydm5g0pj235g",
+        "asset_ids": [
+            "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
+            "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4"
+        ],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj16al3rfeu3n93rcuyvnpqrk3m9xg7wtxhz44205"
+    },
+    {
+        "id": "inj16m2dzf7ulr7ytchwv9l89huem2us487cuak6qp",
+        "asset_ids": ["ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj1eux0764t05hmmyfksjmwhahq9kh3yq4stcg0rs"
+    },
+    {
+        "id": "inj19m96w8ezjzy9py6ualg5v4shx5fh9pvhecmtk8",
+        "asset_ids": [
+            "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+            "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4"
+        ],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj14t08awza9pn4dqvs72cwyna4s45ny8sf9f5l68"
+    },
+    {
+        "id": "inj1a9ylwfcz9tg39ud0tfzuy59za5qq22qwvdcqze",
+        "asset_ids": ["ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4", "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD"],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj1j99w2a3k099npzy83lznetuhm6mkjl3u3xj4fa"
+    },
+    {
+        "id": "inj1c95v0zr7ah777qn05sqwfnd03le4f40rucs0dp",
+        "asset_ids": ["peggy0xdAC17F958D2ee523a2206206994597C13D831ec7", "inj"],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj1wea6emsvgrxnsg07wsf9kx5djn2r4fyqzsxcja"
+    },
+    {
+        "id": "inj1cuvucg62w6j0xftjy4g3x4m0732nhvvm2mzucm",
+        "asset_ids": ["ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839", "factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla"],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj1wa3jk3szleegpfvw8cm4464zekwy0x9pge7w23"
+    },
+    {
+        "id": "inj1mmnj6rc0d4ksjyaapx82l6suuxh4upq20e2h80",
+        "asset_ids": ["ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj1x0nncuz0rgy72ah038apgwfwyezw57ru84v4xk"
+    },
+    {
+        "id": "inj1xa8qeatflh3d2kexne7tgekjzwkykpmka85jaq",
+        "asset_ids": ["ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839", "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD"],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj19jynhq3fh44nd0nlryfnnhxnt7a0h20ln75fky"
+    },
+    {
+        "id": "inj1yucuzt37yusrz4jpe8al4uf654zyqc4m2jz3ef",
+        "asset_ids": ["peggy0xdAC17F958D2ee523a2206206994597C13D831ec7", "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj1e2uc2p26509gtnrv2gj8832fkqx70vt0dmv6eh"
+    },
+    {
+        "id": "inj1z80xzhh4mkyzd6kjm4ffwyf5rp0lj5x3f75t08",
+        "asset_ids": ["inj", "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD"],
+        "dex": "Astroport",
+        "type": "pcl",
+        "lp_token_id": "inj1c6l2f2mwejyeffpy3zwtzw5dzv5ahy8juj3tml"
+    },
+    {
+        "id": "inj10fd06xl4q6jp9qlhemvm6ymmm83ppj2g8rzquw",
+        "asset_ids": ["ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93", "inj"],
+        "dex": "Astroport",
+        "type": "stable",
+        "lp_token_id": "inj1hxq5q8h7d8up6j4jcmxje42zpkzr409j6ay4wu"
+    },
+    {
+        "id": "inj1adn8ygp3czd7avxhhwzta6y7w8p3c2dmd4fv4e",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
+            "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        ],
+        "dex": "Astroport",
+        "type": "stable",
+        "lp_token_id": "inj1j8jdreca56zey784s43jqqsgp224ulhqxygsmp"
+    },
+    {
+        "id": "inj1p45wx427vdalfsuw8278agnq90xv7z2pyml4uz",
+        "asset_ids": ["factory/inj1cdwt8g7nxgtg2k4fn8sj363mh9ahkw2qt0vrnc/ampINJ", "inj"],
+        "dex": "Astroport",
+        "type": "stable",
+        "lp_token_id": "inj164fk9tp5gfyf4ezck23f899ejvrfykxkxxfg9e"
+    },
+    {
+        "id": "inj1tfnmzqzwudkld4uavk3nrec9uq6gusxks6q225",
+        "asset_ids": [
+            "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+            "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB"
+        ],
+        "dex": "Astroport",
+        "type": "stable",
+        "lp_token_id": "inj1tm8dj8jv6ytmxvxc36nft0qmydzvufngrrz3s7"
+    },
+    {
+        "id": "inj100qy7fcvjhd5527m6h8yj3qhccd7l6pzdmuwmk",
+        "asset_ids": ["inj", "factory/inj1rdu7lqpvq4h2fyrjdfnp9gycdkut5ewql3e4uq/coolcat"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1wr6c4xdyv72nayzd4v59lwlatwauz4hgqa9kqr"
+    },
+    {
+        "id": "inj106pxurs8cjdre6p2ph7h8l73765t0yxuxr2hay",
+        "asset_ids": ["inj", "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj14apaa2cdr7rnpzm3xzvgpfcmvrmcsxevmucwf8"
+    },
+    {
+        "id": "inj10dmg9gtsu236f7al2dm2gvpsyaft6yn4220sym",
+        "asset_ids": ["ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1h2s5vkv8uxvydvnyzru7cnjcg9qssjccmpqulz"
+    },
+    {
+        "id": "inj10nvp23ykw35zk2stv0xxayat2m9ydmumm4jgzu",
+        "asset_ids": ["ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1zejzp0ne0hh7c0wupuspkcqwajlw6kww3r86jl"
+    },
+    {
+        "id": "inj12kl0584re00kqlffpr4rfp5x3mx7m6yxca595w",
+        "asset_ids": ["peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1k7wcvumxnkkwedq4l5pdlczr59scc6yn2tky5y"
+    },
+    {
+        "id": "inj12x0q48dwzf7gzrnhasr7sv8ec3hks6rmk8hxxy",
+        "asset_ids": ["inj", "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj176hfnednzk8y6s686tk6nhxa6pfcx97mqsav2a"
+    },
+    {
+        "id": "inj13yguagsmmj7zymmnksaj0085ykklyw89t3jql8",
+        "asset_ids": ["ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1vk6szmdq4akcckt3h077pqhkuk7vf0xzv55dd4"
+    },
+    {
+        "id": "inj14kh5m3fsdd83c4h50cfaa2yllxz8ueyy9rfcn6",
+        "asset_ids": ["peggy0xdAC17F958D2ee523a2206206994597C13D831ec7", "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1qkdpkqay77uk67pvxm6thtv8rhl8mqjpvmh2wk"
+    },
+    {
+        "id": "inj14ny2s35cyffdyth0r95sq6r5ff7pr0ex0jvu9m",
+        "asset_ids": ["peggy0xdAC17F958D2ee523a2206206994597C13D831ec7", "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1d7d83gktpdlq0w0y0wtq6qd6yzp5jv74gxuw60"
+    },
+    {
+        "id": "inj1500q8numf879gjyr7385t9q0zwsvkz0h63cezd",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
+            "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB"
+        ],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj12c30qkdr256vrn4fp585y5mgwezng2zkfg8zpp"
+    },
+    {
+        "id": "inj158pjm2dk30x2r7mc309zujzfmju82fe0fzuvl8",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
+            "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        ],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj17re58vfptt36svgu98qjdfudrhegrlfw03j23s"
+    },
+    {
+        "id": "inj15v9nthjd99rfqvc8luktx3h3m5v4w28ay2el89",
+        "asset_ids": ["factory/inj174r3j8pm93gfcdu0g36dg6g7u0alygppypa45e/GRINJ", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1sglfxrfwlj6x3f80w6d7mqh8fy5ed3yqq0jm3e"
+    },
+    {
+        "id": "inj15yaw8vpv0vskh5qgpkxnuaq3dyvuzaxtytqhku",
+        "asset_ids": ["inj", "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1yzjcwy4m2qyn3kvspgsxhdltxz5kw34n8x80xx"
+    },
+    {
+        "id": "inj1606zcqxlu07g5g5rjzhqs8c8axlway99g03svz",
+        "asset_ids": ["ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1dlxwcprckmzu277lc895mr9qpme8lms2r05v9f"
+    },
+    {
+        "id": "inj16avlg6nspxp6fegzwmgx70u8qd5j3trp8rdzjp",
+        "asset_ids": ["ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1mqpf7p9rgzknj77yxkpj8x5lvdxxz70kasgnge"
+    },
+    {
+        "id": "inj16jg37axpyr7wwqjmm5mhnvzxh4xjfguy0950tf",
+        "asset_ids": ["ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9", "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1tr9et439dej6l0xqedaesw8dne0arf5ykn29qw"
+    },
+    {
+        "id": "inj16mfr5kjcclr7v3y9gfhj65ekpnn37slt6c7ded",
+        "asset_ids": ["factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1surff5rgkcm3z7vddtmd5h88zke07nardd528k"
+    },
+    {
+        "id": "inj16njgm9l3fq7waxt6mzp64s97scupd9rrqttvcr",
+        "asset_ids": ["factory/inj17kqcwkgdayv585dr7mljclechqzymgfsqc8x9k/WOJAK", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1u28jkf6ftlq869t3hq35j602mpavw32uk3sj0v"
+    },
+    {
+        "id": "inj16q3pq477n7dg2cv42vews0rtlma6f927v85n6c",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+        ],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj15nhszwx82dudrpyhpnms6p776j9rs6yyujhqy3"
+    },
+    {
+        "id": "inj16t06zt2ew6tajsyw074f4srd3exthfc3x76p9u",
+        "asset_ids": ["factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj12jszhw03el5pja9yh6km4f23chec0e85mcgmef"
+    },
+    {
+        "id": "inj175l9neteeujgnn4gux7spg7247pacm3sr7zz53",
+        "asset_ids": ["factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1cmawqguvsv6eu5f7233g283uetdvu0zyd9jxdw"
+    },
+    {
+        "id": "inj17u06g05sc3jyc9c94qmnquw7gsty7qwu0epssz",
+        "asset_ids": ["factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1rx2yfurr3zh4nzv5gazh899dyc2v4lhx2fex3r"
+    },
+    {
+        "id": "inj17y0fgwkz7vhh3wcfyfme9gh7lfcqwp7y9u0va3",
+        "asset_ids": ["inj", "factory/inj1lhr06p7k3rdgk0knw5hfsde3fj87g2aq4e9a52/BINJ"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1nsqv4d588xl9a8rxvvjxrzr4rpdzh39umj60h7"
+    },
+    {
+        "id": "inj189sfhaxxghg8q027lns9j7744ksrxukezdqw3w",
+        "asset_ids": ["peggy0xdAC17F958D2ee523a2206206994597C13D831ec7", "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1jphdzrc267xpdpek8pnpjvn0z49ugwnay9ekhn"
+    },
+    {
+        "id": "inj18jrhqzzy303scvuukhkxvcpdnpy3gaqhqq5saa",
+        "asset_ids": ["ibc/F8D4A8A44D8EF57F83D49624C4C89EECB1472D6D2D1242818CDABA6BC2479DA9", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1qu0zyksruugw9az7e0m7wf9lmatacf5d2uznqw"
+    },
+    {
+        "id": "inj190qjez75m3tnnm9ve95u8v6kny0qmjttt66mr6",
+        "asset_ids": ["inj", "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj12qdyl6d5ntsdw33wc2nqrd8wcmdk98mc2smzcj"
+    },
+    {
+        "id": "inj194da3ds0n4sshm8x86qayagl9uv7supamph5w7",
+        "asset_ids": ["inj", "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj19a8rugawr4llf0uq8qu2rrsghf06jv7jf3muec"
+    },
+    {
+        "id": "inj19fxup4wedegez9wh36c6q2azr0wzy23fnzaefy",
+        "asset_ids": ["factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj10u8gzf9erumt32gtcy52urp85xhnw6w4msq9vk"
+    },
+    {
+        "id": "inj1a78hlc49t4g3xls4zm0f59aqqvnq7d7c6reaa6",
+        "asset_ids": ["factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1xe3g9z2j5pescdzpxk5qd37txq4yxd68wnr73s"
+    },
+    {
+        "id": "inj1a7khkwuc4kdrcg566d305rh9knvsvnmplr2pam",
+        "asset_ids": ["factory/inj1wlwsd6w84ydmsqs5swthm5hw22qm8fxrth5ggx/FUINJ", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1024swnt5cd9ewjgp5vr5yweea332vydh8dvpdw"
+    },
+    {
+        "id": "inj1ajs70zfl6z2tc8rdu56h734f6qt2kyjuqqh0xq",
+        "asset_ids": ["ibc/C20C0A822BD22B2CEF0D067400FCCFB6FAEEE9E91D360B4E0725BD522302D565", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj16n8e9js72hj96a3pw94a8wt3kqhqfxv2gjcpjj"
+    },
+    {
+        "id": "inj1any7ulg79crzrmt24gjze7ycszrz98r2aqvz7v",
+        "asset_ids": ["factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/dbt", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1u0gt5xd8f4kcxe57qau3tjpmtspcsnp6yqpv7c"
+    },
+    {
+        "id": "inj1ap7hlpzlpjxlqe7w06e70fn906m3gvafx5nkqm",
+        "asset_ids": [
+            "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3"
+        ],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj100pwnxfuvlw38nchzwnrcz4d7hvhq90yael2hq"
+    },
+    {
+        "id": "inj1c8dlv5mtzmesc9qsr75zswv5adx5cskhre080n",
+        "asset_ids": ["factory/inj1lttm52qk6hs43vqak5qyk4hl4fzu2snq2gmg0c/nyan", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1j45zv0xxlek265w47az0lv2vxzqzw34hdggczt"
+    },
+    {
+        "id": "inj1c9k2d6rmva9l5xmeq62j0qca08k70u4frqzvxe",
+        "asset_ids": ["ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj13t4g5gvzkxpw35u68n069pwl3js034vxp07dkt"
+    },
+    {
+        "id": "inj1d2a6lptn8rdd5s5a8enguxpdvvjl85s643fggx",
+        "asset_ids": ["ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1n643uzjlz4gseve7jh95m3s8skzmvy6g9f8c3q"
+    },
+    {
+        "id": "inj1d35lkhr2l42rd7ra3gxn7ufxuzs3lqrlc8p4g3",
+        "asset_ids": ["factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1wxlrjf96z6z9jganklwjq37wvjfccw7llhy3hn"
+    },
+    {
+        "id": "inj1d7ru9e8qcs70qp97ffwgya7lt5qpe7r646nufu",
+        "asset_ids": ["inj", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1hawmarr2vaswduu09xvkcqjqm79d5zp8zku95r"
+    },
+    {
+        "id": "inj1d83wr42vwe9yh88gjrptq72mxlg4gg4r7zsg2m",
+        "asset_ids": ["inj", "factory/inj1ureedhqkm8tv2v60de54xzgqgu9u25xkuw8ecs/tyler"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1x5rqkny06wq9nhvhzlx3684hyarjl7tkwdnzzk"
+    },
+    {
+        "id": "inj1d8thneasuuhrflhel59hcvj77rj5vf6vndtjyl",
+        "asset_ids": [
+            "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+        ],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1rqfr752hn6auzm3vzzyr2pd8rt6fapf279tyfp"
+    },
+    {
+        "id": "inj1dghf6ym9s8c5magfnk94xqsn46h8swxh70xrm4",
+        "asset_ids": ["factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1hqrmrgzw8hfdmdzthadh7x87vaqeesd3d28j7x"
+    },
+    {
+        "id": "inj1dnnadrzzfxn7tpdqqw7g2cerqq30szuh3wfcjf",
+        "asset_ids": ["factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6kpxy6ar5lkxqudjvryarrrttmakwsvzkvcyh", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1ywkz72p5tkp5hj7mv6k4l73q9a7lgehm5n50tc"
+    },
+    {
+        "id": "inj1e2mw9s9n2alf4n8dy8hady2llyy7r0kjvh8vue",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
+            "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        ],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1x63a3epxrywywm46jh7tvn8lr454ypf96hpmks"
+    },
+    {
+        "id": "inj1faccd69y862f73h3jay3qvxqfxtxt9wn43v564",
+        "asset_ids": ["inj", "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1testuvgnvkfwlr65xuhxkwrznlfars9hq2njt6"
+    },
+    {
+        "id": "inj1fjddvscpg8smyrg6lp5nntm8q8addaycfu0xwx",
+        "asset_ids": ["factory/inj1k7ygz5ufgavnutv0hkgsz7u9g4c3yj6lq6p0jn/MOON", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1aam8qy9gdup7vw8kr6mugj66ppcvgaj46favj3"
+    },
+    {
+        "id": "inj1fxl6jju92qvx5e3ftx5ep3fhrup9fh3v6skpfw",
+        "asset_ids": [
+            "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4"
+        ],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1rn0hfpfcj09uq7r6l7tx2fhdwsufptv340w904"
+    },
+    {
+        "id": "inj1g8ftaglcmyqsang8gwgl7tg2n222x09yf42cm7",
+        "asset_ids": ["factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1a7wd7ks949wxzcw69n6md60c0qhykk93w0r8g6"
+    },
+    {
+        "id": "inj1h047zu3h0kal9w9yuf3kf7y4ajaf40vh5fm9x7",
+        "asset_ids": ["inj", "factory/inj13f6c0hc3l80qa7w80j992wtscslkg8pm65rxua/CHAD"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj19t9f59rry4lk4uufdjly9jlgq47e2ak0tpdj2v"
+    },
+    {
+        "id": "inj1h5tz3pvy6e4ujndfdyjxy84hlmq28lnajjkl4z",
+        "asset_ids": ["ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1rnraxu54huv7wkmpff3v8mzhqh49g0e6fj67sd"
+    },
+    {
+        "id": "inj1hdvqk8tw8st80eywhrk9nrcjhdevlxa4enqjw6",
+        "asset_ids": ["peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1ew7t376ffnpv6r62gpy474ut27npk8r86yk956"
+    },
+    {
+        "id": "inj1hhr03yklc402uu3vesa7g7fl5cjgr3fx4lyk82",
+        "asset_ids": ["factory/inj1h3h0yjxlchmydvsjpazcfyhp57lajdurznpeh0/grinj", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1gp6s5flmxyj0rp0heyafx7msykgauzg7gu3zr4"
+    },
+    {
+        "id": "inj1jfs89p3tk236hhxnptqzcv0ts25hra8yyqevgx",
+        "asset_ids": ["ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1d80q5y4uy40ttkpe2ke4ulk8gesfwwtcn05wex"
+    },
+    {
+        "id": "inj1ju5kk24ffjjn5ufe7flxznzyect5rt2u63cncd",
+        "asset_ids": ["ibc/D91A2C4EE7CD86BBAFCE0FA44A60DDD9AFBB7EEB5B2D46C0984DEBCC6FEDFAE8", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1z9e4670vmmvm5msu7fza3zuq2vgetn0k2kk7d2"
+    },
+    {
+        "id": "inj1kdhan8sqdag7tnem3k0maecv3ghpqgmcqzujgc",
+        "asset_ids": ["factory/inj1y207pve646dtac77v7qehw85heuy92c03t7t07/ak47", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1vwt3q7f2jxxm8ka5hfjy0rmyd3d55pkfgpcsrl"
+    },
+    {
+        "id": "inj1kj7pd6a0gxqrry9r338cp7m4mq8tm4v8muezqv",
+        "asset_ids": ["peggy0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1xnepvg44fx7j29etsfm5tk079fdscww3xxk9gn"
+    },
+    {
+        "id": "inj1kpxdrl753e2rgyt2a5xwgldyxnu3yglxmr22qw",
+        "asset_ids": ["peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1zjgtu7n7vlruvl3v96g0urm5ppcsd5ltyvp0q7"
+    },
+    {
+        "id": "inj1l0py5p3l2708xvvz8wjmgs49rdjf7cw9jt93qu",
+        "asset_ids": ["inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj16t06swlcmrhq0e27859n2caq3ll2rhdhj5465a"
+    },
+    {
+        "id": "inj1lyjpwyeuxv5jwzmk9datrspywwgqks82x4kax8",
+        "asset_ids": ["factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tjcf9497fwmrnk22jfu5hsdq82qshga54ajvzy", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1lnzwrg8809mqs50u5e5zjhtfjsxvyccx8fv0yn"
+    },
+    {
+        "id": "inj1mswg9220ffhlhuaaefre236q3xwhdfj9eclg9q",
+        "asset_ids": ["peggy0xAaEf88cEa01475125522e117BFe45cF32044E238", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj16gk5664xccg262nf9lsjgcp6e77al7tfy22fn5"
+    },
+    {
+        "id": "inj1n85quv7pa5q7yndyykgvy40gnxwv76tjk96t6a",
+        "asset_ids": ["factory/inj1z426atp9k68uv49kaam7m0vnehw5fulxkyvde0/SHURIKEN", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1g7qxtpxxynuz4dr4k9fanccxuvnsdfet8dnymk"
+    },
+    {
+        "id": "inj1nadynqy36ud049whys4mtzhr29j6806zv50jee",
+        "asset_ids": ["ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1yt0jq8z0vrtpgcsg8ts4h5lrpkph7j0uga5a66"
+    },
+    {
+        "id": "inj1ng2wje4dxt5sxuh777jzlh5lasgdz8nkm9rlcg",
+        "asset_ids": ["factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA", "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj19f6ww9peaa3tjhjynjcsxms9v4mcpqrpdxz76l"
+    },
+    {
+        "id": "inj1pdnkuhg8d4tngcv8v4cf43ma6wa4sqq025uve8",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
+            "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        ],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1p5ge6anam3wzvzz8ynnrdu9ut35de7e8j79yjg"
+    },
+    {
+        "id": "inj1plm4mz9e33kfl7xtekee4773zrhv29m654zydy",
+        "asset_ids": ["ibc/3FDD002A3A4019B05A33D324B2F29748E77AF501BEA5C96D1F28B2D6755F9F25", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1kh2f3ktzrp22a7qavrwdtptkquwkrgwn8386gx"
+    },
+    {
+        "id": "inj1ppqlp9ezt45rpju7vewzdprlp8x06f3z06dk2t",
+        "asset_ids": ["peggy0XA8C8CFB141A3BB59FEA1E2EA6B79B5ECBCD7B6CA", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1jgfzyj770g2aauc65tuvegq9wmqxny0wnuwlf9"
+    },
+    {
+        "id": "inj1qa3h5mm602x5f79wz8rte3xn2y3rq7ltyy6dg0",
+        "asset_ids": ["inj", "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1vylz6hpral722dqq8wt8c07a2crhtkzcdrmjak"
+    },
+    {
+        "id": "inj1r0l53fjp2nqkqgwndv4ultwdedyvh53vnh5mgz",
+        "asset_ids": ["inj", "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1s2rs23gg0mw6jr7s3rjhwsrssnnhn8vck24n2r"
+    },
+    {
+        "id": "inj1rjpsw7ke0tfup4kes6wn29alm764uz4fj00t0j",
+        "asset_ids": ["peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1t3vf8pgs82uvyczvsepdcw0jf2saafpr3svy34"
+    },
+    {
+        "id": "inj1rm8mn6kwhv9zp4l8fcjv6jae8cnm50m7ykprjc",
+        "asset_ids": ["factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1d5vz0uzwlpfvgwrwulxg6syy82axa58y4fuszd", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj16n7wkrc8tj6s98xtvcx2jacj5h6mj53dd5lx24"
+    },
+    {
+        "id": "inj1s4dkef5u2gsn3uj58menmwk9x9nmjyefnkgewf",
+        "asset_ids": ["factory/inj1k7ygz5ufgavnutv0hkgsz7u9g4c3yj6lq6p0jn/FOMO", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1ddkjwktq8pkle738d6g5wflwsj7xkper29rdav"
+    },
+    {
+        "id": "inj1sc5tmhstuu4hulzl0q0a22n85plhaaq8vkv4nn",
+        "asset_ids": ["ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1mw99k3jrxhzhktphtr55e9fhp2rncc2elh75js"
+    },
+    {
+        "id": "inj1tssemsjdsnvw4phe90svgc2u4wf2uexwtzfr7a",
+        "asset_ids": ["factory/inj1av2965j0asg5qwyccm8ycz3qk0eya4873dkp3u/kermit", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1vqg623q0xzf2seag70hurmftam78su7mu35e7c"
+    },
+    {
+        "id": "inj1tzgl34fnhyqgft0a5l37l8j7a3an8gyme0w97p",
+        "asset_ids": ["ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1p2yfm2rhlyvy23z8zae9elgzgzq7aeqfskdp4z"
+    },
+    {
+        "id": "inj1uv93r6gw7g2us4hsrr8n426t6cvxwznnaatmr7",
+        "asset_ids": ["factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1mfngvq0050teluzrhlcw7z8k8y6whkpv8qre8x"
+    },
+    {
+        "id": "inj1vaj5j879d35x4tevpnuwmvq7wpl63mcrkceav6",
+        "asset_ids": ["peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1d62ry5fwsafggxu67fwhavpu3954vf5n8e5pmt"
+    },
+    {
+        "id": "inj1vv8d4zsax2jyt745vg0p2a29ymcjrmn58jf2z4",
+        "asset_ids": ["peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2", "peggy0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1dtpqn48watxrezj6gg630x0xzxw4jm70mqxgpt"
+    },
+    {
+        "id": "inj1w2l8axy30jrax9una46we5m7wrhh7frj4qg698",
+        "asset_ids": ["peggy0xa670d7237398238DE01267472C6f13e5B8010FD1", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1hmq99t9q9ty0lwhhz5ekma2a8nm320yxq52sr0"
+    },
+    {
+        "id": "inj1wgdz8rzrgf3qfrlz434377r3a6hphepq6yz2vd",
+        "asset_ids": ["ibc/FECCDCFA89278B117C76A11A946A7991A68E5DD12DED6EB938ADC1B1286AC591", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1nvxe0e9ddtth7e8jgcqdgne5kkmdxzq0xd93m4"
+    },
+    {
+        "id": "inj1x2skrlvnq0cre76zrn0mm9rwefkexszatskj8p",
+        "asset_ids": ["ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1q5wmfzl6gfe629cc5yacluerphf8d5gqjd5055"
+    },
+    {
+        "id": "inj1x7rhzr9428wg9cwu2ctsf53m526ttvzgtw5g4e",
+        "asset_ids": ["peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b", "ibc/F8D4A8A44D8EF57F83D49624C4C89EECB1472D6D2D1242818CDABA6BC2479DA9"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1nre7rym7ahsnap4lm3qwrmpr8yldv8d3a4qgs5"
+    },
+    {
+        "id": "inj1y726kmjxnqvdx58hx680suy2yery6nzz7qpmve",
+        "asset_ids": ["factory/inj1d0zfq42409a5mhdagjutl8u6u9rgcm4h8zfmfq/nbla", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1uu9dsss65z2dt6cz9avr2tk6wrdjxxe0cxh4d5"
+    },
+    {
+        "id": "inj1yczzrzayyneh84dsjta8q8t9zx9c3qt9tu3zp3",
+        "asset_ids": ["factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3", "inj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1xn0lza6kukg8z2w8zj25h752c43l9usyhg8vv5"
+    },
+    {
+        "id": "inj1ymx3u9njnsamm29snspq2mk6ujazqgfdgpkfg8",
+        "asset_ids": ["peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b", "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1gc9c4rn8dt52j88vw8h9qjmgj9nn2fvpdvnuj3"
+    },
+    {
+        "id": "inj1yqm0ejkrrm9h9rr4nucgzyydff2m8js7lefgrc",
+        "asset_ids": ["ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1sqc9jap0yye84dx5uyqyvepg83p7hvqke5sjvk"
+    },
+    {
+        "id": "inj1yr8s6wq7gnpa43qsrk59cmyagf4pp0a6nxxvn7",
+        "asset_ids": ["peggy0xAaEf88cEa01475125522e117BFe45cF32044E238", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1kl3cs35rqj20exq94x22nhv33rkuw4lucascts"
+    },
+    {
+        "id": "0x01e920e081b6f3b2e5183399d5b6733bb6f80319e6be3805b95cb7236910ff0e",
+        "asset_ids": ["peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x01edfab47f124748dc89998eb33144af734484ba07099014594321729a0ca16b",
+        "asset_ids": ["peggy0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x0511ddc4e6586f3bfe1acb2dd905f8b8a82c97e1edaef654b12ca7e6031ca0fa",
+        "asset_ids": ["ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x0686357b934c761784d58a2b8b12618dfe557de108a220e06f8f6580abb83aab",
+        "asset_ids": ["ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x09cc2c28fbedbdd677e07924653f8f583d0ee5886e74046e7f114210d990784b",
+        "asset_ids": ["peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x0c9f98c99b23e89dbf6a60bec05372790b39e03da0f86dd0208fc8e28751bd8c",
+        "asset_ids": ["peggy0x6B3595068778DD592e39A122f4f5a5cF09C90fE2", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x0f1a11df46d748c2b20681273d9528021522c6a0db00de4684503bbd53bef16e",
+        "asset_ids": ["ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x170a06eb653548f67e94b0fcb82c5258c83b0a2b62ed24c55749d5ac77bc7621",
+        "asset_ids": ["peggy0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x1bba49ea1eb64958a19b66c450e241f17151bc2e5ea81ed5e2793af45598b906",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1d5vz0uzwlpfvgwrwulxg6syy82axa58y4fuszd",
+            "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x2021159081a88c9a627c66f770fb60c7be78d492509c89b203e1829d0413995a",
+        "asset_ids": ["peggy0x6b7f87279982d919Bbf85182DDeAB179B366D8f2", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x219b522871725d175f63d5cb0a55e95aa688b1c030272c5ae967331e45620032",
+        "asset_ids": ["peggy0x3F07A84eCdf494310D397d24c1C78B041D2fa622", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x21f3eed62ddc64458129c0dcbff32b3f54c92084db787eb5cf7c20e69a1de033",
+        "asset_ids": ["factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x26413a70c9b78a495023e5ab8003c9cf963ef963f6755f8b57255feb5744bf31",
+        "asset_ids": ["peggy0x514910771AF9Ca656af840dff83E8264EcF986CA", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x28f3c9897e23750bf653889224f93390c467b83c86d736af79431958fff833d1",
+        "asset_ids": ["peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x29255e99290ff967bc8b351ce5b1cb08bc76a9a9d012133fb242bdf92cd28d89",
+        "asset_ids": ["peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x2d8b2a2bef3782b988e16a8d718ea433d6dfebbb3b932975ca7913589cb408b5",
+        "asset_ids": ["ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x35fd4fa9291ea68ce5eef6e0ea8567c7744c1891c2059ef08580ba2e7a31f101",
+        "asset_ids": ["ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x4807e9ac33c565b4278fb9d288bd79546abbf5a368dfc73f160fe9caa37a70b1",
+        "asset_ids": ["ibc/7E1AF94AD246BE522892751046F0C959B768642E5671CC3742264068D49553C0", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x4b29b6df99d73920acdc56962050786ac950fcdfec6603094b63cd38cad5197e",
+        "asset_ids": ["peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x4d030dccc9564ab1536a7751c3a566fa3adcb6a08ac807edc82890f2a6ec4fed",
+        "asset_ids": ["ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x4fa0bd2c2adbfe077f58395c18a72f5cbf89532743e3bddf43bc7aba706b0b74",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6kpxy6ar5lkxqudjvryarrrttmakwsvzkvcyh",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x510855ccf9148b47c6114e1c9e26731f9fd68a6f6dbc5d148152d02c0f3e5ce0",
+        "asset_ids": ["peggy0x4986fD36b6b16f49b43282Ee2e24C5cF90ed166d", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x51092ddec80dfd0d41fee1a7d93c8465de47cd33966c8af8ee66c14fe341a545",
+        "asset_ids": ["peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x572f05fd93a6c2c4611b2eba1a0a36e102b6a592781956f0128a27662d84f112",
+        "asset_ids": ["peggy0x4d224452801ACEd8B2F0aebE155379bb5D594381", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x5abfffe9079d53e0bf8ee9b3064b427acc3d71d6ba58a44235abe38f60115678",
+        "asset_ids": ["peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x66a113e1f0c57196985f8f1f1cfce2f220fa0a96bca39360c70b6788a0bc06e0",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x689ea50a30b0aeaf162e57100fefe5348a00099774f1c1ebcd90c4b480fda46a",
+        "asset_ids": ["ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x6922cf4383294c673971dd06aa4ae5ef47f65cb4f1ec1c2af4271c5e5ca67486",
+        "asset_ids": ["ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x719f1617efc6e998472b70436549e0999fab8c05701177b15ba8910f2c5e7ab2",
+        "asset_ids": ["ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x7471d361b90fc8541267bd088f498c2a461a2c0c57ff2b9a08279480e803b470",
+        "asset_ids": ["peggy0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x75f6a79b552dac417df219ab384be19cb13b53dec7cf512d73a965aee8bc83af",
+        "asset_ids": ["peggy0x96F6eF951840721AdBF46Ac996b59E0235CB985C", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x7f71c4fba375c964be8db7fc7a5275d974f8c6cdc4d758f2ac4997f106bb052b",
+        "asset_ids": ["peggy0xAaEf88cEa01475125522e117BFe45cF32044E238", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x7fce43f1140df2e5f16977520629e32a591939081b59e8fbc1e1c4ddfa77a044",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x84ba79ffde31db8273a9655eb515cb6cadfdf451b8f57b83eb3f78dca5bbbe6d",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x8b1a4d3e8f6b559e30e40922ee3662dd78edf7042330d4d620d188699d1a9715",
+        "asset_ids": ["peggy0xdAC17F958D2ee523a2206206994597C13D831ec7", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x9a629b947b6f946af4f6076cfda67f3535d73ee3cef6176cf6d9c8d6b0a03f37",
+        "asset_ids": ["peggy0x6B3595068778DD592e39A122f4f5a5cF09C90fE2", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xa04adeed0f09ed45c73b344b520d05aa31eabe2f469dcbb02a021e0d9d098715",
+        "asset_ids": ["ibc/C20C0A822BD22B2CEF0D067400FCCFB6FAEEE9E91D360B4E0725BD522302D565", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xa43d2be9861efb0d188b136cef0ae2150f80e08ec318392df654520dd359fcd7",
+        "asset_ids": ["peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xa508cb32923323679f29a032c70342c147c17d0145625922b0ef22e955c844c0",
+        "asset_ids": ["inj", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xa6ec1de114a5ffa85b6b235144383ce51028a1c0c2dee7db5ff8bf14d5ca0d49",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tjcf9497fwmrnk22jfu5hsdq82qshga54ajvzy",
+            "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xa7fb70ac87e220f3ea7f7f77faf48b47b3575a9f7ad22291f04a02799e631ca9",
+        "asset_ids": ["ibc/D91A2C4EE7CD86BBAFCE0FA44A60DDD9AFBB7EEB5B2D46C0984DEBCC6FEDFAE8", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xabc20971099f5df5d1de138f8ea871e7e9832e3b0b54b61056eae15b09fed678",
+        "asset_ids": ["peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xac938722067b1dfdfbf346d2434573fb26cb090d309b19af17df2c6827ceb32c",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
+            "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xb825e2e4dbe369446e454e21c16e041cbc4d95d73f025c369f92210e82d2106f",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj12pwnhtv7yat2s30xuf4gdk9qm85v4j3e60dgvu",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xb9a07515a5c239fcbfa3e25eaa829a03d46c4b52b9ab8ee6be471e9eb0e9ea31",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h",
+            "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xba33c2cdb84b9ad941f5b76c74e2710cf35f6479730903e93715f73f2f5d44be",
+        "asset_ids": [
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1dxv423h8ygzgxmxnvrf33ws3k94aedfdevxd8h",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xbe9d4a0a768c7e8efb6740be76af955928f93c247e0b3a1a106184c6cf3216a7",
+        "asset_ids": ["peggy0x4a220E6096B25EADb88358cb44068A3248254675", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xcd4b823ad32db2245b61bf498936145d22cdedab808d2f9d65100330da315d29",
+        "asset_ids": ["ibc/3FDD002A3A4019B05A33D324B2F29748E77AF501BEA5C96D1F28B2D6755F9F25", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xcdfbfaf1f24055e89b3c7cc763b8cb46ffff08cdc38c999d01f58d64af75dca9",
+        "asset_ids": ["peggy0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xce1829d4942ed939580e72e66fd8be3502396fc840b6d12b2d676bdb86542363",
+        "asset_ids": ["ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93", "inj"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xd1956e20d74eeb1febe31cd37060781ff1cb266f49e0512b446a5fafa9a16034",
+        "asset_ids": ["peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xd5f5895102b67300a2f8f2c2e4b8d7c4c820d612bc93c039ba8cb5b93ccedf22",
+        "asset_ids": ["ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xd7487c1fc78fdb283d838fa562339db0ca05cd4af57c6a20e6561f260c78d1ae",
+        "asset_ids": ["peggy0x080B12E80C9b45e97C23b6ad10a16B3e2a123949", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xda0bb7a7d8361d17a9d2327ed161748f33ecbf02738b45a7dd1d812735d1531c",
+        "asset_ids": [
+            "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xdce84d5e9c4560b549256f34583fb4ed07c82026987451d5da361e6e238287b3",
+        "asset_ids": [
+            "ibc/B8AF5D92165F35AB31F3FC7C7B444B9D240760FA5D406C49D24862BD0284E395",
+            "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xe03df6e1571acb076c3d8f22564a692413b6843ad2df67411d8d8e56449c7ff4",
+        "asset_ids": ["ibc/3A6DD3358D9F7ADD18CDE79BA10B400511A5DE4AE2C037D7C9639B52ADAF35C6", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xe0dc13205fb8b23111d8555a6402681965223135d368eeeb964681f9ff12eb2a",
+        "asset_ids": ["inj", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xe8bf0467208c24209c1cf0fd64833fa43eb6e8035869f9d043dbff815ab76d01",
+        "asset_ids": ["peggy0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xe8fe754e16233754e2811c36aca89992e35951cfd61376f1cbdc44be6ac8d3fb",
+        "asset_ids": ["ibc/F6CC233E5C0EA36B1F74AB1AF98471A2D6A80E2542856639703E908B4D93E7C4", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xf04d1b7acf40b331d239fcff7950f98a4f2ab7adb2ceb8f65aa32ac29455d7b4",
+        "asset_ids": ["ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xf09dd242aea343afd7b6644151bb00d1b8770d842881009bea867658602b6bf0",
+        "asset_ids": ["factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis", "inj"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xf66f797a0ff49bd2170a04d288ca3f13b5df1c822a7b0cc4204aca64a5860666",
+        "asset_ids": [
+            "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1q6zlut7gtkzknkk773jecujwsdkgq882akqksk"
+        ],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xfbc729e93b05b4c48916c1433c9f9c2ddb24605a73483303ea0f87a8886b52af",
+        "asset_ids": ["inj", "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0xfe93c19c0a072c8dd208b96694e024305a7dff01bbf12cac2bfa81b246c69040",
+        "asset_ids": ["peggy0x514910771AF9Ca656af840dff83E8264EcF986CA", "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "dex": "Helix",
+        "type": "orderbook"
+    },
+    {
+        "id": "0x06c5a306492ddc2b8dc56969766959163287ed68a6b59baa2f42330dda0aebe0",
+        "asset_ids": ["helix/SOL", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x1afa358349b140e49441b6e68529578c7d2f27f06e18ef874f428457c0aaeb8b",
+        "asset_ids": ["helix/SEI", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x1c79dac019f73e4060494ab1b4fcba734350656d6fc4d474f6a238c13c6f9ced",
+        "asset_ids": ["helix/BNB", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x2d1fc1ebff7cae29d6f85d3a2bb7f3f6f2bab12a25d6cc2834bcb06d7b08fd74",
+        "asset_ids": ["helix/BAYC", "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x332230109e7afb839b4750d4cf961666b608071ecb64dac55662dac37529639e",
+        "asset_ids": [
+            "helix/0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+            "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB"
+        ],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x3b7fb1d9351f7fa2e6e0e5a11b3639ee5e0486c33a6a74f629c3fc3c3043efd5",
+        "asset_ids": ["helix/BONK", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x4b7a550e1760cbd2c6ccb97562c56878083b92e32d07e9e3326945c6e60e6b60",
+        "asset_ids": ["helix/TIA", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x4ca0f92fc28be0c9761326016b5a1a2177dd6375558365116b5bdda9abc229ce",
+        "asset_ids": ["helix/BTC", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x4fe7aff4dd27be7cbb924336e7fe2d160387bb1750811cf165ce58d4c612aebb",
+        "asset_ids": ["helix/0x60144b1d5c9e9851732ad1d9760e3485ef80be39b984f6bf60f82b28a2b7f126", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x54d4505adef6a5cef26bc403a33d595620ded4e15b9e2bc3dd489b714813366a",
+        "asset_ids": ["helix/ETH", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x63bafbeee644b6606afb8476dd378fba35d516c7081d6045145790af963545aa",
+        "asset_ids": ["helix/ec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x64c3a57b693ede854b0a2794ed5c99546925d1fbe74d91a2e3286e4155a00dee",
+        "asset_ids": ["helix/TIA", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x8158e603fb80c4e417696b0e98765b4ca89dcf886d3b9b2b90dc15bfb1aebd51",
+        "asset_ids": ["helix/LUNA", "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x887beca72224f88fb678a13a1ae91d39c53a05459fd37ef55005eb68f745d46d",
+        "asset_ids": ["helix/PYTH", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x8c7fd5e6a7f49d840512a43d95389a78e60ebaf0cde1af86b26a785eb23b3be5",
+        "asset_ids": ["helix/OSMO", "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x9066bfa1bd97685e0df4e22a104f510fb867fde7f74a52f3341c7f5f56eb889c",
+        "asset_ids": ["helix/0x09f7c1d7dfbb7df2b8fe3d3d87ee94a2259d212da4f30c1f0540d066dfa44723", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0x9b9980167ecc3645ff1a5517886652d94a0825e54a77d2057cbbe3ebee015963",
+        "asset_ids": ["helix/INJ", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0xbf94d932d1463959badee52ffbeb2eeeeeda750e655493e909ced540c375a277",
+        "asset_ids": ["ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0xc559df216747fc11540e638646c384ad977617d6d8f0ea5ffdfc18d52e58ab01",
+        "asset_ids": ["helix/ATOM", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0xc60c2ba4c11976e4c10ed7c1f5ca789b63282d0b3782ec3d7fc29dec9f43415e",
+        "asset_ids": ["helix/STX", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0xca3682d053e8c804ea9cd322cfc0476d9016b99210fe42774a61b06e8868fef3",
+        "asset_ids": [
+            "helix/0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+            "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB"
+        ],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0xcd0c859a99f26bb3530e21890937ed77d20754aa7825a599c71710514fc125ef",
+        "asset_ids": ["helix/0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "0xcf18525b53e54ad7d27477426ade06d69d8d56d2f3bf35fe5ce2ad9eb97c2fbc",
+        "asset_ids": ["helix/OSMO", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "Helix",
+        "type": "orderbook/perp"
+    },
+    {
+        "id": "inj14zykjnz94dr9nj4v2yzpvnlrw5uurk5hhea8xw",
+        "asset_ids": ["ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "White Whale",
+        "type": "xyk",
+        "lp_token_id": "inj1j30wx6kjfsessdx5mlp32hqwklj48ufvxx6tyc"
+    },
+    {
+        "id": "inj17dez7atlgwrl7lxzszxjy7gzuj325n8re3f7mh",
+        "asset_ids": [
+            "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
+            "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2"
+        ],
+        "dex": "White Whale",
+        "type": "xyk",
+        "lp_token_id": "inj1a6tcf60pyz8qq2n532dzcs7s7sj8klcmj94nhd"
+    },
+    {
+        "id": "inj1gyxlm5j537d8pvl5eqfswya93delvh3nlhustk",
+        "asset_ids": [
+            "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
+            "ibc/168C3904C45C6FE3539AE85A8892DF87371D00EA7942515AFC50AA43C4BB0A32"
+        ],
+        "dex": "White Whale",
+        "type": "xyk",
+        "lp_token_id": "inj185gqewrlde8vrqw7j8lpad67v8jfrx9u28w38t"
+    },
+    {
+        "id": "inj1t9daxn85sz688vkn8wu4w47jnrak296hh2q579",
+        "asset_ids": ["peggy0xdAC17F958D2ee523a2206206994597C13D831ec7", "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445"],
+        "dex": "White Whale",
+        "type": "xyk",
+        "lp_token_id": "inj1869zena97sctemj78sgjmu737p2g9490esftk5"
+    },
+    {
+        "id": "inj1zfw930csx0k5qzf35vndaulwada4wa3pywekyx",
+        "asset_ids": ["inj", "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "dex": "White Whale",
+        "type": "xyk",
+        "lp_token_id": "inj14n26cr7dj79smrgg44hfylhph9y45h4yx5gvzm"
+    },
+    {
+        "id": "inj1hhr03yklc402uu3vesa7g7fl5cjgr3fx4lyk82",
+        "asset_ids": ["inj", "factory/inj1h3h0yjxlchmydvsjpazcfyhp57lajdurznpeh0/grinj"],
+        "dex": "Astroport",
+        "type": "xyk",
+        "lp_token_id": "inj1gp6s5flmxyj0rp0heyafx7msykgauzg7gu3zr4"
+    }
 ]
