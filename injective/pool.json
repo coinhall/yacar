@@ -1458,6 +1458,15 @@
     "type": "orderbook"
   },
   {
+    "id": "0x23983c260fc8a6627befa50cfc0374feef834dc1dc90835238c8559cc073e08f",
+    "asset_ids": [
+      "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
+      "inj"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
     "id": "0x26413a70c9b78a495023e5ab8003c9cf963ef963f6755f8b57255feb5744bf31",
     "asset_ids": [
       "peggy0x514910771AF9Ca656af840dff83E8264EcF986CA",
@@ -1615,6 +1624,15 @@
     "asset_ids": [
       "ibc/9A115B56E769B92621FFF90567E2D60EFD146E86E867491DB69EEDA9ADC36204",
       "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
+    "id": "0x6de141d12691dd13fffcc4e3ceeb09191ff445e1f10dfbecedc63a1e365fb6cd",
+    "asset_ids": [
+      "peggy0xb2617246d0c6c0087f18703d576831899ca94f01",
+      "inj"
     ],
     "dex": "Helix",
     "type": "orderbook"
