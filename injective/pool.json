@@ -1010,6 +1010,16 @@
     "lp_token_id": "inj19f6ww9peaa3tjhjynjcsxms9v4mcpqrpdxz76l"
   },
   {
+    "id": "inj1panle4qyyg45vrwgjlsxv6hvffmgkfa38f0we7",
+    "asset_ids": [
+      "factory/inj1wqk200kkyh53d5px5zc6v8usq3pluk07r4pxpu/DICK",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1z50xe2etpunk5f9mgsj72n8m2sl0h5n7jhylud"
+  },
+  {
     "id": "inj1pdnkuhg8d4tngcv8v4cf43ma6wa4sqq025uve8",
     "asset_ids": [
       "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
@@ -2176,6 +2186,16 @@
     ],
     "dex": "Helix",
     "type": "orderbook/perp"
+  },
+  {
+    "id": "inj109ptsw60g2mx69guq0rzurvsw7krpcjzht3p5l",
+    "asset_ids": [
+      "inj",
+      "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445"
+    ],
+    "dex": "White Whale",
+    "type": "xyk",
+    "lp_token_id": "inj126raxkq6fvpqearfjpx3exa6rg26c6m7367de6"
   },
   {
     "id": "inj14zykjnz94dr9nj4v2yzpvnlrw5uurk5hhea8xw",
