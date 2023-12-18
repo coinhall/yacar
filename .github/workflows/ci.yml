@@ -8,9 +8,6 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ".github/scripts"
     steps:
       - name: Checkout repository and branch
         uses: actions/checkout@v3
@@ -19,18 +16,10 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}
 
-      - name: Setup Go
-        uses: actions/setup-go@v4
-        with:
-          go-version-file: ${{ github.workspace }}/.github/scripts/go.mod
-          cache-dependency-path: ${{ github.workspace }}/.github/scripts/go.sum
-          check-latest: true
-          cache: true
-
       - name: Validate data and format JSON
         id: validate
         run: |
-          ROOT_DIR=${{ github.workspace }} go run cmd/yacar_ci.go
+          ROOT_DIR=${{ github.workspace }} ./ci.sh
           echo "status=$?" >> $GITHUB_OUTPUT
 
       - name: Check for changes
