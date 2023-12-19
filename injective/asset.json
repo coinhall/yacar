@@ -121,6 +121,17 @@
     "coingecko": "https://www.coingecko.com/en/coins/sommelier"
   },
   {
+    "id": "factory/inj1pjcmuxd2ek7mvx4gnv6quyn6c6rjxwcrs4h5y4/truffle",
+    "entity": "TRUFFLE",
+    "name": "TRUFFLE",
+    "symbol": "TF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "900000000",
+    "total_supply": "1000000000",
+    "icon": "https://i.ibb.co/xqShbnR/truffle.jpg"
+  },
+  {
     "id": "factory/inj17kqcwkgdayv585dr7mljclechqzymgfsqc8x9k/WOJAK",
     "entity": "WOJAK",
     "name": "WOJAK",
@@ -1190,13 +1201,6 @@
     "id": "factory/inj1e5va7kntnq245j57hfe78tqhnd763ekrtu9fez/TRUFFLE",
     "name": "TRUFFLE",
     "symbol": "TRUFFLE",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/inj1pjcmuxd2ek7mvx4gnv6quyn6c6rjxwcrs4h5y4/truffle",
-    "name": "TRUFFLE",
-    "symbol": "TF",
     "decimals": "6",
     "type": "tokenfactory"
   },
