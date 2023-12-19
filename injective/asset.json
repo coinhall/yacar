@@ -11,6 +11,15 @@
     "icon": "https://i.ibb.co/J5Z3PvQ/BULLS-FRONT-VIEW.jpg"
   },
   {
+    "id": "factory/inj1h3y27yhly6a87d95937jztc3tupl3nt8fg3lcp/BABYNINJA",
+    "entity": "BABYNINJA",
+    "name": "Baby Ninja",
+    "symbol": "BABYNINJA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/justindev0720/astroport-token-lists/main/img/BABYNINJA.png"
+  },
+  {
     "id": "factory/inj1lhr06p7k3rdgk0knw5hfsde3fj87g2aq4e9a52/BINJ",
     "entity": "Bird INJ",
     "name": "Bird INJ",
@@ -22,16 +31,26 @@
     "icon": "https://raw.githubusercontent.com/BirdINJ/BINJ/main/BINJ.png"
   },
   {
+    "id": "factory/inj130nkx4u8p5sa2jl4apqlnnjlej2ymfq0e398w9/BLUE",
+    "entity": "BLUE",
+    "name": "BLUE GRIN TOKEN",
+    "symbol": "BLUE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "100000000000000000",
+    "total_supply": "100000000000000000",
+    "icon": "https://ipfs.io/ipfs/QmZ3yryKJiEpBe8MPDYYXpxmWuVpNvVmWAXziQMEwNj7TJ"
+  },
+  {
     "id": "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
     "entity": "BRETT",
-    "name": "The Blue PEPE",
+    "name": "BluePepe",
     "symbol": "BRETT",
     "decimals": "6",
     "type": "tokenfactory",
     "circ_supply": "420000000",
     "total_supply": "420000000",
-    "icon": "https://i.ibb.co/TRt5mD3/Brett.png",
-    "coingecko": "https://www.coingecko.com/en/coins/brett-injective"
+    "icon": "https://i.ibb.co/TRt5mD3/Brett.png"
   },
   {
     "id": "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
@@ -340,13 +359,6 @@
     "icon": "https://i.ibb.co/VmwDjgY/logo.png"
   },
   {
-    "id": "factory/inj1h3y27yhly6a87d95937jztc3tupl3nt8fg3lcp/BABYNINJA",
-    "name": "Baby Ninja",
-    "symbol": "BABYNINJA",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
     "id": "factory/inj1hs5chngjfhjwc4fsajyr50qfu8tjqsqrj9rf29/baby-ninja",
     "name": "Baby Ninja",
     "symbol": "BABY NINJA",
@@ -391,14 +403,6 @@
     "decimals": "6",
     "type": "oracle",
     "icon": "https://moon.ly/uploads/nft/82e50e35-dfdd-4be3-9930-5cc2f91a13df.jpg"
-  },
-  {
-    "id": "factory/inj130nkx4u8p5sa2jl4apqlnnjlej2ymfq0e398w9/BLUE",
-    "name": "BLUE GRIN TOKEN",
-    "symbol": "BLUE",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://ipfs.io/ipfs/QmZ3yryKJiEpBe8MPDYYXpxmWuVpNvVmWAXziQMEwNj7TJ"
   },
   {
     "id": "helix/BNB",
@@ -637,7 +641,10 @@
     "name": "DogWifhat",
     "symbol": "WIF",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "circ_supply": "1000000000",
+    "total_supply": "1000000000",
+    "icon": "https://avatars.githubusercontent.com/u/154341175"
   },
   {
     "id": "factory/inj1ucamzt4l70qnwwtqac4wjpvqdfmuhuft5ezy6x/sniperfactory",
@@ -840,6 +847,13 @@
     "icon": "https://pbs.twimg.com/profile_images/1737090223811489792/kq_J36b7_400x400.jpg"
   },
   {
+    "id": "factory/inj168gnj4lavp3y5w40rg5qhf50tupwhaj3yvhgr0/GPT",
+    "name": "GPT",
+    "symbol": "GPT",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/inj174r3j8pm93gfcdu0g36dg6g7u0alygppypa45e/GRINJ",
     "name": "GRINJ",
     "symbol": "GRINJ",
@@ -890,7 +904,10 @@
     "name": "Injineer",
     "symbol": "INJER",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "circ_supply": "100000000000",
+    "total_supply": "100000000000",
+    "icon": "https://injineer.com/logo.png"
   },
   {
     "id": "factory/inj1yftyfrc720nhrzdep5j70rr8dm9na2thnrl7ut/injs",
@@ -958,6 +975,13 @@
     "id": "factory/inj1pqxpkmczds78hz8cacyvrht65ey58e5yg99zh7/kings",
     "name": "Kingsman",
     "symbol": "KINGS",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1h33jkaqqalcy3wf8um6ewk4hxmfwf8uern470k/Kinja",
+    "name": "Kinja",
+    "symbol": "Kinja",
     "decimals": "6",
     "type": "tokenfactory"
   },
