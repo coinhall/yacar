@@ -146,6 +146,13 @@
     "type": "cw20"
   },
   {
+    "id": "factory/sei1cy9uvcrtxfxfsc436ex0j5naszkxdls94l9fqa/cook",
+    "name": "COOK",
+    "symbol": "COOK",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "ueth",
     "name": "ETH",
     "symbol": "ETH",
@@ -352,6 +359,13 @@
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg"
+  },
+  {
+    "id": "sei19t7xf27rr3y6yqtnwj9hdfk0z5sqtpna90nnlvrusy80lwg4xassruaz6l",
+    "name": "Super Seiyan",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "sei1udm2gqns5wjag2kl58u9g4lywm4ax3cu958mxz5tnfp36cwu4jasfym3u5",
