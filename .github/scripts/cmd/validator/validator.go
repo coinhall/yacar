@@ -7,7 +7,6 @@ import (
 	"os"
 	"strconv"
 	"strings"
-	"sync"
 
 	"github.com/coinhall/yacarsdk/v2"
 )
@@ -18,41 +17,61 @@ func Start(filePaths []string) {
 }
 
 func validateYacarJSONs(filePaths []string) {
-	var wg sync.WaitGroup
-	for _, filePath := range filePaths {
-		wg.Add(1)
-		go func(filePath string) {
-			defer wg.Done()
+	chainFileMap := map[string]map[string]*os.File{}
+	for _, fp := range filePaths {
+		fpElements := strings.Split(fp, "/")
+		chain := fpElements[len(fpElements)-2]
+		filetype := strings.Split(fpElements[len(fpElements)-1], ".")[0]
+		if _, ok := chainFileMap[chain]; !ok {
+			chainFileMap[chain] = map[string]*os.File{}
+		}
 
-			file, err := os.Open(filePath)
-			if err != nil {
-				panic(fmt.Sprintf("error while opening file: %s", err))
-			}
-			defer file.Close()
-
-			if err := validateYacarJSON(file); err != nil {
-				panic(fmt.Sprintf("%s\npath: %s", err, filePath))
-			}
-
-		}(filePath)
+		file, err := os.Open(fp)
+		if err != nil {
+			panic(fmt.Sprintf("error while opening file: %s", err))
+		}
+		chainFileMap[chain][filetype] = file
 	}
-	wg.Wait()
+	defer closeChainFileMaps(chainFileMap)
+
+	if err := validateYacarJSON(chainFileMap); err != nil {
+		panic(err)
+	}
 }
 
-func validateYacarJSON(file *os.File) error {
-	switch {
-	case strings.Contains(file.Name(), "account"):
-		return validateAccountJSON(file)
-	case strings.Contains(file.Name(), "asset"):
-		return validateAssetJSON(file)
-	case strings.Contains(file.Name(), "binary"):
-		return validateBinaryJSON(file)
-	case strings.Contains(file.Name(), "contract"):
-		return validateContractJSON(file)
-	case strings.Contains(file.Name(), "entity"):
-		return validateEntityJSON(file)
-	case strings.Contains(file.Name(), "pool"):
-		return validatePoolJSON(file)
+func closeChainFileMaps(cfm map[string]map[string]*os.File) {
+	for _, fm := range cfm {
+		for _, f := range fm {
+			f.Close()
+		}
+	}
+}
+
+func validateYacarJSON(cfm map[string]map[string]*os.File) error {
+	for chain, filemap := range cfm {
+		for filetype, file := range filemap {
+			log.Printf("Validating %s %s JSON...", chain, filetype)
+			var err error
+			switch {
+			case strings.Contains(file.Name(), "account"):
+				err = validateAccountJSON(file)
+			case strings.Contains(file.Name(), "asset"):
+				err = validateAssetJSON(file, cfm[chain]["entity"])
+			case strings.Contains(file.Name(), "binary"):
+				err = validateBinaryJSON(file)
+			case strings.Contains(file.Name(), "contract"):
+				err = validateContractJSON(file)
+			case strings.Contains(file.Name(), "entity"):
+				err = validateEntityJSON(file, cfm[chain]["asset"])
+			case strings.Contains(file.Name(), "pool"):
+				err = validatePoolJSON(file)
+			default:
+				err = fmt.Errorf("unknown file type: %s", file.Name())
+			}
+			if err != nil {
+				return err
+			}
+		}
 	}
 	return nil
 }
@@ -82,11 +101,18 @@ func validateAccountJSON(file *os.File) error {
 	return nil
 }
 
-func validateAssetJSON(file *os.File) error {
-	var assets []yacarsdk.Asset
+func validateAssetJSON(assetFile, entityFile *os.File) error {
+	var (
+		assets   []yacarsdk.Asset
+		entities []yacarsdk.Entity
+	)
 
-	if err := json.NewDecoder(file).Decode(&assets); err != nil {
-		return fmt.Errorf("error while decoding asset JSON: %s", err)
+	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
+		return fmt.Errorf("error while decoding asset JSON for asset validation: %s", assetFile.Name())
+	}
+
+	if err := json.NewDecoder(entityFile).Decode(&entities); err != nil {
+		return fmt.Errorf("error while decoding entity JSON for asset validation: %s", err)
 	}
 
 	for _, asset := range assets {
@@ -139,6 +165,22 @@ func validateAssetJSON(file *os.File) error {
 				return fmt.Errorf("[%s] 'total_supply' must be number greater than 0", asset.Id)
 			}
 		}
+	}
+
+	// Corresponding entity check
+	entityNameSet := map[string]struct{}{}
+	for _, entity := range entities {
+		entityNameSet[entity.Name] = struct{}{}
+	}
+	for _, asset := range assets {
+		if asset.Entity == "" {
+			continue
+		}
+		if _, ok := entityNameSet[asset.Entity]; ok {
+			continue
+		}
+
+		return fmt.Errorf("[%s] entity %s does not exists", asset.Id, asset.Entity)
 	}
 
 	// Non-permissioned DEX TxHash must be unique
@@ -211,11 +253,18 @@ func validateContractJSON(file *os.File) error {
 	return nil
 }
 
-func validateEntityJSON(file *os.File) error {
-	var entities []yacarsdk.Entity
+func validateEntityJSON(entityFile, assetFile *os.File) error {
+	var (
+		entities []yacarsdk.Entity
+		assets   []yacarsdk.Asset
+	)
 
-	if err := json.NewDecoder(file).Decode(&entities); err != nil {
-		return fmt.Errorf("error while decoding entity JSON: %s", err)
+	if err := json.NewDecoder(entityFile).Decode(&entities); err != nil {
+		return fmt.Errorf("error while decoding entity JSON for entity validation: %s", err)
+	}
+
+	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
+		return fmt.Errorf("error while decoding asset JSON for entity validation: %s", assetFile.Name())
 	}
 
 	for _, entity := range entities {
@@ -232,6 +281,22 @@ func validateEntityJSON(file *os.File) error {
 
 		entityCount[entity.Name] = struct{}{}
 	}
+
+	// // Corresponding asset check
+	// assetEntityNameSet := map[string]struct{}{}
+	// for _, asset := range assets {
+	// 	if asset.Entity == "" {
+	// 		continue
+	// 	}
+	// 	assetEntityNameSet[asset.Entity] = struct{}{}
+	// }
+	// for _, entity := range entities {
+	// 	if _, ok := assetEntityNameSet[entity.Name]; ok {
+	// 		continue
+	// 	}
+
+	// 	return fmt.Errorf("entity %s does not correspond to any asset", entity.Name)
+	// }
 
 	return nil
 }
