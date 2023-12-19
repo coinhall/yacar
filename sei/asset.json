@@ -100,6 +100,13 @@
     "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1"
   },
   {
+    "id": "uatom",
+    "name": "ATOM",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
     "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "name": "Axelar USDC",
     "symbol": "USDC.axl",
@@ -124,11 +131,25 @@
     "icon": "https://sei.astroport.fi/tokens/usdc.svg"
   },
   {
+    "id": "ubtc",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
     "id": "sei1r5fjagxce2sf3ll8c23falpg534anzha574ldgalafftprv8fznqfktdqc",
     "name": "CLAM",
     "symbol": "SHELL",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "ueth",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": "6",
+    "type": "native"
   },
   {
     "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hello",
@@ -165,6 +186,20 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+  },
+  {
+    "id": "uosmo",
+    "name": "OSMO",
+    "symbol": "OSMO",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
+    "id": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
+    "name": "Pirate Dog",
+    "symbol": "PDOG",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
@@ -245,6 +280,13 @@
     "type": "cw20"
   },
   {
+    "id": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
+    "name": "Sensei",
+    "symbol": "SENSEI",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "sei1y6t2swnwjewa07hxeuv3pvxd9x9vc8chtwtfz8awpyex0tuurp9qkdzq66",
     "name": "sey",
     "symbol": "sey",
@@ -276,6 +318,13 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg"
   },
   {
+    "id": "sei1wyqtjqu2klfez2akja8kmxcjep7gr8fyd2s9ssv2w5r8fjfm3fpslp3pw2",
+    "name": "Super Seiyan",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "factory/sei1t9k0adfpn8rxwcvedafku5595ue73pl3m86anr/tirso",
     "name": "tirso",
     "symbol": "tirso",
@@ -288,6 +337,20 @@
     "symbol": "TITANIC",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "uusdc",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
+    "id": "uusdt",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "native"
   },
   {
     "id": "ibc/6ACE79F5ABD607D2075FAD4ABE284CBC5BB6A96C16555FFB901644E9D17411AC",
