@@ -22,6 +22,17 @@
     "icon": "https://raw.githubusercontent.com/BirdINJ/BINJ/main/BINJ.png"
   },
   {
+    "id": "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
+    "entity": "BRETT",
+    "name": "The Blue PEPE",
+    "symbol": "BRETT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "420000000",
+    "total_supply": "420000000",
+    "icon": "https://i.ibb.co/TRt5mD3/Brett.png"
+  },
+  {
     "id": "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
     "entity": "Chihuahua",
     "name": "Chihuahua",
@@ -76,6 +87,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
+    "id": "factory/inj1vjppa6h9lf75pt0v6qnxtej4xcl0qevnxzcrvm/INJINU",
+    "entity": "INJINU",
+    "name": "INJINU",
+    "symbol": "INJINU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cryptodev-t/astroport-token-lists/main/img/injinu.png"
+  },
+  {
     "id": "factory/inj1av2965j0asg5qwyccm8ycz3qk0eya4873dkp3u/kermit",
     "entity": "KERMIT",
     "name": "Kermit",
@@ -98,6 +118,17 @@
     "icon": "https://raw.githubusercontent.com/kdelia12/injective-ts/dev/packages/token-metadata/src/images/kira.jpeg"
   },
   {
+    "id": "factory/inj164jk46xjwsn6x4rzu6sfuvtlzy2nza0nxfj0nz/MAX",
+    "entity": "Max",
+    "name": "MAX",
+    "symbol": "MAX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "100000000",
+    "total_supply": "100000000",
+    "icon": "https://i.ibb.co/FbVHYVx/logo.jpg"
+  },
+  {
     "id": "factory/inj1lttm52qk6hs43vqak5qyk4hl4fzu2snq2gmg0c/nyan",
     "entity": "NYAN",
     "name": "NYAN",
@@ -107,6 +138,15 @@
     "circ_supply": "69420000000",
     "total_supply": "69420000000",
     "icon": "https://i.ibb.co/4Sq6KYX/stsmall507x507-pad600x600f8f8f8.png"
+  },
+  {
+    "id": "factory/inj1mdyw30cuct3haazw546t4t92sadeuwde0tmqxx/SAKE",
+    "entity": "SAKE",
+    "name": "SAKE",
+    "symbol": "SAKE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/profile_images/1321601861275676672/C2AIvH6h_400x400.jpg"
   },
   {
     "id": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
@@ -119,6 +159,17 @@
     "total_supply": "500000000",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/sommelier.png",
     "coingecko": "https://www.coingecko.com/en/coins/sommelier"
+  },
+  {
+    "id": "factory/inj1pjcmuxd2ek7mvx4gnv6quyn6c6rjxwcrs4h5y4/truffle",
+    "entity": "TRUFFLE",
+    "name": "TRUFFLE",
+    "symbol": "TF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "900000000",
+    "total_supply": "1000000000",
+    "icon": "https://i.ibb.co/xqShbnR/truffle.jpg"
   },
   {
     "id": "factory/inj17kqcwkgdayv585dr7mljclechqzymgfsqc8x9k/WOJAK",
@@ -277,6 +328,16 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/axs.png"
   },
   {
+    "id": "factory/neutron1tklm6cvr2wxg8k65t8gh5ewslnzdfd5fsk0w3f/corgi",
+    "name": "Baby Corgi",
+    "symbol": "CORGI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "420690000",
+    "total_supply": "420690000",
+    "icon": "https://i.ibb.co/VmwDjgY/logo.png"
+  },
+  {
     "id": "factory/inj144nw6ny28mlwuvhfnh7sv4fcmuxnpjx4pksr0j/boo",
     "name": "Bamboo",
     "symbol": "BAMBOO",
@@ -291,12 +352,28 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj16mnhqpzuj4s4ermuh76uffaq3r6rf8dw5v9rm3/BAPE",
+    "name": "BAPE",
+    "symbol": "BAPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/profile_images/1714582147439489024/PexGpcRW_400x400.jpg"
+  },
+  {
     "id": "helix/BAYC",
     "name": "BAYC",
     "symbol": "BAYC",
     "decimals": "6",
     "type": "oracle",
     "icon": "https://moon.ly/uploads/nft/82e50e35-dfdd-4be3-9930-5cc2f91a13df.jpg"
+  },
+  {
+    "id": "factory/inj130nkx4u8p5sa2jl4apqlnnjlej2ymfq0e398w9/BLUE",
+    "name": "BLUE GRIN TOKEN",
+    "symbol": "BLUE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://ipfs.io/ipfs/QmZ3yryKJiEpBe8MPDYYXpxmWuVpNvVmWAXziQMEwNj7TJ"
   },
   {
     "id": "helix/BNB",
@@ -321,12 +398,35 @@
     "type": "oracle"
   },
   {
+    "id": "factory/inj147laec3n2gq8gadzg8xthr7653r76jzhavemhh/BONK",
+    "name": "Bonk on INJ",
+    "symbol": "BONK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "ipfs://QmUG8xtgkqB25EStXxKU2MyLde4g5R9Gz8Q1NW39x8Lie3/cartoon%20ninja%20with%20brown%20hat.jpg"
+  },
+  {
+    "id": "factory/inj1sgnkljwsekkf36p4lgd7v9qa0p66rj64xa756j/BONK",
+    "name": "Bonk on INJ",
+    "symbol": "BONK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "ipfs://QmUG8xtgkqB25EStXxKU2MyLde4g5R9Gz8Q1NW39x8Lie3/cartoon%20ninja%20with%20brown%20hat.jpg"
+  },
+  {
     "id": "factory/inj13jx69l98q0skvwy3n503e0zcrh3wz9dcqxpwxy/bonsai",
     "name": "BONSAI",
     "symbol": "BONSAI",
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://pbs.twimg.com/profile_images/1736635476193263616/XqV-5XOf_400x400.jpg"
+  },
+  {
+    "id": "factory/inj1q7unmeeqkj8r4m4en50wqlfnptfvgf0wavuah8/BOYS",
+    "name": "BOYS",
+    "symbol": "BOYS",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "helix/BTC",
@@ -351,6 +451,14 @@
     "decimals": "18",
     "type": "ibc",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/canto.webp"
+  },
+  {
+    "id": "factory/inj1cm5lg3z9l3gftt0c09trnllmayxpwt8825zxw3/catinj",
+    "name": "CATINJ",
+    "symbol": "CATINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.ibb.co/LNWq03F/74260a30-6cf0-49ef-b9f4-a1eaeabb0131.webp"
   },
   {
     "id": "helix/0x09f7c1d7dfbb7df2b8fe3d3d87ee94a2259d212da4f30c1f0540d066dfa44723",
@@ -422,6 +530,14 @@
     "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
   },
   {
+    "id": "factory/inj1r4usuj62gywdwhq9uvx6tg0ywqpppcjqu7z4js/crinj",
+    "name": "CRINJ",
+    "symbol": "CRINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.postimg.cc/rsGnR83Y/b36d0a3e-571f-4bda-9c83-ee6ed2bb5b9a.webp"
+  },
+  {
     "id": "factory/inj1kgyxepqnymx8hy7nydl65w3ecyut566pl70swj/crinj",
     "name": "Crinj Token",
     "symbol": "CRINJ",
@@ -478,6 +594,13 @@
     "icon": "https://i.ibb.co/yYVqfXF/token-icon.webp"
   },
   {
+    "id": "factory/inj1ucamzt4l70qnwwtqac4wjpvqdfmuhuft5ezy6x/sniperfactory",
+    "name": "DojCoin",
+    "symbol": "DOJ",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/inj1x04zxeyrjc7ke5nt7ht3v3gkevxdk7rr0fx8qp/INJECTIV",
     "name": "DonatelloShurikenLipsInjection2dust",
     "symbol": "INJECTIV",
@@ -514,9 +637,24 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1cm5lg3z9l3gftt0c09trnllmayxpwt8825zxw3/elon",
+    "name": "ELON",
+    "symbol": "ELON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/profile_images/1736923154541330432/UMNWmAEp_400x400.jpg"
+  },
+  {
     "id": "factory/inj1k7ygz5ufgavnutv0hkgsz7u9g4c3yj6lq6p0jn/ELON",
     "name": "ELON",
     "symbol": "ELON",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1a0n3xm83w6d0gzheffkve30z8wpz6xq8zdf48r/ETH",
+    "name": "ETH",
+    "symbol": "ETH",
     "decimals": "6",
     "type": "tokenfactory"
   },
@@ -584,6 +722,13 @@
     "icon": "https://ipfs.io/ipfs/QmWuGh7dhDG18r4Yui2x1acVZgj2jvGieN397ogggsjEhR"
   },
   {
+    "id": "factory/inj1krswly444gyuunnmchg4uz2ekqvu02k7903skh/geisha",
+    "name": "Geisha",
+    "symbol": "GEISHA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/inj1h2dqvlca2lay8amfk5fgvateslp3h0sgf8wmmp/geisha",
     "name": "GEISHA",
     "symbol": "GEISHA",
@@ -592,11 +737,30 @@
     "icon": "https://pbs.twimg.com/profile_images/1736706620451602433/IhDvWMFA_400x400.jpg"
   },
   {
+    "id": "factory/inj1r4usuj62gywdwhq9uvx6tg0ywqpppcjqu7z4js/giant",
+    "name": "GIANT",
+    "symbol": "GIANT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/media/GBr8VMlXUAAu0tT?format=jpg&name=small"
+  },
+  {
     "id": "factory/inj172ccd0gddgz203e4pf86ype7zjx573tn8g0df9/GINGER",
     "name": "GINGER",
     "symbol": "GINGER",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "circ_supply": "400000000000",
+    "total_supply": "420000000000",
+    "icon": "https://raw.githubusercontent.com/SHITcoinsonINJ/injective-ts/dev/packages/token-metadata/src/images/ginger.png"
+  },
+  {
+    "id": "factory/inj1r4usuj62gywdwhq9uvx6tg0ywqpppcjqu7z4js/ginj",
+    "name": "ginj",
+    "symbol": "ginj",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/media/GBsEKHiWQAACGC4?format=jpg&name=medium"
   },
   {
     "id": "factory/inj1krswly444gyuunnmchg4uz2ekqvu02k7903skh/ginko",
@@ -604,6 +768,14 @@
     "symbol": "GINKO",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj12tl0d8a739t8pun23mzldhan26ndqllyt6d67p/goose",
+    "name": "goose wif knife",
+    "symbol": "GOOSE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/profile_images/1737090223811489792/kq_J36b7_400x400.jpg"
   },
   {
     "id": "factory/inj174r3j8pm93gfcdu0g36dg6g7u0alygppypa45e/GRINJ",
@@ -644,9 +816,54 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
+    "id": "factory/inj1sgnkljwsekkf36p4lgd7v9qa0p66rj64xa756j/IWH",
+    "name": "INJ WIF HAT",
+    "symbol": "IWH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.imgur.com/vKF12uo.png"
+  },
+  {
+    "id": "factory/inj1yftyfrc720nhrzdep5j70rr8dm9na2thnrl7ut/injs",
+    "name": "INJS",
+    "symbol": "INJS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.ibb.co/NKK6ZD7/injs-logo.jpg"
+  },
+  {
+    "id": "factory/inj13vtsydqxwya3mpmnqa20lhjg4uhg8pp42wvl7t/japan",
+    "name": "Japanese token",
+    "symbol": "JAPAN",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/profile_images/1736981644672692224/36EJngZv_400x400.jpg"
+  },
+  {
     "id": "factory/inj1rmf0pe6dns2kaasjt82j5lps3t8ke9dzyh3nqt/JINX",
     "name": "JINXCoin",
     "symbol": "JINX",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1jqu8w2qqlc79aewc74r5ts7hl85ksjk4ud7jm8/KAGE",
+    "name": "KAGECoin",
+    "symbol": "KAGE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1kdvaxn5373fm4g8xxqhq08jefjhmefqjn475dc/KAI",
+    "name": "KAI",
+    "symbol": "KAI",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj183lz632dna57ayuf6unqph5d0v2u655h2jzzyy/kasa",
+    "name": "Kasa (傘)",
+    "symbol": "KASA",
     "decimals": "6",
     "type": "tokenfactory"
   },
@@ -659,6 +876,14 @@
     "circ_supply_api": "https://api.kava.io/vesting/circulatingsupply",
     "total_supply_api": "https://api.kava.io/vesting/circulatingsupply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.png"
+  },
+  {
+    "id": "factory/inj1yc9tdwkff6fdhseshk2qe4737hysf3dv0jkq35/kiki",
+    "name": "KIKI",
+    "symbol": "KIKI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.ibb.co/3TKS16k/kiki.png"
   },
   {
     "id": "factory/inj1pqxpkmczds78hz8cacyvrht65ey58e5yg99zh7/kings",
@@ -688,6 +913,8 @@
     "symbol": "LABS",
     "decimals": "6",
     "type": "tokenfactory",
+    "circ_supply": "80000000",
+    "total_supply": "100000000",
     "icon": "https://i.ibb.co/TWSjd8y/LABS.jpg"
   },
   {
@@ -722,12 +949,30 @@
     "icon": "https://localterra.money/local-logo-dark.png"
   },
   {
+    "id": "factory/inj13f6c0hc3l80qa7w80j992wtscslkg8pm65rxua/LUCK",
+    "name": "LUCK",
+    "symbol": "LUCK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "777",
+    "total_supply": "777",
+    "icon": "https://bafybeif74rzbcai5x5gwccxe6mq3gp5m3xuvy546wzdoc5h5us5p26vleq.ipfs.nftstorage.link/"
+  },
+  {
     "id": "ibc/B8AF5D92165F35AB31F3FC7C7B444B9D240760FA5D406C49D24862BD0284E395",
     "name": "LUNA",
     "symbol": "LUNA",
     "decimals": "6",
     "type": "ibc",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/luna.png"
+  },
+  {
+    "id": "factory/inj1cm5lg3z9l3gftt0c09trnllmayxpwt8825zxw3/minj",
+    "name": "MINJ",
+    "symbol": "MINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.ibb.co/yymLzWq/78bd5c83-fca1-4e20-8203-1c660950c542.webp"
   },
   {
     "id": "factory/inj15e6p3slz9pa7kcn280y7hgp6rvhsqm3vnczlaw/mirza",
@@ -737,11 +982,42 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj10tj05gfpxgnmpr4q7rhxthuknc6csatrp0uxff/moo",
+    "name": "MooCoin",
+    "symbol": "MOO",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/inj1k7ygz5ufgavnutv0hkgsz7u9g4c3yj6lq6p0jn/MOON",
     "name": "MOON",
     "symbol": "MOON",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1fzhwjv2kjv7xr2h4phue5yqsjawjypcamcpl5a/mubi",
+    "name": "MUBI",
+    "symbol": "MUBI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.ibb.co/Vx84vjV/mubi.jpg"
+  },
+  {
+    "id": "factory/inj10lauc4jvzyacjtyk7tp3mmwtep0pjnencdsnuc/NAKI",
+    "name": "NAKI INU",
+    "symbol": "NAKI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://a0.anyrgb.com/pngimg/300/1300/emoji-dogecoin-doge-shrug-yahoo-discord-avatan-avatan-plus-red-fox-dog-breed-group.png"
+  },
+  {
+    "id": "factory/inj16x0d8udzf2z2kjkdlr9ehdt7mawn9cckzt927t/naruto",
+    "name": "Naruto Token",
+    "symbol": "NARUTO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/profile_images/1736805764956925952/E3Jp9OA9_400x400.jpg"
   },
   {
     "id": "factory/inj1gwkdx7lkpvq2ewpv29ptxdy9r95vh648nm8mp0/naruto",
@@ -774,6 +1050,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1pnwrzhnjfncxgf4jkv3zadf542tpfc3xx3x4xw/NIF",
+    "name": "Ninja Wif Hat",
+    "symbol": "NIF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "ipfs://QmUG8xtgkqB25EStXxKU2MyLde4g5R9Gz8Q1NW39x8Lie3/cartoon%20ninja%20with%20brown%20hat.jpg"
+  },
+  {
     "id": "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD",
     "name": "nUSD",
     "symbol": "nUSD",
@@ -801,6 +1085,14 @@
     "symbol": "PEPE",
     "decimals": "18",
     "type": "peggy"
+  },
+  {
+    "id": "factory/inj1aey234egq5efqr7zfvtzdsq6h2c5wsrma4lw7h/pepe",
+    "name": "PEPE on INJ",
+    "symbol": "PEPE",
+    "decimals": "1",
+    "type": "tokenfactory",
+    "icon": "https://cloudflare-ipfs.com/ipfs/Qmbm6rRWRBoZN3ixvrUDCoDV9Z4rtcJvULNowZ57ZCrr9n"
   },
   {
     "id": "ibc/B786E7CBBF026F6F15A8DA248E0F18C62A0F7A70CB2DABD9239398C8B5150ABB",
@@ -869,6 +1161,22 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1yg24mn8enl5e6v4jl2j6cce47mx4vyd6e8dpck/saga",
+    "name": "Saga Bakufu (徳川幕府)",
+    "symbol": "SAGA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://c2.staticflickr.com/4/3663/3599742438_345de60d3d_b.jpg"
+  },
+  {
+    "id": "factory/inj1gg43076kmy0prkxtn5xxka47lfmwwjsq6ygcfa/SAKI",
+    "name": "SAKI INU",
+    "symbol": "SAKI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://media.istockphoto.com/id/1445946216/vector/meme-dog-viral-internet-memes-fun-art-japan-dog-face-with-eyes-shiba-inu-drawing-head-canine.jpg?s=612x612&w=0&k=20&c=gVXV26mVeZxchcddJ-IgzN9fBd7TndeKW9Dtu3cXpQ8="
+  },
+  {
     "id": "factory/inj1xjcq2ch3pacc9gql24hfwpuvy9gxszxpz7nzmz/sakura",
     "name": "Sakura",
     "symbol": "SKR",
@@ -908,6 +1216,22 @@
     "icon": "https://pbs.twimg.com/profile_images/1736609754120691712/tZkoksst_400x400.jpg"
   },
   {
+    "id": "factory/inj1gg43076kmy0prkxtn5xxka47lfmwwjsq6ygcfa/SAMURAI",
+    "name": "SAMURAI",
+    "symbol": "SAMURAI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://img.myloview.es/cuadros/black-ronin-ninja-samurai-logo-vector-400-162486236.jpg"
+  },
+  {
+    "id": "factory/inj1x5thnvjfwzmtxxhqckrap8ysgs2duy29m4xwsp/sansu",
+    "name": "SANSU",
+    "symbol": "SANSU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/profile_images/1736923154541330432/UMNWmAEp_400x400.jpg"
+  },
+  {
     "id": "factory/inj12qf874wcfxtxt004qmuhdtxw4l6d0f5w6cyfpz/santa",
     "name": "SANTA",
     "symbol": "SANTA",
@@ -921,6 +1245,20 @@
     "symbol": "SEI",
     "decimals": "6",
     "type": "oracle"
+  },
+  {
+    "id": "factory/inj1nn8xzngf2ydkppk2h0n9nje72ttee726hvjplx/ak",
+    "name": "Sekiro",
+    "symbol": "Sekiro",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1nn8xzngf2ydkppk2h0n9nje72ttee726hvjplx/Sekiro",
+    "name": "Sekiro",
+    "symbol": "SEKIRO",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "factory/inj174r3j8pm93gfcdu0g36dg6g7u0alygppypa45e/SEX",
@@ -945,12 +1283,30 @@
     "type": "peggy"
   },
   {
+    "id": "factory/inj1my757j0ndftrsdf2tuxsdhhy5qfkpuxw4x3wnc/shinju",
+    "name": "ShibaInju",
+    "symbol": "SHINJU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "80000000",
+    "total_supply": "100000000",
+    "icon": "https://ibb.co/cDNJPQn"
+  },
+  {
     "id": "factory/inj1pjp9q2ycs7eaav8d5ny5956k5m6t0alpl33xd6/Shinobi",
     "name": "Shinobi",
     "symbol": "NOBI",
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://bafkreidltgqqnkrpcnsnqilrvrlyx5tsibqvxx62ylqffktfzb2dicjjki.ipfs.w3s.link/"
+  },
+  {
+    "id": "factory/inj1xawhm3d8lf9n0rqdljpal033yackja3dt0kvp0/SHINOBI",
+    "name": "SHINOBI CLAN",
+    "symbol": "SHINOBI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://img.freepik.com/premium-vector/ninja-shinobi-position-fight-enemy-with-his-katana-hand-drawn-illustration_73644-31.jpg?w=2000"
   },
   {
     "id": "factory/inj1wu5464syj9xmud55u99hfwhyjd5u8fxfmurs8j/shiro",
@@ -995,12 +1351,27 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/synthetix.svg"
   },
   {
+    "id": "factory/inj1a4hvejdwaf9gd9rltwftxf0fyz6mrzwmnauacp/SOL",
+    "name": "SOL",
+    "symbol": "SOL",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "helix/SOL",
     "name": "SOL",
     "symbol": "SOL",
     "decimals": "6",
     "type": "oracle",
     "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
+  },
+  {
+    "id": "factory/inj1cm5lg3z9l3gftt0c09trnllmayxpwt8825zxw3/soninj",
+    "name": "SONINJ",
+    "symbol": "SONINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.ibb.co/6NrZQ2N/4d9bc432-603e-4f83-9fbd-b12e6647660f.webp"
   },
   {
     "id": "peggy0x4986fD36b6b16f49b43282Ee2e24C5cF90ed166d",
@@ -1037,6 +1408,14 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stinj.png"
   },
   {
+    "id": "factory/inj15e6p3slz9pa7kcn280y7hgp6rvhsqm3vnczlaw/sumo",
+    "name": "Sumō Gendai Budō",
+    "symbol": "SUMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://s3.amazonaws.com/cdn.designcrowd.com/blog/2019/10/35-Wrestling-Logos/images/Sumo.jpg"
+  },
+  {
     "id": "peggy0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
     "name": "SushiSwap",
     "symbol": "SUSHI",
@@ -1049,6 +1428,13 @@
     "name": "TALIS",
     "symbol": "TALIS",
     "decimals": "0",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1qw7egul6sr0yjpxfqq5qars2qvxucgp2sartet/tansha",
+    "name": "Tansha Jinsei",
+    "symbol": "TANSHA",
+    "decimals": "6",
     "type": "tokenfactory"
   },
   {
@@ -1082,16 +1468,6 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
   },
   {
-    "id": "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
-    "name": "The Blue PEPE",
-    "symbol": "BRETT",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "420000000",
-    "total_supply": "420000000",
-    "icon": "https://i.ibb.co/TRt5mD3/Brett.png"
-  },
-  {
     "id": "factory/inj18u2790weecgqkmcyh2sg9uupz538kwgmmcmtps/THE10",
     "name": "THE10",
     "symbol": "THE10",
@@ -1103,7 +1479,10 @@
     "name": "TheJanitor",
     "symbol": "ERIC",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "circ_supply": "100000000000000",
+    "total_supply": "100000000000000",
+    "icon": "https://ivory-unpleasant-moose-964.mypinata.cloud/ipfs/QmUpMPqBxn7AGCDkasnX6kwxTg4YiH3fmLmizk6CMkZMJt?_gl=1*gbxnf6*_ga*MzIzMTU1MjcxLjE3MDI0MjM3Njg.*_ga_5RMPXG14TE*MTcwMjg0MDE5Ni4yLjEuMTcwMjg0MDIxNy4zOS4wLjA."
   },
   {
     "id": "factory/inj108qcx6eu6l6adl6kxm0qpyshlmzf3w9mnq5vav/THUGLIFE",
@@ -1119,6 +1498,13 @@
     "id": "factory/inj17kqcwkgdayv585dr7mljclechqzymgfsqc8x9k/THUG",
     "name": "ThugLife",
     "symbol": "THUG",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1e5va7kntnq245j57hfe78tqhnd763ekrtu9fez/TRUFFLE",
+    "name": "TRUFFLE",
+    "symbol": "TRUFFLE",
     "decimals": "6",
     "type": "tokenfactory"
   },
@@ -1219,12 +1605,27 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/wbtc.svg"
   },
   {
+    "id": "factory/inj1hse75gfje5jllds5t9gnzdwyp3cdc3cvdt7gpw/wddg",
+    "name": "WDDG",
+    "symbol": "WDDG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://pbs.twimg.com/profile_images/1736888744962035713/D1iePIGU_400x400.jpg"
+  },
+  {
     "id": "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
     "name": "WHALE",
     "symbol": "WHALE",
     "decimals": "6",
     "type": "ibc",
     "icon": "https://app.whitewhale.money/logos/whale.svg"
+  },
+  {
+    "id": "factory/inj1xjcq2ch3pacc9gql24hfwpuvy9gxszxpz7nzmz/wolf",
+    "name": "Wolf Party",
+    "symbol": "WOLF",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -1258,6 +1659,13 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/solana.svg"
   },
   {
+    "id": "factory/inj1dkwqv24lyt94ukg65qf4xc8tj8wsu7x9p76enk/x69",
+    "name": "x69",
+    "symbol": "x69",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "peggy0x080B12E80C9b45e97C23b6ad10a16B3e2a123949",
     "name": "XBX",
     "symbol": "XBX",
@@ -1287,6 +1695,13 @@
     "id": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/xTalis",
     "name": "xTalis",
     "symbol": "XTALIS",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1v05uapg65p6f4307qg0hdkzssn82js6n5gc03q/ZUZU",
+    "name": "ZUZUDog",
+    "symbol": "ZUZU",
     "decimals": "6",
     "type": "tokenfactory"
   }
