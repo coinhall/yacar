@@ -3,6 +3,7 @@ package validator
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"log"
 	"os"
 	"strconv"
@@ -107,10 +108,12 @@ func validateAssetJSON(assetFile, entityFile *os.File) error {
 		entities []yacarsdk.Entity
 	)
 
+	assetFile.Seek(0, io.SeekStart)
 	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
 		return fmt.Errorf("error while decoding asset JSON for asset validation: %s", assetFile.Name())
 	}
 
+	entityFile.Seek(0, io.SeekStart)
 	if err := json.NewDecoder(entityFile).Decode(&entities); err != nil {
 		return fmt.Errorf("error while decoding entity JSON for asset validation: %s", err)
 	}
@@ -180,7 +183,7 @@ func validateAssetJSON(assetFile, entityFile *os.File) error {
 			continue
 		}
 
-		return fmt.Errorf("[%s] entity %s does not exists", asset.Id, asset.Entity)
+		return fmt.Errorf("[%s] entity '%s' does not exists", asset.Id, asset.Entity)
 	}
 
 	// Non-permissioned DEX TxHash must be unique
@@ -259,10 +262,12 @@ func validateEntityJSON(entityFile, assetFile *os.File) error {
 		assets   []yacarsdk.Asset
 	)
 
+	entityFile.Seek(0, io.SeekStart)
 	if err := json.NewDecoder(entityFile).Decode(&entities); err != nil {
 		return fmt.Errorf("error while decoding entity JSON for entity validation: %s", err)
 	}
 
+	assetFile.Seek(0, io.SeekStart)
 	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
 		return fmt.Errorf("error while decoding asset JSON for entity validation: %s", assetFile.Name())
 	}
@@ -282,21 +287,23 @@ func validateEntityJSON(entityFile, assetFile *os.File) error {
 		entityCount[entity.Name] = struct{}{}
 	}
 
-	// // Corresponding asset check
-	// assetEntityNameSet := map[string]struct{}{}
-	// for _, asset := range assets {
-	// 	if asset.Entity == "" {
-	// 		continue
-	// 	}
-	// 	assetEntityNameSet[asset.Entity] = struct{}{}
-	// }
-	// for _, entity := range entities {
-	// 	if _, ok := assetEntityNameSet[entity.Name]; ok {
-	// 		continue
-	// 	}
+	// Corresponding asset check
+	assetEntityNameSet := map[string]struct{}{}
+	for _, asset := range assets {
+		if asset.Entity == "" {
+			continue
+		}
+		assetEntityNameSet[asset.Entity] = struct{}{}
+	}
+	for _, entity := range entities {
+		if _, ok := assetEntityNameSet[entity.Name]; ok {
+			continue
+		}
 
-	// 	return fmt.Errorf("entity %s does not correspond to any asset", entity.Name)
-	// }
+		pathElements := strings.Split(entityFile.Name(), "/")
+		chainFile := pathElements[len(pathElements)-2] + "/" + pathElements[len(pathElements)-1]
+		return fmt.Errorf("[%s] entity %s does not correspond to any asset", chainFile, entity.Name)
+	}
 
 	return nil
 }
