@@ -1,180 +1,5 @@
 [
   {
-    "id": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
-    "name": "SEIZE Token",
-    "symbol": "SEIZE",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hello",
-    "name": "hello",
-    "symbol": "hello",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hellooo",
-    "name": "hellooo",
-    "symbol": "hellooo",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/xxx",
-    "name": "xxx",
-    "symbol": "xxx",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
-    "name": "Sensei",
-    "symbol": "SENSEI",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "total_supply": "1000000000",
-    "icon": "https://sei.astroport.fi/tokens/generated/sensei.png"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
-    "name": "BSC Wrapped USDC",
-    "symbol": "USDC.bsc",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
-    "name": "Optimism Wrapped USDC",
-    "symbol": "USDC.op",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/weth.png"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
-    "name": "Arbitrum Wrapped USDC",
-    "symbol": "USDC.arb",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
-    "name": "Wormhole Wrapped Bitcoin",
-    "symbol": "WBTC",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
-    "name": "Wormhole BSC USDT",
-    "symbol": "USDT.bsc",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdt.svg"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
-    "name": "Solana Wrapped USDC",
-    "symbol": "USDC.sol",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
-    "name": "Arbitrum Wrapped Ether",
-    "symbol": "WETH.arb",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/weth.png"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
-    "name": "BSC Wrapped Ether",
-    "symbol": "WETH.bsc",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/weth.png"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
-    "name": "Polygon Wrapped USDC",
-    "symbol": "USDC.matic",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
-    "name": "Wrapped Tether USD",
-    "symbol": "USDT.eth",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
-  },
-  {
-    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
-    "name": "Wrapped USD Coin",
-    "symbol": "USDC.eth",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
-  },
-  {
-    "id": "factory/sei1cj8e3mngwhdnlm850nzuz2p45pa6j878pdwyng/SEIYAN",
-    "name": "Super Seiyan",
-    "symbol": "SEIYAN",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei1cy9uvcrtxfxfsc436ex0j5naszkxdls94l9fqa/cook",
-    "name": "COOK",
-    "symbol": "COOK",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
-    "name": "Pirate Dog",
-    "symbol": "PDOG",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei1g67gjpzn53hc4qsta9jqe7yq40atuqxmuakqkg/sea",
-    "name": "SEA",
-    "symbol": "SEA",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei1t9k0adfpn8rxwcvedafku5595ue73pl3m86anr/tirso",
-    "name": "tirso",
-    "symbol": "tirso",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "factory/sei1x2fgaaqecvk8kwuqkjqcj27clw5p5g99uawdzy9sc4rku8avumcq3cky4k/ampSEI",
-    "name": "ampSEI",
-    "symbol": "ampSEI",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "icon": "https://i.ibb.co/cQPrxng/ampSei.png"
-  },
-  {
     "id": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
     "entity": "Astroport",
     "name": "Astroport",
@@ -184,52 +9,6 @@
     "circ_supply_api": "https://markets-api.astroport.fi/protocol/circulating-supply",
     "total_supply": "1099999997.921598",
     "icon": "https://app.astroport.fi/tokens/astro.svg"
-  },
-  {
-    "id": "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B",
-    "entity": "Stride",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
-    "total_supply": "100000000",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/stride",
-    "coingecko": "https://www.coingecko.com/en/coins/stride"
-  },
-  {
-    "id": "ibc/52BDB3EFE4EC2AA5086F16A93772F5F9B503FF818F3B9494AE5AA2C304C6FF49",
-    "name": "Stride Staked ATOM",
-    "symbol": "stATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg"
-  },
-  {
-    "id": "ibc/6ACE79F5ABD607D2075FAD4ABE284CBC5BB6A96C16555FFB901644E9D17411AC",
-    "name": "Whale",
-    "symbol": "WHALE",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://app.whitewhale.money/logos/whale.svg"
-  },
-  {
-    "id": "ibc/6CDD4663F2F09CD62285E2D45891FC149A3568E316CE3EBBE201A71A78A69388",
-    "name": "Atom",
-    "symbol": "ATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1"
-  },
-  {
-    "id": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
-    "name": "Polkadot",
-    "symbol": "DOT",
-    "decimals": "6",
-    "type": "ibc"
   },
   {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
@@ -255,119 +34,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
-    "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
-    "name": "Axelar USDC",
-    "symbol": "USDC.axl",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
-  },
-  {
-    "id": "sei108mlhpvgxgl8556lwvf3cxfcw647wch4ear25kxjmp642cn3cdys92splz",
-    "name": "Sei Sink",
-    "symbol": "SINK",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei123gd6c6je3nmtjuvesuwhxphtuxgtuu6gu5ck3h5zcn6qqzzmgaqe85df2",
-    "name": "Seilor",
-    "symbol": "SEILOR",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei128x3ssywy6mgyxhk09e2cfrgke5hxnatdj2j3nvhknkunerc9uas07s6qe",
-    "name": "SUPER SEIYAN",
-    "symbol": "SEIYAN",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei132zrqrk2de8zmu64sy8j7g2hgsc9xse3jfc88py8ufpkla0pu9gsexgu09",
-    "name": "Sei Float",
-    "symbol": "FLOAT",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei138q9c4qyvjx2x3es90feag8dcxmmrlluqrt385enx6h6kt2u9k7skvg2x0",
-    "name": "Sei Cat",
-    "symbol": "CAT",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei147gf64kph3vqg08ql5ryvgd0e8n8xjtpwe8rt2pdt8q8pw5pr0nqqydkqx",
-    "name": "SEIMEN",
-    "symbol": "SEIMEN",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei15e2l4j7uguv7prsakc2c8t4khu5q4lzg458xfdf979m2lw7a870sdsdw0g",
-    "name": "SEITAMA",
-    "symbol": "SEITAMA",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1606hlfm6sxee9ha7myshcyelhqydjfaca6w37wljphkjpt53fzrqlw9y68",
-    "name": "Saiyajin",
-    "symbol": "SAY",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei16aa3whueaddmms3qw0apz7ylddg0vwtw2zugafmccdtrxrwyx0kqwxntat",
-    "name": "Sei Turtles",
-    "symbol": "TURTLE",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei170079k5mejjmstvjz55d2mszfjqpyqzmymym4qsh7vpw8rf2gxasn3cxqz",
-    "name": "SEIYAN",
-    "symbol": "SYAN",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei17u3f46kwhw2zgl4qyx4fyvajkqc7z2vsv3dueg8zt9fuza3tuhxqrnglzs",
-    "name": "Seiyan",
-    "symbol": "SEIYAN",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei17xuceylwqv732dh0365spkp2gna8xrh5vu88edm30yrkyv5a5usq9xzznd",
-    "name": "MICHAEL SEILOR",
-    "symbol": "SEILOR",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1880yzrk7qpgt8lzaaflkqrrw37ck7hkh6g042ad3akzrwcsljv9qm4alfe",
-    "name": "COOK",
-    "symbol": "COOK",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei19t7xf27rr3y6yqtnwj9hdfk0z5sqtpna90nnlvrusy80lwg4xassruaz6l",
-    "name": "Super Seiyan",
-    "symbol": "SEIYAN",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
-    "name": "SEINU",
-    "symbol": "SEINU",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
     "id": "sei1eavtmc4y00a0ed8l9c7l0m7leesv3yetcptklv2kalz4tsgz02mqlvyea6",
     "entity": "Poker Kings",
     "name": "PKS",
@@ -376,13 +42,6 @@
     "type": "cw20",
     "circ_supply_api": "https://index.pokerkings.games/circulating-supply",
     "icon": "https://cloudflare-ipfs.com/ipfs/QmPk6YGTMfmCpHKpb18HeASg3H2iQSd4HiGvdH8zz6ZBkM"
-  },
-  {
-    "id": "sei1frn6x25kg6safkpvscf5t6a63mw5ng3dhehpjmc2rfykvz5r8nyqgx7900",
-    "name": "Wrapped ETH",
-    "symbol": "WETH",
-    "decimals": "6",
-    "type": "cw20"
   },
   {
     "id": "sei1fuanpd4rmwg6sxfuc4mhlku3fsxe7yx7yxv37c5f2ccc2m0juhcsy3q6zq",
@@ -394,6 +53,351 @@
     "circ_supply": "65949000000",
     "total_supply": "69420000000",
     "icon": "https://i.postimg.cc/xCymTfJw/popo.jpg"
+  },
+  {
+    "id": "usei",
+    "entity": "Sei",
+    "name": "SEI",
+    "symbol": "SEI",
+    "decimals": "6",
+    "type": "native",
+    "circ_supply_api": "https://rest.cosmos.directory/sei/cosmos/bank/v1beta1/supply?pagination.key=dXNlaQ%3D%3D",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/sei.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/sei"
+  },
+  {
+    "id": "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B",
+    "entity": "Stride",
+    "name": "Stride",
+    "symbol": "STRD",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
+    "total_supply": "100000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stride",
+    "coingecko": "https://www.coingecko.com/en/coins/stride"
+  },
+  {
+    "id": "factory/sei1x2fgaaqecvk8kwuqkjqcj27clw5p5g99uawdzy9sc4rku8avumcq3cky4k/ampSEI",
+    "name": "ampSEI",
+    "symbol": "ampSEI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.ibb.co/cQPrxng/ampSei.png"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
+    "name": "Arbitrum Wrapped Ether",
+    "symbol": "WETH.arb",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/weth.png"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
+    "name": "Arbitrum Wrapped USDC",
+    "symbol": "USDC.arb",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+  },
+  {
+    "id": "ibc/6CDD4663F2F09CD62285E2D45891FC149A3568E316CE3EBBE201A71A78A69388",
+    "name": "Atom",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1"
+  },
+  {
+    "id": "uatom",
+    "name": "ATOM",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
+    "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
+    "name": "Axelar USDC",
+    "symbol": "USDC.axl",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
+    "name": "BSC Wrapped Ether",
+    "symbol": "WETH.bsc",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/weth.png"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
+    "name": "BSC Wrapped USDC",
+    "symbol": "USDC.bsc",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+  },
+  {
+    "id": "ubtc",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
+    "id": "sei1r5fjagxce2sf3ll8c23falpg534anzha574ldgalafftprv8fznqfktdqc",
+    "name": "CLAM",
+    "symbol": "SHELL",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "factory/sei1cy9uvcrtxfxfsc436ex0j5naszkxdls94l9fqa/cook",
+    "name": "COOK",
+    "symbol": "COOK",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "sei1880yzrk7qpgt8lzaaflkqrrw37ck7hkh6g042ad3akzrwcsljv9qm4alfe",
+    "name": "COOK",
+    "symbol": "COOK",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56",
+    "name": "COOK",
+    "symbol": "COOK",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "ueth",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
+    "id": "sei1r6ka8xrkgklayf2qg22wvc00e7umneuh6j4krz7xuu9h9kyjmzuq0v97hd",
+    "name": "GOKU",
+    "symbol": "GOKU",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hello",
+    "name": "hello",
+    "symbol": "hello",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hellooo",
+    "name": "hellooo",
+    "symbol": "hellooo",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "sei17xuceylwqv732dh0365spkp2gna8xrh5vu88edm30yrkyv5a5usq9xzznd",
+    "name": "MICHAEL SEILOR",
+    "symbol": "SEILOR",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1ys77cs0qsqzx4dvtds0e077qc0sg4k7tg32lcmqemek8g0tpr57s5ckxd7",
+    "name": "MUSK",
+    "symbol": "MUSK",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1smdzpfsy48kmkzmm4m9hsg4850czdvfncxyxp6d4h3j7qv3m4v0slzx8yy",
+    "name": "OIN",
+    "symbol": "OIN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
+    "name": "Optimism Wrapped USDC",
+    "symbol": "USDC.op",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+  },
+  {
+    "id": "uosmo",
+    "name": "OSMO",
+    "symbol": "OSMO",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
+    "id": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
+    "name": "Pirate Dog",
+    "symbol": "PDOG",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
+    "name": "Polygon Wrapped USDC",
+    "symbol": "USDC.matic",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+  },
+  {
+    "id": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
+    "name": "POPO",
+    "symbol": "POPO",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply": "65949000000",
+    "total_supply": "69420000000",
+    "icon": "https://i.postimg.cc/XJMX2bHR/POPO.jpg"
+  },
+  {
+    "id": "sei1tj9g5jsx9q0nl4crmyszjfd3jd3a20k7skqahy6f44s0kmdql8lqnxxd27",
+    "name": "PURRWIFFHAT",
+    "symbol": "PURR",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1nrd3z0ckvhrnz5jhnqth5dmud37xj7p0wh7jaj8cgjxq5exeypts3404de",
+    "name": "RendiCagurMullet69RajaSingaInu",
+    "symbol": "NIGGER",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1606hlfm6sxee9ha7myshcyelhqydjfaca6w37wljphkjpt53fzrqlw9y68",
+    "name": "Saiyajin",
+    "symbol": "SAY",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "factory/sei1g67gjpzn53hc4qsta9jqe7yq40atuqxmuakqkg/sea",
+    "name": "SEA",
+    "symbol": "SEA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "sei1hujt4dydg2lt0yaw8qp6gs3e78fv0tsehp6temwfq28m356v6kmqt9lctc",
+    "name": "SeaDoge",
+    "symbol": "SDOGE",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei138q9c4qyvjx2x3es90feag8dcxmmrlluqrt385enx6h6kt2u9k7skvg2x0",
+    "name": "Sei Cat",
+    "symbol": "CAT",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei132zrqrk2de8zmu64sy8j7g2hgsc9xse3jfc88py8ufpkla0pu9gsexgu09",
+    "name": "Sei Float",
+    "symbol": "FLOAT",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1nnrhfhegm072tlwwme4a0y50q80tnkjjqv2zh0pkrwrj45pqthpsrjmeqd",
+    "name": "Sei Pepe",
+    "symbol": "SPEPE",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei108mlhpvgxgl8556lwvf3cxfcw647wch4ear25kxjmp642cn3cdys92splz",
+    "name": "Sei Sink",
+    "symbol": "SINK",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei16aa3whueaddmms3qw0apz7ylddg0vwtw2zugafmccdtrxrwyx0kqwxntat",
+    "name": "Sei Turtles",
+    "symbol": "TURTLE",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1nzzl2je47vcspyc57tyyg2dlud8j6z7ypj5dsxg7qavlvj27ft0qptj2pu",
+    "name": "Sei-kun",
+    "symbol": "SEIKUN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1myqgapduw9w9dq03n80rxv5ke8kj2wyq9t4gpcxnuxua93cg675s6w8hru",
+    "name": "SEIFMOON",
+    "symbol": "SEIF",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei123gd6c6je3nmtjuvesuwhxphtuxgtuu6gu5ck3h5zcn6qqzzmgaqe85df2",
+    "name": "Seilor",
+    "symbol": "SEILOR",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei147gf64kph3vqg08ql5ryvgd0e8n8xjtpwe8rt2pdt8q8pw5pr0nqqydkqx",
+    "name": "SEIMEN",
+    "symbol": "SEIMEN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
+    "name": "SEINU",
+    "symbol": "SEINU",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei15e2l4j7uguv7prsakc2c8t4khu5q4lzg458xfdf979m2lw7a870sdsdw0g",
+    "name": "SEITAMA",
+    "symbol": "SEITAMA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei17u3f46kwhw2zgl4qyx4fyvajkqc7z2vsv3dueg8zt9fuza3tuhxqrnglzs",
+    "name": "Seiyan",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei170079k5mejjmstvjz55d2mszfjqpyqzmymym4qsh7vpw8rf2gxasn3cxqz",
+    "name": "SEIYAN",
+    "symbol": "SYAN",
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "sei1hdkln2sqvnqxqszt9smtghsaynk55zklu84wxn5nrnul04vtj7asqx56gh",
@@ -410,9 +414,91 @@
     "type": "cw20"
   },
   {
-    "id": "sei1hujt4dydg2lt0yaw8qp6gs3e78fv0tsehp6temwfq28m356v6kmqt9lctc",
-    "name": "SeaDoge",
-    "symbol": "SDOGE",
+    "id": "sei1mkgwu4lphqsmedgzvs5ygevltad6d8dej628kpqsegfvzfs0jelscnpj2a",
+    "name": "SEIYAN",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1ytdfwyll87lfez79sp4a4jjyhk6jyptsh7c0kq4367r0lmrfj2uqaz8lm9",
+    "name": "SEIYAN",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1t7dag5t35mqcy5kldqljnf05wwqs0sqzxfkxcz0k547pp5ulxsnqdr77lx",
+    "name": "SEIYAN DOGE",
+    "symbol": "SEIDOGE",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
+    "name": "SEIZE Token",
+    "symbol": "SEIZE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
+    "name": "Sensei",
+    "symbol": "SENSEI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply": "1000000000",
+    "icon": "https://sei.astroport.fi/tokens/generated/sensei.png"
+  },
+  {
+    "id": "sei1y6t2swnwjewa07hxeuv3pvxd9x9vc8chtwtfz8awpyex0tuurp9qkdzq66",
+    "name": "sey",
+    "symbol": "sey",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1u64lf822gs28jv065a2ufk3w87ulqe9rthr2c8hhwf2dmvyf4thqdltv06",
+    "name": "Shaylushay",
+    "symbol": "SLS",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
+    "name": "Solana Wrapped USDC",
+    "symbol": "USDC.sol",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+  },
+  {
+    "id": "ibc/52BDB3EFE4EC2AA5086F16A93772F5F9B503FF818F3B9494AE5AA2C304C6FF49",
+    "name": "Stride Staked ATOM",
+    "symbol": "stATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg"
+  },
+  {
+    "id": "factory/sei1cj8e3mngwhdnlm850nzuz2p45pa6j878pdwyng/SEIYAN",
+    "name": "Super Seiyan",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "sei19t7xf27rr3y6yqtnwj9hdfk0z5sqtpna90nnlvrusy80lwg4xassruaz6l",
+    "name": "Super Seiyan",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1an9ssaevrmm7atpuf6tllfpvstgn6wx3clzer9nc98vqa025czfsdp883f",
+    "name": "Super Seiyan",
+    "symbol": "SuperSeiyan",
     "decimals": "6",
     "type": "cw20"
   },
@@ -438,114 +524,6 @@
     "type": "cw20"
   },
   {
-    "id": "sei1mkgwu4lphqsmedgzvs5ygevltad6d8dej628kpqsegfvzfs0jelscnpj2a",
-    "name": "SEIYAN",
-    "symbol": "SEIYAN",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1myqgapduw9w9dq03n80rxv5ke8kj2wyq9t4gpcxnuxua93cg675s6w8hru",
-    "name": "SEIFMOON",
-    "symbol": "SEIF",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1n4mn9j8fcruzv0xf5ccuavjg8hxp75n2c4vme6yp0awlhx4g8qzs6nzseh",
-    "name": "Wrapped STRD",
-    "symbol": "USTRD",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1nnrhfhegm072tlwwme4a0y50q80tnkjjqv2zh0pkrwrj45pqthpsrjmeqd",
-    "name": "Sei Pepe",
-    "symbol": "SPEPE",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1nrd3z0ckvhrnz5jhnqth5dmud37xj7p0wh7jaj8cgjxq5exeypts3404de",
-    "name": "RendiCagurMullet69RajaSingaInu",
-    "symbol": "NIGGER",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1nzzl2je47vcspyc57tyyg2dlud8j6z7ypj5dsxg7qavlvj27ft0qptj2pu",
-    "name": "Sei-kun",
-    "symbol": "SEIKUN",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56",
-    "name": "COOK",
-    "symbol": "COOK",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1r5fjagxce2sf3ll8c23falpg534anzha574ldgalafftprv8fznqfktdqc",
-    "name": "CLAM",
-    "symbol": "SHELL",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1r6ka8xrkgklayf2qg22wvc00e7umneuh6j4krz7xuu9h9kyjmzuq0v97hd",
-    "name": "GOKU",
-    "symbol": "GOKU",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1sfty5rryknlc0x9tm36pvpcsyknem80fwsltctxk3w863suxltwqd0mcht",
-    "name": "TITANIC",
-    "symbol": "TITANIC",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
-    "name": "POPO",
-    "symbol": "POPO",
-    "decimals": "6",
-    "type": "cw20",
-    "circ_supply": "65949000000",
-    "total_supply": "69420000000",
-    "icon": "https://i.postimg.cc/XJMX2bHR/POPO.jpg"
-  },
-  {
-    "id": "sei1smdzpfsy48kmkzmm4m9hsg4850czdvfncxyxp6d4h3j7qv3m4v0slzx8yy",
-    "name": "OIN",
-    "symbol": "OIN",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1t7dag5t35mqcy5kldqljnf05wwqs0sqzxfkxcz0k547pp5ulxsnqdr77lx",
-    "name": "SEIYAN DOGE",
-    "symbol": "SEIDOGE",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1tj9g5jsx9q0nl4crmyszjfd3jd3a20k7skqahy6f44s0kmdql8lqnxxd27",
-    "name": "PURRWIFFHAT",
-    "symbol": "PURR",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1u64lf822gs28jv065a2ufk3w87ulqe9rthr2c8hhwf2dmvyf4thqdltv06",
-    "name": "Shaylushay",
-    "symbol": "SLS",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
     "id": "sei1udm2gqns5wjag2kl58u9g4lywm4ax3cu958mxz5tnfp36cwu4jasfym3u5",
     "name": "Super Seiyan",
     "symbol": "SEIYAN",
@@ -560,29 +538,15 @@
     "type": "cw20"
   },
   {
-    "id": "sei1y6t2swnwjewa07hxeuv3pvxd9x9vc8chtwtfz8awpyex0tuurp9qkdzq66",
-    "name": "sey",
-    "symbol": "sey",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1yg8jlvz5mmddt9wva46pzkjj80hryhhydc8sjan80d5d9ez50dhq0fz8wk",
-    "name": "SUPERSEIYAN9000",
+    "id": "sei1zrxrexcvp9vgu00d3fuqhwwnuwn429nt8gwp3864qled9gtvlj2sq7evdh",
+    "name": "Super Seiyan",
     "symbol": "SEIYAN",
     "decimals": "6",
     "type": "cw20"
   },
   {
-    "id": "sei1ys77cs0qsqzx4dvtds0e077qc0sg4k7tg32lcmqemek8g0tpr57s5ckxd7",
-    "name": "MUSK",
-    "symbol": "MUSK",
-    "decimals": "6",
-    "type": "cw20"
-  },
-  {
-    "id": "sei1ytdfwyll87lfez79sp4a4jjyhk6jyptsh7c0kq4367r0lmrfj2uqaz8lm9",
-    "name": "SEIYAN",
+    "id": "sei128x3ssywy6mgyxhk09e2cfrgke5hxnatdj2j3nvhknkunerc9uas07s6qe",
+    "name": "SUPER SEIYAN",
     "symbol": "SEIYAN",
     "decimals": "6",
     "type": "cw20"
@@ -595,57 +559,25 @@
     "type": "cw20"
   },
   {
-    "id": "sei1zrxrexcvp9vgu00d3fuqhwwnuwn429nt8gwp3864qled9gtvlj2sq7evdh",
-    "name": "Super Seiyan",
+    "id": "sei1yg8jlvz5mmddt9wva46pzkjj80hryhhydc8sjan80d5d9ez50dhq0fz8wk",
+    "name": "SUPERSEIYAN9000",
     "symbol": "SEIYAN",
     "decimals": "6",
     "type": "cw20"
   },
   {
-    "id": "sei1zx373qvk4vwuvjc5nhl84u85tvhrsp8vd58p0ypvt9ktant52x7sn3zf09",
-    "name": "Wrapped SEI",
-    "symbol": "USEI",
+    "id": "factory/sei1t9k0adfpn8rxwcvedafku5595ue73pl3m86anr/tirso",
+    "name": "tirso",
+    "symbol": "tirso",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "sei1sfty5rryknlc0x9tm36pvpcsyknem80fwsltctxk3w863suxltwqd0mcht",
+    "name": "TITANIC",
+    "symbol": "TITANIC",
     "decimals": "6",
     "type": "cw20"
-  },
-  {
-    "id": "uatom",
-    "name": "ATOM",
-    "symbol": "ATOM",
-    "decimals": "6",
-    "type": "native"
-  },
-  {
-    "id": "ubtc",
-    "name": "BTC",
-    "symbol": "BTC",
-    "decimals": "6",
-    "type": "native"
-  },
-  {
-    "id": "ueth",
-    "name": "ETH",
-    "symbol": "ETH",
-    "decimals": "6",
-    "type": "native"
-  },
-  {
-    "id": "uosmo",
-    "name": "OSMO",
-    "symbol": "OSMO",
-    "decimals": "6",
-    "type": "native"
-  },
-  {
-    "id": "usei",
-    "entity": "Sei",
-    "name": "SEI",
-    "symbol": "SEI",
-    "decimals": "6",
-    "type": "native",
-    "circ_supply_api": "https://rest.cosmos.directory/sei/cosmos/bank/v1beta1/supply?pagination.key=dXNlaQ%3D%3D",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/sei.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/sei"
   },
   {
     "id": "uusdc",
@@ -660,5 +592,80 @@
     "symbol": "USDT",
     "decimals": "6",
     "type": "native"
+  },
+  {
+    "id": "ibc/6ACE79F5ABD607D2075FAD4ABE284CBC5BB6A96C16555FFB901644E9D17411AC",
+    "name": "Whale",
+    "symbol": "WHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://app.whitewhale.money/logos/whale.svg"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
+    "name": "Wormhole BSC USDT",
+    "symbol": "USDT.bsc",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/usdt.svg"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
+    "name": "Wormhole Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "sei1frn6x25kg6safkpvscf5t6a63mw5ng3dhehpjmc2rfykvz5r8nyqgx7900",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://sei.astroport.fi/tokens/weth.png"
+  },
+  {
+    "id": "sei1zx373qvk4vwuvjc5nhl84u85tvhrsp8vd58p0ypvt9ktant52x7sn3zf09",
+    "name": "Wrapped SEI",
+    "symbol": "USEI",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1n4mn9j8fcruzv0xf5ccuavjg8hxp75n2c4vme6yp0awlhx4g8qzs6nzseh",
+    "name": "Wrapped STRD",
+    "symbol": "USTRD",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
+    "name": "Wrapped Tether USD",
+    "symbol": "USDT.eth",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
+  },
+  {
+    "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
+    "name": "Wrapped USD Coin",
+    "symbol": "USDC.eth",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+  },
+  {
+    "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/xxx",
+    "name": "xxx",
+    "symbol": "xxx",
+    "decimals": "6",
+    "type": "tokenfactory"
   }
 ]
