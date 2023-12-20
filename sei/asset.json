@@ -153,6 +153,20 @@
     "type": "tokenfactory"
   },
   {
+    "id": "sei1880yzrk7qpgt8lzaaflkqrrw37ck7hkh6g042ad3akzrwcsljv9qm4alfe",
+    "name": "COOK",
+    "symbol": "COOK",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56",
+    "name": "COOK",
+    "symbol": "COOK",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "ueth",
     "name": "ETH",
     "symbol": "ETH",
@@ -227,6 +241,13 @@
   {
     "id": "sei1sl9rtc309zfk304yqjymsxj3rwkh8wlngc32zx4wjap03ndvjt7sxkm7yu",
     "name": "POPO",
+    "symbol": "POPO",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1fuanpd4rmwg6sxfuc4mhlku3fsxe7yx7yxv37c5f2ccc2m0juhcsy3q6zq",
+    "name": "Popo The Cat",
     "symbol": "POPO",
     "decimals": "6",
     "type": "cw20"
@@ -316,6 +337,13 @@
     "type": "cw20"
   },
   {
+    "id": "sei147gf64kph3vqg08ql5ryvgd0e8n8xjtpwe8rt2pdt8q8pw5pr0nqqydkqx",
+    "name": "SEIMEN",
+    "symbol": "SEIMEN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei1ajwmaynzjuekhs2tyv7qvvsu8dnw5d5ug0suzvt3353rz0t5ltwsflty4r",
     "name": "SEINU",
     "symbol": "SEINU",
@@ -323,9 +351,23 @@
     "type": "cw20"
   },
   {
+    "id": "sei15e2l4j7uguv7prsakc2c8t4khu5q4lzg458xfdf979m2lw7a870sdsdw0g",
+    "name": "SEITAMA",
+    "symbol": "SEITAMA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei17u3f46kwhw2zgl4qyx4fyvajkqc7z2vsv3dueg8zt9fuza3tuhxqrnglzs",
     "name": "Seiyan",
     "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei170079k5mejjmstvjz55d2mszfjqpyqzmymym4qsh7vpw8rf2gxasn3cxqz",
+    "name": "SEIYAN",
+    "symbol": "SYAN",
     "decimals": "6",
     "type": "cw20"
   },
@@ -358,11 +400,20 @@
     "type": "cw20"
   },
   {
+    "id": "sei1t7dag5t35mqcy5kldqljnf05wwqs0sqzxfkxcz0k547pp5ulxsnqdr77lx",
+    "name": "SEIYAN DOGE",
+    "symbol": "SEIDOGE",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
     "name": "Sensei",
     "symbol": "SENSEI",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "total_supply": "1000000000",
+    "icon": "https://sei.astroport.fi/tokens/generated/sensei.png"
   },
   {
     "id": "sei1y6t2swnwjewa07hxeuv3pvxd9x9vc8chtwtfz8awpyex0tuurp9qkdzq66",
@@ -394,6 +445,13 @@
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg"
+  },
+  {
+    "id": "factory/sei1cj8e3mngwhdnlm850nzuz2p45pa6j878pdwyng/SEIYAN",
+    "name": "Super Seiyan",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "sei19t7xf27rr3y6yqtnwj9hdfk0z5sqtpna90nnlvrusy80lwg4xassruaz6l",
@@ -508,6 +566,13 @@
     "symbol": "WBTC",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "sei1frn6x25kg6safkpvscf5t6a63mw5ng3dhehpjmc2rfykvz5r8nyqgx7900",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
