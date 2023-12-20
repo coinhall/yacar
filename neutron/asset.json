@@ -1,5 +1,70 @@
 [
   {
+    "id": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt",
+    "name": "Newt",
+    "symbol": "NEWT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "21000000",
+    "total_supply": "21000000",
+    "icon": "https://newt-price.vercel.app/newt-logo.png"
+  },
+  {
+    "id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
+    "name": "Lido wstETH",
+    "symbol": "wstETH",
+    "decimals": "18",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
+    "name": "DOT",
+    "symbol": "DOT",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/2CB87BCE0937B1D1DFCEE79BE4501AAF3C265E923509AEAC410AD85D27F35130",
+    "name": "DYDX",
+    "symbol": "DYDX",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply": "180263182",
+    "total_supply": "1000000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/dydx"
+  },
+  {
+    "id": "ibc/3649CE0C8A2C79048D8C6F31FF18FA69C9BC7EB193512E0BD03B733011290445",
+    "name": "PSTAKE ATOM",
+    "symbol": "stkATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.png"
+  },
+  {
+    "id": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
+    "name": "Osmosis",
+    "symbol": "OSMO",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/4D04085167777659C11784A356D6B0D13D5C7F0CE77F7DB1152FE03A2DE2CBF2",
+    "name": "wstETH",
+    "symbol": "wstETH",
+    "decimals": "18",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdt.svg"
+  },
+  {
     "id": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
     "entity": "Astroport",
     "name": "Astroport",
@@ -8,6 +73,65 @@
     "type": "ibc",
     "circ_supply_api": "https://markets-api.astroport.fi/protocol/circulating-supply",
     "icon": "https://app.astroport.fi/tokens/astro.svg"
+  },
+  {
+    "id": "ibc/5A027DC380009335DC96374937E7AA5D7D45FA710E9A0AE76854541441026E11",
+    "name": "Kusama",
+    "symbol": "KSM",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/6C9E6701AC217C0FC7D74B0F7A6265B9B4E3C3CDA6E80AADE5F950A8F52F9972",
+    "name": "NLS",
+    "symbol": "NLS",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
+    "name": "Celestia",
+    "symbol": "TIA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply": "141043527",
+    "total_supply": "1000000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
+  },
+  {
+    "id": "ibc/7ACF670DA8DA24B5999A0D17247C7F4349AB1038FC4FA76A3AF50AFDE407B258",
+    "name": "vDOT",
+    "symbol": "vDOT",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
+    "name": "Mars",
+    "symbol": "MARS",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://status.marsprotocol.io/cs",
+    "total_supply": "1000000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
+  },
+  {
+    "id": "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D",
+    "name": "Wrapped Ether (wei)",
+    "symbol": "wETH",
+    "decimals": "18",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
+    "entity": "Stride",
+    "name": "stATOM",
+    "symbol": "stATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
   },
   {
     "id": "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
@@ -35,17 +159,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
   },
   {
-    "id": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
-    "entity": "Stride",
-    "name": "stATOM",
-    "symbol": "stATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
-  },
-  {
     "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "name": "Axelar USDC",
     "symbol": "axlUSDC",
@@ -54,63 +167,11 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg"
   },
   {
-    "id": "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
-    "name": "Celestia",
-    "symbol": "TIA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply": "141043527",
-    "total_supply": "1000000000",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
-  },
-  {
     "id": "neutron149tpx0nequ0cpctw06nk29hwfps0343wvwfh6tkhju3ra7hxvpeq8pvstf",
     "name": "CW20-wrapped factory/neutron1ug740qrkquxzrk2hh29qr",
     "symbol": "FACTORY/",
     "decimals": "18",
     "type": "cw20"
-  },
-  {
-    "id": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
-    "name": "DOT",
-    "symbol": "DOT",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/2CB87BCE0937B1D1DFCEE79BE4501AAF3C265E923509AEAC410AD85D27F35130",
-    "name": "DYDX",
-    "symbol": "DYDX",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply": "180263182",
-    "total_supply": "1000000000",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/dydx"
-  },
-  {
-    "id": "ibc/5A027DC380009335DC96374937E7AA5D7D45FA710E9A0AE76854541441026E11",
-    "name": "Kusama",
-    "symbol": "KSM",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
-    "name": "Lido wstETH",
-    "symbol": "wstETH",
-    "decimals": "18",
-    "type": "tokenfactory"
-  },
-  {
-    "id": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
-    "name": "Mars",
-    "symbol": "MARS",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://status.marsprotocol.io/cs",
-    "total_supply": "1000000000",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
   },
   {
     "id": "untrn",
@@ -121,66 +182,5 @@
     "circ_supply_api": "https://info.neutron.org/v1/circulating_supply",
     "total_supply_api": "https://rest.cosmos.directory/neutron/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg"
-  },
-  {
-    "id": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt",
-    "name": "Newt",
-    "symbol": "NEWT",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "circ_supply": "21000000",
-    "total_supply": "21000000",
-    "icon": "https://newt-price.vercel.app/newt-logo.png"
-  },
-  {
-    "id": "ibc/6C9E6701AC217C0FC7D74B0F7A6265B9B4E3C3CDA6E80AADE5F950A8F52F9972",
-    "name": "NLS",
-    "symbol": "NLS",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
-    "name": "Osmosis",
-    "symbol": "OSMO",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/3649CE0C8A2C79048D8C6F31FF18FA69C9BC7EB193512E0BD03B733011290445",
-    "name": "PSTAKE ATOM",
-    "symbol": "stkATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.png"
-  },
-  {
-    "id": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
-    "name": "USDT",
-    "symbol": "USDT",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdt.svg"
-  },
-  {
-    "id": "ibc/7ACF670DA8DA24B5999A0D17247C7F4349AB1038FC4FA76A3AF50AFDE407B258",
-    "name": "vDOT",
-    "symbol": "vDOT",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D",
-    "name": "Wrapped Ether (wei)",
-    "symbol": "wETH",
-    "decimals": "18",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/4D04085167777659C11784A356D6B0D13D5C7F0CE77F7DB1152FE03A2DE2CBF2",
-    "name": "wstETH",
-    "symbol": "wstETH",
-    "decimals": "18",
-    "type": "ibc"
   }
 ]
