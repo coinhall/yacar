@@ -10,16 +10,6 @@
     "icon": "https://gblobscdn.gitbook.com/spaces%2F-Mf4Y6TIGwMtHEN3AaXV%2Favatar-1626907729941.png?alt=media"
   },
   {
-    "id": "terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv",
-    "entity": "Altered Protocol UNKNOWN",
-    "name": "Altered",
-    "symbol": "ALTE",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://lcd.terrarebels.net/cosmwasm/wasm/v1/contract/terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://gblobscdn.gitbook.com/spaces%2F-Mf4Y6TIGwMtHEN3AaXV%2Favatar-1626907729941.png?alt=media"
-  },
-  {
     "id": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
     "entity": "Anchor Protocol",
     "name": "Anchor Token",
@@ -1343,27 +1333,6 @@
     "type": "cw20"
   },
   {
-    "id": "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
-    "entity": "LBUN_Project",
-    "name": "Burn and Stake Enterprise Token",
-    "symbol": "BASE",
-    "decimals": "6",
-    "type": "cw20",
-    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/793058e47634d50ec157d52f721dd634de4fa518/src/images/Token/LBUNC_256.png",
-    "verification_tx": "71C20F33FB244F2D317D922697E255DD97C2ADB21D788B7E8FDAA7E278D3DBEB"
-  },
-  {
-    "id": "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp",
-    "entity": "Lira Financial",
-    "name": "Lira",
-    "symbol": "LIRA",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://lira.financial/images/icons/lira.svg"
-  },
-  {
     "id": "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
     "entity": "Loop Finance",
     "name": "Loop Finance",
@@ -1429,17 +1398,6 @@
     "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/logo.png",
     "verification_tx": "BB45DE9B98E844D4A3D6BDB0E06684A4E95B3B55FB132AE5DBF2EF1A037241AD"
-  },
-  {
-    "id": "terra1m3tdguf59xq3pa2twk5fjte5g6szj5y9x5npy7",
-    "entity": "LUNI",
-    "name": "LUNI",
-    "symbol": "LUNI",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://d2s3n99uw51hng.cloudfront.net/static/100_100_LUNI_logo.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/luni",
-    "coingecko": "https://www.coingecko.com/en/coins/luni"
   },
   {
     "id": "terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n",
@@ -2960,6 +2918,17 @@
     "decimals": "0",
     "type": "cw20",
     "icon": "https://c2x.world/c2x-station/icon/BSTfancard.png"
+  },
+  {
+    "id": "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
+    "name": "Burn and Stake Enterprise Token",
+    "symbol": "BASE",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/793058e47634d50ec157d52f721dd634de4fa518/src/images/Token/LBUNC_256.png",
+    "verification_tx": "71C20F33FB244F2D317D922697E255DD97C2ADB21D788B7E8FDAA7E278D3DBEB"
   },
   {
     "id": "terra13zs7w76g0u4qgagcen6vq92wxuvgfucr3dy4tm",
@@ -4994,6 +4963,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp",
+    "name": "Lira",
+    "symbol": "LIRA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://lira.financial/images/icons/lira.svg"
+  },
+  {
     "id": "terra1m9fuqymdz03umd88guyc79083hd7vppzu74vck",
     "name": "Little Terra",
     "symbol": "LTT",
@@ -5260,6 +5237,16 @@
     "symbol": "OPZC",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1m3tdguf59xq3pa2twk5fjte5g6szj5y9x5npy7",
+    "name": "LUNI",
+    "symbol": "LUNI",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://d2s3n99uw51hng.cloudfront.net/static/100_100_LUNI_logo.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/luni",
+    "coingecko": "https://www.coingecko.com/en/coins/luni"
   },
   {
     "id": "terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4",

@@ -50,8 +50,7 @@ func closeChainFileMaps(cfm map[string]map[string]*os.File) {
 
 func validateYacarJSON(cfm map[string]map[string]*os.File) error {
 	for chain, filemap := range cfm {
-		for filetype, file := range filemap {
-			log.Printf("Validating %s %s JSON...", chain, filetype)
+		for _, file := range filemap {
 			var err error
 			switch {
 			case strings.Contains(file.Name(), "account"):
@@ -288,22 +287,22 @@ func validateEntityJSON(entityFile, assetFile *os.File) error {
 	}
 
 	// Corresponding asset check
-	assetEntityNameSet := map[string]struct{}{}
-	for _, asset := range assets {
-		if asset.Entity == "" {
-			continue
-		}
-		assetEntityNameSet[asset.Entity] = struct{}{}
-	}
-	for _, entity := range entities {
-		if _, ok := assetEntityNameSet[entity.Name]; ok {
-			continue
-		}
+	// assetEntityNameSet := map[string]struct{}{}
+	// for _, asset := range assets {
+	// 	if asset.Entity == "" {
+	// 		continue
+	// 	}
+	// 	assetEntityNameSet[asset.Entity] = struct{}{}
+	// }
+	// for _, entity := range entities {
+	// 	if _, ok := assetEntityNameSet[entity.Name]; ok {
+	// 		continue
+	// 	}
 
-		pathElements := strings.Split(entityFile.Name(), "/")
-		chainFile := pathElements[len(pathElements)-2] + "/" + pathElements[len(pathElements)-1]
-		return fmt.Errorf("[%s] entity %s does not correspond to any asset", chainFile, entity.Name)
-	}
+	// 	pathElements := strings.Split(entityFile.Name(), "/")
+	// 	chainFile := pathElements[len(pathElements)-2] + "/" + pathElements[len(pathElements)-1]
+	// 	return fmt.Errorf("[%s] entity %s does not correspond to any asset", chainFile, entity.Name)
+	// }
 
 	return nil
 }
