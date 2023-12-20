@@ -42,7 +42,7 @@
     "symbol": "USDC.bsc",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
@@ -50,7 +50,7 @@
     "symbol": "USDC.op",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
@@ -66,7 +66,7 @@
     "symbol": "USDC.arb",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
@@ -81,7 +81,7 @@
     "symbol": "USDT.bsc",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdt.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
@@ -89,7 +89,7 @@
     "symbol": "USDC.sol",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
@@ -113,7 +113,7 @@
     "symbol": "USDC.matic",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://sei.astroport.fi/tokens/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
@@ -305,9 +305,23 @@
     "type": "cw20"
   },
   {
+    "id": "sei13xgn9yyctawx2cjns56jwzuu9eyzy5ee0pyyp3kgdnzfhrphtrwqf02qf9",
+    "name": "KAKAROT",
+    "symbol": "KAKAROT",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei147gf64kph3vqg08ql5ryvgd0e8n8xjtpwe8rt2pdt8q8pw5pr0nqqydkqx",
     "name": "SEIMEN",
     "symbol": "SEIMEN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei14hfp382sevy74c86n4x39kkjnh90vaqn7w8ddj6u2dfa5l0rcfqq7rf4p3",
+    "name": "Moon meme coin",
+    "symbol": "MMC",
     "decimals": "6",
     "type": "cw20"
   },
@@ -336,6 +350,20 @@
     "id": "sei170079k5mejjmstvjz55d2mszfjqpyqzmymym4qsh7vpw8rf2gxasn3cxqz",
     "name": "SEIYAN",
     "symbol": "SYAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1798pc2acfc3j6cgmflghcwnvvfwj2hjxmwk99q3u890e6ml8p20sj7xpde",
+    "name": "seiCOQ",
+    "symbol": "COQ",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei17hsarv53vlxsr40apaaguxyzz42rqqjwzqtw9ldnfdgfdsxvwnrs2jly2w",
+    "name": "TEST",
+    "symbol": "TEST",
     "decimals": "6",
     "type": "cw20"
   },
@@ -392,6 +420,34 @@
     "icon": "https://cloudflare-ipfs.com/ipfs/QmPk6YGTMfmCpHKpb18HeASg3H2iQSd4HiGvdH8zz6ZBkM"
   },
   {
+    "id": "sei1ev42wmamw00czg8h7k5vgjpfk5hxzs348vzt0twqup03gmf0gaesrjgtrr",
+    "name": "plm",
+    "symbol": "plm",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1evecl5ppj8lt867teruvccphf8tq9wgvgqz7s6laekt5gwdps0us4umz3m",
+    "name": "KAMEHAMEHA",
+    "symbol": "KAMEHAMEHA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1ezpjgj6pkqshzs7qjggpyqf8xdrvnev23fgl9s6j5ts5hxrumfgqtpv7je",
+    "name": "huh?",
+    "symbol": "HUH",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1f67th8snp4h78zklkdqt96z36qkgam8pwt4c4argkz78z22kf5hsh2ygk9",
+    "name": "TEST",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei1frn6x25kg6safkpvscf5t6a63mw5ng3dhehpjmc2rfykvz5r8nyqgx7900",
     "name": "Wrapped ETH",
     "symbol": "WETH",
@@ -410,6 +466,20 @@
     "icon": "https://i.postimg.cc/xCymTfJw/popo.jpg"
   },
   {
+    "id": "sei1gyljnhgj5v3k2dxgktdcl0ju7cpft3tfp5uj4n0qtkm86xchc5fs03crw5",
+    "name": "NAMEKIAN",
+    "symbol": "NAMEKIAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1hcxmdmwq3ly9ljyxgqedjz6h0eazmlsyzq747jhcpkqtqk2a7guq4xklk6",
+    "name": "SasukeOnSei",
+    "symbol": "SEISUKE",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei1hdkln2sqvnqxqszt9smtghsaynk55zklu84wxn5nrnul04vtj7asqx56gh",
     "name": "SEIYAN",
     "symbol": "SEIYAN",
@@ -418,10 +488,13 @@
   },
   {
     "id": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed",
+    "entity": "SEIYAN",
     "name": "SEIYAN",
     "symbol": "SEIYAN",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply": "1000000000",
+    "icon": "https://i.ibb.co/WkDdB9x/seiyanlogomain.png"
   },
   {
     "id": "sei1hujt4dydg2lt0yaw8qp6gs3e78fv0tsehp6temwfq28m356v6kmqt9lctc",
@@ -431,9 +504,30 @@
     "type": "cw20"
   },
   {
+    "id": "sei1jr6y8k7h5zhsg9ssf9jt4v0x30dtzx5hp0getj7w99k66xrme7zs7j2kfh",
+    "name": "Seints",
+    "symbol": "Seints",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei1jswdnkzt2yyey3l93d3kq8gu9jf29rf5l0w5djnl52pccrzr9atstgfk9u",
     "name": "Super Seiyan",
     "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1jyaxjnxh56ypztdt3evmqx6wy575c0en6h5cnjfccldhf46sklnqc22jah",
+    "name": "PopSea",
+    "symbol": "POPCAT",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1l0wl79qcq5l86ug55av9c3f4gglnj2qknugl4p4hj5j2nn47tc3sl5wxk7",
+    "name": "SeyHodl",
+    "symbol": "SeyHodl",
     "decimals": "6",
     "type": "cw20"
   },
@@ -510,6 +604,20 @@
     "total_supply": "1000000000"
   },
   {
+    "id": "sei1q5zc85qrxy4hmv0p0ddz87ae7yxzg4as8ay4hd93nykz2804qz9qm43j88",
+    "name": "GohanLoveSeiyans",
+    "symbol": "Gohan",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1r0jnnkltr549jfd8wnrla905npzxhlf529navt4zm2y2szzqqeqsxu7dgu",
+    "name": "MRPOPO",
+    "symbol": "POPO",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei1r5fjagxce2sf3ll8c23falpg534anzha574ldgalafftprv8fznqfktdqc",
     "name": "CLAM",
     "symbol": "SHELL",
@@ -555,6 +663,13 @@
     "type": "cw20"
   },
   {
+    "id": "sei1snc598e7n6zwcgvqlexheunwz050fn4geaxh9v7lmh6cr0vhktzsmskxyl",
+    "name": "SeiPimp",
+    "symbol": "PIMP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei1t7dag5t35mqcy5kldqljnf05wwqs0sqzxfkxcz0k547pp5ulxsnqdr77lx",
     "name": "SEIYAN DOGE",
     "symbol": "SEIDOGE",
@@ -565,6 +680,13 @@
     "id": "sei1tj9g5jsx9q0nl4crmyszjfd3jd3a20k7skqahy6f44s0kmdql8lqnxxd27",
     "name": "PURRWIFFHAT",
     "symbol": "PURR",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1tmf8rygm8tckjzvc9c7xadpcpw7rw0dflhq6gnq8kkkkes94rkqsxjdt39",
+    "name": "MOON",
+    "symbol": "MOON",
     "decimals": "6",
     "type": "cw20"
   },
@@ -595,6 +717,24 @@
     "symbol": "SEIYAN",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "sei1x04puh5c32uj4z8wcakdufguyhcx42mrx8au4r53fthwd8nlm2cq7dypja",
+    "name": "REDMOON",
+    "symbol": "REDM",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1xgjh9np0nsj7qfawu7wmq5xkjtm4ghw2rat369yymca84s58u3pssq2snk",
+    "entity": "SEINE",
+    "name": "SEINE",
+    "symbol": "SEINE",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply": "100000000",
+    "total_supply": "100000000",
+    "icon": "https://i.ibb.co/fGLLFvF/seine.png"
   },
   {
     "id": "sei1y6t2swnwjewa07hxeuv3pvxd9x9vc8chtwtfz8awpyex0tuurp9qkdzq66",
