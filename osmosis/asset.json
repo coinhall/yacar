@@ -9,6 +9,27 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo19esh5d4xj7cyw9c307wlvdcwhqvl0pyexc8xxmccycv9vhgrzptqczzqlp/otf",
+    "name": "Osmosis Token Factory",
+    "symbol": "OTF",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/osmo1aj076qd054wupmpx9amah3ugh2rv0qs4n9j3l4lac8lhtswk78wq7e2ctf/tkf",
+    "name": "Talkitty Foundation",
+    "symbol": "TKF",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/osmo1dplap7yq5sh0tepjente05rsyhvfnpfxa5r453hht27puuv6zx7qh34w32/bndao",
+    "name": "Binary Nexus DAO",
+    "symbol": "BNDAO",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/osmo1dv8wz09tckslr2wy5z86r46dxvegylhpt97r9yd6qc3kyc6tv42qa89dr9/ampOSMO",
     "name": "ERIS Amplified OSMO",
     "symbol": "ampOSMO",
@@ -54,6 +75,13 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1jjygfcyx83kp0kssma9svcswsew2szypwgj97j6er2szqx4hlm8sh5cpna/tsst",
+    "name": "TestDaoToken",
+    "symbol": "TSST",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
     "name": "Levana",
     "symbol": "LVN",
@@ -61,6 +89,20 @@
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "factory/osmo1rt94tf24fm42qpnqvjm5tsr2t5k2rgtl0m0ykf4r5wm03czcysysce0k3z/tst",
+    "name": "Test Dao Token",
+    "symbol": "TST",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/osmo1rvqhc4yp8aqvsuz0wv23lewa4ucgvzvjv6zrdktcp39c6h5nd09q98r9tt/ctc",
+    "name": "ctaurus",
+    "symbol": "ctc",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "factory/osmo1s794h9rxggytja3a4pmwul53u98k06zy2qtrdvjnfuxruh7s8yjs6cyxgd/ucdt",
@@ -79,6 +121,13 @@
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/MBRN.svg",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "factory/osmo1wh8arjgtpdgyf9rlw3k960kkx0943hy92n20sg4pjyk8grc6dhzsunuchs/ctc",
+    "name": "cTaurus",
+    "symbol": "cTc",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "factory/osmo1xqw2sl9zk8a6pch0csaw78n4swg5ws8t62wc5qta4gnjxfqg6v2qcs243k/stuibcx",

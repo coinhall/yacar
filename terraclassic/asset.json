@@ -11144,6 +11144,7 @@
   },
   {
     "id": "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
+    "entity": "Burn and Stake Enterprise Token",
     "name": "Burn and Stake Enterprise Token",
     "symbol": "BASE",
     "decimals": "6",
@@ -11869,6 +11870,13 @@
     "id": "terra1weq8rdufgk08wtx8ret4us6jppqrjsl4kqpee4",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9",
+    "name": "Frogztrik NFT Token",
+    "symbol": "FROG",
     "decimals": "6",
     "type": "cw20"
   },
@@ -13226,6 +13234,13 @@
     "icon": "https://assets.terra.money/icon/60/HKT.png"
   },
   {
+    "id": "uidr",
+    "name": "IDR TERRA",
+    "symbol": "IDT",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
     "id": "uinr",
     "name": "INT",
     "symbol": "INT",
@@ -13276,6 +13291,27 @@
     "icon": "https://assets.terra.money/icon/60/MNT.png"
   },
   {
+    "id": "umyr",
+    "name": "MYR TERRA",
+    "symbol": "MYT",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
+    "id": "unok",
+    "name": "NOK TERRA",
+    "symbol": "NOT",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
+    "id": "uphp",
+    "name": "PHP TERRA",
+    "symbol": "PHT",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
     "id": "usdr",
     "name": "SDT",
     "symbol": "SDT",
@@ -13306,6 +13342,13 @@
     "decimals": "6",
     "type": "native",
     "icon": "https://assets.terra.money/icon/60/THT.png"
+  },
+  {
+    "id": "utwd",
+    "name": "TWD TERRA",
+    "symbol": "TWT",
+    "decimals": "6",
+    "type": "native"
   },
   {
     "id": "uusd",

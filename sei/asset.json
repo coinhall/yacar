@@ -1,5 +1,12 @@
 [
   {
+    "id": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
+    "name": "SEIZE Token",
+    "symbol": "SEIZE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hello",
     "name": "hello",
     "symbol": "hello",
@@ -333,6 +340,13 @@
     "type": "cw20"
   },
   {
+    "id": "sei17xuceylwqv732dh0365spkp2gna8xrh5vu88edm30yrkyv5a5usq9xzznd",
+    "name": "MICHAEL SEILOR",
+    "symbol": "SEILOR",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei1880yzrk7qpgt8lzaaflkqrrw37ck7hkh6g042ad3akzrwcsljv9qm4alfe",
     "name": "COOK",
     "symbol": "COOK",
@@ -455,6 +469,13 @@
     "type": "cw20"
   },
   {
+    "id": "sei1nzzl2je47vcspyc57tyyg2dlud8j6z7ypj5dsxg7qavlvj27ft0qptj2pu",
+    "name": "Sei-kun",
+    "symbol": "SEIKUN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56",
     "name": "COOK",
     "symbol": "COOK",
@@ -465,6 +486,13 @@
     "id": "sei1r5fjagxce2sf3ll8c23falpg534anzha574ldgalafftprv8fznqfktdqc",
     "name": "CLAM",
     "symbol": "SHELL",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1r6ka8xrkgklayf2qg22wvc00e7umneuh6j4krz7xuu9h9kyjmzuq0v97hd",
+    "name": "GOKU",
+    "symbol": "GOKU",
     "decimals": "6",
     "type": "cw20"
   },
@@ -480,7 +508,10 @@
     "name": "POPO",
     "symbol": "POPO",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply": "65949000000",
+    "total_supply": "69420000000",
+    "icon": "https://i.postimg.cc/XJMX2bHR/POPO.jpg"
   },
   {
     "id": "sei1smdzpfsy48kmkzmm4m9hsg4850czdvfncxyxp6d4h3j7qv3m4v0slzx8yy",
