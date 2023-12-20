@@ -56,18 +56,20 @@ func validateYacarJSON(cfm map[string]map[string]*os.File) error {
 			case strings.Contains(file.Name(), "account"):
 				err = validateAccountJSON(file)
 			case strings.Contains(file.Name(), "asset"):
-				err = validateAssetJSON(file, cfm[chain]["entity"])
+				entityFile := cfm[chain]["entity"]
+				err = validateAssetJSON(file, entityFile)
 			case strings.Contains(file.Name(), "binary"):
 				err = validateBinaryJSON(file)
 			case strings.Contains(file.Name(), "contract"):
 				err = validateContractJSON(file)
 			case strings.Contains(file.Name(), "entity"):
-				err = validateEntityJSON(file, cfm[chain]["asset"])
+				err = validateEntityJSON(file)
 			case strings.Contains(file.Name(), "pool"):
 				err = validatePoolJSON(file)
 			default:
 				err = fmt.Errorf("unknown file type: %s", file.Name())
 			}
+
 			if err != nil {
 				return err
 			}
@@ -107,6 +109,8 @@ func validateAssetJSON(assetFile, entityFile *os.File) error {
 		entities []yacarsdk.Entity
 	)
 
+	// Reset file offset to beginning of file in case it was read before, not doing so would cause
+	// an EOF error when trying to decode the JSON
 	assetFile.Seek(0, io.SeekStart)
 	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
 		return fmt.Errorf("error while decoding asset JSON for asset validation: %s", assetFile.Name())
@@ -255,20 +259,14 @@ func validateContractJSON(file *os.File) error {
 	return nil
 }
 
-func validateEntityJSON(entityFile, assetFile *os.File) error {
-	var (
-		entities []yacarsdk.Entity
-		assets   []yacarsdk.Asset
-	)
+func validateEntityJSON(entityFile *os.File) error {
+	var entities []yacarsdk.Entity
 
+	// Reset file offset to beginning of file in case it was read before, not doing so would cause
+	// an EOF error when trying to decode the JSON
 	entityFile.Seek(0, io.SeekStart)
 	if err := json.NewDecoder(entityFile).Decode(&entities); err != nil {
 		return fmt.Errorf("error while decoding entity JSON for entity validation: %s", err)
-	}
-
-	assetFile.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
-		return fmt.Errorf("error while decoding asset JSON for entity validation: %s", assetFile.Name())
 	}
 
 	for _, entity := range entities {
@@ -285,24 +283,6 @@ func validateEntityJSON(entityFile, assetFile *os.File) error {
 
 		entityCount[entity.Name] = struct{}{}
 	}
-
-	// Corresponding asset check
-	// assetEntityNameSet := map[string]struct{}{}
-	// for _, asset := range assets {
-	// 	if asset.Entity == "" {
-	// 		continue
-	// 	}
-	// 	assetEntityNameSet[asset.Entity] = struct{}{}
-	// }
-	// for _, entity := range entities {
-	// 	if _, ok := assetEntityNameSet[entity.Name]; ok {
-	// 		continue
-	// 	}
-
-	// 	pathElements := strings.Split(entityFile.Name(), "/")
-	// 	chainFile := pathElements[len(pathElements)-2] + "/" + pathElements[len(pathElements)-1]
-	// 	return fmt.Errorf("[%s] entity %s does not correspond to any asset", chainFile, entity.Name)
-	// }
 
 	return nil
 }

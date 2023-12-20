@@ -27,7 +27,7 @@ jobs:
         id: diff
         run: |
           cd ${{ github.workspace }}
-          git diff --quiet . || (echo "Did you forget to run the 'format.sh' script?" && exit 1)
+          git diff --quiet . || (echo "Did you forget to run the latest 'format.sh' script?" && exit 1)
 
   automerge:
     runs-on: ubuntu-latest

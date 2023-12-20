@@ -9,7 +9,8 @@ fi
 
 BIN=".github/scripts/dist/yacar_ci_${OS}_${ARCH}"
 
-echo $BIN
+echo "Running ${BIN}"
 
 ROOT_DIR=$(git rev-parse --show-toplevel)
+cd ${ROOT_DIR}
 ROOT_DIR=${ROOT_DIR} ${BIN}
