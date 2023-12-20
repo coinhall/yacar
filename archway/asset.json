@@ -1,17 +1,5 @@
 [
   {
-    "id": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
-    "entity": "Agoric",
-    "name": "Agoric",
-    "symbol": "BLD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://main.supply.agoric.net/circulation?denom=bld",
-    "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWJsZA%3D%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png",
-    "coingecko": "https://www.coingecko.com/en/coins/agoric"
-  },
-  {
     "id": "aarch",
     "entity": "Archway",
     "name": "Archway",
@@ -24,29 +12,94 @@
     "coingecko": "https://www.coingecko.com/en/coins/archway"
   },
   {
-    "id": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
-    "entity": "Axelar",
-    "name": "Axelar",
-    "symbol": "AXL",
+    "id": "archway135pmrdfsu8le852q5xztwdlxpmzqrp2t589lrqtw2athnr70wgcqg26ecc",
+    "name": "xAXL",
+    "symbol": "xAXL",
     "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
-    "total_supply_api": "https://api.axelarscan.io/total-supply",
-    "icon": "https://astrovault.io/static/media/logo-axl.d0d2aff65fc25b2de25c.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/axelar"
+    "type": "cw20",
+    "icon": "https://astrovault.io/static/media/logo-xaxl.ab4eb3edba43abe6f9b3.svg"
   },
   {
-    "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-    "entity": "Cosmos",
-    "name": "Atom",
-    "symbol": "ATOM",
+    "id": "archway14fzmzu2apcdzwx9dspyk0yjmxwwnpmxh7zlezh5ywe4l0pky39ysgzd9gg",
+    "name": "xCMDX",
+    "symbol": "xCMDX",
     "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
-    "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
+    "type": "cw20"
+  },
+  {
+    "id": "archway1asgu5g79cdjcdd40lgefplszehykpwzcunx30ca4456a4tddmwcsrmtvx8",
+    "name": "xFLIX",
+    "symbol": "xFLIX",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
+    "name": "xARCH",
+    "symbol": "xARCH",
+    "decimals": "18",
+    "type": "cw20",
+    "icon": "https://astrovault.io/static/media/logo-xarch.443706fdbdaa8ec3059f.svg"
+  },
+  {
+    "id": "archway1fwurjg7ah4v7hhs6xsc3wutqpvmahrfhns285s0lt34tgfdhplxq6m8xg5",
+    "name": "ampARCH",
+    "symbol": "ampARCH",
+    "decimals": "18",
+    "type": "cw20",
+    "icon": "https://i.ibb.co/HC2VCNX/ampARCH.png"
+  },
+  {
+    "id": "archway1m273xq2fjmn993jm4kft5c49w2c70yfv5zypt3d92cqp4n5faefqqkuf0l",
+    "name": "xATOM",
+    "symbol": "xATOM",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://astrovault.io/static/media/logo-xatom.daac6b0df6cab97834b3.svg"
+  },
+  {
+    "id": "archway1mast3w89sn8gtmvdhr6gfemu4jdx60563fajs5ucsc7s7e9jv00q7qw0hu",
+    "name": "xBCNA",
+    "symbol": "xBCNA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway1t2llqsvwwunf98v692nqd5juudcmmlu3zk55utx7xtfvznel030saclvq6",
+    "name": "sARCH",
+    "symbol": "sARCH",
+    "decimals": "18",
+    "type": "cw20",
+    "icon": "https://astrovault.io/static/media/logo-sarch.913712eddb6d0277d588.svg"
+  },
+  {
+    "id": "archway1veyq07az0d7mlp49sa9f9ef56w0dd240vjsy76yv0m4pl5a2x2uq698cs7",
+    "name": "xDEC",
+    "symbol": "xDEC",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway1yjdgfut7jkq5xwzyp6p5hs7hdkmszn34zkhun6mglu3falq3yh8sdkaj7j",
+    "name": "xJKL",
+    "symbol": "xJKL",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://astrovault.io/static/media/logo-xjkl.b5e57acef59cdbc18f33.svg"
+  },
+  {
+    "id": "archway1yv8uhe795xs4fwz6mjm278yr35ps0yagjchfp39q5x49dty9jgssm5tnkv",
+    "name": "xBLD",
+    "symbol": "xBLD",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway1zfnzv39cp4dv3jjy0aptn5msc02tjmy602l46u90dt729q80939qjgqcdj",
+    "name": "xGRAV",
+    "symbol": "xGRAV",
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
@@ -62,49 +115,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
-    "id": "ibc/E070901F36B129933202BEB3EB40A78BE242D8ECBA2D1AF9161DF06F35783900",
-    "name": "ALTER",
-    "symbol": "ALTER",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "archway1fwurjg7ah4v7hhs6xsc3wutqpvmahrfhns285s0lt34tgfdhplxq6m8xg5",
-    "name": "ampARCH",
-    "symbol": "ampARCH",
-    "decimals": "18",
-    "type": "cw20",
-    "icon": "https://i.ibb.co/HC2VCNX/ampARCH.png"
-  },
-  {
-    "id": "ibc/fcb240d2c3838369155a0fa8970a8be3ec1042f698269b9d6d9859274f00a0bb",
-    "name": "BCNA",
-    "symbol": "BCNA",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/FCB240D2C3838369155A0FA8970A8BE3EC1042F698269B9D6D9859274F00A0BB",
-    "name": "BCNA",
-    "symbol": "BCNA",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",
-    "name": "CMDX",
-    "symbol": "CMDX",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
-    "id": "ibc/E3409E92F78AE5BF44DBC7C4741901E21EF73B7B8F98C4D48F2BD360AF242C00",
-    "name": "DEC",
-    "symbol": "DEC",
-    "decimals": "6",
-    "type": "ibc"
-  },
-  {
     "id": "ibc/13C5990F84FA5D472E1F8BB1BAAEA8774DA5F24128EC02B119107AD21FB52A61",
     "name": "ETH.axl",
     "symbol": "ETH.axl",
@@ -113,11 +123,17 @@
     "icon": "https://astrovault.io/static/media/logo-eth.axl.c9502083459f6541237d.svg"
   },
   {
-    "id": "ibc/8E6E7AB89246F87DA936F0EEA0A40654E7FB6B0C3E834F447EB444AAD95A106F",
-    "name": "FLIX",
-    "symbol": "FLIX",
+    "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "entity": "Cosmos",
+    "name": "Atom",
+    "symbol": "ATOM",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
+    "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
   },
   {
     "id": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
@@ -127,33 +143,13 @@
     "type": "ibc"
   },
   {
-    "id": "ibc/C0336ECF2DF64E7D2C98B1422EC2B38DE9EF33C34AAADF18C6F2E3FFC7BE3615",
-    "name": "Inter Protocol USD",
-    "symbol": "IST",
-    "decimals": "6",
+    "id": "ibc/3A2DEEBCD51D0B74FE7CE058D40B0BF4C0E556CE9219E8F25F92CF288FF35F56",
+    "name": "WBTC.axl",
+    "symbol": "WBTC.axl",
+    "decimals": "8",
     "type": "ibc",
-    "circ_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
-    "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
-  },
-  {
-    "id": "ibc/926432AE1C5FA4F857B36D970BE7774C7472079506820B857B75C5DE041DD7A3",
-    "name": "Jackal",
-    "symbol": "JKL",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://supply-api.jackalprotocol.com/circulating-supply",
-    "total_supply_api": "https://supply-api.jackalprotocol.com/total-supply",
-    "icon": "https://astrovault.io/static/media/logo-jkl.775e0818c92acfa58f36.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/jackal-protocol"
-  },
-  {
-    "id": "archway1t2llqsvwwunf98v692nqd5juudcmmlu3zk55utx7xtfvznel030saclvq6",
-    "name": "sARCH",
-    "symbol": "sARCH",
-    "decimals": "18",
-    "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-sarch.913712eddb6d0277d588.svg"
+    "circ_supply_api": "https://api.axelarscan.io",
+    "total_supply_api": "https://api.axelarscan.io"
   },
   {
     "id": "ibc/43897B9739BD63E3A08A88191999C632E052724AB96BD4C74AE31375C991F48D",
@@ -161,14 +157,6 @@
     "symbol": "USDC",
     "decimals": "6",
     "type": "ibc"
-  },
-  {
-    "id": "ibc/B9E4FD154C92D3A23BEA029906C4C5FF2FE74CB7E3A058290B77197A263CF88B",
-    "name": "USDC.axl",
-    "symbol": "USDC.axl",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://astrovault.io/static/media/logo-usdc.axl.a191012589309094d837.svg"
   },
   {
     "id": "ibc/6F681B32B47E765AE278844A8A97C8B7AD5A3FB591E37CFDFA0E208EFEBEF97D",
@@ -185,86 +173,98 @@
     "type": "ibc"
   },
   {
-    "id": "ibc/3A2DEEBCD51D0B74FE7CE058D40B0BF4C0E556CE9219E8F25F92CF288FF35F56",
-    "name": "WBTC.axl",
-    "symbol": "WBTC.axl",
-    "decimals": "8",
+    "id": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
+    "entity": "Agoric",
+    "name": "Agoric",
+    "symbol": "BLD",
+    "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.axelarscan.io",
-    "total_supply_api": "https://api.axelarscan.io"
+    "circ_supply_api": "https://main.supply.agoric.net/circulation?denom=bld",
+    "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWJsZA%3D%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png",
+    "coingecko": "https://www.coingecko.com/en/coins/agoric"
   },
   {
-    "id": "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
-    "name": "xARCH",
-    "symbol": "xARCH",
-    "decimals": "18",
-    "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-xarch.443706fdbdaa8ec3059f.svg"
-  },
-  {
-    "id": "archway1m273xq2fjmn993jm4kft5c49w2c70yfv5zypt3d92cqp4n5faefqqkuf0l",
-    "name": "xATOM",
-    "symbol": "xATOM",
+    "id": "ibc/8E6E7AB89246F87DA936F0EEA0A40654E7FB6B0C3E834F447EB444AAD95A106F",
+    "name": "FLIX",
+    "symbol": "FLIX",
     "decimals": "6",
-    "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-xatom.daac6b0df6cab97834b3.svg"
+    "type": "ibc"
   },
   {
-    "id": "archway135pmrdfsu8le852q5xztwdlxpmzqrp2t589lrqtw2athnr70wgcqg26ecc",
-    "name": "xAXL",
-    "symbol": "xAXL",
+    "id": "ibc/926432AE1C5FA4F857B36D970BE7774C7472079506820B857B75C5DE041DD7A3",
+    "name": "Jackal",
+    "symbol": "JKL",
     "decimals": "6",
-    "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-xaxl.ab4eb3edba43abe6f9b3.svg"
+    "type": "ibc",
+    "circ_supply_api": "https://supply-api.jackalprotocol.com/circulating-supply",
+    "total_supply_api": "https://supply-api.jackalprotocol.com/total-supply",
+    "icon": "https://astrovault.io/static/media/logo-jkl.775e0818c92acfa58f36.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/jackal-protocol"
   },
   {
-    "id": "archway1mast3w89sn8gtmvdhr6gfemu4jdx60563fajs5ucsc7s7e9jv00q7qw0hu",
-    "name": "xBCNA",
-    "symbol": "xBCNA",
+    "id": "ibc/B9E4FD154C92D3A23BEA029906C4C5FF2FE74CB7E3A058290B77197A263CF88B",
+    "name": "USDC.axl",
+    "symbol": "USDC.axl",
     "decimals": "6",
-    "type": "cw20"
+    "type": "ibc",
+    "icon": "https://astrovault.io/static/media/logo-usdc.axl.a191012589309094d837.svg"
   },
   {
-    "id": "archway1yv8uhe795xs4fwz6mjm278yr35ps0yagjchfp39q5x49dty9jgssm5tnkv",
-    "name": "xBLD",
-    "symbol": "xBLD",
+    "id": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",
+    "name": "CMDX",
+    "symbol": "CMDX",
     "decimals": "6",
-    "type": "cw20"
+    "type": "ibc"
   },
   {
-    "id": "archway14fzmzu2apcdzwx9dspyk0yjmxwwnpmxh7zlezh5ywe4l0pky39ysgzd9gg",
-    "name": "xCMDX",
-    "symbol": "xCMDX",
+    "id": "ibc/C0336ECF2DF64E7D2C98B1422EC2B38DE9EF33C34AAADF18C6F2E3FFC7BE3615",
+    "name": "Inter Protocol USD",
+    "symbol": "IST",
     "decimals": "6",
-    "type": "cw20"
+    "type": "ibc",
+    "circ_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
+    "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
   },
   {
-    "id": "archway1veyq07az0d7mlp49sa9f9ef56w0dd240vjsy76yv0m4pl5a2x2uq698cs7",
-    "name": "xDEC",
-    "symbol": "xDEC",
+    "id": "ibc/E070901F36B129933202BEB3EB40A78BE242D8ECBA2D1AF9161DF06F35783900",
+    "name": "ALTER",
+    "symbol": "ALTER",
     "decimals": "6",
-    "type": "cw20"
+    "type": "ibc"
   },
   {
-    "id": "archway1asgu5g79cdjcdd40lgefplszehykpwzcunx30ca4456a4tddmwcsrmtvx8",
-    "name": "xFLIX",
-    "symbol": "xFLIX",
+    "id": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
+    "entity": "Axelar",
+    "name": "Axelar",
+    "symbol": "AXL",
     "decimals": "6",
-    "type": "cw20"
+    "type": "ibc",
+    "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
+    "total_supply_api": "https://api.axelarscan.io/total-supply",
+    "icon": "https://astrovault.io/static/media/logo-axl.d0d2aff65fc25b2de25c.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/axelar"
   },
   {
-    "id": "archway1zfnzv39cp4dv3jjy0aptn5msc02tjmy602l46u90dt729q80939qjgqcdj",
-    "name": "xGRAV",
-    "symbol": "xGRAV",
+    "id": "ibc/E3409E92F78AE5BF44DBC7C4741901E21EF73B7B8F98C4D48F2BD360AF242C00",
+    "name": "DEC",
+    "symbol": "DEC",
     "decimals": "6",
-    "type": "cw20"
+    "type": "ibc"
   },
   {
-    "id": "archway1yjdgfut7jkq5xwzyp6p5hs7hdkmszn34zkhun6mglu3falq3yh8sdkaj7j",
-    "name": "xJKL",
-    "symbol": "xJKL",
+    "id": "ibc/fcb240d2c3838369155a0fa8970a8be3ec1042f698269b9d6d9859274f00a0bb",
+    "name": "BCNA",
+    "symbol": "BCNA",
     "decimals": "6",
-    "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-xjkl.b5e57acef59cdbc18f33.svg"
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/FCB240D2C3838369155A0FA8970A8BE3EC1042F698269B9D6D9859274F00A0BB",
+    "name": "BCNA",
+    "symbol": "BCNA",
+    "decimals": "6",
+    "type": "ibc"
   }
 ]

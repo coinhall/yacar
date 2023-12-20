@@ -16,6 +16,6 @@ func main() {
 
 	yacarFilePaths := walker.GetLocalYacarFilePaths(projRoot)
 
-	validator.Start(yacarFilePaths)
 	sorter.Start(yacarFilePaths)
+	validator.Start(yacarFilePaths)
 }

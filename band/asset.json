@@ -1,18 +1,5 @@
 [
   {
-    "id": "uband",
-    "entity": "Band Protocol",
-    "name": "Band Protocol",
-    "symbol": "BAND",
-    "decimals": "6",
-    "type": "native",
-    "circ_supply_api": "https://api.bandchain.org/supply/circulating",
-    "total_supply_api": "https://api.bandchain.org/supply/total",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.svg",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/band-protocol/",
-    "coingecko": "https://www.coingecko.com/en/coins/band-protocol"
-  },
-  {
     "id": "ibc/6B8531505147C9FF2AC90BC096AEC5D8E77EE3582874640FA5FE4E4FB382D2AC",
     "entity": "Osmosis",
     "name": "Osmosis",
@@ -24,5 +11,18 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
+  },
+  {
+    "id": "uband",
+    "entity": "Band Protocol",
+    "name": "Band Protocol",
+    "symbol": "BAND",
+    "decimals": "6",
+    "type": "native",
+    "circ_supply_api": "https://api.bandchain.org/supply/circulating",
+    "total_supply_api": "https://api.bandchain.org/supply/total",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/band-protocol/",
+    "coingecko": "https://www.coingecko.com/en/coins/band-protocol"
   }
 ]
