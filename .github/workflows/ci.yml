@@ -19,7 +19,7 @@ jobs:
       - name: Validate data and format JSON
         id: validate
         run: |
-          ROOT_DIR=${{ github.workspace }} ./ci.sh
+          ROOT_DIR=${{ github.workspace }} ./format.sh
           echo "status=$?" >> $GITHUB_OUTPUT
 
       - name: Check for changes
@@ -27,17 +27,7 @@ jobs:
         id: diff
         run: |
           cd ${{ github.workspace }}
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
-      - name: Commit and push changes
-        if: steps.diff.outputs.changed == 'true'
-        run: |
-          cd ${{ github.workspace }}
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "[bot] auto-format files"
-          git push
+          git diff --quiet . || (echo "Did you forget to run the 'format.sh' script?" && exit 1)
 
   automerge:
     runs-on: ubuntu-latest
