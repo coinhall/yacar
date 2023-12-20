@@ -1465,6 +1465,13 @@
     "coingecko": "https://www.coingecko.com/en/coins/bzedge"
   },
   {
+    "id": "factory/osmo1dplap7yq5sh0tepjente05rsyhvfnpfxa5r453hht27puuv6zx7qh34w32/bndao",
+    "name": "Binary Nexus DAO",
+    "symbol": "BNDAO",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "ibc/B3FB7128CE957DE1ADB687A919AA0786C77C62FB1280C07CDD78AEA032D56853",
     "name": "BlackJack FanToken",
     "symbol": "BJKS",
@@ -1626,6 +1633,20 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/coreum/images/coreum.svg"
+  },
+  {
+    "id": "factory/osmo1rvqhc4yp8aqvsuz0wv23lewa4ucgvzvjv6zrdktcp39c6h5nd09q98r9tt/ctc",
+    "name": "ctaurus",
+    "symbol": "ctc",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/osmo1wh8arjgtpdgyf9rlw3k960kkx0943hy92n20sg4pjyk8grc6dhzsunuchs/ctc",
+    "name": "cTaurus",
+    "symbol": "cTc",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "ibc/1DE9A32D603EE05E9B8619DF24D90FD518C932AE0B5B3209A986B7262DBADE2A",
@@ -2201,6 +2222,13 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/osdoge.png"
   },
   {
+    "id": "factory/osmo19esh5d4xj7cyw9c307wlvdcwhqvl0pyexc8xxmccycv9vhgrzptqczzqlp/otf",
+    "name": "Osmosis Token Factory",
+    "symbol": "OTF",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "ibc/208B2F137CDE510B44C41947C045CFDC27F996A9D990EA64460BDD5B3DBEB2ED",
     "name": "Passage",
     "symbol": "PASG",
@@ -2605,12 +2633,33 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/summit.png"
   },
   {
+    "id": "factory/osmo1aj076qd054wupmpx9amah3ugh2rv0qs4n9j3l4lac8lhtswk78wq7e2ctf/tkf",
+    "name": "Talkitty Foundation",
+    "symbol": "TKF",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "ibc/EB7FB9C8B425F289B63703413327C2051030E848CE4EAAEA2E51199D6D39D3EC",
     "name": "teritori",
     "symbol": "TORI",
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/teritori/images/tori.svg"
+  },
+  {
+    "id": "factory/osmo1rt94tf24fm42qpnqvjm5tsr2t5k2rgtl0m0ykf4r5wm03czcysysce0k3z/tst",
+    "name": "Test Dao Token",
+    "symbol": "TST",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/osmo1jjygfcyx83kp0kssma9svcswsew2szypwgj97j6er2szqx4hlm8sh5cpna/tsst",
+    "name": "TestDaoToken",
+    "symbol": "TSST",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
