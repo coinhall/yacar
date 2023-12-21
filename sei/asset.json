@@ -209,6 +209,13 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei1uxvgj9g66n7aqrmu00vpmgz7fzg6sz4ttexcd9/vegeta",
+    "name": "Vegeta",
+    "symbol": "VEGETA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/sei1x2fgaaqecvk8kwuqkjqcj27clw5p5g99uawdzy9sc4rku8avumcq3cky4k/ampSEI",
     "name": "ampSEI",
     "symbol": "ampSEI",
@@ -833,6 +840,13 @@
     "id": "sei1n4mn9j8fcruzv0xf5ccuavjg8hxp75n2c4vme6yp0awlhx4g8qzs6nzseh",
     "name": "Wrapped STRD",
     "symbol": "USTRD",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "sei1ncnwl2z8h6zrhch4j6ztq2zec9wy32fcq0dqtyfqpdu8ungsngyq9gtvqk",
+    "name": "test",
+    "symbol": "test",
     "decimals": "6",
     "type": "cw20"
   },
