@@ -214,13 +214,6 @@
     "icon": "https://pbs.twimg.com/profile_images/1736981644672692224/36EJngZv_400x400.jpg"
   },
   {
-    "id": "factory/inj13zcns55uycr8lcw8q4gvdqp0jejgknk9whv8uh/INJDOGE",
-    "name": "InjectDOGE",
-    "symbol": "INJDOGE",
-    "decimals": "6",
-    "type": "tokenfactory"
-  },
-  {
     "id": "factory/inj144nw6ny28mlwuvhfnh7sv4fcmuxnpjx4pksr0j/boo",
     "name": "Bamboo",
     "symbol": "BAMBOO",
@@ -1142,10 +1135,14 @@
   },
   {
     "id": "factory/inj1nf43yjjx7sjc3eulffgfyxqhcraywwgrnqmqjc/INJDOGE",
+    "entity": "InjectDOGE",
     "name": "InjectDOGE",
     "symbol": "INJDOGE",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "circ_supply": "931000000",
+    "total_supply": "1000000000",
+    "icon": "https://images.squarespace-cdn.com/content/658146998a62227df2daab97/f705540a-dfd1-445e-b38d-04050dbd3a81/injectdogelogo_rounded_x128.png?content-type=image%2Fpng"
   },
   {
     "id": "factory/inj1nm8kf7pn60mww3hnqj5je28q49u4h9gnk6g344/WEED",
