@@ -1680,8 +1680,8 @@
     "circ_supply": "100000000",
     "total_supply": "100000000",
     "icon": "https://ivory-unpleasant-moose-964.mypinata.cloud/ipfs/QmUpMPqBxn7AGCDkasnX6kwxTg4YiH3fmLmizk6CMkZMJt?_gl=1*gbxnf6*_ga*MzIzMTU1MjcxLjE3MDI0MjM3Njg.*_ga_5RMPXG14TE*MTcwMjg0MDE5Ni4yLjEuMTcwMjg0MDIxNy4zOS4wLjA."
-    },
- {
+  },
+  {
     "id": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/xTalis",
     "name": "xTalis",
     "symbol": "XTALIS",
@@ -1693,6 +1693,16 @@
     "name": "ZUZUDog",
     "symbol": "ZUZU",
     "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1td7t8spd4k6uev6uunu40qvrrcwhr756d5qw59/ipepe",
+    "name": "Injective Pepe",
+    "symbol": "IPEPE",
+    "decimals": "6",
+    "circ_supply": "50000000",
+    "total_supply": "50000000",
+    "icon": "https://github.com/Marinovs/astroport-token-lists/blob/main/img/injpepe.png",
     "type": "tokenfactory"
   }
 ]
