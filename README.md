@@ -8,10 +8,14 @@
   - [`contract.json`](#contractjson)
   - [`binary.json`](#binaryjson)
   - [`asset.json`](#assetjson)
-    - [Example assets](#example-assets)
+    - [Example](#example)
   - [`entity.json`](#entityjson)
   - [`pool.json`](#pooljson)
-- [Contributing](#contributing)
+- [FAQs](#faqs)
+  - [How do I add a new pool?](#how-do-i-add-a-new-pool)
+  - [How do I add a new asset?](#how-do-i-add-a-new-asset)
+  - [How do I update my asset's circulating/total supply, icon, and other links?](#how-do-i-update-my-assets-circulatingtotal-supply-icon-and-other-links)
+- [Contributing Guide](#contributing-guide)
 
 ## Files
 
@@ -69,7 +73,7 @@ type Asset = {
   // The contract address of the cw20 tokens or denom of the ibc/native coins
   id: string;
   // The entity which created or controls `id`
-  // A nullish value means that the asset is "unverified"
+  // Corresponds to the `name` field of an entity in `entity.json`
   entity?: string | undefined;
   // The canonical name of the asset (eg. "Axelar Wrapped Bitcoin")
   name: string;
@@ -84,12 +88,12 @@ type Asset = {
   // The transaction hash that contains "Coinhall verification" memo
   verification_tx?: string | undefined;
 
-  // Supply values, do not populate both static and dynamic amounts (see example below)
-  // Set the static amount of assets (after dividing the chain amount by 10^`decimals`)
+  // Static supply values; do not populate both static and dynamic values (see example below)
+  // NOTE: these are decimal numbers (ie. NOT the on-chain integers)
   circ_supply?: string | undefined;
   total_supply?: string | undefined;
 
-  // Set the dynamic amount of assets through a URL link
+  // Dynamic supply values; do not populate both static and dynamic values (see example below)
   circ_supply_api?: string | undefined;
   total_supply_api?: string | undefined;
 
@@ -100,41 +104,39 @@ type Asset = {
 };
 ```
 
-#### Example assets
+#### Example
 
-> With static total supply, and dynamic circulating supply.
+Valid example with static total supply, and dynamic circulating supply:
 
-```ts
+```js
 {
-  id: "ibc/example_asset_id",
-  name: "Example Asset",
-  symbol: "EA",
-  decimals: "6",
-  type: "ibc",
-  circ_supply_api: "https://exampleasset.com/circulating_supply",
-  total_supply: "1000000"
+  "id": "ibc/example_asset_id",
+  "name": "Example Asset",
+  "symbol": "EA",
+  "decimals": "6",
+  "type": "ibc",
+  "circ_supply_api": "https://exampleasset.com/circulating_supply",
+  "total_supply": "1000000"
 }
 ```
 
-> Invalid example, with both static and dynamic circ supply.
-> Applies to total supply too
+Invalid example with both static and dynamic circ supply (applies to total supply too):
 
-```ts
+```js
 {
-  id: "ibc/example_asset_id",
-  name: "Example Asset",
-  symbol: "EA",
-  decimals: "6",
-  type: "ibc",
-  circ_supply: "1000000",
-  circ_supply_api: "https://exampleasset.com/circulating_supply",
-  total_supply: "1000000"
+  "id": "ibc/example_asset_id",
+  "name": "Example Asset",
+  "symbol": "EA",
+  "decimals": "6",
+  "type": "ibc",
+  "circ_supply": "1000000",
+  "circ_supply_api": "https://exampleasset.com/circulating_supply",
 }
 ```
 
 ### `entity.json`
 
-Contains all social information of a project. This file is updated manually.
+Contains all **social information of an entity**. This file is updated manually.
 
 ```ts
 type Entity = {
@@ -163,10 +165,35 @@ type Pool = {
 };
 ```
 
-## Contributing
+## FAQs
+
+### How do I add a new pool?
+
+You do *not* need to add pools manually. Our bot will periodically detect and add new pools to the `pool.json` file, provided that the pools come from a dex that we already support.
+
+If you are a new dex that we do not yet support, [please reach out to us](https://t.me/coinhall_org).
+
+### How do I add a new asset?
+
+You do *not* need to add assets manually. Our bot will periodically detect and add new assets to the `asset.json` file, provided that the asset belong to at least one pool.
+
+### How do I update my asset's circulating/total supply, icon, and other links?
+
+**For circulating and total supply**: we accept either a static number, or an API endpoint (if the supply is dynamic). The values should be added to the [`asset.json` file](#assetjson).
+
+**For token icon**: we only accept a valid hosted link to an image (SVG is preferred over PNG/JPEG/others). Please ensure that the link given shows an image only and nothing else (ie. it should NOT lead to an HTML webpage). The link should be added to the [`asset.json` file](#assetjson).
+
+**For CoinMarketCap and Coingecko links**: these links should be added to the [`asset.json` file](#assetjson).
+
+**For social links**: we accept website, Twitter, Telegram, and Discord links. Firstly, the links should be added to the [`entity.json` file](#entityjson). Then, update your asset in `asset.json` with the `entity` field, ensuring that the value is the same as the `name` field of the entity that you have created.
+
+Then, follow the [contributing guide](#contributing) to open a pull request.
+
+## Contributing Guide
 
 1. [Fork this repo](https://github.com/coinhall/yacar/fork)
-2. Push changes to your fork
-3. The files will be validated and formatted automatically
-4. If validation passes, [create a pull request](https://github.com/coinhall/yacar/compare)
-5. If necessary, seek for a review via [Telegram](https://t.me/coinhall_org)
+2. Read the [FAQs](#faqs) and make the necessary changes on your fork
+3. Before committing any changes, run the `format.sh` script which automatically validates and formats your local files
+4. If the validation passes, [create a pull request](https://github.com/coinhall/yacar/compare)
+5. Enable GitHub Actions to run on your fork and ensure that your PR passes all checks
+6. If necessary, [contact us](https://t.me/coinhall_org) to seek for a review

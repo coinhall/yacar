@@ -8,9 +8,6 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ".github/scripts"
     steps:
       - name: Checkout repository and branch
         uses: actions/checkout@v3
@@ -19,18 +16,10 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}
 
-      - name: Setup Go
-        uses: actions/setup-go@v4
-        with:
-          go-version-file: ${{ github.workspace }}/.github/scripts/go.mod
-          cache-dependency-path: ${{ github.workspace }}/.github/scripts/go.sum
-          check-latest: true
-          cache: true
-
       - name: Validate data and format JSON
         id: validate
         run: |
-          ROOT_DIR=${{ github.workspace }} go run cmd/yacar_ci.go
+          ROOT_DIR=${{ github.workspace }} ./format.sh
           echo "status=$?" >> $GITHUB_OUTPUT
 
       - name: Check for changes
@@ -38,17 +27,7 @@ jobs:
         id: diff
         run: |
           cd ${{ github.workspace }}
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
-      - name: Commit and push changes
-        if: steps.diff.outputs.changed == 'true'
-        run: |
-          cd ${{ github.workspace }}
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "[bot] auto-format files"
-          git push
+          git diff --quiet . || (echo "Did you forget to run the latest 'format.sh' script?" && exit 1)
 
   automerge:
     runs-on: ubuntu-latest
@@ -64,6 +43,3 @@ jobs:
           MERGE_FILTER_AUTHOR: "yacarbot[bot]"
           MERGE_LABELS: "status: done"
           MERGE_METHOD: "squash"
-          UPDATE_LABELS: "status: done"
-          UPDATE_METHOD: "rebase"
-          UPDATE_RETRIES: 10
