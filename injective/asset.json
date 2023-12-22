@@ -620,6 +620,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj175fuhj3rlyttt255fsc6fwyteealzt67szpvan/ALIEN",
+    "name": "ALIEN",
+    "symbol": "ALIEN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj175fuhj3rlyttt255fsc6fwyteealzt67szpvan%2FALIEN"
+  },
+  {
     "id": "factory/inj17a0fp4rguzgf9mwz90y2chc3lr445nujdwc063/bonkmas",
     "name": "bonkmas",
     "symbol": "bonkmas",
