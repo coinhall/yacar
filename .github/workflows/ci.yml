@@ -36,7 +36,10 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            github.rest.issues.createComment({
+            const token = process.env.GITHUB_TOKEN;
+            const octokit = new (require('@octokit/rest'))({ auth: token });
+
+            octokit.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
