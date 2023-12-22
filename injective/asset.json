@@ -278,9 +278,9 @@
     "symbol": "HACHI",
     "decimals": "9",
     "type": "tokenfactory",
-    "icon": "https://i.ibb.co/YddhZbB/logo.jpg",
     "circ_supply": "999999999",
-    "total_supply": "999999999"
+    "total_supply": "999999999",
+    "icon": "https://i.ibb.co/YddhZbB/logo.jpg"
   },
   {
     "id": "factory/inj140ddmtvnfytfy4htnqk06um3dmq5l79rl3wlgy/jni",
@@ -734,7 +734,7 @@
     "symbol": "LAMA",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "ipfs://bafkreibgojmatjws7bgbpy45ca5gi6vheflelj6qnrxrb2fir3jrg3gfxu"
+    "icon": "https://bafkreibgojmatjws7bgbpy45ca5gi6vheflelj6qnrxrb2fir3jrg3gfxu.ipfs.nftstorage.link"
   },
   {
     "id": "factory/inj18nm3q7r2rckklp7h8hgfzu2dlc20sftvd2893w/nUSD",
@@ -2227,6 +2227,7 @@
   },
   {
     "id": "factory/inj1vgrf5mcvvg9p5c6jajqefn840nq74wjzgkt30z/GROK",
+    "entity": "GROK",
     "name": "GROK",
     "symbol": "GROK",
     "decimals": "6",
