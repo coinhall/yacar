@@ -193,6 +193,15 @@
     "icon": "https://pbs.twimg.com/profile_images/1737090223811489792/kq_J36b7_400x400.jpg"
   },
   {
+    "id": "factory/inj12ygx3scssu2d9rymtppaf6nks8qg08z9w3tml9/BCAT",
+    "name": "BLACK CAT TOKEN",
+    "symbol": "BCAT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj12ygx3scssu2d9rymtppaf6nks8qg08z9w3tml9%2FBCAT",
+    "icon": "https://ipfs.filebase.io/ipfs/QmSgSt6CNK342FshKJcdLNSPveGJAxVSJwGcuxbjNGTSWW"
+  },
+  {
     "id": "factory/inj130nkx4u8p5sa2jl4apqlnnjlej2ymfq0e398w9/BLUE",
     "name": "BLUE GRIN TOKEN",
     "symbol": "BLUE",
