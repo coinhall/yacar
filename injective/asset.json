@@ -121,6 +121,15 @@
     "icon": "https://c8.alamy.com/comp/2RCTH75/inj-logo-inj-letter-inj-letter-logo-design-initials-inj-logo-linked-with-circle-and-uppercase-monogram-logo-inj-typography-for-technology-busines-2RCTH75.jpg"
   },
   {
+    "id": "factory/inj125hcdvz9dnhdqal2u8ctr7l0hd8xy9wdgzt8ld/binj",
+    "name": "BINJ",
+    "symbol": "BINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom%3Fdenom=factory/inj125hcdvz9dnhdqal2u8ctr7l0hd8xy9wdgzt8ld/binj",
+    "icon": "https://pbs.twimg.com/profile_images/1738094857745309696/8odKiTg4_400x400.jpg"
+  },
+  {
     "id": "factory/inj12aljr5fewp8vlns0ny740wuwd60q89x0xsqcz3/XYZ",
     "name": "XYZ",
     "symbol": "XYZ",
@@ -3038,6 +3047,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1802ascnwzdhvv84url475eyx26ptuc6jc590nl/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1980cshwxa5mnptp6vzngha6h2qe556anm4zjtt",
+    "name": "NewYear-Injective (Wormhole)",
+    "symbol": "NEWYEARINJ",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1980cshwxa5mnptp6vzngha6h2qe556anm4zjtt/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj19j6q86wt75p3pexfkajpgxhkjht589zyu0e4rd",
