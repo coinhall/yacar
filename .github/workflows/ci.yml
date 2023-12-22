@@ -33,7 +33,7 @@ jobs:
         if: failure()
         run: |
           COMMENT="Oops... It looks like you forgot to run the latest \`format.sh\` (Mac/Linux) /\`format.bat\` (Windows) script. This allows us to review the changes quicker so that it displays on the website sooner!"
-          curl -sSL -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -X POST -d '{"body": "'"$COMMENT"'"}' "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" > /dev/null
+          curl -sSL -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -X POST -d '{"body": "'"$COMMENT"'"}' "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments"
 
   automerge:
     runs-on: ubuntu-latest
