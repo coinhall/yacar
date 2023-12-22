@@ -34,6 +34,7 @@ jobs:
         run: |
           COMMENT="It looks like you forgot to run the latest 'format.sh' script. Please make sure to run it before submitting your pull request."
           curl -sSL -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -X POST -d '{"body": "'"$COMMENT"'"}' "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments"
+  
   automerge:
     runs-on: ubuntu-latest
     needs: [validate]
