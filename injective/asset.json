@@ -410,8 +410,8 @@
     "symbol": "AUTISM",
     "decimals": "6",
     "type": "tokenfactory",
-    "circ_supply": "564779859.319",
-    "total_supply": "564779859.319",
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz%2Fautism",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz%2Fautism",
     "icon": "https://raw.githubusercontent.com/jlee1997/autism/main/autism.jpg"
   },
   {
