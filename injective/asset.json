@@ -713,6 +713,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1898t0vtmul3tcn3t0v8qe3pat47ca937jkpezv/karate",
+    "name": "Doge Wif Karate",
+    "symbol": "KARATE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1898t0vtmul3tcn3t0v8qe3pat47ca937jkpezv%2Fkarate"
+  },
+  {
     "id": "factory/inj18aptztz0pxvvjzumpnd36szzljup0t7t3pauu8/psycho",
     "name": "The Psycho",
     "symbol": "PSYCHO",
@@ -1147,6 +1155,15 @@
     "icon": "https://gateway.irys.xyz/IOVDd1rEoW9xpLUV_e9echRjfDX5SxtEQqiAh8f2NY4"
   },
   {
+    "id": "factory/inj1g8yvnh0lzxc06qe2n4qux5cqlz8h6gnpvaxzus/analos",
+    "name": "ANALOS",
+    "symbol": "ANALOS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1g8yvnh0lzxc06qe2n4qux5cqlz8h6gnpvaxzus%2Fanalos",
+    "icon": "https://pbs.twimg.com/profile_images/1737597746586988544/w2s4peSz_400x400.jpg"
+  },
+  {
     "id": "factory/inj1gc8fjmp9y8kfsy3s6yzucg9q0azcz60tm9hldp/bonkja",
     "name": "Bonk Ninja",
     "symbol": "BONKJA",
@@ -1266,6 +1283,15 @@
     "symbol": "SEI",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1hjfm3z53dj4ct5nxef5ghn8hul0y53u7ytv8st/babyhachi",
+    "name": "BABYHACHI",
+    "symbol": "BABYHACHI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1hjfm3z53dj4ct5nxef5ghn8hul0y53u7ytv8st%2Fbabyhachi",
+    "icon": "https://pbs.twimg.com/media/GB8q0RfakAAZ38_?format=jpg&name=medium"
   },
   {
     "id": "factory/inj1hs5chngjfhjwc4fsajyr50qfu8tjqsqrj9rf29/baby-ninja",
@@ -3150,6 +3176,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19wccuev2399ad0ftdfyvw8h9qq5dvqxqw0pqxe/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj19xa3v0nwvdghpj4v2lzf64n70yx7wlqvaxcejn",
+    "name": "InjPepe (Wormhole)",
+    "symbol": "INJPEPE",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19xa3v0nwvdghpj4v2lzf64n70yx7wlqvaxcejn/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1dds0a220twm3pjprypmy0qun3cn727hzj0tpaa",
