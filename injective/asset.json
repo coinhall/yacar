@@ -5,7 +5,7 @@
     "symbol": "INJTOOLS",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://blue-defiant-flyingfish-41.mypinata.cloud/ipfs/QmbGgU5mpfMVhmKvdrdyjUe38GqB9ofizrRcJVxmje4sG7?_gl=1*1i1x20m*_ga*NTEyNjc0MDgwLjE3MDMxMTAyMDI.*_ga_5RMPXG14TE*MTcwMzExMDIwMi4xLjEuMTcwMzExMDM5MC4xOS4wLjA."
+    "icon": "https://blue-defiant-flyingfish-41.mypinata.cloud/ipfs/QmbGgU5mpfMVhmKvdrdyjUe38GqB9ofizrRcJVxmje4sG7?_gl=1*1i1x20m*_ga*NTEyNjc0MDgwLjE3MDMxMTAyMDI.*_ga_5RMPXG14TE*MTcwMzExMDIwMi4xLjEuMTcwMzExMDM5MC4xOS4wLjA"
   },
   {
     "id": "factory/inj105ujajd95znwjvcy3hwcz80pgy8tc6v77spur0/JINJAO",
@@ -410,8 +410,8 @@
     "symbol": "AUTISM",
     "decimals": "6",
     "type": "tokenfactory",
-    "circ_supply": "564779859.319",
-    "total_supply": "564779859.319",
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz%2Fautism",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz%2Fautism",
     "icon": "https://raw.githubusercontent.com/jlee1997/autism/main/autism.jpg"
   },
   {
@@ -509,6 +509,7 @@
   },
   {
     "id": "factory/inj15zruc9fw2qw9sc3pvlup5qmmqsk5pcmck7ylhw/BABYGINGER",
+    "entity": "BABY GINGER",
     "name": "BABY GINGER",
     "symbol": "BABY GINGER",
     "decimals": "6",
@@ -1549,7 +1550,8 @@
   },
   {
     "id": "factory/inj1my757j0ndftrsdf2tuxsdhhy5qfkpuxw4x3wnc/shinju",
-    "name": "ShibaInju",
+    "entity": "Shiba Inju",
+    "name": "Shiba Inju",
     "symbol": "SHINJU",
     "decimals": "6",
     "type": "tokenfactory",
@@ -1926,6 +1928,7 @@
   },
   {
     "id": "factory/inj1sjmplasxl9zgj6yh45j3ndskgdhcfcss9djkdn/INJER",
+    "entity": "Injineer",
     "name": "Injineer",
     "symbol": "INJER",
     "decimals": "6",
@@ -2998,6 +3001,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
+    "id": "inj12d7qq0lp656jkrr2d3ez55cr330f3we9c75ml6",
+    "name": "Jesus Injective (Wormhole)",
+    "symbol": "INJESUS",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj12d7qq0lp656jkrr2d3ez55cr330f3we9c75ml6/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55",
     "name": "CW20-wrapped inj",
     "symbol": "INJ",
@@ -3021,6 +3032,22 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1802ascnwzdhvv84url475eyx26ptuc6jc590nl/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj19j6q86wt75p3pexfkajpgxhkjht589zyu0e4rd",
+    "name": "Silly Dragon (Wormhole)",
+    "symbol": "SILLY",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19j6q86wt75p3pexfkajpgxhkjht589zyu0e4rd/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj19wccuev2399ad0ftdfyvw8h9qq5dvqxqw0pqxe",
+    "name": "SantaInjective (Wormhole)",
+    "symbol": "SANTAINJ",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19wccuev2399ad0ftdfyvw8h9qq5dvqxqw0pqxe/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1dds0a220twm3pjprypmy0qun3cn727hzj0tpaa",
     "name": "SantaMemes (Wormhole)",
     "symbol": "SANTAMEME",
@@ -3041,6 +3068,14 @@
     "symbol": "IXB",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1pykhnt3l4ekxe6ra5gjc03pgdglavsv34vdjmx",
+    "name": "InjTwitterX (Wormhole)",
+    "symbol": "INJXXX",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1pykhnt3l4ekxe6ra5gjc03pgdglavsv34vdjmx/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1qpepg77mysjjqlm9znnmmkynreq9cs2rypwf35",
@@ -3134,6 +3169,7 @@
   },
   {
     "id": "peggy0x5085202d0A4D8E4724Aa98C42856441c3b97Bc6d",
+    "entity": "SKIBIDI",
     "name": "SKIBIDI",
     "symbol": "SKIBIDI",
     "decimals": "9",

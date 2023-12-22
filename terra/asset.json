@@ -792,6 +792,7 @@
   },
   {
     "id": "terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l",
+    "entity": "SEUL",
     "name": "SEUL",
     "symbol": "SEUL",
     "decimals": "6",
@@ -1235,6 +1236,7 @@
   },
   {
     "id": "terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz",
+    "entity": "Trump DAO",
     "name": "Trump Dao Token",
     "symbol": "TRUMP",
     "decimals": "6",
@@ -1486,6 +1488,13 @@
     "entity": "Astroport",
     "name": "ULUN-IBC/-LP",
     "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun",
+    "name": "DROGO",
+    "symbol": "DROGO",
     "decimals": "6",
     "type": "cw20"
   },
@@ -2546,6 +2555,7 @@
   },
   {
     "id": "terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5",
+    "entity": "Staked xSEUL",
     "name": "Staked xSEUL",
     "symbol": "xSEUL",
     "decimals": "6",
