@@ -1548,6 +1548,15 @@
     "icon": "https://ipfs.io/ipfs/QmYEXRmAdNf43wiQrriwYhLcgvRW8qfq1WyqVvKqE1J9ck"
   },
   {
+    "id": "factory/inj1mllxwgvx0zhhr83rfawjl05dmuwwzfcrs9xz6t/SHU",
+    "name": "ShurikenLabs",
+    "symbol": "SHU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom%3Fdenom=factory/inj1mllxwgvx0zhhr83rfawjl05dmuwwzfcrs9xz6t/SHU",
+    "icon": "https://bafkreih7l2nk424cfljdd4lo256vx7frs7663yppsaucqd3zlw5wxq53u4.ipfs.nftstorage.link"
+  },
+  {
     "id": "factory/inj1my757j0ndftrsdf2tuxsdhhy5qfkpuxw4x3wnc/shinju",
     "entity": "Shiba Inju",
     "name": "Shiba Inju",
@@ -3052,6 +3061,14 @@
     "symbol": "SANTAMEME",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1k4v0wzgxm5zln8asekgkdljvctee45l7ujwlr4",
+    "name": "ProBonk-Injective (Wormhole)",
+    "symbol": "PBinj",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1k4v0wzgxm5zln8asekgkdljvctee45l7ujwlr4/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
