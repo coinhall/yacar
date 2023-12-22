@@ -3590,6 +3590,16 @@
     "lp_token_id": "inj1q9m9y3zu52xwan8ur77mu6909uge64y3a0hn2k"
   },
   {
+    "id": "inj1wxsxa3zr37k9e96mdqzwnaa0832gsz506tdgae",
+    "asset_ids": [
+      "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
+      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1fq4ft74s2yyt333v7zywgcmh7gzgprnf5r474f"
+  },
+  {
     "id": "inj1wyw0dxuszc0j54shdu44ymmpk40kfufqnsflxh",
     "asset_ids": [
       "factory/inj1k2kcx5n03pe0z9rfzvs9lt764jja9xpvwrxk7c/FOMOFox",
@@ -4427,6 +4437,15 @@
     "asset_ids": [
       "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
       "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
+    "id": "0xb6c24e9a586a50062f2fac059ddd79f8b0cf1c101e263f4b2c7484b0e20d2899",
+    "asset_ids": [
+      "factory/inj172ccd0gddgz203e4pf86ype7zjx573tn8g0df9/GINGER",
+      "inj"
     ],
     "dex": "Helix",
     "type": "orderbook"
