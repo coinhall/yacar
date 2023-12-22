@@ -40,7 +40,7 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: "Oops... it looks like something went wrong with the validation of your changes. To help us review your changes faster so that it displays on the website sooner, please run the latest \`format.sh\` (Mac/Linux) /\`format.bat\` (Windows) script!"
+              body: "Oops... it looks like something went wrong with the validation of your changes.\n\nTo make your changes appear on the [Coinhall](https://coinhall.org/) sooner, please run the latest \`format.sh\` (Mac/Linux) /\`format.bat\` (Windows) script and fix the errors."
             })
 
   automerge:
