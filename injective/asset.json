@@ -1847,6 +1847,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1qjjhhdn95u8s6tqqhx27n8g9vqtn6uhn63szp8/TEST",
+    "name": "TEST",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1qjjhhdn95u8s6tqqhx27n8g9vqtn6uhn63szp8%2FTEST"
+  },
+  {
     "id": "factory/inj1qw7egul6sr0yjpxfqq5qars2qvxucgp2sartet/boburu",
     "name": "Boburu (ボブル)",
     "symbol": "BOBURU",
