@@ -1735,6 +1735,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1pe8rs2gfmem5ak8vtqkduzkgcyargk2fg6u4as/RUGAOI",
+    "name": "RUGAOI",
+    "symbol": "RUGAOI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1pe8rs2gfmem5ak8vtqkduzkgcyargk2fg6u4as%2FRUGAOI"
+  },
+  {
     "id": "factory/inj1pgkwcngxel97d9qjvg75upe8y3lvvzncq5tdr0/brian",
     "name": "Brian",
     "symbol": "brian",
@@ -3394,6 +3402,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1hlg3pr7mtvzcczq0se4xygscmm2c99rrndh4gv/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1jwms7tyq6fcr0gfzdu8q5qh906a8f44wws9pyn",
+    "name": "InjectiveToMoon (Wormhole)",
+    "symbol": "INJMOON",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1jwms7tyq6fcr0gfzdu8q5qh906a8f44wws9pyn/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1k4v0wzgxm5zln8asekgkdljvctee45l7ujwlr4",
     "name": "ProBonk-Injective (Wormhole)",
     "symbol": "PBinj",
@@ -3530,6 +3546,14 @@
     "symbol": "INJMEME",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1zrw6acmpnghlcwjyrqv0ta5wmzute7l4f0n3dz",
+    "name": "Rocketcoin (Wormhole)",
+    "symbol": "ROCKET",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zrw6acmpnghlcwjyrqv0ta5wmzute7l4f0n3dz/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "peggy0x080B12E80C9b45e97C23b6ad10a16B3e2a123949",
