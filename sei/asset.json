@@ -195,6 +195,14 @@
     "icon": "https://i.imgur.com/cLbYDpJ.png"
   },
   {
+    "id": "factory/sei1r5nxpafg7lukqs4edhp3kttnzvadmewxpfy46a/SailorVenus",
+    "name": "SailorVenus",
+    "symbol": "SAV",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1r5nxpafg7lukqs4edhp3kttnzvadmewxpfy46a%2FSailorVenus"
+  },
+  {
     "id": "factory/sei1t9k0adfpn8rxwcvedafku5595ue73pl3m86anr/tirso",
     "name": "tirso",
     "symbol": "tirso",
@@ -432,6 +440,14 @@
     "type": "cw20"
   },
   {
+    "id": "sei15npmr4jz89jcfvapts79v8aqxsf43pnw47424tzdzuafmsc3hnrsh7dlau",
+    "name": "SeiX",
+    "symbol": "SeiX",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei15npmr4jz89jcfvapts79v8aqxsf43pnw47424tzdzuafmsc3hnrsh7dlau/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei15rc5p6ugtawex3p90ch889xs9pd59y70nva09x47wkx5x6n30yrqc8flpn",
     "name": "MidCoin",
     "symbol": "MID",
@@ -542,6 +558,14 @@
     "symbol": "VEGETA",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "sei18m06r5vg285qvnqr23rkpm7ae67d7gph8ruh62jy7rgwnva5ljuqywlkf5",
+    "name": "Ninja Doge",
+    "symbol": "nDOGE",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei18m06r5vg285qvnqr23rkpm7ae67d7gph8ruh62jy7rgwnva5ljuqywlkf5/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei18wdp9ullvtna90pcksjj8fkcshkguvhced5etgys2k8ys9ne5gtqk3fvp9",
