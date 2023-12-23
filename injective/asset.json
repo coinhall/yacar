@@ -229,6 +229,15 @@
     "icon": "https://bafybeif74rzbcai5x5gwccxe6mq3gp5m3xuvy546wzdoc5h5us5p26vleq.ipfs.nftstorage.link/"
   },
   {
+    "id": "factory/inj13gc95nsrtv3da5x6ujmktekaljwhj5npl2nszl/ELON",
+    "name": "ELON",
+    "symbol": "ELON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj13gc95nsrtv3da5x6ujmktekaljwhj5npl2nszl%2FELON",
+    "icon": "https://ipfs.moralis.io:2053/ipfs/QmYLKM9N6V3iWPhNrpY8KP7r5kfSLYeH5SD8GCfzc5SWKX/INJECTIVEELON.webp"
+  },
+  {
     "id": "factory/inj13jjdsa953w03dvecsr43dj5r6a2vzt7n0spncv/brett",
     "entity": "BRETT",
     "name": "BluePepe",
@@ -1367,6 +1376,14 @@
     "symbol": "HATTORI",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1h9zu2u6yqf3t5uym75z94zsqfhazzkyg39957u/PIKACHU",
+    "name": "Pikachu INJ",
+    "symbol": "PIKACHU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1h9zu2u6yqf3t5uym75z94zsqfhazzkyg39957u%2FPIKACHU"
   },
   {
     "id": "factory/inj1hcymy0z58zxpm3esch2u5mps04a3vq2fup4j29/InjBull",
@@ -3373,6 +3390,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj143rjlwt7r28wn89r39wr76umle8spx47z0c05d/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1525sjr836apd4xkz8utflsm6e4ecuhar8qckhd",
+    "name": "Santadoge (Wormhole)",
+    "symbol": "SDOGE",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1525sjr836apd4xkz8utflsm6e4ecuhar8qckhd/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj15x75x44futqdpx7mp86qc6dcuaqcyvfh0gpxp5",
     "name": "Injective Protocol (Wormhole)",
     "symbol": "INJPRO",
@@ -3514,6 +3539,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1a3ec88sxlnu3ntdjk79skr58uetrvxcm4puhth/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1c22v69304zlaan50gdygmlgeaw56lcphl22n87",
+    "name": "H3NSY (Wormhole)",
+    "symbol": "H3NSY",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1c22v69304zlaan50gdygmlgeaw56lcphl22n87/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1dds0a220twm3pjprypmy0qun3cn727hzj0tpaa",
