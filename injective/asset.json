@@ -2441,6 +2441,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1wjtuzkprkc4gdf4r7dlh9gu96yyxml8qpzzy9p/elon",
+    "name": "ELON",
+    "symbol": "ELON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1wjtuzkprkc4gdf4r7dlh9gu96yyxml8qpzzy9p%2Felon",
+    "icon": "https://pbs.twimg.com/profile_images/1737549320327450624/I0dFB5H3_400x400.jpg"
+  },
+  {
     "id": "factory/inj1wlwsd6w84ydmsqs5swthm5hw22qm8fxrth5ggx/FUINJ",
     "name": "FUINJ",
     "symbol": "FUINJ",
