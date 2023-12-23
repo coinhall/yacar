@@ -432,6 +432,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj14epxlhe56lhk5s3nc8wzmetwh6rpehuufe89ak/NODEVNORUG",
+    "name": "NODEV NORUG",
+    "symbol": "nodevnorug",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14epxlhe56lhk5s3nc8wzmetwh6rpehuufe89ak%2FNODEVNORUG",
+    "icon": "https://i.ibb.co/9rYdQnc/nodev-norug.webp"
+  },
+  {
     "id": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
     "entity": "Autism",
     "name": "AUTISM",
