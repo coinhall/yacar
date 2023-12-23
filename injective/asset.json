@@ -1557,6 +1557,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1khr6lahyjz0wgnwzuu4dk5wz24mjrudz6vgd0z/bigchungus",
+    "name": "BIG CHUNGUS",
+    "symbol": "CHUNGUS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1khr6lahyjz0wgnwzuu4dk5wz24mjrudz6vgd0z%2Fbigchungus",
+    "icon": "https://cdn.vox-cdn.com/thumbor/VVXayrypyYIMqiHWIYdL77FRF_o=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/22408516/Big_Chungus.png"
+  },
+  {
     "id": "factory/inj1kr66vwdpxmcgqgw30t6duhtmfdpcvlkljgn5f7/JINJA",
     "name": "JINJA",
     "symbol": "JINJA",
@@ -3557,6 +3566,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1c22v69304zlaan50gdygmlgeaw56lcphl22n87/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1d08rut8e0u2e0rlf3pynaplas6q0akj5p976kv",
+    "name": "Tomogakuen (Wormhole)",
+    "symbol": "TOMO",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1d08rut8e0u2e0rlf3pynaplas6q0akj5p976kv/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1dds0a220twm3pjprypmy0qun3cn727hzj0tpaa",
