@@ -1876,6 +1876,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1qzxna8fqr56g83rvyyylxnyghpguzt2jx3dgr8/SNIPER",
+    "name": "SNIPER",
+    "symbol": "SNIPER",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1qzxna8fqr56g83rvyyylxnyghpguzt2jx3dgr8%2FSNIPER"
+  },
+  {
     "id": "factory/inj1r4usuj62gywdwhq9uvx6tg0ywqpppcjqu7z4js/crinj",
     "name": "CRINJ",
     "symbol": "CRINJ",
@@ -3372,6 +3380,14 @@
     "symbol": "ASTROINJ",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1tty2w6sacjpc0ma6mefns27qtudmmp780rxlch",
+    "name": "Inj-Shib (Wormhole)",
+    "symbol": "INJSHIB",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1tty2w6sacjpc0ma6mefns27qtudmmp780rxlch/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1u82h7d8l47q3kzwvkm2mgzrskk5au4lrkntkjn",
