@@ -582,6 +582,15 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/aoi.webp"
   },
   {
+    "id": "factory/inj16g5w38hqehsmye9yavag0g0tw7u8pjuzep0sys/FOOL",
+    "name": "FOOL",
+    "symbol": "FOOL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj16g5w38hqehsmye9yavag0g0tw7u8pjuzep0sys%2FFOOL",
+    "icon": "https://twitter.com/smileinjection/photo"
+  },
+  {
     "id": "factory/inj16jsp4xd49k0lnqlmtzsskf70pkzyzv2hjkcr8f/synergy",
     "name": "Synergia συνεργία",
     "symbol": "SYN",
@@ -934,6 +943,15 @@
     "circ_supply": "1000000000",
     "total_supply": "1000000000",
     "icon": "https://kermitcoin.io/wp-content/uploads/2023/11/logo-kermit2-1.webp"
+  },
+  {
+    "id": "factory/inj1ax459aj3gkph6z0sxaddk6htzlshqlp5mfwqvx/catinbin",
+    "name": "CAT IN A BIN",
+    "symbol": "BIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1ax459aj3gkph6z0sxaddk6htzlshqlp5mfwqvx%2Fcatinbin",
+    "icon": "https://i.ibb.co/MgvYJsj/kittybin.png"
   },
   {
     "id": "factory/inj1c5gk9y20ptuyjlul0w86dsxhfttpjgajhvf9lh/NFA",
@@ -3442,6 +3460,14 @@
     "symbol": "SANTAMEME",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1exeh9j6acv6375mv9rhwtzp4qhfne5hajncllk",
+    "name": "MetaTron (Wormhole)",
+    "symbol": "MT",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1exeh9j6acv6375mv9rhwtzp4qhfne5hajncllk/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1h0h49fpkn5r0pjmscywws0m3e7hwskdsff4qkr",
