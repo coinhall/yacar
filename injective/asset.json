@@ -1848,6 +1848,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1qjjhhdn95u8s6tqqhx27n8g9vqtn6uhn63szp8/TEST",
+    "name": "TEST",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1qjjhhdn95u8s6tqqhx27n8g9vqtn6uhn63szp8%2FTEST"
+  },
+  {
     "id": "factory/inj1qw7egul6sr0yjpxfqq5qars2qvxucgp2sartet/boburu",
     "name": "Boburu (ボブル)",
     "symbol": "BOBURU",
@@ -1875,6 +1883,14 @@
     "symbol": "APE",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1qzxna8fqr56g83rvyyylxnyghpguzt2jx3dgr8/SNIPER",
+    "name": "SNIPER",
+    "symbol": "SNIPER",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1qzxna8fqr56g83rvyyylxnyghpguzt2jx3dgr8%2FSNIPER"
   },
   {
     "id": "factory/inj1r4usuj62gywdwhq9uvx6tg0ywqpppcjqu7z4js/crinj",
@@ -3196,6 +3212,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
   },
   {
+    "id": "inj12mjzeu7qrhn9w85dd02fkvjt8hgaewdk6j72fj",
+    "name": "SeiXInj (Wormhole)",
+    "symbol": "SXI",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj12mjzeu7qrhn9w85dd02fkvjt8hgaewdk6j72fj/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj13ew774de6d3qhfm3msmhs9j57le9krrw2ezh3a",
     "name": "Injective Network (Wormhole)",
     "symbol": "INJNET",
@@ -3241,6 +3265,22 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj179luuhr3ajhsyp92tw73w8d7c60jxzjcy22356/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj17cqy5lr4gprjgnlv0j2mw4rhqfhr9zpupkur8t",
+    "name": "Injective-Santa (Wormhole)",
+    "symbol": "SANTAINJ",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj17cqy5lr4gprjgnlv0j2mw4rhqfhr9zpupkur8t/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj17qsyspyh44wjch355pr72wzfv9czt5cw3h7vrr",
+    "name": "BlueInjective (Wormhole)",
+    "symbol": "BINJ",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj17qsyspyh44wjch355pr72wzfv9czt5cw3h7vrr/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1802ascnwzdhvv84url475eyx26ptuc6jc590nl",
@@ -3337,6 +3377,14 @@
     "type": "cw20"
   },
   {
+    "id": "inj1p2w55xu2yt55rydrf8l6k79kt3xmjmmsnn3mse",
+    "name": "CatInjective (Wormhole)",
+    "symbol": "CATINJ",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1p2w55xu2yt55rydrf8l6k79kt3xmjmmsnn3mse/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1pv567vvmkv2udn6llcnmnww78erjln35ut05kc",
     "name": "Injective Inu (Wormhole)",
     "symbol": "INJINU",
@@ -3365,6 +3413,14 @@
     "symbol": "ASTROINJ",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1tty2w6sacjpc0ma6mefns27qtudmmp780rxlch",
+    "name": "Inj-Shib (Wormhole)",
+    "symbol": "INJSHIB",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1tty2w6sacjpc0ma6mefns27qtudmmp780rxlch/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1u82h7d8l47q3kzwvkm2mgzrskk5au4lrkntkjn",
