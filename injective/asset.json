@@ -1573,6 +1573,15 @@
     "icon": "https://i.ibb.co/4Sq6KYX/stsmall507x507-pad600x600f8f8f8.png"
   },
   {
+    "id": "factory/inj1lucykkh3kv3wf6amckf205rg5jl8rprdcq8v83/HRBE",
+    "name": "HRBE",
+    "symbol": "HRBE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1lucykkh3kv3wf6amckf205rg5jl8rprdcq8v83%2FHRBE",
+    "icon": "https://ipfs.io/ipfs/bafybeicn45uvbfo2k3w4ccambwgjfhyanopt5ezh4vnkcowlm774mpm7da?filename=HRBE.png"
+  },
+  {
     "id": "factory/inj1lv9v2z2zvvng6v9qm8eh02t2mre6f8q6ez5jxl/turtleninj",
     "name": "TURTLENINJ",
     "symbol": "TURTLENINJ",
@@ -3312,6 +3321,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1980cshwxa5mnptp6vzngha6h2qe556anm4zjtt/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj19gm2tefdz5lpx49veyqe3dhtqqkwmtyswv60ux",
+    "name": "Injective Genesis (Wormhole)",
+    "symbol": "INJGEN",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19gm2tefdz5lpx49veyqe3dhtqqkwmtyswv60ux/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj19j6q86wt75p3pexfkajpgxhkjht589zyu0e4rd",
