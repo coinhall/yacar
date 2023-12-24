@@ -1,5 +1,14 @@
 [
   {
+    "id": "factory/terra1hwsm9fm0j79lgfgd37z8fe6gsxl4d4mxtc5td8/qt",
+    "name": "QTπ",
+    "symbol": "QTπ`",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fterra1hwsm9fm0j79lgfgd37z8fe6gsxl4d4mxtc5td8%2Fqt",
+    "icon": "ipfs://bafkreiaev7p3rzewuje4zq5kki2nmses33txrqrwssmwuovu6ebhxgwvz4"
+  },
+  {
     "id": "factory/terra1kkv72sv5zfx539garpych7x5xuq9m9d2a9dnvt863gk3n3g02husc2vxeu/URA",
     "entity": "Ura",
     "name": "Ura",
@@ -561,6 +570,14 @@
     "symbol": "AAA",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra10qcmxdt9sekqt9mutdqwutu95e9nq7zwwqha3awy6pmvy03mp0usp0h9mu",
+    "name": " (Wormhole)",
+    "symbol": "",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra10qcmxdt9sekqt9mutdqwutu95e9nq7zwwqha3awy6pmvy03mp0usp0h9mu/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra10rwjgm2nzweq04fqlqykld7azm4t0yhj8gwnyg9k7c4w4laht3aqrmwjyn",
