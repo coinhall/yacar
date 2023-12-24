@@ -1394,11 +1394,14 @@
   },
   {
     "id": "factory/inj1h4usvhhva6dgmun9rk4haeh8lynln7yhk6ym00/PIKA",
+    "entity": "Pikachu",
     "name": "Pikachu",
-    "symbol": "PIKAC",
+    "symbol": "PIKA",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1h4usvhhva6dgmun9rk4haeh8lynln7yhk6ym00%2FPIKA"
+    "circ_supply": "333333333333",
+    "total_supply": "333333333333",
+    "icon": "https://raw.githubusercontent.com/pikachuDev007/astroport-token-lists/main/img/pikachu.png"
   },
   {
     "id": "factory/inj1h7zackjlzcld6my000mtg3uzuqdv0ly4c9g88p/HATTORI",
