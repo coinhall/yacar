@@ -123,6 +123,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1tyrmsl3n86c853tf3dxkzn00v4vjylcp6mat3s/upaw",
+    "name": "PAW",
+    "symbol": "PAW",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1tyrmsl3n86c853tf3dxkzn00v4vjylcp6mat3s%2Fupaw"
+  },
+  {
     "id": "factory/osmo1wh8arjgtpdgyf9rlw3k960kkx0943hy92n20sg4pjyk8grc6dhzsunuchs/ctc",
     "name": "cTaurus",
     "symbol": "cTc",
@@ -264,6 +272,7 @@
   },
   {
     "id": "ibc/0CB9DB3441D0D50F35699DEE22B9C965487E83FB2D9F483D1CC5CA34E856C484",
+    "entity": "JoeDAO",
     "name": "JoeDAO",
     "symbol": "JOE",
     "decimals": "6",
@@ -809,6 +818,7 @@
   },
   {
     "id": "ibc/47CAF2DB8C016FAC960F33BC492FD8E454593B65CC59D70FA9D9F30424F9C32F",
+    "entity": "Canto",
     "name": "Canto",
     "symbol": "CANTO",
     "decimals": "18",
@@ -988,6 +998,7 @@
   },
   {
     "id": "ibc/573FCD90FACEE750F55A8864EF7D38265F07E5A9273FA0E8DAFD39951332B580",
+    "entity": "Mars Protocol",
     "name": "Mars",
     "symbol": "MARS",
     "decimals": "6",
@@ -1238,6 +1249,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.svg"
   },
   {
+    "id": "ibc/69110FF673D70B39904FF056CFDFD58A90BEC3194303F45C32CB91B8B0A738EA",
+    "name": "Haqq Network",
+    "symbol": "ISLM",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/haqq/images/islm.svg"
+  },
+  {
     "id": "ibc/6928AFA9EA721938FED13B051F9DBF1272B16393D20C49EA5E4901BB76D94A90",
     "name": "Nois",
     "symbol": "NOIS",
@@ -1314,6 +1333,7 @@
   },
   {
     "id": "ibc/6F18EFEBF1688AA77F7EAC17065609494DC1BA12AFC78E9AEC832AF70A11BEF3",
+    "entity": "Lion Cub DAO",
     "name": "Lion Cub DAO",
     "symbol": "CUB",
     "decimals": "6",
@@ -1476,6 +1496,7 @@
   },
   {
     "id": "ibc/7ED954CFFFC06EE8419387F3FC688837FF64EF264DE14219935F724EEEDBF8D3",
+    "entity": "Shentu",
     "name": "Shentu",
     "symbol": "CTK",
     "decimals": "6",
@@ -1795,6 +1816,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/decentr/images/dec.svg",
     "coingecko": "https://www.coingecko.com/en/coins/decentr",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/9DDF52A334F92BC57A9E0D59DFF9984EAC61D2A14E5162605DF601AA58FDFC6D",
+    "name": "$AUTISM exists to celebrate autism as a superior biological tech stack for a changing world",
+    "symbol": "AUTISM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/autism.png"
   },
   {
     "id": "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E",
@@ -2669,6 +2698,7 @@
   },
   {
     "id": "ibc/EA4C0A9F72E2CEDF10D0E7A9A6A22954DB3444910DB5BE980DF59B05A46DAD1C",
+    "entity": "Desmos",
     "name": "Desmos",
     "symbol": "DSM",
     "decimals": "6",

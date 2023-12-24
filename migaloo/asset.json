@@ -7,6 +7,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/migaloo13pwwuqlv6gfth6r8w9uanvu5t0ugzghxhaul2y9cy8xk5n6d94ws32c8td/squib",
+    "name": "Squib Token",
+    "symbol": "SQUIB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fmigaloo13pwwuqlv6gfth6r8w9uanvu5t0ugzghxhaul2y9cy8xk5n6d94ws32c8td%2Fsquib"
+  },
+  {
     "id": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
     "entity": "White Whale",
     "name": "ERIS Amplified WHALE",
