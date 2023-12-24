@@ -326,6 +326,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1467q6d05yz02c2rp5qau95te3p74rqllda4ql7/husky",
+    "name": "HUSKY",
+    "symbol": "HUSKY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1467q6d05yz02c2rp5qau95te3p74rqllda4ql7%2Fhusky",
+    "icon": "https://pbs.twimg.com/profile_images/1738127727884951552/aspUCgIC_400x400.jpg"
+  },
+  {
     "id": "factory/inj147laec3n2gq8gadzg8xthr7653r76jzhavemhh/BONK",
     "name": "Bonk on INJ",
     "symbol": "BONK",
