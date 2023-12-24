@@ -230,10 +230,12 @@
   },
   {
     "id": "factory/inj13gc95nsrtv3da5x6ujmktekaljwhj5npl2nszl/ELON",
+    "entity": "ElonInj",
     "name": "ELON",
     "symbol": "ELON",
     "decimals": "6",
     "type": "tokenfactory",
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj13gc95nsrtv3da5x6ujmktekaljwhj5npl2nszl%2FELON",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj13gc95nsrtv3da5x6ujmktekaljwhj5npl2nszl%2FELON",
     "icon": "https://ipfs.moralis.io:2053/ipfs/QmYLKM9N6V3iWPhNrpY8KP7r5kfSLYeH5SD8GCfzc5SWKX/INJECTIVEELON.webp"
   },
