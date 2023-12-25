@@ -2221,6 +2221,14 @@
     "icon": "https://pbs.twimg.com/profile_images/1737243971271741440/8THYdkbx_400x400.jpg"
   },
   {
+    "id": "factory/inj1s0ckch4dlp5eyx7khtqnt9dryd60v6ns4g0yn4/DOGE",
+    "name": "DOGECoin",
+    "symbol": "DOGE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1s0ckch4dlp5eyx7khtqnt9dryd60v6ns4g0yn4%2FDOGE"
+  },
+  {
     "id": "factory/inj1s0ckch4dlp5eyx7khtqnt9dryd60v6ns4g0yn4/DOGEINJ",
     "name": "DOGEINJCoin",
     "symbol": "DOGEINJ",
