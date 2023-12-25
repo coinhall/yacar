@@ -123,6 +123,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1tyrmsl3n86c853tf3dxkzn00v4vjylcp6mat3s/upaw",
+    "name": "PAW",
+    "symbol": "PAW",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1tyrmsl3n86c853tf3dxkzn00v4vjylcp6mat3s%2Fupaw"
+  },
+  {
     "id": "factory/osmo1wh8arjgtpdgyf9rlw3k960kkx0943hy92n20sg4pjyk8grc6dhzsunuchs/ctc",
     "name": "cTaurus",
     "symbol": "cTc",
@@ -1808,6 +1816,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/decentr/images/dec.svg",
     "coingecko": "https://www.coingecko.com/en/coins/decentr",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/9DDF52A334F92BC57A9E0D59DFF9984EAC61D2A14E5162605DF601AA58FDFC6D",
+    "name": "$AUTISM exists to celebrate autism as a superior biological tech stack for a changing world",
+    "symbol": "AUTISM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/autism.png"
   },
   {
     "id": "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E",

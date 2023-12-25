@@ -1,5 +1,16 @@
 [
   {
+    "id": "factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip",
+    "entity": "Eclipse Fi",
+    "name": "Eclipse Fi",
+    "symbol": "ECLIP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTBzcjA2cjNxa2huN3h6cHczMzM5d3VqNzdodTA2bXpuYTZ1aHQwL2VjbGlw&pagination.limit=1",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/eclipse-fi/",
+    "coingecko": "https://www.coingecko.com/en/coins/eclipse-fi"
+  },
+  {
     "id": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt",
     "name": "Newt",
     "symbol": "NEWT",
