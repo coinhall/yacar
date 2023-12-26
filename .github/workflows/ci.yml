@@ -31,11 +31,14 @@ jobs:
           cd ${{ github.workspace }}
           git diff --quiet . || (echo "Did you forget to run the latest 'format.sh' script?" && exit 1)
 
+  automerge:
+    runs-on: ubuntu-latest
+    needs: [validate]
+    if: |
+      github.event_name == 'pull_request' && 
+      github.repository == 'coinhall/yacar'
+    steps:
       - name: auto-merge
-        if: |
-          steps.diff.outputs.status == '0' &&
-          github.event_name == 'pull_request' &&
-          github.repository == 'coinhall/yacar'
         uses: pascalgn/automerge-action@v0.15.5
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
