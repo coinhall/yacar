@@ -202,6 +202,14 @@
     "icon": "https://ipfs.filebase.io/ipfs/QmSgSt6CNK342FshKJcdLNSPveGJAxVSJwGcuxbjNGTSWW"
   },
   {
+    "id": "factory/inj1300jzt0tyjg8x4txsfs79l29k556vqqk22c7es/cope",
+    "name": "CopeCoin",
+    "symbol": "CP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1300jzt0tyjg8x4txsfs79l29k556vqqk22c7es%2Fcope"
+  },
+  {
     "id": "factory/inj130nkx4u8p5sa2jl4apqlnnjlej2ymfq0e398w9/BLUE",
     "name": "BLUE GRIN TOKEN",
     "symbol": "BLUE",
