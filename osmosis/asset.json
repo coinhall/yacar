@@ -147,6 +147,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1yxg9nt6uvysyq3cs9gmp58f48unffpfscqjyr6nv2u7mh6657nwssfyp33/sail",
+    "name": "Sail DAO token",
+    "symbol": "SAIL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1yxg9nt6uvysyq3cs9gmp58f48unffpfscqjyr6nv2u7mh6657nwssfyp33%2Fsail"
+  },
+  {
     "id": "ibc/00B6E60AD3D65CBEF5579AC8AF609527C0B57535B6E32D96C80A735344FD9DCC",
     "name": "JunoSwap",
     "symbol": "RAW",
