@@ -1026,11 +1026,14 @@
   },
   {
     "id": "factory/inj1any4rpwq7r850u6feajg5payvhwpunu9cxqevc/DOJO",
+    "entity": "DOJO",
     "name": "Dojo Bot",
     "symbol": "DOJO",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1any4rpwq7r850u6feajg5payvhwpunu9cxqevc%2FDOJO"
+    "circ_supply": "1000000000",
+    "total_supply": "1000000000",
+    "icon": "https://raw.githubusercontent.com/DojoBotInj/astroport-token-lists/main/img/dojo.png"
   },
   {
     "id": "factory/inj1apk9x267a3qplc6q9a22xsvd2k96g0655xw59m/DRAGON",
