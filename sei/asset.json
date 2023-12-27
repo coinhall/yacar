@@ -832,15 +832,6 @@
     "type": "cw20"
   },
   {
-    "id": "sei1uguzgzldm6rnmvrzuvkze02zr2hm2jw5374dwzm6666zucml6hcssqt4c6",
-    "name": "SEIMOYED",
-    "symbol": "SEIMOYED",
-    "decimals": "6",
-    "type": "cw20",
-    "circ_supply": "1010000000000000",
-    "icon" : "https://sei.astroport.fi/tokens/generated/SEIMOYED.png"
-  },
-  {
     "id": "sei1gyljnhgj5v3k2dxgktdcl0ju7cpft3tfp5uj4n0qtkm86xchc5fs03crw5",
     "name": "NAMEKIAN",
     "symbol": "NAMEKIAN",
@@ -1262,7 +1253,9 @@
     "name": "SEIMOYED",
     "symbol": "SEIMOYED",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply": "1010000000000000",
+    "icon": "https://sei.astroport.fi/tokens/generated/SEIMOYED.png"
   },
   {
     "id": "sei1ukyz990c3ne4wark87npzfvkqdd3k2sdzpsv9mftk7hfxr03z3sswz4k07",
