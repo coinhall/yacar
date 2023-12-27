@@ -268,11 +268,14 @@
   },
   {
     "id": "factory/inj13m5k0v69lrrng4y3h5895dlkr6zcp272jmhrve/Ninjutsu",
+    "entity": "NINJUTSU",
     "name": "NINJUTSU",
     "symbol": "NINJ",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj13m5k0v69lrrng4y3h5895dlkr6zcp272jmhrve%2FNinjutsu"
+    "circ_supply": "100000000",
+    "total_supply": "100000000",
+    "icon": "https://i.ibb.co/T1Gnms7/ninjutsu.jpg"
   },
   {
     "id": "factory/inj13qhzj4fr4u7t7gqj5pqy0yts07eu6k6dkjdcsx/gojo",
