@@ -2073,6 +2073,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1qczkutnsy3nmt909xtyjy4rsrkl2q4dm6aq960/coping",
+    "name": "CopingInj",
+    "symbol": "CPINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1qczkutnsy3nmt909xtyjy4rsrkl2q4dm6aq960%2Fcoping"
+  },
+  {
     "id": "factory/inj1qdamq2fk7xs6m34qv8swl9un04w8fhk42k35e5/SENJU",
     "name": "SENJU",
     "symbol": "SENJU",
