@@ -1,5 +1,15 @@
 [
   {
+    "id": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
+    "name": "Popeye the Seilor",
+    "symbol": "POPEYE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply": "100000000000000000",
+    "total_supply_api": "https://rest.cosmos.directory/sei/cosmos/bank/v1beta1/supply/by_denom?denom=factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/popeye.png"
+  },
+  {
     "id": "factory/sei1096s98z7w0pealkewgtnu9yxdsw47ux7dujtel/seize",
     "name": "SEIZE Token",
     "symbol": "SEIZE",
