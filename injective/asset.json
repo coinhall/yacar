@@ -1518,6 +1518,16 @@
     "icon": "https://pbs.twimg.com/media/GB8q0RfakAAZ38_?format=jpg&name=medium"
   },
   {
+    "id": "factory/inj1hrjm0jwfey8e4x3ef3pyeq4mpjvc8356lkgh9f/CHEEMS",
+    "entity": "CHEEMS",
+    "name": "Cheems",
+    "symbol": "CHEEMS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1hrjm0jwfey8e4x3ef3pyeq4mpjvc8356lkgh9f%2FCHEEMS",
+    "icon": "https://i.ibb.co/HCcBbzL/CHEEMS.jpg"
+  },
+  {
     "id": "factory/inj1hs5chngjfhjwc4fsajyr50qfu8tjqsqrj9rf29/baby-ninja",
     "name": "Baby Ninja",
     "symbol": "BABY NINJA",
@@ -2970,6 +2980,16 @@
     "circ_supply": "1000000000",
     "total_supply": "1000000000",
     "icon": "https://i.ibb.co/stSd6Lb/file-s-Vt1-UYut-BZZuf-Ww-NNIZfp30-Y.png"
+  },
+  {
+    "id": "factory/inj1y3g4wpgnc4s28gd9ure3vwm9cmvmdphml6mtul/ipdai",
+    "entity": "Injective Panda AI",
+    "name": "Injective Panda AI",
+    "symbol": "IPDAI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1y3g4wpgnc4s28gd9ure3vwm9cmvmdphml6mtul%2Fipdai",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/6a97bba0bb877cd503290e7b761e1d1bb83c5ea8/img/IPANDAI.png"
   },
   {
     "id": "factory/inj1ya7ltz2mkj0z4w25lxueh7emz6qhwe33m4knx8/INJECTIV",
