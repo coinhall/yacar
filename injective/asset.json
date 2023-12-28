@@ -657,6 +657,15 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/aoi.webp"
   },
   {
+    "id": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
+    "name": "Injective Cheelee",
+    "symbol": "CHELE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp%2FCHELE",
+    "icon": "https://raw.githubusercontent.com/cheeleeinj/astroport-token-lists/main/img/cheele.png"
+  },
+  {
     "id": "factory/inj16g5w38hqehsmye9yavag0g0tw7u8pjuzep0sys/BASTARD",
     "name": "BASTARD",
     "symbol": "BASTARD",
