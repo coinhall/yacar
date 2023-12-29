@@ -15,6 +15,8 @@
   - [How do I add a new pool?](#how-do-i-add-a-new-pool)
   - [How do I add a new asset?](#how-do-i-add-a-new-asset)
   - [How do I update my asset's circulating/total supply, icon, and other links?](#how-do-i-update-my-assets-circulatingtotal-supply-icon-and-other-links)
+  - [How do I update my asset's market cap or FDV?](#how-do-i-update-my-assets-market-cap-or-fdv)
+  - [My GitHub Actions CI is failing, what do I need to do?](#my-github-actions-ci-is-failing-what-do-i-need-to-do)
 - [Contributing Guide](#contributing-guide)
 
 ## Files
@@ -189,11 +191,19 @@ You do *not* need to add assets manually. Our bot will periodically detect and a
 
 Then, follow the [contributing guide](#contributing) to open a pull request.
 
+### How do I update my asset's market cap or FDV?
+
+Market cap is derived using circulating supply and FDV is derived using total supply. If an asset's market cap or FDV is wrong/missing, it usually means that the circulating or total supply values are wrong/missing. Updating the circulating or total supply values should fix the issue.
+
+### My GitHub Actions CI is failing, what do I need to do?
+
+Please ensure that you run the formatting scripts, `format.sh` (for MacOS/Linux users) or `format.bat` (for Windows users), before committing and pushing any changes. The GitHub Actions CI will run the same checks as the script. If running the script fails on your local repository, then the CI for your remote repository will fail as well.
+
 ## Contributing Guide
 
 1. [Fork this repo](https://github.com/coinhall/yacar/fork)
 2. Read the [FAQs](#faqs) and make the necessary changes on your fork
-3. Before committing any changes, run the `format.sh` script which automatically validates and formats your local files
-4. If the validation passes, [create a pull request](https://github.com/coinhall/yacar/compare)
-5. Enable GitHub Actions to run on your fork and ensure that your PR passes all checks
-6. If necessary, [contact us](https://t.me/coinhall_org) to seek for a review
+3. Before committing any changes, run the `format.sh` (for MacOS/Linux users) or `format.bat` (for Windows users) script which automatically validates and formats your local files
+4. If the validation passes, commit your changes and [create a pull request](https://github.com/coinhall/yacar/compare)
+5. Enable GitHub Actions to run on your fork and ensure that your PR passes all CI checks
+6. If necessary, [contact us](https://t.me/coinhall_org) to seek for a review (note that we may take up to 2 working days to merge newly opened PRs)
