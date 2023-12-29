@@ -1596,6 +1596,14 @@
     "icon": "https://ipfs.io/ipfs/QmX7mna7G3BLx2UCdAHviaDastbnvLiVmM2pQ5azBa1H7D"
   },
   {
+    "id": "factory/inj1j7zt6g03vpmg9p7g7qngvylfxqeuds73utsjnk/INJECT",
+    "name": "Injectools",
+    "symbol": "INJECT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1j7zt6g03vpmg9p7g7qngvylfxqeuds73utsjnk%2FINJECT"
+  },
+  {
     "id": "factory/inj1jc4zt6y82gy3n0j8g2mh9n3f7fwf35sj6jq5zu/TEST",
     "name": "TEST",
     "symbol": "TEST",
