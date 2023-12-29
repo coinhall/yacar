@@ -6,6 +6,7 @@ import (
 	"io"
 	"log"
 	"os"
+	"path/filepath"
 	"strings"
 
 	"github.com/coinhall/yacarsdk/v2"
@@ -19,6 +20,7 @@ func Start(filePaths []string) {
 func validateYacarJSONs(filePaths []string) {
 	chainFileMap := map[string]map[string]*os.File{}
 	for _, fp := range filePaths {
+		fp = filepath.ToSlash(fp)
 		fpElements := strings.Split(fp, "/")
 		chain := fpElements[len(fpElements)-2]
 		filetype := strings.Split(fpElements[len(fpElements)-1], ".")[0]
