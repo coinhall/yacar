@@ -1399,7 +1399,8 @@
     "symbol": "ARMANI",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1aa7stl3fytvave9xtcexgv0kne4k7ks068dcljkrfj37hy8q270sjadav8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1aa7stl3fytvave9xtcexgv0kne4k7ks068dcljkrfj37hy8q270sjadav8/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.imgur.com/DEGuAfU.png"
   },
   {
     "id": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
@@ -1476,6 +1477,14 @@
     "symbol": "DRMR",
     "decimals": "18",
     "type": "cw20"
+  },
+  {
+    "id": "terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s",
+    "name": "Staked Ito",
+    "symbol": "ITO",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1ces6k6jp7qzkjpwsl6xg4f7zfwre0u23cglg69hhj3g20fhygtpsu24dsy",
@@ -2915,7 +2924,7 @@
   },
   {
     "id": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-    "entity": "Capapult",
+    "entity": "Solid",
     "name": "Capapult",
     "symbol": "CAPA",
     "decimals": "6",
