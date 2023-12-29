@@ -1175,6 +1175,14 @@
     "icon": "https://arweave.net/lDcWLeOZNFLVcCQ3V6jjNF_6o0RbIC_-iI1dM1W3IHE"
   },
   {
+    "id": "factory/inj1d4ld9w7mf8wjyv5y7fnhpate07fguv3s3tmngm/karmainj",
+    "name": "Karma",
+    "symbol": "KARMA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1d4ld9w7mf8wjyv5y7fnhpate07fguv3s3tmngm%2Fkarmainj"
+  },
+  {
     "id": "factory/inj1ddmyuzh42n8ymyhcm5jla3aaq9tucjnye02dlf/fox",
     "name": "fox",
     "symbol": "fox",
@@ -1594,6 +1602,14 @@
     "decimals": "18",
     "type": "tokenfactory",
     "icon": "https://ipfs.io/ipfs/QmX7mna7G3BLx2UCdAHviaDastbnvLiVmM2pQ5azBa1H7D"
+  },
+  {
+    "id": "factory/inj1j7zt6g03vpmg9p7g7qngvylfxqeuds73utsjnk/INJECT",
+    "name": "Injectools",
+    "symbol": "INJECT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1j7zt6g03vpmg9p7g7qngvylfxqeuds73utsjnk%2FINJECT"
   },
   {
     "id": "factory/inj1jc4zt6y82gy3n0j8g2mh9n3f7fwf35sj6jq5zu/TEST",
@@ -3623,6 +3639,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj12dag0a67uxcvs5x730lpq0pdsatgmx8ktqeafl/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj12e5vzu6a8jqr5dnl4mh04hdskjnx9rw5n86exk",
+    "name": "CHAD (Wormhole)",
+    "symbol": "CHAD",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj12e5vzu6a8jqr5dnl4mh04hdskjnx9rw5n86exk/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj12hnvz0xs4mnaqh0vt9suwf8puxzd7he0mukgnu",
     "name": "Neo Labs (Wormhole)",
     "symbol": "NEO",
@@ -3717,6 +3741,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13ew774de6d3qhfm3msmhs9j57le9krrw2ezh3a/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj13mpkggs6t62kzt6pjd6guqfy6naljpp2jd3eue",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "devUSDC",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13mpkggs6t62kzt6pjd6guqfy6naljpp2jd3eue/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj13tnc70qhxuhc2efyvadc35rgq8uxeztl4ajvkf",
@@ -4157,6 +4189,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1dvflqrkkaxped5cmks92q6vmtzx75cge9gvvap/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1efjaf4yuz5ehncz0atjxvrmal7eeschauma26q",
+    "name": "Faith On Solana (Wormhole)",
+    "symbol": "FAITH",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1efjaf4yuz5ehncz0atjxvrmal7eeschauma26q/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1eqzdmkdr2l72y75m7hx3rwnfcugzu0hhw7l76l",
     "name": "Astro Gems (Wormhole)",
     "symbol": "ASTROGEMS",
@@ -4205,12 +4245,28 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1f63rgzp2quzxrgfchqhs6sltzf0sksxtl7wtzn/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1f6fxh20pdyuj98c8l2svlky8k7z7hkdztttrd2",
+    "name": "Injective Evolution (Wormhole)",
+    "symbol": "INJEVO",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1f6fxh20pdyuj98c8l2svlky8k7z7hkdztttrd2/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1fghekhpfn2rfds6c466p38ttdm2a70gnzymc86",
     "name": "FusionX (Wormhole)",
     "symbol": "FusionX",
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1fghekhpfn2rfds6c466p38ttdm2a70gnzymc86/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1ghhdy9mejncsvhwxmvnk5hspkd5fchtrmhu3x2",
+    "name": "CAT WHO DRIVES (Wormhole)",
+    "symbol": "DRIVING",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ghhdy9mejncsvhwxmvnk5hspkd5fchtrmhu3x2/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1gu7vdyclf2fjf9jlr6dhzf34kcxchjavevuktl",
@@ -4594,6 +4650,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1sx4mtq9kegurmuvdwddtr49u0hmxw6wt8dxu3v/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1trg4pfcu07ft2dhd9mljp9s8pajxeclzq5cnuw",
+    "name": "Moonlana (Wormhole)",
+    "symbol": "Moonlana",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1trg4pfcu07ft2dhd9mljp9s8pajxeclzq5cnuw/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1ttxw2rn2s3hqu4haew9e3ugekafu3hkhtqzmyw",
     "name": "TABOO TOKEN (Wormhole)",
     "symbol": "TABOO",
@@ -4793,6 +4857,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zgurc2nd5awcxmpq7q6zgh9elnxg0z9g5yn4k3/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1zh9924tws4ctzx5zmz06j09nyjs8fw6wupkadr",
+    "name": "GenZone (Wormhole)",
+    "symbol": "GENZONE",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zh9924tws4ctzx5zmz06j09nyjs8fw6wupkadr/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1zjdtxmvkrxcd20q8nru4ws47nemkyxwnpuk34v",
     "name": "SantaBonk (Wormhole)",
     "symbol": "SANTABONK",
@@ -4813,6 +4885,14 @@
     "symbol": "INJMEME",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1zr4fs5xkkf4h99sdalaxyglr3txjuewtyzjvg5",
+    "name": "ANALOS (Wormhole)",
+    "symbol": "ANALOS",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zr4fs5xkkf4h99sdalaxyglr3txjuewtyzjvg5/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1zrw6acmpnghlcwjyrqv0ta5wmzute7l4f0n3dz",
