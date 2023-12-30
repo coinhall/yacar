@@ -140,6 +140,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
+    "id": "factory/sei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq/SEIMOON",
+    "name": "SEIMOON",
+    "symbol": "SEIMOON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1af98wayfra6xzwly2k9r8v8eentz6fl4qyyqlq%2FSEIMOON"
+  },
+  {
     "id": "factory/sei1cj8e3mngwhdnlm850nzuz2p45pa6j878pdwyng/SEIYAN",
     "name": "Super Seiyan",
     "symbol": "SEIYAN",
