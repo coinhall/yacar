@@ -196,6 +196,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei1jaw4fxnr3uy4fhq2g4cphqeetqcnpuh8uke3mh/DUDESEI",
+    "name": "DUDESEI",
+    "symbol": "DUDESEI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1jaw4fxnr3uy4fhq2g4cphqeetqcnpuh8uke3mh%2FDUDESEI"
+  },
+  {
     "id": "factory/sei1lg259fed9fn0340k000tyg3fama5awdmeczfmx/SeiyanInu",
     "entity": "SeiyanInu",
     "name": "SeiyanInu",
@@ -1647,6 +1655,14 @@
     "type": "cw20"
   },
   {
+    "id": "sei1j5y2xhcfkr3fm03ahyfkqglyssjd0td2um9d7xh005xguy2aqayswl79lk",
+    "name": "WHAT YOU SEI?",
+    "symbol": "WHAT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1j5y2xhcfkr3fm03ahyfkqglyssjd0td2um9d7xh005xguy2aqayswl79lk/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1j9dc399tvnwy7sp88yeuhurcfcp6m9lc6tne060cx5p5r2zfcezsw6808y",
     "name": "SEITAMA",
     "symbol": "SEITAMA",
@@ -2580,6 +2596,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1y34hzg7cmf3rxdztrprk2c2tn8mlq9kxgv6r45zusg7h9jpkf8gs6g4tts/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1y533r3w32p97p05snrvck8su5ejn6uxj4k24nrwq5l262vkk2desjdxldd",
+    "name": "SEI ASSASSIN",
+    "symbol": "SEIA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1y533r3w32p97p05snrvck8su5ejn6uxj4k24nrwq5l262vkk2desjdxldd/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1y5xzshrjjkach6nl8zmgp29c64q98vue9emxe5kgmjn2p8n62ttqtdut62",
