@@ -1230,11 +1230,14 @@
   },
   {
     "id": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
+    "entity": "Rooster Ninja",
     "name": "ROOSTER NINJA",
     "symbol": "COCK",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf%2FCOCK"
+    "circ_supply": "3000000000",
+    "total_supply": "3000000000",
+    "icon": "https://raw.githubusercontent.com/roosterninja/astroport-token-lists/main/img/cock.png"
   },
   {
     "id": "factory/inj1eutzkvh4gf5vvmxusdwl2t6gprux67d4acwc0p/labs",
