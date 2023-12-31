@@ -36,6 +36,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei1584g7vslgphlt8yfxlj3gjv2rlhflcde4rlz2l/useint",
+    "name": "seint",
+    "symbol": "SEINT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1584g7vslgphlt8yfxlj3gjv2rlhflcde4rlz2l%2Fuseint"
+  },
+  {
     "id": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
     "name": "Sensei",
     "symbol": "SENSEI",
