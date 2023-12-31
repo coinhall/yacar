@@ -180,6 +180,13 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1dud3m0nnj4dcg9qwd4y7n94hy8npe3d6x5a36t%2FSEIKITTY"
   },
   {
+    "id": "factory/sei1fa4l685xh5jk7uvs0qtdea0506yvyq86t3yfrhfxptffwrhusy9s2ajvvp/seize",
+    "name": "SEIZE Token",
+    "symbol": "SEIZE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
     "name": "Pirate Dog",
     "symbol": "PDOG",
@@ -329,6 +336,13 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://i.ibb.co/cQPrxng/ampSei.png"
+  },
+  {
+    "id": "factory/sei1yrp5c5stp7ufdvwxy7xj3v7cm3c04hacrcg3klvfdzss7ue985ns9qcjxm/seisze",
+    "name": "SEIZE Token",
+    "symbol": "SEIZE",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
@@ -1843,7 +1857,8 @@
     "symbol": "GRAPE",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1fa4l685xh5jk7uvs0qtdea0506yvyq86t3yfrhfxptffwrhusy9s2ajvvp/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1fa4l685xh5jk7uvs0qtdea0506yvyq86t3yfrhfxptffwrhusy9s2ajvvp/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://s2.coinmarketcap.com/static/img/coins/200x200/17420.png"
   },
   {
     "id": "sei1fcutmfxgav8u7gk7ah8zw5a5k7t550urtk84zwyuarq3ud0t8vhqjleurv",
