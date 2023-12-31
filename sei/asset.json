@@ -351,6 +351,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei1syutrt325ww2r3s57e8f0qmmuqnzr0phay2gzh/messeiah",
+    "name": "MESSEIAH",
+    "symbol": "MESSEIAH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1syutrt325ww2r3s57e8f0qmmuqnzr0phay2gzh%2messeiah",
+    "icon": "https://ibb.co/28b8hcB"
+  },
+  {
     "id": "factory/sei1vk7ug3mt2e0w5xz39ttrx4er960au8xha4stk8/SEINT",
     "name": "Seint",
     "symbol": "SEINT",
