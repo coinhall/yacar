@@ -172,6 +172,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei1dud3m0nnj4dcg9qwd4y7n94hy8npe3d6x5a36t/SEIKITTY",
+    "name": "SEIKITTY",
+    "symbol": "SEIKITTY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1dud3m0nnj4dcg9qwd4y7n94hy8npe3d6x5a36t%2FSEIKITTY"
+  },
+  {
     "id": "factory/sei1fg873yaxd0y9x37vsdgsn70e7z3lsyhxhy92yt/PDOG",
     "name": "Pirate Dog",
     "symbol": "PDOG",
