@@ -1935,11 +1935,14 @@
   },
   {
     "id": "factory/inj1ml33x7lkxk6x2x95d3alw4h84evlcdz2gnehmk/SNOWY",
+    "entity": "InjSnowy",
     "name": "Injective Snowy",
     "symbol": "SNOWY",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://ipfs.io/ipfs/QmYEXRmAdNf43wiQrriwYhLcgvRW8qfq1WyqVvKqE1J9ck"
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1ml33x7lkxk6x2x95d3alw4h84evlcdz2gnehmk%2FSNOWY",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1ml33x7lkxk6x2x95d3alw4h84evlcdz2gnehmk%2FSNOWY",
+    "icon": "https://ipfs.io/ipfs/QmTT4mrFsSaZjdDBEpRC1MX4mL2mssn1GoCsBhpUABVd4G"
   },
   {
     "id": "factory/inj1mllxwgvx0zhhr83rfawjl05dmuwwzfcrs9xz6t/SHU",
