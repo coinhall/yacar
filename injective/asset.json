@@ -1240,6 +1240,15 @@
     "icon": "https://i.ibb.co/0Cm01vR/panda-ninja.png"
   },
   {
+    "id": "factory/inj1esz96ru3guug4ctmn5chjmkymt979sfvufq0hs/PUNK",
+    "name": "Punk DAO Token",
+    "symbol": "PUNK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1esz96ru3guug4ctmn5chjmkymt979sfvufq0hs%2FPUNK",
+    "icon": "https://ipfs.io/ipfs/bafkreig7rcv2oykekg5l4qa6fxdj2mm6brp6oframrdzclubaf6msrpvam"
+  },
+  {
     "id": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
     "entity": "Rooster Ninja",
     "name": "ROOSTER NINJA",
@@ -1961,6 +1970,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1mllxwgvx0zhhr83rfawjl05dmuwwzfcrs9xz6t%2FSHU",
     "icon": "https://bafkreih7l2nk424cfljdd4lo256vx7frs7663yppsaucqd3zlw5wxq53u4.ipfs.nftstorage.link"
+  },
+  {
+    "id": "factory/inj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6/ALIEN",
+    "name": "ALIEN",
+    "symbol": "$ALIEN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6%2FALIEN",
+    "icon": "https://ipfs.io/ipfs/QmVYURmGDBBqJjVwU4zfnaCHmkf1zNjcP6Ctkd9P1385kf"
   },
   {
     "id": "factory/inj1mwsgdlq6rxs3xte8p2m0pcw565czhgngrxgl38/Santa",
@@ -4564,6 +4582,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1k4v0wzgxm5zln8asekgkdljvctee45l7ujwlr4/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1k59du6npg24x2wacww9lmmleh5qrscf9gl7fr5",
+    "name": "Sheik",
+    "symbol": "She",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1k59du6npg24x2wacww9lmmleh5qrscf9gl7fr5/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1kgdp3wu5pr5ftuzczpgl5arg28tz44ucsjqsn9",
     "name": "Polargeist (Wormhole)",
     "symbol": "POLAR",
@@ -5230,6 +5256,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1yzz7pvx7e98u3xv4uz0tkqrm6uj684j9lvv0z4/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1zc3uujkm2sfwk5x8xlrudaxwsc0t903rj2jcen",
+    "name": "Yogi",
+    "symbol": "Yogi",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zc3uujkm2sfwk5x8xlrudaxwsc0t903rj2jcen/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1zfaug0dfg7zmd888thjx2hwuas0vl2ly4euk3r",
