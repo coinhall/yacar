@@ -363,6 +363,14 @@
     "icon": "https://whitelist.mirror.finance/icon/IAU.png"
   },
   {
+    "id": "terra10h8jvz4444aepp9q7zfjcpgvwhvzxv3zelmmnvsyc099m5dums2spu85r5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra10h8jvz4444aepp9q7zfjcpgvwhvzxv3zelmmnvsyc099m5dums2spu85r5/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra10hr9gx9m9tq44xcxk2c5mzzlk7p22zd7x6esr7",
     "name": "WAGMI TERRA",
     "symbol": "WAGMI",
@@ -5914,12 +5922,13 @@
   },
   {
     "id": "terra1f7ekmqgzvd0myju7z922ecg4camkq27j77yvlut0jfvrqakm0ersjftceh",
+    "entity": "OSMIO Rewards",
     "name": "OSMIO Rewards",
     "symbol": "OSMIO",
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1f7ekmqgzvd0myju7z922ecg4camkq27j77yvlut0jfvrqakm0ersjftceh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://ibb.co/Fh9NKjM"
+    "icon": "https://i.ibb.co/6FzrbKx/Osmio-Logo.png"
   },
   {
     "id": "terra1f7jzky244gwy220xp7cdd0vzhu6l5ncafderaf",
@@ -8339,6 +8348,7 @@
   },
   {
     "id": "terra1m3tdguf59xq3pa2twk5fjte5g6szj5y9x5npy7",
+    "entity": "Luni",
     "name": "LUNI",
     "symbol": "LUNI",
     "decimals": "6",
@@ -8881,6 +8891,14 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1naaldj58aerjvqzulrnfpeph60pjqlyp60gqryup8g4djy4cn4nqwm08c3",
+    "name": "Test 100",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1naaldj58aerjvqzulrnfpeph60pjqlyp60gqryup8g4djy4cn4nqwm08c3/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1nagqpmyw55yjphea4rhntlfv87ugmeaj8ym756",
@@ -11122,6 +11140,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1ucpvp3e3g9gn4s5kcn2e3pydag8mwjd5akp2lusuw670yesfr09swxvvd5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1ucpvp3e3g9gn4s5kcn2e3pydag8mwjd5akp2lusuw670yesfr09swxvvd5/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1udcta30vdytasfv00gdwue7c8uaje7a584uf9n",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
@@ -11151,7 +11177,7 @@
     "type": "cw20",
     "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/793058e47634d50ec157d52f721dd634de4fa518/src/images/Token/LBUNC_256.png",
+    "icon": "https://i.ibb.co/W0n6JXx/xze3hwhf.png",
     "verification_tx": "71C20F33FB244F2D317D922697E255DD97C2ADB21D788B7E8FDAA7E278D3DBEB"
   },
   {
@@ -11875,10 +11901,14 @@
   },
   {
     "id": "terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9",
+    "entity": "Frogztrik NFT Token",
     "name": "Frogztrik NFT Token",
     "symbol": "FROG",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://i.ibb.co/GPJvHWP/ya51m7vn.png"
   },
   {
     "id": "terra1wfau60yqgdtrqay0cdtcp5rre3l50khacyyhhz",

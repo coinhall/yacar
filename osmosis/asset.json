@@ -1,5 +1,13 @@
 [
   {
+    "id": "factory/osmo13ahfm35s0qwg45l09hgx3w7q2c9jc45d4mcptprsjuj6k6pnad9s7tavek/vst",
+    "name": "ValueSharkToken",
+    "symbol": "VST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo13ahfm35s0qwg45l09hgx3w7q2c9jc45d4mcptprsjuj6k6pnad9s7tavek%2Fvst"
+  },
+  {
     "id": "factory/osmo14klwqgkmackvx2tqa0trtg69dmy0nrg4ntq4gjgw2za4734r5seqjqm4gm/uibcx",
     "name": "IBCX",
     "symbol": "IBCX",
@@ -48,6 +56,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1f9xmnj8jgnqgchddl42yp6f3txwfz3hyymzpav9stld7nl5sxn0s3cjmpp/bntt",
+    "name": "Buffalo Nation Trust Tokens",
+    "symbol": "BNTT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1f9xmnj8jgnqgchddl42yp6f3txwfz3hyymzpav9stld7nl5sxn0s3cjmpp%2Fbntt"
+  },
+  {
     "id": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqatom",
     "name": "ATOM Squared",
     "symbol": "sqATOM",
@@ -91,6 +107,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1rckme96ptawr4zwexxj5g5gej9s2dmud8r2t9j0k0prn5mch5g4snzzwjv/sail",
+    "name": "Sail DAO token",
+    "symbol": "SAIL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1rckme96ptawr4zwexxj5g5gej9s2dmud8r2t9j0k0prn5mch5g4snzzwjv%2Fsail"
+  },
+  {
     "id": "factory/osmo1rt94tf24fm42qpnqvjm5tsr2t5k2rgtl0m0ykf4r5wm03czcysysce0k3z/tst",
     "name": "Test Dao Token",
     "symbol": "TST",
@@ -123,6 +147,22 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1tyrmsl3n86c853tf3dxkzn00v4vjylcp6mat3s/upaw",
+    "name": "PAW",
+    "symbol": "PAW",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1tyrmsl3n86c853tf3dxkzn00v4vjylcp6mat3s%2Fupaw"
+  },
+  {
+    "id": "factory/osmo1vvmvqzt3qr4hn952qvqn00f92walwuak0fx9rcynd0043jjdt6lsrft4fd/act",
+    "name": "ACT Token",
+    "symbol": "ACT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1vvmvqzt3qr4hn952qvqn00f92walwuak0fx9rcynd0043jjdt6lsrft4fd%2Fact"
+  },
+  {
     "id": "factory/osmo1wh8arjgtpdgyf9rlw3k960kkx0943hy92n20sg4pjyk8grc6dhzsunuchs/ctc",
     "name": "cTaurus",
     "symbol": "cTc",
@@ -137,6 +177,14 @@
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/stibcx.svg",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "factory/osmo1yxg9nt6uvysyq3cs9gmp58f48unffpfscqjyr6nv2u7mh6657nwssfyp33/sail",
+    "name": "Sail DAO token",
+    "symbol": "SAIL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1yxg9nt6uvysyq3cs9gmp58f48unffpfscqjyr6nv2u7mh6657nwssfyp33%2Fsail"
   },
   {
     "id": "ibc/00B6E60AD3D65CBEF5579AC8AF609527C0B57535B6E32D96C80A735344FD9DCC",
@@ -264,6 +312,7 @@
   },
   {
     "id": "ibc/0CB9DB3441D0D50F35699DEE22B9C965487E83FB2D9F483D1CC5CA34E856C484",
+    "entity": "JoeDAO",
     "name": "JoeDAO",
     "symbol": "JOE",
     "decimals": "6",
@@ -367,6 +416,14 @@
     "total_supply_api": "https://api.token.orai.io/v1/total-supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.svg",
     "coingecko": "https://www.coingecko.com/en/coins/oraichain-token"
+  },
+  {
+    "id": "ibc/183C0BB962D2F57C957E0B134CFA0AC9D6F755C02DE9DC2A59089BA23009DEC3",
+    "name": "Dog wif nunchucks",
+    "symbol": "NINJA",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/ninja.png"
   },
   {
     "id": "ibc/18A1B70E3205A48DE8590C0D11030E7146CDBF1048789261D53FFFD7527F8B55",
@@ -548,6 +605,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft56664FC98A2CF5F4FBAC3566D1A11D891AD88305.png"
+  },
+  {
+    "id": "ibc/23A62409E4AD8133116C249B1FA38EED30E500A115D7B153109462CD82C1CD99",
+    "name": "Page",
+    "symbol": "PAGE",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/page.svg"
   },
   {
     "id": "ibc/23AB778D694C1ECFC59B91D8C399C115CC53B0BD1C61020D8E19519F002BDD85",
@@ -741,6 +806,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft25B30C386CDDEBD1413D5AE1180956AE9EB3B9F7.png"
   },
   {
+    "id": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D",
+    "name": "GUPPY",
+    "symbol": "GUPPY",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/guppy.png"
+  },
+  {
     "id": "ibc/42D24879D4569CE6477B7E88206ADBFE47C222C6CAD51A54083E4A72594269FC",
     "name": "Quicksilver Liquid Staked OSMO",
     "symbol": "qOSMO",
@@ -801,6 +874,7 @@
   },
   {
     "id": "ibc/47CAF2DB8C016FAC960F33BC492FD8E454593B65CC59D70FA9D9F30424F9C32F",
+    "entity": "Canto",
     "name": "Canto",
     "symbol": "CANTO",
     "decimals": "18",
@@ -817,6 +891,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/echelon/images/echelon.svg",
     "coingecko": "https://www.coingecko.com/en/coins/echelon"
+  },
+  {
+    "id": "ibc/4976049456D261659D0EC499CC9C2391D3C7D1128A0B9FB0BBF2842D1B2BC7BC",
+    "name": "ASH",
+    "symbol": "ASH",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/ash.svg"
   },
   {
     "id": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
@@ -972,6 +1054,7 @@
   },
   {
     "id": "ibc/573FCD90FACEE750F55A8864EF7D38265F07E5A9273FA0E8DAFD39951332B580",
+    "entity": "Mars Protocol",
     "name": "Mars",
     "symbol": "MARS",
     "decimals": "6",
@@ -1083,6 +1166,14 @@
     "decimals": "18",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.png"
+  },
+  {
+    "id": "ibc/5F5B7DA5ECC80F6C7A8702D525BB0B74279B1F7B8EFAE36E423D68788F7F39FF",
+    "name": "Kleomedes",
+    "symbol": "KLEO",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/kleomedes.png"
   },
   {
     "id": "ibc/608EF5C0CE64FEA097500DB39657BDD36CA708CC5DCC2E250A024B6981DD36BC",
@@ -1222,6 +1313,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.svg"
   },
   {
+    "id": "ibc/69110FF673D70B39904FF056CFDFD58A90BEC3194303F45C32CB91B8B0A738EA",
+    "name": "Haqq Network",
+    "symbol": "ISLM",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/haqq/images/islm.svg"
+  },
+  {
     "id": "ibc/6928AFA9EA721938FED13B051F9DBF1272B16393D20C49EA5E4901BB76D94A90",
     "name": "Nois",
     "symbol": "NOIS",
@@ -1298,6 +1397,7 @@
   },
   {
     "id": "ibc/6F18EFEBF1688AA77F7EAC17065609494DC1BA12AFC78E9AEC832AF70A11BEF3",
+    "entity": "Lion Cub DAO",
     "name": "Lion Cub DAO",
     "symbol": "CUB",
     "decimals": "6",
@@ -1312,6 +1412,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/avax.png",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/6FD2938076A4C1BB3A324A676E76B0150A4443DAE0E002FB62AC0E6B604B1519",
+    "name": "PURSE Token",
+    "symbol": "PURSE",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/pundix/images/purse-token-logo.svg"
   },
   {
     "id": "ibc/70CF1A54E23EA4E480DEDA9E12082D3FD5684C3483CBDCE190C5C807227688C5",
@@ -1460,6 +1568,7 @@
   },
   {
     "id": "ibc/7ED954CFFFC06EE8419387F3FC688837FF64EF264DE14219935F724EEEDBF8D3",
+    "entity": "Shentu",
     "name": "Shentu",
     "symbol": "CTK",
     "decimals": "6",
@@ -1779,6 +1888,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/decentr/images/dec.svg",
     "coingecko": "https://www.coingecko.com/en/coins/decentr",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/9DDF52A334F92BC57A9E0D59DFF9984EAC61D2A14E5162605DF601AA58FDFC6D",
+    "name": "$AUTISM exists to celebrate autism as a superior biological tech stack for a changing world",
+    "symbol": "AUTISM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/autism.png"
   },
   {
     "id": "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E",
@@ -2496,6 +2613,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/empowerchain/images/mpwr.png"
   },
   {
+    "id": "ibc/DDF1CD4CDC14AE2D6A3060193624605FF12DEE71CF1F8C19EEF35E9447653493",
+    "name": "RAC",
+    "symbol": "RAC",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg"
+  },
+  {
     "id": "ibc/DEE262653B9DE39BCEF0493D47E0DFC4FE62F7F046CF38B9FDEFEBE98D149A71",
     "name": "Neokingdom DAO",
     "symbol": "NEOK",
@@ -2645,6 +2770,7 @@
   },
   {
     "id": "ibc/EA4C0A9F72E2CEDF10D0E7A9A6A22954DB3444910DB5BE980DF59B05A46DAD1C",
+    "entity": "Desmos",
     "name": "Desmos",
     "symbol": "DSM",
     "decimals": "6",
