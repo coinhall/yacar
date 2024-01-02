@@ -1240,6 +1240,15 @@
     "icon": "https://i.ibb.co/0Cm01vR/panda-ninja.png"
   },
   {
+    "id": "factory/inj1esz96ru3guug4ctmn5chjmkymt979sfvufq0hs/PUNK",
+    "name": "Punk DAO Token",
+    "symbol": "PUNK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1esz96ru3guug4ctmn5chjmkymt979sfvufq0hs%2FPUNK",
+    "icon": "https://ipfs.io/ipfs/bafkreig7rcv2oykekg5l4qa6fxdj2mm6brp6oframrdzclubaf6msrpvam"
+  },
+  {
     "id": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
     "entity": "Rooster Ninja",
     "name": "ROOSTER NINJA",
