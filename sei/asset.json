@@ -166,6 +166,14 @@
     "icon": "https://i.ibb.co/sKWSsfJ/seimoon.png"
   },
   {
+    "id": "factory/sei1c6968m9mp8jgtaw9re8hcctxxphgvx3aeva3e0/COMMUNISM",
+    "name": "COMMUNISM",
+    "symbol": "COMMUNISM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1c6968m9mp8jgtaw9re8hcctxxphgvx3aeva3e0%2FCOMMUNISM"
+  },
+  {
     "id": "factory/sei1cj8e3mngwhdnlm850nzuz2p45pa6j878pdwyng/SEIYAN",
     "name": "Super Seiyan",
     "symbol": "SEIYAN",
@@ -779,6 +787,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei10ucnws9du9sdsmzdzu33l3xdw0d8dprqvzrxr64vhj9muxu9ndds0v0ecx/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei10uxp82vxzcqlnt2kt06dy72pswng7d4s44nkp8yrqjntqvue68tswydult",
+    "name": "SEIMAP",
+    "symbol": "SEIMAP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei10uxp82vxzcqlnt2kt06dy72pswng7d4s44nkp8yrqjntqvue68tswydult/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei10wu3qt2p8jhwffkk0z34mppgyskr2aqpu0nf5mcraprm8qvg8yassaurmd",
@@ -4622,6 +4638,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1urg6pv3hkace6e0ps3jmsl7fuy5rgsuutt28ruzrq7hzdd0wjeuq9pr7jv/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1uuhytesafa3vqpntcht3czxhe9z286wdaa9fcdwr3kcxp4ka77gsv8vrwv",
+    "name": "SEIGASATURN",
+    "symbol": "SEIGASATURN",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1uuhytesafa3vqpntcht3czxhe9z286wdaa9fcdwr3kcxp4ka77gsv8vrwv/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1v4k6exczmvm8655xm5r5pjdts7sgv6txy3t3wfxq59jsgftcs9fssavzjx",
