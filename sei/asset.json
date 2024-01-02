@@ -335,6 +335,14 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbXUzOXpndmRzcTNyanU0ZGhyN3A5dzRubTloM3l2cXdrcHhkbTgvYm9uc2Vp&pagination.limit=1"
   },
   {
+    "id": "factory/sei1myphvfn9f9q7uys372kcurpzsh74u3vpmtmdpw/SQUID",
+    "name": "SQUID",
+    "symbol": "SQUID",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1myphvfn9f9q7uys372kcurpzsh74u3vpmtmdpw%2FSQUID"
+  },
+  {
     "id": "factory/sei1mzv5ttx7552fw2dmwdyua576pnhxdgn50a67qx/Seinfeld",
     "name": "Seinfeld",
     "symbol": "SEINFELD",
@@ -3302,6 +3310,14 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1gdgcxn7w0q3nu546snkc6zajdu3exakyrd5y9hjf7cg9ty9qy48q4632ds/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei1gehley235lscsx3asl2qcdtrz4lvnpj92avsm0mrrv9h2e6casvq2ksdz5",
+    "name": "seildoncoope",
+    "symbol": "seildoncoope",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1gehley235lscsx3asl2qcdtrz4lvnpj92avsm0mrrv9h2e6casvq2ksdz5/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1gfc94fusr3h36v52n4ww820p4p2tkw0e8qtcf9dna9a3rh4v2kwqeytcz7",
     "name": "SEIGETA Coin",
     "symbol": "SGTA",
@@ -6106,6 +6122,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1zpg3azg53lvngthpmtmp8rp5tuqjmlndn4tpvcu2nm66krqjeplq9tudsk/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1zqahwtck2a08kgkxh7c7l8fxuc026fpdqzpjcmtyfe3zqcyhpmcswplakx",
+    "name": "PUNKS",
+    "symbol": "PUNKS",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1zqahwtck2a08kgkxh7c7l8fxuc026fpdqzpjcmtyfe3zqcyhpmcswplakx/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1zrxrexcvp9vgu00d3fuqhwwnuwn429nt8gwp3864qled9gtvlj2sq7evdh",
