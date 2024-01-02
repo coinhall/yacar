@@ -295,6 +295,15 @@
     "icon": "https://i.ibb.co/b5Qw5q0/gojo.webp"
   },
   {
+    "id": "factory/inj13sdyzwu7l4kwcjkyuyepxufjxtk2u59xkksp69/NINJAPE",
+    "name": "NINJAPE",
+    "symbol": "NINJAPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj13sdyzwu7l4kwcjkyuyepxufjxtk2u59xkksp69%2FNINJAPE",
+    "icon": "https://i.ibb.co/4Pk6ZCp/ninjaape.png"
+  },
+  {
     "id": "factory/inj13vau2mgx6mg7ams9nngjhyng58tl9zyw0n8s93/BABYKIRA",
     "name": "Babykira",
     "symbol": "$Babykira",
@@ -534,7 +543,8 @@
     "decimals": "6",
     "type": "tokenfactory",
     "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14n8f39qdg6t68s5z00t4vczvkcvzlgm6ea5vk5%2Fextravirginoliveinu",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14n8f39qdg6t68s5z00t4vczvkcvzlgm6ea5vk5%2Fextravirginoliveinu"
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14n8f39qdg6t68s5z00t4vczvkcvzlgm6ea5vk5%2Fextravirginoliveinu",
+    "icon": "https://i.imgur.com/iQNFtXj.png"
   },
   {
     "id": "factory/inj14t4aafu7v0vmls8f73ssrzptcm3prkx2r4tp0n/injbulls",
@@ -1819,6 +1829,16 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1kzaaapa8ux4z4lh8stm6vv9c5ykhtwl84zxrtl%2Fni"
   },
   {
+    "id": "factory/inj1l2kcs4yxsxe0c87qy4ejmvkgegvjf0hkyhqk59/DGNZ",
+    "entity": "Injective Degens",
+    "name": "DGNZ",
+    "symbol": "DGNZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1l2kcs4yxsxe0c87qy4ejmvkgegvjf0hkyhqk59%2FDGNZ",
+    "icon": "https://i.ibb.co/yfx1KGH/Logo.png"
+  },
+  {
     "id": "factory/inj1l73eqd7w5vu4srwmc722uwv7u9px7k5azzsqm2/pinjeon",
     "name": "Pinjeon (pīpiō)",
     "symbol": "PINJEON",
@@ -2131,6 +2151,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://bafkreidltgqqnkrpcnsnqilrvrlyx5tsibqvxx62ylqffktfzb2dicjjki.ipfs.w3s.link/"
+  },
+  {
+    "id": "factory/inj1pn6cg7jt5nvmh2rpjxhg95nrcjz0rujv54wkdg/apeinj",
+    "name": "APEINJToken",
+    "symbol": "APEINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1pn6cg7jt5nvmh2rpjxhg95nrcjz0rujv54wkdg%2Fapeinj"
   },
   {
     "id": "factory/inj1pnwrzhnjfncxgf4jkv3zadf542tpfc3xx3x4xw/NIF",
@@ -4191,6 +4219,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1a5pxsj6f8jggncw4s2cg39p25swgzdjyljw5tf/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1a6qdxdanekzgq6dluymlk7n7khg3dqq9lua9q9",
+    "name": "Test Token",
+    "symbol": "TEST",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1a6qdxdanekzgq6dluymlk7n7khg3dqq9lua9q9/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1aalqnnh24ddn3vd9plnevwnxd03x7sevm77lps",
     "name": "BlueInjective (Wormhole)",
     "symbol": "BLUEINJ",
@@ -4548,6 +4584,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1jnn7uf83lpl9ug5y6d9pxes9v7vqphd379rfeh/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1jnswzkkdvkc6chwzffggrlp69efghlqdha6jaq",
+    "name": "Test",
+    "symbol": "TEST",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1jnswzkkdvkc6chwzffggrlp69efghlqdha6jaq/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1jttaxqcjtsys54k3m6mx4kzulzasg4tc6hhpp6",
