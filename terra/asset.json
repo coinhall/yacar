@@ -1395,6 +1395,7 @@
   },
   {
     "id": "terra1aa7stl3fytvave9xtcexgv0kne4k7ks068dcljkrfj37hy8q270sjadav8",
+    "entity": "Chris Armani Token",
     "name": "Chris Armani Token",
     "symbol": "ARMANI",
     "decimals": "6",
@@ -1480,11 +1481,14 @@
   },
   {
     "id": "terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s",
+    "entity": "Staked Ito",
     "name": "Staked Ito",
     "symbol": "ITO",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://raw.githubusercontent.com/ITO1201/ITO/main/data/I.png"
   },
   {
     "id": "terra1ces6k6jp7qzkjpwsl6xg4f7zfwre0u23cglg69hhj3g20fhygtpsu24dsy",
