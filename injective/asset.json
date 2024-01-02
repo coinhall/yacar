@@ -2133,6 +2133,14 @@
     "icon": "https://bafkreidltgqqnkrpcnsnqilrvrlyx5tsibqvxx62ylqffktfzb2dicjjki.ipfs.w3s.link/"
   },
   {
+    "id": "factory/inj1pn6cg7jt5nvmh2rpjxhg95nrcjz0rujv54wkdg/apeinj",
+    "name": "APEINJToken",
+    "symbol": "APEINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1pn6cg7jt5nvmh2rpjxhg95nrcjz0rujv54wkdg%2Fapeinj"
+  },
+  {
     "id": "factory/inj1pnwrzhnjfncxgf4jkv3zadf542tpfc3xx3x4xw/NIF",
     "name": "Ninja Wif Hat",
     "symbol": "NIF",
