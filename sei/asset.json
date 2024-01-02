@@ -378,6 +378,14 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1rwgytfdq7vrf8hus43475v6t845vfkygn0ercw%2Fseimuraidenom"
   },
   {
+    "id": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
+    "name": "SeiyanJay",
+    "symbol": "SEIJAY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fsei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m%2FSEIJAY"
+  },
+  {
     "id": "factory/sei1syutrt325ww2r3s57e8f0qmmuqnzr0phay2gzh/messeiah",
     "name": "MESSEIAH",
     "symbol": "MESSEIAH",
@@ -1060,6 +1068,14 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei13kzvcmten4t7pjeptdumfmt5vsnqe0l85jxnv63lzd5nd2j3t55q87ns0z/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei13lzg935zx26ha9kqj6vmxzme5xzyj90l2k424adffqzenxpacj8spswk4z",
+    "name": "SEIZAR",
+    "symbol": "SEIZAR",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei13lzg935zx26ha9kqj6vmxzme5xzyj90l2k424adffqzenxpacj8spswk4z/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei13manm52xjq2hx0gwj2q3ay45fpp47g8q63xdfch3gummm4rjl79qn03t8h",
     "name": "YinSeiYang",
     "symbol": "YINSEIYANG",
@@ -1532,6 +1548,14 @@
     "symbol": "HUH",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "sei16edgknmnulfa23hmal7cyut6lq8uz54eqjf7twh4fk9s3rg7psuqrde480",
+    "name": "TATAMI",
+    "symbol": "TATAMI",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei16edgknmnulfa23hmal7cyut6lq8uz54eqjf7twh4fk9s3rg7psuqrde480/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei16kwggsav2qavyjrh4tq7rtd3uy05c3wfyjata86zg0hjnjc6hd4sgsscmk",
