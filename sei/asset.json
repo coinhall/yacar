@@ -5749,5 +5749,13 @@
     "symbol": "USDT",
     "decimals": "6",
     "type": "native"
+  },
+  {
+  "id": "sei12nmdxys3qu67vx6cdkhd5l3jl8rsw8u7pzyhrxzam3edpqcal70sp2e0ja",
+  "name": "SEIPEPE",
+  "symbol": "SEIPEPE",
+  "decimals": "6",
+  "type": "cw20",
+  "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei12nmdxys3qu67vx6cdkhd5l3jl8rsw8u7pzyhrxzam3edpqcal70sp2e0ja"
   }
 ]
