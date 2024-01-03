@@ -218,6 +218,14 @@
     "icon": "https://ipfs.moralis.io:2053/ipfs/QmRuKMtApDFNLjwgnktccGZiucajxJiU3Bo8RxY7NM9NrZ/seiwa.png"
   },
   {
+    "id": "factory/sei1exnzts2hm5c2s7dd7f2rqydw7t5q8ev7hy9n8w/capo",
+    "name": "Capo",
+    "symbol": "CAPO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1exnzts2hm5c2s7dd7f2rqydw7t5q8ev7hy9n8w%2Fcapo&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1fa4l685xh5jk7uvs0qtdea0506yvyq86t3yfrhfxptffwrhusy9s2ajvvp/grape",
     "name": "GRAPE",
     "symbol": "GRAPE",
@@ -382,6 +390,14 @@
     "type": "tokenfactory",
     "total_supply": "100000000",
     "icon": "https://i.ibb.co/sPy5PqR/logo.jpg"
+  },
+  {
+    "id": "factory/sei1pu8xw050x2yc8q0t0dpy7zspxx6uc7gkzvydm6/seikiro",
+    "name": "Seikiro",
+    "symbol": "SEIKIRO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1pu8xw050x2yc8q0t0dpy7zspxx6uc7gkzvydm6%2Fseikiro&pagination.limit=1"
   },
   {
     "id": "factory/sei1q0xgrxtje0agpg6y6jy0u6pvruc62yml5e525vn7u0czm70ptusslzmzqd/mid",
@@ -1062,6 +1078,14 @@
     "type": "cw20"
   },
   {
+    "id": "sei12yrhy0scg7flwpgu838tmj8rtz38u9rlldnzfce4fzd6yze3jl2s9y54t9",
+    "name": "Seial",
+    "symbol": "SEIAL",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei12yrhy0scg7flwpgu838tmj8rtz38u9rlldnzfce4fzd6yze3jl2s9y54t9/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei12zx0ykay5mn4dpa3edlumryjq93j2hdk84snzwdkjsptv6d58q7q29qqrz",
     "name": "AAAAAA",
     "symbol": "AAAAAA",
@@ -1207,6 +1231,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei13j5pahvfwym9zj5j37h29v45dz0xde4d0xh4ypns2n2p5rph4qqqanwn7y/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei13j63cvxmv4mms3m40jl8vgv7flrw7e57kaacnz84sghanx80fauspadd4r",
+    "name": "SEIGOAT",
+    "symbol": "SEIGOAT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei13j63cvxmv4mms3m40jl8vgv7flrw7e57kaacnz84sghanx80fauspadd4r/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei13kzvcmten4t7pjeptdumfmt5vsnqe0l85jxnv63lzd5nd2j3t55q87ns0z",
@@ -3895,6 +3927,14 @@
     "type": "cw20"
   },
   {
+    "id": "sei1hupsf9hy7a6ccp9nene2e9y9ys7valt7s4pdt08gt8p7hm73ureq7resup",
+    "name": "BONSEI On SEI",
+    "symbol": "BONSEI",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1hupsf9hy7a6ccp9nene2e9y9ys7valt7s4pdt08gt8p7hm73ureq7resup/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1hw496gw3gfta7j2ls47uagc3g7sjduc45vudkx75z9g4ys5nunsqwax94e",
     "name": "XSEI On SEI",
     "symbol": "XSEI",
@@ -3983,6 +4023,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1j9dc399tvnwy7sp88yeuhurcfcp6m9lc6tne060cx5p5r2zfcezsw6808y/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1j9ndh0u48v839lnwqu84jwsksmj7luuj2fcjc85rryuvey0l6xxsh0w86m",
+    "name": "SEIMY",
+    "symbol": "SEIMY",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1j9ndh0u48v839lnwqu84jwsksmj7luuj2fcjc85rryuvey0l6xxsh0w86m/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1jadrlgyhv0cxum8w8aty0nslalgys8clft0gvedtwp6zxqfcaz8qupyy8t",
@@ -4230,11 +4278,27 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1kzn3shg0kz844ja4lkhjfsgp8qfze93pltvu73sljm98pzkvzexqke8rxl/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei1l065vpx0538lc0uqw2lj25kugtpy7srrywq7remutnnhhej34ktqq48mdp",
+    "name": "Seiveme",
+    "symbol": "Seive",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1l065vpx0538lc0uqw2lj25kugtpy7srrywq7remutnnhhej34ktqq48mdp/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1l0wl79qcq5l86ug55av9c3f4gglnj2qknugl4p4hj5j2nn47tc3sl5wxk7",
     "name": "SeyHodl",
     "symbol": "SeyHodl",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "sei1l22hk08px98ee946l5288fara0dglgq6jt7avykvh8xv2l3fvpzqua049g",
+    "name": "SEIPEPE",
+    "symbol": "SEIPEPE",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1l22hk08px98ee946l5288fara0dglgq6jt7avykvh8xv2l3fvpzqua049g/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1l2qtaq5f6mmkgxke7kdz9v5fv9e3qn4se4jqr5yjjnc7lpyngvtqm8pw4c",
@@ -4417,6 +4481,14 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1luvj34sstn7ufmu29xz7gh6e9cxk9u5dss9xaywzx95k0dn3uarq6ngyul/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei1lxzhex6p70z46erx422kt2s2xpe3wutjcpfh4rc8xktadrvqpp4qfpxv4c",
+    "name": "seilicopter",
+    "symbol": "seilicopter",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1lxzhex6p70z46erx422kt2s2xpe3wutjcpfh4rc8xktadrvqpp4qfpxv4c/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1ly6ccx902p7yfkasqj9z6zzjdhwj83rdf4pdaeh3xadz4msduw7swcaekw",
     "name": "SEILlAMA NFT",
     "symbol": "SEILX",
@@ -4433,6 +4505,14 @@
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1lyc0uevjpmtkruf0k0u8elner5qc7cawa5vllpw24aucquk40tcs5kvwhf/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/15967.png"
+  },
+  {
+    "id": "sei1lyk757s2zdcnwm6eec4wmrmx82qydy4yum7ldvjhxz5fz66y0qussqngj0",
+    "name": "Seigure UI",
+    "symbol": "LOLI",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1lyk757s2zdcnwm6eec4wmrmx82qydy4yum7ldvjhxz5fz66y0qussqngj0/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1lz2jl2zwv6repe7vd5mhgvgen8dtumgf2403usqamv0qdm7hz9tswdygdu",
@@ -4599,6 +4679,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1mvh5nfge8k2m5kp6l4zgjhrx8q944qx8fkphp6ef5yvp5e50t6nsxkflkq/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1mw2k0hgy6xpfqu04mmtwakuvtvmzxxujzyd8998tfjutf93z03gqxvhuys",
+    "name": "BALD On SEI",
+    "symbol": "BALD",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1mw2k0hgy6xpfqu04mmtwakuvtvmzxxujzyd8998tfjutf93z03gqxvhuys/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1mxlzxp3ng56q2mk7nduh7yp36ncelray7vks3k276h3kvq8994rs0dcwln",
@@ -5190,6 +5278,14 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1qlzpwdrtjhynekwm8s3s8xch5wp5mfaj6vdzugjycca9crgsn2eq3sturn/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei1qmk4htwmvtn2f5aq7wchc04acpyate04cdd5hn24dv9etc4z5ucqtluw03",
+    "name": "SEIUP",
+    "symbol": "SEIUP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1qmk4htwmvtn2f5aq7wchc04acpyate04cdd5hn24dv9etc4z5ucqtluw03/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1qnjw872yzv5c0r4g90enmz6su6zpjqg3uqy0kvryhkpw4709cjfstrelw8",
     "name": "Kira on SEI",
     "symbol": "KIRA",
@@ -5597,6 +5693,14 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1t8hn85phrakeas66lwgqk8qar7akgp8grerkmqxt4zdpzkenfyysq7elpc/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei1t90lvxkux3egzphv375ymf0t88fgd7nqr06g32xjm0ke3qj4njrq9lwphn",
+    "name": "SEIUP",
+    "symbol": "SEIUP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1t90lvxkux3egzphv375ymf0t88fgd7nqr06g32xjm0ke3qj4njrq9lwphn/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1t9qy9n068qhcs4a2mvz3wqwmxdfmjdt86f8j7nu0tzae4jllpwzs2h8sl6",
     "entity": "SEIGA",
     "name": "SEIGA",
@@ -5613,6 +5717,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1tddzafcsqp0da6n2kgv4xl4nv2s3etkk474zke6g7c93wpehe0qqfup9ar/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1tg9a88y0vm8tavmcf7lgfw3taqq8qv2knehtze6gd54ngma7t7jsj52hdv",
+    "name": "SEIYAN2.0",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1tg9a88y0vm8tavmcf7lgfw3taqq8qv2knehtze6gd54ngma7t7jsj52hdv/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1tj9g5jsx9q0nl4crmyszjfd3jd3a20k7skqahy6f44s0kmdql8lqnxxd27",
@@ -5987,6 +6099,14 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1v507zr9uaxluz33xv2yfaynxsjpufwrhgkekpr6ant82jvpgnagszpjqj5/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei1v50q6e99fwqpvu5jqk6zquhhqhdryw7u53h7khl98z44yce7kdtspd6agl",
+    "name": "SEI BRIDGE",
+    "symbol": "SEI-BRIDGE",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1v50q6e99fwqpvu5jqk6zquhhqhdryw7u53h7khl98z44yce7kdtspd6agl/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1v5mr2fhhafwuungawq42sl0g0ge73gwgkz8lqxsd63q46l7ytn9qnkj37f",
     "name": "seiCOQ",
     "symbol": "COQ",
@@ -6024,6 +6144,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1v7663g8nnhss2ctk30vta435uq94xx73040wf5jultw6uaz0lgrq3mndhg/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1v7u09658m5e7ze4hk07usepp82wrfanra0sq9rfpszpjjlqmp68suhdvn2",
+    "name": "SEI DRAGON",
+    "symbol": "SEIDRA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1v7u09658m5e7ze4hk07usepp82wrfanra0sq9rfpszpjjlqmp68suhdvn2/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1v82qnegm72ucf97jzguuezdyy37wj2f03kw9gn9nng6fdd2wecmqns3607",
@@ -6664,6 +6792,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1ymrv00anxsddmwpenhqwc5hgfnr6ws2am3f0v8qze5zlztl9pmtsxt0uw5/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn",
+    "name": "SABER",
+    "symbol": "SABER",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1yn37w6jka58cg6d62nr30gc0umgryq9plly0l4697ap4s5nvna2qzlcchn/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1yq82cyktyt0qgcgtm555n9mnj277zanufrzxkud2k7uceeutmtpqjm0lr6",
