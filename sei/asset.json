@@ -308,6 +308,14 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa2tlaGtyNTZxejZ1aDlncjJyamRsanRxNnBmNWszYWRrdmc2enkvU2VpTGFyaW91cw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1kngvdedcuzxd26fjyn8qh4ntjsk7t2v586tu2k/shikoku",
+    "name": "Shikoku the dog",
+    "symbol": "SHIKOKU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1kngvdedcuzxd26fjyn8qh4ntjsk7t2v586tu2k%2Fshikoku&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1kpv8szkqdtnyul72uyj65mj5al6n5anfa5qa4m/SEIMEN",
     "name": "SEIMEN",
     "symbol": "SEIMEN",
@@ -5043,6 +5051,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1qedmak3car5v25h0cygft938w3s0ppu68m4qq34hymse7m40h8vqqxn26e/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1qes96d7s8dg3u7drtsa4e2pupc6fjcvre9d242d5t4hvfujjp3fq2w4nff",
+    "name": "Poor Guy",
+    "symbol": "pogai",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1qes96d7s8dg3u7drtsa4e2pupc6fjcvre9d242d5t4hvfujjp3fq2w4nff/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1qj6v32clmqqkz6s80kv097wrmwklzg9lq598k4fc0yryyh8ml0xq42328v",
