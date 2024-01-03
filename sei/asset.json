@@ -218,6 +218,14 @@
     "icon": "https://ipfs.moralis.io:2053/ipfs/QmRuKMtApDFNLjwgnktccGZiucajxJiU3Bo8RxY7NM9NrZ/seiwa.png"
   },
   {
+    "id": "factory/sei1exnzts2hm5c2s7dd7f2rqydw7t5q8ev7hy9n8w/capo",
+    "name": "Capo",
+    "symbol": "CAPO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1exnzts2hm5c2s7dd7f2rqydw7t5q8ev7hy9n8w%2Fcapo&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1fa4l685xh5jk7uvs0qtdea0506yvyq86t3yfrhfxptffwrhusy9s2ajvvp/grape",
     "name": "GRAPE",
     "symbol": "GRAPE",
@@ -4236,6 +4244,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1kzn3shg0kz844ja4lkhjfsgp8qfze93pltvu73sljm98pzkvzexqke8rxl/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1l065vpx0538lc0uqw2lj25kugtpy7srrywq7remutnnhhej34ktqq48mdp",
+    "name": "Seiveme",
+    "symbol": "Seive",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1l065vpx0538lc0uqw2lj25kugtpy7srrywq7remutnnhhej34ktqq48mdp/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1l0wl79qcq5l86ug55av9c3f4gglnj2qknugl4p4hj5j2nn47tc3sl5wxk7",
