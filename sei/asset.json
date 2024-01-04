@@ -205,7 +205,7 @@
     "symbol": "SEIDOGE",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1e3haasp0c46acccl5stmmgp4hky2z4xxgleq9p%2FSEIDOGE&pagination.limit=1"
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZTNoYWFzcDBjNDZhY2NjbDVzdG1tZ3A0aGt5Mno0eHhnbGVxOXAvU0VJRE9HRQ%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1e3parzx29050eh2jm4nj8s0k6h4228tajqsrk3/johnseina",
@@ -231,7 +231,7 @@
     "symbol": "CAPO",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1exnzts2hm5c2s7dd7f2rqydw7t5q8ev7hy9n8w%2Fcapo&pagination.limit=1"
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZXhuenRzMmhtNWMyczdkZDdmMnJxeWR3N3Q1cThldjdoeTluOHcvY2Fwbw%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1fa4l685xh5jk7uvs0qtdea0506yvyq86t3yfrhfxptffwrhusy9s2ajvvp/grape",
@@ -329,7 +329,7 @@
     "symbol": "SHIKOKU",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1kngvdedcuzxd26fjyn8qh4ntjsk7t2v586tu2k%2Fshikoku&pagination.limit=1"
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa25ndmRlZGN1enhkMjZmanluOHFoNG50anNrN3QydjU4NnR1Mmsvc2hpa29rdQ%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1kpv8szkqdtnyul72uyj65mj5al6n5anfa5qa4m/SEIMEN",
@@ -338,6 +338,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa3B2OHN6a3FkdG55dWw3MnV5ajY1bWo1YWw2bjVhbmZhNXFhNG0vU0VJTUVO&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1kqg9yu4290hhc2yrru7l9xzl0dxkjumcn2ljn0/extravirginoliveoilinu",
+    "name": "Extra Virgin Olive Oil INU",
+    "symbol": "EVOOINU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1kqg9yu4290hhc2yrru7l9xzl0dxkjumcn2ljn0%2Fextravirginoliveoilinu&pagination.limit=1"
   },
   {
     "id": "factory/sei1kx72m0fxksprles45afhq3dftpz4pkz9atlgdj/seidan",
@@ -388,7 +396,7 @@
     "symbol": "SEITO",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3%2Fuseito&pagination.limit=1"
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbnRhY2wycmp1aGhhNGdqbHphYWw0YXM1cXRuand4dGY0N3NmZzMvdXNlaXRv&pagination.limit=1"
   },
   {
     "id": "factory/sei1nwn8pclj752kzdz8etuhplkd53ql5nelktxxw2/seionara",
@@ -413,7 +421,7 @@
     "symbol": "SEIKIRO",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Fsei1pu8xw050x2yc8q0t0dpy7zspxx6uc7gkzvydm6%2Fseikiro&pagination.limit=1"
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcHU4eHcwNTB4MnljOHEwdDBkcHk3enNweHg2dWM3Z2t6dnlkbTYvc2Vpa2lybw%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1q0xgrxtje0agpg6y6jy0u6pvruc62yml5e525vn7u0czm70ptusslzmzqd/mid",
@@ -3140,6 +3148,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1asehhgdf82rjh69s2mh4q84guchjy2nswmuz2cplvknjg87qedps4r7lax/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1asycquvgkfywu883xp23sw3qmpqpegcwq9xrqsjcxlk84v4adafsjvv9ly",
+    "name": "SeiDragon",
+    "symbol": "SEIDRAGON",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1asycquvgkfywu883xp23sw3qmpqpegcwq9xrqsjcxlk84v4adafsjvv9ly/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1atm4a8wr42er0dnahece9fe06wtvnhrda3utf8scuqe609ryruvqpgg5lq",
@@ -6291,6 +6307,7 @@
   },
   {
     "id": "sei1swsd6kwxv6fsc2xj50h34acvq60zyz27l0hqddsy0v7jf90p6txsr5k7uc",
+    "entity": "SEIGE",
     "name": "SEIGE",
     "symbol": "SEIGE",
     "decimals": "6",
