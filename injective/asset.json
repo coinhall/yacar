@@ -1148,6 +1148,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1cjzufvday63thkgqkxnesgav69c5afsm5aws8w/test",
+    "name": "tester",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxY2p6dWZ2ZGF5NjN0aGtncWt4bmVzZ2F2NjljNWFmc201YXdzOHcvdGVzdA%3D%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/v17Sc12/pudgypenguin.png"
+  },
+  {
     "id": "factory/inj1cm5lg3z9l3gftt0c09trnllmayxpwt8825zxw3/catinj",
     "name": "CATINJ",
     "symbol": "CATINJ",
