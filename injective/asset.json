@@ -5,7 +5,7 @@
     "symbol": "INJX",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=factory%2Finj104h3hchl7ws8lp78zpvrunvsjdwfjc02r5d0fp%2Finjx&pagination.limit=1",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMDRoM2hjaGw3d3M4bHA3OHpwdnJ1bnZzamR3ZmpjMDJyNWQwZnAvaW5qeA%3D%3D&pagination.limit=1",
     "icon": "https://copper-generous-hummingbird-677.mypinata.cloud/ipfs/QmdGGegQuznWG9R4kVYvZVLm2m3ZCxP35XxukPpF1wh2vu?_gl=1*hl2cll*_ga*MTc5MzMxNzIyMi4xNzAzODQ3NjUy*_ga_5RMPXG14TE*MTcwMzg2NDI5OS4zLjAuMTcwMzg2NDI5OS42MC4wLjA."
   },
   {
@@ -1146,6 +1146,15 @@
     "symbol": "LIOR",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1cjzufvday63thkgqkxnesgav69c5afsm5aws8w/test",
+    "name": "tester",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxY2p6dWZ2ZGF5NjN0aGtncWt4bmVzZ2F2NjljNWFmc201YXdzOHcvdGVzdA%3D%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/v17Sc12/pudgypenguin.png"
   },
   {
     "id": "factory/inj1cm5lg3z9l3gftt0c09trnllmayxpwt8825zxw3/catinj",
@@ -2411,6 +2420,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://pbs.twimg.com/profile_images/1737243971271741440/8THYdkbx_400x400.jpg"
+  },
+  {
+    "id": "factory/inj1rvg9a58qtcf8f464w2hkynrvpnl9x59wsaq922/NINJAPE",
+    "name": "NINJAPE",
+    "symbol": "NINJAPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxcnZnOWE1OHF0Y2Y4ZjQ2NHcyaGt5bnJ2cG5sOXg1OXdzYXE5MjIvTklOSkFQRQ%3D%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/4Pk6ZCp/ninjaape.png"
   },
   {
     "id": "factory/inj1s0ckch4dlp5eyx7khtqnt9dryd60v6ns4g0yn4/DOGE",
@@ -3983,7 +4001,7 @@
   },
   {
     "id": "inj16ykyeaggxaqzj3x85rjuk3xunky7mg78yd2q32",
-    "name": "Dog Wif Token  (Wormhole)",
+    "name": "Dog Wif Token (Wormhole)",
     "symbol": "DOGWIF",
     "decimals": "8",
     "type": "cw20",
@@ -4319,7 +4337,7 @@
   },
   {
     "id": "inj1cnldf982xlmk5rzxgylvax6vmrlxjlvw7ss5mt",
-    "name": "BlockTower  (Wormhole)",
+    "name": "BlockTower (Wormhole)",
     "symbol": "BLOCKTOWER",
     "decimals": "8",
     "type": "cw20",
@@ -4374,7 +4392,7 @@
   },
   {
     "id": "inj1dgnrks2s53jd5a0qsuhyvryhk4s03f5mxv9khy",
-    "name": "Apots Doge            (Wormhole)",
+    "name": "Apots Doge (Wormhole)",
     "symbol": "DOGE",
     "decimals": "6",
     "type": "cw20",
@@ -4710,7 +4728,7 @@
   },
   {
     "id": "inj1lgnrkj6lkrckyx23jkchdyuy62fj4773vjp3jf",
-    "name": "Metti Inu  (Wormhole)",
+    "name": "Metti Inu (Wormhole)",
     "symbol": "Metti",
     "decimals": "8",
     "type": "cw20",
@@ -4774,7 +4792,7 @@
   },
   {
     "id": "inj1m8hyuja8wmfm0a2l04dgp5ntwkmetkkemw2jcs",
-    "name": "Fuzion Network  (Wormhole)",
+    "name": "Fuzion Network (Wormhole)",
     "symbol": "FUZION",
     "decimals": "8",
     "type": "cw20",
@@ -4798,7 +4816,7 @@
   },
   {
     "id": "inj1mrltq7kh35xjkdzvul9ky077khsa5qatc0ylxj",
-    "name": "APTDAO                 (Wormhole)",
+    "name": "APTDAO (Wormhole)",
     "symbol": "APT",
     "decimals": "6",
     "type": "cw20",
@@ -4965,7 +4983,7 @@
   },
   {
     "id": "inj1qhu9yxtp0x9gkn0n89hcw8c0wc8nhuke8zgw0d",
-    "name": "Dog Wif Token  (Wormhole)",
+    "name": "Dog Wif Token (Wormhole)",
     "symbol": "DOGWIF",
     "decimals": "8",
     "type": "cw20",
