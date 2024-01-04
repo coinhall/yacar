@@ -8113,5 +8113,15 @@
     "symbol": "USDT",
     "decimals": "6",
     "type": "native"
+  },
+  {
+    "id": "seizophrenia",
+    "entity": "seizophrenia",
+    "name": "seizophrenia",
+    "symbol": "SEIZO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply_api": "https://rest.cosmos.directory/sei/cosmos/bank/v1beta1/supply?pagination.key=dXNlaQ%3D%3D",
+    "icon": "https://ipfs.moralis.io:2053/ipfs/QmdhAWtjegtuHEHiDx7CgwjnYaz7auUNdohSjsbN99TF29/seizo.png"
   }
 ]
