@@ -36,6 +36,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei13ks9e2nwww40sl6vwq8qtszhz4p7y9sgps9kt6/seixtynine",
+    "name": "SEIXTYNINE",
+    "symbol": "SEIXTYNINE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxM2tzOWUybnd3dzQwc2w2dndxOHF0c3poejRwN3k5c2dwczlrdDYvc2VpeHR5bmluZQ%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1584g7vslgphlt8yfxlj3gjv2rlhflcde4rlz2l/useint",
     "name": "seint",
     "symbol": "SEINT",
@@ -332,6 +340,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxamF3NGZ4bnIzdXk0ZmhxMmc0Y3BocWVldHFjbnB1aDh1a2UzbWgvRFVERVNFSQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1k30qfr6aqgyhwfpr5u3u0zhcdunn22qedul8tt/SEI7",
+    "name": "SEI7",
+    "symbol": "SEI7",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxazMwcWZyNmFxZ3lod2ZwcjV1M3UwemhjZHVubjIycWVkdWw4dHQvU0VJNw%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1kkehkr56qz6uh9gr2rjdljtq6pf5k3adkvg6zy/SeiLarious",
@@ -3463,6 +3479,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1cwgvzqtkpnfv4yee5gtn3cy6rd595temjx2j8jsrfw65z0fvfvdsjs2e3d/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1cxr9h4vd9shzaze3dvpuhgdjwak6pgrveva90dztxjynyynt9m7sjmr5e3",
+    "name": "SEIPIECE",
+    "symbol": "SEIPIECE",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1cxr9h4vd9shzaze3dvpuhgdjwak6pgrveva90dztxjynyynt9m7sjmr5e3/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1cycgmpsu94y0mp2nc7runamevp4s7r4qdf8qrzm76907uxj5pays2emjx2",
