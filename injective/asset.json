@@ -1759,6 +1759,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1kf7t8qjq83gg6kn7nl5zwzscfystyqzr62ydsn/injx",
+    "name": "INJX",
+    "symbol": "INJX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxa2Y3dDhxanE4M2dnNmtuN25sNXp3enNjZnlzdHlxenI2Mnlkc24vaW5qeA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1kgyxepqnymx8hy7nydl65w3ecyut566pl70swj/crinj",
     "name": "Crinj Token",
     "symbol": "CRINJ",
