@@ -23,6 +23,14 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMm5xc3FucDYzMzZ5ZWttZTh3YXE0ZHpwdGw4cHJuYWE1MnI5MDkvb2R5c2Vp&pagination.limit=1"
   },
   {
+    "id": "factory/sei12s07qnjzny2n5zvgzp92s4z7aamzemm82d50yt/seitama",
+    "name": "seitama",
+    "symbol": "SEITAMA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMnMwN3FuanpueTJuNXp2Z3pwOTJzNHo3YWFtemVtbTgyZDUweXQvc2VpdGFtYQ%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hello",
     "name": "hello",
     "symbol": "hello",
@@ -9675,6 +9683,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1zp0jyrlvaan3mcfn2p58s8rfxaptv5gvzm8vye0292v2qezljn7st7qyfw/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1zpcd59mjhnge6we4glaag4z0d9rgvd6keqrkgezpwfd2v9gca8dqhd000f",
+    "name": "PEPSEI",
+    "symbol": "PEPSEI",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1zpcd59mjhnge6we4glaag4z0d9rgvd6keqrkgezpwfd2v9gca8dqhd000f/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1zpg3azg53lvngthpmtmp8rp5tuqjmlndn4tpvcu2nm66krqjeplq9tudsk",
