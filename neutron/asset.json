@@ -394,5 +394,13 @@
     "circ_supply_api": "https://info.neutron.org/v1/circulating_supply",
     "total_supply_api": "https://rest.cosmos.directory/neutron/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg"
+  },
+  {
+    "id": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
+    "name": "The Simpsons",
+    "symbol": "Simpsons",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://i.imgur.com/oTsNbqn.png"
   }
 ]
