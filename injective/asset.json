@@ -1343,6 +1343,15 @@
     "icon": "https://1.bp.blogspot.com/-3imxq9DCC_U/TlrL-wFsfNI/AAAAAAAAAuk/Oe1CYI53JoA/s1600/V_for_vendetta_logo_amblem_wallpaper_images_desktop_background_theme_high_definition_resolution.jpg"
   },
   {
+    "id": "factory/inj1f502ktya5h69hxs9acvf3j3d6ygepgxxh2w40u/kidz",
+    "name": "$KIDZ",
+    "symbol": "KIDZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZjUwMmt0eWE1aDY5aHhzOWFjdmYzajNkNnlnZXBneHhoMnc0MHUva2lkeg%3D%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/hV7wm96/8ac22c93-a03d-42f5-b9ac-7722d41afb31.webp"
+  },
+  {
     "id": "factory/inj1fc0ngp72an2x8zxf268xe5avfan5z4g0saz6ns/gduck",
     "name": "GunDuck",
     "symbol": "GDUCK",
@@ -3866,6 +3875,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13ew774de6d3qhfm3msmhs9j57le9krrw2ezh3a/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj13m7h8rdfvr0hwvzzvufwe2sghlfd6e45rz0txa",
+    "name": "MyTokenOne",
+    "symbol": "MyTokenOne",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13m7h8rdfvr0hwvzzvufwe2sghlfd6e45rz0txa/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj13mjcjrwwjq7x6fanqvur4atd4sxyjz7t6kfhx0",
