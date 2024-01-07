@@ -1,5 +1,14 @@
 [
   {
+    "id": "factory/inj104h3hchl7ws8lp78zpvrunvsjdwfjc02r5d0fp/injx",
+    "name": "INJX",
+    "symbol": "INJX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMDRoM2hjaGw3d3M4bHA3OHpwdnJ1bnZzamR3ZmpjMDJyNWQwZnAvaW5qeA%3D%3D&pagination.limit=1",
+    "icon": "https://copper-generous-hummingbird-677.mypinata.cloud/ipfs/QmdGGegQuznWG9R4kVYvZVLm2m3ZCxP35XxukPpF1wh2vu?_gl=1*hl2cll*_ga*MTc5MzMxNzIyMi4xNzAzODQ3NjUy*_ga_5RMPXG14TE*MTcwMzg2NDI5OS4zLjAuMTcwMzg2NDI5OS42MC4wLjA."
+  },
+  {
     "id": "factory/inj105a0fdpnq0wt5zygrhc0th5rlamd982r6ua75r/injtools",
     "name": "INJ Tools",
     "symbol": "INJTOOLS",
@@ -56,6 +65,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://thumbs.dreamstime.com/b/roulette-icon-vector-sign-symbol-isolated-white-backgroun-background-your-web-mobile-app-design-logo-concept-133737588.jpg"
+  },
+  {
+    "id": "factory/inj10gcvfpnn4932kzk56h5kp77mrfdqas8z63qr7n/bits",
+    "name": "bits",
+    "symbol": "bits",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj10gcvfpnn4932kzk56h5kp77mrfdqas8z63qr7n%2Fbits",
+    "icon": "https://bafkreibctiznqniuyv3jp7c7n3yo5wjxvszeiiiofhrg3blbljhnxabewu.ipfs.w3s.link"
   },
   {
     "id": "factory/inj10l4tnj73fl3wferljef802t63n9el49ppnv6a8/nwif",
@@ -135,6 +153,17 @@
     "symbol": "XYZ",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj12dvzf9tx2ndc9498aqpkrxgugr3suysqwlmn49/waifuinj",
+    "entity": "Waifu",
+    "name": "Waifu",
+    "symbol": "WAIFU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "69000000000",
+    "total_supply": "69000000000",
+    "icon": "https://i.ibb.co/mqVj2Yn/waifu-logo.jpg"
   },
   {
     "id": "factory/inj12jtagr03n6fqln4q8mg06lrpaj4scwts49x2cp/eyes",
@@ -286,6 +315,15 @@
     "icon": "https://i.ibb.co/b5Qw5q0/gojo.webp"
   },
   {
+    "id": "factory/inj13sdyzwu7l4kwcjkyuyepxufjxtk2u59xkksp69/NINJAPE",
+    "name": "NINJAPE",
+    "symbol": "NINJAPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj13sdyzwu7l4kwcjkyuyepxufjxtk2u59xkksp69%2FNINJAPE",
+    "icon": "https://i.ibb.co/4Pk6ZCp/ninjaape.png"
+  },
+  {
     "id": "factory/inj13vau2mgx6mg7ams9nngjhyng58tl9zyw0n8s93/BABYKIRA",
     "name": "Babykira",
     "symbol": "$Babykira",
@@ -370,6 +408,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "ipfs://QmUG8xtgkqB25EStXxKU2MyLde4g5R9Gz8Q1NW39x8Lie3/cartoon%20ninja%20with%20brown%20hat.jpg"
+  },
+  {
+    "id": "factory/inj147s5vh6ck67zjtpgd674c7efd47jqck55chw4l/inj-GODS",
+    "name": "GODS",
+    "symbol": "GODS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNDdzNXZoNmNrNjd6anRwZ2Q2NzRjN2VmZDQ3anFjazU1Y2h3NGwvaW5qLUdPRFM%3D&pagination.limit=1"
   },
   {
     "id": "factory/inj1499ez5npathr0zkphz2yq6npdfc6xvg3d4zynj/iSILLY",
@@ -464,7 +510,7 @@
     "symbol": "SOL",
     "decimals": "8",
     "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/solana.svg"
+    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tjcf9497fwmrnk22jfu5hsdq82qshga54ajvzy",
@@ -525,7 +571,8 @@
     "decimals": "6",
     "type": "tokenfactory",
     "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14n8f39qdg6t68s5z00t4vczvkcvzlgm6ea5vk5%2Fextravirginoliveinu",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14n8f39qdg6t68s5z00t4vczvkcvzlgm6ea5vk5%2Fextravirginoliveinu"
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14n8f39qdg6t68s5z00t4vczvkcvzlgm6ea5vk5%2Fextravirginoliveinu",
+    "icon": "https://i.imgur.com/iQNFtXj.png"
   },
   {
     "id": "factory/inj14t4aafu7v0vmls8f73ssrzptcm3prkx2r4tp0n/injbulls",
@@ -1120,6 +1167,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1cjzufvday63thkgqkxnesgav69c5afsm5aws8w/test",
+    "name": "tester",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxY2p6dWZ2ZGF5NjN0aGtncWt4bmVzZ2F2NjljNWFmc201YXdzOHcvdGVzdA%3D%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/v17Sc12/pudgypenguin.png"
+  },
+  {
     "id": "factory/inj1cm5lg3z9l3gftt0c09trnllmayxpwt8825zxw3/catinj",
     "name": "CATINJ",
     "symbol": "CATINJ",
@@ -1181,7 +1237,8 @@
     "symbol": "KARMA",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1d4ld9w7mf8wjyv5y7fnhpate07fguv3s3tmngm%2Fkarmainj",
+    "circ_supply": "888888888888",
+    "total_supply": "888888888888",
     "icon": "https://iili.io/JRiEy67.png"
   },
   {
@@ -1229,6 +1286,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://i.ibb.co/0Cm01vR/panda-ninja.png"
+  },
+  {
+    "id": "factory/inj1esz96ru3guug4ctmn5chjmkymt979sfvufq0hs/PUNK",
+    "name": "Punk DAO Token",
+    "symbol": "PUNK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1esz96ru3guug4ctmn5chjmkymt979sfvufq0hs%2FPUNK",
+    "icon": "https://ipfs.io/ipfs/bafkreig7rcv2oykekg5l4qa6fxdj2mm6brp6oframrdzclubaf6msrpvam"
   },
   {
     "id": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
@@ -1283,6 +1349,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://1.bp.blogspot.com/-3imxq9DCC_U/TlrL-wFsfNI/AAAAAAAAAuk/Oe1CYI53JoA/s1600/V_for_vendetta_logo_amblem_wallpaper_images_desktop_background_theme_high_definition_resolution.jpg"
+  },
+  {
+    "id": "factory/inj1f502ktya5h69hxs9acvf3j3d6ygepgxxh2w40u/kidz",
+    "name": "$KIDZ",
+    "symbol": "KIDZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZjUwMmt0eWE1aDY5aHhzOWFjdmYzajNkNnlnZXBneHhoMnc0MHUva2lkeg%3D%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/hV7wm96/8ac22c93-a03d-42f5-b9ac-7722d41afb31.webp"
   },
   {
     "id": "factory/inj1fc0ngp72an2x8zxf268xe5avfan5z4g0saz6ns/gduck",
@@ -1712,6 +1787,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1kf7t8qjq83gg6kn7nl5zwzscfystyqzr62ydsn/injx",
+    "name": "INJX",
+    "symbol": "INJX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxa2Y3dDhxanE4M2dnNmtuN25sNXp3enNjZnlzdHlxenI2Mnlkc24vaW5qeA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1kgyxepqnymx8hy7nydl65w3ecyut566pl70swj/crinj",
     "name": "Crinj Token",
     "symbol": "CRINJ",
@@ -1799,6 +1882,16 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1kzaaapa8ux4z4lh8stm6vv9c5ykhtwl84zxrtl%2Fni"
+  },
+  {
+    "id": "factory/inj1l2kcs4yxsxe0c87qy4ejmvkgegvjf0hkyhqk59/DGNZ",
+    "entity": "Injective Degens",
+    "name": "DGNZ",
+    "symbol": "DGNZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1l2kcs4yxsxe0c87qy4ejmvkgegvjf0hkyhqk59%2FDGNZ",
+    "icon": "https://i.ibb.co/yfx1KGH/Logo.png"
   },
   {
     "id": "factory/inj1l73eqd7w5vu4srwmc722uwv7u9px7k5azzsqm2/pinjeon",
@@ -1935,11 +2028,14 @@
   },
   {
     "id": "factory/inj1ml33x7lkxk6x2x95d3alw4h84evlcdz2gnehmk/SNOWY",
+    "entity": "InjSnowy",
     "name": "Injective Snowy",
     "symbol": "SNOWY",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://ipfs.io/ipfs/QmYEXRmAdNf43wiQrriwYhLcgvRW8qfq1WyqVvKqE1J9ck"
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1ml33x7lkxk6x2x95d3alw4h84evlcdz2gnehmk%2FSNOWY",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1ml33x7lkxk6x2x95d3alw4h84evlcdz2gnehmk%2FSNOWY",
+    "icon": "https://ipfs.io/ipfs/QmTT4mrFsSaZjdDBEpRC1MX4mL2mssn1GoCsBhpUABVd4G"
   },
   {
     "id": "factory/inj1mllxwgvx0zhhr83rfawjl05dmuwwzfcrs9xz6t/SHU",
@@ -1949,6 +2045,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1mllxwgvx0zhhr83rfawjl05dmuwwzfcrs9xz6t%2FSHU",
     "icon": "https://bafkreih7l2nk424cfljdd4lo256vx7frs7663yppsaucqd3zlw5wxq53u4.ipfs.nftstorage.link"
+  },
+  {
+    "id": "factory/inj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6/ALIEN",
+    "name": "ALIEN",
+    "symbol": "$ALIEN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6%2FALIEN",
+    "icon": "https://ipfs.io/ipfs/QmVYURmGDBBqJjVwU4zfnaCHmkf1zNjcP6Ctkd9P1385kf"
   },
   {
     "id": "factory/inj1mwsgdlq6rxs3xte8p2m0pcw565czhgngrxgl38/Santa",
@@ -2101,6 +2206,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://bafkreidltgqqnkrpcnsnqilrvrlyx5tsibqvxx62ylqffktfzb2dicjjki.ipfs.w3s.link/"
+  },
+  {
+    "id": "factory/inj1pn6cg7jt5nvmh2rpjxhg95nrcjz0rujv54wkdg/apeinj",
+    "name": "APEINJToken",
+    "symbol": "APEINJ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1pn6cg7jt5nvmh2rpjxhg95nrcjz0rujv54wkdg%2Fapeinj"
   },
   {
     "id": "factory/inj1pnwrzhnjfncxgf4jkv3zadf542tpfc3xx3x4xw/NIF",
@@ -2343,6 +2456,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://pbs.twimg.com/profile_images/1737243971271741440/8THYdkbx_400x400.jpg"
+  },
+  {
+    "id": "factory/inj1rvg9a58qtcf8f464w2hkynrvpnl9x59wsaq922/NINJAPE",
+    "name": "NINJAPE",
+    "symbol": "NINJAPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxcnZnOWE1OHF0Y2Y4ZjQ2NHcyaGt5bnJ2cG5sOXg1OXdzYXE5MjIvTklOSkFQRQ%3D%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/4Pk6ZCp/ninjaape.png"
   },
   {
     "id": "factory/inj1s0ckch4dlp5eyx7khtqnt9dryd60v6ns4g0yn4/DOGE",
@@ -2634,6 +2756,7 @@
   },
   {
     "id": "factory/inj1uvfpvnmuqhx8jwg4786y59tkagmph827h38mst/WIZZ",
+    "entity": "Wizz Injective",
     "name": "WIZZ",
     "symbol": "WIZZ",
     "decimals": "6",
@@ -2987,9 +3110,17 @@
     "type": "tokenfactory",
     "circ_supply": "1000000000",
     "total_supply": "1000000000",
-    "icon": "https://www.dogwifnunchucks.com/dwn.png",
+    "icon": "https://i.ibb.co/s6wQvHv/dwn.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/dog-wif-nunchucks",
     "coingecko": "https://www.coingecko.com/en/coins/dog-wif-nunchucks"
+  },
+  {
+    "id": "factory/inj1xtwk60ey0g03s69gfsure0kx8hwwuk24zl0g6l/GALA",
+    "name": "GALA",
+    "symbol": "GALA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxeHR3azYwZXkwZzAzczY5Z2ZzdXJlMGt4OGh3d3VrMjR6bDBnNmwvR0FMQQ%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/inj1xuds68kdmuhextjew8zlt73g5ku7aj0g7tlyjr/miyoyo",
@@ -3279,7 +3410,7 @@
     "type": "oracle",
     "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
   },
   {
     "id": "helix/BAYC",
@@ -3488,7 +3619,7 @@
     "symbol": "XPRT",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/xprt.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg"
   },
   {
     "id": "ibc/B8AF5D92165F35AB31F3FC7C7B444B9D240760FA5D406C49D24862BD0284E395",
@@ -3513,7 +3644,7 @@
     "type": "ibc",
     "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/atom.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
   },
   {
     "id": "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
@@ -3722,6 +3853,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj134p6skwcyjac60d2jtff0daps7tvzuqj4n56fr/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj134pxgsexyt782qp3kvxf8nf9xl0q7dfdxk5tws",
+    "name": "INJ",
+    "symbol": "INJ",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj134pxgsexyt782qp3kvxf8nf9xl0q7dfdxk5tws/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1367pnje9e8myaw04av6j2n5z7827407k4sa4m8",
     "name": "Matr1x AI (Wormhole)",
     "symbol": "MATR1X",
@@ -3754,12 +3893,44 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13ew774de6d3qhfm3msmhs9j57le9krrw2ezh3a/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj13fnjq02hwxejdm584v9qhrh66mt4l3j8l3yh6f",
+    "name": "DINOINJ",
+    "symbol": "INJDINO",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13fnjq02hwxejdm584v9qhrh66mt4l3j8l3yh6f/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj13m7h8rdfvr0hwvzzvufwe2sghlfd6e45rz0txa",
+    "name": "MyTokenOne",
+    "symbol": "MyTokenOne",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13m7h8rdfvr0hwvzzvufwe2sghlfd6e45rz0txa/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj13mjcjrwwjq7x6fanqvur4atd4sxyjz7t6kfhx0",
+    "name": "CheeseBalls",
+    "symbol": "CheeseBalls",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13mjcjrwwjq7x6fanqvur4atd4sxyjz7t6kfhx0/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj13mpkggs6t62kzt6pjd6guqfy6naljpp2jd3eue",
     "name": "USD Coin (Wormhole)",
     "symbol": "devUSDC",
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13mpkggs6t62kzt6pjd6guqfy6naljpp2jd3eue/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj13n675x36dnettkxkjll82q72zgnvsazn4we7dx",
+    "name": "Galaxy",
+    "symbol": "GALAXY",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13n675x36dnettkxkjll82q72zgnvsazn4we7dx/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj13pegx0ucn2e8w2g857n5828cmvl687jgq692t4",
@@ -3818,12 +3989,36 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj14a7q9frkgtvn53xldccsvmz8lr5u6qffu7jmmx/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj14hszr5wnhshu4zre6e4l5ae2el9v2420eypu6k",
+    "name": "dojoinu",
+    "symbol": "dojoinu",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj14hszr5wnhshu4zre6e4l5ae2el9v2420eypu6k/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj14pq4ewrxju997x0y7g2ug6cn3lqyp66ygz5x6s",
+    "name": "CINU (Wormhole)",
+    "symbol": "CINU",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj14pq4ewrxju997x0y7g2ug6cn3lqyp66ygz5x6s/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj14vluf5wc7tsptnfzrjs9g579uyp9gvvlwre5e4",
     "name": "XEN Crypto (Wormhole)",
     "symbol": "fmXEN",
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj14vluf5wc7tsptnfzrjs9g579uyp9gvvlwre5e4/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj150382m6ah6lg3znprdrsggx38xl47fs4rmzy3m",
+    "name": "Apecoin",
+    "symbol": "APC",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj150382m6ah6lg3znprdrsggx38xl47fs4rmzy3m/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj150rlxjvk2trcm59mpwyg7hkkq8sfmdtu0tj873",
@@ -3858,11 +4053,27 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj155kuqqlmdz7ft2jas4fc23pvtsecce8xps47w5/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj15a8vutf0edqcuanpwrz0rt8hfclz9w8v6maum3",
+    "name": "XAI (Wormhole)",
+    "symbol": "XAI",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj15a8vutf0edqcuanpwrz0rt8hfclz9w8v6maum3/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj15x75x44futqdpx7mp86qc6dcuaqcyvfh0gpxp5",
     "name": "Injective Protocol (Wormhole)",
     "symbol": "INJPRO",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1608auvvlrz9gf3hxkpkjf90vwwgfyxfxth83g6",
+    "name": "KADO (Wormhole)",
+    "symbol": "KADO",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1608auvvlrz9gf3hxkpkjf90vwwgfyxfxth83g6/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj165lcmjswrkuz2m5p45wn00qz4k2zpq8r9axkp9",
@@ -3890,11 +4101,27 @@
   },
   {
     "id": "inj16ykyeaggxaqzj3x85rjuk3xunky7mg78yd2q32",
-    "name": "Dog Wif Token  (Wormhole)",
+    "name": "Dog Wif Token (Wormhole)",
     "symbol": "DOGWIF",
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj16ykyeaggxaqzj3x85rjuk3xunky7mg78yd2q32/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj17006r28luxtfaf7hn3jd76pjn7l49lv9le3983",
+    "name": "NinjaNgrok",
+    "symbol": "NINJANGROK",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj17006r28luxtfaf7hn3jd76pjn7l49lv9le3983/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj173f5j4xtmah4kpppxgh8p6armad5cg5e6ay5qh",
+    "name": "BonkInj",
+    "symbol": "BONKINJ",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj173f5j4xtmah4kpppxgh8p6armad5cg5e6ay5qh/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj174p4dt45793vylmt8575cltj6wadtc62nakczq",
@@ -3953,6 +4180,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj17cqy5lr4gprjgnlv0j2mw4rhqfhr9zpupkur8t/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj17dpjwzzr05uvegj4hhwtf47y0u362qgm6r3f5r",
+    "name": "totomal",
+    "symbol": "toto",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj17dpjwzzr05uvegj4hhwtf47y0u362qgm6r3f5r/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj17hsx7q99utdthm9l6c6nvm2j8a92dr489car5x",
     "name": "Injective Snowy (Wormhole)",
     "symbol": "SNOWY",
@@ -3967,6 +4202,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj17qsyspyh44wjch355pr72wzfv9czt5cw3h7vrr/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj17uyp6dz3uyq40ckkzlgrze2k25zhgvdqa3yh0v",
+    "name": "BABYGINGER",
+    "symbol": "BABYGINGER",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj17uyp6dz3uyq40ckkzlgrze2k25zhgvdqa3yh0v/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1802ascnwzdhvv84url475eyx26ptuc6jc590nl",
@@ -3999,6 +4242,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18h33x5qcr44feutwr2cgazaalcqwtpez57nutx/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj18n9rpsstxsxgpmgegkn6fsvq9x3alqekqddgnq",
+    "name": "RUGMYASS Token",
+    "symbol": "RUGMYASS",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18n9rpsstxsxgpmgegkn6fsvq9x3alqekqddgnq/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj18qupdvxmgswj9kfz66vaw4d4wn0453ap6ydxmy",
@@ -4039,6 +4290,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj195vkuzpy64f6r7mra4m5aqgtj4ldnk2qs0zx8n/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj197p39k7ued8e6r5mnekg47hphap8zcku8nws5y",
+    "name": "DONOTBUY",
+    "symbol": "DONOTBUY",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj197p39k7ued8e6r5mnekg47hphap8zcku8nws5y/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1980cshwxa5mnptp6vzngha6h2qe556anm4zjtt",
@@ -4089,6 +4348,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19rev0qmuz3eccvkluz8sptm6e9693jduexrc4v/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj19w5ntlx023v9rnecjuy7yem7s5lrg5gxlfrxfj",
+    "name": "crypto",
+    "symbol": "crypto",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19w5ntlx023v9rnecjuy7yem7s5lrg5gxlfrxfj/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj19wccuev2399ad0ftdfyvw8h9qq5dvqxqw0pqxe",
     "name": "SantaInjective (Wormhole)",
     "symbol": "SANTAINJ",
@@ -4103,6 +4370,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19xa3v0nwvdghpj4v2lzf64n70yx7wlqvaxcejn/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj19zzdev3nkvpq26nfvdcm0szp8h272u2fxf0myv",
+    "name": "ShibINJ",
+    "symbol": "SHB",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19zzdev3nkvpq26nfvdcm0szp8h272u2fxf0myv/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1a3ec88sxlnu3ntdjk79skr58uetrvxcm4puhth",
@@ -4127,6 +4402,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1a5pxsj6f8jggncw4s2cg39p25swgzdjyljw5tf/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1a6qdxdanekzgq6dluymlk7n7khg3dqq9lua9q9",
+    "name": "Test Token",
+    "symbol": "TEST",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1a6qdxdanekzgq6dluymlk7n7khg3dqq9lua9q9/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1aalqnnh24ddn3vd9plnevwnxd03x7sevm77lps",
@@ -4177,6 +4460,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1c2e37gwl2q7kvuxyfk5c0qs89rquzmes0nsgjf/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1ccpccejcrql2878cq55nqpgsl46s26qj8hm6ws",
+    "name": "VIU (Wormhole)",
+    "symbol": "VIU",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ccpccejcrql2878cq55nqpgsl46s26qj8hm6ws/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1cef5deszfl232ws7nxjgma4deaydd7e7aj6hyf",
     "name": "GorillaGang (Wormhole)",
     "symbol": "GORILLA",
@@ -4193,8 +4484,16 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1cfv8rrcete7vengcken0mjqt8q75vpcc0j0my5/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1ck568jpww8wludqh463lk6h32hhe58u0nrnnxe",
+    "name": "SATS (Wormhole)",
+    "symbol": "SATS",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ck568jpww8wludqh463lk6h32hhe58u0nrnnxe/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1cnldf982xlmk5rzxgylvax6vmrlxjlvw7ss5mt",
-    "name": "BlockTower  (Wormhole)",
+    "name": "BlockTower (Wormhole)",
     "symbol": "BLOCKTOWER",
     "decimals": "8",
     "type": "cw20",
@@ -4215,6 +4514,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1d08rut8e0u2e0rlf3pynaplas6q0akj5p976kv/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1d70m92ml2cjzy2lkj5t2addyz6jq4qu8gyfwn8",
+    "name": "ZigZag",
+    "symbol": "ZIGZAG",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1d70m92ml2cjzy2lkj5t2addyz6jq4qu8gyfwn8/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1d8pmcxk2grd62pwcy4q58l2vqh98vwkjx9nsvm",
@@ -4249,7 +4556,7 @@
   },
   {
     "id": "inj1dgnrks2s53jd5a0qsuhyvryhk4s03f5mxv9khy",
-    "name": "Apots Doge            (Wormhole)",
+    "name": "Apots Doge (Wormhole)",
     "symbol": "DOGE",
     "decimals": "6",
     "type": "cw20",
@@ -4262,6 +4569,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1dntprsalugnudg7n38303l3l577sxkxc6q7qt5/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1dntqalk5gj6g5u74838lmrym3hslc9v3v9etqg",
+    "name": "INJ LOUNGE (Wormhole)",
+    "symbol": "INJ LOUNGE",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1dntqalk5gj6g5u74838lmrym3hslc9v3v9etqg/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1dqcyzn9p48f0dh9xh3wxqv3hs5y3lhqr43ecs0",
@@ -4344,12 +4659,36 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1f6fxh20pdyuj98c8l2svlky8k7z7hkdztttrd2/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1f7srklvw4cf6net8flmes4mz5xl53mcv3gs8j9",
+    "name": "NitroID (Wormhole)",
+    "symbol": "NITROID",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1f7srklvw4cf6net8flmes4mz5xl53mcv3gs8j9/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1f8fsu2xl97c6yss7s3vgmvnjau2qdlk3vq3fg2",
+    "name": "TestOne",
+    "symbol": "TestOne",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1f8fsu2xl97c6yss7s3vgmvnjau2qdlk3vq3fg2/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1fghekhpfn2rfds6c466p38ttdm2a70gnzymc86",
     "name": "FusionX (Wormhole)",
     "symbol": "FusionX",
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1fghekhpfn2rfds6c466p38ttdm2a70gnzymc86/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1fmw3t86ncrlz35pm0q66ca5kpudlxzg55tt54f",
+    "name": "WaifuBot",
+    "symbol": "WAIFUBOT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1fmw3t86ncrlz35pm0q66ca5kpudlxzg55tt54f/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1g07rttdqwcy43yx9m20z030uex29sxpcwvvjmf",
@@ -4392,6 +4731,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1h28xpjed0xtjwe558gr2nx7nsfx2p6sey6zduc/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1h6avzdsgkfvymg3sq5utgpq2aqg4pdee7ep77t",
+    "name": "UIA",
+    "symbol": "UIA",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1h6avzdsgkfvymg3sq5utgpq2aqg4pdee7ep77t/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1hjym72e40g8yf3dd3lah98acmkc6ms5chdxh6g",
     "name": "Dr. EggMan (Wormhole)",
     "symbol": "EGGMAN",
@@ -4432,6 +4779,30 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1hpu5e5620hvd7hf3t4t4em96cx9t58yefcr3uu/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1hpwp280wsrsgn3r3mvufx09dy4e8glj8sq4vzx",
+    "name": "Sendor",
+    "symbol": "Sendor",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1hpwp280wsrsgn3r3mvufx09dy4e8glj8sq4vzx/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1j5l0xc2lwqpj2duvllmegxse0dqlx5kgyjehlv",
+    "name": "GEMOY",
+    "symbol": "GEMOY",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1j5l0xc2lwqpj2duvllmegxse0dqlx5kgyjehlv/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1j5y95qltlyyjayjpyupgy7e5y7kkmvjgph888r",
+    "name": "TestingToken",
+    "symbol": "Test",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1j5y95qltlyyjayjpyupgy7e5y7kkmvjgph888r/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1j7e95jmqaqgazje8kvuzp6kh2j2pr6n6ffvuq5",
     "name": "BEANS (Wormhole)",
     "symbol": "BEANS",
@@ -4462,6 +4833,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1jnn7uf83lpl9ug5y6d9pxes9v7vqphd379rfeh/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1jnswzkkdvkc6chwzffggrlp69efghlqdha6jaq",
+    "name": "Test",
+    "symbol": "TEST",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1jnswzkkdvkc6chwzffggrlp69efghlqdha6jaq/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1jttaxqcjtsys54k3m6mx4kzulzasg4tc6hhpp6",
@@ -4496,6 +4875,22 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1k4v0wzgxm5zln8asekgkdljvctee45l7ujwlr4/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1k59du6npg24x2wacww9lmmleh5qrscf9gl7fr5",
+    "name": "Sheik",
+    "symbol": "She",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1k59du6npg24x2wacww9lmmleh5qrscf9gl7fr5/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1kfr9r9vvflgyka50yykjm9l02wsazl958jffl2",
+    "name": "NinjaSamurai",
+    "symbol": "NINJASAMURAI",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1kfr9r9vvflgyka50yykjm9l02wsazl958jffl2/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1kgdp3wu5pr5ftuzczpgl5arg28tz44ucsjqsn9",
     "name": "Polargeist (Wormhole)",
     "symbol": "POLAR",
@@ -4510,6 +4905,22 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1khd6f66tp8dd4f58dzsxa5uu7sy3phamkv2yr8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1kzk2h0g6glmlwamvmzq5jekshshkdez6dnqemf",
+    "name": "MyTokenZero",
+    "symbol": "MyTokenZero",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1kzk2h0g6glmlwamvmzq5jekshshkdez6dnqemf/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1l2juxl35xedtneaq2eyk535cw5hq4x3krjqsl3",
+    "name": "tokentesting",
+    "symbol": "token",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1l2juxl35xedtneaq2eyk535cw5hq4x3krjqsl3/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1l5qrquc6kun08asp6dt50zgcxes9ntazyvs9eu",
@@ -4545,7 +4956,7 @@
   },
   {
     "id": "inj1lgnrkj6lkrckyx23jkchdyuy62fj4773vjp3jf",
-    "name": "Metti Inu  (Wormhole)",
+    "name": "Metti Inu (Wormhole)",
     "symbol": "Metti",
     "decimals": "8",
     "type": "cw20",
@@ -4592,6 +5003,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1lzdvr2d257lazc2824xqlpnn4q50vuyhnndqhv/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1m2w8aenm3365w8t4x7jvpassk9ju7xq3snahhh",
+    "name": "2024 MEME (Wormhole)",
+    "symbol": "2024MEME",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1m2w8aenm3365w8t4x7jvpassk9ju7xq3snahhh/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1m7264u6ytz43uh5hpup7cg78h6a8xus9dnugeh",
     "name": "MetaInjective (Wormhole)",
     "symbol": "INJMETA",
@@ -4601,7 +5020,7 @@
   },
   {
     "id": "inj1m8hyuja8wmfm0a2l04dgp5ntwkmetkkemw2jcs",
-    "name": "Fuzion Network  (Wormhole)",
+    "name": "Fuzion Network (Wormhole)",
     "symbol": "FUZION",
     "decimals": "8",
     "type": "cw20",
@@ -4625,7 +5044,7 @@
   },
   {
     "id": "inj1mrltq7kh35xjkdzvul9ky077khsa5qatc0ylxj",
-    "name": "APTDAO                 (Wormhole)",
+    "name": "APTDAO (Wormhole)",
     "symbol": "APT",
     "decimals": "6",
     "type": "cw20",
@@ -4640,12 +5059,28 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1mtt0a4evtfxazpxjqlv5aesdn3mnysl78lppts/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1mxcj2f8aqv8uflul4ydr7kqv90kprgsrx0mqup",
+    "name": "EVITCEJNI",
+    "symbol": "EVI",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1mxcj2f8aqv8uflul4ydr7kqv90kprgsrx0mqup/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1mxjvtp38yj866w7djhm9yjkwqc4ug7klqrnyyj",
     "name": "Spirit Inu (Wormhole)",
     "symbol": "SINU",
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1mxjvtp38yj866w7djhm9yjkwqc4ug7klqrnyyj/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1n4hl6mxv749jkqsrhu23z24e2p3s55de98jypt",
+    "name": "DogeCoin",
+    "symbol": "Doge",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1n4hl6mxv749jkqsrhu23z24e2p3s55de98jypt/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1nddcunwpg4cwyl725lvkh9an3s5cradaajuwup",
@@ -4662,6 +5097,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1nfkjyevl6z0fyc86w88xr8qq3awugw0nt2dvxq/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1nk2x5ll6guwt84aagnw82e7ajmlwde6w2zmpdw",
+    "name": "BabyDoge",
+    "symbol": "BABYDOGE",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1nk2x5ll6guwt84aagnw82e7ajmlwde6w2zmpdw/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1nkxdx2trqak6cv0q84sej5wy23k988wz66z73w",
@@ -4686,6 +5129,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1nmrve743hvmxzv7e3p37nyjl2tf8fszcqg44ma/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1nmzj7jartqsex022j3kkkszeayypqkzl5vpe59",
+    "name": "$TunaSniper (Wormhole)",
+    "symbol": "$TunaSniper",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1nmzj7jartqsex022j3kkkszeayypqkzl5vpe59/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1p0tvxzfhht5ychd6vj8rqhm0u7g5zxl6prrzpk",
@@ -4743,12 +5194,36 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ppg7jkl9vaj9tafrceq6awgr4ngst3n0musuq3/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1psx54edreejwmjsdgsad332c60y5lnzqkkudve",
+    "name": "FIVE INJ (Wormhole)",
+    "symbol": "FIVE",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1psx54edreejwmjsdgsad332c60y5lnzqkkudve/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1pv567vvmkv2udn6llcnmnww78erjln35ut05kc",
     "name": "Injective Inu (Wormhole)",
     "symbol": "INJINU",
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1pv567vvmkv2udn6llcnmnww78erjln35ut05kc/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1pw54fsqmp0ludl6vl5wfe63ddax52z5hlq9jhy",
+    "name": "Testgay ",
+    "symbol": "Gay",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1pw54fsqmp0ludl6vl5wfe63ddax52z5hlq9jhy/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1py5zka74z0h02gqqaexllddn8232vqxsc946qf",
+    "name": "DogeWaifu",
+    "symbol": "WAIFUDOGE",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1py5zka74z0h02gqqaexllddn8232vqxsc946qf/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1pykhnt3l4ekxe6ra5gjc03pgdglavsv34vdjmx",
@@ -4767,12 +5242,28 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1q2u8r40uh0ykqrjwszppz6yj2nvst4xvfvks29/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1qaakagef76lgu56uhdc9rdsycdrznf7pjfjt2c",
+    "name": "InjDoge",
+    "symbol": "DOGEINJ",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1qaakagef76lgu56uhdc9rdsycdrznf7pjfjt2c/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1qhu9yxtp0x9gkn0n89hcw8c0wc8nhuke8zgw0d",
-    "name": "Dog Wif Token  (Wormhole)",
+    "name": "Dog Wif Token (Wormhole)",
     "symbol": "DOGWIF",
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1qhu9yxtp0x9gkn0n89hcw8c0wc8nhuke8zgw0d/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1qjgtplwsrflwgqjy0ffp72mfzckwsqmlq2ml6n",
+    "name": "SEI WHAT ? (Wormhole)",
+    "symbol": "SEIWHAT?",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1qjgtplwsrflwgqjy0ffp72mfzckwsqmlq2ml6n/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1qpepg77mysjjqlm9znnmmkynreq9cs2rypwf35",
@@ -4790,6 +5281,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1qtqd73kkp9jdm7tzv3vrjn9038e6lsk929fel8/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1r3vswh4hevfj6ynfn7ypudzhe2rrngzjn4lv5a",
+    "name": "TunaSniperBotOutSoon",
+    "symbol": "TunaSniper",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1r3vswh4hevfj6ynfn7ypudzhe2rrngzjn4lv5a/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1scn6ssfehuw735llele39kk7w6ylg4auw3epjp",
     "name": "Target (Wormhole)",
     "symbol": "TRG",
@@ -4803,6 +5302,22 @@
     "symbol": "ASTROINJ",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1shlkety7fs0n7l2lxz3pyg6hr0j6dkcdvgvjch",
+    "name": "GROK (Wormhole)",
+    "symbol": "GROK",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1shlkety7fs0n7l2lxz3pyg6hr0j6dkcdvgvjch/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1sjff8grguxkzp2wft4xnvsmrksera5l5hhr2nt",
+    "name": "JEET",
+    "symbol": "JEET",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1sjff8grguxkzp2wft4xnvsmrksera5l5hhr2nt/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1snaeff6pryn48fnrt6df04wysuq0rk7sg8ulje",
@@ -4853,6 +5368,38 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1sx4mtq9kegurmuvdwddtr49u0hmxw6wt8dxu3v/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1t0dfz5gqfrq6exqn0sgyz4pen4lxchfka3udn4",
+    "name": "InjectiveSwap",
+    "symbol": "INJSWAP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1t0dfz5gqfrq6exqn0sgyz4pen4lxchfka3udn4/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1t3lzvya9p4zslzetpzcmc968a9c5jjkdycwlzf",
+    "name": "NeonFinance",
+    "symbol": "FINNEON",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1t3lzvya9p4zslzetpzcmc968a9c5jjkdycwlzf/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1tn88veylex4f4tu7clpkyneahpmf7nqqmvquuw",
+    "name": "Cat with Needle",
+    "symbol": "Inject",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1tn88veylex4f4tu7clpkyneahpmf7nqqmvquuw/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1tp3cszqlqa7e08zcm78r4j0kqkvaccayhx97qh",
+    "name": "Ninjutsu",
+    "symbol": "NINJT",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1tp3cszqlqa7e08zcm78r4j0kqkvaccayhx97qh/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1trg4pfcu07ft2dhd9mljp9s8pajxeclzq5cnuw",
     "name": "Moonlana (Wormhole)",
     "symbol": "Moonlana",
@@ -4899,6 +5446,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1tvcarn0xz9p9rxrgev5a2qjmrtqtnl4xtu5vsu/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1tyvchyp04yscelq30q6vzngn9wvmjw446sw786",
+    "name": "DGNZBaby",
+    "symbol": "BABYDGNZ",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1tyvchyp04yscelq30q6vzngn9wvmjw446sw786/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1u82h7d8l47q3kzwvkm2mgzrskk5au4lrkntkjn",
@@ -4948,6 +5503,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ur3qac37axxmuqpsegr7cts77t78jyupucpua3/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1usr473hh8hlff874tvcl4pe6qzsmc08w3k32nd",
+    "name": "CheeseBalls",
+    "symbol": "CheeseBalls",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1usr473hh8hlff874tvcl4pe6qzsmc08w3k32nd/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1vkptqdl42csvr5tsh0gwczdxdenqm7xxg9se0z",
     "name": "Hydro Protocol (Wormhole)",
     "symbol": "HYDRO",
@@ -4980,6 +5543,38 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1vts6mh344msrwr885ej5naev87yesred5mp23r/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1vun8dfgm6rr9xv40p4tpmd8lcc9cvt3384dv7w",
+    "name": "NinjaAI",
+    "symbol": "AININJA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1vun8dfgm6rr9xv40p4tpmd8lcc9cvt3384dv7w/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1vweya4us4npaa5xdf026sel0r4qazdvzx6v0v4",
+    "name": "Kazoo",
+    "symbol": "Kaz",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1vweya4us4npaa5xdf026sel0r4qazdvzx6v0v4/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1w4clv0alsnt5ez2v7dl9yjzmg7mkfzjs0cf7cz",
+    "name": "testing123",
+    "symbol": "testtesttest",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1w4clv0alsnt5ez2v7dl9yjzmg7mkfzjs0cf7cz/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1w7wwyy6pjs9k2ecxte8p6tp8g7kh6k3ut402af",
+    "name": "ShibINJ",
+    "symbol": "SHI",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1w7wwyy6pjs9k2ecxte8p6tp8g7kh6k3ut402af/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1wf0d0ynpfcmpcq8h9evv2z4p0stc73x3skj96r",
     "name": "Lost Paradise AI (Wormhole)",
     "symbol": "LOST",
@@ -4996,6 +5591,22 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1wjd2u3wq2dwyr7zlp09squh2xrqjlggy0vlftj/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1wjv6l090h9wgwr6lc58mj0xphg50mzt8y6dfsy",
+    "name": "DogeNinja",
+    "symbol": "DOGENINJA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1wjv6l090h9wgwr6lc58mj0xphg50mzt8y6dfsy/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1wlrndkkyj90jsp9mness2kqp5x0huzuhuhx28d",
+    "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "symbol": "AAAA",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1wlrndkkyj90jsp9mness2kqp5x0huzuhuhx28d/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1wmlkhs5y6qezacddsgwxl9ykm40crwp4fpp9vl",
     "name": "PixelBlocks (Wormhole)",
     "symbol": "PIXEL",
@@ -5010,6 +5621,30 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1x2lg9j9pwmgnnwmhvq2g6pm6emcx7w02pnjnm6/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1xj7c6r65e8asrrpgm889m8pr7x3ze7va2ypql4",
+    "name": "HelloJulian",
+    "symbol": "Hellooooo",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1xj7c6r65e8asrrpgm889m8pr7x3ze7va2ypql4/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1xnk5ca6u4hl9rfm2qretz6p5wjt3yptvng2jvd",
+    "name": "Test",
+    "symbol": "Test",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1xnk5ca6u4hl9rfm2qretz6p5wjt3yptvng2jvd/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1xux4gj0g3u8qmuasz7fsk99c0hgny4wl7hfzqu",
+    "name": "DogeKira",
+    "symbol": "DOGEKIRA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1xux4gj0g3u8qmuasz7fsk99c0hgny4wl7hfzqu/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1xvlxqaxw0ef0596d96ecfwpta29y2jc9n5w9s9",
@@ -5068,6 +5703,22 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ynehe0s2kh9fqp5tka99f8wj2xgsha74h3cmtu/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1ypa69pvev7rlv8d2rdxkaxn23tk7rx5vgnxaam",
+    "name": "TunaSniper",
+    "symbol": "TunaSniper",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ypa69pvev7rlv8d2rdxkaxn23tk7rx5vgnxaam/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1yqm9apy8kat8fav2mmm7geshyytdld0al67ks4",
+    "name": "TUNA",
+    "symbol": "FTUNA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1yqm9apy8kat8fav2mmm7geshyytdld0al67ks4/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1yt49wv3up03hnlsfd7yh6dqfdxwxayrk6as6al",
     "name": "Artemis Finance (Wormhole)",
     "symbol": "ARTEMIS",
@@ -5082,6 +5733,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1yzz7pvx7e98u3xv4uz0tkqrm6uj684j9lvv0z4/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1zc3uujkm2sfwk5x8xlrudaxwsc0t903rj2jcen",
+    "name": "Yogi",
+    "symbol": "Yogi",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zc3uujkm2sfwk5x8xlrudaxwsc0t903rj2jcen/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1zfaug0dfg7zmd888thjx2hwuas0vl2ly4euk3r",
@@ -5152,6 +5811,22 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zuz0rpg224mrpz2lu6npta34yc48sl7e5sndly/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1zx9tv9jg98t0fa7u9882gjrtansggmakmwnenm",
+    "name": "INJ DINO",
+    "symbol": "DINO",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zx9tv9jg98t0fa7u9882gjrtansggmakmwnenm/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1zzfltckwxs7tlsudadul960w7rdfjemlrehmrd",
+    "name": "NTY",
+    "symbol": "NTY",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zzfltckwxs7tlsudadul960w7rdfjemlrehmrd/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "peggy0x080B12E80C9b45e97C23b6ad10a16B3e2a123949",
@@ -5330,7 +6005,7 @@
     "symbol": "WETH",
     "decimals": "18",
     "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethereum.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
   },
   {
     "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
