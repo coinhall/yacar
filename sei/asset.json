@@ -11229,7 +11229,7 @@
     "symbol": "ZORO",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1y9cshxgn702u3juff02vmzrr4kl3un5alygamcc5s3239ee8qwfqz75ey9/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://sei-qapi.polkachu.com/cosmwasm/wasm/v1/contract/sei1y9cshxgn702u3juff02vmzrr4kl3un5alygamcc5s3239ee8qwfqz75ey9/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1y9qn9ynxnccew3pq33kwhl2daczacw20rzm4nmtmveeh38hnpz9sjqzk3e",
@@ -11993,5 +11993,15 @@
     "symbol": "USDT",
     "decimals": "6",
     "type": "native"
+  },
+  {
+    "id": "sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
+    "name": "JayAndJeff",
+    "symbol": "JAJ",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei/sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
+    "total_supply": "1000000000000",
+    "icon": "https://raw.githubusercontent.com/JAJSeiDev/JayAndJeff/main/JayAndJeff.png"
   }
 ]
