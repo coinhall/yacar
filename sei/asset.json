@@ -12057,5 +12057,15 @@
     "symbol": "USDT",
     "decimals": "6",
     "type": "native"
+  },
+  {
+   "id": "sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
+   "name": "JayAndJeff",
+   "symbol": "JAJ",
+   "decimals": "6",
+   "type": "cw20",
+   "circ_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1v9lyg39la4aq60tktgteljjzt28400uumgs3j039gqygd8kcfepqhns7az",
+   "total_supply": "1000000000000",
+   "icon": "https://raw.githubusercontent.com/JAJSeiDev/JayAndJeff/main/JayAndJeff.png"
   }
 ]
