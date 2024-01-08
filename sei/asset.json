@@ -719,7 +719,7 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
     "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stride",
@@ -731,7 +731,7 @@
     "symbol": "stATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg"
   },
   {
@@ -13270,7 +13270,7 @@
     "symbol": "SEI",
     "decimals": "6",
     "type": "native",
-    "circ_supply_api": "https://rest.cosmos.directory/sei/cosmos/bank/v1beta1/supply?pagination.key=dXNlaQ%3D%3D",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=dXNlaQ%3D%3D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/sei.svg",
     "coingecko": "https://www.coingecko.com/en/coins/sei"
   },
