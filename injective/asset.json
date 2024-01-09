@@ -1028,6 +1028,15 @@
     "icon": "https://pbs.twimg.com/profile_images/1468900813359702017/M0jRMed8_400x400.jpg"
   },
   {
+    "id": "factory/inj19xadglv3eaaavaeur5553hjj99c3vtkajhj4r6/Lenz",
+    "name": "Lenz",
+    "symbol": "Lenz",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxOXhhZGdsdjNlYWFhdmFldXI1NTUzaGpqOTljM3Z0a2FqaGo0cjYvTGVueg%3D%3D&pagination.limit=1",
+    "icon": "https://bafybeige2onhyaycokh63bjxh4ireydhyhdzm2aqgeg44rbc5wbna2zmhe.ipfs.dweb.link/LenzLogo.png"
+  },
+  {
     "id": "factory/inj19xkrf82jar2qmf4tn92fajspq2e0warfufplhf/DogWifhat",
     "name": "DogWifhat",
     "symbol": "WIF",
@@ -4867,6 +4876,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1fghekhpfn2rfds6c466p38ttdm2a70gnzymc86/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1fj7z77awl6srtmcuux3xgq995uempgx5hethh3",
+    "name": "ASS",
+    "symbol": "ASS",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1fj7z77awl6srtmcuux3xgq995uempgx5hethh3/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1fmw3t86ncrlz35pm0q66ca5kpudlxzg55tt54f",
