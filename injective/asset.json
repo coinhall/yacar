@@ -447,7 +447,7 @@
     "symbol": "USDC",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
@@ -4326,6 +4326,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18qupdvxmgswj9kfz66vaw4d4wn0453ap6ydxmy/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj18ssfe746a42me2j02casptrs0y2z5yak06cy4w",
+    "name": "LBFS",
+    "symbol": "LBFS",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18ssfe746a42me2j02casptrs0y2z5yak06cy4w/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj18uw5etyyjqudtaap029u9g5qpxf85kqvtkyhq9",
     "name": "Injective Premium (Wormhole)",
     "symbol": "INJPREMIUM",
@@ -4612,6 +4620,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1cqq89rjk4v5a0teyaefqje3skntys7q6j5lu2p/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1cv3dxtjpngy029k5j0mmsye3qrg0uh979ur920",
+    "name": "MiniNinja",
+    "symbol": "MNINJA",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1cv3dxtjpngy029k5j0mmsye3qrg0uh979ur920/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1d08rut8e0u2e0rlf3pynaplas6q0akj5p976kv",
@@ -5317,6 +5333,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1mxjvtp38yj866w7djhm9yjkwqc4ug7klqrnyyj/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1myh9um5cmpghrfnh620cnauxd8sfh4tv2mcznl",
+    "name": "Bunshinu",
+    "symbol": "Binu",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1myh9um5cmpghrfnh620cnauxd8sfh4tv2mcznl/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1n4hl6mxv749jkqsrhu23z24e2p3s55de98jypt",
     "name": "DogeCoin",
     "symbol": "Doge",
@@ -5977,6 +6001,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1xysu0n9sv5wv6aeygdegywz9qkq0v77culynum/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1y208239ua6mchwayw8s8jfnuyqktycqhk6tmhv",
+    "name": "stive",
+    "symbol": "tve",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1y208239ua6mchwayw8s8jfnuyqktycqhk6tmhv/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1yhp235hgpa0nartawhtx0q2hkhr6y8cdth4neu",
     "name": "XmasInjective (Wormhole)",
     "symbol": "XMASINJ",
@@ -6164,7 +6196,7 @@
     "symbol": "WBTC",
     "decimals": "18",
     "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/wbtc.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png"
   },
   {
     "id": "peggy0x3F07A84eCdf494310D397d24c1C78B041D2fa622",
@@ -6280,7 +6312,7 @@
     "symbol": "USDC",
     "decimals": "6",
     "type": "peggy",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "peggy0xAaEf88cEa01475125522e117BFe45cF32044E238",

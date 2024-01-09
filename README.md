@@ -16,7 +16,9 @@
   - [How do I add a new asset?](#how-do-i-add-a-new-asset)
   - [How do I update my asset's circulating/total supply, icon, and other links?](#how-do-i-update-my-assets-circulatingtotal-supply-icon-and-other-links)
   - [How do I update my asset's market cap or FDV?](#how-do-i-update-my-assets-market-cap-or-fdv)
-  - [My GitHub Actions CI is failing, what do I need to do?](#my-github-actions-ci-is-failing-what-do-i-need-to-do)
+  - [Why is my GitHub Actions CI failing?](#why-is-my-github-actions-ci-failing)
+  - [How can I expedite merging of PRs?](#how-can-i-expedite-merging-of-prs)
+  - [How can I verify my asset?](#how-can-i-verify-my-asset)
 - [Contributing Guide](#contributing-guide)
 
 ## Files
@@ -85,10 +87,6 @@ type Asset = {
   decimals: string;
   // The type of this asset: "native" | "ibc" | "cw20" | "cw721" | "tokenfactory"
   type: string;
-
-  // The following fields are all optional
-  // The transaction hash that contains "Coinhall verification" memo
-  verification_tx?: string | undefined;
 
   // Static supply values; do not populate both static and dynamic values (see example below)
   // NOTE: these are decimal numbers (ie. NOT the on-chain integers)
@@ -177,13 +175,13 @@ If you are a new dex that we do not yet support, [please reach out to us](https:
 
 ### How do I add a new asset?
 
-You do *not* need to add assets manually. Our bot will periodically detect and add new assets to the `asset.json` file, provided that the asset belong to at least one pool.
+You do *not* need to add assets manually. Our bot will periodically detect and add new assets to the `asset.json` file, provided that the asset belong to at least one pool, and that the correct metadata of the asset exists. Follow these [troubleshooting steps](https://coinhall.gitbook.io/coinhall-wiki/developer-docs/token-listing-update-info-verification#troubleshooting-steps) to ensure that your asset has the correct on-chain metadata.
 
 ### How do I update my asset's circulating/total supply, icon, and other links?
 
 **For circulating and total supply**: we accept either a static number, or an API endpoint (if the supply is dynamic). The values should be added to the [`asset.json` file](#assetjson).
 
-**For token icon**: we only accept a valid hosted link to an image (SVG is preferred over PNG/JPEG/others). Please ensure that the link given shows an image only and nothing else (ie. it should NOT lead to an HTML webpage). The link should be added to the [`asset.json` file](#assetjson).
+**For asset icon**: we only accept a valid hosted link to an image (SVG is preferred over PNG/JPEG/others). Please ensure that the link given shows an image only and nothing else (ie. it should NOT lead to an HTML webpage). The link should be added to the [`asset.json` file](#assetjson).
 
 **For CoinMarketCap and Coingecko links**: these links should be added to the [`asset.json` file](#assetjson).
 
@@ -195,15 +193,24 @@ Then, follow the [contributing guide](#contributing) to open a pull request.
 
 Market cap is derived using circulating supply and FDV is derived using total supply. If an asset's market cap or FDV is wrong/missing, it usually means that the circulating or total supply values are wrong/missing. Updating the circulating or total supply values should fix the issue.
 
-### My GitHub Actions CI is failing, what do I need to do?
+### Why is my GitHub Actions CI failing?
 
 Please ensure that you run the formatting scripts, `format.sh` (for MacOS/Linux users) or `format.bat` (for Windows users), before committing and pushing any changes. The GitHub Actions CI will run the same checks as the script. If running the script fails on your local repository, then the CI for your remote repository will fail as well.
 
+### How can I expedite merging of PRs?
+
+We do a routine check every two business days to manually merge open PRs. If you have an urgent need to list your pool or update your asset info, please refer to the [Coinhall docs](https://coinhall.gitbook.io/coinhall-wiki/developer-docs/token-listing-update-info-verification).
+
+### How can I verify my asset?
+
+Please refer to the [Coinhall docs](https://coinhall.gitbook.io/coinhall-wiki/developer-docs/token-listing-update-info-verification#token-verification).
+
 ## Contributing Guide
 
-1. [Fork this repo](https://github.com/coinhall/yacar/fork)
-2. Read the [FAQs](#faqs) and make the necessary changes on your fork
-3. Before committing any changes, run the `format.sh` (for MacOS/Linux users) or `format.bat` (for Windows users) script which automatically validates and formats your local files
-4. If the validation passes, commit your changes and [create a pull request](https://github.com/coinhall/yacar/compare)
-5. Enable GitHub Actions to run on your fork and ensure that your PR passes all CI checks
-6. If necessary, [contact us](https://t.me/coinhall_org) to seek for a review (note that we may take up to 2 working days to merge newly opened PRs)
+1. Read the [FAQs](#faqs) and the [Coinhall docs](https://coinhall.gitbook.io/coinhall-wiki/developer-docs/token-listing-update-info-verification)
+2. [Fork this repo](https://github.com/coinhall/yacar/fork) and clone the forked repo locally
+3. Make the necessary changes on your local repo
+4. Run the `format.sh` (for MacOS/Linux users) or `format.bat` (for Windows users) script which automatically validates and formats your local files
+5. If the validation and formatting passes, commit your changes and [create a pull request](https://github.com/coinhall/yacar/compare)
+6. Enable GitHub Actions to run on your fork and ensure that your PR passes all CI checks
+7. Wait for your PRs to be merged (up to two business days)
