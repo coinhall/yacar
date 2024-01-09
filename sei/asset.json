@@ -302,6 +302,14 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZXhuenRzMmhtNWMyczdkZDdmMnJxeWR3N3Q1cThldjdoeTluOHcvY2Fwbw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1ezsv93jrguxphuma67jne8ztngm827yqndph77/bjs-1",
+    "name": "BeJayEs",
+    "symbol": "BJS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZXpzdjkzanJndXhwaHVtYTY3am5lOHp0bmdtODI3eXFuZHBoNzcvYmpzLTE%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1fa4l685xh5jk7uvs0qtdea0506yvyq86t3yfrhfxptffwrhusy9s2ajvvp/grape",
     "name": "GRAPE",
     "symbol": "GRAPE",
@@ -5233,6 +5241,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1auv3qg7xa39dvc7x4fexs0m0vcg2qx0tlejnes8789qqfm64xstqwqq5gj/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1awkuayzkv3kmn3zegmvw06lf0amkzfxar6annsr0h37xnsa7s3cqnn28h6",
+    "name": "Peapods",
+    "symbol": "PEAS",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1awkuayzkv3kmn3zegmvw06lf0amkzfxar6annsr0h37xnsa7s3cqnn28h6/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1awne4acpj7kk670ev6zg4a4d4vfe6my9zh33knj5y572hyk28t4quccpyy",
@@ -12363,6 +12379,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1velpz8krjwfxfarzrgl3nejj26nwwquvwlk289ls92kcfyc53mysnvnd2g/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1vf0pnrp3s3f3cyhsqr5ykgw08dz4qmwwm0deyc7j3djhc0y9yf8styp38v",
+    "name": "TROLL",
+    "symbol": "TROLL",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1vf0pnrp3s3f3cyhsqr5ykgw08dz4qmwwm0deyc7j3djhc0y9yf8styp38v/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1vg88nlqaqtrzm9yt2kstcvdr5fhfk0225dtq9pul07ly9zcvcuqsfe7ekt",
