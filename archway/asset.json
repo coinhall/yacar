@@ -149,14 +149,16 @@
     "decimals": "8",
     "type": "ibc",
     "circ_supply_api": "https://api.axelarscan.io",
-    "total_supply_api": "https://api.axelarscan.io"
+    "total_supply_api": "https://api.axelarscan.io",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png"
   },
   {
     "id": "ibc/43897B9739BD63E3A08A88191999C632E052724AB96BD4C74AE31375C991F48D",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "ibc/6F681B32B47E765AE278844A8A97C8B7AD5A3FB591E37CFDFA0E208EFEBEF97D",
@@ -208,7 +210,7 @@
     "symbol": "USDC.axl",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://astrovault.io/static/media/logo-usdc.axl.a191012589309094d837.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",
