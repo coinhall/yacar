@@ -57,7 +57,7 @@
     "symbol": "stLUNA",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1bHVuYQ==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1bHVuYQ==&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/stLUNA.svg"
   },
   {
@@ -81,7 +81,7 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
     "total_supply": "100000000",
     "icon": "https://assets.terra.money/icon/svg/ibc/STRD.svg"
   },
@@ -166,8 +166,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -809,7 +809,8 @@
     "type": "cw20",
     "circ_supply_api": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/Circulation-supply%20SEUL",
     "total_supply": "21000000",
-    "icon": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/seul.png"
+    "icon": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/seul.png",
+    "verification_tx": "686E3A3320E5EC2DB16A06D224A74573ECA3EDC54B94036CA090F87B65FBBE47"
   },
   {
     "id": "terra13w89pfxhk5k62xp8ctckkhrjwwvq34czmltwkvsck0kvenyspk7q7cpcss",
@@ -1221,6 +1222,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra18a2m7ghvfzuksqyswja685rl4cataemazyplk8qcjzm2vvs8u78q46dvh8",
+    "name": "Onyx",
+    "symbol": "ONYX",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra18a2m7ghvfzuksqyswja685rl4cataemazyplk8qcjzm2vvs8u78q46dvh8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra18cl4602q8gfaxgm5gvh254s5qf9xhrhmlntsdpmduqgxa2qg9dgqkraadh",
     "entity": "Astroport",
     "name": "BTC-USD-LP",
@@ -1488,7 +1497,8 @@
     "type": "cw20",
     "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s/smart/eyJ0b2tlbl9pbmZvIjoge319",
-    "icon": "https://raw.githubusercontent.com/ITO1201/ITO/main/data/I.png"
+    "icon": "https://raw.githubusercontent.com/ITO1201/ITO/main/data/I.png",
+    "verification_tx": "256AC567330BFA1FC51B37B6FAEB0D18271B0977AE423096004E4087BC92E7DB"
   },
   {
     "id": "terra1ces6k6jp7qzkjpwsl6xg4f7zfwre0u23cglg69hhj3g20fhygtpsu24dsy",
@@ -2476,8 +2486,8 @@
     "symbol": "ASTRO",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://markets-api.astroport.fi/protocol/circulating-supply",
-    "total_supply": "1099999997.921598",
+    "circ_supply_api": "https://api.astroport.fi/api/stats",
+    "total_supply_api": "https://api.astroport.fi/api/stats",
     "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
   {
@@ -2597,7 +2607,8 @@
     "type": "cw20",
     "circ_supply_api": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/Circulation-supply%20SEUL",
     "total_supply": "21000000",
-    "icon": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/xseul.png"
+    "icon": "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/xseul.png",
+    "verification_tx": "FE4262F97CDC83B906EEDDB5624A870AB83AA89B851E0B2AFE8636BF9F3B6C2A"
   },
   {
     "id": "terra1q3647qp780u7y2zvau5fn748zqxsfm4kr6lcvr5jjev5a77kchxsjy2m4x",
@@ -2920,6 +2931,14 @@
     "icon": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png"
   },
   {
+    "id": "terra1sq4uwmg6u0ktj73y3y6dslwdtq5rs9ejvp2h9jxkncg7hemhaz8skk02g2",
+    "name": "Doge Armani",
+    "symbol": "DOGEARMANI",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1sq4uwmg6u0ktj73y3y6dslwdtq5rs9ejvp2h9jxkncg7hemhaz8skk02g2/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1sqxtvf93tpu08evzt6va072cefy45xuvjghutgmcv93pk2aaazgs220eev",
     "name": "Nauticus Yield: LUNA/LUNAX LP Astro",
     "symbol": "yLUNA-LUNAX",
@@ -3192,6 +3211,16 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu",
+    "name": "ADO",
+    "symbol": "ADO",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply_api": "https://raw.githubusercontent.com/ADO12ADO/ADO/main/Data/Circulation-supply%20ADO",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://raw.githubusercontent.com/ADO12ADO/ADO/main/asset/ADO.png"
   },
   {
     "id": "terra1wjzwg8megt6zsfsr2tduwklh8sx3mpptquqcm7h0krxuzwc5n86sn2xh9a",
