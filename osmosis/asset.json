@@ -16,6 +16,14 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo13ahfm35s0qwg45l09hgx3w7q2c9jc45d4mcptprsjuj6k6pnad9s7tavek%2Fvst"
   },
   {
+    "id": "factory/osmo14azptklw333lpe2wmjhusx2l7mk744wv3g9ael/ubail",
+    "name": "factory/osmo14azptklw333lpe2wmjhusx2l7mk744wv3g9ael/ubail",
+    "symbol": "factory/osmo14azptklw333lpe2wmjhusx2l7mk744wv3g9ael/ubail",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://osmosis-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTRhenB0a2x3MzMzbHBlMndtamh1c3gybDdtazc0NHd2M2c5YWVsL3ViYWls&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo14klwqgkmackvx2tqa0trtg69dmy0nrg4ntq4gjgw2za4734r5seqjqm4gm/uibcx",
     "name": "IBCX",
     "symbol": "IBCX",
