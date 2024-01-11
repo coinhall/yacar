@@ -195,6 +195,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1yd27m4hzl9vykkma9vlklh7zl4nem3ms2d2umf/BEST",
+    "name": "factory/osmo1yd27m4hzl9vykkma9vlklh7zl4nem3ms2d2umf/BEST",
+    "symbol": "factory/osmo1yd27m4hzl9vykkma9vlklh7zl4nem3ms2d2umf/BEST",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://osmosis-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXlkMjdtNGh6bDl2eWtrbWE5dmxrbGg3emw0bmVtM21zMmQydW1mL0JFU1Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1yxg9nt6uvysyq3cs9gmp58f48unffpfscqjyr6nv2u7mh6657nwssfyp33/sail",
     "name": "Sail DAO token",
     "symbol": "SAIL",
