@@ -25,6 +25,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo176svsuj5nz07q2hwv9galz2av9csmzf4rznvhu/HIP",
+    "name": "factory/osmo176svsuj5nz07q2hwv9galz2av9csmzf4rznvhu/HIP",
+    "symbol": "factory/osmo176svsuj5nz07q2hwv9galz2av9csmzf4rznvhu/HIP",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://osmosis-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTc2c3ZzdWo1bnowN3EyaHd2OWdhbHoyYXY5Y3NtemY0cnpudmh1L0hJUA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo19esh5d4xj7cyw9c307wlvdcwhqvl0pyexc8xxmccycv9vhgrzptqczzqlp/otf",
     "name": "Osmosis Token Factory",
     "symbol": "OTF",
