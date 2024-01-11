@@ -90,6 +90,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqtia",
+    "name": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqtia",
+    "symbol": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqtia",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://osmosis-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWc4cXlwdmU2bDk1eG1oZ2MwZmRkYWVjZXJmZnltc2w3a245bXV3L3NxdGlh&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/squosmo",
     "name": "Squared OSMO",
     "symbol": "sqOSMO",
