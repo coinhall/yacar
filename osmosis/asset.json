@@ -55,6 +55,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1f4u9sey9lu0nmacw02t7qhfn6kutv7x7dewyls43eafll7l5lvnqumpt9q/osmousdt1077clvaulta",
+    "name": "factory/osmo1f4u9sey9lu0nmacw02t7qhfn6kutv7x7dewyls43eafll7l5lvnqumpt9q/osmousdt1077clvaulta",
+    "symbol": "factory/osmo1f4u9sey9lu0nmacw02t7qhfn6kutv7x7dewyls43eafll7l5lvnqumpt9q/osmousdt1077clvaulta",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://osmosis-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWY0dTlzZXk5bHUwbm1hY3cwMnQ3cWhmbjZrdXR2N3g3ZGV3eWxzNDNlYWZsbDdsNWx2bnF1bXB0OXEvb3Ntb3VzZHQxMDc3Y2x2YXVsdGE%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
     "name": "milkTIA",
     "symbol": "milkTIA",
