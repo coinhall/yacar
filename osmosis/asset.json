@@ -179,6 +179,14 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1vvmvqzt3qr4hn952qvqn00f92walwuak0fx9rcynd0043jjdt6lsrft4fd%2Fact"
   },
   {
+    "id": "factory/osmo1w754akfaeppu57j2rka76e49grctfpnyh6pd8h/SUNNY",
+    "name": "factory/osmo1w754akfaeppu57j2rka76e49grctfpnyh6pd8h/SUNNY",
+    "symbol": "factory/osmo1w754akfaeppu57j2rka76e49grctfpnyh6pd8h/SUNNY",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://osmosis-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXc3NTRha2ZhZXBwdTU3ajJya2E3NmU0OWdyY3RmcG55aDZwZDhoL1NVTk5Z&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1wh8arjgtpdgyf9rlw3k960kkx0943hy92n20sg4pjyk8grc6dhzsunuchs/ctc",
     "name": "cTaurus",
     "symbol": "cTc",
