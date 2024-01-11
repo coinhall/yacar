@@ -121,6 +121,16 @@
     "lp_token_id": "gamm/pool/560"
   },
   {
+    "id": "osmo10dfhtg23am39tdnhnfrnxmcaqqekp6ml6m7yd8fxf3y5m5m58uls8lm3j9",
+    "asset_ids": [
+      "ibc/23AB778D694C1ECFC59B91D8C399C115CC53B0BD1C61020D8E19519F002BDD85",
+      "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/1375"
+  },
+  {
     "id": "osmo10djas3dkuyvfzaxvgwjqp3aaf63wjrv23hx3pmk8pjaxc3f33k9ssrz8kf",
     "asset_ids": [
       "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -742,6 +752,16 @@
     "dex": "Osmosis",
     "type": "balancerV1",
     "lp_token_id": "gamm/pool/1327"
+  },
+  {
+    "id": "osmo136550u76fhkfnfwgjsux37m2du8p4agza9q80yk8n3x3zrrpa2ms0837l6",
+    "asset_ids": [
+      "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+      "uosmo"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/1374"
   },
   {
     "id": "osmo137n2magslhhhp77rt0qv2l4s4fksjncj2t8vd43sn9uwzeypqw9ql0enq2",
@@ -1749,6 +1769,16 @@
     "dex": "Osmosis",
     "type": "balancerV1",
     "lp_token_id": "gamm/pool/410"
+  },
+  {
+    "id": "osmo15srhhcw0uznlnj3d8aek3q46dunmqcee8qt2dep03l4ngaq7kksskrn76e",
+    "asset_ids": [
+      "ibc/176DD560277BB0BD676260BE02EBAB697725CA85144D8A2BF286C6B5323DB5FE",
+      "uosmo"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/1377"
   },
   {
     "id": "osmo15t7afyxut7eugx0yn4quesujf5snv358g3ureyx46afpwhjrlaas5nl3zp",
@@ -10455,6 +10485,16 @@
     "lp_token_id": "gamm/pool/87"
   },
   {
+    "id": "osmo1xendvmv42qj9gnsp359yujq8nx7qts2wayjfzemc9mgxa88qjunq7qx7va",
+    "asset_ids": [
+      "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+      "ibc/71F11BC0AF8E526B80E44172EBA9D3F0A8E03950BB882325435691EBC9450B1D"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/1371"
+  },
+  {
     "id": "osmo1xesvzjkee3x4dnmdqc4t7nkvt6w0rqkqmgh2q4qhdjpqyy29df3qgp5e6c",
     "asset_ids": [
       "ibc/6727B2F071643B3841BD535ECDD4ED9CAE52ABDD0DCD07C3630811A7A37B215C",
@@ -11647,6 +11687,16 @@
     "lp_token_id": "gamm/pool/1096"
   },
   {
+    "id": "osmo14fltplmxyrlsj20d34kxfc55ungs0smtyw3u7d7z9w3mlevkhz2qday49j",
+    "asset_ids": [
+      "ibc/1E43D59E565D41FB4E54CA639B838FFD5BCFC20003D330A56CB1396231AA1CBA",
+      "uosmo"
+    ],
+    "dex": "Osmosis",
+    "type": "concentrated",
+    "lp_token_id": "gamm/pool/1370"
+  },
+  {
     "id": "osmo14m6aqe9ggq3zj060ldra253hf0sk40p8pftqyjnu3ads46nn23gsxpaszy",
     "asset_ids": [
       "ibc/51d893f870b7675e507e91da8db0b22ea66333207e4f5c0708757f08ee059b0b",
@@ -11897,6 +11947,16 @@
     "lp_token_id": "gamm/pool/1128"
   },
   {
+    "id": "osmo194jg8j8ywngtjzuv4z2u2yy25r57vmxqcq5d7mjx6u6smmaxk6fqh3m5zj",
+    "asset_ids": [
+      "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E",
+      "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+    ],
+    "dex": "Osmosis",
+    "type": "concentrated",
+    "lp_token_id": "gamm/pool/1372"
+  },
+  {
     "id": "osmo197h70g2928254ur22ft3q8ezal4xw329kjs587fxreqnvuqpec2qwqeefz",
     "asset_ids": [
       "uosmo",
@@ -11997,6 +12057,16 @@
     "lp_token_id": "gamm/pool/1319"
   },
   {
+    "id": "osmo1cgj0vkjhsc46ltk0j6czxawlmazegnu56rcptmq5rma8y950e22s4rxdja",
+    "asset_ids": [
+      "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
+      "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+    ],
+    "dex": "Osmosis",
+    "type": "concentrated",
+    "lp_token_id": "gamm/pool/1376"
+  },
+  {
     "id": "osmo1cgqtqyycemysvf4fzgxdqrdu5ev97hz9rg0lk0w4jfhd3l4sr2xqfme5fw",
     "asset_ids": [
       "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
@@ -12065,6 +12135,16 @@
     "dex": "Osmosis",
     "type": "concentrated",
     "lp_token_id": "gamm/pool/1157"
+  },
+  {
+    "id": "osmo1ddr56787g0ztlwt037sxmjue096v6drmjxd34ka5yq0g62e0fevqmwk8qt",
+    "asset_ids": [
+      "ibc/2DA9C149E9AD2BD27FEFA635458FB37093C256C1A940392634A16BEA45262604E",
+      "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+    ],
+    "dex": "Osmosis",
+    "type": "concentrated",
+    "lp_token_id": "gamm/pool/1379"
   },
   {
     "id": "osmo1dl99cqsjtxgyerqrhr2zhy79kmcmlt7l9geqq0yhq2artlkzkh5sh4u2u4",
@@ -12537,6 +12617,16 @@
     "lp_token_id": "gamm/pool/1104"
   },
   {
+    "id": "osmo1lrle6xmke4dzcnevw003j5hxz2h34w3w9r8awt5ep8fy6vaw8lmqnjh0r8",
+    "asset_ids": [
+      "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqtia",
+      "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877"
+    ],
+    "dex": "Osmosis",
+    "type": "concentrated",
+    "lp_token_id": "gamm/pool/1378"
+  },
+  {
     "id": "osmo1ls4f2t7avxpclc7p2a2qlefgv4m5cp5hatkvzv76h6kf2r0caqssw7gqp0",
     "asset_ids": [
       "ibc/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84",
@@ -12865,6 +12955,16 @@
     "dex": "Osmosis",
     "type": "concentrated",
     "lp_token_id": "gamm/pool/1271"
+  },
+  {
+    "id": "osmo1shmyytp70mf9d2lppsaacugd063vfhp7jw58kc30sa4ymndw0mfsjtzqq3",
+    "asset_ids": [
+      "ibc/2DA9C149E9AD2BD27FEFA635458FB37093C256C1A940392634A16BEA45262604",
+      "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+    ],
+    "dex": "Osmosis",
+    "type": "concentrated",
+    "lp_token_id": "gamm/pool/1373"
   },
   {
     "id": "osmo1sscn7un74jzum4d8elne6y8zkcerdd6z8dtnev7p0dqznxrgcxvqfl79mq",
