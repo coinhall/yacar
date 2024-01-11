@@ -99,6 +99,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1j07xfyc3p08flkyfsk29wew9fq23lnrgskgwetmzyu5mxmjqqhtqdpgr4v/qsrosmo1314clvaultupside",
+    "name": "factory/osmo1j07xfyc3p08flkyfsk29wew9fq23lnrgskgwetmzyu5mxmjqqhtqdpgr4v/qsrosmo1314clvaultupside",
+    "symbol": "factory/osmo1j07xfyc3p08flkyfsk29wew9fq23lnrgskgwetmzyu5mxmjqqhtqdpgr4v/qsrosmo1314clvaultupside",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://osmosis-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWowN3hmeWMzcDA4ZmxreWZzazI5d2V3OWZxMjNsbnJnc2tnd2V0bXp5dTVteG1qcXFodHFkcGdyNHYvcXNyb3NtbzEzMTRjbHZhdWx0dXBzaWRl&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1jjygfcyx83kp0kssma9svcswsew2szypwgj97j6er2szqx4hlm8sh5cpna/tsst",
     "name": "TestDaoToken",
     "symbol": "TSST",
