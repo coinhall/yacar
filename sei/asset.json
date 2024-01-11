@@ -95,6 +95,14 @@
     "icon": "https://sei.astroport.fi/tokens/generated/sensei.png"
   },
   {
+    "id": "factory/sei178l9zkavugyl9mhnludveqwcmxhc26aundvx7h/seidmen",
+    "name": "factory/sei178l9zkavugyl9mhnludveqwcmxhc26aundvx7h/seidmen",
+    "symbol": "factory/sei178l9zkavugyl9mhnludveqwcmxhc26aundvx7h/seidmen",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNzhsOXprYXZ1Z3lsOW1obmx1ZHZlcXdjbXhoYzI2YXVuZHZ4N2gvc2VpZG1lbg%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
     "name": "BSC Wrapped USDC",
     "symbol": "USDC.bsc",
