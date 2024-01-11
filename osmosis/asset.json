@@ -25,6 +25,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo154la8nruwphfypyfc20zdjsgglansdmkz7jjfehmdehfr4y9m4wq6qkfqa/qsrosmo1314clvaultmoderatewide",
+    "name": "factory/osmo154la8nruwphfypyfc20zdjsgglansdmkz7jjfehmdehfr4y9m4wq6qkfqa/qsrosmo1314clvaultmoderatewide",
+    "symbol": "factory/osmo154la8nruwphfypyfc20zdjsgglansdmkz7jjfehmdehfr4y9m4wq6qkfqa/qsrosmo1314clvaultmoderatewide",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://osmosis-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTU0bGE4bnJ1d3BoZnlweWZjMjB6ZGpzZ2dsYW5zZG1rejdqamZlaG1kZWhmcjR5OW00d3E2cWtmcWEvcXNyb3NtbzEzMTRjbHZhdWx0bW9kZXJhdGV3aWRl&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo19esh5d4xj7cyw9c307wlvdcwhqvl0pyexc8xxmccycv9vhgrzptqczzqlp/otf",
     "name": "Osmosis Token Factory",
     "symbol": "OTF",
