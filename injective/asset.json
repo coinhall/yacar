@@ -231,6 +231,15 @@
     "icon": "https://pbs.twimg.com/profile_images/1737090223811489792/kq_J36b7_400x400.jpg"
   },
   {
+    "id": "factory/inj12yazr8lq5ptlz2qj9y36v8zwmz90gy9gh35026/ddd",
+    "name": "DDDTest",
+    "symbol": "DDD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMnlhenI4bHE1cHRsejJxajl5MzZ2OHp3bXo5MGd5OWdoMzUwMjYvZGRk&pagination.limit=1",
+    "icon": "https://arweave.net/Shp5e1mIqw5S6ZviaXOc_-8dExhClEx39B5MVsG1DFo"
+  },
+  {
     "id": "factory/inj12ygx3scssu2d9rymtppaf6nks8qg08z9w3tml9/BCAT",
     "name": "BLACK CAT TOKEN",
     "symbol": "BCAT",
@@ -3981,6 +3990,22 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj134pxgsexyt782qp3kvxf8nf9xl0q7dfdxk5tws/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj134wfjutywny9qnyux2xgdmm0hfj7mwpl39r3r9",
+    "name": "Dojo Staked INJ",
+    "symbol": "dINJ",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj134wfjutywny9qnyux2xgdmm0hfj7mwpl39r3r9/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj134wfjutywny9qnyux2xgdmm0hfj7mwpl39r3r9",
+    "name": "Dojo Staked INJ",
+    "symbol": "dINJ",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj134wfjutywny9qnyux2xgdmm0hfj7mwpl39r3r9/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1367pnje9e8myaw04av6j2n5z7827407k4sa4m8",
