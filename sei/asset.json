@@ -333,11 +333,13 @@
   },
   {
     "id": "factory/sei1fh0h6uu6paz3ztfe325pjlx57er2jzhmm7pu3m/ROBOSEI",
+    "entity": "ROBOSEI",
     "name": "ROBOSEI",
     "symbol": "ROBOSEI",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZmgwaDZ1dTZwYXozenRmZTMyNXBqbHg1N2VyMmp6aG1tN3B1M20vUk9CT1NFSQ%3D%3D&pagination.limit=1"
+    "total_supply": "5000000000000",
+    "icon": "https://arweave.net/i9H8hS4Maom2hyaBJsXJq3NG9MpgoryoMBrv8dxXwBo"
   },
   {
     "id": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
@@ -11875,7 +11877,8 @@
     "symbol": "SEINOBI",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1s78j47dphahrkcpesga3av6su6lje3n9pn3hhqn9el4p8yz7l0kstxxw84/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1s78j47dphahrkcpesga3av6su6lje3n9pn3hhqn9el4p8yz7l0kstxxw84/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.pinimg.com/474x/0e/36/90/0e369018d3096aa4ceaa12bff6a10ea4.jpg"
   },
   {
     "id": "sei1s93u39447yc9qnt68xa7nw72ayqchzklskytgfn3cf023ufwpcnsvaz248",
@@ -13878,7 +13881,8 @@
     "symbol": "SEINOBI",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1wc4rcmcnfgp083fyru33qpuknh7tm0ty822me90qa5ce2cmdj6kspusks8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1wc4rcmcnfgp083fyru33qpuknh7tm0ty822me90qa5ce2cmdj6kspusks8/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.pinimg.com/474x/0e/36/90/0e369018d3096aa4ceaa12bff6a10ea4.jpg"
   },
   {
     "id": "sei1wcev65u3eeygu3atfnjmm40jd2039r9ul2ru77ksaqlzm3al79yqfl607j",
