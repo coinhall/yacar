@@ -50,6 +50,14 @@
     "icon": "https://i.ibb.co/HC2VCNX/ampARCH.png"
   },
   {
+    "id": "archway1l3m84nf7xagkdrcced2y0g367xphnea5uqc3mww3f83eh6h38nqqxnsxz7",
+    "name": "bnUSD",
+    "symbol": "bnUSD",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://api.mainnet.archway.io/cosmwasm/wasm/v1/contract/archway1l3m84nf7xagkdrcced2y0g367xphnea5uqc3mww3f83eh6h38nqqxnsxz7/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "archway1m273xq2fjmn993jm4kft5c49w2c70yfv5zypt3d92cqp4n5faefqqkuf0l",
     "name": "xATOM",
     "symbol": "xATOM",
@@ -63,6 +71,14 @@
     "symbol": "xBCNA",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "archway1ndrruk2atj4yrcqsnypthvnexjv6erpwtczqlfp8d97zsv8k6wgqjmw4gt",
+    "name": "xQWOYN",
+    "symbol": "xQWOYN",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://api.mainnet.archway.io/cosmwasm/wasm/v1/contract/archway1ndrruk2atj4yrcqsnypthvnexjv6erpwtczqlfp8d97zsv8k6wgqjmw4gt/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "archway1t2llqsvwwunf98v692nqd5juudcmmlu3zk55utx7xtfvznel030saclvq6",
@@ -115,6 +131,13 @@
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
+    "id": "ibc/1112DFAC11501682456D28D0728C1E35E134729F4D8EAA897377ACDFB29F46CC",
+    "name": "QWOYN",
+    "symbol": "QWOYN",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/13C5990F84FA5D472E1F8BB1BAAEA8774DA5F24128EC02B119107AD21FB52A61",
     "name": "ETH.axl",
     "symbol": "ETH.axl",
@@ -129,8 +152,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -143,18 +166,34 @@
     "type": "ibc"
   },
   {
+    "id": "ibc/381C09E1B743A8D893DF43B0861FE77AB2C437ED4BE10CB827A0A38285C11977",
+    "name": "SHD",
+    "symbol": "SHD",
+    "decimals": "8",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/3A2DEEBCD51D0B74FE7CE058D40B0BF4C0E556CE9219E8F25F92CF288FF35F56",
     "name": "WBTC.axl",
     "symbol": "WBTC.axl",
     "decimals": "8",
     "type": "ibc",
     "circ_supply_api": "https://api.axelarscan.io",
-    "total_supply_api": "https://api.axelarscan.io"
+    "total_supply_api": "https://api.axelarscan.io",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png"
   },
   {
     "id": "ibc/43897B9739BD63E3A08A88191999C632E052724AB96BD4C74AE31375C991F48D",
     "name": "USDC",
     "symbol": "USDC",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+  },
+  {
+    "id": "ibc/55D94A32095A766971637425D998AAABF8357A1ABCB1CAC8614887BE51BF1FB1",
+    "name": "ANDR",
+    "symbol": "ANDR",
     "decimals": "6",
     "type": "ibc"
   },
@@ -208,7 +247,7 @@
     "symbol": "USDC.axl",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://astrovault.io/static/media/logo-usdc.axl.a191012589309094d837.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
     "id": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",

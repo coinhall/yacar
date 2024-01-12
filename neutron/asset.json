@@ -1,5 +1,16 @@
 [
   {
+    "id": "factory/neutron108x7vp9zv22d6wxrs9as8dshd3pd5vsga463yd/JIMMY",
+    "entity": "JIMMY",
+    "name": "Jimmy Neutron Finance",
+    "symbol": "JIMMY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "4461210000",
+    "total_supply": "4461210000",
+    "icon": "https://jimmy-price.vercel.app/jimmy44.png"
+  },
+  {
     "id": "factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip",
     "entity": "Eclipse Fi",
     "name": "Eclipse Fi",
@@ -7,8 +18,27 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTBzcjA2cjNxa2huN3h6cHczMzM5d3VqNzdodTA2bXpuYTZ1aHQwL2VjbGlw&pagination.limit=1",
+    "icon": "https://i.ibb.co/YDfj90h/ss-1.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/eclipse-fi/",
     "coingecko": "https://www.coingecko.com/en/coins/eclipse-fi"
+  },
+  {
+    "id": "factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad",
+    "name": "Badcoin",
+    "symbol": "BAD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "4802499999",
+    "total_supply": "4802499999",
+    "icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/neutron/factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad.png"
+  },
+  {
+    "id": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
+    "name": "AtomEconomicZone69JaeKwonInu",
+    "symbol": "CIRCUS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fneutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q%2Fucircus"
   },
   {
     "id": "factory/neutron1lg8nydf8nagrrp2f72y5mk9newv2gs6a3mm3cn/GAY",
@@ -39,6 +69,7 @@
   },
   {
     "id": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
+    "entity": "GODDARD",
     "name": "GODDARD",
     "symbol": "GDD",
     "decimals": "6",
@@ -46,6 +77,7 @@
     "circ_supply": "21000000",
     "total_supply": "21000000",
     "icon": "https://i.ibb.co/f87gpw7/goddard.png"
+    "icon": "https://raw.githubusercontent.com/goddardneutron/GODDARD/main/GODDARD-Logo.jpeg"
   },
   {
     "id": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
@@ -102,7 +134,8 @@
     "symbol": "ASTRO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://markets-api.astroport.fi/protocol/circulating-supply",
+    "circ_supply_api": "https://api.astroport.fi/api/stats",
+    "total_supply_api": "https://api.astroport.fi/api/stats",
     "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
   {
@@ -160,7 +193,7 @@
     "symbol": "stATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
   },
@@ -183,8 +216,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -198,11 +231,251 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axlusdc.svg"
   },
   {
+    "id": "neutron122xmvrx27htz6h3pqdy82aacr62kt7j63tdfq38ps5qmy0j6w32qnxm4w6",
+    "name": "JUNONAUTS",
+    "symbol": "JUNONAUTS",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron122xmvrx27htz6h3pqdy82aacr62kt7j63tdfq38ps5qmy0j6w32qnxm4w6/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron12dv6a7ge5qd35mt842rjyqqgn0zu9tx8z0e9qa2678jlf0lvmwcquhjgfp",
+    "name": "Baryon",
+    "symbol": "BARYON",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron12dv6a7ge5qd35mt842rjyqqgn0zu9tx8z0e9qa2678jlf0lvmwcquhjgfp/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron12h09p8hq5y4xpsmcuxxzsn9juef4f6jvekp8yefc6xnlwm6uumnsdk29wf",
+    "name": "What the Fuck",
+    "symbol": "WTF",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron12h09p8hq5y4xpsmcuxxzsn9juef4f6jvekp8yefc6xnlwm6uumnsdk29wf/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/WTF.png"
+  },
+  {
+    "id": "neutron12m44vzyhx93uzth0ee875z9rajxdym24fvxzlhfdp0e0kch9ay3q9uphra",
+    "name": "Snowy NTRN",
+    "symbol": "SNOWY",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron12m44vzyhx93uzth0ee875z9rajxdym24fvxzlhfdp0e0kch9ay3q9uphra/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "neutron149tpx0nequ0cpctw06nk29hwfps0343wvwfh6tkhju3ra7hxvpeq8pvstf",
     "name": "CW20-wrapped factory/neutron1ug740qrkquxzrk2hh29qr",
     "symbol": "FACTORY/",
     "decimals": "18",
     "type": "cw20"
+  },
+  {
+    "id": "neutron14qhm3n6qyeth3ct0xa5tqtltcgr59ztq7m90mry2kg5meem4ehxstlmhx6",
+    "name": "Electron Protocol",
+    "symbol": "ELECTRON",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron14qhm3n6qyeth3ct0xa5tqtltcgr59ztq7m90mry2kg5meem4ehxstlmhx6/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1a6c3fn9q68ef888sg8y6ja4veffgvxmr209dagxzz7r4ecqlfhxsayl9ku",
+    "name": "Neutrino Swap",
+    "symbol": "NEUTRINO",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1a6c3fn9q68ef888sg8y6ja4veffgvxmr209dagxzz7r4ecqlfhxsayl9ku/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1aw7r4gr83j2jjzj02j8eg8vmshzqj0a4rsdjhufw9hlryphswn3q7wex02",
+    "name": "NUCLEUS",
+    "symbol": "NUCLEUS",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1aw7r4gr83j2jjzj02j8eg8vmshzqj0a4rsdjhufw9hlryphswn3q7wex02/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1cufdc05rp6c9r3mrky2fc4hwnweckz6923aut4fxh08gwx2rpkpqlppryj",
+    "name": "Rush Bot",
+    "symbol": "RUSHBOT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1cufdc05rp6c9r3mrky2fc4hwnweckz6923aut4fxh08gwx2rpkpqlppryj/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1d60mwrmktw35df0ypg2m2nmchvkj8awf0qljm6dm94f963g3tutsmcn7u2",
+    "name": "ASBOT NTRN",
+    "symbol": "ASBOT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1d60mwrmktw35df0ypg2m2nmchvkj8awf0qljm6dm94f963g3tutsmcn7u2/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1f8r7d5s3k4yh7cgp08mqv2v03y87apuvaj996erqjxzwhus5ty9qzyl4y0",
+    "name": "Mini Circus",
+    "symbol": "miniCIRCUS",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1f8r7d5s3k4yh7cgp08mqv2v03y87apuvaj996erqjxzwhus5ty9qzyl4y0/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1fe4fd33d0976gqr833xhdxmw5hv8c5s4nv7pvdrdflpr8u4uadjq76tmdq",
+    "name": "BULLDOG",
+    "symbol": "BDG",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1fe4fd33d0976gqr833xhdxmw5hv8c5s4nv7pvdrdflpr8u4uadjq76tmdq/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/5jymww7/bulldog.png"
+  },
+  {
+    "id": "neutron1fjzg7fmv770hsvahqm0nwnu6grs3rjnd2wa6fvm9unv6vedkzekqpw44qj",
+    "name": "BITCOSMOS",
+    "symbol": "BTC",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1fjzg7fmv770hsvahqm0nwnu6grs3rjnd2wa6fvm9unv6vedkzekqpw44qj/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/FnX12pT/bitcosmos.png"
+  },
+  {
+    "id": "neutron1gl688304p4h2kl542s6f8kaz2gy9nvd6u0wfdxd9wlve7tvt066qxqa24l",
+    "name": "Newton NTRN",
+    "symbol": "NEWTON",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1gl688304p4h2kl542s6f8kaz2gy9nvd6u0wfdxd9wlve7tvt066qxqa24l/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1gl6yuc2n9d9l4z3n5dyd75zp8y34eqqlsqnykjtj8m4xlf7lalrsgzhk8k",
+    "name": "Baryon",
+    "symbol": "BARYON",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1gl6yuc2n9d9l4z3n5dyd75zp8y34eqqlsqnykjtj8m4xlf7lalrsgzhk8k/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1hz5upuygfdukc3h43fag59mm6g2s60qflejmcud5whd38euupevsd9kp5v",
+    "name": "NeuLion",
+    "symbol": "NeuLion",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1hz5upuygfdukc3h43fag59mm6g2s60qflejmcud5whd38euupevsd9kp5v/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1jp2dpm4lp58qjtfcgr5c7d2usw2rcp6hf0vwy2wqjm5wl0e2sjmq7ryttp",
+    "name": "COSMONAUTS",
+    "symbol": "COSMONAUTS",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1jp2dpm4lp58qjtfcgr5c7d2usw2rcp6hf0vwy2wqjm5wl0e2sjmq7ryttp/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1juu7p9psal46c9teyrn29w9hxv6ryy809339dhy8lxcvqv5fwawshqrtyr",
+    "name": "Rush Bot",
+    "symbol": "RUSHBOT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1juu7p9psal46c9teyrn29w9hxv6ryy809339dhy8lxcvqv5fwawshqrtyr/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2",
+    "name": "The Simpsons",
+    "symbol": "Simpsons",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1kvst0v7l83s9p6zhwfmnvgqgwvhntdkv28tshp3gxzqau6289qas4kk0k2/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.imgur.com/oTsNbqn.png"
+  },
+  {
+    "id": "neutron1p4cffwfxzqrtc64ulm5ygwyuxqk7dnm09p3d050hes4xsnevxnqs93yud8",
+    "name": "WAIFU bridge",
+    "symbol": "bridgeWAIFU",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1p4cffwfxzqrtc64ulm5ygwyuxqk7dnm09p3d050hes4xsnevxnqs93yud8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1plhm5ddznjmfvn2xdva5hfqvl5ksjdrwjc43e6mks9uam0r5r5xsd8kzzz",
+    "name": "LAMBO",
+    "symbol": "LAMBO",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1plhm5ddznjmfvn2xdva5hfqvl5ksjdrwjc43e6mks9uam0r5r5xsd8kzzz/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1ppajkmsnkhygztka6zgzf3d25df623l6emftypr6gel5tjunmntqnxte6d",
+    "name": "NEUTRAL",
+    "symbol": "NEUTRAL",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1ppajkmsnkhygztka6zgzf3d25df623l6emftypr6gel5tjunmntqnxte6d/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1s4z8carrrj00vvtg3k7twn9pq7ldyy33ttyzsejtmphzxhj3vhns6y0368",
+    "name": "Astro Boy",
+    "symbol": "Boy",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1s4z8carrrj00vvtg3k7twn9pq7ldyy33ttyzsejtmphzxhj3vhns6y0368/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ASTROBOY.png"
+  },
+  {
+    "id": "neutron1t60674c98dpvvtsygpf4jtvl2d8q5txcrpnvlafh9aen4zf2ldlsfyt6e8",
+    "name": "Eclipse",
+    "symbol": "ECLIPSE",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1t60674c98dpvvtsygpf4jtvl2d8q5txcrpnvlafh9aen4zf2ldlsfyt6e8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1tf7fxwrdqmgwu8rw0a9wnyvynmh2pt89mrne0ngf93jy22vmw4ls4238ea",
+    "name": "Bridge Seiyan",
+    "symbol": "bridgeSEIYAN",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1tf7fxwrdqmgwu8rw0a9wnyvynmh2pt89mrne0ngf93jy22vmw4ls4238ea/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv",
+    "name": "Astro Boy",
+    "symbol": "Boy",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ASTROBOY.png"
+  },
+  {
+    "id": "neutron1wkshmjne0nclhfh6xw67w20885jgr9k52u7lnekme8jdvw897hmqraymux",
+    "name": "ATONE",
+    "symbol": "ATONE",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1wkshmjne0nclhfh6xw67w20885jgr9k52u7lnekme8jdvw897hmqraymux/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1wz2yt6dv7jhtyyxutpgreus0l25dzramj860n656aa9g78tvwrmquyp0ck",
+    "name": "Seilu Ntrn",
+    "symbol": "SEILUNTRN",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1wz2yt6dv7jhtyyxutpgreus0l25dzramj860n656aa9g78tvwrmquyp0ck/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1ydjtjhhsmh909e9ahu746qdhd0hppx03pawq28xcqec4vez4j24qz9g0jv",
+    "name": "BONK On NTRN",
+    "symbol": "BONK",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1ydjtjhhsmh909e9ahu746qdhd0hppx03pawq28xcqec4vez4j24qz9g0jv/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7",
+    "entity": "LAIKA",
+    "name": "LAIKA",
+    "symbol": "LAIKA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/m0GyLzz/laika.png"
   },
   {
     "id": "untrn",
