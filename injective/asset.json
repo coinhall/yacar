@@ -231,6 +231,46 @@
     "icon": "https://pbs.twimg.com/profile_images/1737090223811489792/kq_J36b7_400x400.jpg"
   },
   {
+    "id": "factory/inj12yazr8lq5ptlz2qj9y36v8zwmz90gy9gh35026/AMM",
+    "name": "AMM TOKEN",
+    "symbol": "AMM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://arweave.net/Shp5e1mIqw5S6ZviaXOc_-8dExhClEx39B5MVsG1DFo"
+  },
+  {
+    "id": "factory/inj12yazr8lq5ptlz2qj9y36v8zwmz90gy9gh35026/APPLE",
+    "name": "APPLE WUF",
+    "symbol": "APPLE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.ibb.co/Yf7C1BD/file-fa5-Sk9-Zh-Cv7tb9y-K6wo-Dxf-UU-2.png"
+  },
+  {
+    "id": "factory/inj12yazr8lq5ptlz2qj9y36v8zwmz90gy9gh35026/ddd",
+    "name": "DDDTest",
+    "symbol": "DDD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://arweave.net/Shp5e1mIqw5S6ZviaXOc_-8dExhClEx39B5MVsG1DFo"
+  },
+  {
+    "id": "factory/inj12yazr8lq5ptlz2qj9y36v8zwmz90gy9gh35026/done",
+    "name": "done",
+    "symbol": "done",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://arweave.net/Shp5e1mIqw5S6ZviaXOc_-8dExhClEx39B5MVsG1DFo"
+  },
+  {
+    "id": "factory/inj12yazr8lq5ptlz2qj9y36v8zwmz90gy9gh35026/DTHREE",
+    "name": "THREE",
+    "symbol": "DTHREE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://arweave.net/Shp5e1mIqw5S6ZviaXOc_-8dExhClEx39B5MVsG1DFo"
+  },
+  {
     "id": "factory/inj12yazr8lq5ptlz2qj9y36v8zwmz90gy9gh35026/dtwo",
     "name": "dtwo",
     "symbol": "dtwo",
@@ -1085,6 +1125,22 @@
     "symbol": "SOL",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1a9dsv5whfhqptkycx4l9uly9x684lwmwuv7l3n/KGM",
+    "name": "KeyGlowMax",
+    "symbol": "KGM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://arweave.net/lIyIu6rZbmpnnAiIUe_uWN2VMFgtEOJb2TM74LHnV-Q"
+  },
+  {
+    "id": "factory/inj1a9dsv5whfhqptkycx4l9uly9x684lwmwuv7l3n/POP",
+    "name": "POPCAT",
+    "symbol": "POP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://arweave.net/o-529raKbXPUg5uGYZdgqx-7UHDIOh13V-r9yRr5xPk"
   },
   {
     "id": "factory/inj1aey234egq5efqr7zfvtzdsq6h2c5wsrma4lw7h/dek",
@@ -4160,6 +4216,13 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj14pq4ewrxju997x0y7g2ug6cn3lqyp66ygz5x6s/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj14vcn23l3jdn50px0wxmj2s24h5pn3eawcnktkh",
+    "name": "Baby Ninja",
+    "symbol": "BABYNINJA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "inj14vluf5wc7tsptnfzrjs9g579uyp9gvvlwre5e4",
     "name": "XEN Crypto (Wormhole)",
     "symbol": "fmXEN",
@@ -6115,6 +6178,13 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1tjnjj9hvecuj3dpdvvl4yxhshgwzqyg57k7fnh/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1tml6e474rxgc0gc5pd8ljmheqep5wrqrm9m9ks",
+    "name": "dojoswap",
+    "symbol": "dojoswap",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "inj1tn88veylex4f4tu7clpkyneahpmf7nqqmvquuw",
     "name": "Cat with Needle",
     "symbol": "Inject",
@@ -6448,6 +6518,13 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1x6lvx8s2gkjge0p0dnw4vscdld3rdcw94fhter/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1xhvj4u6xtx3p9kr4pqzl3fdu2vedh3e2y8a79z",
+    "name": "Gonzo",
+    "symbol": "HST",
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "inj1xj7c6r65e8asrrpgm889m8pr7x3ze7va2ypql4",
