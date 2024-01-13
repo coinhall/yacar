@@ -57,7 +57,7 @@
     "symbol": "stLUNA",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1bHVuYQ==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1bHVuYQ==&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/stLUNA.svg"
   },
   {
@@ -81,7 +81,7 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
     "total_supply": "100000000",
     "icon": "https://assets.terra.money/icon/svg/ibc/STRD.svg"
   },
@@ -586,8 +586,8 @@
     "symbol": "xxx",
     "decimals": "10",
     "type": "cw20",
-    "circ_supply": "96000000000",
-    "total_supply": "96000000000",
+    "circ_supply": "95000000000",
+    "total_supply": "95000000000",
     "icon": "https://i.imgur.com/Pz24fY5.png",
     "verification_tx": "A2D2DCB69CBA0600722F852637D6F20891DE3E71058D4755BD153C8245194FB9"
   },
@@ -1220,6 +1220,14 @@
     "symbol": "MGK",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra18a2m7ghvfzuksqyswja685rl4cataemazyplk8qcjzm2vvs8u78q46dvh8",
+    "name": "Onyx",
+    "symbol": "ONYX",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra18a2m7ghvfzuksqyswja685rl4cataemazyplk8qcjzm2vvs8u78q46dvh8/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra18cl4602q8gfaxgm5gvh254s5qf9xhrhmlntsdpmduqgxa2qg9dgqkraadh",
@@ -2671,6 +2679,8 @@
     "symbol": "Escudos",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "icon": "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png"
   },
   {
@@ -2883,6 +2893,8 @@
     "symbol": "Reis",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "icon": "https://static.wixstatic.com/media/1e62a0_89af25478e5144089de9292b990493e2~mv2.png"
   },
   {
@@ -2920,6 +2932,8 @@
     "symbol": "Dinheiros",
     "decimals": "0",
     "type": "cw20",
+    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "icon": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png"
   },
   {
@@ -3203,6 +3217,16 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu",
+    "name": "ADO",
+    "symbol": "ADO",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply_api": "https://raw.githubusercontent.com/ADO12ADO/ADO/main/Data/Circulation-supply%20ADO",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://raw.githubusercontent.com/ADO12ADO/ADO/main/asset/ADO.png"
   },
   {
     "id": "terra1wjzwg8megt6zsfsr2tduwklh8sx3mpptquqcm7h0krxuzwc5n86sn2xh9a",

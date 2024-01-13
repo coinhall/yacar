@@ -203,6 +203,16 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1yxg9nt6uvysyq3cs9gmp58f48unffpfscqjyr6nv2u7mh6657nwssfyp33%2Fsail"
   },
   {
+    "id": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXowcXJxNjA1c2pnY3FweWxmbDRhYTZzOTB4NzM4ajdtNTh3eWF0dDB0ZHpmbGcyaGEyNnE2N2s3NDMvd2J0Yw%3D%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/00B6E60AD3D65CBEF5579AC8AF609527C0B57535B6E32D96C80A735344FD9DCC",
     "name": "JunoSwap",
     "symbol": "RAW",
@@ -266,7 +276,7 @@
     "symbol": "stUMEE",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1dW1lZQ==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1dW1lZQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stumee.svg",
     "verification_tx": "osmosis-main"
   },
@@ -873,6 +883,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/442A08C33AE9875DF90792FFA73B5728E1CAECE87AB4F26AE9B422F1E682ED23",
+    "name": "Badcoin",
+    "symbol": "BAD",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/bad.png"
+  },
+  {
     "id": "ibc/44492EAB24B72E3FB59B9FA619A22337FB74F95D8808FE6BC78CC0E6C18DC2EC",
     "entity": "Kujira",
     "name": "USK",
@@ -1162,7 +1180,7 @@
     "symbol": "stSOMM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1c29tbQ==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1c29tbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stsomm.svg",
     "verification_tx": "osmosis-main"
   },
@@ -1205,7 +1223,7 @@
     "symbol": "stSTARS",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1c3RhcnM=&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1c3RhcnM=&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.svg",
     "verification_tx": "osmosis-main"
   },
@@ -1716,7 +1734,7 @@
     "symbol": "stJUNO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1anVubw==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1anVubw==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.svg",
     "verification_tx": "osmosis-main"
   },
@@ -1835,6 +1853,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/94ED1F172BC633DFC56D7E26551D8B101ADCCC69052AC44FED89F97FF658138F",
+    "name": "Sneaky Productions",
+    "symbol": "SNEAKY",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/sneaky.svg"
+  },
+  {
     "id": "ibc/95C9B5870F95E21A242E6AF9ADCB1F212EE4A8855087226C36FBE43FC41A77B8",
     "name": "Xpla",
     "symbol": "XPLA",
@@ -1922,6 +1948,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/geo.svg"
+  },
+  {
+    "id": "ibc/9B8EC667B6DF55387DC0F3ACC4F187DA6921B0806ED35DE6B04DE96F5AB81F53",
+    "name": "WOOF",
+    "symbol": "WOOF",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/woof.png"
   },
   {
     "id": "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E",
@@ -2041,7 +2075,7 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
     "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stride",
@@ -2300,7 +2334,7 @@
     "symbol": "stATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom",
     "verification_tx": "osmosis-main"
@@ -2355,7 +2389,7 @@
     "symbol": "stLUNA",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1bHVuYQ==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1bHVuYQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.svg",
     "verification_tx": "osmosis-main"
   },
@@ -2365,7 +2399,7 @@
     "symbol": "stEVMOS",
     "decimals": "18",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3RhZXZtb3M=&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3RhZXZtb3M=&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stevmos.svg",
     "verification_tx": "osmosis-main"
   },
@@ -2503,7 +2537,7 @@
     "symbol": "stOSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/stride/cosmos/bank/v1beta1/supply?pagination.key=c3R1b3Ntbw==&pagination.limit=1",
+    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1b3Ntbw==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-osmo",
     "verification_tx": "osmosis-main"

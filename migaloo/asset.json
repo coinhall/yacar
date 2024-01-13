@@ -74,10 +74,14 @@
   },
   {
     "id": "factory/migaloo1t862qdu9mj5hr3j727247acypym3ej47axu22rrapm4tqlcpuseqltxwq5/ophir",
+    "entity": "Ophir DAO",
     "name": "Ophir DAO token",
     "symbol": "OPHIR",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "circ_supply_api": "https://therealsnack.com/ophircirculatingsupply",
+    "total_supply": "1000000000",
+    "icon": "https://i.imgur.com/IaWDLn9.jpeg"
   },
   {
     "id": "ibc/0102CC6E28D29F57444C645C86AE2F4E8789C3A85445A3B185E51F0A23862E87",
@@ -110,6 +114,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+  },
+  {
+    "id": "ibc/E49A6D116739E0920F8F2D68A8F0A8E07DC272FA1421F70CAD738463AA296724",
+    "name": "PLNK",
+    "symbol": "PLNK",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/PLNK_drk.png"
   },
   {
     "id": "uwhale",
