@@ -494,5 +494,16 @@
     "circ_supply_api": "https://info.neutron.org/v1/circulating_supply",
     "total_supply_api": "https://rest.cosmos.directory/neutron/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg"
+  },
+  {
+    "id": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
+    "entity": "Visit Dinosaurgame.lol",
+    "name": "DINOSAUR",
+    "symbol": "DSR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "10500000",
+    "total_supply": "10500000",
+    "icon": "https://i.ibb.co/pd46dng/dinosaur.png"
   }
 ]
