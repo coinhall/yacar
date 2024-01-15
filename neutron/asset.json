@@ -485,5 +485,15 @@
     "circ_supply_api": "https://info.neutron.org/v1/circulating_supply",
     "total_supply_api": "https://rest.cosmos.directory/neutron/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg"
+  },
+  {
+    "id": "neutron12ve9fafr8lj4k3nf6vmz82u3ulmmr80ut697ygq8j0ksudvv0csqfkkh2p",
+    "entity": "BENGAL CAT",
+    "name": "BENGAL",
+    "symbol": "BENGAL",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/Pw24QSv/bengal.png"
   }
 ]
