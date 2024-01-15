@@ -148,6 +148,18 @@
     "type": "ibc"
   },
   {
+    "id": "terra01gformyacartesttokenaddress",
+    "entity": "Coinhall",
+    "name": "Yet Another Cosmos Asset Registry Token",
+    "symbol": "YACAR",
+    "decimals": "6",
+    "type": "CW20",
+    "total_supply_api": "100",
+    "icon": "https://coinhall.org/favicon.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/yacar",
+    "coingecko": "https://www.coingecko.com/en/coins/yacar"
+  },
+  {
     "id": "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",
     "entity": "ApolloDAO",
     "name": "Apollo DAO Token",
