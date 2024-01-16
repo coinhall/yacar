@@ -23,6 +23,16 @@
     "coingecko": "https://www.coingecko.com/en/coins/eclipse-fi"
   },
   {
+    "id": "factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad",
+    "name": "Badcoin",
+    "symbol": "BAD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "4802499999",
+    "total_supply": "4802499999",
+    "icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/neutron/factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad.png"
+  },
+  {
     "id": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
     "name": "AtomEconomicZone69JaeKwonInu",
     "symbol": "CIRCUS",
@@ -66,7 +76,7 @@
     "type": "tokenfactory",
     "circ_supply": "21000000",
     "total_supply": "21000000",
-    "icon": "https://raw.githubusercontent.com/goddardneutron/GODDARD/main/GODDARD-Logo.jpeg"
+    "icon": "https://i.ibb.co/f87gpw7/goddard.png"
   },
   {
     "id": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
@@ -242,7 +252,7 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron12h09p8hq5y4xpsmcuxxzsn9juef4f6jvekp8yefc6xnlwm6uumnsdk29wf/smart/eyJ0b2tlbl9pbmZvIjoge319",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/WTF.png"
+    "icon": "https://i.ibb.co/ysNNwrp/wtf.png"
   },
   {
     "id": "neutron12m44vzyhx93uzth0ee875z9rajxdym24fvxzlhfdp0e0kch9ay3q9uphra",
@@ -251,6 +261,15 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron12m44vzyhx93uzth0ee875z9rajxdym24fvxzlhfdp0e0kch9ay3q9uphra/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron12ve9fafr8lj4k3nf6vmz82u3ulmmr80ut697ygq8j0ksudvv0csqfkkh2p",
+    "name": "BENGAL",
+    "symbol": "BENGAL",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron12ve9fafr8lj4k3nf6vmz82u3ulmmr80ut697ygq8j0ksudvv0csqfkkh2p/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/Pw24QSv/bengal.png"
   },
   {
     "id": "neutron149tpx0nequ0cpctw06nk29hwfps0343wvwfh6tkhju3ra7hxvpeq8pvstf",
@@ -313,7 +332,8 @@
     "symbol": "BDG",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1fe4fd33d0976gqr833xhdxmw5hv8c5s4nv7pvdrdflpr8u4uadjq76tmdq/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1fe4fd33d0976gqr833xhdxmw5hv8c5s4nv7pvdrdflpr8u4uadjq76tmdq/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/5jymww7/bulldog.png"
   },
   {
     "id": "neutron1fjzg7fmv770hsvahqm0nwnu6grs3rjnd2wa6fvm9unv6vedkzekqpw44qj",
@@ -321,7 +341,8 @@
     "symbol": "BTC",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1fjzg7fmv770hsvahqm0nwnu6grs3rjnd2wa6fvm9unv6vedkzekqpw44qj/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1fjzg7fmv770hsvahqm0nwnu6grs3rjnd2wa6fvm9unv6vedkzekqpw44qj/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/FnX12pT/bitcosmos.png"
   },
   {
     "id": "neutron1gl688304p4h2kl542s6f8kaz2gy9nvd6u0wfdxd9wlve7tvt066qxqa24l",
@@ -456,7 +477,8 @@
   },
   {
     "id": "neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7",
-    "name": "A Tribute to Laika Dog in Space",
+    "entity": "LAIKA",
+    "name": "LAIKA",
     "symbol": "LAIKA",
     "decimals": "6",
     "type": "cw20",

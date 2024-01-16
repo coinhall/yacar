@@ -586,8 +586,8 @@
     "symbol": "xxx",
     "decimals": "10",
     "type": "cw20",
-    "circ_supply": "96000000000",
-    "total_supply": "96000000000",
+    "circ_supply": "95000000000",
+    "total_supply": "95000000000",
     "icon": "https://i.imgur.com/Pz24fY5.png",
     "verification_tx": "A2D2DCB69CBA0600722F852637D6F20891DE3E71058D4755BD153C8245194FB9"
   },
@@ -1325,6 +1325,13 @@
     "entity": "Astroport",
     "name": "BGT-IBC/-LP",
     "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra19nu4q2y0xe3vza6ve5ymup33uzm049pnrqq5ddeuulmrg279t57qstcces",
+    "name": "GUGU",
+    "symbol": "GUGU",
     "decimals": "6",
     "type": "cw20"
   },
@@ -2679,6 +2686,8 @@
     "symbol": "Escudos",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "icon": "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png"
   },
   {
@@ -2891,6 +2900,8 @@
     "symbol": "Reis",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "icon": "https://static.wixstatic.com/media/1e62a0_89af25478e5144089de9292b990493e2~mv2.png"
   },
   {
@@ -2928,6 +2939,8 @@
     "symbol": "Dinheiros",
     "decimals": "0",
     "type": "cw20",
+    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "icon": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png"
   },
   {
@@ -3463,6 +3476,7 @@
     "symbol": "GEM",
     "decimals": "6",
     "type": "cw20",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv/smart/eyJ0b2tlbl9pbmZvIjp7fX0%3D",
     "icon": "https://raw.githubusercontent.com/terragem/gem/main/gem2.png",
     "verification_tx": "F4EC1244D8C070C4091C3573F9CA3E0D50D23975BE584134B28D7E9C737769FD"
   },
