@@ -102,6 +102,14 @@
     "icon": "https://i.ibb.co/FHbRCbw/goddardntrn.png"
   },
   {
+    "id": "factory/neutron1tklm6cvr2wxg8k65t8gh5ewslnzdfd5fsk0w3f/corgi",
+    "name": "CORGI",
+    "symbol": "CORGI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXRrbG02Y3ZyMnd4ZzhrNjV0OGdoNWV3c2xuemRmZDVmc2swdzNmL2Nvcmdp&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
     "name": "Lido wstETH",
     "symbol": "wstETH",
