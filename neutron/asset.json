@@ -41,6 +41,17 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fneutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q%2Fucircus"
   },
   {
+    "id": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
+    "entity": "DINOSAUR",
+    "name": "DINOSAUR",
+    "symbol": "DSR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "10500000",
+    "total_supply": "10500000",
+    "icon": "https://i.ibb.co/pd46dng/dinosaur.png"
+  },
+  {
     "id": "factory/neutron1lg8nydf8nagrrp2f72y5mk9newv2gs6a3mm3cn/GAY",
     "name": "Gay Coin",
     "symbol": "GAY",
