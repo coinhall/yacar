@@ -208,7 +208,7 @@
     "id": "ibc/2F991B31CE426BCA00C5270F33AF520C2ACC73690541DBC84CBF68431D54DF04",
     "name": "ampKUJI",
     "symbol": "ampKUJI",
-    "decimals": "0",
+    "decimals": "6",
     "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/ampKUJI.svg"
   },
@@ -1330,10 +1330,14 @@
   },
   {
     "id": "terra19nu4q2y0xe3vza6ve5ymup33uzm049pnrqq5ddeuulmrg279t57qstcces",
+    "entity": "GUGU",
     "name": "GUGU",
     "symbol": "GUGU",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply": "4444",
+    "total_supply": "4444",
+    "icon": "https://i.imgur.com/0BOmpgj.png"
   },
   {
     "id": "terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw",
@@ -1502,10 +1506,9 @@
     "symbol": "ITO",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s/smart/eyJ0b2tlbl9pbmZvIjoge319",
-    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s/smart/eyJ0b2tlbl9pbmZvIjoge319",
-    "icon": "https://raw.githubusercontent.com/ITO1201/ITO/main/data/I.png",
-    "verification_tx": "256AC567330BFA1FC51B37B6FAEB0D18271B0977AE423096004E4087BC92E7DB"
+    "circ_supply_api": "https://raw.githubusercontent.com/ITO1201/ITO/main/data/Circulation-supply%20ITO",
+    "total_supply_api": "https://raw.githubusercontent.com/ITO1201/ITO/main/data/total%20supply",
+    "icon": "https://raw.githubusercontent.com/ITO1201/ITO/main/data/I.png"
   },
   {
     "id": "terra1ces6k6jp7qzkjpwsl6xg4f7zfwre0u23cglg69hhj3g20fhygtpsu24dsy",
@@ -3325,6 +3328,13 @@
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1xh5e84644sqnjfxek44q5et7yur6fh0w586t95twx3w9mkedqc4ss3r5v8",
+    "name": "Pamp it up",
+    "symbol": "Pamp",
     "decimals": "6",
     "type": "cw20"
   },

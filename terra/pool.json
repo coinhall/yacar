@@ -20,6 +20,16 @@
     "lp_token_id": "terra15xzzvk45lnnelg7t7chflg5ty9vw42g0whrsq7takwgygmtnnyksvzlk3j"
   },
   {
+    "id": "terra139dl6x4nxwwkujq9rvvekhl2w66cgunqk6uhn8t0y4h75g7alafsvnmuv3",
+    "asset_ids": [
+      "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+      "terra1xh5e84644sqnjfxek44q5et7yur6fh0w586t95twx3w9mkedqc4ss3r5v8"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "terra1w82za945utcw43kdemqyrhxjd6hry5hpuqrhku6menlzfqdza7rq2lz3am"
+  },
+  {
     "id": "terra13cw46g72kwtgln0540j9cqa79ham5k86jlx34e2pqukww6v0v3yseakged",
     "asset_ids": [
       "uluna",
@@ -3850,6 +3860,16 @@
     "lp_token_id": "terra1qz85ppegsv4c6l8cy5sx4kv2xntwsdc0acd09mq9aw6kjp8cnpyqqf0rj2"
   },
   {
+    "id": "terra1hrdwlfy92w374maa3fh567cmhakxa9r06emnjy8yhtfqpacxejmqluhwtq",
+    "asset_ids": [
+      "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+      "ibc/52B30BB501A222D586222700F241EBC8CA97A4A17C9737DDCC00DD0BBC24CEAD"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "terra1560q2w90jd0vxd8n569zqpxux0j70gcev2fsk2a090cp0gu82q5quywhsm"
+  },
+  {
     "id": "terra1hrk3jt3n5nvl4za5nsf3z4xdp694697cs9cwj8dylhc4laf5gc0qnd72wr",
     "asset_ids": [
       "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
@@ -7308,6 +7328,16 @@
     "dex": "Ura",
     "type": "stable",
     "lp_token_id": "factory/terra1kdguryq2dtdhwsu4l93pkmc8uwj8l9d2s9gyrkwh3nkpgj663p6s0zc3ym/IBC/-SOLI-LP"
+  },
+  {
+    "id": "terra122d9hqd6qexyxsfyyxr720hcs88r3sgs9m4qe4nhj5y5wmz5de7qvrr2jn",
+    "asset_ids": [
+      "uluna",
+      "ibc/E83DFA7C774804925765C4EFCBFAF2088AFE8B41302AB66000CA6234BD5976E4"
+    ],
+    "dex": "Ura",
+    "type": "xyk",
+    "lp_token_id": "factory/terra122d9hqd6qexyxsfyyxr720hcs88r3sgs9m4qe4nhj5y5wmz5de7qvrr2jn/ULUN-IBC/-LP"
   },
   {
     "id": "terra16h3ygvm2te22q5a5nntd9u5yk0mextd7tlvxq8hw3ryyc3ps30dq4l5xhw",

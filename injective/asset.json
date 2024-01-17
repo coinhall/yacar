@@ -2098,10 +2098,12 @@
   },
   {
     "id": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
+    "entity": "Talis Protocol",
     "name": "TALIS",
     "symbol": "TALIS",
-    "decimals": "0",
-    "type": "tokenfactory"
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://ipfs.io/ipfs/QmbG8jgDr9Nb4FxuavCHojk26kNxE2gfbseV9eFGdZvqRx"
   },
   {
     "id": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/xTalis",
@@ -4083,11 +4085,13 @@
   },
   {
     "id": "inj134wfjutywny9qnyux2xgdmm0hfj7mwpl39r3r9",
+    "entity": "Dojoswap",
     "name": "Dojo Staked INJ",
     "symbol": "dINJ",
     "decimals": "18",
     "type": "cw20",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj134wfjutywny9qnyux2xgdmm0hfj7mwpl39r3r9/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj134wfjutywny9qnyux2xgdmm0hfj7mwpl39r3r9/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://dojo.trading/images/tokens/dinj.svg"
   },
   {
     "id": "inj1367pnje9e8myaw04av6j2n5z7827407k4sa4m8",
@@ -4452,6 +4456,13 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj174p4dt45793vylmt8575cltj6wadtc62nakczq/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj174zq6m77dqvx4e56uqvjq25t7qq5ukmt2zhysh",
+    "name": "FDA",
+    "symbol": "FDA",
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "inj175ut0y843p0kc4secgplsrs609uwaq3d93tp0x",
@@ -4892,6 +4903,13 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1c64fwq7xexhh58spf2eer85yz3uvv3y659j5dd/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1c8jk5qh2lhmvqs33z4y0l84trdu7zhgtd3aqrd",
+    "name": "Nijo",
+    "symbol": "NJO",
+    "decimals": "18",
+    "type": "cw20"
+  },
+  {
     "id": "inj1ccpccejcrql2878cq55nqpgsl46s26qj8hm6ws",
     "name": "VIU (Wormhole)",
     "symbol": "VIU",
@@ -5057,6 +5075,13 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1dvflqrkkaxped5cmks92q6vmtzx75cge9gvvap/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1e2ee7hk8em3kxqxc0uuupzpzvrcda85s3lx37h",
+    "name": "Nike Inject",
+    "symbol": "NIKE",
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "inj1e8eqle6queaywa8w2ns0u9m7tldz9vv44s28p2",
@@ -5762,6 +5787,13 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1lvq52czuxncydg3f9z430glfysk4yru6p4apfr/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1lwgzxuv0wkz86906dfssuwgmhld8705tzcfhml",
+    "name": "NIJO",
+    "symbol": "NIJIO",
+    "decimals": "18",
+    "type": "cw20"
+  },
+  {
     "id": "inj1lzdvr2d257lazc2824xqlpnn4q50vuyhnndqhv",
     "name": "Ninja Swap (Wormhole)",
     "symbol": "NINJA",
@@ -6198,6 +6230,13 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1rlyw9tl7e5u9haunh39mh87clvmww5p39dd9kv/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1s02f4aygftq6yhpev9dmnzp8889g5h3juhd5re",
+    "name": "MoonPup",
+    "symbol": "MNP",
+    "decimals": "18",
+    "type": "cw20"
+  },
+  {
     "id": "inj1scn6ssfehuw735llele39kk7w6ylg4auw3epjp",
     "name": "Target (Wormhole)",
     "symbol": "TRG",
@@ -6519,6 +6558,13 @@
     "type": "cw20"
   },
   {
+    "id": "inj1vllv3w7np7t68acdn6xj85yd9dzkxdfcuyluz0",
+    "name": "NINJAWIFHAT",
+    "symbol": "WIF",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "inj1vnf98sw93chhpagtk54pr4z5dq02nxprhnhnm6",
     "name": "Crypto Cogs (Wormhole)",
     "symbol": "xCC",
@@ -6771,6 +6817,13 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1y208239ua6mchwayw8s8jfnuyqktycqhk6tmhv/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1y64pkwy0m0jjd825c7amftqe2hmq2wn5ra8ap4",
+    "name": "HarryPotterObamaSonicInu",
+    "symbol": "BITCOIN",
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "inj1y73laasqpykehcf67hh3z7vn899sdmn6vtsg22",
