@@ -347,15 +347,17 @@
     "symbol": "SEIKA",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZmgwaDZ1dTZwYXozenRmZTMyNXBqbHg1N2VyMmp6aG1tN3B1M20vU2Vpa2FMYW1wcm9ndWU%3D&pagination.limit=1"
+    "total_supply": "3000000000"
   },
   {
     "id": "factory/sei1fh0h6uu6paz3ztfe325pjlx57er2jzhmm7pu3m/SEINFELD",
+    "entity": "SEINFELD",
     "name": "SEINFELD",
     "symbol": "SEINFELD",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZmgwaDZ1dTZwYXozenRmZTMyNXBqbHg1N2VyMmp6aG1tN3B1M20vU0VJTkZFTEQ%3D&pagination.limit=1"
+    "total_supply": "1000000000000",
+    "icon": "https://arweave.net/VurMK1uBxVuGVclEf0-00mQB1FeZsJlAzSnvjqA9Vdw"
   },
   {
     "id": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
@@ -12709,7 +12711,6 @@
   },
   {
     "id": "sei1s78j47dphahrkcpesga3av6su6lje3n9pn3hhqn9el4p8yz7l0kstxxw84",
-    "entity": "SEINOBI INU",
     "name": "SEINOBI INU",
     "symbol": "SEINOBI",
     "decimals": "6",
