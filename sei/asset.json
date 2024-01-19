@@ -357,6 +357,15 @@
     "total_supply": "3000000000"
   },
   {
+    "id": "factory/sei1fh0h6uu6paz3ztfe325pjlx57er2jzhmm7pu3m/SEINFELD",
+    "name": "SEINFELD",
+    "symbol": "SEINFELD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZmgwaDZ1dTZwYXozenRmZTMyNXBqbHg1N2VyMmp6aG1tN3B1M20vU0VJTkZFTEQ=&pagination.limit=1",
+    "icon": "https://arweave.net/VurMK1uBxVuGVclEf0-00mQB1FeZsJlAzSnvjqA9Vdw"
+  },
+  {
     "id": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
     "entity": "Popeye the Seilor",
     "name": "Popeye the Seilor",
