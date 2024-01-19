@@ -357,16 +357,6 @@
     "total_supply": "3000000000"
   },
   {
-    "id": "factory/sei1fh0h6uu6paz3ztfe325pjlx57er2jzhmm7pu3m/SEINFELD",
-    "entity": "SEINFELD",
-    "name": "SEINFELD",
-    "symbol": "SEINFELD",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "total_supply": "1000000000000",
-    "icon": "https://arweave.net/VurMK1uBxVuGVclEf0-00mQB1FeZsJlAzSnvjqA9Vdw"
-  },
-  {
     "id": "factory/sei1fl8pg59wfsgw2wp4aruk38zqccfnc2g8ptrm24/popeye",
     "entity": "Popeye the Seilor",
     "name": "Popeye the Seilor",
@@ -420,10 +410,13 @@
   },
   {
     "id": "factory/sei1hmhg257pl4kg5fwxx0nlkz9uanh98y2vwedl6d/SEINFELD",
+    "entity": "SEINFELD",
     "name": "SEINFELD",
     "symbol": "SEINFELD",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "total_supply": "1000000000000",
+    "icon": "https://arweave.net/VurMK1uBxVuGVclEf0-00mQB1FeZsJlAzSnvjqA9Vdw"
   },
   {
     "id": "factory/sei1hpxtc7h2c2xzzl8jlcpy2hdpusal4geq2m4udq/sai",
