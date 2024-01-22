@@ -914,6 +914,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj175fuhj3rlyttt255fsc6fwyteealzt67szpvan%2FALIEN"
   },
   {
+    "id": "factory/inj175n4kj6va8yejh7w35t5v5f5gfm6ecyasgjnn9/FAMILY",
+    "name": "Family - MafiaZ",
+    "symbol": "FAMILY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://ipfs.io/ipfs/QmYFFo9wkvcamn41RzFhVPD7SiAfixHdNvaLj72seL6ZVY"
+  },
+  {
     "id": "factory/inj17a0fp4rguzgf9mwz90y2chc3lr445nujdwc063/bonkmas",
     "name": "bonkmas",
     "symbol": "bonkmas",
@@ -4150,6 +4158,13 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1367pnje9e8myaw04av6j2n5z7827407k4sa4m8/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj136zssf58vsk9uge7ulgpw9umerzcuu0kxdu5dj",
+    "name": "Injected Birb",
+    "symbol": "BIRB",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "inj13ac29xfk969qmydhq2rwekja6mxgwtdgpeq3dj",
     "name": "Identify (Wormhole)",
     "symbol": "IDFI",
@@ -4188,6 +4203,13 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13m7h8rdfvr0hwvzzvufwe2sghlfd6e45rz0txa/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj13m85m3pj3ndll30fxeudavyp85ffjaapdmhel5",
+    "name": "Poopdick ",
+    "symbol": "PDIX",
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "inj13mjcjrwwjq7x6fanqvur4atd4sxyjz7t6kfhx0",
@@ -5049,6 +5071,13 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1cv3dxtjpngy029k5j0mmsye3qrg0uh979ur920/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1czlt30femafl68uawedg63834vcg5z92u4ld8k",
+    "name": "INJMEME",
+    "symbol": "INJM",
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "inj1d08rut8e0u2e0rlf3pynaplas6q0akj5p976kv",
@@ -6273,10 +6302,14 @@
   },
   {
     "id": "inj1qv98cmfdaj5f382a0klq7ps4mnjp6calzh20h3",
+    "entity": "Roll Token",
     "name": "Roll Token",
     "symbol": "ROLL",
     "decimals": "18",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply": "10000000",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1qv98cmfdaj5f382a0klq7ps4mnjp6calzh20h3/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://dojo.trading/images/tokens/roll.svg"
   },
   {
     "id": "inj1qydw0aj2gwv27zkrp7xulrg43kx88rv27ymw6m",
@@ -6317,6 +6350,13 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1rakgrkwx9hs6ye4mt4pcvnhy5zt28dt02u9ws8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1rgfquap6gahcdekg4pv6ru030w9yaph7nhcp9g",
+    "name": "tony25",
+    "symbol": "tone",
+    "decimals": "18",
+    "type": "cw20"
   },
   {
     "id": "inj1rlyw9tl7e5u9haunh39mh87clvmww5p39dd9kv",
