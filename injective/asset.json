@@ -6302,10 +6302,14 @@
   },
   {
     "id": "inj1qv98cmfdaj5f382a0klq7ps4mnjp6calzh20h3",
+    "entity": "Roll Token",
     "name": "Roll Token",
     "symbol": "ROLL",
     "decimals": "18",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply": "10000000",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1qv98cmfdaj5f382a0klq7ps4mnjp6calzh20h3/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://dojo.trading/images/tokens/roll.svg"
   },
   {
     "id": "inj1qydw0aj2gwv27zkrp7xulrg43kx88rv27ymw6m",
