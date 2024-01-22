@@ -1,6 +1,7 @@
 package main
 
 import (
+	"log"
 	"os"
 
 	"github.com/coinhall/yacar/cmd/sorter"
@@ -9,6 +10,13 @@ import (
 )
 
 func main() {
+	defer func() {
+		if r := recover(); r != nil {
+			log.Println(r)
+			os.Exit(1)
+		}
+	}()
+
 	projRoot, ok := os.LookupEnv("ROOT_DIR")
 	if !ok {
 		panic("ROOT_DIR env var not set")

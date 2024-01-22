@@ -115,7 +115,7 @@
     "type": "ibc",
     "circ_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/circulatingSupply",
     "total_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/totalSupply",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/xprt.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/persistence",
     "coingecko": "https://www.coingecko.com/en/coins/persistence"
   },
@@ -178,8 +178,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
