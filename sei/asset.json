@@ -578,7 +578,6 @@
   },
   {
     "id": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
-    "entity": "SEIVIOUR",
     "name": "Seiviour",
     "symbol": "SEIV",
     "decimals": "6",
@@ -740,9 +739,12 @@
   {
     "id": "factory/sei1wrv8u8ghtnu5dlnez4kgscz6l5s6eg97pf805v/SEIV",
     "name": "Seiviour",
+    "entity": "SEIVIOUR",
     "symbol": "SEIV",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "total_supply": "100000000000000000",
+    "icon": "https://i.ibb.co/ggJxJPq/seiv.png"
   },
   {
     "id": "factory/sei1wtx98x4npader0r57trs6wgj67ddsx8j6e9gra/SEIKIK",
