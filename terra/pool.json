@@ -580,6 +580,16 @@
     "lp_token_id": "terra12q440y7yvzzm0h7ap7cf0k37vj9v08nv6ksc99mekm0g9et6hjpqfthnj6"
   },
   {
+    "id": "terra1vk2rn0ns5xtk2r9v49k9lnmhd9zazxgtynh5n0vsdh7hpz6f62aqlz6c8q",
+    "asset_ids": [
+      "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+      "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "terra17q2aajgc23t4tl9ngzmyfdkhexum6cv9q7sp487ke2hcy5vtalqsqr5kwc"
+  },
+  {
     "id": "terra1vl6vdefwpznm87d8tmcxaqn7mjtqlvyn4a485x6ux54lnusx8eespp0569",
     "asset_ids": [
       "uluna",
@@ -1108,6 +1118,16 @@
     "dex": "Astroport",
     "type": "stable",
     "lp_token_id": "terra163pm4dg77wzedu8wujhdwhlpywy73376ahc6wxjssf022695r8pqahyhzq"
+  },
+  {
+    "id": "terra1psvk2g0066tgf694ksrlycvwt2kxfn4y2p0lduws2v0ee96agtrq0xy3u0",
+    "asset_ids": [
+      "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
+      "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB"
+    ],
+    "dex": "Astroport",
+    "type": "stable",
+    "lp_token_id": "terra1g4jvszkhk0jrlgnsjgmqtrluu7gn6vf8lfqkw4nx0jl93wf4z2vq53laqk"
   },
   {
     "id": "terra1pxm9qtnrchzy90d99clpa0rkx8fyztlc67wt5t999pc8yvsrx90snpfe4v",
