@@ -17,6 +17,7 @@
     "symbol": "ECLIP",
     "decimals": "6",
     "type": "tokenfactory",
+    "circ_supply_api": "https://eclipsepad-api.herokuapp.com/current-circulating-supply",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTBzcjA2cjNxa2huN3h6cHczMzM5d3VqNzdodTA2bXpuYTZ1aHQwL2VjbGlw&pagination.limit=1",
     "icon": "https://i.ibb.co/YDfj90h/ss-1.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/eclipse-fi/",
@@ -33,12 +34,33 @@
     "icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/neutron/factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad.png"
   },
   {
+    "id": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
+    "entity": "Apollo DAO",
+    "name": "Apollo DAO",
+    "symbol": "APOLLO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fneutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e%2FAPOLLO",
+    "icon": "https://app.astroport.fi/tokens/generated/apollo.svg"
+  },
+  {
     "id": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
     "name": "AtomEconomicZone69JaeKwonInu",
     "symbol": "CIRCUS",
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fneutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q%2Fucircus"
+  },
+  {
+    "id": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
+    "entity": "DINOSAUR",
+    "name": "DINOSAUR",
+    "symbol": "DSR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "10500000",
+    "total_supply": "10500000",
+    "icon": "https://i.ibb.co/pd46dng/dinosaur.png"
   },
   {
     "id": "factory/neutron1lg8nydf8nagrrp2f72y5mk9newv2gs6a3mm3cn/GAY",
@@ -59,6 +81,17 @@
     "circ_supply": "21000000",
     "total_supply": "21000000",
     "icon": "https://newt-price.vercel.app/newt-logo.png"
+  },
+  {
+    "id": "factory/neutron1t5qrjtyryh8gzt800qr5vylhh2f8cmx4wmz9mc/ugoddard",
+    "entity": "Goddard",
+    "name": "Goddard",
+    "symbol": "GODRD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "420000000",
+    "total_supply": "420000000",
+    "icon": "https://i.ibb.co/FHbRCbw/goddardntrn.png"
   },
   {
     "id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
@@ -169,6 +202,15 @@
     "type": "ibc"
   },
   {
+    "id": "ibc/7DA39F5140741177846FCF3CFAB14450EE7F57B7794E5A94BEF73825D3741958",
+    "entity": "Wosmo",
+    "name": "WOSMO",
+    "symbol": "WOSMO",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/WOSMO.png"
+  },
+  {
     "id": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
     "name": "Mars",
     "symbol": "MARS",
@@ -186,6 +228,13 @@
     "type": "ibc"
   },
   {
+    "id": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
+    "name": "AUTISM",
+    "symbol": "AUTISM",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
     "entity": "Stride",
     "name": "stATOM",
@@ -195,6 +244,15 @@
     "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
+  },
+  {
+    "id": "ibc/BEF5C9D724E1EBB04FEE237CB5F602B22B0FFE8065F540FD8BC6F9E1A4B8573D",
+    "name": "HUAHUA",
+    "symbol": "HUAHUA",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
+    "coingecko": "https://www.coingecko.com/en/coins/chihuahua-token"
   },
   {
     "id": "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
@@ -252,7 +310,7 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron12h09p8hq5y4xpsmcuxxzsn9juef4f6jvekp8yefc6xnlwm6uumnsdk29wf/smart/eyJ0b2tlbl9pbmZvIjoge319",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/WTF.png"
+    "icon": "https://i.ibb.co/ysNNwrp/wtf.png"
   },
   {
     "id": "neutron12m44vzyhx93uzth0ee875z9rajxdym24fvxzlhfdp0e0kch9ay3q9uphra",
@@ -261,6 +319,15 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron12m44vzyhx93uzth0ee875z9rajxdym24fvxzlhfdp0e0kch9ay3q9uphra/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "neutron12ve9fafr8lj4k3nf6vmz82u3ulmmr80ut697ygq8j0ksudvv0csqfkkh2p",
+    "name": "BENGAL",
+    "symbol": "BENGAL",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron12ve9fafr8lj4k3nf6vmz82u3ulmmr80ut697ygq8j0ksudvv0csqfkkh2p/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/Pw24QSv/bengal.png"
   },
   {
     "id": "neutron149tpx0nequ0cpctw06nk29hwfps0343wvwfh6tkhju3ra7hxvpeq8pvstf",

@@ -6,7 +6,8 @@
     "symbol": "ARCH",
     "decimals": "18",
     "type": "native",
-    "total_supply_api": "https://rest.cosmos.directory/archway/cosmos/bank/v1beta1/supply/aarch",
+    "circ_supply_api": "https://api.lavenderfive.com/coingecko/archway/circulating_supply",
+    "total_supply_api": "https://api.lavenderfive.com/archway/cosmos/bank/v1beta1/supply/aarch",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/archway/",
     "coingecko": "https://www.coingecko.com/en/coins/archway"
@@ -192,10 +193,15 @@
   },
   {
     "id": "ibc/55D94A32095A766971637425D998AAABF8357A1ABCB1CAC8614887BE51BF1FB1",
-    "name": "ANDR",
+    "entity": "Andromeda",
+    "name": "Andromeda",
     "symbol": "ANDR",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply": "22000000",
+    "total_supply": "1000000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png",
+    "coingecko": "https://www.coingecko.com/en/coins/andromeda-2"
   },
   {
     "id": "ibc/6F681B32B47E765AE278844A8A97C8B7AD5A3FB591E37CFDFA0E208EFEBEF97D",
