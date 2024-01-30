@@ -258,6 +258,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/osmo1xpnhhfkg7u2y5tdmlr5c96pn57nqdse4hvjr8g5qdtu8d50x0qhqtta40c/sfyl",
+    "name": "SorryForYourLoss Token",
+    "symbol": "SFYL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXhwbmhoZmtnN3UyeTV0ZG1scjVjOTZwbjU3bnFkc2U0aHZqcjhnNXFkdHU4ZDUweDBxaHF0dGE0MGMvc2Z5bA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1xqw2sl9zk8a6pch0csaw78n4swg5ws8t62wc5qta4gnjxfqg6v2qcs243k/stuibcx",
     "name": "stIBCX Core <Product of ION DAO>",
     "symbol": "stIBCX",
