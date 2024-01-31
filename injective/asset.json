@@ -3917,6 +3917,7 @@
   },
   {
     "id": "ibc/565FE65B82C091F8BAD1379FA1B4560C036C07913355ED4BD8D156DA63F43712",
+    "entity": "DROGO",
     "name": "DROGO",
     "symbol": "DROGO",
     "decimals": "6",
@@ -4041,7 +4042,7 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chihuahua.jpeg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png"
   },
   {
     "id": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
@@ -4415,6 +4416,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13ew774de6d3qhfm3msmhs9j57le9krrw2ezh3a/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj13f6gll3666sa2wnj978lhrvjv2803tu5q8kuqd",
+    "name": "jim",
+    "symbol": "jim",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13f6gll3666sa2wnj978lhrvjv2803tu5q8kuqd/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj13fnjq02hwxejdm584v9qhrh66mt4l3j8l3yh6f",
@@ -5599,6 +5608,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1efjaf4yuz5ehncz0atjxvrmal7eeschauma26q/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1ehnt0lcek8wdf0xj7y5mmz7nzr8j7ytjgk6l7g",
+    "name": "goldtest10",
+    "symbol": "gto",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ehnt0lcek8wdf0xj7y5mmz7nzr8j7ytjgk6l7g/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1ele6z2tg7cglx2ul2ss94crc60wt70uec8rs9m",
     "name": "OSMO",
     "symbol": "OSMO",
@@ -6487,6 +6504,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1mnzwm6fvkruendv8r63vzlw72yv7fvtngkkzs9/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1mpande8tekavagemc998amgkqr5yte0qdvaaah",
+    "name": "cumslice",
+    "symbol": "ccsl",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1mpande8tekavagemc998amgkqr5yte0qdvaaah/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1mrltq7kh35xjkdzvul9ky077khsa5qatc0ylxj",
