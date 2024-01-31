@@ -182,6 +182,14 @@
     "icon": "https://raw.githubusercontent.com/White-Whale-Defi-Platform/white-whale-frontend/a74f4fbce2aa6af8ac9c384a104c90d2ecfa6c9e/public/logos/sail.png"
   },
   {
+    "id": "factory/osmo1rkajce9wr99hlagzeuc689zyvnjemrums3qwgd93r62qygtkzk8slgytza/stare",
+    "name": "Stare at the Sun",
+    "symbol": "STARE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXJrYWpjZTl3cjk5aGxhZ3pldWM2ODl6eXZuamVtcnVtczNxd2dkOTNyNjJxeWd0a3prOHNsZ3l0emEvc3RhcmU%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1rt94tf24fm42qpnqvjm5tsr2t5k2rgtl0m0ykf4r5wm03czcysysce0k3z/tst",
     "name": "Test Dao Token",
     "symbol": "TST",
@@ -212,6 +220,14 @@
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/MBRN.svg",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "factory/osmo1smz59tke7xtpmjwppkp7ekqxhancf28lqjnrpvy8m9fwdatven9stl4xlz/stare",
+    "name": "Stare at the Sun",
+    "symbol": "STARE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXNtejU5dGtlN3h0cG1qd3Bwa3A3ZWtxeGhhbmNmMjhscWpucnB2eThtOWZ3ZGF0dmVuOXN0bDR4bHovc3RhcmU%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo1ty695n07an8gcnne2cqs6qmlhkvuzhznvpdw68jst6n26d24zm8s6wa92r/cbg",
