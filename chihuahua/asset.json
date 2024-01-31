@@ -56,6 +56,741 @@
     "total_supply_api": "https://api.chihuahua.wtf/cosmwasm/wasm/v1/contract/chihuahua1yl8z39ugle8s02fpwkhh293509q5xcpalmdzc4amvchz8nkexrmsy95gef/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "factory/chihuahua10c2ayqcmj43rssyny2qzf33acmdvwrfl37rf2n/PitBull",
+    "name": "MewMew",
+    "symbol": "MewMew",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10jn6u0tasjkjgzrxkvxj8v83kkekaqketkehjp/GOLDY",
+    "name": "GOL",
+    "symbol": "GOL",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/degen",
+    "name": "degen",
+    "symbol": "degen",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/Degen",
+    "name": "Degen",
+    "symbol": "Degen",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/DEGEN",
+    "name": "DEGEN",
+    "symbol": "DEGEN",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/MagicInternetMoney",
+    "name": "MIM",
+    "symbol": "MIM",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/NGMI",
+    "name": "NGMI",
+    "symbol": "NGMI",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/pleb",
+    "name": "PLEB",
+    "symbol": "PLEB",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/Pleb",
+    "name": "PLEB",
+    "symbol": "PLEB",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/PLEB",
+    "name": "PLEB",
+    "symbol": "PLEB",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/trash",
+    "name": "trash",
+    "symbol": "trash",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/TRASH",
+    "name": "TRASH",
+    "symbol": "TRASH",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/wagmi",
+    "name": "WAGMI",
+    "symbol": "WAGMI",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/WAGMI",
+    "name": "WAGMI",
+    "symbol": "WAGMI",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua120kcsxkqcpega3uaajszas4lg2vmeagtcnfhma/TUNA",
+    "name": "TUNA",
+    "symbol": "TUNA",
+    "decimals": "1",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua123r23u8fsg20n62vdn7yeu4lewd72dntg9za64/BTChuahua",
+    "name": "btc001",
+    "symbol": "btc001",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua12klq3fa4k3lam2pw0ss6x3ux3l6lgd6zfwgfgr/CUNT",
+    "name": "CUNT",
+    "symbol": "CUNT",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua12xqh54x0g58hskrktwwdaycylnglc2srrfd8v8/HOT",
+    "name": "HOT",
+    "symbol": "HOT",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua133g0re55dzpvd9we80t2zpk2jfntgvn7p7tf7v/MOON",
+    "name": "MOON",
+    "symbol": "MOON",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua133vndxa3ejdjh7utrkmaterq4hfcng0hjfkr7a/monkey",
+    "name": "MKM",
+    "symbol": "MKM",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/ubdog",
+    "name": "BDOG",
+    "symbol": "BDOG",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/ucorso",
+    "name": "CORSO",
+    "symbol": "CORSO",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/utacos",
+    "name": "TACOS",
+    "symbol": "TACOS",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/uweed",
+    "name": "WEED",
+    "symbol": "WEED",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/uwoof",
+    "name": "WOOF",
+    "symbol": "WOOF",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua13n3edsw7kde8flaa78ejsd58f8agn066wzpe4r/PUG",
+    "name": "PUG",
+    "symbol": "PUG",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua14p5zgk8muuk486ghdh9jg8p0a8xgvzhh393mw4/jackass",
+    "name": "JKS",
+    "symbol": "JKS",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua167vm66zdstqy6uc8lx9kmn0k8z0q6rhgmck073/bloop",
+    "name": "BLOOP",
+    "symbol": "BLOOP",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua16eh8fp3y8z2w0ftx9srkatavcte5rynwwksm3r/fakemoney",
+    "name": "FAKEMONEY",
+    "symbol": "FAKEMONEY",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/Spitz",
+    "name": "spitz",
+    "symbol": "spitz",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua17xfpkp90waa9e3743gye6e0kemxr720exxtjj9/NOOB",
+    "name": "NOOB",
+    "symbol": "NOOB",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua17xfpkp90waa9e3743gye6e0kemxr720exxtjj9/trader",
+    "name": "TRADER",
+    "symbol": "TRADER",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua17xfpkp90waa9e3743gye6e0kemxr720exxtjj9/TRADING",
+    "name": "TRADING",
+    "symbol": "TRADING",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua183k8dy36skkpeknunrtfz86790wj7vpzn5gk5k/Shroom",
+    "name": "SHROOM",
+    "symbol": "SHROOM",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua187j9grm4lqjwcw6k8v6q7n78k5rfquy72ypwwu/Snuffles",
+    "name": "SNUFF",
+    "symbol": "SNUFF",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua18d4mfwawt4lkd5y4uk9gt3caxqf2svcy24k7rd/LuLz",
+    "name": "LULZ",
+    "symbol": "LULZ",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua18d7jpa5q6we96gluuc767cacxzgq92xqw8yy4k/GOKU",
+    "name": "GOKU",
+    "symbol": "GOKU",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua18p9r2jkgc3gyf2nhafqve4wcwrury4rr5l99jl/CosmoPup",
+    "name": "PUP",
+    "symbol": "PUP",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua19pnlpv79e4l8z07tm5jdxa4hrdnug2vqjlycdh/SPZWOOF",
+    "name": "SPZWOOF",
+    "symbol": "SPZWOOF",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua19z6pmhh34vu08d4d4qt2sen8dg4ja6ulyg209j/LAIKA",
+    "name": "LAIKA",
+    "symbol": "LAIKA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1cm8u5cyrf0k6mlt5dhqlsnje7wr58k5uyx29h2/MRC8",
+    "name": "MRC8",
+    "symbol": "MRC8",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1cy0ef2saehdhx84mvvzf4am95x72zt4kejzmdn/Bagabond",
+    "name": "BAGA",
+    "symbol": "BAGA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1d9gr9xt04lm9varjazhaqm90pg2xfwh7lpngzn/Darkod73",
+    "name": "DD73",
+    "symbol": "DD73",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1fdfgyjjdx2xffzctjzgmvpp5spakj8gq2fa8an/beanie",
+    "name": "BEANIE",
+    "symbol": "BEANIE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1he5parj9j4sp5e9tjdycugvcg3zqzpmhaly6hz/TNDR",
+    "name": "TNDR",
+    "symbol": "TNDR",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1hk4cwg8wv02ter5ehszy9l6jqmqhmsdtrc3qmt/Auhauhihc",
+    "name": "AUHAUH",
+    "symbol": "AUHAUH",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1hk4cwg8wv02ter5ehszy9l6jqmqhmsdtrc3qmt/Gidget",
+    "name": "GIDGET",
+    "symbol": "GIDGET",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1hvl5h5quw833x328wl4f7dgpyu6ttu98zx326m/piza",
+    "name": "piza",
+    "symbol": "piza",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1jshrvktsme0vh5z8kx6d8hgp7kp62zpxh3t2ld/AUHAUH",
+    "name": "AUHAUH",
+    "symbol": "AUHAUH",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1jshrvktsme0vh5z8kx6d8hgp7kp62zpxh3t2ld/TEST2",
+    "name": "test2",
+    "symbol": "test2",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1jshrvktsme0vh5z8kx6d8hgp7kp62zpxh3t2ld/Testing",
+    "name": "TESTTEST",
+    "symbol": "TESTTEST",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1k09afxhedzgrkn60rrnpa0u66yv3vz7yx580zq/Solotrance",
+    "name": "SOLOTRANCE",
+    "symbol": "SOLOTRANCE",
+    "decimals": "4",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1kevhl78wsaddl8tw63a05ptlaq9x5glgjda00d/Clone",
+    "name": "CLONE",
+    "symbol": "CLONE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1l7a5037tzzepvfa3yuhfvny9h7d4w5uujfrakl/ElonMusk",
+    "name": "ElonMusk",
+    "symbol": "ElonMusk",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mxtepzwtdtvq3agfzwk960g5ypkfex34ukcv53/Bark",
+    "name": "Bark",
+    "symbol": "Bark",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mxtepzwtdtvq3agfzwk960g5ypkfex34ukcv53/Goodboy",
+    "name": "goodboy",
+    "symbol": "goodboy",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/123",
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/APE",
+    "name": "APE",
+    "symbol": "APE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/BIRD",
+    "name": "BIRD",
+    "symbol": "BIRD",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/COIN",
+    "name": "COIN",
+    "symbol": "COIN",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/COSMOS",
+    "name": "COSMOS",
+    "symbol": "COSMOS",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/DOGE",
+    "name": "DOGE",
+    "symbol": "DOGE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/DRAGON",
+    "name": "DRAGON",
+    "symbol": "DRAGON",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/ELON",
+    "name": "ELON",
+    "symbol": "ELON",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/FOOTBALL",
+    "name": "FOOTBALL",
+    "symbol": "FOOTBALL",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/HUAHUA",
+    "name": "HUAHUA",
+    "symbol": "HUAHUA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/HUAPE",
+    "name": "HUAPE",
+    "symbol": "HUAPE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/IBC",
+    "name": "IBC",
+    "symbol": "IBC",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/LOTTERY",
+    "name": "LOTTERY",
+    "symbol": "LOTTERY",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/LOVE",
+    "name": "LOVE",
+    "symbol": "LOVE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/MEME",
+    "name": "MEME",
+    "symbol": "MEME",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/METAHUA",
+    "name": "META",
+    "symbol": "META",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/MONEY",
+    "name": "MONEY",
+    "symbol": "MONEY",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/NFT",
+    "name": "NFT",
+    "symbol": "NFT",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/PEPE",
+    "name": "PEPE",
+    "symbol": "PEPE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/QUAQUA",
+    "name": "QUAQUA",
+    "symbol": "QUAQUA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/SHIBA",
+    "name": "INU",
+    "symbol": "INU",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Skibidi",
+    "name": "SKIBIDI",
+    "symbol": "SKIBIDI",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/WTF",
+    "name": "WTF",
+    "symbol": "WTF",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1nw97tyt5eslcsexev2wk5x9fqnth92tvf0fajz/SkeletonNanorobot",
+    "name": "Android",
+    "symbol": "Android",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1nw97tyt5eslcsexev2wk5x9fqnth92tvf0fajz/SkeletonNanorobots",
+    "name": "ANDROID",
+    "symbol": "ANDROID",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1p6p0wwcgxj9alaj27f2ggzp7zsx307slkxzqr6/Culture",
+    "name": "CULTURE",
+    "symbol": "CULTURE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1p6p0wwcgxj9alaj27f2ggzp7zsx307slkxzqr6/DAD",
+    "name": "DAD",
+    "symbol": "DAD",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1pk2gla36u5k32729u3djayhzcds86e3zr2ahmt/SNOOPY",
+    "name": "SNOOPY",
+    "symbol": "SNOOPY",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1pyvny8ac6dvgv7qctr7nszqaqen0ssklgfe6hd/DRIP",
+    "name": "DRIP",
+    "symbol": "DRIP",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1r0kjmzt82luzj9gzs3f7dc06q2f0qyz25upm7m/PEPE",
+    "name": "PEPE",
+    "symbol": "PEPE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1rysg83j95sqjm3z22qhtgy7arey3uqcftzqk67/KidsCoin",
+    "name": "KSC",
+    "symbol": "KSC",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1s2g5htmz2wtmtpfxhk78hfvrxxwhmcw99n9j29/CHUCHO",
+    "name": "CHUCHO",
+    "symbol": "CHUCHO",
+    "decimals": "8",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1s2g5htmz2wtmtpfxhk78hfvrxxwhmcw99n9j29/TUUUSO",
+    "name": "TUUUSO",
+    "symbol": "TUUUSO",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1skeqnjwmjpv50n5lak2kzj6ujz59gu4m7z545j/LeonoorsMoonshot",
+    "name": "LeoMoon",
+    "symbol": "LeoMoon",
+    "decimals": "1",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1smplrfe4pvehqzkl9qt92rehl5f8jd6lspjqyw/BOIS",
+    "name": "BOIS",
+    "symbol": "BOIS",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1t6swct3zgd5wkrlnv480mv667jt9frjfjzxh90/Digit",
+    "name": "DIGIT",
+    "symbol": "DIGIT",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1tjajx9c75kguhdl65masvyfrm8z2d48tgwcysv/PetRock",
+    "name": "PETROCK",
+    "symbol": "PETROCK",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1v7n9zcjdehlqexfpjuajatvjc4hq59svnknc7w/MaxDoge",
+    "name": "MXDOGE",
+    "symbol": "MXDOGE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1w5efszz4nz72ke340sq0h6gf2zfmhu8jan7fw0/Oktofalk.finance",
+    "name": "OKTO",
+    "symbol": "OKTO",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1w72jgsk2s90hnyhwus64cjmqz3rdspq3vtk03q/III",
+    "name": "III",
+    "symbol": "III",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1w72jgsk2s90hnyhwus64cjmqz3rdspq3vtk03q/Meow",
+    "name": "MEOW",
+    "symbol": "MEOW",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1whusey8z9vtv8wcqeu9e8njhancxlptfacfa80/KODA",
+    "name": "KODA",
+    "symbol": "KODA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1wkr3k57jqz4tg89uzknqtc5a539dcgjkknpgka/Bulldog",
+    "name": "Bull",
+    "symbol": "Bull",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1wtcp7m7589vdmsse30rsrlt357dwy0qyl3ykk6/PDG",
+    "name": "PDG",
+    "symbol": "PDG",
+    "decimals": "1",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1x4q2vkrz4dfgd9hcw0p5m2f2nuv2uqmt9xr8k2/achihuahuawifhat",
+    "name": "BADDOG",
+    "symbol": "BADDOG",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1xvp68gtr03v6yd8j4lrr8sj5p54y49exqhnrfk/BOND",
+    "name": "BOND",
+    "symbol": "BOND",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1y7zfelflwnm9aaldd9xp5x4p8azn8vdd9hrsh3/Maximus",
+    "name": "MAXIMUS",
+    "symbol": "MAXIMUS",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1z6g0xj6y5mmhqjtks9wttltr80zc5vn226l7ge/KATANA",
+    "name": "KTNA",
+    "symbol": "KTNA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/chihuahua1z6g0xj6y5mmhqjtks9wttltr80zc5vn226l7ge/littleSamORAI",
+    "name": "littleSamORAI",
+    "symbol": "littleSamORAI",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
     "name": "ampWHALE",
     "symbol": "ampWHALE",
