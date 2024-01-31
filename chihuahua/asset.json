@@ -1,0 +1,974 @@
+[
+  {
+    "id": "chihuahua1077rtmdp5dd5xr83hqx3m9r4gepzp0xj0q9e2rl2c7e92qtcewzqf6gdaz",
+    "name": "bDOG Token",
+    "symbol": "BDOG",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmwasm/wasm/v1/contract/chihuahua1077rtmdp5dd5xr83hqx3m9r4gepzp0xj0q9e2rl2c7e92qtcewzqf6gdaz/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "chihuahua10qe2wuwcjcavg2waazmjlekhmsh4m9g7l3dtmu9vaxylla6697tszmp0c0",
+    "name": "gDOG Token",
+    "symbol": "GDOG",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmwasm/wasm/v1/contract/chihuahua10qe2wuwcjcavg2waazmjlekhmsh4m9g7l3dtmu9vaxylla6697tszmp0c0/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "chihuahua1jz5n4aynhpxx7clf2m8hrv9dp5nz83k67fgaxhy4p9dfwl6zssrq3ymr6w",
+    "name": "bHUAHUA Token",
+    "symbol": "bHUAHUA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmwasm/wasm/v1/contract/chihuahua1jz5n4aynhpxx7clf2m8hrv9dp5nz83k67fgaxhy4p9dfwl6zssrq3ymr6w/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "chihuahua1se7z0mx6rs84zvd89c7v9lf7kum90y2hsevhht2c3pdww35n2m6sm5gg9x",
+    "name": "TREATZ",
+    "symbol": "TRTZ",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmwasm/wasm/v1/contract/chihuahua1se7z0mx6rs84zvd89c7v9lf7kum90y2hsevhht2c3pdww35n2m6sm5gg9x/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "chihuahua1xu6hgwy3rayh4e8s43nhz5x9js9gd20fsl8zpem67mkynyl5hs6qsxar2d",
+    "name": "Eris Amplified HUAHUA",
+    "symbol": "ampHUAHUA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmwasm/wasm/v1/contract/chihuahua1xu6hgwy3rayh4e8s43nhz5x9js9gd20fsl8zpem67mkynyl5hs6qsxar2d/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "chihuahua1y5tm6vstar43r65umu7tvv9lyxncfnlyyxyhzqq4pxqfq9uwz8xqakjg6v",
+    "name": "Ash Token",
+    "symbol": "ASH",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmwasm/wasm/v1/contract/chihuahua1y5tm6vstar43r65umu7tvv9lyxncfnlyyxyhzqq4pxqfq9uwz8xqakjg6v/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "chihuahua1yl8z39ugle8s02fpwkhh293509q5xcpalmdzc4amvchz8nkexrmsy95gef",
+    "name": "PuppyHUAHUA",
+    "symbol": "PUPPY",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmwasm/wasm/v1/contract/chihuahua1yl8z39ugle8s02fpwkhh293509q5xcpalmdzc4amvchz8nkexrmsy95gef/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "factory/chihuahua10c2ayqcmj43rssyny2qzf33acmdvwrfl37rf2n/PitBull",
+    "name": "MewMew",
+    "symbol": "MewMew",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMGMyYXlxY21qNDNyc3N5bnkycXpmMzNhY21kdndyZmwzN3JmMm4vUGl0QnVsbA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10jn6u0tasjkjgzrxkvxj8v83kkekaqketkehjp/GOLDY",
+    "name": "GOL",
+    "symbol": "GOL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMGpuNnUwdGFzamtqZ3pyeGt2eGo4djgza2tla2Fxa2V0a2VoanAvR09MRFk%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/degen",
+    "name": "degen",
+    "symbol": "degen",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvZGVnZW4%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/Degen",
+    "name": "Degen",
+    "symbol": "Degen",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvRGVnZW4%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/DEGEN",
+    "name": "DEGEN",
+    "symbol": "DEGEN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvREVHRU4%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/MagicInternetMoney",
+    "name": "MIM",
+    "symbol": "MIM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvTWFnaWNJbnRlcm5ldE1vbmV5&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/NGMI",
+    "name": "NGMI",
+    "symbol": "NGMI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvTkdNSQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/pleb",
+    "name": "PLEB",
+    "symbol": "PLEB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvcGxlYg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/Pleb",
+    "name": "PLEB",
+    "symbol": "PLEB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvUGxlYg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/PLEB",
+    "name": "PLEB",
+    "symbol": "PLEB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvUExFQg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/trash",
+    "name": "trash",
+    "symbol": "trash",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvdHJhc2g%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/TRASH",
+    "name": "TRASH",
+    "symbol": "TRASH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvVFJBU0g%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/wagmi",
+    "name": "WAGMI",
+    "symbol": "WAGMI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvd2FnbWk%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua10ycs65n46kmym52usegjcxn6mv233ezvv9hnzy/WAGMI",
+    "name": "WAGMI",
+    "symbol": "WAGMI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMHljczY1bjQ2a215bTUydXNlZ2pjeG42bXYyMzNlenZ2OWhuenkvV0FHTUk%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua120kcsxkqcpega3uaajszas4lg2vmeagtcnfhma/TUNA",
+    "name": "TUNA",
+    "symbol": "TUNA",
+    "decimals": "1",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMjBrY3N4a3FjcGVnYTN1YWFqc3phczRsZzJ2bWVhZ3RjbmZobWEvVFVOQQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua123r23u8fsg20n62vdn7yeu4lewd72dntg9za64/BTChuahua",
+    "name": "btc001",
+    "symbol": "btc001",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMjNyMjN1OGZzZzIwbjYydmRuN3lldTRsZXdkNzJkbnRnOXphNjQvQlRDaHVhaHVh&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua12klq3fa4k3lam2pw0ss6x3ux3l6lgd6zfwgfgr/CUNT",
+    "name": "CUNT",
+    "symbol": "CUNT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMmtscTNmYTRrM2xhbTJwdzBzczZ4M3V4M2w2bGdkNnpmd2dmZ3IvQ1VOVA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua12xqh54x0g58hskrktwwdaycylnglc2srrfd8v8/HOT",
+    "name": "HOT",
+    "symbol": "HOT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMnhxaDU0eDBnNThoc2tya3R3d2RheWN5bG5nbGMyc3JyZmQ4djgvSE9U&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua133g0re55dzpvd9we80t2zpk2jfntgvn7p7tf7v/MOON",
+    "name": "MOON",
+    "symbol": "MOON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMzNnMHJlNTVkenB2ZDl3ZTgwdDJ6cGsyamZudGd2bjdwN3RmN3YvTU9PTg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua133vndxa3ejdjh7utrkmaterq4hfcng0hjfkr7a/monkey",
+    "name": "MKM",
+    "symbol": "MKM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExMzN2bmR4YTNlamRqaDd1dHJrbWF0ZXJxNGhmY25nMGhqZmtyN2EvbW9ua2V5&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/ubdog",
+    "name": "BDOG",
+    "symbol": "BDOG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdWJkb2c%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/ucorso",
+    "name": "CORSO",
+    "symbol": "CORSO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdWNvcnNv&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/utacos",
+    "name": "TACOS",
+    "symbol": "TACOS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXRhY29z&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/uweed",
+    "name": "WEED",
+    "symbol": "WEED",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXdlZWQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/uwoof",
+    "name": "WOOF",
+    "symbol": "WOOF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXdvb2Y%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua13n3edsw7kde8flaa78ejsd58f8agn066wzpe4r/PUG",
+    "name": "PUG",
+    "symbol": "PUG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM24zZWRzdzdrZGU4ZmxhYTc4ZWpzZDU4ZjhhZ24wNjZ3enBlNHIvUFVH&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua14p5zgk8muuk486ghdh9jg8p0a8xgvzhh393mw4/jackass",
+    "name": "JKS",
+    "symbol": "JKS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExNHA1emdrOG11dWs0ODZnaGRoOWpnOHAwYTh4Z3Z6aGgzOTNtdzQvamFja2Fzcw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua167vm66zdstqy6uc8lx9kmn0k8z0q6rhgmck073/bloop",
+    "name": "BLOOP",
+    "symbol": "BLOOP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExNjd2bTY2emRzdHF5NnVjOGx4OWttbjBrOHowcTZyaGdtY2swNzMvYmxvb3A%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua16eh8fp3y8z2w0ftx9srkatavcte5rynwwksm3r/fakemoney",
+    "name": "FAKEMONEY",
+    "symbol": "FAKEMONEY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExNmVoOGZwM3k4ejJ3MGZ0eDlzcmthdGF2Y3RlNXJ5bnd3a3NtM3IvZmFrZW1vbmV5&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/Spitz",
+    "name": "spitz",
+    "symbol": "spitz",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExN2RncDZyZjd3bGh5YXh0aDBqMjBoMzN6ZHY2bnFhdDh4ZmV6dnkvU3BpdHo%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua17xfpkp90waa9e3743gye6e0kemxr720exxtjj9/NOOB",
+    "name": "NOOB",
+    "symbol": "NOOB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExN3hmcGtwOTB3YWE5ZTM3NDNneWU2ZTBrZW14cjcyMGV4eHRqajkvTk9PQg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua17xfpkp90waa9e3743gye6e0kemxr720exxtjj9/trader",
+    "name": "TRADER",
+    "symbol": "TRADER",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExN3hmcGtwOTB3YWE5ZTM3NDNneWU2ZTBrZW14cjcyMGV4eHRqajkvdHJhZGVy&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua17xfpkp90waa9e3743gye6e0kemxr720exxtjj9/TRADING",
+    "name": "TRADING",
+    "symbol": "TRADING",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExN3hmcGtwOTB3YWE5ZTM3NDNneWU2ZTBrZW14cjcyMGV4eHRqajkvVFJBRElORw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua183k8dy36skkpeknunrtfz86790wj7vpzn5gk5k/Shroom",
+    "name": "SHROOM",
+    "symbol": "SHROOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExODNrOGR5MzZza2twZWtudW5ydGZ6ODY3OTB3ajd2cHpuNWdrNWsvU2hyb29t&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua187j9grm4lqjwcw6k8v6q7n78k5rfquy72ypwwu/Snuffles",
+    "name": "SNUFF",
+    "symbol": "SNUFF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExODdqOWdybTRscWp3Y3c2azh2NnE3bjc4azVyZnF1eTcyeXB3d3UvU251ZmZsZXM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua18d4mfwawt4lkd5y4uk9gt3caxqf2svcy24k7rd/LuLz",
+    "name": "LULZ",
+    "symbol": "LULZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExOGQ0bWZ3YXd0NGxrZDV5NHVrOWd0M2NheHFmMnN2Y3kyNGs3cmQvTHVMeg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua18d7jpa5q6we96gluuc767cacxzgq92xqw8yy4k/GOKU",
+    "name": "GOKU",
+    "symbol": "GOKU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExOGQ3anBhNXE2d2U5NmdsdXVjNzY3Y2FjeHpncTkyeHF3OHl5NGsvR09LVQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua18p9r2jkgc3gyf2nhafqve4wcwrury4rr5l99jl/CosmoPup",
+    "name": "PUP",
+    "symbol": "PUP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExOHA5cjJqa2djM2d5ZjJuaGFmcXZlNHdjd3J1cnk0cnI1bDk5amwvQ29zbW9QdXA%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua19pnlpv79e4l8z07tm5jdxa4hrdnug2vqjlycdh/SPZWOOF",
+    "name": "SPZWOOF",
+    "symbol": "SPZWOOF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExOXBubHB2NzllNGw4ejA3dG01amR4YTRocmRudWcydnFqbHljZGgvU1BaV09PRg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua19z6pmhh34vu08d4d4qt2sen8dg4ja6ulyg209j/LAIKA",
+    "name": "LAIKA",
+    "symbol": "LAIKA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExOXo2cG1oaDM0dnUwOGQ0ZDRxdDJzZW44ZGc0amE2dWx5ZzIwOWovTEFJS0E%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1cm8u5cyrf0k6mlt5dhqlsnje7wr58k5uyx29h2/MRC8",
+    "name": "MRC8",
+    "symbol": "MRC8",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExY204dTVjeXJmMGs2bWx0NWRocWxzbmplN3dyNThrNXV5eDI5aDIvTVJDOA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1cy0ef2saehdhx84mvvzf4am95x72zt4kejzmdn/Bagabond",
+    "name": "BAGA",
+    "symbol": "BAGA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExY3kwZWYyc2FlaGRoeDg0bXZ2emY0YW05NXg3Mnp0NGtlanptZG4vQmFnYWJvbmQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1d9gr9xt04lm9varjazhaqm90pg2xfwh7lpngzn/Darkod73",
+    "name": "DD73",
+    "symbol": "DD73",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExZDlncjl4dDA0bG05dmFyamF6aGFxbTkwcGcyeGZ3aDdscG5nem4vRGFya29kNzM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1fdfgyjjdx2xffzctjzgmvpp5spakj8gq2fa8an/beanie",
+    "name": "BEANIE",
+    "symbol": "BEANIE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExZmRmZ3lqamR4MnhmZnpjdGp6Z212cHA1c3Bha2o4Z3EyZmE4YW4vYmVhbmll&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1he5parj9j4sp5e9tjdycugvcg3zqzpmhaly6hz/TNDR",
+    "name": "TNDR",
+    "symbol": "TNDR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExaGU1cGFyajlqNHNwNWU5dGpkeWN1Z3ZjZzN6cXpwbWhhbHk2aHovVE5EUg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1hk4cwg8wv02ter5ehszy9l6jqmqhmsdtrc3qmt/Auhauhihc",
+    "name": "AUHAUH",
+    "symbol": "AUHAUH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExaGs0Y3dnOHd2MDJ0ZXI1ZWhzenk5bDZqcW1xaG1zZHRyYzNxbXQvQXVoYXVoaWhj&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1hk4cwg8wv02ter5ehszy9l6jqmqhmsdtrc3qmt/Gidget",
+    "name": "GIDGET",
+    "symbol": "GIDGET",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExaGs0Y3dnOHd2MDJ0ZXI1ZWhzenk5bDZqcW1xaG1zZHRyYzNxbXQvR2lkZ2V0&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1hvl5h5quw833x328wl4f7dgpyu6ttu98zx326m/piza",
+    "name": "piza",
+    "symbol": "piza",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExaHZsNWg1cXV3ODMzeDMyOHdsNGY3ZGdweXU2dHR1OTh6eDMyNm0vcGl6YQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1jshrvktsme0vh5z8kx6d8hgp7kp62zpxh3t2ld/AUHAUH",
+    "name": "AUHAUH",
+    "symbol": "AUHAUH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExanNocnZrdHNtZTB2aDV6OGt4NmQ4aGdwN2twNjJ6cHhoM3QybGQvQVVIQVVI&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1jshrvktsme0vh5z8kx6d8hgp7kp62zpxh3t2ld/TEST2",
+    "name": "test2",
+    "symbol": "test2",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExanNocnZrdHNtZTB2aDV6OGt4NmQ4aGdwN2twNjJ6cHhoM3QybGQvVEVTVDI%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1jshrvktsme0vh5z8kx6d8hgp7kp62zpxh3t2ld/Testing",
+    "name": "TESTTEST",
+    "symbol": "TESTTEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExanNocnZrdHNtZTB2aDV6OGt4NmQ4aGdwN2twNjJ6cHhoM3QybGQvVGVzdGluZw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1k09afxhedzgrkn60rrnpa0u66yv3vz7yx580zq/Solotrance",
+    "name": "SOLOTRANCE",
+    "symbol": "SOLOTRANCE",
+    "decimals": "4",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExazA5YWZ4aGVkemdya242MHJybnBhMHU2Nnl2M3Z6N3l4NTgwenEvU29sb3RyYW5jZQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1kevhl78wsaddl8tw63a05ptlaq9x5glgjda00d/Clone",
+    "name": "CLONE",
+    "symbol": "CLONE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExa2V2aGw3OHdzYWRkbDh0dzYzYTA1cHRsYXE5eDVnbGdqZGEwMGQvQ2xvbmU%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1l7a5037tzzepvfa3yuhfvny9h7d4w5uujfrakl/ElonMusk",
+    "name": "ElonMusk",
+    "symbol": "ElonMusk",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbDdhNTAzN3R6emVwdmZhM3l1aGZ2bnk5aDdkNHc1dXVqZnJha2wvRWxvbk11c2s%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mxtepzwtdtvq3agfzwk960g5ypkfex34ukcv53/Bark",
+    "name": "Bark",
+    "symbol": "Bark",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXh0ZXB6d3RkdHZxM2FnZnp3azk2MGc1eXBrZmV4MzR1a2N2NTMvQmFyaw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mxtepzwtdtvq3agfzwk960g5ypkfex34ukcv53/Goodboy",
+    "name": "goodboy",
+    "symbol": "goodboy",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXh0ZXB6d3RkdHZxM2FnZnp3azk2MGc1eXBrZmV4MzR1a2N2NTMvR29vZGJveQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/123",
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvMTIz&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/APE",
+    "name": "APE",
+    "symbol": "APE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvQVBF&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/BIRD",
+    "name": "BIRD",
+    "symbol": "BIRD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvQklSRA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/COIN",
+    "name": "COIN",
+    "symbol": "COIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvQ09JTg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/COSMOS",
+    "name": "COSMOS",
+    "symbol": "COSMOS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvQ09TTU9T&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/DOGE",
+    "name": "DOGE",
+    "symbol": "DOGE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvRE9HRQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/DRAGON",
+    "name": "DRAGON",
+    "symbol": "DRAGON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvRFJBR09O&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/ELON",
+    "name": "ELON",
+    "symbol": "ELON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvRUxPTg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/FOOTBALL",
+    "name": "FOOTBALL",
+    "symbol": "FOOTBALL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvRk9PVEJBTEw%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/HUAHUA",
+    "name": "HUAHUA",
+    "symbol": "HUAHUA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvSFVBSFVB&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/HUAPE",
+    "name": "HUAPE",
+    "symbol": "HUAPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvSFVBUEU%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/IBC",
+    "name": "IBC",
+    "symbol": "IBC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvSUJD&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/LOTTERY",
+    "name": "LOTTERY",
+    "symbol": "LOTTERY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvTE9UVEVSWQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/LOVE",
+    "name": "LOVE",
+    "symbol": "LOVE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvTE9WRQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/MEME",
+    "name": "MEME",
+    "symbol": "MEME",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvTUVNRQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/METAHUA",
+    "name": "META",
+    "symbol": "META",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvTUVUQUhVQQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/MONEY",
+    "name": "MONEY",
+    "symbol": "MONEY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvTU9ORVk%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/NFT",
+    "name": "NFT",
+    "symbol": "NFT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvTkZU&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/PEPE",
+    "name": "PEPE",
+    "symbol": "PEPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvUEVQRQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/QUAQUA",
+    "name": "QUAQUA",
+    "symbol": "QUAQUA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvUVVBUVVB&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/SHIBA",
+    "name": "INU",
+    "symbol": "INU",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvU0hJQkE%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Skibidi",
+    "name": "SKIBIDI",
+    "symbol": "SKIBIDI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvU2tpYmlkaQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/WTF",
+    "name": "WTF",
+    "symbol": "WTF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvV1RG&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1nw97tyt5eslcsexev2wk5x9fqnth92tvf0fajz/SkeletonNanorobot",
+    "name": "Android",
+    "symbol": "Android",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbnc5N3R5dDVlc2xjc2V4ZXYyd2s1eDlmcW50aDkydHZmMGZhanovU2tlbGV0b25OYW5vcm9ib3Q%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1nw97tyt5eslcsexev2wk5x9fqnth92tvf0fajz/SkeletonNanorobots",
+    "name": "ANDROID",
+    "symbol": "ANDROID",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbnc5N3R5dDVlc2xjc2V4ZXYyd2s1eDlmcW50aDkydHZmMGZhanovU2tlbGV0b25OYW5vcm9ib3Rz&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1p6p0wwcgxj9alaj27f2ggzp7zsx307slkxzqr6/Culture",
+    "name": "CULTURE",
+    "symbol": "CULTURE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExcDZwMHd3Y2d4ajlhbGFqMjdmMmdnenA3enN4MzA3c2xreHpxcjYvQ3VsdHVyZQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1p6p0wwcgxj9alaj27f2ggzp7zsx307slkxzqr6/DAD",
+    "name": "DAD",
+    "symbol": "DAD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExcDZwMHd3Y2d4ajlhbGFqMjdmMmdnenA3enN4MzA3c2xreHpxcjYvREFE&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1pk2gla36u5k32729u3djayhzcds86e3zr2ahmt/SNOOPY",
+    "name": "SNOOPY",
+    "symbol": "SNOOPY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExcGsyZ2xhMzZ1NWszMjcyOXUzZGpheWh6Y2RzODZlM3pyMmFobXQvU05PT1BZ&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1pyvny8ac6dvgv7qctr7nszqaqen0ssklgfe6hd/DRIP",
+    "name": "DRIP",
+    "symbol": "DRIP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExcHl2bnk4YWM2ZHZndjdxY3RyN25zenFhcWVuMHNza2xnZmU2aGQvRFJJUA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1r0kjmzt82luzj9gzs3f7dc06q2f0qyz25upm7m/PEPE",
+    "name": "PEPE",
+    "symbol": "PEPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExcjBram16dDgybHV6ajlnenMzZjdkYzA2cTJmMHF5ejI1dXBtN20vUEVQRQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1rysg83j95sqjm3z22qhtgy7arey3uqcftzqk67/KidsCoin",
+    "name": "KSC",
+    "symbol": "KSC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExcnlzZzgzajk1c3FqbTN6MjJxaHRneTdhcmV5M3VxY2Z0enFrNjcvS2lkc0NvaW4%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1s2g5htmz2wtmtpfxhk78hfvrxxwhmcw99n9j29/CHUCHO",
+    "name": "CHUCHO",
+    "symbol": "CHUCHO",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExczJnNWh0bXoyd3RtdHBmeGhrNzhoZnZyeHh3aG1jdzk5bjlqMjkvQ0hVQ0hP&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1s2g5htmz2wtmtpfxhk78hfvrxxwhmcw99n9j29/TUUUSO",
+    "name": "TUUUSO",
+    "symbol": "TUUUSO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExczJnNWh0bXoyd3RtdHBmeGhrNzhoZnZyeHh3aG1jdzk5bjlqMjkvVFVVVVNP&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1skeqnjwmjpv50n5lak2kzj6ujz59gu4m7z545j/LeonoorsMoonshot",
+    "name": "LeoMoon",
+    "symbol": "LeoMoon",
+    "decimals": "1",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExc2tlcW5qd21qcHY1MG41bGFrMmt6ajZ1ano1OWd1NG03ejU0NWovTGVvbm9vcnNNb29uc2hvdA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1smplrfe4pvehqzkl9qt92rehl5f8jd6lspjqyw/BOIS",
+    "name": "BOIS",
+    "symbol": "BOIS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExc21wbHJmZTRwdmVocXprbDlxdDkycmVobDVmOGpkNmxzcGpxeXcvQk9JUw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1t6swct3zgd5wkrlnv480mv667jt9frjfjzxh90/Digit",
+    "name": "DIGIT",
+    "symbol": "DIGIT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExdDZzd2N0M3pnZDV3a3JsbnY0ODBtdjY2N2p0OWZyamZqenhoOTAvRGlnaXQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1tjajx9c75kguhdl65masvyfrm8z2d48tgwcysv/PetRock",
+    "name": "PETROCK",
+    "symbol": "PETROCK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExdGphang5Yzc1a2d1aGRsNjVtYXN2eWZybTh6MmQ0OHRnd2N5c3YvUGV0Um9jaw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1v7n9zcjdehlqexfpjuajatvjc4hq59svnknc7w/MaxDoge",
+    "name": "MXDOGE",
+    "symbol": "MXDOGE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExdjduOXpjamRlaGxxZXhmcGp1YWphdHZqYzRocTU5c3Zua25jN3cvTWF4RG9nZQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1w5efszz4nz72ke340sq0h6gf2zfmhu8jan7fw0/Oktofalk.finance",
+    "name": "OKTO",
+    "symbol": "OKTO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExdzVlZnN6ejRuejcya2UzNDBzcTBoNmdmMnpmbWh1OGphbjdmdzAvT2t0b2ZhbGsuZmluYW5jZQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1w72jgsk2s90hnyhwus64cjmqz3rdspq3vtk03q/III",
+    "name": "III",
+    "symbol": "III",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExdzcyamdzazJzOTBobnlod3VzNjRjam1xejNyZHNwcTN2dGswM3EvSUlJ&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1w72jgsk2s90hnyhwus64cjmqz3rdspq3vtk03q/Meow",
+    "name": "MEOW",
+    "symbol": "MEOW",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExdzcyamdzazJzOTBobnlod3VzNjRjam1xejNyZHNwcTN2dGswM3EvTWVvdw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1whusey8z9vtv8wcqeu9e8njhancxlptfacfa80/KODA",
+    "name": "KODA",
+    "symbol": "KODA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExd2h1c2V5OHo5dnR2OHdjcWV1OWU4bmpoYW5jeGxwdGZhY2ZhODAvS09EQQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1wkr3k57jqz4tg89uzknqtc5a539dcgjkknpgka/Bulldog",
+    "name": "Bull",
+    "symbol": "Bull",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExd2tyM2s1N2pxejR0Zzg5dXprbnF0YzVhNTM5ZGNnamtrbnBna2EvQnVsbGRvZw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1wtcp7m7589vdmsse30rsrlt357dwy0qyl3ykk6/PDG",
+    "name": "PDG",
+    "symbol": "PDG",
+    "decimals": "1",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExd3RjcDdtNzU4OXZkbXNzZTMwcnNybHQzNTdkd3kwcXlsM3lrazYvUERH&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1x4q2vkrz4dfgd9hcw0p5m2f2nuv2uqmt9xr8k2/achihuahuawifhat",
+    "name": "BADDOG",
+    "symbol": "BADDOG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExeDRxMnZrcno0ZGZnZDloY3cwcDVtMmYybnV2MnVxbXQ5eHI4azIvYWNoaWh1YWh1YXdpZmhhdA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1xvp68gtr03v6yd8j4lrr8sj5p54y49exqhnrfk/BOND",
+    "name": "BOND",
+    "symbol": "BOND",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExeHZwNjhndHIwM3Y2eWQ4ajRscnI4c2o1cDU0eTQ5ZXhxaG5yZmsvQk9ORA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1y7zfelflwnm9aaldd9xp5x4p8azn8vdd9hrsh3/Maximus",
+    "name": "MAXIMUS",
+    "symbol": "MAXIMUS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExeTd6ZmVsZmx3bm05YWFsZGQ5eHA1eDRwOGF6bjh2ZGQ5aHJzaDMvTWF4aW11cw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1z6g0xj6y5mmhqjtks9wttltr80zc5vn226l7ge/KATANA",
+    "name": "KTNA",
+    "symbol": "KTNA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExejZnMHhqNnk1bW1ocWp0a3M5d3R0bHRyODB6YzV2bjIyNmw3Z2UvS0FUQU5B&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1z6g0xj6y5mmhqjtks9wttltr80zc5vn226l7ge/littleSamORAI",
+    "name": "littleSamORAI",
+    "symbol": "littleSamORAI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExejZnMHhqNnk1bW1ocWp0a3M5d3R0bHRyODB6YzV2bjIyNmw3Z2UvbGl0dGxlU2FtT1JBSQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
+    "name": "ampWHALE",
+    "symbol": "ampWHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFBQkM1M0IyQkI1Rjc2RjVERTU3RjZBNjY0MERBQzEwMEY1RDA3ODA3NTc2ODExNUZDM0I4RTgzQzU0RkQ5RkY%3D&pagination.limit=1"
+  },
+  {
+    "id": "ibc/6BB4ADB45B1903AE497710FBC24E73C2C578A79D25EF923BD2E784A7FD0FC59F",
+    "name": "ROAR",
+    "symbol": "ROAR",
+    "decimals": "6",
+    "type": "ibc",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZCQjRBREI0NUIxOTAzQUU0OTc3MTBGQkMyNEU3M0MyQzU3OEE3OUQyNUVGOTIzQkQyRTc4NEE3RkQwRkM1OUY%3D&pagination.limit=1",
+    "icon": "https://app.whitewhale.money/logos/lion.png"
+  },
+  {
+    "id": "ibc/91532E23037BBEBC1FA05D1D6A79AE3479A4B51A4CABA6C28E15EC24206FD50F",
+    "name": "Shiba",
+    "symbol": "SHIB",
+    "decimals": "18",
+    "type": "ibc",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxNTMyRTIzMDM3QkJFQkMxRkEwNUQxRDZBNzlBRTM0NzlBNEI1MUE0Q0FCQTZDMjhFMTVFQzI0MjA2RkQ1MEY%3D&pagination.limit=1",
+    "icon": "https://app.whitewhale.money/logos/shiba-inu-shib-logo.png"
+  },
+  {
+    "id": "ibc/B0E35908659CC1C74966C2A868B2A553CBB7E3A6C42A1F3BEA311E3C17FD81EF",
+    "name": "DOGE",
+    "symbol": "WDOGE",
+    "decimals": "18",
+    "type": "ibc",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IwRTM1OTA4NjU5Q0MxQzc0OTY2QzJBODY4QjJBNTUzQ0JCN0UzQTZDNDJBMUYzQkVBMzExRTNDMTdGRDgxRUY%3D&pagination.limit=1",
+    "icon": "https://app.whitewhale.money/logos/dogecoin-doge-logo.png"
+  },
+  {
+    "id": "ibc/C0AFA9090B2DE3B79EA0296A43CD8C3C2FDAF153CC81E90A234AB8CBB1EAD6D6",
+    "name": "rHUAHUA",
+    "symbol": "rHUAHUA",
+    "decimals": "6",
+    "type": "ibc",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MwQUZBOTA5MEIyREUzQjc5RUEwMjk2QTQzQ0Q4QzNDMkZEQUYxNTNDQzgxRTkwQTIzNEFCOENCQjFFQUQ2RDY%3D&pagination.limit=1",
+    "icon": "https://app.whitewhale.money/logos/huahua.png"
+  },
+  {
+    "id": "ibc/E452FABA9C51E85726BAB567EB582FEA1541B9D26543C6876996B61112DE72F7",
+    "name": "bWHALE",
+    "symbol": "bWHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTJGQUJBOUM1MUU4NTcyNkJBQjU2N0VCNTgyRkVBMTU0MUI5RDI2NTQzQzY4NzY5OTZCNjExMTJERTcyRjc%3D&pagination.limit=1"
+  },
+  {
+    "id": "ibc/E45945EAF3F1587CA3013FFC6CE0B5EEE0F49DAFED2CE51370B5B6A0C3AA258E",
+    "name": "RAC",
+    "symbol": "RAC",
+    "decimals": "6",
+    "type": "ibc",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTk0NUVBRjNGMTU4N0NBMzAxM0ZGQzZDRTBCNUVFRTBGNDlEQUZFRDJDRTUxMzcwQjVCNkEwQzNBQTI1OEU%3D&pagination.limit=1"
+  },
+  {
+    "id": "ibc/FA7112322CE7656DC84D441E49BAEAB9DC0AB3C7618A178A212CDE8B3F17C70B",
+    "name": "WHALE",
+    "symbol": "WHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzExMjMyMkNFNzY1NkRDODRENDQxRTQ5QkFFQUI5REMwQUIzQzc2MThBMTc4QTIxMkNERThCM0YxN0M3MEI%3D&pagination.limit=1"
+  },
+  {
+    "id": "uhuahua",
+    "name": "Chihuahua",
+    "symbol": "HUAHUA",
+    "decimals": "6",
+    "type": "native",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=dWh1YWh1YQ%3D%3D&pagination.limit=1"
+  }
+]

@@ -304,6 +304,13 @@
     "icon": "https://assets.terra.money/icon/svg/ibc/axlUNI.svg"
   },
   {
+    "id": "ibc/745F771553C6359177F99817B0CCC5F7E7606904EF0856016D34DC9EBAA6745C",
+    "name": "AUTISM",
+    "symbol": "AUTISM",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
     "name": "Carbon",
     "symbol": "SWTH",
@@ -332,6 +339,15 @@
     "symbol": "LOCAL",
     "decimals": "6",
     "type": "ibc"
+  },
+  {
+    "id": "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
+    "entity": "Wosmo",
+    "name": "WOSMO",
+    "symbol": "WOSMO",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/WOSMO.png"
   },
   {
     "id": "ibc/815FC81EB6BD612206BD9A9909A02F7691D24A5B97CDFE2124B1BDCA9D4AB14C",
@@ -449,6 +465,18 @@
     "decimals": "18",
     "type": "ibc",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlDAI.svg"
+  },
+  {
+    "id": "ibc/E83DFA7C774804925765C4EFCBFAF2088AFE8B41302AB66000CA6234BD5976E4",
+    "entity": "Andromeda",
+    "name": "Andromeda",
+    "symbol": "ANDR",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply": "22000000",
+    "total_supply": "1000000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png",
+    "coingecko": "https://www.coingecko.com/en/coins/andromeda-2"
   },
   {
     "id": "ibc/EF21BC562B7EB4D22BBF467D011E3118B7E3AD6D095000A672A9FCECA5ABCF15",
@@ -2313,6 +2341,7 @@
     "symbol": "ROAR",
     "decimals": "6",
     "type": "cw20",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://i.ibb.co/99v191f/image.png",
     "coingecko": "https://www.coingecko.com/en/coins/lion-dao"
   },
@@ -3053,6 +3082,13 @@
     "entity": "Astroport",
     "name": "RED-ULUN-LP",
     "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1uaha4gdzn5dz5ela76x74rlah8954m8ehwjyq4v75hq7relx49tszzsh36",
+    "name": "Pyth Network (Wormhole)",
+    "symbol": "PYTH",
     "decimals": "6",
     "type": "cw20"
   },
