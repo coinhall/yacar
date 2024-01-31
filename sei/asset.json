@@ -13046,11 +13046,15 @@
   },
   {
     "id": "sei1pyxztxv0fm4tdnfe4cdhm6fcalzz2zhszazq660t84sgqrnt5qqsf93m3l",
+    "entity": "The Sei Whales",
     "name": "WHALE",
     "symbol": "WHALE",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://sei-rest.publicnode.com/cosmwasm/wasm/v1/contract/sei1pyxztxv0fm4tdnfe4cdhm6fcalzz2zhszazq660t84sgqrnt5qqsf93m3l/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "circ_supply": "88000000000",
+    "total_supply": "100000000000",
+    "icon": "https://www.seiwhales.io/static/media/Coin.fb85d81a8bd2fb1720ae.png",
+    "coingecko": "https://www.coingecko.com/en/coins/whale-sei"
   },
   {
     "id": "sei1pyznspntkl4fhxshgzu3hk4vx6jcva5xqg2ynzslerzk4ye5r9zq5f4ntc",
