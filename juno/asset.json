@@ -84,6 +84,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno1afs5qeum8lyn96ctyj6g996xkk45gle5w6pgv9ctxdmh6e9c6plqn8j4al/kaz",
+    "name": "DAODAO token subDAO Kazahi - power!!!",
+    "symbol": "KAZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWFmczVxZXVtOGx5bjk2Y3R5ajZnOTk2eGtrNDVnbGU1dzZwZ3Y5Y3R4ZG1oNmU5YzZwbHFuOGo0YWwva2F6&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1eck27qefttt5twxsg38gsr0q0hr4e3vvyxm2q4/urarma",
     "name": "Rarma",
     "symbol": "RARMA",
