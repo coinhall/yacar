@@ -133,6 +133,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno1kwh55zj8y3t550z7jduffzwgvd373nlc4mt9jd4kjsyqksg0fn7svau9v3/trep",
+    "name": "Test Reputation",
+    "symbol": "TREP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWt3aDU1emo4eTN0NTUwejdqZHVmZnp3Z3ZkMzczbmxjNG10OWpkNGtqc3lxa3NnMGZuN3N2YXU5djMvdHJlcA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1mwvvazex5f4wk0egtrqz3k3y6lrd8tketut95p99s6tcah2gwjpq9j4acv/ball",
     "name": "BALL",
     "symbol": "BALL",
