@@ -136,6 +136,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1hu9u6upjpp59zh4uqdx89h5gea9q5q67tykl9xsxn6hfttgaquuq3x22dm/pkd",
+    "name": "Pokedex",
+    "symbol": "Pkd",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWh1OXU2dXBqcHA1OXpoNHVxZHg4OWg1Z2VhOXE1cTY3dHlrbDl4c3huNmhmdHRnYXF1dXEzeDIyZG0vcGtk&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1jjygfcyx83kp0kssma9svcswsew2szypwgj97j6er2szqx4hlm8sh5cpna/tsst",
     "name": "TestDaoToken",
     "symbol": "TSST",
