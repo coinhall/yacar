@@ -27,8 +27,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
@@ -54,8 +54,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
@@ -6650,6 +6650,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1h7mlxtlc4vedll90z9xktl0agjgfl4snh9ujnsmu7vvfwhsfx5vq3g9nf8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1h7mlxtlc4vedll90z9xktl0agjgfl4snh9ujnsmu7vvfwhsfx5vq3g9nf8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt",
     "entity": "Mirror Protocol",
     "name": "Alphabet Inc.",
@@ -7356,6 +7364,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1juequh5luypzft4ach0066dagrnfyc27e486srp3nrd790rtvh4q56fdeg",
+    "name": " 4REALZA COIN (Wormhole)",
+    "symbol": "4RZ",
+    "decimals": "8",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1juequh5luypzft4ach0066dagrnfyc27e486srp3nrd790rtvh4q56fdeg/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1juspa927c7kdr0jf7wc0lxg6wfjz2cersm9r82",
     "entity": "Astroport",
     "name": "terraswap liquidity token",
@@ -7488,6 +7504,13 @@
   },
   {
     "id": "terra1k32ur62dq8qcr80r46valsp9e00u9h6878mndr",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1k3f3ajwx6g2eszxet6z85h2sly8ealzce6vk7tldx097dakgdznqdnt0gl",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
     "decimals": "6",
@@ -8659,6 +8682,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1mrexddv8jvgrkgj38gf8nrz5thsenfhxyd4san480pjny4f7g5wsl74mu3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1mrexddv8jvgrkgj38gf8nrz5thsenfhxyd4san480pjny4f7g5wsl74mu3/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1msypj8yppasgmpq6h5kq8hmfy0qerrcqgsqk9q",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
@@ -8891,6 +8922,14 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1naaldj58aerjvqzulrnfpeph60pjqlyp60gqryup8g4djy4cn4nqwm08c3",
+    "name": "Test 100",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1naaldj58aerjvqzulrnfpeph60pjqlyp60gqryup8g4djy4cn4nqwm08c3/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1nagqpmyw55yjphea4rhntlfv87ugmeaj8ym756",
@@ -10639,6 +10678,13 @@
     "type": "cw20"
   },
   {
+    "id": "terra1t904frvxwpujzjyq7mnevrwdqc9wze33sfqr58nuu7z7hzsesqksf5eewz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "terra1t9m52s6gey6mcy9upq5ucujl5n6ewwqk80hp8t",
     "name": "Terra Finance",
     "symbol": "TEFI",
@@ -11130,6 +11176,14 @@
     "symbol": "TNT",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1ucpvp3e3g9gn4s5kcn2e3pydag8mwjd5akp2lusuw670yesfr09swxvvd5",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1ucpvp3e3g9gn4s5kcn2e3pydag8mwjd5akp2lusuw670yesfr09swxvvd5/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1udcta30vdytasfv00gdwue7c8uaje7a584uf9n",
