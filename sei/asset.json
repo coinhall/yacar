@@ -735,16 +735,6 @@
     "icon": "https://avatars.githubusercontent.com/u/155251877"
   },
   {
-    "id": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
-    "entity": "GOLDENRULES",
-    "name": "GOLDENRULES",
-    "symbol": "$GNR",
-    "decimals": "6",
-    "type": "tokenfactory",
-    "total_supply": "1000000000000000",
-    "icon": "https://raw.githubusercontent.com/goldenrulessei/GOLDENRULES/main/goldenrules.png"
-  },
-  {
     "id": "factory/sei1wrv8u8ghtnu5dlnez4kgscz6l5s6eg97pf805v/SEIV",
     "entity": "Seiviour",
     "name": "Seiviour",
@@ -16310,6 +16300,16 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1vl6falzhe44xzwng6q7eusy333laye4nj6lzjrpc4dshddll7sfs2k6plj/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
+    "name": "GOLDENRULES",
+    "symbol": "$GNR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "1000000000",
+    "total_supply": "1000000000",
+    "icon": "https://raw.githubusercontent.com/goldenrulessei/GOLDENRULES/main/goldenrules.png"
   },
   {
     "id": "sei1vle4sywsx9fvuypm48g2ycseft6knx69a2dsmzrajvzhh7dnzh2sn8gh27",
