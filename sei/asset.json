@@ -31,6 +31,38 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMnMwN3FuanpueTJuNXp2Z3pwOTJzNHo3YWFtemVtbTgyZDUweXQvc2VpdGFtYQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1336x2fdzz2aqwsh0qzh9q4vp63p7j9jjfqqy4z/CHOPPER",
+    "name": "CPR",
+    "symbol": "CPR",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMzM2eDJmZHp6MmFxd3NoMHF6aDlxNHZwNjNwN2o5ampmcXF5NHovQ0hPUFBFUg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1336x2fdzz2aqwsh0qzh9q4vp63p7j9jjfqqy4z/KONOHA",
+    "name": "KNH",
+    "symbol": "KNH",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMzM2eDJmZHp6MmFxd3NoMHF6aDlxNHZwNjNwN2o5ampmcXF5NHovS09OT0hB&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1336x2fdzz2aqwsh0qzh9q4vp63p7j9jjfqqy4z/kurama",
+    "name": "KRM",
+    "symbol": "KRM",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMzM2eDJmZHp6MmFxd3NoMHF6aDlxNHZwNjNwN2o5ampmcXF5NHova3VyYW1h&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1336x2fdzz2aqwsh0qzh9q4vp63p7j9jjfqqy4z/vanity",
+    "name": "VNT",
+    "symbol": "VNT",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMzM2eDJmZHp6MmFxd3NoMHF6aDlxNHZwNjNwN2o5ampmcXF5NHovdmFuaXR5&pagination.limit=1"
+  },
+  {
     "id": "factory/sei13dy2vrpeua45spse44920v6cnygg3h77udl76v/hello",
     "name": "hello",
     "symbol": "hello",
@@ -338,6 +370,14 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZXpzdjkzanJndXhwaHVtYTY3am5lOHp0bmdtODI3eXFuZHBoNzcvYmpzLTE%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1f5gnscp4qvejspx6j7aufx7yj8ys6merfwkvaqvm6jjedgv52cssyz7nux/test",
+    "name": "test",
+    "symbol": "TEST",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZjVnbnNjcDRxdmVqc3B4Nmo3YXVmeDd5ajh5czZtZXJmd2t2YXF2bTZqamVkZ3Y1MmNzc3l6N251eC90ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1fa4l685xh5jk7uvs0qtdea0506yvyq86t3yfrhfxptffwrhusy9s2ajvvp/grape",
     "name": "GRAPE",
     "symbol": "GRAPE",
@@ -560,6 +600,14 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbXp2NXR0eDc1NTJmdzJkbXdkeXVhNTc2cG5oeGRnbjUwYTY3cXgvU2VpbmZlbGQ%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1n0a3emu0t22fxhx29r2tkpklp3etgsw3ta3y3p/SEIBONK",
+    "name": "SBK",
+    "symbol": "SBK",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbjBhM2VtdTB0MjJmeGh4MjlyMnRrcGtscDNldGdzdzN0YTN5M3AvU0VJQk9OSw%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
     "name": "Seito Kaiba",
     "symbol": "SEITO",
@@ -591,6 +639,70 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcGpkZmZybjR0NGczd2M2NDZsNnJ4Znk1bXJyZ2Q2bHpqNGtkdGovU0VJVg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ppd8pa6kdlarrkaczqg505cr80kxappvwjcnj8/akamaru",
+    "name": "akm",
+    "symbol": "akm",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcHBkOHBhNmtkbGFycmthY3pxZzUwNWNyODBreGFwcHZ3amNuajgvYWthbWFydQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ppd8pa6kdlarrkaczqg505cr80kxappvwjcnj8/AKATSEIKI",
+    "name": "AKT",
+    "symbol": "AKT",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcHBkOHBhNmtkbGFycmthY3pxZzUwNWNyODBreGFwcHZ3amNuajgvQUtBVFNFSUtJ&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ppd8pa6kdlarrkaczqg505cr80kxappvwjcnj8/kirua",
+    "name": "kra",
+    "symbol": "kra",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcHBkOHBhNmtkbGFycmthY3pxZzUwNWNyODBreGFwcHZ3amNuajgva2lydWE%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ppd8pa6kdlarrkaczqg505cr80kxappvwjcnj8/MONONOKE",
+    "name": "MNK",
+    "symbol": "MNK",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcHBkOHBhNmtkbGFycmthY3pxZzUwNWNyODBreGFwcHZ3amNuajgvTU9OT05PS0U%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ppd8pa6kdlarrkaczqg505cr80kxappvwjcnj8/NETERO",
+    "name": "NTR",
+    "symbol": "NTR",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcHBkOHBhNmtkbGFycmthY3pxZzUwNWNyODBreGFwcHZ3amNuajgvTkVURVJP&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ppd8pa6kdlarrkaczqg505cr80kxappvwjcnj8/seifan",
+    "name": "sfn",
+    "symbol": "sfn",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcHBkOHBhNmtkbGFycmthY3pxZzUwNWNyODBreGFwcHZ3amNuajgvc2VpZmFu&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ppd8pa6kdlarrkaczqg505cr80kxappvwjcnj8/SEIPUNK",
+    "name": "SPK",
+    "symbol": "SPK",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcHBkOHBhNmtkbGFycmthY3pxZzUwNWNyODBreGFwcHZ3amNuajgvU0VJUFVOSw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ppd8pa6kdlarrkaczqg505cr80kxappvwjcnj8/SHARINGAN",
+    "name": "SHG",
+    "symbol": "SHG",
+    "decimals": "0",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcHBkOHBhNmtkbGFycmthY3pxZzUwNWNyODBreGFwcHZ3amNuajgvU0hBUklOR0FO&pagination.limit=1"
   },
   {
     "id": "factory/sei1pu8xw050x2yc8q0t0dpy7zspxx6uc7gkzvydm6/seikiro",
