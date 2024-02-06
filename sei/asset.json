@@ -496,6 +496,14 @@
     "icon": "https://arweave.net/VurMK1uBxVuGVclEf0-00mQB1FeZsJlAzSnvjqA9Vdw"
   },
   {
+    "id": "factory/sei1hn52ztpd4kkrrucdzqxwlr943mq277sa0q693c/umilk",
+    "name": "Milk",
+    "symbol": "MILK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaG41Mnp0cGQ0a2tycnVjZHpxeHdscjk0M21xMjc3c2EwcTY5M2MvdW1pbGs%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1hpxtc7h2c2xzzl8jlcpy2hdpusal4geq2m4udq/sai",
     "name": "Sex AI on Sei",
     "symbol": "SAI",
