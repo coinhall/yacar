@@ -1144,6 +1144,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2",
+    "name": "Staking FROG Token",
+    "symbol": "sFROG",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra13dvh4d653c6tyu7f30hwcpjnrz8xhx87yduphr",
     "entity": "Astroport",
     "name": "terraswap liquidity token",
@@ -6650,6 +6658,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1h7mlxtlc4vedll90z9xktl0agjgfl4snh9ujnsmu7vvfwhsfx5vq3g9nf8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1h7mlxtlc4vedll90z9xktl0agjgfl4snh9ujnsmu7vvfwhsfx5vq3g9nf8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt",
     "entity": "Mirror Protocol",
     "name": "Alphabet Inc.",
@@ -7354,6 +7370,18 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1juequh5luypzft4ach0066dagrnfyc27e486srp3nrd790rtvh4q56fdeg",
+    "entity": "4REALZA COIN",
+    "name": " 4REALZA COIN (Wormhole)",
+    "symbol": "4RZ",
+    "decimals": "8",
+    "type": "cw20",
+    "circ_supply": "1000000000",
+    "total_supply": "1000000000",
+    "icon": "https://pbs.twimg.com/profile_images/1738185644567035904/H2EBQzud.jpg",
+    "coinmarketcap": "https://coinmarketcap.com/dexscan/bsc/0xeb549621890d99bfc09ea2b53fd2380f81cf121d"
   },
   {
     "id": "terra1juspa927c7kdr0jf7wc0lxg6wfjz2cersm9r82",
@@ -10572,6 +10600,14 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1szuryd6qttsrp4seufq2xap0x7fe5zgy9wawqts59j5wu7lwncysxrkumc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1szuryd6qttsrp4seufq2xap0x7fe5zgy9wawqts59j5wu7lwncysxrkumc/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1t0csdwp5u9592522n35ededwt2e46sur5u4mkg",

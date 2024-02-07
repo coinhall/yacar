@@ -8,6 +8,15 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTBocDQ2MnJ0ZnRhYzJ0MzN6ZzQweXRud2dlM3N5cTdoY2pjN2c3dHZrMjZlN3Jmc2owZ3E3cHgzY3EvYmFy&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1279xudevmf5cw83vkhglct7jededp86k90k2le/RAPTR",
+    "name": "RAPTR",
+    "symbol": "RAPTR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTI3OXh1ZGV2bWY1Y3c4M3ZraGdsY3Q3amVkZWRwODZrOTBrMmxlL1JBUFRS&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/RAPTR.png"
+  },
+  {
     "id": "factory/osmo13ahfm35s0qwg45l09hgx3w7q2c9jc45d4mcptprsjuj6k6pnad9s7tavek/vst",
     "name": "ValueSharkToken",
     "symbol": "VST",
@@ -136,6 +145,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1hu9u6upjpp59zh4uqdx89h5gea9q5q67tykl9xsxn6hfttgaquuq3x22dm/pkd",
+    "name": "Pokedex",
+    "symbol": "Pkd",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWh1OXU2dXBqcHA1OXpoNHVxZHg4OWg1Z2VhOXE1cTY3dHlrbDl4c3huNmhmdHRnYXF1dXEzeDIyZG0vcGtk&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1jjygfcyx83kp0kssma9svcswsew2szypwgj97j6er2szqx4hlm8sh5cpna/tsst",
     "name": "TestDaoToken",
     "symbol": "TSST",
@@ -166,7 +183,9 @@
     "symbol": "WOSMO",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/WOSMO.png"
+    "circ_supply": "1000000000",
+    "total_supply": "1000000000",
+    "icon": "https://www.wosmo.dev/images/WOSMO.png"
   },
   {
     "id": "factory/osmo1rckme96ptawr4zwexxj5g5gej9s2dmud8r2t9j0k0prn5mch5g4snzzwjv/sail",
@@ -178,6 +197,14 @@
     "circ_supply": "600000000",
     "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/White-Whale-Defi-Platform/white-whale-frontend/a74f4fbce2aa6af8ac9c384a104c90d2ecfa6c9e/public/logos/sail.png"
+  },
+  {
+    "id": "factory/osmo1rkajce9wr99hlagzeuc689zyvnjemrums3qwgd93r62qygtkzk8slgytza/stare",
+    "name": "Stare at the Sun",
+    "symbol": "STARE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXJrYWpjZTl3cjk5aGxhZ3pldWM2ODl6eXZuamVtcnVtczNxd2dkOTNyNjJxeWd0a3prOHNsZ3l0emEvc3RhcmU%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo1rt94tf24fm42qpnqvjm5tsr2t5k2rgtl0m0ykf4r5wm03czcysysce0k3z/tst",
@@ -212,6 +239,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1smz59tke7xtpmjwppkp7ekqxhancf28lqjnrpvy8m9fwdatven9stl4xlz/stare",
+    "name": "Stare at the Sun",
+    "symbol": "STARE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXNtejU5dGtlN3h0cG1qd3Bwa3A3ZWtxeGhhbmNmMjhscWpucnB2eThtOWZ3ZGF0dmVuOXN0bDR4bHovc3RhcmU%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1ty695n07an8gcnne2cqs6qmlhkvuzhznvpdw68jst6n26d24zm8s6wa92r/cbg",
     "name": "CosmosBG",
     "symbol": "CBG",
@@ -234,6 +269,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/osmo1vdvnznwg597qngrq9mnfcfk0am9jdc9y446jewhcqdreqz4r75xq5j5zvy/ymos",
+    "name": "Yieldmos Governance Token",
+    "symbol": "YMOS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXZkdm56bndnNTk3cW5ncnE5bW5mY2ZrMGFtOWpkYzl5NDQ2amV3aGNxZHJlcXo0cjc1eHE1ajV6dnkveW1vcw%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1vvmvqzt3qr4hn952qvqn00f92walwuak0fx9rcynd0043jjdt6lsrft4fd/act",
     "name": "ACT Token",
     "symbol": "ACT",
@@ -254,6 +297,14 @@
     "symbol": "Fake",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/osmo1xpnhhfkg7u2y5tdmlr5c96pn57nqdse4hvjr8g5qdtu8d50x0qhqtta40c/sfyl",
+    "name": "SorryForYourLoss Token",
+    "symbol": "SFYL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXhwbmhoZmtnN3UyeTV0ZG1scjVjOTZwbjU3bnFkc2U0aHZqcjhnNXFkdHU4ZDUweDBxaHF0dGE0MGMvc2Z5bA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo1xqw2sl9zk8a6pch0csaw78n4swg5ws8t62wc5qta4gnjxfqg6v2qcs243k/stuibcx",
@@ -374,6 +425,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft85AE1716C5E39EA6D64BBD7898C3899A7B500626.png"
+  },
+  {
+    "id": "ibc/072E5B3D6F278B3E6A9C51D7EAD1A737148609512C5EBE8CBCB5663264A0DDB7",
+    "name": "Gelotto (Injective)",
+    "symbol": "injective.GLTO",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/glto.svg"
   },
   {
     "id": "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A",
@@ -834,10 +893,13 @@
   },
   {
     "id": "ibc/2FFE07C4B4EFC0DDA099A16C6AF3C9CCA653CC56077E87217A585D48794B0BC7",
+    "entity": "Baddog",
     "name": "Chihuahuawifhat",
     "symbol": "BADDOG",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply": "6400006900",
+    "total_supply": "6400006900",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/baddog.png"
   },
   {
@@ -1476,6 +1538,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/698350B8A61D575025F3ED13E9AC9C0F45C89DEFE92F76D5838F1D3C1A7FF7C9",
+    "name": "Stride Staked TIA",
+    "symbol": "stTIA",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/sttia.svg"
+  },
+  {
     "id": "ibc/6A6174468758D207DD2D880363BF699C6568A29E87651337AEDAFD9E69EA7E58",
     "name": "Karina FanToken",
     "symbol": "KARINA",
@@ -1979,6 +2049,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/manna.png"
   },
   {
+    "id": "ibc/980E82A9F8E7CA8CD480F4577E73682A6D3855A267D1831485D7EBEF0E7A6C2C",
+    "name": "Stride Staked DYDX",
+    "symbol": "stDYDX",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stdydx.svg",
+    "verification_tx": "osmosis-main"
+  },
+  {
     "id": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
     "entity": "Stargaze",
     "name": "Stargaze",
@@ -2018,6 +2097,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.svg",
     "coingecko": "https://www.coingecko.com/en/coins/likecoin",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/9A76CDF0CBCEF37923F32518FA15E5DC92B9F56128292BC4D63C4AEA76CBB110",
+    "name": "Dymension Hub",
+    "symbol": "DYM",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dymension/images/dymension-logo.svg"
   },
   {
     "id": "ibc/9A8A93D04917A149C8AC7C16D3DA8F470D59E8D867499C4DA97450E1D7363213",
