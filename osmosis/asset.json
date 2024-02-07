@@ -41,6 +41,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/osmo16rt8lv6ex7c9q5xfexds03l5a9lf6hvs37mn3vfzwjn5sj7xqmjscjh5n9/jones",
+    "name": "Osmosis Jones",
+    "symbol": "JONES",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTZydDhsdjZleDdjOXE1eGZleGRzMDNsNWE5bGY2aHZzMzdtbjN2Znp3am41c2o3eHFtanNjamg1bjkvam9uZXM%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo18qm6x83sew0g5rd8g5q2u097hzvve53kvhcadx33krqthxdyyekqshgvt7/act",
     "name": "tezcoin",
     "symbol": "ACT",
