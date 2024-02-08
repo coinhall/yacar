@@ -34,11 +34,35 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo15vnefu3p0dkkgkzud958nu80j86vyatrl7ghxmumy6jhzs80qlkqgx2zmq/mbt",
+    "name": "Meta Builders Token",
+    "symbol": "MBT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTV2bmVmdTNwMGRra2drenVkOTU4bnU4MGo4NnZ5YXRybDdnaHhtdW15NmpoenM4MHFsa3FneDJ6bXEvbWJ0&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo160x6nzztld07rzz5wrgq9363kq8rjfhvtvyuc99fwa6cfasl9essuygyh6/smell",
     "name": "Smell",
     "symbol": "SMELL",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/osmo16rt8lv6ex7c9q5xfexds03l5a9lf6hvs37mn3vfzwjn5sj7xqmjscjh5n9/jones",
+    "name": "Osmosis Jones",
+    "symbol": "JONES",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTZydDhsdjZleDdjOXE1eGZleGRzMDNsNWE5bGY2aHZzMzdtbjN2Znp3am41c2o3eHFtanNjamg1bjkvam9uZXM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo187qadt5kw40d0lqm8rlhfr56047370d368aresxzw56hcwcne78qxg6k76/epic",
+    "name": "eBook Publishing Irrepressibly Cryptoversal",
+    "symbol": "EPIC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTg3cWFkdDVrdzQwZDBscW04cmxoZnI1NjA0NzM3MGQzNjhhcmVzeHp3NTZoY3djbmU3OHF4ZzZrNzYvZXBpYw%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo18qm6x83sew0g5rd8g5q2u097hzvve53kvhcadx33krqthxdyyekqshgvt7/act",
