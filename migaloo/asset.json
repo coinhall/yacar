@@ -92,6 +92,14 @@
     "icon": "https://i.imgur.com/IaWDLn9.jpeg"
   },
   {
+    "id": "factory/migaloo1tw42uja9k7088hr6cun7sms6pj70n3scgqe8fefp7csxd4kdmpjqh5swqn/tfm",
+    "name": "token factory migration",
+    "symbol": "tfm",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMXR3NDJ1amE5azcwODhocjZjdW43c21zNnBqNzBuM3NjZ3FlOGZlZnA3Y3N4ZDRrZG1wanFoNXN3cW4vdGZt&pagination.limit=1"
+  },
+  {
     "id": "factory/migaloo1w9q8fmww5m5c5ramuh92dpslp37ty57xgm7psvrjljgp4lcsxffslmklgs/rebel",
     "name": "Rebel Coin",
     "symbol": "Rebel",
