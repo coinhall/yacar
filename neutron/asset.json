@@ -60,6 +60,14 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fneutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q%2Fucircus"
   },
   {
+    "id": "factory/neutron19pvz0mahhpkgdajvj7j53u5y0zsfg6c2ccf43rq6udrcjr9q2mysxtre9t/test",
+    "name": "test token",
+    "symbol": "test",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTlwdnowbWFoaHBrZ2RhanZqN2o1M3U1eTB6c2ZnNmMyY2NmNDNycTZ1ZHJjanI5cTJteXN4dHJlOXQvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
     "entity": "DINOSAUR",
     "name": "DINOSAUR",
