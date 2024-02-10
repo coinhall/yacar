@@ -1496,6 +1496,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/64D56DF9EC69BE554F49EBCE0199611062FF1137EF105E2F645C1997344F3834",
+    "name": "SHARK",
+    "symbol": "SHARK",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/shark.png"
+  },
+  {
     "id": "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5",
     "entity": "Gravity Bridge",
     "name": "Wrapped Ethereum",
@@ -3318,13 +3326,5 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis",
     "verification_tx": "osmosis-main"
-  },
-  {
-    "id": "ibc/64D56DF9EC69BE554F49EBCE0199611062FF1137EF105E2F645C1997344F3834",
-    "name": "SHARK",
-    "symbol": "SHARK",
-    "decimals": "6",
-    "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/shark.png"
   }
 ]
