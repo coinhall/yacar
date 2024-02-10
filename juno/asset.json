@@ -1,5 +1,295 @@
 [
   {
+    "id": "factory/juno109nl6hydrvyuj3ezljq2lzw20d26r67l7pj0thcssc9gas4aqs4s3lfng7/game",
+    "name": "Juno Games",
+    "symbol": "GAME",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno10g43cun9k2nev5uh3pawt843zj2z86zlrf7df8/VVV",
+    "name": "try",
+    "symbol": "VVV",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno10r39fueph9fq7a6lgswu4zdsg8t3gxlq670lt0/reece",
+    "name": "reeces token",
+    "symbol": "REECE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno12939ah29z5dwj7dypu92ywe3agxdfxexu2wn9sjl7mvhwvdktnhskujan2/sho",
+    "name": "ShoNode",
+    "symbol": "SHO",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno12dvlqgch6dsft68jlv2mh8fd72d0ae6c7cwsw384fdtvgc57whxsmc49nd/arena",
+    "name": "Arena DAO",
+    "symbol": "ARENA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno13urh034kd6c3dv3lmxsvvhznqty0j26uf6lfa0wgmg2vrwu78hdq20xe0h/ratd",
+    "name": "Rattadans",
+    "symbol": "RATD",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno143m23qv5rwhu833fwpuwl799gpy9de0068y5z4vu2um9nzu5nzwsasknfk/ogm",
+    "name": "OG Meme",
+    "symbol": "OGM",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno14azptklw333lpe2wmjhusx2l7mk744wv0p4kg3/upoil",
+    "name": "POIL",
+    "symbol": "POIL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTRhenB0a2x3MzMzbHBlMndtamh1c3gybDdtazc0NHd2MHA0a2czL3Vwb2ls&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno14y76wed4mgjmffw7srm9hz8kqwaxhyuwpth28d5mmw4zm7ns87cs2qq8zr/ogm",
+    "name": "OG MEME",
+    "symbol": "OGM",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno162wc0g4ra75r24jxaky2shs9ghp32yed7tztsc9wm76r4d46jmkssuu7ar/apl",
+    "name": "ALPHA Pirates Lequidity",
+    "symbol": "APL",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno170pxl6ljdyp3pm84kswl9w8tqcryqhxn88xqqnt7xej2ka8s588s33tafv/ogm",
+    "name": "OG MEME",
+    "symbol": "OGM",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno195asgku87kxgu48s447z0ryhsyn5rl3yzvfw0d/uhava",
+    "name": "NOTHAVA",
+    "symbol": "NOTHAVA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTk1YXNna3U4N2t4Z3U0OHM0NDd6MHJ5aHN5bjVybDN5enZmdzBkL3VoYXZh&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno19gly70f88nhm93z68fw5d60zc32386dh8x3xxsf7vg25pyw8qmqq44a3ak/parce",
+    "name": "PARCE",
+    "symbol": "PARCE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno19qama52gu2me5njju84vcawn5p3vvs5q8d2e328cnfcpvek4zpasjadvlz/res",
+    "name": "RESHAT",
+    "symbol": "RES",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1afs5qeum8lyn96ctyj6g996xkk45gle5w6pgv9ctxdmh6e9c6plqn8j4al/kaz",
+    "name": "DAODAO token subDAO Kazahi - power!!!",
+    "symbol": "KAZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWFmczVxZXVtOGx5bjk2Y3R5ajZnOTk2eGtrNDVnbGU1dzZwZ3Y5Y3R4ZG1oNmU5YzZwbHFuOGo0YWwva2F6&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1csx75jka9y2u4sd7c5mga0dsp0alve4vvrljsr6zfxvddtfja37qljnjce/tmed",
+    "name": "TestMedia",
+    "symbol": "TMED",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWNzeDc1amthOXkydTRzZDdjNW1nYTBkc3AwYWx2ZTR2dnJsanNyNnpmeHZkZHRmamEzN3Fsam5qY2UvdG1lZA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1eck27qefttt5twxsg38gsr0q0hr4e3vvyxm2q4/urarma",
+    "name": "Rarma",
+    "symbol": "RARMA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1em96xz48cr54wux2mrqht8rtar6fy9jk8ym0hqm9kze0aeuhq0vszafdtx/ftw",
+    "name": "TF FTW",
+    "symbol": "FTW",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1enqsyve03rh0tr42qrkw8j58u3r00rk204u3xs/dimi",
+    "name": "Dimi",
+    "symbol": "DIMI",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1eqntnl6tzcj9h86psg4y4h6hh05g2h9nfpnwhd/crack",
+    "name": "CRK",
+    "symbol": "CRK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluZnBud2hkL2NyYWNr&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1fevet6xap29993zaklce046hsumcw03nra0vacl9e8x4328uexkq52s9j3/akaia",
+    "name": "AKAIA",
+    "symbol": "AKAIA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1fteff8mkqr2uu66m9dge0rcvhkq2ppmuqr7rmy7sad3llpqcmufqvqnvkr/deposit",
+    "name": "TEST DEPOSIT",
+    "symbol": "DEPOSIT",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1hhlng2ve3jyud84zklvr3shlehg0attad8tewz/utoken",
+    "name": "Joe",
+    "symbol": "PEOPLE",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1hv29vdjczwxt3u7r6lg7cf595q45ptl9lkfj2aq0ymplk99gxtcsgepe2z/shr",
+    "name": "Human Rights",
+    "symbol": "SHR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWh2Mjl2ZGpjend4dDN1N3I2bGc3Y2Y1OTVxNDVwdGw5bGtmajJhcTB5bXBsazk5Z3h0Y3NnZXBlMnovc2hy&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1j6xwvg8whnk9zeuct5tmxf3ymkshgxwegngzvmnvjmgz7j4wkftqta4eca/lfg",
+    "name": "Let's Fucking Go!",
+    "symbol": "LFG",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1kwh55zj8y3t550z7jduffzwgvd373nlc4mt9jd4kjsyqksg0fn7svau9v3/trep",
+    "name": "Test Reputation",
+    "symbol": "TREP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWt3aDU1emo4eTN0NTUwejdqZHVmZnp3Z3ZkMzczbmxjNG10OWpkNGtqc3lxa3NnMGZuN3N2YXU5djMvdHJlcA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1mwvvazex5f4wk0egtrqz3k3y6lrd8tketut95p99s6tcah2gwjpq9j4acv/ball",
+    "name": "BALL",
+    "symbol": "BALL",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1pgr63fx2fwrl2cf5dechjpsrcxhmdx469r28fwsavvvk8euuv9jq0shhku/tst",
+    "name": "Test Token",
+    "symbol": "TST",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1qly4zcmzr2gyxtze5yt9chv2srczwwunppxjfh/NEXX",
+    "name": "NEXX GEN AI",
+    "symbol": "NEXX",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1qrxd2hlcfxkvln2haw7jz62e6vlw4wxu85r3gwpu7w8cw8wcxpgspaj6kj/pro",
+    "name": "Pro Fire Solutions",
+    "symbol": "PRO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXFyeGQyaGxjZnhrdmxuMmhhdzdqejYyZTZ2bHc0d3h1ODVyM2d3cHU3dzhjdzh3Y3hwZ3NwYWo2a2ovcHJv&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1ras58tz6zmhrtjy8jnwthvqgc9lca8u2ru65uwjyuqll2txqs3yscw0ky5/tkoska",
+    "name": "TokyoOsaka",
+    "symbol": "TKOSKA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1rg2qwrqd5t9u4l0eyxzav3ugq4rd3v68jaclqv/TST",
+    "name": "TST",
+    "symbol": "TST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXJnMnF3cnFkNXQ5dTRsMGV5eHphdjN1Z3E0cmQzdjY4amFjbHF2L1RTVA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1u805lv20qc6jy7c3ttre7nct6uyl20pfky5r7e/DGL",
+    "name": "Licorice",
+    "symbol": "DGL",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1uupxqaef6qrzfls3a3vfv0ec484acdz2tgfrryle768naa59ycwq5407kw/merc",
+    "name": "Mercantilism coin",
+    "symbol": "merc",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1wgw5t65ts9nwy95p3kzqswncfxxggfxt29000vvz7juqwz089mfs4yspp9/agi",
+    "name": "AGI",
+    "symbol": "AGI",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1wx0wqkyymkv278lqrpe9h52exxa87e7eyum769/uswift",
+    "name": "SWIFT",
+    "symbol": "SWIFT",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1xceddtqapfcjn8pza2alu3nreqwmagdxmj2fuanaxa4pwls6x3ps33zarm/engtrep",
+    "name": "Test Reputation Token for English-speakers",
+    "symbol": "engTREP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXhjZWRkdHFhcGZjam44cHphMmFsdTNucmVxd21hZ2R4bWoyZnVhbmF4YTRwd2xzNngzcHMzM3phcm0vZW5ndHJlcA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1xpny94wq557kufa09777xy43q2rrqne2q232er/SOVIET",
+    "name": "Soviet Token",
+    "symbol": "SOVIET",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1xpny94wq557kufa09777xy43q2rrqne2q232er/usoviet",
+    "name": "Soviet Token",
+    "symbol": "SOVIET",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1xyu5qrs2efgww7jm5wg49yavy2585x8y5da9zpreh5cugqa37j7scud6ux/ctc",
+    "name": "cTaurus",
+    "symbol": "cTc",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
     "entity": "BitSong",
     "name": "BitSong",
@@ -115,7 +405,7 @@
     "type": "ibc",
     "circ_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/circulatingSupply",
     "total_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/totalSupply",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/xprt.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/persistence",
     "coingecko": "https://www.coingecko.com/en/coins/persistence"
   },
@@ -178,8 +468,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/cosmoshub/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -655,8 +945,8 @@
     "symbol": "JUNO",
     "decimals": "6",
     "type": "native",
-    "circ_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
+    "circ_supply_api": "https://rest-juno.ecostake.com/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
+    "total_supply_api": "https://rest-juno.ecostake.com/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"

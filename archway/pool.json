@@ -30,6 +30,16 @@
     "lp_token_id": "archway1ql5u34l2uglurzyeq59p434uk7dapj9j4skjh6zxjhed6tupwjmqvxvzyx"
   },
   {
+    "id": "archway1z9trdrva47g4wvudpnwhfrsz2dpnsp6zzdeaxax3mxcyfylmr58qt2w2x9",
+    "asset_ids": [
+      "archway1l3m84nf7xagkdrcced2y0g367xphnea5uqc3mww3f83eh6h38nqqxnsxz7",
+      "archway1t2llqsvwwunf98v692nqd5juudcmmlu3zk55utx7xtfvznel030saclvq6"
+    ],
+    "dex": "Astrovault",
+    "type": "hybrid",
+    "lp_token_id": "archway1qzzrct5frpnulmkjrc3k8aeth04qlc7vxt7f922c8as8rev3hg2sgdd44p"
+  },
+  {
     "id": "archway102gh7tqaeptt88nckg73mfx8j8du64hw4qqm53zwwykcchwar86sza46ge",
     "asset_ids": [
       "ibc/C0336ECF2DF64E7D2C98B1422EC2B38DE9EF33C34AAADF18C6F2E3FFC7BE3615",
@@ -151,6 +161,16 @@
     "lp_token_id": "archway1lzm9l560jl7uq632utlkxxk35ylk9d9fdt4vv89346d28hcg9qks0e7u0j"
   },
   {
+    "id": "archway1yqj0shuxhuvqjau4mvxsfyqsqh5n573z8yg64yyljlm2e8xj96uqkkun69",
+    "asset_ids": [
+      "ibc/1112DFAC11501682456D28D0728C1E35E134729F4D8EAA897377ACDFB29F46CC",
+      "archway1ndrruk2atj4yrcqsnypthvnexjv6erpwtczqlfp8d97zsv8k6wgqjmw4gt"
+    ],
+    "dex": "Astrovault",
+    "type": "stable",
+    "lp_token_id": "archway1phqjqlcnt2gxmupacz075ru8pcw4e2snqfw6pyr2p36gfuzacxdqphktyf"
+  },
+  {
     "id": "archway1382ascq6guh3qyq29jsehls5zwkffnxatn9k6vtuuq7crdw7wvrqznw3zz",
     "asset_ids": [
       "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
@@ -169,6 +189,16 @@
     "dex": "Astrovault",
     "type": "xyk",
     "lp_token_id": "archway1j5vevvsrm5ayqmfvhng7rkkgjqad37pk35j3nanzmevlq4ntwpfqayv6z4"
+  },
+  {
+    "id": "archway13kjs3296p4fkzvca2grpueqprfl35er7wefzaa5n8em6u7fd5lcsvue5n3",
+    "asset_ids": [
+      "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
+      "archway1m273xq2fjmn993jm4kft5c49w2c70yfv5zypt3d92cqp4n5faefqqkuf0l"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "archway1erep67ugkphpfcan6s76kkrkkvtnxxeetk7zhcawd5xcxfg6l9astekq3a"
   },
   {
     "id": "archway13q509p7yl5c79kukvj5fl3586838mp9at9e23kr2fnptgx88cf8qlcazfw",
@@ -191,6 +221,16 @@
     "lp_token_id": "archway1n33nmwx4zsuzlvd7lsl65qedqzaappyp47xddkqs6tg3se6psf6qc4ghwr"
   },
   {
+    "id": "archway16zggwnsedht5vzssftlpf78p906v69607rlx9u9q5lgum20hr9ls5nc80h",
+    "asset_ids": [
+      "ibc/381C09E1B743A8D893DF43B0861FE77AB2C437ED4BE10CB827A0A38285C11977",
+      "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "archway1acyu2w0u940z94ynltwftdvy6cutuwkxxluvtq5hkk7l8src8eeqtd5cyq"
+  },
+  {
     "id": "archway17wenhyfn5km24884s0f2xuj6g7mccwvhaptqna7lg2ufy5pv88usk3t5cq",
     "asset_ids": [
       "ibc/13C5990F84FA5D472E1F8BB1BAAEA8774DA5F24128EC02B119107AD21FB52A61",
@@ -209,6 +249,26 @@
     "dex": "Astrovault",
     "type": "xyk",
     "lp_token_id": "archway10h36tr7rpjrqtutmpxjarsr75apgufxa6fln3ugrukhpd2f524dqca8nx2"
+  },
+  {
+    "id": "archway1au4l3hpu0uhgyvkjrtmk2f6k2lkntp89z4t3m30570vpq3clgujsp2hj7v",
+    "asset_ids": [
+      "ibc/55D94A32095A766971637425D998AAABF8357A1ABCB1CAC8614887BE51BF1FB1",
+      "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "archway12nl8xv3ep0pfs497zeqlvvg3u20zwephpvgwrpnrjyqqpadl7uvscu85v6"
+  },
+  {
+    "id": "archway1d5s2ynrfnnjckg25h57693s5c9yljesqny2f4jcgycq6d7l7hvks08hfuv",
+    "asset_ids": [
+      "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
+      "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "archway10s356kcer509l5xljyvwjnlc0geyql0tc5gzuhn7j7t2mswuqz4qfuuxnz"
   },
   {
     "id": "archway1e6l4sh2cqpwvdgp6h99nzv9tn0ga0jvt4qlarxlqsrtfmgpdy84qt8nq32",
@@ -231,6 +291,26 @@
     "lp_token_id": "archway1j2u0z6gm9ufsfcnhp5vnuwrk8x3vcfyyycmngathnj83uv2n792q4aru5y"
   },
   {
+    "id": "archway1fnw37ae9rqs9alu0z9x6jxmd3tnyvnccugks3t28gg5yuv2me4rsxs7gtl",
+    "asset_ids": [
+      "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
+      "ibc/43897B9739BD63E3A08A88191999C632E052724AB96BD4C74AE31375C991F48D"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "archway1mstk44xccfek7lwy7cnn7fuflnq84j5c3s2ud84eg75pc5a8vc2sq4ecg3"
+  },
+  {
+    "id": "archway1j996zrycgw3jzjmm4nsf5qq8kwuzlwks2303ec77xkztttytflcsn6n6el",
+    "asset_ids": [
+      "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
+      "archway1ndrruk2atj4yrcqsnypthvnexjv6erpwtczqlfp8d97zsv8k6wgqjmw4gt"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "archway19e39kj72yzhxwzhx3343uw2dzfezmdxgg97k437t0hk0arpgu4yquj9fgm"
+  },
+  {
     "id": "archway1jsz06uamg7gfq6lqxnxnqv59kqpy86kcvzxh4szguxwnaqrch52s4mgp9z",
     "asset_ids": [
       "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
@@ -249,6 +329,16 @@
     "dex": "Astrovault",
     "type": "xyk",
     "lp_token_id": "archway1s34q9ttt4xjq685fcynypgvp9rfnyjygkl7jqupsgtyn2dc7s9xs4cv3g4"
+  },
+  {
+    "id": "archway1m43xf7zm7p6h8tlagzm82e4tg9zlyah8x3wjha5tf7vsftyysy5qcz4c3l",
+    "asset_ids": [
+      "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
+      "archway1yjdgfut7jkq5xwzyp6p5hs7hdkmszn34zkhun6mglu3falq3yh8sdkaj7j"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "archway1as3mklq5styf2ml4uy5ftg4ye7x4f6z8whd93p33qu98u60t2yrqyk67ck"
   },
   {
     "id": "archway1tadvtdm4ah6vnt8tzhfmk0e3aj62wxsvrq43zxlerqspufs2ydjs88pspp",
@@ -279,6 +369,16 @@
     "dex": "Astrovault",
     "type": "xyk",
     "lp_token_id": "archway1j2gvsuzche6r5u7m6m5t5ncqs0skvd2hfq2mql8pzldxgelcl4rsldnkhk"
+  },
+  {
+    "id": "archway1xvycseg9a9mg54jamvs87hhe4vtly7edscgh4eapvctgey8f2amqd7603t",
+    "asset_ids": [
+      "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
+      "archway1veyq07az0d7mlp49sa9f9ef56w0dd240vjsy76yv0m4pl5a2x2uq698cs7"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "archway1jd3qfde46udyvsseck7uae9ypgp2gk734rjx7erj43hw24mlxtcq0clzf0"
   },
   {
     "id": "archway1yr9nad5dv34nze2wtx6ye5hl38ymy5q70t4eu96l8hydwhs9tnkq3gwmev",

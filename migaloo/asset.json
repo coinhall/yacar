@@ -50,8 +50,9 @@
     "symbol": "GUPPY",
     "decimals": "6",
     "type": "tokenfactory",
-    "circ_supply": "1000000000000",
-    "total_supply": "1000000000000"
+    "circ_supply_api": "https://therealsnack.com/guppycirculatingsupply",
+    "total_supply_api": "https://therealsnack.com/guppycirculatingsupply",
+    "icon": "https://i.imgur.com/XsUMwsw.png"
   },
   {
     "id": "factory/migaloo1ey4sn2mkmhew4pdrzk90l9acluvas25qlhuvsfgssw42ugz8yjlqx92j9l/arbWHALE",
@@ -72,11 +73,39 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg"
   },
   {
+    "id": "factory/migaloo1r9x8fz4alekzr78k42rpmr9unpa7egsldpqeynmwl2nfvzexue9sn8l5rg/gash",
+    "name": "GASH",
+    "symbol": "GASH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://i.imgur.com/7wJ4MQQ.png"
+  },
+  {
     "id": "factory/migaloo1t862qdu9mj5hr3j727247acypym3ej47axu22rrapm4tqlcpuseqltxwq5/ophir",
+    "entity": "Ophir DAO",
     "name": "Ophir DAO token",
     "symbol": "OPHIR",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "circ_supply_api": "https://therealsnack.com/ophircirculatingsupply",
+    "total_supply": "1000000000",
+    "icon": "https://i.imgur.com/IaWDLn9.jpeg"
+  },
+  {
+    "id": "factory/migaloo1tw42uja9k7088hr6cun7sms6pj70n3scgqe8fefp7csxd4kdmpjqh5swqn/tfm",
+    "name": "token factory migration",
+    "symbol": "tfm",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMXR3NDJ1amE5azcwODhocjZjdW43c21zNnBqNzBuM3NjZ3FlOGZlZnA3Y3N4ZDRrZG1wanFoNXN3cW4vdGZt&pagination.limit=1"
+  },
+  {
+    "id": "factory/migaloo1w9q8fmww5m5c5ramuh92dpslp37ty57xgm7psvrjljgp4lcsxffslmklgs/rebel",
+    "name": "Rebel Coin",
+    "symbol": "Rebel",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMXc5cThmbXd3NW01YzVyYW11aDkyZHBzbHAzN3R5NTd4Z203cHN2cmpsamdwNGxjc3hmZnNsbWtsZ3MvcmViZWw%3D&pagination.limit=1"
   },
   {
     "id": "ibc/0102CC6E28D29F57444C645C86AE2F4E8789C3A85445A3B185E51F0A23862E87",
@@ -95,6 +124,13 @@
     "icon": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
   },
   {
+    "id": "ibc/6E5BF71FE1BEBBD648C8A7CB7A790AEF0081120B2E5746E6563FC95764716D61",
+    "name": "WBTC",
+    "symbol": "WBTC",
+    "decimals": "8",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/80E8F826480B995AE28C1EE86106C1BE2034FF1966579D29951CF61885458040",
     "name": "axlUSDC",
     "symbol": "axlUSDC",
@@ -103,12 +139,44 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
+    "id": "ibc/B65E189D3168DB40C88C6A6C92CA3D3BB0A8B6310325D4C43AB5702F06ECD60B",
+    "name": "WBTC",
+    "symbol": "WBTC.axl",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png"
+  },
+  {
     "id": "ibc/BC5C0BAFD19A5E4133FDA0F3E04AE1FBEE75A4A226554B2CBB021089FF2E1F8A",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+  },
+  {
+    "id": "ibc/E49A6D116739E0920F8F2D68A8F0A8E07DC272FA1421F70CAD738463AA296724",
+    "name": "PLNK",
+    "symbol": "PLNK",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/PLNK_drk.png"
+  },
+  {
+    "id": "ibc/E54A0C1E4A2A79FD4F92765F68E38939867C3DA36E2EA6BBB2CE81C43F4C8ADC",
+    "name": "boneWHALEt",
+    "symbol": "boneWHALEt",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/bonewhalet.svg"
+  },
+  {
+    "id": "ibc/EA459CE57199098BA5FFDBD3194F498AA78439328A92C7D136F06A5220903DA6",
+    "name": "ampWHALEt",
+    "symbol": "ampWHALEt",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/ampwhalet.svg"
   },
   {
     "id": "uwhale",
