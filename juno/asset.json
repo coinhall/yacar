@@ -108,6 +108,14 @@
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWFmczVxZXVtOGx5bjk2Y3R5ajZnOTk2eGtrNDVnbGU1dzZwZ3Y5Y3R4ZG1oNmU5YzZwbHFuOGo0YWwva2F6&pagination.limit=1"
   },
   {
+    "id": "factory/juno1csx75jka9y2u4sd7c5mga0dsp0alve4vvrljsr6zfxvddtfja37qljnjce/tmed",
+    "name": "TestMedia",
+    "symbol": "TMED",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWNzeDc1amthOXkydTRzZDdjNW1nYTBkc3AwYWx2ZTR2dnJsanNyNnpmeHZkZHRmamEzN3Fsam5qY2UvdG1lZA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1eck27qefttt5twxsg38gsr0q0hr4e3vvyxm2q4/urarma",
     "name": "Rarma",
     "symbol": "RARMA",
@@ -223,6 +231,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXJnMnF3cnFkNXQ5dTRsMGV5eHphdjN1Z3E0cmQzdjY4amFjbHF2L1RTVA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1t4v3h355vsvexz46nz6h9repmgxgfml85r78rc/cccc",
+    "name": "Coin Coin Coin Coin",
+    "symbol": "CCCC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXQ0djNoMzU1dnN2ZXh6NDZuejZoOXJlcG1neGdmbWw4NXI3OHJjL2NjY2M%3D&pagination.limit=1",
+    "icon": "https://cccc.cccc/test.pdf"
   },
   {
     "id": "factory/juno1u805lv20qc6jy7c3ttre7nct6uyl20pfky5r7e/DGL",
