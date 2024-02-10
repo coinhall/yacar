@@ -181,6 +181,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno1k67ymx75gs94mhu97vp4dqnxr8wrpf4e06az8vdun90997mulcrspzmd5p/lucy",
+    "name": "Lucy Dao Token",
+    "symbol": "LUCY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWs2N3lteDc1Z3M5NG1odTk3dnA0ZHFueHI4d3JwZjRlMDZhejh2ZHVuOTA5OTdtdWxjcnNwem1kNXAvbHVjeQ%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1kwh55zj8y3t550z7jduffzwgvd373nlc4mt9jd4kjsyqksg0fn7svau9v3/trep",
     "name": "Test Reputation",
     "symbol": "TREP",
