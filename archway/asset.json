@@ -97,6 +97,13 @@
     "icon": "https://astrovault.io/static/media/logo-sarch.913712eddb6d0277d588.svg"
   },
   {
+    "id": "archway1tl8l2gt9dncdu6huds39dsg366ctllvtnm078qkkad2mnv28erss98tl2n",
+    "name": "xAKT",
+    "symbol": "xAKT",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "archway1veyq07az0d7mlp49sa9f9ef56w0dd240vjsy76yv0m4pl5a2x2uq698cs7",
     "name": "xDEC",
     "symbol": "xDEC",
@@ -278,6 +285,13 @@
     "circ_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
     "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
+  },
+  {
+    "id": "ibc/C2CFB1C37C146CF95B0784FD518F8030FEFC76C5800105B1742FB65FFE65F873",
+    "name": "AKT",
+    "symbol": "AKT",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/E070901F36B129933202BEB3EB40A78BE242D8ECBA2D1AF9161DF06F35783900",
