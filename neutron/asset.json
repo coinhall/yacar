@@ -60,6 +60,14 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fneutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q%2Fucircus"
   },
   {
+    "id": "factory/neutron19pvz0mahhpkgdajvj7j53u5y0zsfg6c2ccf43rq6udrcjr9q2mysxtre9t/test",
+    "name": "test token",
+    "symbol": "test",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTlwdnowbWFoaHBrZ2RhanZqN2o1M3U1eTB6c2ZnNmMyY2NmNDNycTZ1ZHJjanI5cTJteXN4dHJlOXQvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
     "entity": "DINOSAUR",
     "name": "DINOSAUR",
@@ -169,6 +177,13 @@
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
+    "type": "ibc"
+  },
+  {
+    "id": "ibc/4A6A46D4263F2ED3DCE9CF866FE15E6903FB5E12D87EB8BDC1B6B1A1E2D397B4",
+    "name": "DYM",
+    "symbol": "DYM",
+    "decimals": "18",
     "type": "ibc"
   },
   {
@@ -289,7 +304,7 @@
     "symbol": "stATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
   },
@@ -328,8 +343,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -613,7 +628,7 @@
     "decimals": "6",
     "type": "native",
     "circ_supply_api": "https://info.neutron.org/v1/circulating_supply",
-    "total_supply_api": "https://rest.cosmos.directory/neutron/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg"
   },
   {

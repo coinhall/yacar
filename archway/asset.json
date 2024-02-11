@@ -7,7 +7,7 @@
     "decimals": "18",
     "type": "native",
     "circ_supply_api": "https://api.lavenderfive.com/coingecko/archway/circulating_supply",
-    "total_supply_api": "https://api.lavenderfive.com/archway/cosmos/bank/v1beta1/supply/aarch",
+    "total_supply_api": "https://m-archway.api.utsa.tech/cosmos/bank/v1beta1/supply?pagination.key=YWFyY2g%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/archway/",
     "coingecko": "https://www.coingecko.com/en/coins/archway"
@@ -97,9 +97,23 @@
     "icon": "https://astrovault.io/static/media/logo-sarch.913712eddb6d0277d588.svg"
   },
   {
+    "id": "archway1tl8l2gt9dncdu6huds39dsg366ctllvtnm078qkkad2mnv28erss98tl2n",
+    "name": "xAKT",
+    "symbol": "xAKT",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "archway1veyq07az0d7mlp49sa9f9ef56w0dd240vjsy76yv0m4pl5a2x2uq698cs7",
     "name": "xDEC",
     "symbol": "xDEC",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "archway1wh099rqeeq8x62kv3w3m7x40p2r5sjtkk25364jwtlunzmxmmyhsh9nwl0",
+    "name": "xVDL",
+    "symbol": "xVDL",
     "decimals": "6",
     "type": "cw20"
   },
@@ -154,14 +168,21 @@
     "icon": "https://astrovault.io/static/media/logo-eth.axl.c9502083459f6541237d.svg"
   },
   {
+    "id": "ibc/1BCF1FCAFE3568E234787EDFDA12460BD8931B17FE6A729DCD60FAD845558DA1",
+    "name": "VDL",
+    "symbol": "VDL",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
     "entity": "Cosmos",
     "name": "Atom",
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -244,6 +265,13 @@
     "type": "ibc"
   },
   {
+    "id": "ibc/8F6360B49F40DA2B86F7F1A3335490E126E4DD9BAC60B5ED2EEA08D8A10DC372",
+    "name": "ROCK",
+    "symbol": "ROCK",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/926432AE1C5FA4F857B36D970BE7774C7472079506820B857B75C5DE041DD7A3",
     "name": "Jackal",
     "symbol": "JKL",
@@ -278,6 +306,13 @@
     "circ_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
     "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
+  },
+  {
+    "id": "ibc/C2CFB1C37C146CF95B0784FD518F8030FEFC76C5800105B1742FB65FFE65F873",
+    "name": "AKT",
+    "symbol": "AKT",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/E070901F36B129933202BEB3EB40A78BE242D8ECBA2D1AF9161DF06F35783900",

@@ -108,6 +108,14 @@
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWFmczVxZXVtOGx5bjk2Y3R5ajZnOTk2eGtrNDVnbGU1dzZwZ3Y5Y3R4ZG1oNmU5YzZwbHFuOGo0YWwva2F6&pagination.limit=1"
   },
   {
+    "id": "factory/juno1csx75jka9y2u4sd7c5mga0dsp0alve4vvrljsr6zfxvddtfja37qljnjce/tmed",
+    "name": "TestMedia",
+    "symbol": "TMED",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWNzeDc1amthOXkydTRzZDdjNW1nYTBkc3AwYWx2ZTR2dnJsanNyNnpmeHZkZHRmamEzN3Fsam5qY2UvdG1lZA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1eck27qefttt5twxsg38gsr0q0hr4e3vvyxm2q4/urarma",
     "name": "Rarma",
     "symbol": "RARMA",
@@ -173,6 +181,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno1k67ymx75gs94mhu97vp4dqnxr8wrpf4e06az8vdun90997mulcrspzmd5p/lucy",
+    "name": "Lucy Dao Token",
+    "symbol": "LUCY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWs2N3lteDc1Z3M5NG1odTk3dnA0ZHFueHI4d3JwZjRlMDZhejh2ZHVuOTA5OTdtdWxjcnNwem1kNXAvbHVjeQ%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1kwh55zj8y3t550z7jduffzwgvd373nlc4mt9jd4kjsyqksg0fn7svau9v3/trep",
     "name": "Test Reputation",
     "symbol": "TREP",
@@ -223,6 +239,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXJnMnF3cnFkNXQ5dTRsMGV5eHphdjN1Z3E0cmQzdjY4amFjbHF2L1RTVA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1t4v3h355vsvexz46nz6h9repmgxgfml85r78rc/cccc",
+    "name": "Coin Coin Coin Coin",
+    "symbol": "CCCC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXQ0djNoMzU1dnN2ZXh6NDZuejZoOXJlcG1neGdmbWw4NXI3OHJjL2NjY2M%3D&pagination.limit=1",
+    "icon": "https://cccc.cccc/test.pdf"
   },
   {
     "id": "factory/juno1u805lv20qc6jy7c3ttre7nct6uyl20pfky5r7e/DGL",
@@ -460,8 +485,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -937,8 +962,8 @@
     "symbol": "JUNO",
     "decimals": "6",
     "type": "native",
-    "circ_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
+    "circ_supply_api": "https://rest-juno.ecostake.com/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
+    "total_supply_api": "https://rest-juno.ecostake.com/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/juno/",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network"
