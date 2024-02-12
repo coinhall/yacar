@@ -89,6 +89,13 @@
     "total_supply_api": "https://api.mainnet.archway.io/cosmwasm/wasm/v1/contract/archway1ndrruk2atj4yrcqsnypthvnexjv6erpwtczqlfp8d97zsv8k6wgqjmw4gt/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "archway1qfkn8ezkf5jqvchfs2jp3lukul7l79a4jg56upgkvu464805g78q6flwrx",
+    "name": "xCUDOS",
+    "symbol": "xCUDOS",
+    "decimals": "18",
+    "type": "cw20"
+  },
+  {
     "id": "archway1t2llqsvwwunf98v692nqd5juudcmmlu3zk55utx7xtfvznel030saclvq6",
     "name": "sARCH",
     "symbol": "sARCH",
@@ -186,6 +193,13 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
+  },
+  {
+    "id": "ibc/2AE1ECA44CAD0C933CE178742595CE6796530FA1983E4FA7F4E43FBB5854D505",
+    "name": "CUDOS",
+    "symbol": "CUDOS",
+    "decimals": "18",
+    "type": "ibc"
   },
   {
     "id": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
