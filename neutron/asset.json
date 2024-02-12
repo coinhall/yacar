@@ -579,15 +579,6 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1tf7fxwrdqmgwu8rw0a9wnyvynmh2pt89mrne0ngf93jy22vmw4ls4238ea/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
-    "id": "neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv",
-    "name": "Astro Boy",
-    "symbol": "Boy",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv/smart/eyJ0b2tlbl9pbmZvIjoge319",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ASTROBOY.png"
-  },
-  {
     "id": "neutron1wkshmjne0nclhfh6xw67w20885jgr9k52u7lnekme8jdvw897hmqraymux",
     "name": "ATONE",
     "symbol": "ATONE",
@@ -630,5 +621,16 @@
     "circ_supply_api": "https://info.neutron.org/v1/circulating_supply",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg"
+  },
+  {
+    "id": "neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv",
+    "entity": "Astro BOY",
+    "name": "Astro BOY",
+    "symbol": "BOY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "777777777",
+    "total_supply": "777777777",
+    "icon": "https://i.ibb.co/vqfkmH7/boy.png"
   }
 ]
