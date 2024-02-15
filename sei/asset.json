@@ -995,6 +995,14 @@
     "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
+    "id": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg"
+  },
+  {
     "id": "ibc/6CDD4663F2F09CD62285E2D45891FC149A3568E316CE3EBBE201A71A78A69388",
     "name": "Atom",
     "symbol": "ATOM",
@@ -1036,6 +1044,14 @@
     "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
+  },
+  {
+    "id": "ibc/CA6FBFAF399474A06263E10D0CE5AEBBE15189D6D4B2DD9ADE61007E68EB9DB0",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.png"
   },
   {
     "id": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
@@ -4745,6 +4761,14 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmwasm/wasm/v1/contract/sei179j7dcp6hpafeqauudjuae930dtk65gkgyvlvafnud7gs7upedaqluenkd/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei179rz0vlq8z92vn4cune29pd5kpl85370cyta7h2r5vew7wg5698s6kql9q",
+    "name": "SEI 1$",
+    "symbol": "SEIONE",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei179rz0vlq8z92vn4cune29pd5kpl85370cyta7h2r5vew7wg5698s6kql9q/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei17a6mx6lf232dsx7a9z307wjsngww4alsc9enx3vp8tc2rcdwzfxswa9287",
     "name": "The Seinate",
     "symbol": "SEINAT",
@@ -5449,6 +5473,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-rest.publicnode.com/cosmwasm/wasm/v1/contract/sei18kt774us7a5har5fgttr5mqsn5w2att4qkks6dnh6e8shw6keyvqn0r94f/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei18ktxr35j3k2np86pldc56lua9ma2n95w6pcfrtzctu990jzc7wgq54l567",
+    "name": "SEI MOON",
+    "symbol": "SEIMOON",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei18ktxr35j3k2np86pldc56lua9ma2n95w6pcfrtzctu990jzc7wgq54l567/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei18kyy5ywh20vl58j99nvxwfjlhuypxtlm3thchdp6uat6vjxg9j8s26ngzr",
@@ -6927,6 +6959,14 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmwasm/wasm/v1/contract/sei1azqs7r5yxphg2rasyjw3ma7qlnvwxxfljg6xahxhzvpk3xqln26s8sa5zk/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei1azsjpc32hya5tjr8kfuwzr4qv9myr8xcv68evzc2chhwxrpd4dgs340dla",
+    "name": "DARKNESS",
+    "symbol": "DARK",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1azsjpc32hya5tjr8kfuwzr4qv9myr8xcv68evzc2chhwxrpd4dgs340dla/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1c0kz0nusfj0h94ps9kx3ky85llhs6emu5d5lreeplf4s82pect5snwygqg",
     "name": "SEITOSHI",
     "symbol": "SEITOSHI",
@@ -7042,6 +7082,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-rest.publicnode.com/cosmwasm/wasm/v1/contract/sei1c96cs4r4eushan8adazq375468483r0wkpxgdgv3mgtslhyr2hjsnp0auw/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1ca3wa8nmun7n7qsurdmydlg6xg9hh0yxgx6p6rafm9ux62623wksp4hzdn",
+    "name": "SAGMI",
+    "symbol": "SAGMI",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1ca3wa8nmun7n7qsurdmydlg6xg9hh0yxgx6p6rafm9ux62623wksp4hzdn/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1cc4hzqymjuhupsx4kh3t5wt5k6fxj4rel4jvzurhrkdau94maksstl2z52",
@@ -9094,6 +9142,17 @@
     "symbol": "CRASEIFROG",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "sei1g3d4402zhnvwhkfkr0fnjaqajn3jqvv49vprgqymg4htg5zs2v5qu6wqmt",
+    "entity": "Seipex Credits",
+    "name": "Seipex Credits",
+    "symbol": "SPEX",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply": "10000000000",
+    "total_supply": "10000000000",
+    "icon": "https://i.imgur.com/maqBZia.png"
   },
   {
     "id": "sei1g3wazuadhyam7t2yh6vk3ycxlsyd3erc8kdk8zsxuuc4ya0f0uqq3x4v60",
@@ -16195,6 +16254,14 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1v0nryxeq35ccl3fxwq8urhne5zws0v3vrp3egda86etyd9a9r7kqsp604n/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei1v0zvvhhnlfr8yfmcuk5ft09vzehpwuh9lx6v3m3kkadhtpe0v4jsk42eeg",
+    "name": "ZENSEI",
+    "symbol": "ZENSEI",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1v0zvvhhnlfr8yfmcuk5ft09vzehpwuh9lx6v3m3kkadhtpe0v4jsk42eeg/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1v2tlwkvnc55xaw6uemkr9xszg68xx2cejgu8ncgg6zctkz4ghsystqa5dw",
     "name": "Wrapped SEI",
     "symbol": "WSEI",
@@ -16208,6 +16275,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-rest.publicnode.com/cosmwasm/wasm/v1/contract/sei1v2zlhzg9p5lj4855gcq4zg3ygn5vacntnn25vpw4lsqehrk82ews64nucj/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1v306526vxpfy78jkj6l4r4jqn64z6gqggthflhusteydrrpxjvtqanxw2w",
+    "name": "CCT2n",
+    "symbol": "CCT2",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1v306526vxpfy78jkj6l4r4jqn64z6gqggthflhusteydrrpxjvtqanxw2w/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1v33flv5sxzq7gjadlh08hdzwd7verpke5a8ac07rx0jjy0dztsqqe3ll7g",

@@ -8,6 +8,17 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTBocDQ2MnJ0ZnRhYzJ0MzN6ZzQweXRud2dlM3N5cTdoY2pjN2c3dHZrMjZlN3Jmc2owZ3E3cHgzY3EvYmFy&pagination.limit=1"
   },
   {
+    "id": "factory/osmo10n8rv8npx870l69248hnp6djy6pll2yuzzn9x8/BADKID",
+    "entity": "BADKID",
+    "name": "BADKID",
+    "symbol": "BADKID",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "1700000000",
+    "total_supply": "1700000000",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/badkid.png"
+  },
+  {
     "id": "factory/osmo1279xudevmf5cw83vkhglct7jededp86k90k2le/RAPTR",
     "name": "RAPTR",
     "symbol": "RAPTR",
@@ -2137,6 +2148,8 @@
     "symbol": "DYM",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply": "146000000",
+    "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dymension/images/dymension-logo.svg",
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
