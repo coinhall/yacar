@@ -27,8 +27,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
@@ -54,8 +54,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
@@ -192,7 +192,7 @@
     "symbol": "xPRISM",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://prismprotocol.app/xprism.png"
   },
   {
@@ -1014,7 +1014,7 @@
     "symbol": "KLT",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://i.ibb.co/GC2qYmj/Logo.png"
   },
   {
@@ -1142,6 +1142,15 @@
     "symbol": "MMSH",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2",
+    "name": "Staking FROG Token",
+    "symbol": "sFROG",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/QXZfY3B/s-FROG-128.png"
   },
   {
     "id": "terra13dvh4d653c6tyu7f30hwcpjnrz8xhx87yduphr",
@@ -1383,7 +1392,7 @@
     "symbol": "cLUNA",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://home.prismprotocol.app/cluna.png"
   },
   {
@@ -1708,7 +1717,7 @@
     "symbol": "DOSH",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra14mvkydkwm2pzz62cgrkpeusphm4trrqrzd88ju/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra14mvkydkwm2pzz62cgrkpeusphm4trrqrzd88ju/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://dogeshib.xyz/static/media/shiba-doge.0f2ade2f.png"
   },
   {
@@ -1767,7 +1776,7 @@
     "symbol": "FRG",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://i.ibb.co/3Rh3Hgv/FRG-128-fff72949565e78ae127e.png"
   },
   {
@@ -2276,7 +2285,7 @@
     "symbol": "ALTE",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://gblobscdn.gitbook.com/spaces%2F-Mf4Y6TIGwMtHEN3AaXV%2Favatar-1626907729941.png?alt=media"
   },
   {
@@ -3090,7 +3099,7 @@
     "symbol": "RCT",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://reactor.money/assets/logo.svg"
   },
   {
@@ -3251,7 +3260,7 @@
     "symbol": "yLUNA",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://home.prismprotocol.app/yluna.png"
   },
   {
@@ -3261,7 +3270,7 @@
     "symbol": "LunaX",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stader/",
     "coingecko": "https://www.coingecko.com/en/coins/stader"
@@ -3405,7 +3414,7 @@
     "symbol": "sKUJI",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra188w26t95tf4dz77raftme8p75rggatxjxfeknw/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra188w26t95tf4dz77raftme8p75rggatxjxfeknw/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://assets.kujira.app/skuji.png"
   },
   {
@@ -4180,7 +4189,7 @@
     "symbol": "XMARS",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://marsprotocol.io/xMARSTokenMini.svg"
   },
   {
@@ -5392,7 +5401,7 @@
     "symbol": "bETH",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
   },
   {
@@ -5894,7 +5903,7 @@
     "symbol": "ROBO",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://i.ibb.co/nmhRXB9/token.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/robohero/",
     "coingecko": "https://www.coingecko.com/en/coins/robohero"
@@ -5927,7 +5936,7 @@
     "symbol": "OSMIO",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1f7ekmqgzvd0myju7z922ecg4camkq27j77yvlut0jfvrqakm0ersjftceh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1f7ekmqgzvd0myju7z922ecg4camkq27j77yvlut0jfvrqakm0ersjftceh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://i.ibb.co/6FzrbKx/Osmio-Logo.png"
   },
   {
@@ -6276,11 +6285,14 @@
   },
   {
     "id": "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00",
+    "entity": "Terra Tritium",
     "name": "Terra Tritium Token",
     "symbol": "TRIT",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png"
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
+    "verification_tx": "B32037848A19AC68A736DB068F5C3660F51093DFCC5A417D50EB075C8D1AE655"
   },
   {
     "id": "terra1g73ypdd0ewkwg6zqkjc3a682sgle4cz7k64rzy",
@@ -6648,6 +6660,14 @@
     "symbol": "DONT",
     "decimals": "3",
     "type": "cw20"
+  },
+  {
+    "id": "terra1h7mlxtlc4vedll90z9xktl0agjgfl4snh9ujnsmu7vvfwhsfx5vq3g9nf8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1h7mlxtlc4vedll90z9xktl0agjgfl4snh9ujnsmu7vvfwhsfx5vq3g9nf8/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt",
@@ -7115,7 +7135,7 @@
     "symbol": "LUNW",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/logo.png",
     "verification_tx": "BB45DE9B98E844D4A3D6BDB0E06684A4E95B3B55FB132AE5DBF2EF1A037241AD"
   },
@@ -7356,6 +7376,18 @@
     "type": "cw20"
   },
   {
+    "id": "terra1juequh5luypzft4ach0066dagrnfyc27e486srp3nrd790rtvh4q56fdeg",
+    "entity": "4REALZA COIN",
+    "name": " 4REALZA COIN (Wormhole)",
+    "symbol": "4RZ",
+    "decimals": "8",
+    "type": "cw20",
+    "circ_supply": "1000000000",
+    "total_supply": "1000000000",
+    "icon": "https://pbs.twimg.com/profile_images/1738185644567035904/H2EBQzud.jpg",
+    "coinmarketcap": "https://coinmarketcap.com/dexscan/bsc/0xeb549621890d99bfc09ea2b53fd2380f81cf121d"
+  },
+  {
     "id": "terra1juspa927c7kdr0jf7wc0lxg6wfjz2cersm9r82",
     "entity": "Astroport",
     "name": "terraswap liquidity token",
@@ -7494,6 +7526,13 @@
     "type": "cw20"
   },
   {
+    "id": "terra1k3f3ajwx6g2eszxet6z85h2sly8ealzce6vk7tldx097dakgdznqdnt0gl",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "terra1k5hx3egz7jnzqs7n2ze0d93mce80y4cndd5saj",
     "name": "GGG",
     "symbol": "GGG",
@@ -7587,7 +7626,7 @@
     "symbol": "bLUNA",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://whitelist.anchorprotocol.com/logo/bLUNA.png"
   },
   {
@@ -10567,6 +10606,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1szuryd6qttsrp4seufq2xap0x7fe5zgy9wawqts59j5wu7lwncysxrkumc",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1szuryd6qttsrp4seufq2xap0x7fe5zgy9wawqts59j5wu7lwncysxrkumc/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1t0csdwp5u9592522n35ededwt2e46sur5u4mkg",
     "name": "META",
     "symbol": "MVRS",
@@ -10651,6 +10698,13 @@
     "id": "terra1t8wkdq7kth8ngxgrpltwam0gv0h88ajh0get5c",
     "name": "PLAYNITY",
     "symbol": "PLY",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "terra1t904frvxwpujzjyq7mnevrwdqc9wze33sfqr58nuu7z7hzsesqksf5eewz",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
   },
@@ -12141,7 +12195,7 @@
     "symbol": "DKW",
     "decimals": "2",
     "type": "cw20",
-    "total_supply_api": "https://rest.cosmos.directory/terra/cosmwasm/wasm/v1/contract/terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png"
   },
   {
@@ -12261,6 +12315,14 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1xry5ez58kun6e887ulhd0drsqf8m3nu8fqwsy6hgur6grcf4j4msws0hvj",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1xry5ez58kun6e887ulhd0drsqf8m3nu8fqwsy6hgur6grcf4j4msws0hvj/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1xs3pv5rd2xu36w9vg05shkgxcrxkvz40fhnfsv",
