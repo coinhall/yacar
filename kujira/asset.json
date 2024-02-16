@@ -73,8 +73,8 @@
     "symbol": "USK",
     "decimals": "6",
     "type": "tokenfactory",
-    "circ_supply_api": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExcWswMGg1YXR1dHBzdjkwMHgyMDJweHg0Mm5wanI5dGhnNThkbnFwYTcyZjJwN20ybHVhc2U0NDRhNy91dXNr&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/kujira/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExcWswMGg1YXR1dHBzdjkwMHgyMDJweHg0Mm5wanI5dGhnNThkbnFwYTcyZjJwN20ybHVhc2U0NDRhNy91dXNr&pagination.limit=1",
+    "circ_supply_api": "https://rest-kujira.ecostake.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExcWswMGg1YXR1dHBzdjkwMHgyMDJweHg0Mm5wanI5dGhnNThkbnFwYTcyZjJwN20ybHVhc2U0NDRhNy91dXNr&pagination.limit=1",
+    "total_supply_api": "https://rest-kujira.ecostake.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExcWswMGg1YXR1dHBzdjkwMHgyMDJweHg0Mm5wanI5dGhnNThkbnFwYTcyZjJwN20ybHVhc2U0NDRhNy91dXNr&pagination.limit=1",
     "icon": "https://i.ibb.co/V3ZM8WF/usk.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/usk",
     "coingecko": "https://www.coingecko.com/en/coins/usk",
@@ -111,6 +111,13 @@
     "verification_tx": "kujira-fin"
   },
   {
+    "id": "factory/kujira1xe0awk5planmtsmjel5xtx2hzhqdw5p8z66yqd/uaqla",
+    "name": "AQLA",
+    "symbol": "AQLA",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
     "entity": "Wormhole",
     "name": "WAVAX - Wrapped AVAX",
@@ -127,7 +134,7 @@
     "symbol": "stATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stride-staked-atom",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom",
@@ -327,7 +334,7 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
     "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride",
@@ -348,8 +355,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos",
     "verification_tx": "kujira-fin"
@@ -461,6 +468,15 @@
     "verification_tx": "kujira-fin"
   },
   {
+    "id": "ibc/4EFD563C64F84F60AFB4BB7A8473AAA632CF5817FDF2CF51E68E4E3EDAE66430",
+    "name": "ODIN",
+    "symbol": "ODIN",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/odin.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/odin-protocol"
+  },
+  {
     "id": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
     "entity": "Stargaze",
     "name": "Stargaze",
@@ -568,6 +584,15 @@
     "verification_tx": "kujira-fin"
   },
   {
+    "id": "ibc/9012F7E79EACC34CE81A4404ECBEED5A5DFFD61CCEE23F2B8600BAC948C483E6",
+    "name": "Dymension",
+    "symbol": "DYM",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dymension/images/dymension-logo.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/dymension"
+  },
+  {
     "id": "ibc/90D9BE4D0D9BFD6AE61FCACF84765820EDA9EE795548324AD60FF416E6685ECF",
     "name": "Frienzies",
     "symbol": "FRNZ",
@@ -591,7 +616,7 @@
     "symbol": "ARCH",
     "decimals": "18",
     "type": "ibc",
-    "total_supply_api": "https://rest.cosmos.directory/archway/cosmos/bank/v1beta1/supply?pagination.key=YWFyY2g%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-archway.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=YWFyY2g%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
     "coingecko": "https://www.coingecko.com/en/coins/archway",
     "verification_tx": "kujira-fin"
@@ -711,8 +736,8 @@
     "symbol": "UMEE",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/umee/cosmos/bank/v1beta1/supply?pagination.key=dXVtZWU%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/umee/cosmos/bank/v1beta1/supply?pagination.key=dXVtZWU%3D&pagination.limit=1",
+    "circ_supply_api": "https://umee.api.kjnodes.com/cosmos/bank/v1beta1/supply?pagination.key=dXVtZWU%3D&pagination.limit=1",
+    "total_supply_api": "https://umee.api.kjnodes.com/cosmos/bank/v1beta1/supply?pagination.key=dXVtZWU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png",
     "coingecko": "https://www.coingecko.com/en/coins/umee"
   },
@@ -724,6 +749,15 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/glto.svg",
     "verification_tx": "kujira-fin"
+  },
+  {
+    "id": "ibc/B64A07C006C0F5E260A8AD50BD53568F1FD4A0D75B7A9F8765C81BEAFDA62053",
+    "name": "Levana",
+    "symbol": "LVN",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/levana-protocol"
   },
   {
     "id": "ibc/BBC45F1B65B6D3C11C3C56A9428D38C3A8D03944473791C52DFB7CD3F8342CBC",
@@ -774,7 +808,7 @@
     "symbol": "stINJ",
     "decimals": "18",
     "type": "ibc",
-    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3Rpbmo=&pagination.limit=1",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=c3Rpbmo=&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stinj.svg",
     "verification_tx": "kujira-fin"
   },
@@ -924,8 +958,8 @@
     "symbol": "JUNO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
-    "total_supply_api": "https://rest.cosmos.directory/juno/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
+    "circ_supply_api": "https://rest-juno.ecostake.com/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
+    "total_supply_api": "https://rest-juno.ecostake.com/cosmos/bank/v1beta1/supply?pagination.key=dWp1bm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg",
     "coingecko": "https://www.coingecko.com/en/coins/juno-network",
     "verification_tx": "kujira-fin"
@@ -984,7 +1018,7 @@
     "symbol": "stOSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-stride.pupmos.network/cosmos/bank/v1beta1/supply?pagination.key=c3R1b3Ntbw==&pagination.limit=1",
+    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=c3R1b3Ntbw==&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg",
     "verification_tx": "kujira-fin"
   },
