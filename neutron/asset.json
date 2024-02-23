@@ -656,5 +656,16 @@
     "circ_supply_api": "https://info.neutron.org/v1/circulating_supply",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg"
+  },
+  {
+    "id": "factory/neutron1w0pz4mjw7n96kkragj8etgfgakg5vw9lzg77wq/cartel",
+    "entity": "CARTEL",
+    "name": "Cartel on Cosmos",
+    "symbol": "CARTEL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "383774098",
+    "total_supply": "383774098",
+    "icon": "https://i.ibb.co/h27VC32/cartel.png"
   }
 ]
