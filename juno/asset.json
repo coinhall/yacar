@@ -159,6 +159,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno1h6y8tkceau4d8zyv5aa0fwdj2pa2y0gz2hx0tq/uwind",
+    "name": "WIND",
+    "symbol": "WIND",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWg2eTh0a2NlYXU0ZDh6eXY1YWEwZndkajJwYTJ5MGd6Mmh4MHRxL3V3aW5k&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1hhlng2ve3jyud84zklvr3shlehg0attad8tewz/utoken",
     "name": "Joe",
     "symbol": "PEOPLE",
