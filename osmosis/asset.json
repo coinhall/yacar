@@ -129,6 +129,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1f9s2gh6p0m6h5g2zgmvpjcjwwuh7fakvfy8us45prcalrvyx5qkqukx0pg/dbond",
+    "name": "1000000",
+    "symbol": "dBOND",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWY5czJnaDZwMG02aDVnMnpnbXZwamNqd3d1aDdmYWt2Znk4dXM0NXByY2FscnZ5eDVxa3F1a3gwcGcvZGJvbmQ%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1f9xmnj8jgnqgchddl42yp6f3txwfz3hyymzpav9stld7nl5sxn0s3cjmpp/bntt",
     "name": "Buffalo Nation Trust Tokens",
     "symbol": "BNTT",
