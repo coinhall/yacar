@@ -159,11 +159,14 @@
   },
   {
     "id": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
+    "entity": "Injective Quants",
     "name": "Quants",
     "symbol": "QUNT",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMjdsNWEyd21reXZ1Y3hkbHVwcXlhYzN5MHY2d3FmaHEwM2thNjQvcXVudA%3D%3D&pagination.limit=1"
+    "circ_supply": "400000000",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMjdsNWEyd21reXZ1Y3hkbHVwcXlhYzN5MHY2d3FmaHEwM2thNjQvcXVudA%3D%3D&pagination.limit=1",
+    "icon": "https://i.imgur.com/72vp72b.png"
   },
   {
     "id": "factory/inj12aljr5fewp8vlns0ny740wuwd60q89x0xsqcz3/XYZ",
