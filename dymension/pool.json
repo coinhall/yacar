@@ -1,5 +1,15 @@
 [
   {
+    "id": "dym13jr3p5p070h4pu7sxhtldag9899sev9pwx0r2vlvpkyravpxlqssgvkt54",
+    "asset_ids": [
+      "adym",
+      "ibc/F428C5D24BEF8CA22EE74810A583422C12F02865ADAC185678C73015A88227B3"
+    ],
+    "dex": "Dymension",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/7"
+  },
+  {
     "id": "dym1500hy75krs9e8t50aav6fahk8sxhajn9ctp40qwvvn8tcprkk6wsej4zfy",
     "asset_ids": [
       "adym",
@@ -48,5 +58,15 @@
     "dex": "Dymension",
     "type": "balancerV1",
     "lp_token_id": "gamm/pool/1"
+  },
+  {
+    "id": "dym1p0rpttlp8v2hy7m82l2t9p6545788f2ac3yksgrlycke2wr4mu0qkdcnlv",
+    "asset_ids": [
+      "adym",
+      "ibc/F46BA5EDCA6DAA5F7EFD3838430E03647CDC786BB1B89BC9FDD1CBE16B099645"
+    ],
+    "dex": "Dymension",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/6"
   }
 ]
