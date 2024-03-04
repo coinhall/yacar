@@ -6,7 +6,7 @@ import (
 	"io"
 	"log"
 	"os"
-	"strconv"
+	"path/filepath"
 	"strings"
 
 	"github.com/coinhall/yacarsdk/v2"
@@ -20,6 +20,7 @@ func Start(filePaths []string) {
 func validateYacarJSONs(filePaths []string) {
 	chainFileMap := map[string]map[string]*os.File{}
 	for _, fp := range filePaths {
+		fp = filepath.ToSlash(fp)
 		fpElements := strings.Split(fp, "/")
 		chain := fpElements[len(fpElements)-2]
 		filetype := strings.Split(fpElements[len(fpElements)-1], ".")[0]
@@ -63,7 +64,11 @@ func validateYacarJSON(cfm map[string]map[string]*os.File) error {
 			case strings.Contains(file.Name(), "contract"):
 				err = validateContractJSON(file)
 			case strings.Contains(file.Name(), "entity"):
-				err = validateEntityJSON(file)
+				accountFile := cfm[chain]["account"]
+				assetFile := cfm[chain]["asset"]
+				binaryFile := cfm[chain]["binary"]
+				contractFile := cfm[chain]["contract"]
+				err = validateEntityJSON(file, accountFile, assetFile, binaryFile, contractFile)
 			case strings.Contains(file.Name(), "pool"):
 				err = validatePoolJSON(file)
 			default:
@@ -81,26 +86,13 @@ func validateYacarJSON(cfm map[string]map[string]*os.File) error {
 func validateAccountJSON(file *os.File) error {
 	var accounts []yacarsdk.Account
 
+	file.Seek(0, io.SeekStart)
 	if err := json.NewDecoder(file).Decode(&accounts); err != nil {
 		return fmt.Errorf("error while decoding account JSON: %s", err)
 	}
 
-	for _, account := range accounts {
-		if !account.IsMinimallyPopulated() {
-			return fmt.Errorf("account ID %s is not minimally populated", account.Id)
-		}
-	}
-
-	idCount := make(map[string]struct{})
-	for _, account := range accounts {
-		if _, ok := idCount[account.Id]; ok {
-			return fmt.Errorf("duplicate account ID: %s", account.Id)
-		}
-
-		idCount[account.Id] = struct{}{}
-	}
-
-	return nil
+	_, err := yacarsdk.ValidateAccounts(accounts)
+	return err
 }
 
 func validateAssetJSON(assetFile, entityFile *os.File) error {
@@ -121,146 +113,42 @@ func validateAssetJSON(assetFile, entityFile *os.File) error {
 		return fmt.Errorf("error while decoding entity JSON for asset validation: %s", err)
 	}
 
-	for _, asset := range assets {
-		if !asset.IsMinimallyPopulated() {
-			return fmt.Errorf("asset ID %s is not minimally populated", asset.Id)
-		}
-
-		if asset.Id == asset.Name {
-			return fmt.Errorf("asset name for %s cannot be the asset ID", asset.Id)
-		}
-
-		if asset.Id == asset.Symbol {
-			return fmt.Errorf("asset symbol for %s cannot be the asset ID", asset.Id)
-		}
-
-		if len(asset.Symbol) > 20 {
-			return fmt.Errorf("asset symbol for %s cannot be longer than 20 characters", asset.Id)
-		}
-	}
-
-	idCount := make(map[string]struct{})
-	for _, asset := range assets {
-		if _, ok := idCount[asset.Id]; ok {
-			return fmt.Errorf("duplicate asset ID: %s", asset.Id)
-		}
-		idCount[asset.Id] = struct{}{}
-	}
-
-	// Circ supply check
-	for _, asset := range assets {
-		if len(asset.CircSupply) > 0 && len(asset.CircSupplyAPI) > 0 {
-			return fmt.Errorf("[%s] either 'circ_supply' or 'circ_supply_api' must be specified, but not both", asset.Id)
-		}
-
-		if len(asset.CircSupply) > 0 {
-			if parsed, err := strconv.ParseFloat(asset.CircSupply, 64); err != nil && parsed > 0 {
-				return fmt.Errorf("[%s] 'circ_supply' must be float greater than 0", asset.Id)
-			}
-		}
-	}
-
-	// Total supply check
-	for _, asset := range assets {
-		if len(asset.TotalSupply) > 0 && len(asset.TotalSupplyAPI) > 0 {
-			return fmt.Errorf("[%s] either 'total_supply' or 'total_supply_api' must be specified, but not both", asset.Id)
-		}
-
-		if len(asset.TotalSupply) > 0 {
-			if parsed, err := strconv.ParseFloat(asset.TotalSupply, 64); err != nil && parsed > 0 {
-				return fmt.Errorf("[%s] 'total_supply' must be number greater than 0", asset.Id)
-			}
-		}
-	}
-
-	// Corresponding entity check
-	entityNameSet := map[string]struct{}{}
-	for _, entity := range entities {
-		entityNameSet[entity.Name] = struct{}{}
-	}
-	for _, asset := range assets {
-		if asset.Entity == "" {
-			continue
-		}
-		if _, ok := entityNameSet[asset.Entity]; ok {
-			continue
-		}
-
-		return fmt.Errorf("[%s] entity '%s' does not exists", asset.Id, asset.Entity)
-	}
-
-	// Non-permissioned DEX TxHash must be unique
-	permissionedDex := map[string]struct{}{
-		"osmosis-main": {},
-		"kujira-fin":   {},
-	}
-	txCheck := make(map[string]struct{})
-	for _, asset := range assets {
-		// If asset is from a permissioned DEX or is empty, skip
-		if _, ok := permissionedDex[asset.VerificationTx]; ok || asset.VerificationTx == "" {
-			continue
-		}
-
-		if _, ok := txCheck[asset.VerificationTx]; ok {
-			return fmt.Errorf("duplicate asset tx hash: %s", asset.Id)
-		}
-		txCheck[asset.VerificationTx] = struct{}{}
-	}
-	return nil
+	_, err := yacarsdk.ValidateAssets(assets, entities)
+	return err
 }
 
 func validateBinaryJSON(file *os.File) error {
 	var binaries []yacarsdk.Binary
 
+	file.Seek(0, io.SeekStart)
 	if err := json.NewDecoder(file).Decode(&binaries); err != nil {
 		return fmt.Errorf("error while decoding binary JSON: %s", err)
 	}
 
-	for _, binary := range binaries {
-		if !binary.IsMinimallyPopulated() {
-			return fmt.Errorf("binary ID %s is not minimally populated", binary.Id)
-		}
-	}
-
-	idCount := make(map[string]struct{})
-	for _, binary := range binaries {
-		if _, ok := idCount[binary.Id]; ok {
-			return fmt.Errorf("duplicate binary ID: %s", binary.Id)
-		}
-
-		idCount[binary.Id] = struct{}{}
-	}
-
-	return nil
+	_, err := yacarsdk.ValidateBinaries(binaries)
+	return err
 }
 
 func validateContractJSON(file *os.File) error {
 	var contracts []yacarsdk.Contract
 
+	file.Seek(0, io.SeekStart)
 	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
 		return fmt.Errorf("error while decoding contract JSON: %s", err)
 	}
 
-	for _, contract := range contracts {
-		if !contract.IsMinimallyPopulated() {
-			return fmt.Errorf("contract ID %s is not minimally populated", contract.Id)
-		}
-	}
-
-	idCount := make(map[string]struct{})
-	for _, contract := range contracts {
-		if _, ok := idCount[contract.Id]; ok {
-			return fmt.Errorf("duplicate contract ID: %s", contract.Id)
-		}
-
-		idCount[contract.Id] = struct{}{}
-	}
-
-	return nil
+	_, err := yacarsdk.ValidateContracts(contracts)
+	return err
 }
 
-func validateEntityJSON(entityFile *os.File) error {
-	var entities []yacarsdk.Entity
+func validateEntityJSON(entityFile, accountFile, assetFile, binaryFile, contractFile *os.File) error {
+	var (
+		entities  []yacarsdk.Entity
+		accounts  []yacarsdk.Account
+		assets    []yacarsdk.Asset
+		binaries  []yacarsdk.Binary
+		contracts []yacarsdk.Contract
+	)
 
 	// Reset file offset to beginning of file in case it was read before, not doing so would cause
 	// an EOF error when trying to decode the JSON
@@ -269,22 +157,42 @@ func validateEntityJSON(entityFile *os.File) error {
 		return fmt.Errorf("error while decoding entity JSON for entity validation: %s", err)
 	}
 
-	for _, entity := range entities {
-		if !entity.IsMinimallyPopulated() {
-			return fmt.Errorf("entity name %s is not minimally populated", entity.Name)
-		}
+	usedEntities := map[string]struct{}{}
+
+	accountFile.Seek(0, io.SeekStart)
+	if err := json.NewDecoder(accountFile).Decode(&accounts); err != nil {
+		return fmt.Errorf("error while decoding account JSON for entity validation: %s", err)
+	}
+	for _, account := range accounts {
+		usedEntities[account.Entity] = struct{}{}
 	}
 
-	entityCount := make(map[string]struct{})
-	for _, entity := range entities {
-		if _, ok := entityCount[entity.Name]; ok {
-			return fmt.Errorf("duplicate entity name: %s", entity.Name)
-		}
-
-		entityCount[entity.Name] = struct{}{}
+	assetFile.Seek(0, io.SeekStart)
+	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
+		return fmt.Errorf("error while decoding asset JSON for entity validation: %s", err)
+	}
+	for _, asset := range assets {
+		usedEntities[asset.Entity] = struct{}{}
 	}
 
-	return nil
+	binaryFile.Seek(0, io.SeekStart)
+	if err := json.NewDecoder(binaryFile).Decode(&binaries); err != nil {
+		return fmt.Errorf("error while decoding binary JSON for entity validation: %s", err)
+	}
+	for _, binary := range binaries {
+		usedEntities[binary.Entity] = struct{}{}
+	}
+
+	contractFile.Seek(0, io.SeekStart)
+	if err := json.NewDecoder(contractFile).Decode(&contracts); err != nil {
+		return fmt.Errorf("error while decoding contract JSON for entity validation: %s", err)
+	}
+	for _, contract := range contracts {
+		usedEntities[contract.Entity] = struct{}{}
+	}
+
+	_, err := yacarsdk.ValidateEntities(entities, usedEntities)
+	return err
 }
 
 func validatePoolJSON(file *os.File) error {
@@ -294,20 +202,6 @@ func validatePoolJSON(file *os.File) error {
 		return fmt.Errorf("error while decoding pool JSON: %s", err)
 	}
 
-	for _, pool := range pools {
-		if !pool.IsMinimallyPopulated() {
-			return fmt.Errorf("pool ID %s is not minimally populated", pool.Id)
-		}
-	}
-
-	idCount := make(map[string]struct{})
-	for _, pool := range pools {
-		if _, ok := idCount[pool.Id]; ok {
-			return fmt.Errorf("duplicate pool ID: %s", pool.Id)
-		}
-
-		idCount[pool.Id] = struct{}{}
-	}
-
-	return nil
+	_, err := yacarsdk.ValidatePools(pools)
+	return err
 }

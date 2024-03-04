@@ -7,7 +7,6 @@ import (
 	"os"
 	"sort"
 	"strings"
-	"sync"
 
 	"github.com/coinhall/yacarsdk/v2"
 )
@@ -18,24 +17,16 @@ func Start(filePaths []string) {
 }
 
 func sortYacarJSONs(filePaths []string) {
-	var wg sync.WaitGroup
 	for _, filePath := range filePaths {
-		wg.Add(1)
-		go func(filePath string) {
-			defer wg.Done()
+		file, err := os.OpenFile(filePath, os.O_RDWR, 0644)
+		if err != nil {
+			panic(fmt.Sprintf("error while opening file: %s", err))
+		}
+		defer file.Close()
 
-			file, err := os.OpenFile(filePath, os.O_RDWR, 0644)
-			if err != nil {
-				panic(fmt.Sprintf("error while opening file: %s", err))
-			}
-			defer file.Close()
-
-			sortedJSON := sortYacarJSON(file)
-			writeYacarJSON(file, sortedJSON)
-
-		}(filePath)
+		sortedJSON := sortYacarJSON(file)
+		writeYacarJSON(file, sortedJSON)
 	}
-	wg.Wait()
 }
 
 func sortYacarJSON(file *os.File) interface{} {
