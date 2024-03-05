@@ -328,6 +328,14 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1vvmvqzt3qr4hn952qvqn00f92walwuak0fx9rcynd0043jjdt6lsrft4fd%2Fact"
   },
   {
+    "id": "factory/osmo1w6eld23s0vsswfq4vk25cjsghsgxz62rvu06r4puktan7dela0wstxy0j3/sail",
+    "name": "SAIL",
+    "symbol": "SAIL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXc2ZWxkMjNzMHZzc3dmcTR2azI1Y2pzZ2hzZ3h6NjJydnUwNnI0cHVrdGFuN2RlbGEwd3N0eHkwajMvc2FpbA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1wh8arjgtpdgyf9rlw3k960kkx0943hy92n20sg4pjyk8grc6dhzsunuchs/ctc",
     "name": "cTaurus",
     "symbol": "cTc",
