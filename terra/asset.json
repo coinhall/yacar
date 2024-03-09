@@ -1,11 +1,13 @@
 [
   {
     "id": "factory/terra1dndhtdr2v7ca8rrn67chlqw3cl3xhm3m2uxls62vghcg3fsh5tpss5xmcu/MOAR",
+    "entity": "Lion DAO",
     "name": "MOAR",
     "symbol": "MOAR",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS90ZXJyYTFkbmRodGRyMnY3Y2E4cnJuNjdjaGxxdzNjbDN4aG0zbTJ1eGxzNjJ2Z2hjZzNmc2g1dHBzczV4bWN1L01PQVI%3D&pagination.limit=1"
+    "circ_supply_api": "https://terrasco.pe/mainnet/assets/factory%2Fterra1dndhtdr2v7ca8rrn67chlqw3cl3xhm3m2uxls62vghcg3fsh5tpss5xmcu%2FMOAR",
+    "icon": "https://ibb.co/F7rqXbR"
   },
   {
     "id": "factory/terra1hwsm9fm0j79lgfgd37z8fe6gsxl4d4mxtc5td8/qt",
