@@ -4416,6 +4416,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj128usk4mqn69h9hmthqxhasyewkrhmprl7jp6lv/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj129hsu2espaf4xn8d2snqyaxrhf0jgl4tzh2weq",
+    "name": "CAT",
+    "symbol": "CAT",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj129hsu2espaf4xn8d2snqyaxrhf0jgl4tzh2weq/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj129t9ywsya0tyma00xy3de7q2wnah7hrw7v9gvk",
     "name": "CORGI",
     "symbol": "CORGI",
@@ -4643,6 +4651,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13fnjq02hwxejdm584v9qhrh66mt4l3j8l3yh6f/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj13jhpsn63j6p693ffnfag3efadm9ds5dqqpuml9",
+    "name": "Inujective",
+    "symbol": "INUJ",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj13jhpsn63j6p693ffnfag3efadm9ds5dqqpuml9/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj13m7h8rdfvr0hwvzzvufwe2sghlfd6e45rz0txa",
@@ -5576,6 +5592,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19kk6ywwu5h0rnz4453gyzt3ymgu739egv954tf/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj19l7z2pezzt0xn52w647zxrffyrqag02ft88grm",
+    "name": "TRUMP",
+    "symbol": "TRUMP",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19l7z2pezzt0xn52w647zxrffyrqag02ft88grm/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj19q50d6sgc3sv2hcvlfalc5kf2fc576v4nga849",
     "name": "AstroXmas (Wormhole)",
     "symbol": "ASTROXMAS",
@@ -5718,6 +5742,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1acxjvpu68t2nuw6950606gw2k59qt43zfxrcwq/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1aexws9pf9g0h3032fvdmxd3a9l2u9ex9aklugs",
+    "name": "ONIGIRI",
+    "symbol": "ONI",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1aexws9pf9g0h3032fvdmxd3a9l2u9ex9aklugs/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1ajzrh9zffh0j4ktjczcjgp87v0vf59nhyvye9v",
@@ -7900,6 +7932,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1sudjgsyhufqu95yp7rqad3g78ws8g6htf32h88/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1svrvyqm8uu6u4xnkz6tva207pztglcjylxe367",
+    "name": "FOO",
+    "symbol": "FOO",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1svrvyqm8uu6u4xnkz6tva207pztglcjylxe367/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1sw0zn2vfy6wnfg0rht7r80tq3jq4ukjafjud7x",
     "name": "Any Inu (Wormhole)",
     "symbol": "AI",
@@ -8947,6 +8987,14 @@
     "type": "peggy"
   },
   {
+    "id": "peggy0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+    "name": "Ethena",
+    "symbol": "USDe",
+    "decimals": "18",
+    "type": "peggy",
+    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/usde.png"
+  },
+  {
     "id": "peggy0x4d224452801ACEd8B2F0aebE155379bb5D594381",
     "name": "APE",
     "symbol": "APE",
@@ -9077,6 +9125,20 @@
     "decimals": "18",
     "type": "peggy",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
+  },
+  {
+    "id": "peggy0xC08512927D12348F6620a698105e1BAac6EcD911",
+    "name": "GMO JPY",
+    "symbol": "GYEN",
+    "decimals": "6",
+    "type": "peggy"
+  },
+  {
+    "id": "peggy0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439",
+    "name": "Moon App",
+    "symbol": "APP",
+    "decimals": "18",
+    "type": "peggy"
   },
   {
     "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",

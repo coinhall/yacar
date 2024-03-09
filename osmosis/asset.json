@@ -196,6 +196,14 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWh1OXU2dXBqcHA1OXpoNHVxZHg4OWg1Z2VhOXE1cTY3dHlrbDl4c3huNmhmdHRnYXF1dXEzeDIyZG0vcGtk&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1j0esk34dzwwy2hc57mqfz4ky7n6c0fj07hf2mzge2tgvvw8c55rslzj4j9/mvst",
+    "name": "ManagementVST",
+    "symbol": "mVST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWowZXNrMzRkend3eTJoYzU3bXFmejRreTduNmMwZmowN2hmMm16Z2UydGd2dnc4YzU1cnNsemo0ajkvbXZzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1jjygfcyx83kp0kssma9svcswsew2szypwgj97j6er2szqx4hlm8sh5cpna/tsst",
     "name": "TestDaoToken",
     "symbol": "TSST",
@@ -2559,6 +2567,14 @@
     "type": "ibc",
     "total_supply": "999000000",
     "icon": "https://i.imgur.com/AAIHtoH.png"
+  },
+  {
+    "id": "ibc/BB0AFE2AFBD6E883690DAE4B9168EAC2B306BCC9C9292DACBB4152BBB08DB25F",
+    "name": "AIOZ Network",
+    "symbol": "AIOZ",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/aioz/images/aioz.svg"
   },
   {
     "id": "ibc/BB6BCDB515050BAE97516111873CCD7BCF1FD0CCB723CC12F3C4F704D6C646CE",
