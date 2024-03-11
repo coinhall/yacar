@@ -1,16 +1,5 @@
 [
   {
-    "id": "1inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw",
-    "entity": "Babydojo",
-    "name": "",
-    "symbol": "",
-    "decimals": "",
-    "type": "",
-    "circ_supply_api": "4200000000",
-    "total_supply_api": "4200000000",
-    "icon": "https://drive.google.com/file/d/1BiYYfnVvgn9eP8Ayrg_FT-IljopoWcsy/view?usp=sharing"
-  },
-  {
     "id": "factory/inj104h3hchl7ws8lp78zpvrunvsjdwfjc02r5d0fp/injx",
     "name": "INJX",
     "symbol": "INJX",
@@ -5550,11 +5539,14 @@
   },
   {
     "id": "inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw",
+    "entity": "Babydojo",
     "name": "Baby DOJO Token",
     "symbol": "babyDOJO",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/cJKFfpz/Baby-Dojo-Logo.png"
   },
   {
     "id": "inj19dux2glqedeamjwltjv5srvhgxkf6gyawtce5s",
