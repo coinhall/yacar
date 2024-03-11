@@ -174,6 +174,17 @@
     "icon": "https://i.ibb.co/f87gpw7/goddard.png"
   },
   {
+    "id": "ibc/1053E271314D36FECBC915B51474F8B3962597CE88FF3E4A74795B0E3F367A8B",
+    "name": "KUJI",
+    "symbol": "KUJI",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
+    "total_supply_api": "https://lcd-kujira.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=dWt1amk=&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png",
+    "coingecko": "https://www.coingecko.com/en/coins/kujira"
+  },
+  {
     "id": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
     "name": "DOT",
     "symbol": "DOT",
