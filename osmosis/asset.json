@@ -220,12 +220,16 @@
   },
   {
     "id": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
-    "name": "Levana",
+    "entity": "Levana Protocol",
+    "name": "Levana Governance Token",
     "symbol": "LVN",
     "decimals": "6",
     "type": "tokenfactory",
+    "circ_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_circulating_supply",
+    "total_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_total_supply",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png",
-    "verification_tx": "osmosis-main"
+    "coinmarketcap": "https://coinmarketcap.com/currencies/levana-protocol/",
+    "coingecko": "https://www.coingecko.com/en/coins/levana"
   },
   {
     "id": "factory/osmo1mnyupgladzt6mwts6njt49xr6w0u5fgnsumep8p548zfa04h667q3d42ex/life",
