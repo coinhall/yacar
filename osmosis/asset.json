@@ -3485,5 +3485,18 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "xfactory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
+    "entity": "Levana Protocol",
+    "name": "Levana Governance Token",
+    "symbol": "LVN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "https://indexer-mainnet.levana.finance/coingecko/lvn_circulating_supply",
+    "total_supply": "https://indexer-mainnet.levana.finance/coingecko/lvn_total_supply",
+    "icon": "https://levana-protocol.notion.site/3c03f31caf5c4cc98489a27c60dafda1?v=c82f67e876e54e83a800323a65cfdf2a&p=004c7bdc7eab4071966161fe4c5e3752&pm=c",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/levana-protocol/",
+    "coingecko": "https://www.coingecko.com/en/coins/levana"
   }
 ]
