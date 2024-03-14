@@ -4037,6 +4037,16 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stride.png"
   },
   {
+    "id": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
+    "name": "LVN",
+    "symbol": "LVN",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_circulating_supply",
+    "total_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_total_supply",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png"
+  },
+  {
     "id": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
     "name": "USDTkv PERP",
     "symbol": "USDTkv PERP",
