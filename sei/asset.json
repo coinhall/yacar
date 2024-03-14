@@ -1060,6 +1060,16 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
   {
+    "id": "ibc/4786BEBBFDD989C467C4552AD73065D8B2578230B8428B3B9275D540EB04C851",
+    "name": "LVN",
+    "symbol": "LVN",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_circulating_supply",
+    "total_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_total_supply",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png"
+  },
+  {
     "id": "ibc/52BDB3EFE4EC2AA5086F16A93772F5F9B503FF818F3B9494AE5AA2C304C6FF49",
     "name": "Stride Staked ATOM",
     "symbol": "stATOM",
@@ -9816,6 +9826,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://sei-rest.publicnode.com/cosmwasm/wasm/v1/contract/sei1f8ltcqqhz9a9umguddknd7cjflcjc7u7h5k9c6tmw7rwuhhwls8q68de3y/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "sei1f8u7twyysugsmzraqqlfxt3ml3kf2sl9sgj9wtflmmag6c8vmfxqppfeld",
+    "name": "POPCAT",
+    "symbol": "POPCAT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1f8u7twyysugsmzraqqlfxt3ml3kf2sl9sgj9wtflmmag6c8vmfxqppfeld/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "sei1f983r8rclrc9z3a75uvxaem4vs9892n06v9lphm5qr992e76mzvs2xa9hm",
