@@ -1512,11 +1512,14 @@
   },
   {
     "id": "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
+    "entity": "Hydro Protocol",
     "name": "HDRO",
     "symbol": "HDRO",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZXR6MGxhYXM2aDd2ZW1nM3F0ZDY3anByNmxoOHY3eHo3Z2Z6cXcvaGRybw%3D%3D&pagination.limit=1"
+    "circ_supply_api": "https://index.hydroprotocol.finance/circulating-supply",
+    "total_supply_api": "https://index.hydroprotocol.finance/total-supply",
+    "icon": "https://github.com/chainapsis/keplr-chain-registry/pull/503"
   },
   {
     "id": "factory/inj1eucxlpy6c387g5wrn4ee7ppshdzg3rh4t50ahf/COCK",
