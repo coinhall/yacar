@@ -639,6 +639,7 @@
     "symbol": "SUSHI",
     "decimals": "6",
     "type": "tokenfactory",
+    "circ_supply_api": "https://analytics.dojo.trading/supportServer/supply/token",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14epxlhe56lhk5s3nc8wzmetwh6rpehuufe89ak%2FSUSHI",
     "icon": "https://i.ibb.co/jh0ktfD/sushi.webp"
   },
