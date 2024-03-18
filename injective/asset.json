@@ -1362,6 +1362,15 @@
     "icon": "https://cloudflare-ipfs.com/ipfs/Qmbm6rRWRBoZN3ixvrUDCoDV9Z4rtcJvULNowZ57ZCrr9n"
   },
   {
+    "id": "factory/inj1af5v85xm5upykzsjj29lpr9dyp4n37746kpfmq/RKT",
+    "name": "Rocket",
+    "symbol": "RKT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxYWY1djg1eG01dXB5a3pzamoyOWxwcjlkeXA0bjM3NzQ2a3BmbXEvUktU&pagination.limit=1",
+    "icon": "ipfs://bafkreih3hfxb3hs3g7l3nvtb6ojfb6sf6pot74zxbfvj5n77phkkloq7za"
+  },
+  {
     "id": "factory/inj1aj47a2vflavw92yyhn7rpa32f0dazf5cfj59v8/binjans",
     "name": "BINJANS",
     "symbol": "BINJANS",
@@ -1765,6 +1774,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://i.ibb.co/Vx84vjV/mubi.jpg"
+  },
+  {
+    "id": "factory/inj1g5aagfv2t662prxul8ynlzsfmtcx8699w0j7tz/memej",
+    "name": "memejective",
+    "symbol": "memej",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZzVhYWdmdjJ0NjYycHJ4dWw4eW5senNmbXRjeDg2OTl3MGo3dHovbWVtZWo%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreidy6kxcmcsgggkz32kdh77vydla2oa2axl6jhqmit2q76tv7qizs4"
   },
   {
     "id": "factory/inj1g7nvetpqjcugdnjxd27v37m7adm4wf7wphgzq2/FLOKI",
