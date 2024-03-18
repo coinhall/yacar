@@ -836,6 +836,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj15n8jl0dcepjfy3nhsa3gm734rjx5x2ff3y9f2s/anon",
+    "name": "0xanon",
+    "symbol": "anon",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNW44amwwZGNlcGpmeTNuaHNhM2dtNzM0cmp4NXgyZmYzeTlmMnMvYW5vbg%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreifkxim4mi2ge3xjcnq2qtdndjnattnedphhvn35outghwuv26t63i"
+  },
+  {
     "id": "factory/inj15u2mc2vyh2my4qcuj5wtv27an6lhjrnnydr926/COCKPIT",
     "name": "Cock Pit",
     "symbol": "COCKPIT",
