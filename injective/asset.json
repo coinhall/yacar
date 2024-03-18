@@ -2115,6 +2115,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1j3c89aqgw9g4sqwtxzldslqxla4d5a7csgaxgq/wera",
+    "name": "weareallsatoshi",
+    "symbol": "wera",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxajNjODlhcWd3OWc0c3F3dHh6bGRzbHF4bGE0ZDVhN2NzZ2F4Z3Evd2VyYQ%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreie5scgcliq62msxmd3a7nubeht2tf2phhqxm77lecg5js3gya4jxe"
+  },
+  {
     "id": "factory/inj1j3rm46nj4z8eckv5333897z7esectj64kufs4a/NINJAS",
     "name": "Ninjas",
     "symbol": "NINJAS",
