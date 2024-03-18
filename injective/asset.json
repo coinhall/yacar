@@ -176,6 +176,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj12ccehmgslwzkg4d4n4t78mpz0ja3vxyctu3whl/X747",
+    "name": "Jumbo Token",
+    "symbol": "X747",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMmNjZWhtZ3Nsd3prZzRkNG40dDc4bXB6MGphM3Z4eWN0dTN3aGwvWDc0Nw%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeiflik6e7bcbbyoyqe7qvqajyvrlckzso5fxz6druwmkx7lr2aguia"
+  },
+  {
     "id": "factory/inj12dvzf9tx2ndc9498aqpkrxgugr3suysqwlmn49/waifuinj",
     "entity": "Waifu",
     "name": "Waifu",
