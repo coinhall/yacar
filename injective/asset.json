@@ -437,6 +437,15 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj13wngn7gt8mt2k66x3ykp9tvfk5x89ajwd7yrtr%2Fmeow"
   },
   {
+    "id": "factory/inj13y9m57hw2rnvdmsym8na45z9kvexy82c4n6apc/INJA",
+    "name": "Shinja",
+    "symbol": "INJA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxM3k5bTU3aHcycm52ZG1zeW04bmE0NXo5a3ZleHk4MmM0bjZhcGMvSU5KQQ%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeiakg2hcvde7ohxltue4ljgjlcckggkoyqzbdsqm2kvfm3aysobjey"
+  },
+  {
     "id": "factory/inj13y9m57hw2rnvdmsym8na45z9kvexy82c4n6apc/PUPZA",
     "name": "Pupza Token",
     "symbol": "PUPZA",
