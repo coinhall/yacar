@@ -3808,6 +3808,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1xm8azp82qt9cytzg5guhx8cjrjmrunv97dfdd3/FIDEN",
+    "name": "Buck Fiden",
+    "symbol": "FIDEN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxeG04YXpwODJxdDljeXR6ZzVndWh4OGNqcmptcnVudjk3ZGZkZDMvRklERU4%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeihxah4hinfp6jx66m3o3m2spbbzsmsl27qxrer4cb4qzbnrvkdaze"
+  },
+  {
     "id": "factory/inj1xqf6rk5p5w3zh22xaxck9g2rnksfhpg33gm9xt/hamu",
     "name": "HAMURAI",
     "symbol": "HAMU",
