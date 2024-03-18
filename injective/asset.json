@@ -2039,6 +2039,15 @@
     "icon": "ipfs://bafkreibg42cyuobtctux76zexmpkhey6y6f4icgb5rc72sij4uor5crn5q"
   },
   {
+    "id": "factory/inj1hg6n7nfhtevnxq87y2zj4xf28n4p38te6q56vx/paam",
+    "name": "paampi",
+    "symbol": "paam",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxaGc2bjduZmh0ZXZueHE4N3kyemo0eGYyOG40cDM4dGU2cTU2dngvcGFhbQ%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreihnrucrxectsgli3nhbety4rqstjmez7f42xnv3u3d3c6nq3rrsqm"
+  },
+  {
     "id": "factory/inj1hgs8gzt3ww6t6p5f3xvfjugk72h4lechll2qer/SEI",
     "name": "SEI",
     "symbol": "SEI",
@@ -2392,6 +2401,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1l73eqd7w5vu4srwmc722uwv7u9px7k5azzsqm2%2Fpinjeon",
     "icon": "https://clipground.com/images/pigeon-logo-clipart-4.png"
+  },
+  {
+    "id": "factory/inj1ldee0qev4khjdpw8wpqpyeyw0n0z8nnqtc423g/get",
+    "name": "gettingsats",
+    "symbol": "get",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbGRlZTBxZXY0a2hqZHB3OHdwcXB5ZXl3MG4wejhubnF0YzQyM2cvZ2V0&pagination.limit=1",
+    "icon": "ipfs://bafkreiea7oosvvtgj7fue6ptw5hlvnjwu6ipopeny6xhi2ls446llcxloy"
   },
   {
     "id": "factory/inj1lhr06p7k3rdgk0knw5hfsde3fj87g2aq4e9a52/BINJ",
