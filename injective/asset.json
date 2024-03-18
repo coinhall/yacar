@@ -437,6 +437,24 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj13wngn7gt8mt2k66x3ykp9tvfk5x89ajwd7yrtr%2Fmeow"
   },
   {
+    "id": "factory/inj13y9m57hw2rnvdmsym8na45z9kvexy82c4n6apc/PUPZA",
+    "name": "Pupza Token",
+    "symbol": "PUPZA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxM3k5bTU3aHcycm52ZG1zeW04bmE0NXo5a3ZleHk4MmM0bjZhcGMvUFVQWkE%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreieo7fm4hiqiqdeddzytymm5cdro4igul7ylosq7fl3mck76gdu3iq"
+  },
+  {
+    "id": "factory/inj13y9m57hw2rnvdmsym8na45z9kvexy82c4n6apc/RONI",
+    "name": "PuppyRoni",
+    "symbol": "RONI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxM3k5bTU3aHcycm52ZG1zeW04bmE0NXo5a3ZleHk4MmM0bjZhcGMvUk9OSQ%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreigiey4nvg5r2nt4bnonmkxizdde26waom5k6i3cckk3yr75gjyjnm"
+  },
+  {
     "id": "factory/inj13yzzxz90naqer4utnp03zlj5rguhu7v0hd2jzl/SHIBINJ",
     "entity": "ShibInuINJ",
     "name": "ShibInuINJ",
@@ -789,6 +807,15 @@
     "symbol": "BABYKIRA",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj15we00jwlnd2ahpse0xfpswk8h296p80esn2wsx/NinjAI",
+    "name": "NinjAI",
+    "symbol": "NinjAI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNXdlMDBqd2xuZDJhaHBzZTB4ZnBzd2s4aDI5NnA4MGVzbjJ3c3gvTmluakFJ&pagination.limit=1",
+    "icon": "ipfs://bafybeifwkch5hdwz4aockv6af3bj5umc6aijrvj6j5n7xfp4d45sicsr3q"
   },
   {
     "id": "factory/inj15zruc9fw2qw9sc3pvlup5qmmqsk5pcmck7ylhw/BABYGINGER",
