@@ -328,6 +328,15 @@
     "icon": "https://ipfs.io/ipfs/QmZ3yryKJiEpBe8MPDYYXpxmWuVpNvVmWAXziQMEwNj7TJ"
   },
   {
+    "id": "factory/inj13ez8llxz7smjgflrgqegwnj258tfs978c0ccz8/JELLY",
+    "name": "Injellyfish",
+    "symbol": "JELLY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxM2V6OGxseHo3c21qZ2ZscmdxZWd3bmoyNTh0ZnM5NzhjMGNjejgvSkVMTFk%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeictrrp7lwynkl6acxp3eusjd2onlki4zl3wlolaptplucwzvdkjg4"
+  },
+  {
     "id": "factory/inj13f6c0hc3l80qa7w80j992wtscslkg8pm65rxua/CHAD",
     "name": "CHAD",
     "symbol": "CHAD",
@@ -1617,6 +1626,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://i.ibb.co/0Cm01vR/panda-ninja.png"
+  },
+  {
+    "id": "factory/inj1esryrafqyqmtm50wz7fsumvq0xevx0q0a9u7um/NEURAL",
+    "name": "Neural Network",
+    "symbol": "NEURAL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZXNyeXJhZnF5cW10bTUwd3o3ZnN1bXZxMHhldngwcTBhOXU3dW0vTkVVUkFM&pagination.limit=1",
+    "icon": "ipfs://bafkreidxnc3f5tws5libkemlj4ukt7djpwtcurj5f4h3givnsjfvazcdxm"
   },
   {
     "id": "factory/inj1esz96ru3guug4ctmn5chjmkymt979sfvufq0hs/PUNK",
@@ -6967,6 +6985,14 @@
     "symbol": "ETK",
     "decimals": "18",
     "type": "cw20"
+  },
+  {
+    "id": "inj1j0l9t4n748k2zy8zm7yfwjlpkf069d2jslfh3d",
+    "name": "baby INJ",
+    "symbol": "BABYINJ",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1j0l9t4n748k2zy8zm7yfwjlpkf069d2jslfh3d/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1j0spyxgnxavasfnj5r4pvc4wwmnd6psjf8j6rm",
