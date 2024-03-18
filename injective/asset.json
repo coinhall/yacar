@@ -828,6 +828,15 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/aoi.webp"
   },
   {
+    "id": "factory/inj16c0cnvw4jd20k9fkdlt4cauyd05hhg6jk7fedh/TRUMP",
+    "name": "TRUMP",
+    "symbol": "TRUMP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNmMwY252dzRqZDIwazlma2RsdDRjYXV5ZDA1aGhnNmprN2ZlZGgvVFJVTVA%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreigbl4udaph73sgdzaebvnjqzzmiqzytrunta26oysz53qe7w5cbie"
+  },
+  {
     "id": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
     "entity": "Cheelee",
     "name": "Injective Cheelee",
@@ -1478,6 +1487,15 @@
     "symbol": "x69",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1dskk29zmzjtc49w3fjxac4q4m87yg7gshw8ps9/SNARL",
+    "name": "DogWifSnarl",
+    "symbol": "SNARL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZHNrazI5em16anRjNDl3M2ZqeGFjNHE0bTg3eWc3Z3NodzhwczkvU05BUkw%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreigtpoggxnri4e6p2aoy6uulsicallhpdl5atcqet5fbxhafze4hd4"
   },
   {
     "id": "factory/inj1dvlqazkar9jdy8x02j5k2tftwjnp7c53sgfavp/TAJIK",
