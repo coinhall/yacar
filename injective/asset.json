@@ -945,6 +945,14 @@
     "icon": "ipfs://bafkreigbl4udaph73sgdzaebvnjqzzmiqzytrunta26oysz53qe7w5cbie"
   },
   {
+    "id": "factory/inj16eckaf75gcu9uxdglyvmh63k9t0l7chd0qmu85/black",
+    "name": "BLACK",
+    "symbol": "BLACK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNmVja2FmNzVnY3U5dXhkZ2x5dm1oNjNrOXQwbDdjaGQwcW11ODUvYmxhY2s%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
     "entity": "Cheelee",
     "name": "Injective Cheelee",
@@ -9241,6 +9249,14 @@
     "symbol": "DUROV",
     "decimals": "18",
     "type": "cw20"
+  },
+  {
+    "id": "inj1y7cqd6x50ezv8xrgqx0lnqf4p747nyqq533ma3",
+    "name": "Libetui Token",
+    "symbol": "LIBE",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1y7cqd6x50ezv8xrgqx0lnqf4p747nyqq533ma3/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1y7pvzc8h05e8qs9de2c9qcypxw6xkj5wttvm70",
