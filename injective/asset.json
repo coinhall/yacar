@@ -68,6 +68,15 @@
     "icon": "https://ipfs.io/ipfs/QmVTWkByTR4Rk7kQvsvzUDrxozbdz4hwFNuWSxmcLaHaYL"
   },
   {
+    "id": "factory/inj10emnhmzncp27szh758nc7tvl3ph9wfxgej5u5v/ASWC",
+    "name": "AOCStarWarsCoin",
+    "symbol": "ASWC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMGVtbmhtem5jcDI3c3poNzU4bmM3dHZsM3BoOXdmeGdlajV1NXYvQVNXQw%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreiabkucek7lbai5hbsthkcpa45k2ha7f4yknc6gqicrspkpq2xxb74"
+  },
+  {
     "id": "factory/inj10g0paz4mx7mq2z8l9vpxz022xshc04g5kw7s43/gamble",
     "name": "GambleInu",
     "symbol": "GAMBLE",
