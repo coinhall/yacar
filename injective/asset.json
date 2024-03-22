@@ -3054,6 +3054,15 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1qjjhhdn95u8s6tqqhx27n8g9vqtn6uhn63szp8%2FTEST"
   },
   {
+    "id": "factory/inj1qpf0xj4w824774q8mp9x29q547qe66607h96ll/ELON",
+    "name": "ELONCOIN",
+    "symbol": "ELON",
+    "decimals": "12",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxcXBmMHhqNHc4MjQ3NzRxOG1wOXgyOXE1NDdxZTY2NjA3aDk2bGwvRUxPTg%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeiayzfk75e6y35bkdoxrhqoodi335azsvdnxfr2mvez7ui3cppnkie"
+  },
+  {
     "id": "factory/inj1qqge7uaftfykr9wjqy4khwwzyr2wgcctwwgqv2/MIB",
     "name": "Men In Black",
     "symbol": "MIB",
