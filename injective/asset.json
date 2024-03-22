@@ -2179,6 +2179,15 @@
     "icon": "https://pbs.twimg.com/media/GB8q0RfakAAZ38_?format=jpg&name=medium"
   },
   {
+    "id": "factory/inj1hr4rj6k72emjh9u7l6zg58c0n0daezz68060aq/BCC",
+    "name": "BitConnect",
+    "symbol": "BCC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxaHI0cmo2azcyZW1qaDl1N2w2emc1OGMwbjBkYWV6ejY4MDYwYXEvQkND&pagination.limit=1",
+    "icon": "ipfs://bafybeiembwh7ssmpw7slevgshwctno6xroozc2fhtdh3rsixnsb5onu3ny"
+  },
+  {
     "id": "factory/inj1hrjm0jwfey8e4x3ef3pyeq4mpjvc8356lkgh9f/CHEEMS",
     "entity": "CHEEMS",
     "name": "Cheems",
