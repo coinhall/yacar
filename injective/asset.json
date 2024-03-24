@@ -3739,6 +3739,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1ufkjuvf227gccns4nxjqc8vzktfvrz6y7xs9sy/PIO",
+    "name": "PIO",
+    "symbol": "PIO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxdWZranV2ZjIyN2djY25zNG54anFjOHZ6a3RmdnJ6Nnk3eHM5c3kvUElP&pagination.limit=1",
+    "icon": "ipfs://bafkreieyqld5t4tejtgfmsrywzsdolc27ift2v6puiggjiydim4lydizg4"
+  },
+  {
     "id": "factory/inj1ujd7rlhp8980lwg74tek7gv4yv4qj4xcvxrx45/FROG",
     "name": "FROG",
     "symbol": "FROG",
@@ -8907,6 +8916,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1rn2yv784zf90yyq834n7juwgeurjxly8xfkh9d/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1rreafnwdwc9mu7rm6sm2nwwjd2yw46h26rzz36",
+    "name": "Dojo Whippet",
+    "symbol": "DWHPPET",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1rreafnwdwc9mu7rm6sm2nwwjd2yw46h26rzz36/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1rtyuaxaqfxczuys3k3cdvlg89ut66ulmp8mvuy",
