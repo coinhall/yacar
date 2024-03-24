@@ -110,6 +110,15 @@
     "icon": "https://a0.anyrgb.com/pngimg/300/1300/emoji-dogecoin-doge-shrug-yahoo-discord-avatan-avatan-plus-red-fox-dog-breed-group.png"
   },
   {
+    "id": "factory/inj10pz3xq7zf8xudqxaqealgyrnfk66u3c99ud5m2/tatas",
+    "name": "tatas token",
+    "symbol": "tatas",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMHB6M3hxN3pmOHh1ZHF4YXFlYWxneXJuZms2NnUzYzk5dWQ1bTIvdGF0YXM%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreifacd7en2mkpbtffy4ishtmugroi4i3l54f5hsdkaq42u3w2y2kxy"
+  },
+  {
     "id": "factory/inj10tj05gfpxgnmpr4q7rhxthuknc6csatrp0uxff/moo",
     "name": "MooCoin",
     "symbol": "MOO",
