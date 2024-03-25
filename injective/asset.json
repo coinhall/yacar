@@ -364,6 +364,15 @@
     "icon": "https://ipfs.io/ipfs/QmZ3yryKJiEpBe8MPDYYXpxmWuVpNvVmWAXziQMEwNj7TJ"
   },
   {
+    "id": "factory/inj133nvqdan8c79fhqfkmc3h59v30v4urgwuuejke/DarkDeath",
+    "name": "DarkDeathCoin",
+    "symbol": "DarkDeath",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMzNudnFkYW44Yzc5ZmhxZmttYzNoNTl2MzB2NHVyZ3d1dWVqa2UvRGFya0RlYXRo&pagination.limit=1",
+    "icon": "https://arweave.net/dIZyXUc_aZpFFPgzJn1AGGQ4KC6hCjInJpn56sghkfk"
+  },
+  {
     "id": "factory/inj13ez8llxz7smjgflrgqegwnj258tfs978c0ccz8/JELLY",
     "name": "Injellyfish",
     "symbol": "JELLY",
@@ -2432,6 +2441,15 @@
     "symbol": "TEST",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj1jdnjwhcjhpw8v0cmk80r286w5d426ns6tw3nst/QUOK",
+    "name": "Quokka",
+    "symbol": "QUOK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxamRuandoY2pocHc4djBjbWs4MHIyODZ3NWQ0MjZuczZ0dzNuc3QvUVVPSw%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeif34sieefbel36tznradyvckiwo5wjhxo7kge2vhnxmsrbecyouyu"
   },
   {
     "id": "factory/inj1jhwwydrfxe33r7ayy7nnrvped84njx97mma56r/BEAR",
@@ -9694,6 +9712,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1vnhhrcnnnr6tq96eaa8gcsuaz55ugnhs3dmfqq/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1vphq25x2r69mpf2arzsut8yxcav709kwd3t5ck",
+    "name": "SAFAS",
+    "symbol": "SAFAS",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1vphq25x2r69mpf2arzsut8yxcav709kwd3t5ck/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1vpks54yg6kwtsmt9r2psclcp0gmkgma3c3rvmg",
     "name": "Makaveli",
     "symbol": "Mak",
@@ -10279,6 +10305,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1yt49wv3up03hnlsfd7yh6dqfdxwxayrk6as6al/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1yt6erfe7a55es7gnwhta94g08zq9qrsjw25eq5",
+    "name": "Teenage Mutant Ninja Turtles",
+    "symbol": "TMNT",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1yt6erfe7a55es7gnwhta94g08zq9qrsjw25eq5/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1ytxxfuajl0fvhgy2qsx85s3t882u7qgv64kf2g",
