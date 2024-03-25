@@ -123,6 +123,14 @@
     "icon": "https://newt-price.vercel.app/newt-logo.png"
   },
   {
+    "id": "factory/neutron1qm224945hrkwc5qze40tau499n46ydmulpeagscmsuyxfrds02usf7mnpu/scrap",
+    "name": "SCRAP",
+    "symbol": "SCRAP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXFtMjI0OTQ1aHJrd2M1cXplNDB0YXU0OTluNDZ5ZG11bHBlYWdzY21zdXl4ZnJkczAydXNmN21ucHUvc2NyYXA%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1t24nc7whl77relnu3taxyg3p66pjyuk82png2y/uretro",
     "entity": "RETRO",
     "name": "RETRO GAME",
