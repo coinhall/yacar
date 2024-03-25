@@ -2365,6 +2365,15 @@
     "icon": "ipfs://bafkreie5scgcliq62msxmd3a7nubeht2tf2phhqxm77lecg5js3gya4jxe"
   },
   {
+    "id": "factory/inj1j3rm46nj4z8eckv5333897z7esectj64kufs4a/Degen",
+    "name": "Degen",
+    "symbol": "Degen",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxajNybTQ2bmo0ejhlY2t2NTMzMzg5N3o3ZXNlY3RqNjRrdWZzNGEvRGVnZW4%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreihcpch6bn6cobchwk6q34ljiaaievupwdvj535trr7gypfurdh3bi"
+  },
+  {
     "id": "factory/inj1j3rm46nj4z8eckv5333897z7esectj64kufs4a/NINJAS",
     "name": "Ninjas",
     "symbol": "NINJAS",
@@ -2861,6 +2870,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbW1uM2xxdDVlYWh1dTdjbXBjam1lNmxqMHhoamxoajNxajRmaGgvd3lubg%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreidqqzkdrsockq5r4yuci5prtfcc5bnfre43dcdj6za4tkpohuns64"
+  },
+  {
+    "id": "factory/inj1mmn3lqt5eahuu7cmpcjme6lj0xhjlhj3qj4fhh/Wynn",
+    "name": "Wynn",
+    "symbol": "Wynn",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbW1uM2xxdDVlYWh1dTdjbXBjam1lNmxqMHhoamxoajNxajRmaGgvV3lubg%3D%3D&pagination.limit=1",
     "icon": "ipfs://bafkreidqqzkdrsockq5r4yuci5prtfcc5bnfre43dcdj6za4tkpohuns64"
   },
   {
@@ -10148,6 +10166,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ykfurk0jsxcz6hp9tqm8vn2p5k0hn76y6uans6/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1ykpcvay9rty363wtxr9749qgnnj3rlp94r302y",
+    "name": "$Barry",
+    "symbol": "BARRY",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1ykpcvay9rty363wtxr9749qgnnj3rlp94r302y/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1yl8z48uwve5wk0j9elxql8c327wy87anccf4ex",
