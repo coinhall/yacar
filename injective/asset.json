@@ -796,6 +796,15 @@
     "icon": "ipfs://bafkreicn5uhbo2nsevd4xhx5gpk7kfu4jvgn7pozhh2d7e5b5tebbrthra"
   },
   {
+    "id": "factory/inj156zqdswjfcttc8hrvwd5z3nv5n53l5xg9mqvht/King",
+    "name": "King_of_INJ",
+    "symbol": "King",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNTZ6cWRzd2pmY3R0YzhocnZ3ZDV6M252NW41M2w1eGc5bXF2aHQvS2luZw%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeihcwvg5chlxsz2cbfcwpwy6et7tc42uf3qz52sww26bm6x2ndiaja"
+  },
+  {
     "id": "factory/inj15705jepx03fxl3sntfhdznjnl0mlqwtdvyt32d/bonk",
     "name": "Bonk Injective",
     "symbol": "BONK",
@@ -9023,6 +9032,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1s290d2uew9k2s00zlx9xnxq84dauysc85yhds0/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1s4srnj2cdjf3cgun57swe2je8u7n3tkm6kz257",
+    "name": "DOGINJBREAD",
+    "symbol": "DIB",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1s4srnj2cdjf3cgun57swe2je8u7n3tkm6kz257/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1sarc5fq8rlqxl9q3y6f6u5qnzumsqdn6vvvgyh",
