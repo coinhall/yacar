@@ -4721,6 +4721,15 @@
     "icon": "ipfs://bafkreifhhkrffomxrwuaxbyugx6rcirqu4cag3um7lwqwmsefn6jnzhrnm"
   },
   {
+    "id": "factory/inj1zpgcfma4ynpte8lwfxqfszddf4nveq95prqyht/NCACTE",
+    "name": "NCACToken",
+    "symbol": "NCACTE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxenBnY2ZtYTR5bnB0ZThsd2Z4cWZzemRkZjRudmVxOTVwcnF5aHQvTkNBQ1RF&pagination.limit=1",
+    "icon": "https://arweave.net/fIfI9eFTJwYNrJjVnMTsSN5idh-zA5uKqKtCB_-HtIw"
+  },
+  {
     "id": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
     "entity": "Alpha Bulls",
     "name": "Alpha Bulls",
