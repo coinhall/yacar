@@ -4063,6 +4063,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1uw9z3drc0ea680e4wk60lmymstx892nta7ycyt/MARK",
+    "name": "MARK",
+    "symbol": "MARK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxdXc5ejNkcmMwZWE2ODBlNHdrNjBsbXltc3R4ODkybnRhN3ljeXQvTUFSSw%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeicjnifhkqepfnu4kirhb7mnwdggx746h2lp3uhdktolvlmucvfloe"
+  },
+  {
     "id": "factory/inj1v05uapg65p6f4307qg0hdkzssn82js6n5gc03q/ZUZU",
     "name": "ZUZUDog",
     "symbol": "ZUZU",
@@ -5830,6 +5839,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj143rjlwt7r28wn89r39wr76umle8spx47z0c05d/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj145p4shl9xdutc7cv0v9qpfallh3s8z64yd66rg",
+    "name": "BobaCat",
+    "symbol": "PSPS",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj145p4shl9xdutc7cv0v9qpfallh3s8z64yd66rg/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj146tnhg42q52jpj6ljefu6xstatactyd09wcgwh",
