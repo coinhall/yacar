@@ -48,6 +48,15 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTMzeGFra3Jma3NxMzl3eHk1NzV1bnZlMm55ZWhnNW5weDc1bnBoL01PTw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/neutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l/ATOM1KLFG",
+    "name": "Atom 1K LFG",
+    "symbol": "ATOM1KLFG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fneutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l%2FATOM1KLFG",
+    "icon": "https://neutron.astroport.fi/tokens/generated/ATOM1KLFG.png"
+  },
+  {
     "id": "factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad",
     "name": "Badcoin",
     "symbol": "BAD",
