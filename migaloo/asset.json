@@ -100,6 +100,14 @@
     "icon": "https://i.imgur.com/7wJ4MQQ.png"
   },
   {
+    "id": "factory/migaloo1s8vkevpp2rez4wt8tn7kpulkxexwnp9j0h7t46cwtd855gmwgvwsvuquvp/test",
+    "name": "Test",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMXM4dmtldnBwMnJlejR3dDh0bjdrcHVsa3hleHducDlqMGg3dDQ2Y3d0ZDg1NWdtd2d2d3N2dXF1dnAvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/migaloo1t862qdu9mj5hr3j727247acypym3ej47axu22rrapm4tqlcpuseqltxwq5/ophir",
     "entity": "Ophir DAO",
     "name": "Ophir DAO token",
