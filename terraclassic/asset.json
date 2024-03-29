@@ -1352,6 +1352,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra13hsdpqlwjclxejwuwyccju9plq703an2frd62q5xp505xxv8q0qqdugjt6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra13hsdpqlwjclxejwuwyccju9plq703an2frd62q5xp505xxv8q0qqdugjt6/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra13j3uuywz8q3tljmqxt6trcgcxy29dd5exrnhtq",
     "name": "Ños Terra Test",
     "symbol": "tNYTEST",
@@ -6057,6 +6065,14 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1e329use0pkyjq0llmlj54t3a83qefrcv33v3x6wdnghltmkzze3qy463cj",
+    "name": "FOO",
+    "symbol": "FBAR",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1e329use0pkyjq0llmlj54t3a83qefrcv33v3x6wdnghltmkzze3qy463cj/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1e3s670y5lns7vlq3gxdcn9rv8mdpydhd89jdwz",
