@@ -3977,6 +3977,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1tquax9jy4t7lg2uya4yclhlqlh5a75ykha2ewr/EcoChain",
+    "name": "EcoChain",
+    "symbol": "ECOCH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxdHF1YXg5ank0dDdsZzJ1eWE0eWNsaGxxbGg1YTc1eWtoYTJld3IvRWNvQ2hhaW4%3D&pagination.limit=1",
+    "icon": "https://arweave.net/3g7ZUghX04D4dJjxdqnZeW3eBR-pmmauvN2-pABcNYg"
+  },
+  {
     "id": "factory/inj1tscuvmskt4fxvqurh0aueg57x4vja683z79q4u/MEHTER",
     "name": "MEHTER",
     "symbol": "MEHTER",
