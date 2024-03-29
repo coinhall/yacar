@@ -5331,6 +5331,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1cekuesjjau4ta9amskazap3ysga8t7anut4et9lx3fa02kfahp6sehu74c",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1cekuesjjau4ta9amskazap3ysga8t7anut4et9lx3fa02kfahp6sehu74c/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8",
     "name": "Wrapped BNB (Wormhole)",
     "symbol": "wbWBNB",
@@ -8835,6 +8843,14 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://terraworld.me/assets/XTRA.png"
+  },
+  {
+    "id": "terra1kvwlkcguxdf2lhgjxyquqv9ercm7m99hmn7k8jqhd3nqtmsu8afsh8n8la",
+    "name": "Test",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1kvwlkcguxdf2lhgjxyquqv9ercm7m99hmn7k8jqhd3nqtmsu8afsh8n8la/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1kw5eyc86rqlw63wuezj5rcchpgs76h6ux9krfq",
