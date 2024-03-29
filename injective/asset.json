@@ -3514,6 +3514,15 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1qzxna8fqr56g83rvyyylxnyghpguzt2jx3dgr8%2FSNIPER"
   },
   {
+    "id": "factory/inj1r35twz3smeeycsn4ugnd3w0l5h2lxe44ptuu4w/BONJO",
+    "name": "Bonjo Token",
+    "symbol": "BONJO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxcjM1dHd6M3NtZWV5Y3NuNHVnbmQzdzBsNWgybHhlNDRwdHV1NHcvQk9OSk8%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreiewnp7xtt2h7mi7xrzmevcisjkwo735ajz6mpbv757iuzjzrkpyiq"
+  },
+  {
     "id": "factory/inj1r4usuj62gywdwhq9uvx6tg0ywqpppcjqu7z4js/crinj",
     "name": "CRINJ",
     "symbol": "CRINJ",
