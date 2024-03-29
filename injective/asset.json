@@ -1715,6 +1715,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1c5uqenss9plc5rjw5kt5dksnlvnvw5tvygxpd8/GEISHA",
+    "name": "GEISHA",
+    "symbol": "GEISHA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxYzV1cWVuc3M5cGxjNXJqdzVrdDVka3NubHZudnc1dHZ5Z3hwZDgvR0VJU0hB&pagination.limit=1",
+    "icon": "ipfs://bafkreicdf3e5wtp2fq5dmxn4hrf5auxvrdvnqktjekromhhl7pewsmktkq"
+  },
+  {
     "id": "factory/inj1c72uunyxvpwfe77myy7jhhjtkqdk3csum846x4/Meme",
     "name": "Meme",
     "symbol": "Meme",
