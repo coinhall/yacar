@@ -4951,6 +4951,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1arqmhvj0wtqy5zjer88vm52rgq0pr6gpwkldgzula9hm50v3wpaq389ex3",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1arqmhvj0wtqy5zjer88vm52rgq0pr6gpwkldgzula9hm50v3wpaq389ex3/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1asq6hza8spaeghqt4k7fnj4m7nfaag07ljdqz7",
     "name": "Terra Musk",
     "symbol": "tMUSK",
@@ -10613,6 +10621,14 @@
     "symbol": "HALO",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1pv2wfnfxygzz2q8py3xtwyurp6andl2cl4dmnvrrx8rvxhlu6l4sz3hgnd",
+    "name": "Test",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1pv2wfnfxygzz2q8py3xtwyurp6andl2cl4dmnvrrx8rvxhlu6l4sz3hgnd/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1pv7h57x8tysprrj3kqp6cdxfgct8a2uja7ahuw",
