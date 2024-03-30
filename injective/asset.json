@@ -1072,6 +1072,15 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/aoi.webp"
   },
   {
+    "id": "factory/inj16a7s0v3c2hp575s0ugmva8cedq9yvsmz4mvdcd/YKZ",
+    "name": "Yakuza",
+    "symbol": "YKZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNmE3czB2M2MyaHA1NzVzMHVnbXZhOGNlZHE5eXZzbXo0bXZkY2QvWUta&pagination.limit=1",
+    "icon": "ipfs://bafkreidghtrqci6f55jbj5bejsemsbe2nxl7dd533igbgnvf4hlodvd5jy"
+  },
+  {
     "id": "factory/inj16c0cnvw4jd20k9fkdlt4cauyd05hhg6jk7fedh/TRUMP",
     "name": "TRUMP",
     "symbol": "TRUMP",
