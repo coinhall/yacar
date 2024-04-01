@@ -1343,6 +1343,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj17pn6nwvk33404flhglujj4n5y3p2esy5x0cfhm/SPUUN",
+    "name": "SPUUN",
+    "symbol": "SPUUN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxN3BuNm53dmszMzQwNGZsaGdsdWpqNG41eTNwMmVzeTV4MGNmaG0vU1BVVU4%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreif7vra3nwydwbafv6nbu7wlainhi6b5ewud74w7s5kic2dwmoz3hu"
+  },
+  {
     "id": "factory/inj17pn6nwvk33404flhglujj4n5y3p2esy5x0cfhm/testooo",
     "name": "testooo",
     "symbol": "testooo",
@@ -2145,6 +2154,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1fepsfp58ff2l7fasj47ytwrrwwp6k7uz6uhfvn%2Fstinjer",
     "icon": "https://cdn1.designhill.com/uploads/personal_designs/8de279a56dbcece9f9ffc514a7d5a378-b2199376924b5a4160f8b9ad5bd9f5d715033201278161.png?ver=2.10.89"
+  },
+  {
+    "id": "factory/inj1flkktfvf8nxvk300f2z3vxglpllpw59c563pk7/SPUUN",
+    "name": "SPUUN",
+    "symbol": "SPUUN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZmxra3RmdmY4bnh2azMwMGYyejN2eGdscGxscHc1OWM1NjNwazcvU1BVVU4%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreif7vra3nwydwbafv6nbu7wlainhi6b5ewud74w7s5kic2dwmoz3hu"
   },
   {
     "id": "factory/inj1fnpmp99kclt00kst3ht8g0g44erxr5wx6fem9x/MOL",
@@ -8624,6 +8642,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1h7smsl8nzjfeszy03cqnjn2yvf629kf3m02fay/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1h86egqfpypg8q3jp9t607t0y8ea6fdpv66gx0j",
+    "name": "Drogon the Injective Dragon",
+    "symbol": "DROGON",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1h86egqfpypg8q3jp9t607t0y8ea6fdpv66gx0j/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1h8l2xcn4h9v0m67qem8x7rmf2akjwc34tjmm7a",
