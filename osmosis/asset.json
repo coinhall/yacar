@@ -36,6 +36,14 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo13ahfm35s0qwg45l09hgx3w7q2c9jc45d4mcptprsjuj6k6pnad9s7tavek%2Fvst"
   },
   {
+    "id": "factory/osmo144dlvfv32sm8smnrwrvtnja8dl6ec3500mdy0zmanlq3r99prdwqe0cacd/fedora",
+    "name": "Fedora Token",
+    "symbol": "FEDORA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTQ0ZGx2ZnYzMnNtOHNtbnJ3cnZ0bmphOGRsNmVjMzUwMG1keTB6bWFubHEzcjk5cHJkd3FlMGNhY2QvZmVkb3Jh&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo14klwqgkmackvx2tqa0trtg69dmy0nrg4ntq4gjgw2za4734r5seqjqm4gm/uibcx",
     "name": "IBCX",
     "symbol": "IBCX",
