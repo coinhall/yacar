@@ -1781,6 +1781,15 @@
     "icon": "https://i.ibb.co/MgvYJsj/kittybin.png"
   },
   {
+    "id": "factory/inj1c0f9ze9wh2xket0zs6wy59v66alwratsdx648k/andy",
+    "name": "Andy",
+    "symbol": "ANDY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxYzBmOXplOXdoMnhrZXQwenM2d3k1OXY2NmFsd3JhdHNkeDY0OGsvYW5keQ%3D%3D&pagination.limit=1",
+    "icon": "https://bafkreiaz5i2ovrwm654njs46ocodyxf3gla6q54i6lp34k5ptmk3yc2mty.ipfs.nftstorage.link"
+  },
+  {
     "id": "factory/inj1c0f9ze9wh2xket0zs6wy59v66alwratsdx648k/samurai",
     "name": "Samurai dex token",
     "symbol": "SAMURAI",
@@ -5835,6 +5844,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj12pykmszt7g2l5h2q9h8vfk0w6aq2nj8waaqs7d/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj12q6sut4npwhnvjedht574tmz9vfrdqavwq7ufw",
+    "name": "Nunchaku",
+    "symbol": "NUNCHAKU",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj12q6sut4npwhnvjedht574tmz9vfrdqavwq7ufw/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj12qlppehc4fsfduv46gmtgu5n38ngl6annnr4r4",
     "name": "dmoone",
     "symbol": "dmoone",
@@ -9046,6 +9063,14 @@
     "symbol": "MKEY",
     "decimals": "18",
     "type": "cw20"
+  },
+  {
+    "id": "inj1jrykfhmfcy4eh8t3yw6ru3ypef39s3dsu46th7",
+    "name": "LAVA",
+    "symbol": "LAVA",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1jrykfhmfcy4eh8t3yw6ru3ypef39s3dsu46th7/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1jt20t0scnm6r048rklny7z7gyc4lfmm6s5c96e",
