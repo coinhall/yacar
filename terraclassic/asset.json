@@ -334,6 +334,14 @@
     "icon": "https://terra.nexusprotocol.app/nLuna.svg"
   },
   {
+    "id": "terra10f6uwf4xcu9dml8d6ud0cda7hpjnhynhtq38mlmrf9trvujt346s3lp9l4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra10f6uwf4xcu9dml8d6ud0cda7hpjnhynhtq38mlmrf9trvujt346s3lp9l4/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra10f8efrxe9y6p3625ynztuvk0j35a05t5fstyfx",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
@@ -6113,6 +6121,14 @@
     "symbol": "BGD",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1dxqwv27czssrsgs57xundkw08xd6ckw9d0jhryupsa7ywaqpxfcqe8gz2a",
+    "name": "Baby Terra Token",
+    "symbol": "BABYT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1dxqwv27czssrsgs57xundkw08xd6ckw9d0jhryupsa7ywaqpxfcqe8gz2a/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1dxt75lk0m5g0wpucg0mz905akta99fjhuhafqa",
