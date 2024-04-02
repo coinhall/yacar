@@ -248,6 +248,15 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW1ueXVwZ2xhZHp0Nm13dHM2bmp0NDl4cjZ3MHU1Zmduc3VtZXA4cDU0OHpmYTA0aDY2N3EzZDQyZXgvbGlmZQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1nr8zfakf6jauye3uqa9lrmr5xumee5n42lv92z/toro",
+    "name": "TORO",
+    "symbol": "TORO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW5yOHpmYWtmNmphdXllM3VxYTlscm1yNXh1bWVlNW40Mmx2OTJ6L3Rvcm8%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.png"
+  },
+  {
     "id": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
     "entity": "Wosmo",
     "name": "WOSMO",
@@ -536,6 +545,14 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft85AE1716C5E39EA6D64BBD7898C3899A7B500626.png"
+  },
+  {
+    "id": "ibc/06EF575844982382F4D1BC3830D294557A30EDB3CD223153AFC8DFEF06349C56",
+    "name": "sayve",
+    "symbol": "SAYVE",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/sayve.svg"
   },
   {
     "id": "ibc/072E5B3D6F278B3E6A9C51D7EAD1A737148609512C5EBE8CBCB5663264A0DDB7",
