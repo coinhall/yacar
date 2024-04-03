@@ -1033,6 +1033,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/2EB516F83C9FF44AB6826F269CA98A5622608C6C955E12112E58F23A324FEE07",
+    "name": "Pundi X Token",
+    "symbol": "PUNDIX",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/pundix.png"
+  },
+  {
     "id": "ibc/2F21E6D4271DE3F561F20A02CD541DAF7405B1E9CB3B9B07E3C2AC7D8A4338A5",
     "name": "wstETH",
     "symbol": "wstETH",
@@ -1117,6 +1125,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/aave.svg",
     "coingecko": "https://www.coingecko.com/en/coins/aave"
+  },
+  {
+    "id": "ibc/3A0A392E610A8D477851ABFEA74F3D828F36C015AB8E93B0FBB7566A6D13C4D6",
+    "name": "Tinkernet",
+    "symbol": "TNKR",
+    "decimals": "12",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/tinkernet/images/tnkr.svg"
   },
   {
     "id": "ibc/3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB",
@@ -2511,6 +2527,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wmatic-wei L@3x.png",
     "coingecko": "https://www.coingecko.com/en/coins/wmatic",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/AC6EE43E608B5A7EEE460C960480BC1C3708010E32B2071C429DA259836E10C3",
+    "name": "Wormhole Token",
+    "symbol": "W",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/w.png"
   },
   {
     "id": "ibc/AD185F62399F770CCCE8A36A180A77879FF6C26A0398BD3D2A74E087B0BFA121",
