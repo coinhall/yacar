@@ -266,10 +266,13 @@
   },
   {
     "id": "factory/osmo1nr8zfakf6jauye3uqa9lrmr5xumee5n42lv92z/toro",
+    "entity": "TORO",
     "name": "TORO",
     "symbol": "TORO",
     "decimals": "6",
     "type": "tokenfactory",
+    "circ_supply": "16800000000",
+    "total_supply": "24000000000",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW5yOHpmYWtmNmphdXllM3VxYTlscm1yNXh1bWVlNW40Mmx2OTJ6L3Rvcm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.png"
   },
