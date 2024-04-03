@@ -3710,6 +3710,16 @@
     "lp_token_id": "inj1fl855fq248j2v2dlwkuqcdtkuk9ndq5n0rhxyt"
   },
   {
+    "id": "inj13weuwxfl2tzza5nrj9dzhrq0nm7lnglwgwsp3u",
+    "asset_ids": [
+      "factory/inj1f0gj22j0vep9jt48tnt2mg97c8ysgyxllhvp68/LEO",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1jv7we9dy90pwe3p66zds73un34xn68zuezyq5t"
+  },
+  {
     "id": "inj13wqlrzdfvv3glx5dyayyxf6akcr9v4wntnc7ja",
     "asset_ids": [
       "factory/inj16jsp4xd49k0lnqlmtzsskf70pkzyzv2hjkcr8f/synergy",
@@ -17532,6 +17542,15 @@
     "id": "0xc8fafa1fcab27e16da20e98b4dc9dda45320418c27db80663b21edac72f3b597",
     "asset_ids": [
       "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
+      "inj"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
+    "id": "0xcbc16bc2972144d166ef0c7d01328e2eafe22c8dc6368a9bd3f605cc6fe39e6e",
+    "asset_ids": [
+      "factory/inj1f0gj22j0vep9jt48tnt2mg97c8ysgyxllhvp68/LEO",
       "inj"
     ],
     "dex": "Helix",
