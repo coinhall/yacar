@@ -427,6 +427,17 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
   },
   {
+    "id": "ibc/A139C0E0B5E87CBA8EAEEB12B9BEE13AC7C814CFBBFA87BBCADD67E31003466C",
+    "entity": "Stargaze",
+    "name": "Stargaze",
+    "symbol": "STARS",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://supply-api.publicawesome.dev",
+    "total_supply_api": "https://supply-api.publicawesome.dev",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png"
+  },
+  {
     "id": "ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D",
     "name": "Wrapped Ether (wei)",
     "symbol": "wETH",
