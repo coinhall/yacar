@@ -453,6 +453,14 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1yxg9nt6uvysyq3cs9gmp58f48unffpfscqjyr6nv2u7mh6657nwssfyp33%2Fsail"
   },
   {
+    "id": "factory/osmo1yym7kv8wdyxwd7kvdr6ywhhtna0dtvyf3fc68zh20n6dcqy84als5mv9h7/isg",
+    "name": "Interchain Support Group DAO token",
+    "symbol": "ISG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXl5bTdrdjh3ZHl4d2Q3a3ZkcjZ5d2hodG5hMGR0dnlmM2ZjNjh6aDIwbjZkY3F5ODRhbHM1bXY5aDcvaXNn&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
