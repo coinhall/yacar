@@ -8,7 +8,7 @@
     "type": "native",
     "circ_supply_api": "https://api.lavenderfive.com/coingecko/archway/circulating_supply",
     "total_supply_api": "https://m-archway.api.utsa.tech/cosmos/bank/v1beta1/supply?pagination.key=YWFyY2g%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
+    "icon": "https://coinhall.astrovault.io/token/logo-arch.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/archway/",
     "coingecko": "https://www.coingecko.com/en/coins/archway"
   },
@@ -18,35 +18,39 @@
     "symbol": "xAXL",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-xaxl.ab4eb3edba43abe6f9b3.svg"
+    "icon": "https://coinhall.astrovault.io/token/logo-xaxl.svg"
   },
   {
     "id": "archway13wj2dvr4h4cuwqftlxcdykhpw0pm7a2g542w3t608lwlcy4ctmgs4eutcn",
     "name": "xOSMO",
     "symbol": "xOSMO",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xosmo.svg"
   },
   {
     "id": "archway14fzmzu2apcdzwx9dspyk0yjmxwwnpmxh7zlezh5ywe4l0pky39ysgzd9gg",
     "name": "xCMDX",
     "symbol": "xCMDX",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xcmdx.svg"
   },
   {
     "id": "archway1asgu5g79cdjcdd40lgefplszehykpwzcunx30ca4456a4tddmwcsrmtvx8",
     "name": "xFLIX",
     "symbol": "xFLIX",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xflix.svg"
   },
   {
     "id": "archway1ckpwu65werp2srtatvdj4akclra4j5rxwxrzk335et7xhjs5vx5sxsh96s",
     "name": "xDVPN",
     "symbol": "xDVPN",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xdvpn.svg"
   },
   {
     "id": "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
@@ -54,7 +58,7 @@
     "symbol": "xARCH",
     "decimals": "18",
     "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-xarch.443706fdbdaa8ec3059f.svg"
+    "icon": "https://coinhall.astrovault.io/token/logo-xarch.svg"
   },
   {
     "id": "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
@@ -63,7 +67,7 @@
     "symbol": "AXV",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/axv.svg",
+    "icon": "https://coinhall.astrovault.io/token/logo-axv.svg",
     "coingecko": "https://www.coingecko.com/en/coins/astrovault"
   },
   {
@@ -72,21 +76,23 @@
     "symbol": "ampARCH",
     "decimals": "18",
     "type": "cw20",
-    "icon": "https://i.ibb.co/HC2VCNX/ampARCH.png"
+    "icon": "https://coinhall.astrovault.io/token/logo-amparch.svg"
   },
   {
     "id": "archway1gxewwgtk5r7ygnlvuu42vza06700gzac4xl59dz4xhv3m7trzmvsf5nrtq",
     "name": "xPASG",
     "symbol": "xPASG",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xpasg.svg"
   },
   {
     "id": "archway1h7vfp6hjjluw8n6m2v4tkfdw3getkwqldu59xghltdskt3rh6shqczumjc",
     "name": "xPLQ",
     "symbol": "xPLQ",
     "decimals": "18",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xplq.svg"
   },
   {
     "id": "archway1l3m84nf7xagkdrcced2y0g367xphnea5uqc3mww3f83eh6h38nqqxnsxz7",
@@ -94,7 +100,8 @@
     "symbol": "bnUSD",
     "decimals": "18",
     "type": "cw20",
-    "total_supply_api": "https://api.mainnet.archway.io/cosmwasm/wasm/v1/contract/archway1l3m84nf7xagkdrcced2y0g367xphnea5uqc3mww3f83eh6h38nqqxnsxz7/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://api.mainnet.archway.io/cosmwasm/wasm/v1/contract/archway1l3m84nf7xagkdrcced2y0g367xphnea5uqc3mww3f83eh6h38nqqxnsxz7/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://coinhall.astrovault.io/token/logo-bnusd.svg"
   },
   {
     "id": "archway1m273xq2fjmn993jm4kft5c49w2c70yfv5zypt3d92cqp4n5faefqqkuf0l",
@@ -102,14 +109,15 @@
     "symbol": "xATOM",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-xatom.daac6b0df6cab97834b3.svg"
+    "icon": "https://coinhall.astrovault.io/token/logo-xatom.svg"
   },
   {
     "id": "archway1mast3w89sn8gtmvdhr6gfemu4jdx60563fajs5ucsc7s7e9jv00q7qw0hu",
     "name": "xBCNA",
     "symbol": "xBCNA",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xbcna.svg"
   },
   {
     "id": "archway1ndrruk2atj4yrcqsnypthvnexjv6erpwtczqlfp8d97zsv8k6wgqjmw4gt",
@@ -117,14 +125,16 @@
     "symbol": "xQWOYN",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://api.mainnet.archway.io/cosmwasm/wasm/v1/contract/archway1ndrruk2atj4yrcqsnypthvnexjv6erpwtczqlfp8d97zsv8k6wgqjmw4gt/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://api.mainnet.archway.io/cosmwasm/wasm/v1/contract/archway1ndrruk2atj4yrcqsnypthvnexjv6erpwtczqlfp8d97zsv8k6wgqjmw4gt/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://coinhall.astrovault.io/token/logo-xqwoyn.svg"
   },
   {
     "id": "archway1qfkn8ezkf5jqvchfs2jp3lukul7l79a4jg56upgkvu464805g78q6flwrx",
     "name": "xCUDOS",
     "symbol": "xCUDOS",
     "decimals": "18",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xcudos.svg"
   },
   {
     "id": "archway1t2llqsvwwunf98v692nqd5juudcmmlu3zk55utx7xtfvznel030saclvq6",
@@ -132,35 +142,39 @@
     "symbol": "sARCH",
     "decimals": "18",
     "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-sarch.913712eddb6d0277d588.svg"
+    "icon": "https://coinhall.astrovault.io/token/logo-sarch.svg"
   },
   {
     "id": "archway1tl8l2gt9dncdu6huds39dsg366ctllvtnm078qkkad2mnv28erss98tl2n",
     "name": "xAKT",
     "symbol": "xAKT",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xakt.svg"
   },
   {
     "id": "archway1tvrrctwllg8aalc4ruk6a4zxtel8ff7ggxljvu6ffj3wpm2zp8kqyecxpr",
     "name": "xMPWR",
     "symbol": "xMPWR",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xmpwr.svg"
   },
   {
     "id": "archway1veyq07az0d7mlp49sa9f9ef56w0dd240vjsy76yv0m4pl5a2x2uq698cs7",
     "name": "xDEC",
     "symbol": "xDEC",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xdec.svg"
   },
   {
     "id": "archway1wh099rqeeq8x62kv3w3m7x40p2r5sjtkk25364jwtlunzmxmmyhsh9nwl0",
     "name": "xVDL",
     "symbol": "xVDL",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xvdl.svg"
   },
   {
     "id": "archway1yjdgfut7jkq5xwzyp6p5hs7hdkmszn34zkhun6mglu3falq3yh8sdkaj7j",
@@ -168,21 +182,23 @@
     "symbol": "xJKL",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://astrovault.io/static/media/logo-xjkl.b5e57acef59cdbc18f33.svg"
+    "icon": "https://coinhall.astrovault.io/token/logo-xjkl.svg"
   },
   {
     "id": "archway1yv8uhe795xs4fwz6mjm278yr35ps0yagjchfp39q5x49dty9jgssm5tnkv",
     "name": "xBLD",
     "symbol": "xBLD",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xbld.svg"
   },
   {
     "id": "archway1zfnzv39cp4dv3jjy0aptn5msc02tjmy602l46u90dt729q80939qjgqcdj",
     "name": "xGRAV",
     "symbol": "xGRAV",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://coinhall.astrovault.io/token/logo-xgrav.svg"
   },
   {
     "id": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
@@ -193,7 +209,7 @@
     "type": "ibc",
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
+    "icon": "https://coinhall.astrovault.io/token/logo-osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
@@ -202,7 +218,8 @@
     "name": "QWOYN",
     "symbol": "QWOYN",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-qwoyn.svg"
   },
   {
     "id": "ibc/13C5990F84FA5D472E1F8BB1BAAEA8774DA5F24128EC02B119107AD21FB52A61",
@@ -210,14 +227,15 @@
     "symbol": "ETH.axl",
     "decimals": "18",
     "type": "ibc",
-    "icon": "https://astrovault.io/static/media/logo-eth.axl.c9502083459f6541237d.svg"
+    "icon": "https://coinhall.astrovault.io/token/logo-eth.axl.svg"
   },
   {
     "id": "ibc/1BCF1FCAFE3568E234787EDFDA12460BD8931B17FE6A729DCD60FAD845558DA1",
     "name": "VDL",
     "symbol": "VDL",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-vdl.svg"
   },
   {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -228,7 +246,7 @@
     "type": "ibc",
     "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
     "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
+    "icon": "https://coinhall.astrovault.io/token/logo-atom.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
   },
@@ -237,28 +255,32 @@
     "name": "MPWR",
     "symbol": "MPWR",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-mpwr.svg"
   },
   {
     "id": "ibc/2AE1ECA44CAD0C933CE178742595CE6796530FA1983E4FA7F4E43FBB5854D505",
     "name": "CUDOS",
     "symbol": "CUDOS",
     "decimals": "18",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-cudos.svg"
   },
   {
     "id": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
     "name": "GRAV",
     "symbol": "GRAV",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-grav.svg"
   },
   {
     "id": "ibc/381C09E1B743A8D893DF43B0861FE77AB2C437ED4BE10CB827A0A38285C11977",
     "name": "SHD",
     "symbol": "SHD",
     "decimals": "8",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-shd.svg"
   },
   {
     "id": "ibc/3A2DEEBCD51D0B74FE7CE058D40B0BF4C0E556CE9219E8F25F92CF288FF35F56",
@@ -268,7 +290,7 @@
     "type": "ibc",
     "circ_supply_api": "https://api.axelarscan.io",
     "total_supply_api": "https://api.axelarscan.io",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png"
+    "icon": "https://coinhall.astrovault.io/token/logo-wbtc.axl.svg"
   },
   {
     "id": "ibc/43897B9739BD63E3A08A88191999C632E052724AB96BD4C74AE31375C991F48D",
@@ -276,14 +298,15 @@
     "symbol": "USDC",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+    "icon": "https://coinhall.astrovault.io/token/logo-usdc.svg"
   },
   {
     "id": "ibc/4FC395BDCDCD4A3A681C0D222EE64B610AEDB215DB8D18F46B575357F27CD6A7",
     "name": "PASG",
     "symbol": "PASG",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-pasg.svg"
   },
   {
     "id": "ibc/55D94A32095A766971637425D998AAABF8357A1ABCB1CAC8614887BE51BF1FB1",
@@ -294,7 +317,7 @@
     "type": "ibc",
     "circ_supply": "22000000",
     "total_supply": "1000000000",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png",
+    "icon": "https://coinhall.astrovault.io/token/logo-andr.svg",
     "coingecko": "https://www.coingecko.com/en/coins/andromeda-2"
   },
   {
@@ -306,7 +329,7 @@
     "type": "ibc",
     "circ_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_circulating_supply",
     "total_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_total_supply",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png",
+    "icon": "https://coinhall.astrovault.io/token/logo-lvn.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/levana-protocol/",
     "coingecko": "https://www.coingecko.com/en/coins/levana"
   },
@@ -315,14 +338,16 @@
     "name": "USDC.grav",
     "symbol": "USDC.grav",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-usdc.grav.svg"
   },
   {
     "id": "ibc/7F6928F9DB35D5A420330B9470EA4419B5F305EEB668D3274FC1ACDAC325ED17",
     "name": "USDT.grav",
     "symbol": "USDT.grav",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-usdt.grav.svg"
   },
   {
     "id": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
@@ -333,7 +358,7 @@
     "type": "ibc",
     "circ_supply_api": "https://main.supply.agoric.net/circulation?denom=bld",
     "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWJsZA%3D%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png",
+    "icon": "https://coinhall.astrovault.io/token/logo-bld.svg",
     "coingecko": "https://www.coingecko.com/en/coins/agoric"
   },
   {
@@ -341,14 +366,16 @@
     "name": "FLIX",
     "symbol": "FLIX",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-flix.svg"
   },
   {
     "id": "ibc/8F6360B49F40DA2B86F7F1A3335490E126E4DD9BAC60B5ED2EEA08D8A10DC372",
     "name": "ROCK",
     "symbol": "ROCK",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-rock.svg"
   },
   {
     "id": "ibc/926432AE1C5FA4F857B36D970BE7774C7472079506820B857B75C5DE041DD7A3",
@@ -358,7 +385,7 @@
     "type": "ibc",
     "circ_supply_api": "https://supply-api.jackalprotocol.com/circulating-supply",
     "total_supply_api": "https://supply-api.jackalprotocol.com/total-supply",
-    "icon": "https://astrovault.io/static/media/logo-jkl.775e0818c92acfa58f36.svg",
+    "icon": "https://coinhall.astrovault.io/token/logo-jkl.svg",
     "coingecko": "https://www.coingecko.com/en/coins/jackal-protocol"
   },
   {
@@ -367,14 +394,15 @@
     "symbol": "USDC.axl",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+    "icon": "https://coinhall.astrovault.io/token/logo-usdc.axl.svg"
   },
   {
     "id": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",
     "name": "CMDX",
     "symbol": "CMDX",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-cmdx.svg"
   },
   {
     "id": "ibc/C0336ECF2DF64E7D2C98B1422EC2B38DE9EF33C34AAADF18C6F2E3FFC7BE3615",
@@ -384,28 +412,31 @@
     "type": "ibc",
     "circ_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
     "total_supply_api": "https://main.api.agoric.net/cosmos/bank/v1beta1/supply?pagination.key=dWlzdA%3D%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
+    "icon": "https://coinhall.astrovault.io/token/logo-ist.svg"
   },
   {
     "id": "ibc/C2CFB1C37C146CF95B0784FD518F8030FEFC76C5800105B1742FB65FFE65F873",
     "name": "AKT",
     "symbol": "AKT",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-akt.svg"
   },
   {
     "id": "ibc/CFD58F8A64F93940D00CABE85B05A6D0FBA1FF4DF42D3C1E23C06DF30A2BAE1F",
     "name": "PLQ",
     "symbol": "PLQ",
     "decimals": "18",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-plq.svg"
   },
   {
     "id": "ibc/E070901F36B129933202BEB3EB40A78BE242D8ECBA2D1AF9161DF06F35783900",
     "name": "ALTER",
     "symbol": "ALTER",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-alter.svg"
   },
   {
     "id": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
@@ -416,7 +447,7 @@
     "type": "ibc",
     "circ_supply_api": "https://api.axelarscan.io/circulating-supply",
     "total_supply_api": "https://api.axelarscan.io/total-supply",
-    "icon": "https://astrovault.io/static/media/logo-axl.d0d2aff65fc25b2de25c.svg",
+    "icon": "https://coinhall.astrovault.io/token/logo-axl.svg",
     "coingecko": "https://www.coingecko.com/en/coins/axelar"
   },
   {
@@ -424,34 +455,39 @@
     "name": "DEC",
     "symbol": "DEC",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-dec.svg"
   },
   {
     "id": "ibc/EEEF1FE5F4C01CAF351AAC0F6AFFC3C777578DE4D5B1E257091FE185F5991F15",
     "name": "DVPN",
     "symbol": "DVPN",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-dvpn.svg"
   },
   {
     "id": "ibc/FBDF85EF021068F5618F8E1017E1DF4CB235C20ECE324D3FE40FAAEA3B2AD878",
     "name": "stkOSMO",
     "symbol": "stkOSMO",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-stkosmo.svg"
   },
   {
     "id": "ibc/fcb240d2c3838369155a0fa8970a8be3ec1042f698269b9d6d9859274f00a0bb",
     "name": "BCNA",
     "symbol": "BCNA",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-bcna.svg"
   },
   {
     "id": "ibc/FCB240D2C3838369155A0FA8970A8BE3EC1042F698269B9D6D9859274F00A0BB",
     "name": "BCNA",
     "symbol": "BCNA",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/token/logo-bcna.svg"
   }
 ]
