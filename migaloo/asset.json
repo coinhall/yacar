@@ -24,6 +24,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/ampwhale.svg"
   },
   {
+    "id": "factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk",
+    "name": "ReStake Token",
+    "symbol": "RSTK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWQwdW1hOXF6Y3RzNGZ6dDdtbDM5eHA0NGF1dDVrNnF5amZ6ejRhc2FsbmVjcHBwcHIzcnNsNTJ2dnYvcnN0aw%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/shark",
     "name": "SHARK",
     "symbol": "SHARK",
