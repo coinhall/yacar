@@ -5548,7 +5548,7 @@
     "symbol": "ANDR",
     "decimals": "6",
     "type": "ibc",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19dd2lqy8vpcl3kc9ftz3y7xna6qyevuhq7zxkz/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=ibc/61FA42C3F0B0F8768ED2CE380EDD3BE0E4CB7E67688F81F70DE9ECF5F8684E1E",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png",
     "coingecko": "https://www.coingecko.com/en/coins/andromeda-2"
   },
