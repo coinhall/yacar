@@ -12746,6 +12746,15 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/AAVE.svg"
   },
   {
+    "id": "peggy0x943Af2ece93118B973c95c2F698EE9D15002e604",
+    "name": "GameGPT",
+    "symbol": "DUEL",
+    "decimals": "18",
+    "type": "peggy",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=peggy0x943Af2ece93118B973c95c2F698EE9D15002e604",
+    "icon": "https://static.alchemyapi.io/images/assets/28868.png"
+  },
+  {
     "id": "peggy0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
     "name": "SHIBA INU",
     "symbol": "SHIB",
