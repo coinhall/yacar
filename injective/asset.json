@@ -1153,6 +1153,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj168pjvcxwdr28uv295fchjtkk6pc5cd0lg3h450/dalton",
+    "name": "dalton",
+    "symbol": "DALTON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNjhwanZjeHdkcjI4dXYyOTVmY2hqdGtrNnBjNWNkMGxnM2g0NTAvZGFsdG9u&pagination.limit=1",
+    "icon": "https://yt3.ggpht.com/a/AATXAJw4YPnEOhsPHq5k8zuqFD3VC8w0oJ_wTx6xGw=s900-c-k-c0xffffffff-no-rj-mo"
+  },
+  {
     "id": "factory/inj168pjvcxwdr28uv295fchjtkk6pc5cd0lg3h450/glodiotor",
     "name": "Glodiotor",
     "symbol": "GLODIOTOR",
