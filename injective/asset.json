@@ -2680,6 +2680,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1h0w5sj0n07cugus02xfywaghvxxh8pp3e9egs6/trs",
+    "name": "TRS",
+    "symbol": "trs",
+    "decimals": "12",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxaDB3NXNqMG4wN2N1Z3VzMDJ4Znl3YWdodnh4aDhwcDNlOWVnczYvdHJz&pagination.limit=1",
+    "icon": "ipfs://bafkreiglyidmpjfornm7adxdwettzydn24qmy55qbcs26tt6fxdxhl5rii"
+  },
+  {
     "id": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava",
     "name": "Hava Coin",
     "symbol": "HAVA",
