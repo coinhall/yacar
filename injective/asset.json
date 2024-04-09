@@ -2505,8 +2505,7 @@
     "symbol": "SPUUN",
     "decimals": "6",
     "type": "tokenfactory",
-    "circ_supply": "888000000",
-    "total_supply": "888000000",
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZmxra3RmdmY4bnh2azMwMGYyejN2eGdscGxscHc1OWM1NjNwazcvU1BVVU4%3D&pagination.limit=1",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZmxra3RmdmY4bnh2azMwMGYyejN2eGdscGxscHc1OWM1NjNwazcvU1BVVU4%3D&pagination.limit=1",
     "icon": "https://www.spuun.xyz/logob.png"
   },
