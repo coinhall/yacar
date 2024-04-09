@@ -83,6 +83,8 @@
     "symbol": "AXV",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://coinhall.astrovault.io/axv/info",
+    "total_supply_api": "https://coinhall.astrovault.io/axv/info",
     "icon": "https://coinhall.astrovault.io/token/logo-axv.svg",
     "coingecko": "https://www.coingecko.com/en/coins/astrovault"
   },
