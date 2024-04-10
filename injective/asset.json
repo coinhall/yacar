@@ -3739,6 +3739,15 @@
     "icon": "https://i.ibb.co/wS3prMC/godzilla.png"
   },
   {
+    "id": "factory/inj1nhswhqrgfu3hpauvyeycz7pfealx4ack2c5hfp/mask",
+    "name": "The Mask",
+    "symbol": "MASK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbmhzd2hxcmdmdTNocGF1dnlleWN6N3BmZWFseDRhY2syYzVoZnAvbWFzaw%3D%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/wS3prMC/godzilla.png"
+  },
+  {
     "id": "factory/inj1nhswhqrgfu3hpauvyeycz7pfealx4ack2c5hfp/POLLY",
     "name": "polly",
     "symbol": "POLLY",
@@ -5090,6 +5099,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1wgzj93vs2rdfff0jrhp6t7xfzsjpsay9g7un3l/mask",
+    "name": "The Mask",
+    "symbol": "MASK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxd2d6ajkzdnMycmRmZmYwanJocDZ0N3hmenNqcHNheTlnN3VuM2wvbWFzaw%3D%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/Z2Hh005/themask.png"
+  },
+  {
     "id": "factory/inj1wjtuzkprkc4gdf4r7dlh9gu96yyxml8qpzzy9p/elon",
     "name": "ELON",
     "symbol": "ELON",
@@ -6208,6 +6226,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj10uwj0vx6d42p67z8jl75eh4tgxrgm3mp4mqwq3/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj10vhddx39e3q8ayaxw4dg36tfs9lpf6xx649zfn",
+    "name": "Cat wif Luck",
+    "symbol": "WIFLUCK",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj10vhddx39e3q8ayaxw4dg36tfs9lpf6xx649zfn/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj10vhq60u08mfxuq3zr6ffpm7uelcc9ape94xq5f",
