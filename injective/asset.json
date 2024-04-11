@@ -5099,6 +5099,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1wgzj93vs2rdfff0jrhp6t7xfzsjpsay9g7un3l/barcelona",
+    "name": "FC Barcelona",
+    "symbol": "BARCA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxd2d6ajkzdnMycmRmZmYwanJocDZ0N3hmenNqcHNheTlnN3VuM2wvYmFyY2Vsb25h&pagination.limit=1",
+    "icon": "https://i.ibb.co/SrDKxdd/barca.png"
+  },
+  {
     "id": "factory/inj1wgzj93vs2rdfff0jrhp6t7xfzsjpsay9g7un3l/mask",
     "name": "The Mask",
     "symbol": "MASK",
