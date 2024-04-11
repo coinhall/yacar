@@ -131,6 +131,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/osmo194r93tcjuls6dzspdrlj9lwt3xjnahgc6kwhgxnv8hlujuyu5alsllqejj/hava",
+    "name": "HAVA",
+    "symbol": "HAVA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTk0cjkzdGNqdWxzNmR6c3BkcmxqOWx3dDN4am5haGdjNmt3aGd4bnY4aGx1anV5dTVhbHNsbHFlamovaGF2YQ%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo19esh5d4xj7cyw9c307wlvdcwhqvl0pyexc8xxmccycv9vhgrzptqczzqlp/otf",
     "name": "Osmosis Token Factory",
     "symbol": "OTF",
