@@ -5132,6 +5132,15 @@
     "icon": "https://i.ibb.co/SrDKxdd/barca.png"
   },
   {
+    "id": "factory/inj1wgzj93vs2rdfff0jrhp6t7xfzsjpsay9g7un3l/delpiero",
+    "name": "Del Piero",
+    "symbol": "DelPiero",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxd2d6ajkzdnMycmRmZmYwanJocDZ0N3hmenNqcHNheTlnN3VuM2wvZGVscGllcm8%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/7R2MSH9/delpiero.png"
+  },
+  {
     "id": "factory/inj1wgzj93vs2rdfff0jrhp6t7xfzsjpsay9g7un3l/mask",
     "name": "The Mask",
     "symbol": "MASK",
@@ -7922,6 +7931,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18n9rpsstxsxgpmgegkn6fsvq9x3alqekqddgnq/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj18nzsj7sef46q7puphfxvr5jrva6xtpm9zsqvhh",
+    "name": "POKPOK",
+    "symbol": "POK",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18nzsj7sef46q7puphfxvr5jrva6xtpm9zsqvhh/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj18qupdvxmgswj9kfz66vaw4d4wn0453ap6ydxmy",
