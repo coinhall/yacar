@@ -180,6 +180,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj10twe630w3tpqvxmeyl5ye99vfv4rmy92jd9was/JEFF",
+    "name": "JeffCoin",
+    "symbol": "JEFF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMHR3ZTYzMHczdHBxdnhtZXlsNXllOTl2ZnY0cm15OTJqZDl3YXMvSkVGRg%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreibyumaqgcg25sorccad7toqc4m6ilkwzed3fkl5idlqmrfcyjfkl4"
+  },
+  {
     "id": "factory/inj10w3p2qyursc03crkhg9djdm5tnu9xg63r2zumh/scorpion",
     "name": "Scorpion",
     "symbol": "SCORPION",
