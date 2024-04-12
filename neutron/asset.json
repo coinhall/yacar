@@ -141,6 +141,17 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWVlczQ0NjB4aGo3ejZnNDlmbjh6MzltZzUzM3F3N25oN3d0Y3NqL3Nsb3Ro&pagination.limit=1"
   },
   {
+    "id": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
+    "entity": "Astroport",
+    "name": "Astroport",
+    "symbol": "ASTRO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply_api": "https://api.astroport.fi/api/stats",
+    "total_supply_api": "https://api.astroport.fi/api/stats",
+    "icon": "https://app.astroport.fi/tokens/astro.svg"
+  },
+  {
     "id": "factory/neutron1fjn0vr4dma5crx2rctv6vmfwxx0v0vrdk50l3p/TakumiProp16JunoWhaleInu",
     "name": "PROP16",
     "symbol": "PROP16",
