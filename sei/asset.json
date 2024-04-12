@@ -23039,5 +23039,16 @@
     "symbol": "USDT",
     "decimals": "6",
     "type": "native"
+  },
+  {
+    "id": "sei1z0wgmegw32dydfeweps7jalrgptw9rpv5r8mwdm5n2fn7rj0sh2qhuacl7",
+    "entity": "DRAGON",
+    "name": "DRAGON",
+    "symbol": "DRAGON",
+    "decimals": "6",
+    "type": "cw20",
+    "circ_supply": "1000000000",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1z0wgmegw32dydfeweps7jalrgptw9rpv5r8mwdm5n2fn7rj0sh2qhuacl7/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/chWRc8S/dragon.png",
   }
 ]
