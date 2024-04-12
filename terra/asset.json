@@ -440,6 +440,17 @@
     "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply"
   },
   {
+    "id": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
+    "entity": "Astroport",
+    "name": "Astroport",
+    "symbol": "ASTRO",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.astroport.fi/api/stats",
+    "total_supply_api": "https://api.astroport.fi/api/stats",
+    "icon": "https://app.astroport.fi/tokens/astro.svg"
+  },
+  {
     "id": "ibc/96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46",
     "entity": "Manta DAO",
     "name": "MNTA",
