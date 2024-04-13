@@ -3097,6 +3097,15 @@
     "icon": "ipfs://bafybeif34sieefbel36tznradyvckiwo5wjhxo7kge2vhnxmsrbecyouyu"
   },
   {
+    "id": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "name": "Cosmo",
+    "symbol": "COSMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxamU2bjVzcjRxdHgybGhwbGRmeG5kbnRtZ2xzOWhmMzhuY21jZXovQ09TTU8%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeic4m2qunmqhimw6tnxyqojwku4satdf3hgh6xiuu6cvjj7624sdiu"
+  },
+  {
     "id": "factory/inj1jhwwydrfxe33r7ayy7nnrvped84njx97mma56r/BEAR",
     "name": "BEAR",
     "symbol": "BEAR",
@@ -5933,6 +5942,17 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
   },
   {
+    "id": "ibc/063F4461F7317CFF10F50AB044E44932D22AAD84FA7107082744946E6DB7B7A8",
+    "entity": "Astroport",
+    "name": "Astroport",
+    "symbol": "ASTRO",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.astroport.fi/api/stats",
+    "total_supply_api": "https://api.astroport.fi/api/stats",
+    "icon": "https://app.astroport.fi/tokens/astro.svg"
+  },
+  {
     "id": "ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821",
     "name": "EVMOS",
     "symbol": "EVMOS",
@@ -6139,11 +6159,14 @@
   },
   {
     "id": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+    "entity": "Astroport",
     "name": "Astroport",
     "symbol": "ASTRO",
     "decimals": "6",
     "type": "ibc",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/astroport.png"
+    "circ_supply_api": "https://api.astroport.fi/api/stats",
+    "total_supply_api": "https://api.astroport.fi/api/stats",
+    "icon": "https://app.astroport.fi/tokens/astro.svg"
   },
   {
     "id": "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2",
@@ -9490,7 +9513,8 @@
     "symbol": "FRANKLYN",
     "decimals": "18",
     "type": "cw20",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1gadcw96ha8fpd6ulgzulsuqj9vjz8dv0s57at8/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1gadcw96ha8fpd6ulgzulsuqj9vjz8dv0s57at8/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://th.bing.com/th/id/OIP.EwTCfjF7CaOPfbiqDfB_3wAAAA?rs=1&pid=ImgDetMain"
   },
   {
     "id": "inj1gaszym657k5mmxp3z5gaz2ze0drs6xv0dz6u6g",
@@ -10662,6 +10686,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1m9vaf9rm6qfjtq4ymupefkxjtv7vake0z4fc35/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1m9yfd6f2dw0f6uyx4r2av2xk8s5fq5m7pt3mec",
+    "name": "Spuurk",
+    "symbol": "Spuurk",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1m9yfd6f2dw0f6uyx4r2av2xk8s5fq5m7pt3mec/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1ma5f4cpyryqukl57k22qr9dyxmmc99pw50fn72",

@@ -1070,7 +1070,20 @@
     "type": "ibc",
     "circ_supply_api": "https://api.astroport.fi/api/stats",
     "total_supply_api": "https://api.astroport.fi/api/stats",
-    "icon": "https://app.astroport.fi/tokens/astro.svg"
+    "icon": "https://app.astroport.fi/tokens/astro.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/astroport-fi"
+  },
+  {
+    "id": "ibc/1FF96B82FDE4B0E38FA0A8EC24A83E1EAC2615F338468A47473BAD3B45E066D2",
+    "entity": "Astroport",
+    "name": "Astroport",
+    "symbol": "ASTRO",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.astroport.fi/api/stats",
+    "total_supply_api": "https://api.astroport.fi/api/stats",
+    "icon": "https://app.astroport.fi/tokens/astro.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/astroport-fi"
   },
   {
     "id": "ibc/423DE4133F8676069BC9550FF251F1F870F6885621C8E363A9F70257BF3AA638",
@@ -8772,6 +8785,14 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmwasm/wasm/v1/contract/sei1ctzke8cgvzyykn3hsn4e9v8c8ulrxmgxhahsrvr0478sc6mh2kvqjmynz0/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "sei1cuk7fhtprrl7h4xwwz0usdc4fk9smduft67emsn37nt8suz6dsksw9twpf",
+    "name": "babyGOKU",
+    "symbol": "babyGOKU",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1cuk7fhtprrl7h4xwwz0usdc4fk9smduft67emsn37nt8suz6dsksw9twpf/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "sei1cusr3sfxycz8q9740u6v9vtqedk5jd7lqupf0lpr3n5u5x4y7dwsmpf9l4",
     "name": "Seibre",
     "symbol": "SEIB",
@@ -16235,9 +16256,9 @@
     "symbol": "WHALE",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply": "88000000000",
+    "circ_supply": "96450000000",
     "total_supply": "100000000000",
-    "icon": "https://www.seiwhales.io/static/media/Coin.fb85d81a8bd2fb1720ae.png",
+    "icon": "https://i.ibb.co/TvmYrxg/Logo-1000x1000.jpg",
     "coingecko": "https://www.coingecko.com/en/coins/whale-sei"
   },
   {
