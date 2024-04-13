@@ -19,6 +19,7 @@
     "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS90ZXJyYTFoajh2c2x5d2dyZ3d1bHVhanVnZ3pwZ2N1ZGs1ZmM5ZDRlNmxhMDg0MjZkZmZneWw3dWpzOGEzZTg4L2Jjb2lu&pagination.limit=1",
     "icon": "https://lh6.googleusercontent.com/4BOuqjpQAfT-l-QMC3RCWqQ32SqOT49M0hJfPr6JkNFbyVFEaajfzwfxLiRjBVJ7Sss0lesVWBJEHm2Uvhzc_GQChnE97OICQU2ng019ez4RMepPY2OOjBihFYQJUReZxQ=w1280"
   },
+
   {
     "id": "factory/terra1hj8vslywgrgwuluajuggzpgcudk5fc9d4e6la08426dffgyl7ujs8a3e88/coco",
     "name": "CocoLand",
@@ -1135,10 +1136,13 @@
   },
   {
     "id": "terra164ssz60yvsxey0ku9mtcaegdeyxwzuwwqyrp238nvflwqve0pvxsra7fa2",
+    "entity": "CLON",
     "name": "CLON",
     "symbol": "CLON",
     "decimals": "6",
     "type": "cw20",
+    "icon": "https://i.imgur.com/RqXyt5t.png",
+    "circ_supply": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra164ssz60yvsxey0ku9mtcaegdeyxwzuwwqyrp238nvflwqve0pvxsra7fa2/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra164ssz60yvsxey0ku9mtcaegdeyxwzuwwqyrp238nvflwqve0pvxsra7fa2/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
