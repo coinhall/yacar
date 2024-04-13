@@ -260,6 +260,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/osmo1kqdw6pvn0xww6tyfv2sqvkkencdz0qw406x54r/IBC",
+    "name": "IBC",
+    "symbol": "IBC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWtxZHc2cHZuMHh3dzZ0eWZ2MnNxdmtrZW5jZHowcXc0MDZ4NTRyL0lCQw%3D%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ibc.png"
+  },
+  {
     "id": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
     "entity": "Levana Protocol",
     "name": "Levana Governance Token",
@@ -1100,6 +1109,13 @@
     "decimals": "18",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/pundix.png"
+  },
+  {
+    "id": "ibc/2ED09B03AA396BC2F35B741F4CA4A82D33A24A1007BFC1973299842DD626F564",
+    "name": "Staked Astroport Token",
+    "symbol": "xASTRO",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/2F21E6D4271DE3F561F20A02CD541DAF7405B1E9CB3B9B07E3C2AC7D8A4338A5",
@@ -2749,6 +2765,13 @@
     "decimals": "6",
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/beast.png"
+  },
+  {
+    "id": "ibc/B8C608CEE08C4F30A15A7955306F2EDAF4A02BB191CABC4185C1A57FD978DA1B",
+    "name": "Astroport token",
+    "symbol": "ASTRO",
+    "decimals": "6",
+    "type": "ibc"
   },
   {
     "id": "ibc/B901BEC1B71D0573E6EE874FEC39E2DF4C2BDB1DB74CB3DA0A9CACC4A435B0EC",
