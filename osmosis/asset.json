@@ -85,11 +85,12 @@
   },
   {
     "id": "factory/osmo17fel472lgzs87ekt9dvk0zqyh5gl80sqp4sk4n/LAB",
+    "entity": "MAD Scientists",
     "name": "LAB",
     "symbol": "LAB",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTdmZWw0NzJsZ3pzODdla3Q5ZHZrMHpxeWg1Z2w4MHNxcDRzazRuL0xBQg%3D%3D&pagination.limit=1",
+    "total_supply": "100000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/LAB.png"
   },
   {
