@@ -2450,6 +2450,7 @@
   },
   {
     "id": "terra15a3wr4ecpye8xhs0xmc2un2t8f87rxhfmfkc88x2s9r2klt4ymnsalq8hn",
+    "entity": "BONER",
     "name": "BONER",
     "symbol": "BON",
     "decimals": "6",
@@ -5356,6 +5357,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1ayvk8r0s6wuzgzkj3mwqtraj0ewmt43lj0lq7hxjcy0kq0uat48sdvpv5l",
+    "name": "LMT",
+    "symbol": "LMT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1ayvk8r0s6wuzgzkj3mwqtraj0ewmt43lj0lq7hxjcy0kq0uat48sdvpv5l/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1ayxfyasd2ursa5gt5zgzgfywsw999dz4yykjn7",
     "name": "CanThisActuallyWork",
     "symbol": "LPTEST",
@@ -7259,11 +7268,13 @@
   },
   {
     "id": "terra1fr59paklwuqse3c5lskltyd4sgpflu49z6wc2qgzflezkwqv9g6qqzrvah",
+    "entity": "Terramint",
     "name": "Terramint",
     "symbol": "MINT",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1fr59paklwuqse3c5lskltyd4sgpflu49z6wc2qgzflezkwqv9g6qqzrvah/smart/eyJ0b2tlbl9pbmZvIjoge319"
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1fr59paklwuqse3c5lskltyd4sgpflu49z6wc2qgzflezkwqv9g6qqzrvah/smart/eyJ0b2tlbl9pbmZvIjoge319",
+    "icon": "https://i.ibb.co/yF712pR/c6-Fb-NLA4-400x400.jpg"
   },
   {
     "id": "terra1ft9qff9fgumdca5qluxu3e8fh8xc7d4hfek8s2",
@@ -7647,6 +7658,14 @@
     "symbol": "Test",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1gqwjz5p2tjxayaaaxqwzd3uf87haprcrdxjhdug320zg6cdf567s5k3fyf",
+    "name": "Baby Lunc",
+    "symbol": "Lunc",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1gqwjz5p2tjxayaaaxqwzd3uf87haprcrdxjhdug320zg6cdf567s5k3fyf/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "terra1gqx44u3n5y67wqgr7dt44sjjyw62atj79pe909",
@@ -9335,6 +9354,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1kxjma6u7uctc7was9keexfap0m5xy85sxck43gr9pvc8pdjyzvyq5r9q2r",
+    "name": "ElonX",
+    "symbol": "ElonX",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1kxjma6u7uctc7was9keexfap0m5xy85sxck43gr9pvc8pdjyzvyq5r9q2r/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "terra1ky26p5m5t5anq3qsrdmalgj2gz6jyxarj5ps7q",
     "name": "Wormhole:Wrapped LUNA Token",
     "symbol": "whLUNA",
@@ -9894,11 +9921,12 @@
   },
   {
     "id": "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
-    "entity": "Cat Wif Hat",
+    "entity": "CatWifHat",
     "name": "Cat Wif Hat",
     "symbol": "CatWifHat",
     "decimals": "6",
     "type": "cw20",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882/smart/eyJ0b2tlbl9pbmZvIjoge319",
     "icon": "https://images2.imgbox.com/67/3d/A6CzEXca_o.png"
   },
