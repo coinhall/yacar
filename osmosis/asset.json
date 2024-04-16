@@ -61,6 +61,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo14qfn3y0huxauaj6fklars7yvue4mjr7t6eepgghacy4g6t3v6gqq9k0k2q/wdbrn",
+    "name": "Woodburn",
+    "symbol": "WDBRN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTRxZm4zeTBodXhhdWFqNmZrbGFyczd5dnVlNG1qcjd0NmVlcGdnaGFjeTRnNnQzdjZncXE5azBrMnEvd2Ricm4%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo15vnefu3p0dkkgkzud958nu80j86vyatrl7ghxmumy6jhzs80qlkqgx2zmq/mbt",
     "name": "Meta Builders Token",
     "symbol": "MBT",
@@ -416,6 +424,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXZkdm56bndnNTk3cW5ncnE5bW5mY2ZrMGFtOWpkYzl5NDQ2amV3aGNxZHJlcXo0cjc1eHE1ajV6dnkveW1vcw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1vffl0v9j2r4wkfezxl0h9fafj9mv8qqtpdr2jyy60euwegnsfntqexac87/wdbrn",
+    "name": "Woodburn",
+    "symbol": "WDBRN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXZmZmwwdjlqMnI0d2tmZXp4bDBoOWZhZmo5bXY4cXF0cGRyMmp5eTYwZXV3ZWduc2ZudHFleGFjODcvd2Ricm4%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo1vvmvqzt3qr4hn952qvqn00f92walwuak0fx9rcynd0043jjdt6lsrft4fd/act",
