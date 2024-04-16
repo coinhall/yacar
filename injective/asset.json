@@ -3735,12 +3735,14 @@
   },
   {
     "id": "factory/inj1nccncwqx5q22lf4uh83dhe89e3f0sh8kljf055/HOUND",
+    "entity": "$Hound on Injective",
     "name": "$Hound on Injective",
     "symbol": "HOUND",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbmNjbmN3cXg1cTIybGY0dWg4M2RoZTg5ZTNmMHNoOGtsamYwNTUvSE9VTkQ%3D&pagination.limit=1",
-    "icon": "ipfs://bafybeifsc3kp6nic3x5qfqltzxirrvgfj53p24bxiu3ikktdpesisrannm"
+    "circ_supply": "1000000000",
+    "total_supply": "1000000000",
+    "icon": "https://greyhound.wtf/images/icons/hound-logo-injective.png"
   },
   {
     "id": "factory/inj1ne284hkg3yltn7aq250lghkqqrywmk2sk9x2yu/BOME",
