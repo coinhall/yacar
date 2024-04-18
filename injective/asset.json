@@ -3270,6 +3270,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1k0mzgwd4ujuu9w95xzs8p7qu8udy3atqj3sau7/POTIN",
+    "name": "blodimir potin",
+    "symbol": "POTIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxazBtemd3ZDR1anV1OXc5NXh6czhwN3F1OHVkeTNhdHFqM3NhdTcvUE9USU4%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/S39c6vR/potin.jpg"
+  },
+  {
     "id": "factory/inj1k2kcx5n03pe0z9rfzvs9lt764jja9xpvwrxk7c/FOMOFox",
     "name": "FOMOFox",
     "symbol": "FOMOFox",
@@ -3475,6 +3484,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1kzaaapa8ux4z4lh8stm6vv9c5ykhtwl84zxrtl%2Fni"
+  },
+  {
+    "id": "factory/inj1l0pnjpc2y8f0wlua025g5verjuvnyjyq39x9q0/MAKI",
+    "name": "MAKI",
+    "symbol": "MAKI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbDBwbmpwYzJ5OGYwd2x1YTAyNWc1dmVyanV2bnlqeXEzOXg5cTAvTUFLSQ%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreid7qkyejijvbzrkmyfesucm2tzuj24njqrysd7bp6z3bhzotkefi4"
   },
   {
     "id": "factory/inj1l2kcs4yxsxe0c87qy4ejmvkgegvjf0hkyhqk59/DGNZ",
