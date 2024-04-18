@@ -2741,6 +2741,15 @@
     "icon": "https://pbs.twimg.com/profile_images/378800000857919980/lHqPIZza_400x400.png"
   },
   {
+    "id": "factory/inj1gn54l05v5kqy5zmzk5l6wydzgvhvx2srm7rdkg/DWIFLUCK",
+    "name": "Dog WIF Luck",
+    "symbol": "DWIFLUCK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZ241NGwwNXY1a3F5NXptems1bDZ3eWR6Z3Zodngyc3JtN3Jka2cvRFdJRkxVQ0s%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeic5bwkj6erv73jorbcrtbwv7cylmtc5iy32suwyqcbxd3hvxvssy4"
+  },
+  {
     "id": "factory/inj1gt60kj3se0yt8pysnygc3e0syrkrl87k4qc3mz/kishida",
     "name": "kishida",
     "symbol": "kishida",
@@ -6430,6 +6439,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj10c0ufysjj52pe7m9a3ncymzf98sysl3nr730r5/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj10dqyn46ljqwzx4947zc3dska84hpnwc7r6rzzs",
+    "name": "TRY",
+    "symbol": "TRY",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj10dqyn46ljqwzx4947zc3dska84hpnwc7r6rzzs/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj10dysh3p4q8nh5zzhsq5j84de5pq6dxahnplt2f",
