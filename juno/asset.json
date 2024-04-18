@@ -345,8 +345,8 @@
     "symbol": "BTSG",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://supply.bitsong.io/circulating-supply",
-    "total_supply_api": "https://supply.bitsong.io/total-supply",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAwOEJGRDAwMEExMEJDRTVGMEQ0REQ4MTlBRTFDMUVDMjk0MjM5NjA2MkRBQkRENkFFNjRBNjU1QUJDNzA4NUI%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAwOEJGRDAwMEExMEJDRTVGMEQ0REQ4MTlBRTFDMUVDMjk0MjM5NjA2MkRBQkRENkFFNjRBNjU1QUJDNzA4NUI%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/btsg.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/bitsong",
     "coingecko": "https://www.coingecko.com/en/coins/bitsong"
@@ -357,6 +357,8 @@
     "symbol": "bWHALE",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAxQkFFMkU2OUQwMjY3MEIyMjc1OEZCQTc0RTQxMTRCNkU4OEZDMTg3ODkzNkM5MTlEQTM0NUU2QzZDOTJBQkY%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAxQkFFMkU2OUQwMjY3MEIyMjc1OEZCQTc0RTQxMTRCNkU4OEZDMTg3ODkzNkM5MTlEQTM0NUU2QzZDOTJBQkY%3D&pagination.limit=1",
     "icon": "https://i.ibb.co/0Bpqb3b/image.png"
   },
   {
@@ -366,6 +368,8 @@
     "symbol": "BCNA",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBDQjVENjBFNTdGRDUyMUZBMzlEMTFFM0U0MTAxNDQzODkwMTBBQzVFRjVGMjkyQkM5QkREODMyRkEyRkRCRjk%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBDQjVENjBFNTdGRDUyMUZBMzlEMTFFM0U0MTAxNDQzODkwMTBBQzVFRjVGMjkyQkM5QkREODMyRkEyRkRCRjk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bcna.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/bitcanna",
     "coingecko": "https://www.coingecko.com/en/coins/bitcanna"
@@ -377,8 +381,8 @@
     "symbol": "LUNA",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://phoenix-api.terra.dev/balance/circulating-supply",
-    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=dWx1bmE%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwN0QxNTJCQjMxNzZGQUVCRjRDMkE4NEM1RkZERUVBN0M3Q0I0RkUxQkJEQUI3MTBGMUZEMjVCQ0QwNTVDQkY%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwN0QxNTJCQjMxNzZGQUVCRjRDMkE4NEM1RkZERUVBN0M3Q0I0RkUxQkJEQUI3MTBGMUZEMjVCQ0QwNTVDQkY%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/Luna.svg"
   },
   {
@@ -388,7 +392,8 @@
     "symbol": "USTC",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://classicterra.money/api/v1/csupply/ustc",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJEQTQxMzY0NTc4MTBCQ0I5REFBQjYyMENBNjdCQzM0MkIxN0MzQzcwMTUxQ0E3MDQ5MEExNzBERjdDOUNCMjc%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJEQTQxMzY0NTc4MTBCQ0I5REFBQjYyMENBNjdCQzM0MkIxN0MzQzcwMTUxQ0E3MDQ5MEExNzBERjdDOUNCMjc%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/ustc.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd",
     "coingecko": "https://www.coingecko.com/en/coins/terraclassicusd"
@@ -399,6 +404,8 @@
     "symbol": "ampWHALE",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGN0MyQTNENUQ0MjU1M0VENDZGNTdEOEIwREUzNzMzQjFCNUZGNTcxRTJDNkEwNTFEMzQ1MjU5MDRCNEMwQUY%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGN0MyQTNENUQ0MjU1M0VENDZGNTdEOEIwREUzNzMzQjFCNUZGNTcxRTJDNkEwNTFEMzQ1MjU5MDRCNEMwQUY%3D&pagination.limit=1",
     "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
   },
   {
@@ -407,8 +414,8 @@
     "symbol": "WHALE",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://apex.migaloo.zone/api/supply",
-    "total_supply_api": "https://apex.migaloo.zone/api/supply",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNBNkFERTc4RkI4MTY5QzAzNEMyOUM0RjJFMUE2MUNFNTk2RUM4MjM1MzY2RjIyMzgxRDk4MUE5OEYxRjVBNUM%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNBNkFERTc4RkI4MTY5QzAzNEMyOUM0RjJFMUE2MUNFNTk2RUM4MjM1MzY2RjIyMzgxRDk4MUE5OEYxRjVBNUM%3D&pagination.limit=1",
     "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
@@ -418,8 +425,8 @@
     "symbol": "NGM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.e-money.com/v1/supply/circulating/ngm",
-    "total_supply_api": "https://api.e-money.com/v1/supply/total/ngm",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUyNDIzMTM2MzM5QzFDRThDOTFGNkE1ODZERkU0MTU5MUJEREQ0NjY1QUU1MjZERkZBODQyMUY5QUNGOTUxOTY%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUyNDIzMTM2MzM5QzFDRThDOTFGNkE1ODZERkU0MTU5MUJEREQ0NjY1QUU1MjZERkZBODQyMUY5QUNGOTUxOTY%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/ngm.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/e-money-coin",
     "coingecko": "https://www.coingecko.com/en/coins/e-money"
@@ -430,8 +437,8 @@
     "symbol": "MNTL",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://supply.assetmantle.one/circulating-supply",
-    "total_supply_api": "https://supply.assetmantle.one/total-supply",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDQjkwNkU4MkI3QTg4RTYyNjQ0QUQ4MTEzNjFGNTg1OEI3NEJBOUVCRDc1Qzg0QjZEMjRCMjBDMDFBNDgxOUY%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDQjkwNkU4MkI3QTg4RTYyNjQ0QUQ4MTEzNjFGNTg1OEI3NEJBOUVCRDc1Qzg0QjZEMjRCMjBDMDFBNDgxOUY%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
   },
   {
@@ -441,6 +448,8 @@
     "symbol": "DIG",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY4NDJDNTkxREM0NTg4NDExQTU2NUM5RkY2NTBGQjE1QTE3REZFM0YwQTQzMjAxRTgxNDFFNEQxNEI4RDE3MUE%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY4NDJDNTkxREM0NTg4NDExQTU2NUM5RkY2NTBGQjE1QTE3REZFM0YwQTQzMjAxRTgxNDFFNEQxNEI4RDE3MUE%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/dig.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/dig-chain",
     "coingecko": "https://www.coingecko.com/en/coins/dig-chain"
@@ -452,8 +461,8 @@
     "symbol": "XPRT",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/circulatingSupply",
-    "total_supply_api": "https://pdfodddic9.execute-api.ap-southeast-1.amazonaws.com/default/totalSupply",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc0NTVCM0YyRjI3Mzc5MDZCQUNGNEFFOTgwMDY5QTRDQUI3QzdGOUZEQUFCQUVGQkE0MzlERjAzN0FFQzU4OTg%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc0NTVCM0YyRjI3Mzc5MDZCQUNGNEFFOTgwMDY5QTRDQUI3QzdGOUZEQUFCQUVGQkE0MzlERjAzN0FFQzU4OTg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/persistence",
     "coingecko": "https://www.coingecko.com/en/coins/persistence"
@@ -465,8 +474,8 @@
     "symbol": "LUNC",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://classicterra.money/api/v1/csupply",
-    "total_supply_api": "https://classicterra.money/api/v1/tsupply",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhGODY1RDk3NjBCNDgyRkY2MjU0RURGRUMxRkYyRjEyNzNCOUFCNjg3M0E3REU0ODRGODk2Mzk3OTVENzNENzU%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhGODY1RDk3NjBCNDgyRkY2MjU0RURGRUMxRkYyRjEyNzNCOUFCNjg3M0E3REU0ODRGODk2Mzk3OTVENzNENzU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/lunc.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-classic"
@@ -478,8 +487,8 @@
     "symbol": "CMDX",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.cros-nest.com/comdex-1/supply",
-    "total_supply_api": "https://rest.comdex.one/cosmos/bank/v1beta1/supply?pagination.key=dWNtZHg%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0NkFEOTZGMjc4NzcwNTIxNTI2RDcyODNGNTgyNjhEQTJGNkFDRERFNDAzMjRBOUQxQzg2ODExRDc4Qzg2QTA%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0NkFEOTZGMjc4NzcwNTIxNTI2RDcyODNGNTgyNjhEQTJGNkFDRERFNDAzMjRBOUQxQzg2ODExRDc4Qzg2QTA%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/cmdx.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/comdex",
     "coingecko": "https://www.coingecko.com/en/coins/comdex"
@@ -491,8 +500,8 @@
     "symbol": "SCRT",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/circulating_supply",
-    "total_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/total_supply",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I1NUIwOEVGMzY2N0IwQzZGMDI5QzJDQzlDQUE2QjAwNzg4Q0Y2MzlFQkI4NEIzNDgxOEM4NUNCQUJBMzNBQkQ%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I1NUIwOEVGMzY2N0IwQzZGMDI5QzJDQzlDQUE2QjAwNzg4Q0Y2MzlFQkI4NEIzNDgxOEM4NUNCQUJBMzNBQkQ%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/scrt.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret",
     "coingecko": "https://www.coingecko.com/en/coins/secret"
@@ -504,8 +513,8 @@
     "symbol": "EEUR",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.e-money.com/v1/supply/circulating/eeur",
-    "total_supply_api": "https://api.e-money.com/v1/supply/total/eeur",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I5RjdDMUU0Q0U5MjE5QjVBRjA2QzQ3QjE4NjYxREJENDlDQ0Q3QTZDMThGRjc4OUUyRkI2MkJCMzY1Q0ZGOUM%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I5RjdDMUU0Q0U5MjE5QjVBRjA2QzQ3QjE4NjYxREJENDlDQ0Q3QTZDMThGRjc4OUUyRkI2MkJCMzY1Q0ZGOUM%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/eeur.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/e-money",
     "coingecko": "https://www.coingecko.com/en/coins/e-money-eur"
@@ -517,8 +526,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
@@ -530,7 +539,8 @@
     "symbol": "HUAHUA",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4MzZCMTkxQ0RBRThFREFDREVCRTdCNjRCNTA0QzVFMDZDQzE3QzZBMDcyREFGMjc4RjlBOTZERjY2RjYyNDE%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4MzZCMTkxQ0RBRThFREFDREVCRTdCNjRCNTA0QzVFMDZDQzE3QzZBMDcyREFGMjc4RjlBOTZERjY2RjYyNDE%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/huahua.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/chihuahua-wtf",
     "coingecko": "https://www.coingecko.com/en/coins/chihuahua-chain"
@@ -541,6 +551,8 @@
     "symbol": "RAC",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4RDYyNzFFQzU0RTNBOTZDNkI5RkI2QzJCQTlFOTk2OTJCMDdDRUI0Mjc1NDYzODAyOTY1NzA3MkVBNDgzMzc%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4RDYyNzFFQzU0RTNBOTZDNkI5RkI2QzJCQTlFOTk2OTJCMDdDRUI0Mjc1NDYzODAyOTY1NzA3MkVBNDgzMzc%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg"
   },
   {
@@ -550,8 +562,8 @@
     "symbol": "AKT",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://akash-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=dWFrdA%3D%3D&pagination.limit=1",
-    "total_supply_api": "https://akash-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=dWFrdA%3D%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RGQzZGMzM3OTZENUQwMDc1QzVGQjU0QTREN0I4RTc2OTE1QUNGNDM0Q0IxRUUyQTFCQTBCQjgzMzRFMTdDM0E%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RGQzZGMzM3OTZENUQwMDc1QzVGQjU0QTREN0I4RTc2OTE1QUNGNDM0Q0IxRUUyQTFCQTBCQjgzMzRFMTdDM0E%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/akt.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/akash-network",
     "coingecko": "https://www.coingecko.com/en/coins/akash-network"
@@ -562,6 +574,8 @@
     "symbol": "USDC",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VBQzM4RDU1MzcyRjM4RjFBRkQ2OERGN0ZFOUVGNzYyRENGNjlGMjY1MjA2NDNDRjNGOUQyOTJBNzM4RDgwMzQ%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VBQzM4RDU1MzcyRjM4RjFBRkQ2OERGN0ZFOUVGNzYyRENGNjlGMjY1MjA2NDNDRjNGOUQyOTJBNzM4RDgwMzQ%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/axlusdc.png"
   },
   {
@@ -571,8 +585,8 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VEMDdBMzM5MUExMTJCMTc1OTE1Q0Q4RkFGNDNBMkRBOEU0NzkwRURFMTI1NjY2NDlEMEMyRjk3NzE2Qjg1MTg%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VEMDdBMzM5MUExMTJCMTc1OTE1Q0Q4RkFGNDNBMkRBOEU0NzkwRURFMTI1NjY2NDlEMEMyRjk3NzE2Qjg1MTg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -584,8 +598,8 @@
     "symbol": "STARS",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://supply-api.publicawesome.dev",
-    "total_supply_api": "https://supply-api.publicawesome.dev",
+    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y2QjM2NzM4NTMwMDg2NUY2NTRFMTEwOTc2QjgzODUwMjUwNDIzMTcwNUJBQzA4NDlCMDY1MUMyMjYzODU4ODU%3D&pagination.limit=1",
+    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y2QjM2NzM4NTMwMDg2NUY2NTRFMTEwOTc2QjgzODUwMjUwNDIzMTcwNUJBQzA4NDlCMDY1MUMyMjYzODU4ODU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/stars.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stargaze/",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"

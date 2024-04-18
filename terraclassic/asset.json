@@ -6,8 +6,8 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA0NzFGMUM0RTdBRkQzRjA3NzAyQkVGNkRDMzY1MjY4RDY0NTcwRjdDMUZEQzk4RUE2MDk4REQ2REU1OTgxN0I%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA0NzFGMUM0RTdBRkQzRjA3NzAyQkVGNkRDMzY1MjY4RDY0NTcwRjdDMUZEQzk4RUE2MDk4REQ2REU1OTgxN0I%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -18,6 +18,8 @@
     "symbol": "WHALE",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA3N0VFNUY4N0NFNUNENDE5NDM2RDI2NTMzMzI5QkRDN0JFRTY4NTBBRDY0QkMzMTY0ODZCMERDQ0IxM0MwRUI%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA3N0VFNUY4N0NFNUNENDE5NDM2RDI2NTMzMzI5QkRDN0JFRTY4NTBBRDY0QkMzMTY0ODZCMERDQ0IxM0MwRUI%3D&pagination.limit=1",
     "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
@@ -27,8 +29,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE4QUJBNjZCNzkxOTE4RDUxRDMzNDE1REExNzM2MzI3MzVEODMwRTJFNzdFNjNDOTFDMTFEMzAwOENGRDUyNjI%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE4QUJBNjZCNzkxOTE4RDUxRDMzNDE1REExNzM2MzI3MzVEODMwRTJFNzdFNjNDOTFDMTFEMzAwOENGRDUyNjI%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
@@ -37,6 +39,8 @@
     "symbol": "USDT",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4NkE0MDMxRDY4REU2MzcwQjg1RjlGRjdFODlDRUY4REU3Q0RFMDFDQzE5M0NCRDg3QkQzRUQ2MEY2NjYyQ0U%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4NkE0MDMxRDY4REU2MzcwQjg1RjlGRjdFODlDRUY4REU3Q0RFMDFDQzE5M0NCRDg3QkQzRUQ2MEY2NjYyQ0U%3D&pagination.limit=1",
     "icon": "https://assets.terra.dev/icon/svg/ibc/axlUSDT.svg"
   },
   {
@@ -45,6 +49,8 @@
     "symbol": "MATIC",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1MzY4RDIxN0NFMUY3NkExMjE0RkE2RjFGMzE0OTNCNUYxMjc3OTNFNkFCNDg3M0IzOUE4MUE4Q0UyMUExOEU%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1MzY4RDIxN0NFMUY3NkExMjE0RkE2RjFGMzE0OTNCNUYxMjc3OTNFNkFCNDg3M0IzOUE4MUE4Q0UyMUExOEU%3D&pagination.limit=1",
     "icon": "https://assets.terra.dev/icon/svg/ibc/axlMATIC.svg"
   },
   {
@@ -54,8 +60,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY0QjNFRkUwOEE2QTNFRjVEMkE3RjFEM0FGMDMzRERDOTUxREE1MUY5MkUwNkNDMzFEM0Y5QUY4RTgzNjg4NjA%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY0QjNFRkUwOEE2QTNFRjVEMkE3RjFEM0FGMDMzRERDOTUxREE1MUY5MkUwNkNDMzFEM0Y5QUY4RTgzNjg4NjA%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
@@ -64,6 +70,8 @@
     "symbol": "gbUSDC",
     "decimals": "0",
     "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzczQTU2RjA0RDI3RkM0Q0NGNkY3NUM3NTE2QTk2OThCNzQxMUUxQ0U3NjNFMjQwQzhBMjlBNTA0MDRGODZCNTM%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzczQTU2RjA0RDI3RkM0Q0NGNkY3NUM3NTE2QTk2OThCNzQxMUUxQ0U3NjNFMjQwQzhBMjlBNTA0MDRGODZCNTM%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg"
   },
   {
@@ -72,8 +80,8 @@
     "symbol": "WBTC",
     "decimals": "8",
     "type": "ibc",
-    "circ_supply_api": "https://api.axelarscan.io",
-    "total_supply_api": "https://api.axelarscan.io",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxMUI3MjFGMTVBNDBBQkIyOTYzNkNCRjhBRTYzMDA3NkRERjYyODQxQUNFN0U2RDg3OTQwNUNBODg3MENFQTI%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxMUI3MjFGMTVBNDBBQkIyOTYzNkNCRjhBRTYzMDA3NkRERjYyODQxQUNFN0U2RDg3OTQwNUNBODg3MENFQTI%3D&pagination.limit=1",
     "icon": "https://assets.terra.dev/icon/svg/ibc/axlWBTC.svg"
   },
   {
@@ -82,6 +90,8 @@
     "symbol": "WETH",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlCNjhDQzc5RUZGMTJEMjVBRjcxMkVCODA1QzUwNjJCOEY5N0IyQ0NFNUYzRkU1NUIxMDdFRTAzMDk1NTE0QTM%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlCNjhDQzc5RUZGMTJEMjVBRjcxMkVCODA1QzUwNjJCOEY5N0IyQ0NFNUYzRkU1NUIxMDdFRTAzMDk1NTE0QTM%3D&pagination.limit=1",
     "icon": "https://assets.terra.dev/icon/svg/ibc/axlETH.svg"
   },
   {
@@ -91,8 +101,8 @@
     "symbol": "KUJI",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.kujira.app/api/kuji/circulating",
-    "total_supply_api": "https://lcd-kujira.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=dWt1amk=&pagination.limit=1",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyMkI0REQyMTU4Njk2NURBRUY0MkE3NjAwQkEzNzFFQTc3QzAyRTkwRkM4QTdGMjMzMEJGOUY5REUxMjlCMDc%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyMkI0REQyMTU4Njk2NURBRUY0MkE3NjAwQkEzNzFFQTc3QzAyRTkwRkM4QTdGMjMzMEJGOUY5REUxMjlCMDc%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/svg/ibc/KUJI.svg"
   },
   {
@@ -101,6 +111,8 @@
     "symbol": "USDC",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UxRTM2NzRBMEU0RTFFRjlDNjk2NDZGOUFGOEQ5NDk3MTczODIxODI2MDc0NjIyRDgzMUJBQjczQ0NCOTlBMkQ%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UxRTM2NzRBMEU0RTFFRjlDNjk2NDZGOUFGOEQ5NDk3MTczODIxODI2MDc0NjIyRDgzMUJBQjczQ0NCOTlBMkQ%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/USDC.svg"
   },
   {
@@ -109,6 +121,8 @@
     "symbol": "ARB",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U2NzczQTk3MEVBODI0Q0E3RTYyNDY3MDk4NTA2NzYyREFENjkwODNCQjcxQ0IxNjAzMzM3RDlGMUE4Q0YxMjM%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U2NzczQTk3MEVBODI0Q0E3RTYyNDY3MDk4NTA2NzYyREFENjkwODNCQjcxQ0IxNjAzMzM3RDlGMUE4Q0YxMjM%3D&pagination.limit=1",
     "icon": "https://assets.terra.dev/icon/svg/ibc/ARB.svg"
   },
   {
@@ -118,8 +132,8 @@
     "symbol": "SCRT",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/circulating_supply",
-    "total_supply_api": "https://api.lavenderfive.com/coingecko/secretnetwork/total_supply",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VCMkNFRDIwQUIwNDY2RjE4QkU0OTI4NUU1NkIzMTMwNkQ0QzYwNDM4QTAyMkVBOTk1QkE2NUQ1RTNDRjdFMDk%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VCMkNFRDIwQUIwNDY2RjE4QkU0OTI4NUU1NkIzMTMwNkQ0QzYwNDM4QTAyMkVBOTk1QkE2NUQ1RTNDRjdFMDk%3D&pagination.limit=1",
     "icon": "https://assets.terra.money/icon/60/SCRT.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
     "coingecko": "https://www.coingecko.com/en/coins/secret"
@@ -130,6 +144,8 @@
     "symbol": "BNB",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0QjE1NTFBMzQ3MEQ5M0E3MjU0NjBGMTA5RkI1Nzk5MDcwMkI3MDM3OTBEOEEyMUM3REM2NkFFRjNCQUNCRjQ%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0QjE1NTFBMzQ3MEQ5M0E3MjU0NjBGMTA5RkI1Nzk5MDcwMkI3MDM3OTBEOEEyMUM3REM2NkFFRjNCQUNCRjQ%3D&pagination.limit=1",
     "icon": "https://assets.terra.dev/icon/thorswap/BNB.svg"
   },
   {
@@ -138,6 +154,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBMDAwNkYwNTZEQjY3MTlCOEMxNkM1NTFGQzM5MkI2MkY1NzI5OTc4RkMwQjEyNUFDOUE0MzJEQkIyQUExQTU%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBMDAwNkYwNTZEQjY3MTlCOEMxNkM1NTFGQzM5MkI2MkY1NzI5OTc4RkMwQjEyNUFDOUE0MzJEQkIyQUExQTU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/ATOM.svg"
   },
   {
@@ -145,7 +163,9 @@
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzc3NTczNENDNzMxNzZCNzQyNTkxMERFMDAxQTFEMkFEOUI2RDlFOTMxMjlBNUQwNzUwRUFEMTNFNEU2M0E%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzc3NTczNENDNzMxNzZCNzQyNTkxMERFMDAxQTFEMkFEOUI2RDlFOTMxMjlBNUQwNzUwRUFEMTNFNEU2M0E%3D&pagination.limit=1"
   },
   {
     "id": "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",

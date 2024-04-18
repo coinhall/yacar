@@ -1076,8 +1076,8 @@
     "symbol": "ASTRO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.astroport.fi/api/stats",
-    "total_supply_api": "https://api.astroport.fi/api/stats",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFQzc4Qjc1RDMxOEVBMEFBQjYxNjBBMTJBRUU4RjNDN0ZFQTNDRkVBRDAwMUEzQjEwM0UxMTkxNDcwOUY0Q0U%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFQzc4Qjc1RDMxOEVBMEFBQjYxNjBBMTJBRUU4RjNDN0ZFQTNDRkVBRDAwMUEzQjEwM0UxMTkxNDcwOUY0Q0U%3D&pagination.limit=1",
     "icon": "https://app.astroport.fi/tokens/astro.svg",
     "coingecko": "https://www.coingecko.com/en/coins/astroport-fi"
   },
@@ -1088,8 +1088,8 @@
     "symbol": "ASTRO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.astroport.fi/api/stats",
-    "total_supply_api": "https://api.astroport.fi/api/stats",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFGRjk2QjgyRkRFNEIwRTM4RkEwQThFQzI0QTgzRTFFQUMyNjE1RjMzODQ2OEE0NzQ3M0JBRDNCNDVFMDY2RDI%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFGRjk2QjgyRkRFNEIwRTM4RkEwQThFQzI0QTgzRTFFQUMyNjE1RjMzODQ2OEE0NzQ3M0JBRDNCNDVFMDY2RDI%3D&pagination.limit=1",
     "icon": "https://app.astroport.fi/tokens/astro.svg",
     "coingecko": "https://www.coingecko.com/en/coins/astroport-fi"
   },
@@ -1098,7 +1098,9 @@
     "name": "AUTISM",
     "symbol": "AUTISM",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQyM0RFNDEzM0Y4Njc2MDY5QkM5NTUwRkYyNTFGMUY4NzBGNjg4NTYyMUM4RTM2M0E5RjcwMjU3QkYzQUE2Mzg%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQyM0RFNDEzM0Y4Njc2MDY5QkM5NTUwRkYyNTFGMUY4NzBGNjg4NTYyMUM4RTM2M0E5RjcwMjU3QkYzQUE2Mzg%3D&pagination.limit=1"
   },
   {
     "id": "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B",
@@ -1107,8 +1109,8 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=dXN0cmQ=&pagination.limit=1",
-    "total_supply": "100000000",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ3MzAxNzFGRUVBRDg2MjlFNUMyMjY3MEVDQTA5MDI1ODY0OUIwNkJFNzUzM0UxNkU4M0YzMkJDOTAyOEYyMEI%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ3MzAxNzFGRUVBRDg2MjlFNUMyMjY3MEVDQTA5MDI1ODY0OUIwNkJFNzUzM0UxNkU4M0YzMkJDOTAyOEYyMEI%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stride",
     "coingecko": "https://www.coingecko.com/en/coins/stride"
@@ -1119,8 +1121,8 @@
     "symbol": "LVN",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_circulating_supply",
-    "total_supply_api": "https://indexer-mainnet.levana.finance/coingecko/lvn_total_supply",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ3ODZCRUJCRkREOTg5QzQ2N0M0NTUyQUQ3MzA2NUQ4QjI1NzgyMzBCODQyOEIzQjkyNzVENTQwRUIwNEM4NTE%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ3ODZCRUJCRkREOTg5QzQ2N0M0NTUyQUQ3MzA2NUQ4QjI1NzgyMzBCODQyOEIzQjkyNzVENTQwRUIwNEM4NTE%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png"
   },
   {
@@ -1129,7 +1131,8 @@
     "symbol": "stATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://lcd-stride.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=c3R1YXRvbQ==&pagination.limit=1",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUyQkRCM0VGRTRFQzJBQTUwODZGMTZBOTM3NzJGNUY5QjUwM0ZGODE4RjNCOTQ5NEFFNUFBMkMzMDRDNkZGNDk%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUyQkRCM0VGRTRFQzJBQTUwODZGMTZBOTM3NzJGNUY5QjUwM0ZGODE4RjNCOTQ5NEFFNUFBMkMzMDRDNkZGNDk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg"
   },
   {
@@ -1138,6 +1141,8 @@
     "symbol": "WHALE",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZBQ0U3OUY1QUJENjA3RDIwNzVGQUQ0QUJFMjg0Q0JDNUJCNkE5NkMxNjU1NUZGQjkwMTY0NEU5RDE3NDExQUM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZBQ0U3OUY1QUJENjA3RDIwNzVGQUQ0QUJFMjg0Q0JDNUJCNkE5NkMxNjU1NUZGQjkwMTY0NEU5RDE3NDExQUM%3D&pagination.limit=1",
     "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
@@ -1146,6 +1151,8 @@
     "symbol": "USDT",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZDMDBFNEFBMENDNzYxODM3MEY4MUY3Mzc4NjM4QUU2QzQ4RUZGOEM5MjAzQ0UxQzIzNTcwMTJCNDQwRUJEQjc%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZDMDBFNEFBMENDNzYxODM3MEY4MUY3Mzc4NjM4QUU2QzQ4RUZGOEM5MjAzQ0UxQzIzNTcwMTJCNDQwRUJEQjc%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg"
   },
   {
@@ -1154,22 +1161,26 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1"
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZDREQ0NjYzRjJGMDlDRDYyMjg1RTJENDU4OTFGQzE0OUEzNTY4RTMxNkNFM0VCQkUyMDFBNzFBNzhBNjkzODg%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZDREQ0NjYzRjJGMDlDRDYyMjg1RTJENDU4OTFGQzE0OUEzNTY4RTMxNkNFM0VCQkUyMDFBNzFBNzhBNjkzODg%3D&pagination.limit=1"
   },
   {
     "id": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
     "name": "Polkadot",
     "symbol": "DOT",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZGMjQyNDAzMDlFMEQwRjlFN0U3MkIxNjUwNTk5MzcxNDE4NDQxRjA5QUI0MDgyNjhFOTJENDZDQkFEM0IwQzY%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZGMjQyNDAzMDlFMEQwRjlFN0U3MkIxNjUwNTk5MzcxNDE4NDQxRjA5QUI0MDgyNjhFOTJENDZDQkFEM0IwQzY%3D&pagination.limit=1"
   },
   {
     "id": "ibc/91DF61C7EFA0E52C56BA0724E80B93DF6ADECD3A5B19D38FD2B4A7F955D2E2E7",
     "name": "OX",
     "symbol": "OX",
     "decimals": "18",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxREY2MUM3RUZBMEU1MkM1NkJBMDcyNEU4MEI5M0RGNkFERUNEM0E1QjE5RDM4RkQyQjRBN0Y5NTVEMkUyRTc%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxREY2MUM3RUZBMEU1MkM1NkJBMDcyNEU4MEI5M0RGNkFERUNEM0E1QjE5RDM4RkQyQjRBN0Y5NTVEMkUyRTc%3D&pagination.limit=1"
   },
   {
     "id": "ibc/AB7C92666DE8C7A977666B8080CABF0127B652B9D40F7251E6914DE942D9942B",
@@ -1178,6 +1189,8 @@
     "symbol": "WOSMO",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCN0M5MjY2NkRFOEM3QTk3NzY2NkI4MDgwQ0FCRjAxMjdCNjUyQjlENDBGNzI1MUU2OTE0REU5NDJEOTk0MkI%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCN0M5MjY2NkRFOEM3QTk3NzY2NkI4MDgwQ0FCRjAxMjdCNjUyQjlENDBGNzI1MUU2OTE0REU5NDJEOTk0MkI%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wosmo.png"
   },
   {
@@ -1187,8 +1200,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
   },
   {
@@ -1197,6 +1210,8 @@
     "symbol": "USDC",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NBNkZCRkFGMzk5NDc0QTA2MjYzRTEwRDBDRTVBRUJCRTE1MTg5RDZENEIyREQ5QURFNjEwMDdFNjhFQjlEQjA%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NBNkZCRkFGMzk5NDc0QTA2MjYzRTEwRDBDRTVBRUJCRTE1MTg5RDZENEIyREQ5QURFNjEwMDdFNjhFQjlEQjA%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.png"
   },
   {
@@ -1206,8 +1221,8 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VEMDdBMzM5MUExMTJCMTc1OTE1Q0Q4RkFGNDNBMkRBOEU0NzkwRURFMTI1NjY2NDlEMEMyRjk3NzE2Qjg1MTg%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VEMDdBMzM5MUExMTJCMTc1OTE1Q0Q4RkFGNDNBMkRBOEU0NzkwRURFMTI1NjY2NDlEMEMyRjk3NzE2Qjg1MTg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
@@ -1218,6 +1233,8 @@
     "symbol": "USDC.axl",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YwODJCNjVDODhFNEI2RDVFRjFEQjI0M0NEQTFEMzMxRDAwMjc1OUU5MzhBMEY1Q0QzRkZEQzVENTNCM0UzNDk%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YwODJCNjVDODhFNEI2RDVFRjFEQjI0M0NEQTFEMzMxRDAwMjc1OUU5MzhBMEY1Q0QzRkZEQzVENTNCM0UzNDk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {

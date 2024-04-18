@@ -4,7 +4,9 @@
     "name": "Neutaro",
     "symbol": "NTMPI",
     "decimals": "6",
-    "type": "ibc"
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3NkIxRDYzRTQwMUI2QTlBMDcxQzc4QTFEMTMxNkQwMTZFQzkzMzNEMkZFQjE0QUQ1MDNGQUM0Qjg3MzFDRDE%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3NkIxRDYzRTQwMUI2QTlBMDcxQzc4QTFEMTMxNkQwMTZFQzkzMzNEMkZFQjE0QUQ1MDNGQUM0Qjg3MzFDRDE%3D&pagination.limit=1"
   },
   {
     "id": "ibc/9C4DCD21B48231D0BC2AC3D1B74A864746B37E4292694C93C617324250D002FC",
@@ -12,6 +14,8 @@
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlDNERDRDIxQjQ4MjMxRDBCQzJBQzNEMUI3NEE4NjQ3NDZCMzdFNDI5MjY5NEM5M0M2MTczMjQyNTBEMDAyRkM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlDNERDRDIxQjQ4MjMxRDBCQzJBQzNEMUI3NEE4NjQ3NDZCMzdFNDI5MjY5NEM5M0M2MTczMjQyNTBEMDAyRkM%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
@@ -21,6 +25,8 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0EyRTJFRUM5MDU3QTRBMUMyQzBBNkE0Qzc4QjAyMzkxMThERjVGMjc4ODMwRjUwQjRBNkJERDdBNjY1MDZCNzg%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0EyRTJFRUM5MDU3QTRBMUMyQzBBNkE0Qzc4QjAyMzkxMThERjVGMjc4ODMwRjUwQjRBNkJERDdBNjY1MDZCNzg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos"
   },
