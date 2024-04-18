@@ -704,6 +704,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/doga.png"
   },
   {
+    "id": "ibc/04FAC73DFF7F1DD59395948F2F043B0BBF978AD4533EE37E811340F501A08FFB",
+    "name": "RESTAKE",
+    "symbol": "RSTK",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rstk.svg"
+  },
+  {
     "id": "ibc/051A38BBEF92B9D8293AFBE1FA293E704359E9CB28297A0FD5DBA3E9CCEE9AB1",
     "name": "Enmoda FanToken",
     "symbol": "ENMODA",
@@ -2683,6 +2691,14 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/aptos/images/aptos.svg",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/A5CCD24BA902843B1003A7EEE5F937C632808B9CF4925601241B15C5A0A51A53",
+    "name": "Paxos Gold (Gravity Bridge)",
+    "symbol": "PAXG.grv",
+    "decimals": "18",
+    "type": "ibc",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/paxg.grv.svg"
   },
   {
     "id": "ibc/A6383B6CF5EA23E067666C06BC34E2A96869927BD9744DC0C1643E589C710AA3",
