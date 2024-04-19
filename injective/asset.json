@@ -3279,6 +3279,15 @@
     "icon": "https://th.bing.com/th/id/R.45019b059e108c76fb9f9f0b5f992de7?rik=sy2hT3yBk5eJUQ&pid=ImgRaw&r=0"
   },
   {
+    "id": "factory/inj1k0mzgwd4ujuu9w95xzs8p7qu8udy3atqj3sau7/MIB",
+    "name": "Men in black",
+    "symbol": "MIB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxazBtemd3ZDR1anV1OXc5NXh6czhwN3F1OHVkeTNhdHFqM3NhdTcvTUlC&pagination.limit=1",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/2R17yTrumSnWN8NXxUgDprjDLyP4eHQkHmP92oeaG1v6.png?size=lg&key=b33bca"
+  },
+  {
     "id": "factory/inj1k0mzgwd4ujuu9w95xzs8p7qu8udy3atqj3sau7/POTIN",
     "name": "blodimir potin",
     "symbol": "POTIN",
@@ -6799,6 +6808,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj12qlppehc4fsfduv46gmtgu5n38ngl6annnr4r4/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj12tkaz9e540zszf5vtlxc0aksywu9rejnwxmv3n",
+    "name": "BLACK PANTHER",
+    "symbol": "BLACK",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj12tkaz9e540zszf5vtlxc0aksywu9rejnwxmv3n/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj12txuqr77qknte82pv5uaz8fpg0rsvssjr2n6jj",
