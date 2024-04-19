@@ -1299,11 +1299,14 @@
   },
   {
     "id": "factory/inj16eckaf75gcu9uxdglyvmh63k9t0l7chd0qmu85/black",
+    "entity": "Black Panther",
     "name": "BLACK",
     "symbol": "BLACK",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNmVja2FmNzVnY3U5dXhkZ2x5dm1oNjNrOXQwbDdjaGQwcW11ODUvYmxhY2s%3D&pagination.limit=1"
+    "circ_supply_api": "https://blackpanther.fi/mainnet/api/dashboard_stats",
+    "total_supply": "800000000",
+    "icon": "https://blackpanther.fi/assets/img/BLACK.png"
   },
   {
     "id": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
