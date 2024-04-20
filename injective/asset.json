@@ -1299,11 +1299,14 @@
   },
   {
     "id": "factory/inj16eckaf75gcu9uxdglyvmh63k9t0l7chd0qmu85/black",
+    "entity": "Black Panther",
     "name": "BLACK",
     "symbol": "BLACK",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNmVja2FmNzVnY3U5dXhkZ2x5dm1oNjNrOXQwbDdjaGQwcW11ODUvYmxhY2s%3D&pagination.limit=1"
+    "circ_supply_api": "https://blackpanther.fi/mainnet/api/dashboard_stats",
+    "total_supply": "800000000",
+    "icon": "https://i.imgur.com/4OfTmXP.png"
   },
   {
     "id": "factory/inj16fsle0ywczyf8h4xfpwntg3mnv7cukd48nnjjp/CHELE",
@@ -9443,6 +9446,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1emeyr4q657cw6wu4twqx6c59mzfv00fkf9nukv/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1eqtcpx655e582j5xyu7rf2z8w92pah2re5jmm3",
+    "name": "The Musicians",
+    "symbol": "NOTE",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1eqtcpx655e582j5xyu7rf2z8w92pah2re5jmm3/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1eqzdmkdr2l72y75m7hx3rwnfcugzu0hhw7l76l",
     "name": "Astro Gems (Wormhole)",
     "symbol": "ASTROGEMS",
@@ -12405,6 +12416,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1trg4pfcu07ft2dhd9mljp9s8pajxeclzq5cnuw/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1tsrxu2pxusyn24zgxyh2z36apxmhu22jfwd4v7",
+    "name": "Shiba Samurai",
+    "symbol": "SHSA",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1tsrxu2pxusyn24zgxyh2z36apxmhu22jfwd4v7/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1ttngjl2y886dcr7r34gp3r029f8l2pv8tdelk8",
