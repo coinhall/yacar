@@ -1304,8 +1304,8 @@
     "symbol": "BLACK",
     "decimals": "6",
     "type": "tokenfactory",
-    "circ_supply_api": "https://blackpanther.fi/mainnet/api/dashboard_stats",
-    "total_supply": "800000000",
+    "circ_supply_api": "https://blackpanther.fi/mainnet/api/black_circulating_supply",
+    "total_supply_api": "https://blackpanther.fi/mainnet/api/black_total_supply",
     "icon": "https://i.imgur.com/4OfTmXP.png"
   },
   {
