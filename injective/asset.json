@@ -672,6 +672,15 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj13wngn7gt8mt2k66x3ykp9tvfk5x89ajwd7yrtr%2Fmeow"
   },
   {
+    "id": "factory/inj13y5nqf8mymy9tfxkg055th7hdm2uaahs9q6q5w/SNAPPY",
+    "name": "Snappy",
+    "symbol": "SNAPPY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxM3k1bnFmOG15bXk5dGZ4a2cwNTV0aDdoZG0ydWFhaHM5cTZxNXcvU05BUFBZ&pagination.limit=1",
+    "icon": "ipfs://bafkreid3oxim2wu4tawfheuow4nvv4jqlezxjxihjmjyercxg2nvqlsidm"
+  },
+  {
     "id": "factory/inj13y9m57hw2rnvdmsym8na45z9kvexy82c4n6apc/INJA",
     "name": "Shinja",
     "symbol": "INJA",
