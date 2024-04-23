@@ -426,6 +426,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/bOSMO.png"
   },
   {
+    "id": "factory/osmo1s6ht8qrm8x0eg8xag5x3ckx9mse9g4se248yss/BERNESE",
+    "name": "BERNESE",
+    "symbol": "BERNESE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXM2aHQ4cXJtOHgwZWc4eGFnNXgzY2t4OW1zZTlnNHNlMjQ4eXNzL0JFUk5FU0U%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/bernese.png"
+  },
+  {
     "id": "factory/osmo1s794h9rxggytja3a4pmwul53u98k06zy2qtrdvjnfuxruh7s8yjs6cyxgd/ucdt",
     "name": "CDT",
     "symbol": "CDT",
