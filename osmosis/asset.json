@@ -3305,6 +3305,8 @@
     "symbol": "CROWDP",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I4N0YwRjUyNTVDQzY1ODQwOEYxNjdDMkY3Qjk4N0E4RDkxNDYyMkUxRjczQkNDMjY3NDA2MzYwNTg4RjJCMUU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I4N0YwRjUyNTVDQzY1ODQwOEYxNjdDMkY3Qjk4N0E4RDkxNDYyMkUxRjczQkNDMjY3NDA2MzYwNTg4RjJCMUU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/crowdp.svg"
   },
   {

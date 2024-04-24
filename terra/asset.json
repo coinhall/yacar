@@ -668,6 +668,8 @@
     "symbol": "RSTK",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y3MDlERjQ5NjlDRDI2MTc0QzFBNTNBQTk1RjNEOThCRTY0M0MxQTUyQzk5ODE0ODc3NjZGOTZBMTgxMUY2QTQ%3D&pagination.limit=1",
+    "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y3MDlERjQ5NjlDRDI2MTc0QzFBNTNBQTk1RjNEOThCRTY0M0MxQTUyQzk5ODE0ODc3NjZGOTZBMTgxMUY2QTQ%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rstk.svg"
   },
   {
