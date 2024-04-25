@@ -1073,12 +1073,12 @@
     "id": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
     "entity": "Astroport",
     "name": "Astroport",
-    "symbol": "ASTRO",
+    "symbol": "ASTRO.cw20",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFQzc4Qjc1RDMxOEVBMEFBQjYxNjBBMTJBRUU4RjNDN0ZFQTNDRkVBRDAwMUEzQjEwM0UxMTkxNDcwOUY0Q0U%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFQzc4Qjc1RDMxOEVBMEFBQjYxNjBBMTJBRUU4RjNDN0ZFQTNDRkVBRDAwMUEzQjEwM0UxMTkxNDcwOUY0Q0U%3D&pagination.limit=1",
-    "icon": "https://app.astroport.fi/tokens/astro.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg",
     "coingecko": "https://www.coingecko.com/en/coins/astroport-fi"
   },
   {
