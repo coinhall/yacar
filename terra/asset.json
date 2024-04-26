@@ -1545,7 +1545,8 @@
     "symbol": "BROS",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1975l4lfmjgnv7cmhksrwmgny82jt95evxx46ynjz3gfxd09kwqqqxsjav5/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1975l4lfmjgnv7cmhksrwmgny82jt95evxx46ynjz3gfxd09kwqqqxsjav5/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://i.ibb.co/RTtn1n5/bros.png"
   },
   {
     "id": "terra19dgcuxy7vlu2u4lpv407kcrg7yeaj9an72r0gver20thkejgprksvd06yv",
@@ -2777,12 +2778,12 @@
     "id": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
     "entity": "Astroport",
     "name": "Astroport",
-    "symbol": "ASTRO",
+    "symbol": "ASTRO.cw20",
     "decimals": "6",
     "type": "cw20",
     "circ_supply_api": "https://api.astroport.fi/api/stats",
     "total_supply_api": "https://api.astroport.fi/api/stats",
-    "icon": "https://app.astroport.fi/tokens/astro.svg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg"
   },
   {
     "id": "terra1nu0c3s69umqz862ltp6wytuztm0rrn6w5079g999u0hvwy62tf3q02qhmr",
