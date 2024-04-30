@@ -15268,6 +15268,14 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/axs.png"
   },
   {
+    "id": "peggy0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+    "name": "Renzo Restaked ETH",
+    "symbol": "ezETH",
+    "decimals": "18",
+    "type": "peggy",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGJmNTQ5NUVmZTVEQjljZTAwZjgwMzY0QzhCNDIzNTY3ZTU4ZDIxMTA%3D&pagination.limit=1"
+  },
+  {
     "id": "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
     "name": "SNX",
     "symbol": "SNX",
