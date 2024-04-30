@@ -2082,6 +2082,15 @@
     "icon": "https://raw.githubusercontent.com/InjDoggos/astroport-token-lists/main/img/DOGGO.png"
   },
   {
+    "id": "factory/inj1a7697s5yg3tsgkfrm0u5hvxm34mu8v0v3trryx/Dwake",
+    "name": "Dwake",
+    "symbol": "DWAKE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxYTc2OTdzNXlnM3RzZ2tmcm0wdTVodnhtMzRtdTh2MHYzdHJyeXgvRHdha2U%3D&pagination.limit=1",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/9oUXhgFmW2HWqWHds1NoV3DKLY3AAtNevA3dP7PtyEbr.png?size=lg&key=d03343"
+  },
+  {
     "id": "factory/inj1a9dsv5whfhqptkycx4l9uly9x684lwmwuv7l3n/KGM",
     "name": "KeyGlowMax",
     "symbol": "KGM",
@@ -9306,6 +9315,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19dd2lqy8vpcl3kc9ftz3y7xna6qyevuhq7zxkz/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
+    "id": "inj19dfkr2rm8g5kltyu93ppgmvdzj799vug2m9jqp",
+    "name": "SNAPPY inj",
+    "symbol": "SNAPPY",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19dfkr2rm8g5kltyu93ppgmvdzj799vug2m9jqp/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "inj19dtllzcquads0hu3ykda9m58llupksqwekkfnw",
