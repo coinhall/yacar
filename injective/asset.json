@@ -3671,6 +3671,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1jsduylsevrmddn64hdxutcel023eavw44n63z2/INJPEPE2",
+    "name": "INJPEPE2",
+    "symbol": "INJPEPE2",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxanNkdXlsc2V2cm1kZG42NGhkeHV0Y2VsMDIzZWF2dzQ0bjYzejIvSU5KUEVQRTI%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreihwfbbmnvr5fws7rfnoanp3hvjdnxyokjuz55w3c356xbjcvhir2y"
+  },
+  {
     "id": "factory/inj1jtx66k3adkjkrhuqypkt2ld7equf3whcmj2lde/MAXI",
     "name": "MAXI",
     "symbol": "MAXI",
@@ -9187,6 +9196,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18wclk6g0qwwqxa36wd4ty8g9eqgm6q04zjgnpp/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
+    "id": "inj18y9v9w55v6dsp6nuk6gnjcvegf7ndtmqh9p9z4",
+    "name": "InjectivePEPE",
+    "symbol": "INJPEPE",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18y9v9w55v6dsp6nuk6gnjcvegf7ndtmqh9p9z4/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "inj18ywez34uk9n6y3u590pqr8hjmtel0ges6radf0",
