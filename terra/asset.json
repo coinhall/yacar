@@ -525,6 +525,15 @@
     "icon": "https://assets.terra.money/icon/svg/ibc/MNTA.svg"
   },
   {
+    "id": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
+    "name": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
+    "symbol": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlCMTkwNjJENDZDQUI1MDM2MUNFOUIwQTNFNkQwQTdBNTNBQzlFN0NCMzYxRjMyQTczQ0M3MzMxNDRBOUE5RTU%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlCMTkwNjJENDZDQUI1MDM2MUNFOUIwQTNFNkQwQTdBNTNBQzlFN0NCMzYxRjMyQTczQ0M3MzMxNDRBOUE5RTU%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
     "name": "Wrapped Lido Staked Ether",
     "symbol": "wstETH",
