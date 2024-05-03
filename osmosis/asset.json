@@ -528,6 +528,15 @@
     "icon": "https://i.stargaze-apis.com/uEFfqTyWKDmZpDoWup7N7-PI8fwyyh2rKpxc46e_ftQ/f:jpg/resize:fit:700:::/dpr:2/plain/ipfs://QmbGvE3wmxex8KiBbbvMjR8f9adR28s3XkiZSTuGmHoMHV/2676.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/baguette",
+    "name": "BaguettteCoin",
+    "symbol": "BAGUETTE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmFndWV0dGU%3D&pagination.limit=1",
+    "icon": "https://i.imgur.com/j9nFNNw.jpeg"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/beer",
     "name": "BEER",
     "symbol": "BEER",
@@ -598,6 +607,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmxtYw%3D%3D&pagination.limit=1",
     "icon": "https://ipfs.io/ipfs/QmTpSA2H3PTrvnAvGcYMAvBkgz7VuPFhreYuYpEDkVtWTR"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/blst",
+    "name": "Bullsat",
+    "symbol": "BLST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmxzdA%3D%3D&pagination.limit=1",
+    "icon": "https://lh3.googleusercontent.com/vy2UCm98WgLe-uNwJTohI0t1xXdh4NMyAw-Ukz99uKaUBQSeEsLSHH2tSKxDs_DPE_YqvIdd4HqO2xj87UYahgrzs4OcSN3iVvM=k"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/blt",
@@ -2029,6 +2047,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbm90aXM%3D&pagination.limit=1",
     "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxASEhUSEA8VFRUXFRAVGBUQFRUVERUWFRUWFhUVFxcYHSggGBolHRUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGhAQGi0lHSUtLS0tLSstLS0tLS0tLSsrLS0tLSsrLSstLS0tLS0tLS0tLS0tLS0tLTctLS0tNy0tK//AABEIAKgBLAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQMEBQYCBwj/xAA7EAACAQIDBgMGBAUDBQAAAAAAAQIDEQQhMQUGEkFRYSJxgRMykaGx8AcjweFCUrLR8RSCkhU1U2Jy/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAIhEBAQACAgMAAQUAAAAAAAAAAAECEQMhEjFBMhMiUWFx/9oADAMBAAIRAxEAPwDw0AAAAAAB2EchtDsWuYHViRh8LJ5Jai4Ogm/v9C7w+ylPlbyvY5bpLHHdRqGHVnF62fxX38yTQw7islyt8eZfYXZcEs1d6d7FhHZEeHJ/2KLyr5wsrLCW5dU19C5VO6d14bfBLJNedvmWH/S1dZeb9exOjgo2+Fkl3vz87kbyVPwZ2rgGoZpXtZX66/fmMQwnCm5dle2muf6Gpo7OnN8TzSyS6L7++ZzjdktpJyUVq+X+Tvm5cax/sJSztZXT7Wsnn98iPHDcLi3rmstcr/sjXUtnLSy7a/HP6j1DYUXLS+WbeXoiX6kiP6W2Iez0727kTHU3xO2WjtfPS7PRMTsKL93K9jO7W2VKMm1p66eZ3HklRz4rGHrRd2MFztKjZ3t6Pl8CqqIuUGgQoiAQUUSwCCoViAS63uEMenWbVhq52gQWEA4OhGFxAAAAAAAABymNjlMBsAAAAAA7hH5DlKF392EpaP0Hqetrv01A0GwoQ/hSk+97/saqjh0lmuhRbBXZ8tbpfuaeK91epm5b3pq4cfp/DUloWWHgmQ6NL4FphoFNaY6pYVPVXH3hr5NJLpbP4kjDwJMKZxy1F/06lZcLsu/CviNz2XFrxZLom38y5jSCUESRUkNnxWiXwCpRSLKpSIleJFKVX1IEHHYVTg+19CwmjhLUS6LNvN94MFllk0+v38TI4pPO6PSd5cLfiS53fr9pnn+LWra65/I24XcYeSaqtAViE1YABGABcUAABGwuAJBYLigJYQW4gAAqCwCAAAA5TGxymA2AAAAAAOUh2mxqiP0oXYGs3bpLK3rZGsazXkZPd+pmklZfX7sbCjnZmTP228fpLoFphYlbSWZaYdEKsWFGBOoIi0UTKCERpyKFcQR0ScRa0CFWgWVUg1iNSlV06Yxw5kypEjTViKTKbyT5adzz3aUUuLO70tbR8/U3m9VtOf1PP9pP10/yauH0x83tVgKxC5SAAAAAC4AxLAKACBcEANAhQQCMAAAAGIArO6Y2OUwGwAAAAAB/CU3KVkPuDjLM62HT4qyi+an/AEtknG0Xez1Tt5kbe9JzH9u1tu227vyt5G0wEzJ7vU7Rv1f0Lz/WRp+KTssjPn7aMOsWgpvMtaHIyGA2/RlNrisur0NVs7Fwn7rTK7KsmUq4pE2gyJh2rE2nAQrqYimLNZCRidcNzuRK2pPqQIdaJypRDaI2IyRKqSsV+IqXOOsdvjTfBxdPoYfEYWU4+CDk7N2ipN99D0jeSF6M7dE/mRN08PalJwXjlJ2vnbz++Zdhn447UZ4eWenlbQhdb5Yb2eMqx7wl096Kby82ykNEu5tms1dFsIFwOuAAAAEsKAHIqFABBRBQEsFwYgCsQAABymNjtNgNAAAAAAE3Y1f2denN6KSv5PJ/U0G1MNZJ31s/RsykTY7RqcVCk+birlec7i3D8bEvY+VFPsQMa5VZ8L0WduRZbApuVO3oS8bs7gak436tFW9ZLdbkZ+Oy6qd+Bt8nH9eo7Qx1ejKy44ro75dtPvuXlHadW/s6NK7yV3p2v0IeI2riPaThWnCKip2XsuLinHSHhs43z8TyROW1C4yL7Ye9U5WVR58muefM2WB2rxfxf4MEti1VSp15U+FTipJrJK/Ju3h9b+ZIwVarSklJPVe8rPt5+ZVmux9PR3iSPU2jCOba9SNhnNxvwu3Yzm8Kne0MiE7qS8xu89CCfFUz6WM5iN9OJ/lxdtNLvRvl2RlMfs2q1KUnKSinJ2u7Jc3nZepH2bGiuB1KdRqo5JeznBy8LUXxQ4rxzeV7X5XLpjFVyvpcV956knrd9nn8i32RtKVVNTVnk10I2D2bgJtqEuGS1jUvGafThdi1o4GMbRp8un6EcrPkSx39N7Vp3o1O8ZfQc3RhGNNPqmn2a6/Af2hBKlK/8svod7GoKGDVSTySUm+qve/wIfE5+TzD8S/+4VfKl/REyxO2xj3Xr1K0tZyb8lyXorIhNmzGakYs7vKkAAOogAAAAAADkW4MAFEuDAUQQVoBAAAAcpjY7TAaAAAAAAOos0nFxUoWesY5d9H9DOQRcbNrJwdN6q7Xk9UQzTwvxf7r4mz4X1Z6Dg6KnHNcjyvY9Vxqev8AY9S2NVvFFHJO2jj7itngJ0qjnSy6rkyb/p4VJKdXD03Jc3dX80tfUvJ0E80OU4r+Uj5VNzRrVJ2U/dStaDcUkuSIe2MJFKKSSStbm10zLhfToUm1sRd27jZposBH8v0ITwylxprla61XkSsBL8u4xhp+JkY7VbTjGHFTdJSpyUk1ZLKSs8lYqcDsPB0Z+0VOpJrNRmkknfK/U19WlzsRpYeHQn5VyyVna+zadar7SVJK+WWrLrDYCNOOSJuGwyvfkdYjJEL2Mtt+panO3R2IlSs1s6ouUaMm3/tdvr8g3knePAtXJL5/sQN9MX7HZ84uylVcKaS6LN/JMljPSOV1uvJQFOTYxhgAAAAACIGKAHIrQBcBBbgkAAKAXARiCiAKd0xscpgNgAAAAADuHV36M68Sd1lY5w07ST7/AOR3EVU9ALDZlVvxPX+x6Ru9ivCjzjd+zun3/Q3G7jy4XyM/LO2nivTd4SsToIoKDaZa4Wo3YpXpNeVkZWtX46jXcvds4jhpvyKLAwjddboDZbOj+UQuPhnmWuCp+BIqMcldoUi0hPIZnFEPBV2sno9CRUYNHIV0Q8dXVmztFZtSpZM44zeNrpzUptJcV7vRcPP4syn4lYmVSdCpGfFQqU5SptacUZyhVWubTja/SxZ740vyPejG6SvJvh95N6LsYraeOUqdGjBtwoqpZvK8qkuKbS5K6VjTx4+qz8uXxWiHQjLlBAAAAAABLgwQoHIC2EAW4XEFTAW4gXAAYgAADlMbHKYDYAAAAAAqBsELKNgLLYtSzfob7dZReJjCbtGWfqszzfBVOGafXL4mojjZ01CpB2lHR6ryZVyRdxV7Lj8LRioqEfE31enNjUI8H3oY7d7eyE5fmvhk7a9unY2eDxMZ53Tv9DPfbTL0gbZo+1pSUXqn5pmCe1cRh6kfawyTs5RvfzsepV8LB9n2M3vBsdzWcVJdln8BP7Lf4TcDvRSlFNVFpyZBltarWqr2NPig8nNuyXdKxhdoYCnTrRcVlZNpa5XbTXwy7m+2ftPD07K6V8v0RPw1EPP40vsF7OK5pXv3BSusyFS2rSlZRqRz0z5D8aqej6/IhYnjSV6qSKrF4WpNeGN0S8DSdWo7+7F2t1f7FxisRTo3vyg/jq/kjkiV6ePfiFKUaKjJW8cVbyTf6I8+bNZ+Ie0fa1lG+nFJ+crWXol8zJGvCaxYeS7yFwACaAAAAAAAARiiMAAQAFYgogAKxBQEAViAA5TGxymA2AAAAA7RhdgEInVVHcohNZAMQTeS1Nvgt3cV7OPtYxTauo8V5W6tcjG4SajOLfKUX8Gmeo7N2vGpd8SbbsvLlb0K+S6i3im6zdbYlWD8UWlylG7j8eRYbJ27Uws+Go7wejN3ScXG7V8ivx+7FHExzVr6OOVv7lHlv20a16W+ydsU61rSWayfK5cOkmtF6HkVfZGM2bNzgnUpc+G7Vurjyfc3m6289KvBeJEbNf47LtL2ruzRrrxRzTTfC+Hisna79WZ7F7JhGSisNN8OeUr3z55ZnoCqJoj4mgpdu61EysOnntTZU5tulSlFZ39q0tdbdSbsSlWhNOUr5u+ulrMvMVSlC/P76FTtHEqnCUlrZnblt3U9tHuxJOHEublL4tsrt78S/ZzaV+FNu3bP0ZY7oWdCHLwx+g1vDgnKMsr5PPnp8yNdvbwDHVXUbqS1bbfroiCT4UrJxeqbi/NZMh1YWZuefXAAAAwAAARMW4lgFEYojAQAAAAAAViC2BAFhDoRgIOUzg7pgNjsaL55Gw2Rs+MLy4NHJKVk3ZSaXvZLQzlXNt+flmwOY4aLXM4pQs2SoZJeozTARoZY82NyQEWeo/hcZOm7wlb6DVSI2B6JuzvYpOMajs+j5+R6Js7FQkvDK+mXS2WaPnhGo2BvPWoNKo5OPV3bXmUZ8X2NGHL8r3JU1JWaXqZ3au49Ccva0JSoVdeKl7rf/tHRnOwt54VY5ST8mmaOOMXCpLNFPcW+1dsvDYqmuCrOE7fxK6b81oviXcG7Z5nMZNq+Vuw4jiRqpSvrmjP7wbG9pBxg7X07Pv2NPysR5RApt16sqMYU6mTSistLpci82gk118iJUw61WvLqcRry0av8r/ucdeHbaocGJrxX/kk/+Xi/Urq1NNZo1/4g7N9niPaJeGol/wAl+39LMuom3C7xjDnNZVVui7XWa7cvMbJ0r05X5M4xOHVuKOj5dCSKIAAAAAAIDFEuAWEFYIBBWAoCAmFgYA2IAAA5TGx2loB6DQl+XrH3ZOyzi+JScc13dnzXyMVy+AAB3iHaBxogADiOYsogADFRHHBkAAWW7lKEqvj0SvmeqbvbsxxSaTjThFP2k7KVktfLTLmAFHL7XY9YmMduXQUuLDVJ05L+LK8v/pd+hcbMpVoQcJ5vquYoFG7WjWl3gpeEkOeYAKke1GqyeqAAialUGJLmAHHWO/ESnejxdHF/O36/M83FA1cP4s3N+RuvC8WhjBvii4sALqpWeB2bRq+FxfHnpJ5+hc0Nl4OMVTlhoyk/4pTqcTy04k1wP0YAcFLtzdmVP83D8VSk3Z3s6lOX8k7a9pLUz0otZNW8wABAAAEsIAAKhQAAOQABbBYAAQdpigB//9k="
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/notnot",
+    "name": "NOTNOTCOIN",
+    "symbol": "NOTNOT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbm90bm90&pagination.limit=1",
+    "icon": "https://niocton.ru/wp-content/uploads/2024/01/nemoneta.png"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ntrn",
