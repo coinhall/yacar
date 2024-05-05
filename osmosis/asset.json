@@ -546,6 +546,15 @@
     "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/atom1",
+    "name": "COSMOS",
+    "symbol": "ATOM1",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYXRvbTE%3D&pagination.limit=1",
+    "icon": "https://cryptologos.cc/logos/cosmos-atom-logo.png?v=032"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/atomem",
     "name": "ATOM meme coin",
     "symbol": "ATOMem",
@@ -2931,6 +2940,15 @@
     "icon": "https://www.dj-lab.de/app/uploads/IMG_8535.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mematom",
+    "name": "Meme ATOM coin",
+    "symbol": "memATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbWVtYXRvbQ%3D%3D&pagination.limit=1",
+    "icon": "https://i.postimg.cc/zvwpTyMZ/123.png"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/meme",
     "name": "MEMECOIN",
     "symbol": "MEME",
@@ -2992,6 +3010,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbWpu&pagination.limit=1",
     "icon": "https://image.ceneostatic.pl/data/products/94108134/i-malpa-nosacz-janusz-memy-mem-gruby-oplatek-gratis.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mkr",
+    "name": "Maker",
+    "symbol": "MKR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbWty&pagination.limit=1",
+    "icon": "https://cryptologos.cc/logos/maker-mkr-logo.png?v=032"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mld",
