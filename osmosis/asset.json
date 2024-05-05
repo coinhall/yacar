@@ -546,6 +546,15 @@
     "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/atomem",
+    "name": "ATOM meme coin",
+    "symbol": "ATOMem",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYXRvbWVt&pagination.limit=1",
+    "icon": "https://i.postimg.cc/Bv2Yc7R1/pixlr-image-generator-87dbd0df-2bfe-47f6-a717-fadd5f535f25.png"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/atoms",
     "name": "ATOMs",
     "symbol": "ATOMs",
