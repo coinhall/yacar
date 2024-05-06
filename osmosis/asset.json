@@ -9785,6 +9785,16 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/FD506CCA1FC574F2A8175FB574C981E9F6351E194AA48AC219BD67FF934E2F33",
+    "name": "dHealth",
+    "symbol": "DHP",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZENTA2Q0NBMUZDNTc0RjJBODE3NUZCNTc0Qzk4MUU5RjYzNTFFMTk0QUE0OEFDMjE5QkQ2N0ZGOTM0RTJGMzM%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZENTA2Q0NBMUZDNTc0RjJBODE3NUZCNTc0Qzk4MUU5RjYzNTFFMTk0QUE0OEFDMjE5QkQ2N0ZGOTM0RTJGMzM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dhealth/images/dhp.svg"
+  },
+  {
     "id": "ibc/FDFCC2BD1D609151C3593EC84FD9EA43057FF45F264BC89B18E7085F3F29A248",
     "name": "USDT",
     "symbol": "USDT.comp",
