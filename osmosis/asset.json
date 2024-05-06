@@ -3633,6 +3633,15 @@
     "icon": "https://assets.coingecko.com/coins/images/35880/large/NORMIEsite.png"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/not",
+    "name": "Nothing Coin",
+    "symbol": "NOT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbm90&pagination.limit=1",
+    "icon": "https://i.postimg.cc/QdvQY9Nx/00.png"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/notis",
     "name": "NOTISFOREVER",
     "symbol": "NOTIS",
@@ -4828,6 +4837,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc2t5ZGl2ZXI%3D&pagination.limit=1",
     "icon": "https://static.vecteezy.com/system/resources/previews/014/693/099/large_2x/man-skydiving-icon-simple-style-vector.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/slo",
+    "name": "SlothLazyCoin",
+    "symbol": "SLO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc2xv&pagination.limit=1",
+    "icon": "https://i.ibb.co/W0DckRL/slo.png"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/sloth",
@@ -6649,6 +6667,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/279D69A6EF8E37456C8D2DC7A7C1C50F7A566EC4758F6DE17472A9FDE36C4426",
+    "name": "Nim Network",
+    "symbol": "NIM",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3OUQ2OUE2RUY4RTM3NDU2QzhEMkRDN0E3QzFDNTBGN0E1NjZFQzQ3NThGNkRFMTc0NzJBOUZERTM2QzQ0MjY%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3OUQ2OUE2RUY4RTM3NDU2QzhEMkRDN0E3QzFDNTBGN0E1NjZFQzQ3NThGNkRFMTc0NzJBOUZERTM2QzQ0MjY%3D&pagination.limit=1"
   },
   {
     "id": "ibc/297C64CC42B5A8D8F82FE2EBE208A6FE8F94B86037FA28C4529A23701C228F7A",
