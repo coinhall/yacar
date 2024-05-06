@@ -4126,6 +4126,15 @@
     "icon": "ipfs://bafybeigvv4azh5nvicd6aaiqgdcvexlmhgfbwldeptkpxe6ta3pro3jora"
   },
   {
+    "id": "factory/inj1lq9wn94d49tt7gc834cxkm0j5kwlwu4gm65lhe/spore",
+    "name": "spore",
+    "symbol": "spore",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbHE5d245NGQ0OXR0N2djODM0Y3hrbTBqNWt3bHd1NGdtNjVsaGUvc3BvcmU%3D&pagination.limit=1",
+    "icon": "https://bafybeia6kaiznad75mbzr2uwswfxw6qymt7ws3egcui6tzquomzh2w3cu4.ipfs.w3s.link/spore.webp"
+  },
+  {
     "id": "factory/inj1lqv3a2hxggzall4jekg7lpe6lwqsjevnm9ztnf/doomer",
     "name": "Doomer",
     "symbol": "DOOMER",
@@ -9319,6 +9328,14 @@
     "decimals": "8",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18vcz02pukdr2kak6g2p34krgdddan2vlpzmqju/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
+    "id": "inj18wa0xa2xg8ydass70e8uvlvzupt9wcn5l9tuxm",
+    "name": "vida",
+    "symbol": "VIDA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj18wa0xa2xg8ydass70e8uvlvzupt9wcn5l9tuxm/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "inj18wclk6g0qwwqxa36wd4ty8g9eqgm6q04zjgnpp",
