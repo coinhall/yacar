@@ -2405,6 +2405,15 @@
     "icon": "https://pbs.twimg.com/profile_images/1738597629439741952/A-da9g5S_400x400.jpg"
   },
   {
+    "id": "factory/inj1cd4q88qplpve64hzftut2cameknk2rnt45kkq5/BRO",
+    "name": "BlockRock",
+    "symbol": "BRO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxY2Q0cTg4cXBscHZlNjRoemZ0dXQyY2FtZWtuazJybnQ0NWtrcTUvQlJP&pagination.limit=1",
+    "icon": "ipfs://bafkreie2lljwneposdfojdnxfxg7hqglnzbrrsislazamr3ebgrs27jtfi"
+  },
+  {
     "id": "factory/inj1cdlqynzr2ktn54l3azhlulzkyksuw8yj3mfadx/coke",
     "name": "cocaine_inj",
     "symbol": "coke",
@@ -14528,6 +14537,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1x6lvx8s2gkjge0p0dnw4vscdld3rdcw94fhter/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
+    "id": "inj1xcmamawydqlnqde7ah3xq7gzye9acwkmc5k5ne",
+    "name": "BURGE",
+    "symbol": "BURGE",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1xcmamawydqlnqde7ah3xq7gzye9acwkmc5k5ne/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "inj1xcrrweel03eu2fzlvmllhy52wdv25wvejn24dr",
