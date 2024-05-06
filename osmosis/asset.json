@@ -4110,6 +4110,15 @@
     "icon": "https://piratechain.com/wp-content/uploads/Pirate_Logo_Wordmark_Gold.svg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/piwin",
+    "name": "PI WIN",
+    "symbol": "PIWIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcGl3aW4%3D&pagination.limit=1",
+    "icon": "https://i.postimg.cc/qRH3wgf7/pinguin-portret3.jpg"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pizza",
     "name": "Pizza!",
     "symbol": "PIZZA",
@@ -8169,6 +8178,16 @@
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0RUQxRjE3MkJDNjMzREZDNTZEN0UyNjU1MUQ4QjEwMUFEQ0NDNjkwNTJBQzQ0RkVEODlGOTdGRjY1ODEzOEY%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0RUQxRjE3MkJDNjMzREZDNTZEN0UyNjU1MUQ4QjEwMUFEQ0NDNjkwNTJBQzQ0RkVEODlGOTdGRjY1ODEzOEY%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/sneaky.svg"
+  },
+  {
+    "id": "ibc/956AEF1DA92F70584266E87978C3F30A43B91EE6ABC62F03D097E79F6B99C4D8",
+    "name": "SEDA",
+    "symbol": "SEDA",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk1NkFFRjFEQTkyRjcwNTg0MjY2RTg3OTc4QzNGMzBBNDNCOTFFRTZBQkM2MkYwM0QwOTdFNzlGNkI5OUM0RDg%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk1NkFFRjFEQTkyRjcwNTg0MjY2RTg3OTc4QzNGMzBBNDNCOTFFRTZBQkM2MkYwM0QwOTdFNzlGNkI5OUM0RDg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/seda/images/seda.svg"
   },
   {
     "id": "ibc/95C9B5870F95E21A242E6AF9ADCB1F212EE4A8855087226C36FBE43FC41A77B8",
