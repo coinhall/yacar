@@ -12,17 +12,44 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
+    "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
+    "name": "EVMOS",
+    "symbol": "EVMOS",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA0RTAxNDc3QTY5REYxRTVFRTk5Rjg1QzE1QjY2RDY4RDIzMjkyMjc1MzU3Q0FBNDRCMkUwNTI3MzEwQTQwNUU%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA0RTAxNDc3QTY5REYxRTVFRTk5Rjg1QzE1QjY2RDY4RDIzMjkyMjc1MzU3Q0FBNDRCMkUwNTI3MzEwQTQwNUU%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
     "entity": "Osmosis",
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
     "type": "native",
-    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEzQjJDNTM2QkIwNTdBQzc5RDU2MTZCOEVBMUI5NTQwRUMxRjIxNzA3MThDQUZGNkYwMDgzQzk2NkZGRkVEMEI%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEzQjJDNTM2QkIwNTdBQzc5RDU2MTZCOEVBMUI5NTQwRUMxRjIxNzA3MThDQUZGNkYwMDgzQzk2NkZGRkVEMEI%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
+  },
+  {
+    "id": "ibc/27A5DE18D796A595123D97078F9AB9EAEFC23540724384F219EACED2BD5511F5",
+    "name": "SCRT",
+    "symbol": "SCRT",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3QTVERTE4RDc5NkE1OTUxMjNEOTcwNzhGOUFCOUVBRUZDMjM1NDA3MjQzODRGMjE5RUFDRUQyQkQ1NTExRjU%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3QTVERTE4RDc5NkE1OTUxMjNEOTcwNzhGOUFCOUVBRUZDMjM1NDA3MjQzODRGMjE5RUFDRUQyQkQ1NTExRjU%3D&pagination.limit=1"
+  },
+  {
+    "id": "ibc/2F2F132E47342479A8B7A8DB241F276609C53A1478CEB9A57411A910C9B061DB",
+    "name": "NTRN",
+    "symbol": "NTRN",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGMkYxMzJFNDczNDI0NzlBOEI3QThEQjI0MUYyNzY2MDlDNTNBMTQ3OENFQjlBNTc0MTFBOTEwQzlCMDYxREI%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGMkYxMzJFNDczNDI0NzlBOEI3QThEQjI0MUYyNzY2MDlDNTNBMTQ3OENFQjlBNTc0MTFBOTEwQzlCMDYxREI%3D&pagination.limit=1"
   },
   {
     "id": "ibc/45D6B52CAD911A15BD9C2F5FFDA80E26AFCB05C7CD520070790ABC86D2B24229",
@@ -30,9 +57,27 @@
     "symbol": "TIA",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply": "141043527",
-    "total_supply": "1000000000",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1RDZCNTJDQUQ5MTFBMTVCRDlDMkY1RkZEQTgwRTI2QUZDQjA1QzdDRDUyMDA3MDc5MEFCQzg2RDJCMjQyMjk%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1RDZCNTJDQUQ5MTFBMTVCRDlDMkY1RkZEQTgwRTI2QUZDQjA1QzdDRDUyMDA3MDc5MEFCQzg2RDJCMjQyMjk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
+  },
+  {
+    "id": "ibc/5620289B0E1106C8A2421F212FEC4EB19E3CBA964662DB61754CCDE8FAAC29FF",
+    "name": "Dr.BE",
+    "symbol": "Dr.BE",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2MjAyODlCMEUxMTA2QzhBMjQyMUYyMTJGRUM0RUIxOUUzQ0JBOTY0NjYyREI2MTc1NENDREU4RkFBQzI5RkY%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2MjAyODlCMEUxMTA2QzhBMjQyMUYyMTJGRUM0RUIxOUUzQ0JBOTY0NjYyREI2MTc1NENDREU4RkFBQzI5RkY%3D&pagination.limit=1"
+  },
+  {
+    "id": "ibc/5C58CC109FB067073F1B80481EE9C3A8484330FECB35D2591B28E7E1A6FCF64C",
+    "name": "ARCH",
+    "symbol": "ARCH",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDNThDQzEwOUZCMDY3MDczRjFCODA0ODFFRTlDM0E4NDg0MzMwRkVDQjM1RDI1OTFCMjhFN0UxQTZGQ0Y2NEM%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDNThDQzEwOUZCMDY3MDczRjFCODA0ODFFRTlDM0E4NDg0MzMwRkVDQjM1RDI1OTFCMjhFN0UxQTZGQ0Y2NEM%3D&pagination.limit=1"
   },
   {
     "id": "ibc/AB30D2F9C131AE1EFA8449C74490326BD5ACC40EF69A2D8563994AA05CE0B258",
@@ -40,8 +85,19 @@
     "symbol": "stDYM",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCMzBEMkY5QzEzMUFFMUVGQTg0NDlDNzQ0OTAzMjZCRDVBQ0M0MEVGNjlBMkQ4NTYzOTk0QUEwNUNFMEIyNTg%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCMzBEMkY5QzEzMUFFMUVGQTg0NDlDNzQ0OTAzMjZCRDVBQ0M0MEVGNjlBMkQ4NTYzOTk0QUEwNUNFMEIyNTg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stdym.png",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-dym"
+  },
+  {
+    "id": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
+    "name": "KUJI",
+    "symbol": "KUJI",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyMkI0REQyMTU4Njk2NURBRUY0MkE3NjAwQkEzNzFFQTc3QzAyRTkwRkM4QTdGMjMzMEJGOUY5REUxMjlCMDc%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyMkI0REQyMTU4Njk2NURBRUY0MkE3NjAwQkEzNzFFQTc3QzAyRTkwRkM4QTdGMjMzMEJGOUY5REUxMjlCMDc%3D&pagination.limit=1"
   },
   {
     "id": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
@@ -49,8 +105,8 @@
     "symbol": "noble.USDC",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api.noble.strange.love/cosmos/bank/v1beta1/supply?pagination.key=dXVzZGM%3D&pagination.limit=1",
-    "total_supply_api": "https://api.noble.strange.love/cosmos/bank/v1beta1/supply?pagination.key=dXVzZGM%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IzNTA0RTA5MjQ1NkJBNjE4Q0MyOEFDNjcxQTcxRkIwOEM2Q0EwRkQwQkU3QzhBNUI1QTNFMkREOTMzQ0M5RTQ%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IzNTA0RTA5MjQ1NkJBNjE4Q0MyOEFDNjcxQTcxRkIwOEM2Q0EwRkQwQkU3QzhBNUI1QTNFMkREOTMzQ0M5RTQ%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/noble.usdc.svg"
   },
   {
@@ -59,6 +115,8 @@
     "symbol": "USDT",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I3MkI1QjNGN0FENDQ3ODM1ODQ5MjFEQzMzMzU0QkNFMDdDOEVCMEE3RjAzNDkyNDdDM0RBRDM4QzNCNkU2QTU%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I3MkI1QjNGN0FENDQ3ODM1ODQ5MjFEQzMzMzU0QkNFMDdDOEVCMEE3RjAzNDkyNDdDM0RBRDM4QzNCNkU2QTU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg"
   },
   {
@@ -67,6 +125,8 @@
     "symbol": "WBTC",
     "decimals": "8",
     "type": "ibc",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JFRTlBOEY4MzVENjA3MTc1NDhGRkU5QUM5RTkwRjE4QUI4MDk2NTc0RUIxMjExRjg4MDc0Q0IzNTExQjc4NjA%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JFRTlBOEY4MzVENjA3MTc1NDhGRkU5QUM5RTkwRjE4QUI4MDk2NTc0RUIxMjExRjg4MDc0Q0IzNTExQjc4NjA%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.png",
     "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin"
   },
@@ -77,10 +137,19 @@
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
-    "circ_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
-    "total_supply_api": "https://api-cosmoshub.mms.team/cosmos/bank/v1beta1/supply?pagination.key=dWF0b20%3D&pagination.limit=1",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos"
+  },
+  {
+    "id": "ibc/D934516FBE457F3A98AFABD87E0EFF7F95A15325C191EA8CDD7763C702FDDEC2",
+    "name": "AXL",
+    "symbol": "AXL",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q5MzQ1MTZGQkU0NTdGM0E5OEFGQUJEODdFMEVGRjdGOTVBMTUzMjVDMTkxRUE4Q0RENzc2M0M3MDJGRERFQzI%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q5MzQ1MTZGQkU0NTdGM0E5OEFGQUJEODdFMEVGRjdGOTVBMTUzMjVDMTkxRUE4Q0RENzc2M0M3MDJGRERFQzI%3D&pagination.limit=1"
   },
   {
     "id": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
@@ -88,6 +157,8 @@
     "symbol": "WETH",
     "decimals": "18",
     "type": "ibc",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UzQUIwREZERTlFNzgyMjYyQjc3MEMzMkRGOTRBQzJBOTJCOTNEQzQ4MjUzNzZENkY2Qzg3NEQzQzg3Nzg2NEU%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UzQUIwREZERTlFNzgyMjYyQjc3MEMzMkRGOTRBQzJBOTJCOTNEQzQ4MjUzNzZENkY2Qzg3NEQzQzg3Nzg2NEU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
     "coingecko": "https://www.coingecko.com/en/coins/axlweth"
   },
@@ -97,6 +168,8 @@
     "symbol": "milkTIA",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0MjhDNUQyNEJFRjhDQTIyRUU3NDgxMEE1ODM0MjJDMTJGMDI4NjVBREFDMTg1Njc4QzczMDE1QTg4MjI3QjM%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0MjhDNUQyNEJFRjhDQTIyRUU3NDgxMEE1ODM0MjJDMTJGMDI4NjVBREFDMTg1Njc4QzczMDE1QTg4MjI3QjM%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/milktia.png"
   },
   {
@@ -105,7 +178,20 @@
     "symbol": "stTIA",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/sttia.png"
+  },
+  {
+    "id": "ibc/FB53D1684F155CBB86D9CE917807E42B59209EBE3AD3A92E15EF66586C073942",
+    "entity": "NIM Network",
+    "name": "NIM",
+    "symbol": "NIM",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
+    "icon": "https://pbs.twimg.com/profile_images/1761861763769810944/Xk3MyQv0_400x400.jpg"
   },
   {
     "id": "ibc/FF6C2E86490C1C4FBBD24F55032831D2415B9D7882F85C3CC9C2401D79362BEA",
@@ -113,6 +199,8 @@
     "symbol": "STRD",
     "decimals": "6",
     "type": "ibc",
+    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
+    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.png",
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   }
