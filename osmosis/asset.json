@@ -1,5 +1,16 @@
 [
   {
+    "id": "ibc/58E4261D2E21FE3A459C290A9F97F3DCD257B28F48AAE828298B38E048804829",
+    "entity": "Racoon.Bet",
+    "name": "Gaming RAC Token",
+    "symbol": "GRAC",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU4RTQyNjFEMkUyMUZFM0E0NTlDMjkwQTlGOTdGM0RDRDI1N0IyOEY0OEFBRTgyODI5OEIzOEUwNDg4MDQ4Mjk%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU4RTQyNjFEMkUyMUZFM0E0NTlDMjkwQTlGOTdGM0RDRDI1N0IyOEY0OEFBRTgyODI5OEIzOEUwNDg4MDQ4Mjk%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/grac.png"
+  },
+  {
     "id": "factory/osmo106q2972zf2a9frprx0vkdgs49m578vp45xnam5wnw4sgx6f6fffsmja6rh/fts",
     "name": "Fuck The Sail",
     "symbol": "FTS",
