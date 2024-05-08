@@ -6324,6 +6324,15 @@
     "icon": "https://i.postimg.cc/Gh6PDdhK/uploads1661889245117-Vitalik.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/woof",
+    "name": "HUA",
+    "symbol": "Woof",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvd29vZg%3D%3D&pagination.limit=1",
+    "icon": "https://yourimageshare.com/ib/KWniHa3QwM.webp"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/work",
     "name": "work",
     "symbol": "work",
@@ -7629,6 +7638,16 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4NEU1REQ1MEJERTA0MkUxQUFGNTFGMzEyQjU1RjA4Rjk1QkM5ODVDNTAzODgwMTg5MjU4QjREOTM3NENCQkU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/aave.svg",
     "coingecko": "https://www.coingecko.com/en/coins/aave"
+  },
+  {
+    "id": "ibc/38ADC6FFDDDB7D70B72AD0322CEA8844CB18FAA0A23400DBA8A99D43E18B3748",
+    "name": "WEIRD",
+    "symbol": "WEIRD",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4QURDNkZGREREQjdENzBCNzJBRDAzMjJDRUE4ODQ0Q0IxOEZBQTBBMjM0MDBEQkE4QTk5RDQzRTE4QjM3NDg%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4QURDNkZGREREQjdENzBCNzJBRDAzMjJDRUE4ODQ0Q0IxOEZBQTBBMjM0MDBEQkE4QTk5RDQzRTE4QjM3NDg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/WEIRD.png"
   },
   {
     "id": "ibc/3A0A392E610A8D477851ABFEA74F3D828F36C015AB8E93B0FBB7566A6D13C4D6",
