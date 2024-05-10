@@ -399,6 +399,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.png"
   },
   {
+    "id": "factory/osmo1p9t4cvy8gg927dg56l2pvk7gk9ptm2jmdp9vkc2xejfzn23clxjqqzjpzl/tokn",
+    "name": "ToknWrks",
+    "symbol": "TOKN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXA5dDRjdnk4Z2c5MjdkZzU2bDJwdms3Z2s5cHRtMmptZHA5dmtjMnhlamZ6bjIzY2x4anFxempwemwvdG9rbg%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
     "entity": "Wosmo",
     "name": "WOSMO",
