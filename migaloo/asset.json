@@ -33,6 +33,7 @@
   },
   {
     "id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/shark",
+    "entity": "Shark Protocol",
     "name": "SHARK",
     "symbol": "SHARK",
     "decimals": "6",
@@ -40,6 +41,17 @@
     "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3NoYXJr&pagination.limit=1",
     "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3NoYXJr&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/shark.png"
+  },
+  {
+    "id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/ugrac",
+    "entity": "Racoon.Bet",
+    "name": "Gaming RAC Token",
+    "symbol": "GRAC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3VncmFj&pagination.limit=1",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWVxbnRubDZ0emNqOWg4NnBzZzR5NGg2aGgwNWcyaDluajhlMDlsL3VncmFj&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/grac.png"
   },
   {
     "id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac",
@@ -92,6 +104,7 @@
   },
   {
     "id": "factory/migaloo1p3aj9f09d7c4jxhgue0hpdpw370j6gzc59nxxx6l8d0gc9f9rfwsdwetus/lsdSHARK",
+    "entity": "Shark Protocol",
     "name": "lsdSHARK",
     "symbol": "lsdSHARK",
     "decimals": "6",
