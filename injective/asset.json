@@ -967,12 +967,14 @@
   },
   {
     "id": "factory/inj14cpnzf4mxyxel7le3wp2zxyvwr8g0wukch9865/mycelium",
+    "entity": "MYCELIUM",
     "name": "mycelium",
     "symbol": "mycelium",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNGNwbnpmNG14eXhlbDdsZTN3cDJ6eHl2d3I4ZzB3dWtjaDk4NjUvbXljZWxpdW0%3D&pagination.limit=1",
-    "icon": "ipfs://QmcWQeL2podyWSZFEpGLUfgPgeGopM49pV8c97vHbwswkH/myceliumlogo.JPG"
+    "circ_supply": "10000000",
+    "total_supply": "10000000",
+    "icon": "https://bafybeihupq52og4abc5hxefoojaa3di5nrthjsdgz6xjf3jl7trdg5cgdm.ipfs.w3s.link/bafkreia6ybrap3qg2bqcm7efxrkg7rsbxvntmrnuohfcmhq6ubwmaeyady[1].jpg"
   },
   {
     "id": "factory/inj14czx0fv80fnkfxtj9zn9wg7thdca8ynlu6vrg8/INJ",
