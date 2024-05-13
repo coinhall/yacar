@@ -24,6 +24,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/ampwhale.svg"
   },
   {
+    "id": "factory/migaloo180wrv6h2y0pc8vwmdd3eyp72455349jmzhfwewyqyvnukvhm9d4qrjsqq3/dao",
+    "name": "Token",
+    "symbol": "DAO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMTgwd3J2NmgyeTBwYzh2d21kZDNleXA3MjQ1NTM0OWptemhmd2V3eXF5dm51a3ZobTlkNHFyanNxcTMvZGFv&pagination.limit=1"
+  },
+  {
     "id": "factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk",
     "name": "ReStake Token",
     "symbol": "RSTK",
