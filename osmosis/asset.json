@@ -8125,6 +8125,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/o9w.svg"
   },
   {
+    "id": "ibc/0D62E47FDEBBC199D4E1853C0708F0F9337AC62D95B719585C9700E466060995",
+    "name": "Airdrop For All",
+    "symbol": "AFA",
+    "decimals": "0",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBENjJFNDdGREVCQkMxOTlENEUxODUzQzA3MDhGMEY5MzM3QUM2MkQ5NUI3MTk1ODVDOTcwMEU0NjYwNjA5OTU%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBENjJFNDdGREVCQkMxOTlENEUxODUzQzA3MDhGMEY5MzM3QUM2MkQ5NUI3MTk1ODVDOTcwMEU0NjYwNjA5OTU%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/0E43EDE2E2A3AFA36D0CD38BDDC0B49FECA64FA426A82E102F304E430ECF46EE",
     "entity": "Axelar",
     "name": "Frax",
@@ -8546,6 +8555,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/273C593E51ACE56F1F2BDB3E03A5CB81BB208B894BCAA642676A32C3454E8C27",
+    "name": "Quicksilver Liquid Staked DYDX",
+    "symbol": "qDYDX",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3M0M1OTNFNTFBQ0U1NkYxRjJCREIzRTAzQTVDQjgxQkIyMDhCODk0QkNBQTY0MjY3NkEzMkMzNDU0RThDMjc%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3M0M1OTNFNTFBQ0U1NkYxRjJCREIzRTAzQTVDQjgxQkIyMDhCODk0QkNBQTY0MjY3NkEzMkMzNDU0RThDMjc%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qdydx.svg"
   },
   {
     "id": "ibc/279D69A6EF8E37456C8D2DC7A7C1C50F7A566EC4758F6DE17472A9FDE36C4426",
@@ -10626,6 +10645,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft52EEB0EE509AC546ED92EAC8591F731F213DDD16.png"
   },
   {
+    "id": "ibc/B4E18E61E1505C2F371B621E49B09E983F6A138F251A7B5286A6BDF739FD0D54",
+    "name": "Quicksilver Liquid Staked JUNO",
+    "symbol": "qJUNO",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I0RTE4RTYxRTE1MDVDMkYzNzFCNjIxRTQ5QjA5RTk4M0Y2QTEzOEYyNTFBN0I1Mjg2QTZCREY3MzlGRDBENTQ%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I0RTE4RTYxRTE1MDVDMkYzNzFCNjIxRTQ5QjA5RTk4M0Y2QTEzOEYyNTFBN0I1Mjg2QTZCREY3MzlGRDBENTQ%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qjuno.svg"
+  },
+  {
     "id": "ibc/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E",
     "entity": "Ki",
     "name": "Ki",
@@ -10898,6 +10927,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/C1C106D915C8E8C59E5DC69BF30FEF64729A6F788060B184C86A315DBB762EF7",
+    "name": "Quicksilver Liquid Staked BLD",
+    "symbol": "qBLD",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MxQzEwNkQ5MTVDOEU4QzU5RTVEQzY5QkYzMEZFRjY0NzI5QTZGNzg4MDYwQjE4NEM4NkEzMTVEQkI3NjJFRjc%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MxQzEwNkQ5MTVDOEU4QzU5RTVEQzY5QkYzMEZFRjY0NzI5QTZGNzg4MDYwQjE4NEM4NkEzMTVEQkI3NjJFRjc%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qbld.svg"
   },
   {
     "id": "ibc/C1CEF00F016FE89EA6E5B07DA895AACD91B0AAD69A991033D846B988AD4FB69D",
@@ -11676,6 +11715,16 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YyOTJBMTdDRjkyMEUzNDYyQzgxNkNCRTZCMDQyRTc3OUY2NzZDQUI1OTA5NjkwNEM0QzFDOTY2NDEzRTNERjU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gdai.svg",
     "coingecko": "https://www.coingecko.com/en/coins/dai"
+  },
+  {
+    "id": "ibc/F2D400F2728E9DA06EAE2AFAB289931A69EDDA5A661578C66A3177EDFE3C0D13",
+    "name": "Quicksilver Liquid Staked SAGA",
+    "symbol": "qSAGA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YyRDQwMEYyNzI4RTlEQTA2RUFFMkFGQUIyODk5MzFBNjlFRERBNUE2NjE1NzhDNjZBMzE3N0VERkUzQzBEMTM%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YyRDQwMEYyNzI4RTlEQTA2RUFFMkFGQUIyODk5MzFBNjlFRERBNUE2NjE1NzhDNjZBMzE3N0VERkUzQzBEMTM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qsaga.svg"
   },
   {
     "id": "ibc/F3166F4D31D6BA1EC6C9F5536F5DDDD4CC93DBA430F7419E7CDC41C497944A65",
