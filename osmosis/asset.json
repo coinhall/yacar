@@ -8103,6 +8103,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft4B030260D99E3ABE2B604EA2B33BAF3C085CDA12.png"
   },
   {
+    "id": "ibc/02BFAC4D8720AA6DB3D9688037774C75F5A551392035DEB56FE1AA4E01E4DEC3",
+    "name": "Pepe",
+    "symbol": "PEPE.pica",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAyQkZBQzREODcyMEFBNkRCM0Q5Njg4MDM3Nzc0Qzc1RjVBNTUxMzkyMDM1REVCNTZGRTFBQTRFMDFFNERFQzM%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAyQkZBQzREODcyMEFBNkRCM0Q5Njg4MDM3Nzc0Qzc1RjVBNTUxMzkyMDM1REVCNTZGRTFBQTRFMDFFNERFQzM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/pepe.pica.png"
+  },
+  {
     "id": "ibc/02F196DA6FD0917DD5FEA249EE61880F4D941EE9059E7964C5C9B50AF103800F",
     "name": "stUMEE",
     "symbol": "stUMEE",
@@ -8694,6 +8704,16 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/257FF64F160106F6EE43CEE7C761DA64C1346221895373CC810FFA1BFAC5A7CD",
+    "name": "Ethena",
+    "symbol": "ENA.pica",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI1N0ZGNjRGMTYwMTA2RjZFRTQzQ0VFN0M3NjFEQTY0QzEzNDYyMjE4OTUzNzNDQzgxMEZGQTFCRkFDNUE3Q0Q%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI1N0ZGNjRGMTYwMTA2RjZFRTQzQ0VFN0M3NjFEQTY0QzEzNDYyMjE4OTUzNzNDQzgxMEZGQTFCRkFDNUE3Q0Q%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ena.pica.png"
+  },
+  {
     "id": "ibc/2716E3F2E146664BEFA9217F1A03BFCEDBCD5178B3C71CACB1A0D7584451D219",
     "entity": "RIZON",
     "name": "RIZON",
@@ -8943,6 +8963,16 @@
     "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4QURDNkZGREREQjdENzBCNzJBRDAzMjJDRUE4ODQ0Q0IxOEZBQTBBMjM0MDBEQkE4QTk5RDQzRTE4QjM3NDg%3D&pagination.limit=1",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4QURDNkZGREREQjdENzBCNzJBRDAzMjJDRUE4ODQ0Q0IxOEZBQTBBMjM0MDBEQkE4QTk5RDQzRTE4QjM3NDg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/WEIRD.png"
+  },
+  {
+    "id": "ibc/39AAE0F5F918B731BEF1E02E9BAED33C242805F668B0A941AC509FB569FE51CB",
+    "name": "Renzo Restaked ETH",
+    "symbol": "ezETH.pica",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM5QUFFMEY1RjkxOEI3MzFCRUYxRTAyRTlCQUVEMzNDMjQyODA1RjY2OEIwQTk0MUFDNTA5RkI1NjlGRTUxQ0I%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM5QUFFMEY1RjkxOEI3MzFCRUYxRTAyRTlCQUVEMzNDMjQyODA1RjY2OEIwQTk0MUFDNTA5RkI1NjlGRTUxQ0I%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ezeth.pica.png"
   },
   {
     "id": "ibc/3A0A392E610A8D477851ABFEA74F3D828F36C015AB8E93B0FBB7566A6D13C4D6",
@@ -9259,6 +9289,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.svg",
     "coingecko": "https://www.coingecko.com/en/coins/bitsong",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/4E606A3378A680C93967E9BEC9703FA75F5B2BE0316A79EE3FD25E5423B8C674",
+    "name": "Curve DAO",
+    "symbol": "CRV.pica",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRFNjA2QTMzNzhBNjgwQzkzOTY3RTlCRUM5NzAzRkE3NUY1QjJCRTAzMTZBNzlFRTNGRDI1RTU0MjNCOEM2NzQ%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRFNjA2QTMzNzhBNjgwQzkzOTY3RTlCRUM5NzAzRkE3NUY1QjJCRTAzMTZBNzlFRTNGRDI1RTU0MjNCOEM2NzQ%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/crv.pica.png"
   },
   {
     "id": "ibc/4EDA0CAEE870C8FCA5DDCD390F11B89BA850654D81FEAEF9DBBA17D722239D70",
@@ -9611,6 +9651,16 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYzMjlERDhDRjMxQTMzNERENUJFM0Y2OEM4NDZDOUZFMzEzMjgxMzYyQjM3Njg2QTYyMzQzQkFDMUVCMTU0NkQ%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png",
     "coingecko": "https://www.coingecko.com/en/coins/binance-usd"
+  },
+  {
+    "id": "ibc/63551E7BB24008F0AFC1CB051A423A5104F781F035F8B1A191264B7086A0A0F6",
+    "name": "crvUSD",
+    "symbol": "crvUSD.pica",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYzNTUxRTdCQjI0MDA4RjBBRkMxQ0IwNTFBNDIzQTUxMDRGNzgxRjAzNUY4QjFBMTkxMjY0QjcwODZBMEEwRjY%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYzNTUxRTdCQjI0MDA4RjBBRkMxQ0IwNTFBNDIzQTUxMDRGNzgxRjAzNUY4QjFBMTkxMjY0QjcwODZBMEEwRjY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/crvUSD.pica.png"
   },
   {
     "id": "ibc/635CB83EF1DFE598B10A3E90485306FD0D47D34217A4BE5FD9977FA010A5367D",
@@ -10279,6 +10329,16 @@
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhDOEY2MzQ5RjY1NkM5NDM1NDNDNkIwNDAzNzdCRTQ0MTIzRDAxRjcxMjI3NzgxNUMzQzEzMDk4QkI5ODgxOEM%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhDOEY2MzQ5RjY1NkM5NDM1NDNDNkIwNDAzNzdCRTQ0MTIzRDAxRjcxMjI3NzgxNUMzQzEzMDk4QkI5ODgxOEM%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/circus.png"
+  },
+  {
+    "id": "ibc/8D0FFEA4EDB04E3C1738C9599B66AE49683E0540FC4C1214AC84534C200D818B",
+    "name": "ether.fi Staked ETH",
+    "symbol": "eETH.pica",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhEMEZGRUE0RURCMDRFM0MxNzM4Qzk1OTlCNjZBRTQ5NjgzRTA1NDBGQzRDMTIxNEFDODQ1MzRDMjAwRDgxOEI%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhEMEZGRUE0RURCMDRFM0MxNzM4Qzk1OTlCNjZBRTQ5NjgzRTA1NDBGQzRDMTIxNEFDODQ1MzRDMjAwRDgxOEI%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/eeth.pica.png"
   },
   {
     "id": "ibc/8E697BDABE97ACE8773C6DF7402B2D1D5104DD1EEABE12608E3469B7F64C15BA",
@@ -11037,6 +11097,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/newt.png"
   },
   {
+    "id": "ibc/BFFE212A23384C4EB055CF6F95A1F5EC1BE0F9BD286FAA66C3748F0444E67D63",
+    "name": "Ethena USDe",
+    "symbol": "USDe.pica",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JGRkUyMTJBMjMzODRDNEVCMDU1Q0Y2Rjk1QTFGNUVDMUJFMEY5QkQyODZGQUE2NkMzNzQ4RjA0NDRFNjdENjM%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JGRkUyMTJBMjMzODRDNEVCMDU1Q0Y2Rjk1QTFGNUVDMUJFMEY5QkQyODZGQUE2NkMzNzQ4RjA0NDRFNjdENjM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usde.pica.png"
+  },
+  {
     "id": "ibc/C00B17F74C94449A62935B4C886E6F0F643249A270DEF269D53CE6741ECCDB93",
     "name": "Pepec",
     "symbol": "PEPEC",
@@ -11329,6 +11399,16 @@
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NGRjQwNTY0RkRBM0U5NThEOTkwNEI4QjQ3OTEyNDk4NzkwMTE2ODQ5NDY1NUQ5Q0M2QjdDMEVDMDQxNjAyMEI%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NGRjQwNTY0RkRBM0U5NThEOTkwNEI4QjQ3OTEyNDk4NzkwMTE2ODQ5NDY1NUQ5Q0M2QjdDMEVDMDQxNjAyMEI%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/dust.svg"
+  },
+  {
+    "id": "ibc/D09BB89B2187EF13EF006B44510749B0F02FD0B34F8BB55C70D812A1FF6148C7",
+    "name": "Dinero Staked ETH",
+    "symbol": "pxETH.pica",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0QwOUJCODlCMjE4N0VGMTNFRjAwNkI0NDUxMDc0OUIwRjAyRkQwQjM0RjhCQjU1QzcwRDgxMkExRkY2MTQ4Qzc%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0QwOUJCODlCMjE4N0VGMTNFRjAwNkI0NDUxMDc0OUIwRjAyRkQwQjM0RjhCQjU1QzcwRDgxMkExRkY2MTQ4Qzc%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/pxeth.pica.png"
   },
   {
     "id": "ibc/D0E5BF2940FB58D9B283A339032DE88111407AAD7D94A7F1F3EB78874F8616D4",
