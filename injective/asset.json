@@ -515,6 +515,15 @@
     "icon": "ipfs://bafkreiakfz7oaouncdlkjiam7vjmioklihnyb32awbcz2xm5p5lahenrdi"
   },
   {
+    "id": "factory/inj12vxhuaamfs33sxgnf95lxvzy9lpugpgjsrsxl3/foo",
+    "name": "foo",
+    "symbol": "foo",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxMnZ4aHVhYW1mczMzc3hnbmY5NWx4dnp5OWxwdWdwZ2pzcnN4bDMvZm9v&pagination.limit=1",
+    "icon": "ipfs://bafkreicve6zscaldlt4cz6lyghj7wwa6nijhu53obwernh3qksiklla2d4"
+  },
+  {
     "id": "factory/inj12yazr8lq5ptlz2qj9y36v8zwmz90gy9gh35026/AMM",
     "name": "AMM TOKEN",
     "symbol": "AMM",
