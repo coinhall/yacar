@@ -750,6 +750,15 @@
     "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ausd",
+    "name": "AnonUSD",
+    "symbol": "AUSD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYXVzZA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmPez6DUXaRXW3tip9LK4wkJU8x1MXfNCRaaTD13pkTW4W"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/avg",
     "name": "AngryVegeta",
     "symbol": "AVG",
@@ -2701,6 +2710,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZG9ub2xk&pagination.limit=1",
     "icon": "https://m.media-amazon.com/images/I/51+0w8DEXrL.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/dontbuy",
+    "name": "dontbuy",
+    "symbol": "dontbuy",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZG9udGJ1eQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qmdyxdj4ywFgHXupqyVGFo1876o3EjWcUgBTETJF14sPKv"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/dopinu",
