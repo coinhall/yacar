@@ -9890,6 +9890,16 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/46D8D1A6E2A80ECCB7CA6663086A2E749C508B68DA56A077CD26E6F4F9691EEE",
+    "name": "Pundi X Token",
+    "symbol": "PUNDIX",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ2RDhEMUE2RTJBODBFQ0NCN0NBNjY2MzA4NkEyRTc0OUM1MDhCNjhEQTU2QTA3N0NEMjZFNkY0Rjk2OTFFRUU%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ2RDhEMUE2RTJBODBFQ0NCN0NBNjY2MzA4NkEyRTc0OUM1MDhCNjhEQTU2QTA3N0NEMjZFNkY0Rjk2OTFFRUU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/pundix.png"
+  },
+  {
     "id": "ibc/47CAF2DB8C016FAC960F33BC492FD8E454593B65CC59D70FA9D9F30424F9C32F",
     "entity": "Canto",
     "name": "Canto",
@@ -10229,6 +10239,16 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVBN0MyMTlCQTVGNzU4MkI5OTYyOUJBM0IyQTAxQTYxQkZEQTBGNkZEMUZFOTVCNTM2NkY3MzM0QzRCQzA1ODA%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.svg",
     "coingecko": "https://www.coingecko.com/en/coins/crescent-network"
+  },
+  {
+    "id": "ibc/5B5BFCC8A9F0D554A4245117F7798E85BE25B6C73DBFA2D6F369BD9DD6CACC6D",
+    "name": "Pepe",
+    "symbol": "PEPE.pica",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVCNUJGQ0M4QTlGMEQ1NTRBNDI0NTExN0Y3Nzk4RTg1QkUyNUI2QzczREJGQTJENkYzNjlCRDlERDZDQUNDNkQ%3D&pagination.limit=1",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVCNUJGQ0M4QTlGMEQ1NTRBNDI0NTExN0Y3Nzk4RTg1QkUyNUI2QzczREJGQTJENkYzNjlCRDlERDZDQUNDNkQ%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/pepe.pica.png"
   },
   {
     "id": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
