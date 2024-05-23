@@ -3953,6 +3953,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1k0ked7w3t3etzun47m00xmx9vr4zglznnsp3y9/DEGGZ",
+    "name": "DEGGZ",
+    "symbol": "DEGGZ",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxazBrZWQ3dzN0M2V0enVuNDdtMDB4bXg5dnI0emdsem5uc3AzeTkvREVHR1o%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreifg75elu4rsrzvzmwythkn5lfiuyngc2glcftesin64g62f6xcjqi"
+  },
+  {
     "id": "factory/inj1k0mzgwd4ujuu9w95xzs8p7qu8udy3atqj3sau7/HALVING",
     "name": "HALVING",
     "symbol": "HALVING",
@@ -14703,6 +14712,14 @@
     "decimals": "18",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1uu3dc475nuhz68j3g4s3cpxzdfczpa3k4dcqz7/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
+    "id": "inj1uv2arm5gzd35zrxd7ghsslegn0cwpc9jwc0enz",
+    "name": "DEGGZ",
+    "symbol": "DEGGZ",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1uv2arm5gzd35zrxd7ghsslegn0cwpc9jwc0enz/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "inj1v092fpcqz0k5pf6zwz7z8v40q2yxa0elfzt2hk",
