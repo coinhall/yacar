@@ -3313,12 +3313,14 @@
   },
   {
     "id": "factory/inj1ga7xu92w0yxhedk92v6ckge6q76vx2hxcwxsxx/RICK",
+    "entity": "Rickroll Token",
     "name": "Rickroll Token",
     "symbol": "RICK",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZ2E3eHU5MncweXhoZWRrOTJ2NmNrZ2U2cTc2dngyaHhjd3hzeHgvUklDSw%3D%3D&pagination.limit=1",
-    "icon": "ipfs://bafybeieyxchtgehqxbtwwc3zwrozb2fofus37f2nlnxpxnwv3ct7kijhre"
+    "circ_supply": "1000000",
+    "total_supply": "1000000",
+    "icon": "https://imageshack.blob.core.windows.net/img/Rick-logo.png"
   },
   {
     "id": "factory/inj1ga982yy0wumrlt4nnj79wcgmw7mzvw6jcyecl0/NPEPE",
