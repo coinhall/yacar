@@ -885,6 +885,24 @@
     "icon": "https://i.imgur.com/j9nFNNw.jpeg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/bake",
+    "name": "Bakers",
+    "symbol": "BAKE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmFrZQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qme42JE8JjCW6QpX1LhtPCnavYaphmBF1cSMtU9dkLT9zx"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/bakers",
+    "name": "Bakers",
+    "symbol": "Bakers",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmFrZXJz&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qme42JE8JjCW6QpX1LhtPCnavYaphmBF1cSMtU9dkLT9zx"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/bam",
     "name": "BAD MOOD",
     "symbol": "BAM",
