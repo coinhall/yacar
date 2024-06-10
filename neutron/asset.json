@@ -442,12 +442,15 @@
   },
   {
     "id": "ibc/4A6A46D4263F2ED3DCE9CF866FE15E6903FB5E12D87EB8BDC1B6B1A1E2D397B4",
+    "entity": "Dymension Hub",
     "name": "DYM",
     "symbol": "DYM",
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBNkE0NkQ0MjYzRjJFRDNEQ0U5Q0Y4NjZGRTE1RTY5MDNGQjVFMTJEODdFQjhCREMxQjZCMUExRTJEMzk3QjQ%3D&pagination.limit=1",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBNkE0NkQ0MjYzRjJFRDNEQ0U5Q0Y4NjZGRTE1RTY5MDNGQjVFMTJEODdFQjhCREMxQjZCMUExRTJEMzk3QjQ%3D&pagination.limit=1"
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBNkE0NkQ0MjYzRjJFRDNEQ0U5Q0Y4NjZGRTE1RTY5MDNGQjVFMTJEODdFQjhCREMxQjZCMUExRTJEMzk3QjQ%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dymension/images/dymension-logo.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
     "id": "ibc/4D04085167777659C11784A356D6B0D13D5C7F0CE77F7DB1152FE03A2DE2CBF2",
