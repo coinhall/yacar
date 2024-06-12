@@ -5962,6 +5962,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1t8wuan5zxp58uwtn6j50kx4tjv25argx6lucwy/EURO",
+    "name": "UEFA EURO 2024",
+    "symbol": "EURO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxdDh3dWFuNXp4cDU4dXd0bjZqNTBreDR0anYyNWFyZ3g2bHVjd3kvRVVSTw%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreic43jiucekuuxu3bsy2k4fjqtfmre6f3g52nguimq4rw2tdgxm54u"
+  },
+  {
     "id": "factory/inj1t8wuan5zxp58uwtn6j50kx4tjv25argx6lucwy/Nil",
     "name": "Nil armstronk",
     "symbol": "Nil",
