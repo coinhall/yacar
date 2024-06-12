@@ -228,6 +228,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.png"
   },
   {
+    "id": "ibc/721B42229246EEDA7A656DB17E494127F91E84AD63E21852737628321892A928",
+    "name": "WIND",
+    "symbol": "WIND",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzcyMUI0MjIyOTI0NkVFREE3QTY1NkRCMTdFNDk0MTI3RjkxRTg0QUQ2M0UyMTg1MjczNzYyODMyMTg5MkE5Mjg%3D&pagination.limit=1",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzcyMUI0MjIyOTI0NkVFREE3QTY1NkRCMTdFNDk0MTI3RjkxRTg0QUQ2M0UyMTg1MjczNzYyODMyMTg5MkE5Mjg%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/80E8F826480B995AE28C1EE86106C1BE2034FF1966579D29951CF61885458040",
     "name": "axlUSDC",
     "symbol": "axlUSDC",
