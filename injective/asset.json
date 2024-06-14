@@ -7294,6 +7294,15 @@
     "icon": "ipfs://bafkreib7nzhclkc6wgwvz44i7m3vg6jyq3dsc7zvwo6px4zd52jzcxweva"
   },
   {
+    "id": "factory/inj1zn8qlkjautjt3mvr7xwuvpe6eddqt5w3mak5s7/DTEST",
+    "name": "Test Token",
+    "symbol": "DTEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxem44cWxramF1dGp0M212cjd4d3V2cGU2ZWRkcXQ1dzNtYWs1czcvRFRFU1Q%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreicj6pwvvpsrvzlozohv2zksnqq3wo24sarprw2oizcxpmq2otav3e"
+  },
+  {
     "id": "factory/inj1zp8a6nhhf3hc9pg2jp67vlxjmxgwjd8g0ck9mq/SHBL",
     "name": "Shoebill",
     "symbol": "SHBL",
