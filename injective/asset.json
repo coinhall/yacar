@@ -2761,6 +2761,15 @@
     "icon": "ipfs://bafkreifn7yf4smllmo5ip5pajopfqvoc5lzx4w6kamfmkjr2oxslbjpzru"
   },
   {
+    "id": "factory/inj1dda3mee75nppg9drvx8zc88zdj4qzvmlnrtrnh/QTest",
+    "name": "QTest",
+    "symbol": "QTest",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZGRhM21lZTc1bnBwZzlkcnZ4OHpjODh6ZGo0cXp2bWxucnRybmgvUVRlc3Q%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreiagpzvzhp2tz4h2cfvdlv7veb2rijhrvxxo5dystyctwl7mm3ybbi"
+  },
+  {
     "id": "factory/inj1ddmyuzh42n8ymyhcm5jla3aaq9tucjnye02dlf/fox",
     "name": "fox",
     "symbol": "fox",
@@ -5356,6 +5365,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/InjMIB/astroport-token-lists/d2ced523c48f4cde72e7b296913be506917644a9/MIB.png"
+  },
+  {
+    "id": "factory/inj1qrdfxrx7kg0kvgapxyj8dc0wuj4yr2npw7gmkr/QTUM",
+    "name": "QTUM",
+    "symbol": "QTUM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxcXJkZnhyeDdrZzBrdmdhcHh5ajhkYzB3dWo0eXIybnB3N2dta3IvUVRVTQ%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafkreiagpzvzhp2tz4h2cfvdlv7veb2rijhrvxxo5dystyctwl7mm3ybbi"
   },
   {
     "id": "factory/inj1qukvpzhyjguma030s8dmvw4lxaluvlqq5jk3je/SUGAR",
