@@ -928,6 +928,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcndneXRmZHE3dnJmOGh1czQzNDc1djZ0ODQ1dmZreWduMGVyY3cvc2VpbXVyYWlkZW5vbQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1s36aw9jj7j8xd65qx4mawgv2a5l97vqkdkt6vex7pgkwgy8mg64qdy32gs/bao",
+    "name": "Baoskee",
+    "symbol": "BAO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxczM2YXc5amo3ajh4ZDY1cXg0bWF3Z3YyYTVsOTd2cWtka3Q2dmV4N3Bna3dneThtZzY0cWR5MzJncy9iYW8%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1s36aw9jj7j8xd65qx4mawgv2a5l97vqkdkt6vex7pgkwgy8mg64qdy32gs/bao/vest",
+    "name": "Baoskee Vests",
+    "symbol": "BAO/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxczM2YXc5amo3ajh4ZDY1cXg0bWF3Z3YyYTVsOTd2cWtka3Q2dmV4N3Bna3dneThtZzY0cWR5MzJncy9iYW8vdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1s6kwljuxrgg93sju2aq8n2ln20u3q0m5kjxpg0/SIF",
     "entity": "SEIWIFHAT",
     "name": "SEIWIFHAT",
