@@ -202,6 +202,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN2szYWg4a2QyazZ1NHBybHN2bThmM3BzZ2h3MmF0N2NmMm1qcHIvY2hpY2tlZ2c%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei17sfpyvalnujg0f36rn4xr5944wnr3ds5k42uhnyddzzeye0mfl0q4u0dhj/henlo",
+    "name": "don't be silly",
+    "symbol": "Henlo",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN3NmcHl2YWxudWpnMGYzNnJuNHhyNTk0NHducjNkczVrNDJ1aG55ZGR6emV5ZTBtZmwwcTR1MGRoai9oZW5sbw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei17sfpyvalnujg0f36rn4xr5944wnr3ds5k42uhnyddzzeye0mfl0q4u0dhj/henlo/vest",
+    "name": "don't be silly Vests",
+    "symbol": "Henlo/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN3NmcHl2YWxudWpnMGYzNnJuNHhyNTk0NHducjNkczVrNDJ1aG55ZGR6emV5ZTBtZmwwcTR1MGRoai9oZW5sby92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
     "name": "BSC Wrapped USDC",
     "symbol": "USDC.bsc",
@@ -774,6 +790,22 @@
     "type": "tokenfactory",
     "total_supply": "100000000",
     "icon": "https://i.ibb.co/sPy5PqR/logo.jpg"
+  },
+  {
+    "id": "factory/sei1pdnvmrhhx9cpvuhc6ehkx35gfsr4lvwvm2z8ml3l26x9w8nr45estwep9h/henlo",
+    "name": "don't be silly",
+    "symbol": "Henlo",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcGRudm1yaGh4OWNwdnVoYzZlaGt4MzVnZnNyNGx2d3ZtMno4bWwzbDI2eDl3OG5yNDVlc3R3ZXA5aC9oZW5sbw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1pdnvmrhhx9cpvuhc6ehkx35gfsr4lvwvm2z8ml3l26x9w8nr45estwep9h/henlo/vest",
+    "name": "don't be silly Vests",
+    "symbol": "Henlo/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcGRudm1yaGh4OWNwdnVoYzZlaGt4MzVnZnNyNGx2d3ZtMno4bWwzbDI2eDl3OG5yNDVlc3R3ZXA5aC9oZW5sby92ZXN0&pagination.limit=1"
   },
   {
     "id": "factory/sei1pjdffrn4t4g3wc646l6rxfy5mrrgd6lzj4kdtj/SEIV",
