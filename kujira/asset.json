@@ -8,6 +8,18 @@
     "verification_tx": "kujira-fin"
   },
   {
+    "id": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/unami",
+    "entity": "NAMI Protocol",
+    "name": "NAMI",
+    "symbol": "$NAMI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply_api": "https://api.namifi.app/api/circulating_supply",
+    "total_supply": "100000000",
+    "icon": "https://jjxtjyuvpizsytjflbvr.supabase.co/storage/v1/object/public/brand_assets/NAMI_Token_Logo_High_Res.png",
+    "coingecko": "https://www.coingecko.com/en/coins/nami-protocol"
+  },
+  {
     "id": "factory/kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a/ulp",
     "name": "LP KUJI-ATOM",
     "symbol": "LP KUJI-ATOM",
