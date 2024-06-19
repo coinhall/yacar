@@ -644,6 +644,22 @@
     "icon": "https://i.ibb.co/Tg18HBL/gogeta.png"
   },
   {
+    "id": "factory/sei1keg8zxrnqpj20slha3xgavcqw0uuy6jyh9vsm3smrzzd42j8gd6q28z348/bao",
+    "name": "baoskee",
+    "symbol": "BAO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa2VnOHp4cm5xcGoyMHNsaGEzeGdhdmNxdzB1dXk2anloOXZzbTNzbXJ6emQ0Mmo4Z2Q2cTI4ejM0OC9iYW8%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1keg8zxrnqpj20slha3xgavcqw0uuy6jyh9vsm3smrzzd42j8gd6q28z348/bao/vest",
+    "name": "baoskee Vests",
+    "symbol": "BAO/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa2VnOHp4cm5xcGoyMHNsaGEzeGdhdmNxdzB1dXk2anloOXZzbTNzbXJ6emQ0Mmo4Z2Q2cTI4ejM0OC9iYW8vdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1kkehkr56qz6uh9gr2rjdljtq6pf5k3adkvg6zy/SeiLarious",
     "name": "SeiLarious Coin",
     "symbol": "SEILA",
