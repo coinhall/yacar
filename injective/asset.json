@@ -16810,6 +16810,14 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/ethbtctrend.svg"
   },
   {
+    "id": "peggy0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+    "name": "IoTeX Network",
+    "symbol": "IOTX",
+    "decimals": "18",
+    "type": "peggy",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweDZmQjNlMEEyMTc0MDdFRkZmN0NhMDYyRDQ2YzI2RTVkNjBhMTRkNjk%3D&pagination.limit=1"
+  },
+  {
     "id": "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
     "name": "Polygon",
     "symbol": "MATIC",
