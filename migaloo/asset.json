@@ -247,6 +247,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
+    "id": "ibc/B1BD4EF49A2E051EFC85E8C6A932B559CE62F9519E0E83BE29A8F0BDF89BD1D3",
+    "name": "Frogztrik NFT Token",
+    "symbol": "FROG",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IxQkQ0RUY0OUEyRTA1MUVGQzg1RThDNkE5MzJCNTU5Q0U2MkY5NTE5RTBFODNCRTI5QThGMEJERjg5QkQxRDM%3D&pagination.limit=1",
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IxQkQ0RUY0OUEyRTA1MUVGQzg1RThDNkE5MzJCNTU5Q0U2MkY5NTE5RTBFODNCRTI5QThGMEJERjg5QkQxRDM%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/B65E189D3168DB40C88C6A6C92CA3D3BB0A8B6310325D4C43AB5702F06ECD60B",
     "name": "WBTC",
     "symbol": "WBTC.axl",
