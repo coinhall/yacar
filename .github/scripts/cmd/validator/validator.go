@@ -13,11 +13,13 @@ import (
 )
 
 func Start(filePaths []string) {
-	validateYacarJSONs(filePaths)
+	if ok := validateYacarJSONs(filePaths); !ok {
+		log.Fatalln("error(s) detected")
+	}
 	log.Println("Validated JSONs successfully...")
 }
 
-func validateYacarJSONs(filePaths []string) {
+func validateYacarJSONs(filePaths []string) bool {
 	chainFileMap := map[string]map[string]*os.File{}
 	for _, fp := range filePaths {
 		fp = filepath.ToSlash(fp)
@@ -40,8 +42,10 @@ func validateYacarJSONs(filePaths []string) {
 		for _, err := range errs {
 			log.Println(err)
 		}
-		os.Exit(1)
+		return false
 	}
+
+	return true
 }
 
 func closeChainFileMaps(cfm map[string]map[string]*os.File) {
@@ -90,7 +94,10 @@ func validateYacarJSON(cfm map[string]map[string]*os.File) []error {
 func validateAccountJSON(file *os.File) error {
 	var accounts []yacarsdk.Account
 
-	file.Seek(0, io.SeekStart)
+	if _, err := file.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(file).Decode(&accounts); err != nil {
 		return fmt.Errorf("error while decoding account JSON: %s", err)
 	}
@@ -107,12 +114,18 @@ func validateAssetJSON(assetFile, entityFile *os.File) error {
 
 	// Reset file offset to beginning of file in case it was read before, not doing so would cause
 	// an EOF error when trying to decode the JSON
-	assetFile.Seek(0, io.SeekStart)
+	if _, err := assetFile.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
 		return fmt.Errorf("error while decoding asset JSON for asset validation: %s", assetFile.Name())
 	}
 
-	entityFile.Seek(0, io.SeekStart)
+	if _, err := entityFile.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(entityFile).Decode(&entities); err != nil {
 		return fmt.Errorf("error while decoding entity JSON for asset validation: %s", err)
 	}
@@ -124,7 +137,10 @@ func validateAssetJSON(assetFile, entityFile *os.File) error {
 func validateBinaryJSON(file *os.File) error {
 	var binaries []yacarsdk.Binary
 
-	file.Seek(0, io.SeekStart)
+	if _, err := file.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(file).Decode(&binaries); err != nil {
 		return fmt.Errorf("error while decoding binary JSON: %s", err)
 	}
@@ -136,7 +152,10 @@ func validateBinaryJSON(file *os.File) error {
 func validateContractJSON(file *os.File) error {
 	var contracts []yacarsdk.Contract
 
-	file.Seek(0, io.SeekStart)
+	if _, err := file.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
 		return fmt.Errorf("error while decoding contract JSON: %s", err)
 	}
@@ -156,14 +175,20 @@ func validateEntityJSON(entityFile, accountFile, assetFile, binaryFile, contract
 
 	// Reset file offset to beginning of file in case it was read before, not doing so would cause
 	// an EOF error when trying to decode the JSON
-	entityFile.Seek(0, io.SeekStart)
+	if _, err := entityFile.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(entityFile).Decode(&entities); err != nil {
 		return fmt.Errorf("error while decoding entity JSON for entity validation: %s", err)
 	}
 
 	usedEntities := map[string]struct{}{}
 
-	accountFile.Seek(0, io.SeekStart)
+	if _, err := accountFile.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(accountFile).Decode(&accounts); err != nil {
 		return fmt.Errorf("error while decoding account JSON for entity validation: %s", err)
 	}
@@ -171,7 +196,10 @@ func validateEntityJSON(entityFile, accountFile, assetFile, binaryFile, contract
 		usedEntities[account.Entity] = struct{}{}
 	}
 
-	assetFile.Seek(0, io.SeekStart)
+	if _, err := assetFile.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
 		return fmt.Errorf("error while decoding asset JSON for entity validation: %s", err)
 	}
@@ -179,7 +207,10 @@ func validateEntityJSON(entityFile, accountFile, assetFile, binaryFile, contract
 		usedEntities[asset.Entity] = struct{}{}
 	}
 
-	binaryFile.Seek(0, io.SeekStart)
+	if _, err := binaryFile.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(binaryFile).Decode(&binaries); err != nil {
 		return fmt.Errorf("error while decoding binary JSON for entity validation: %s", err)
 	}
@@ -187,7 +218,10 @@ func validateEntityJSON(entityFile, accountFile, assetFile, binaryFile, contract
 		usedEntities[binary.Entity] = struct{}{}
 	}
 
-	contractFile.Seek(0, io.SeekStart)
+	if _, err := contractFile.Seek(0, io.SeekStart); err != nil {
+		return err
+	}
+
 	if err := json.NewDecoder(contractFile).Decode(&contracts); err != nil {
 		return fmt.Errorf("error while decoding contract JSON for entity validation: %s", err)
 	}
