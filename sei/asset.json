@@ -1206,6 +1206,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeG0ycHl0djRua2xqZXZ5ODByZHdqN250ZWZmcXZmNzZwa3FwZHIvc2NhbQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1xtauasnk7dwzhena2wzznx3ruu84mtv26g7sy7p4krnzv5fmqqeq57q7y2/mozart",
+    "name": "mozart ftw",
+    "symbol": "MOZART",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeHRhdWFzbms3ZHd6aGVuYTJ3enpueDNydXU4NG10djI2ZzdzeTdwNGtybnp2NWZtcXFlcTU3cTd5Mi9tb3phcnQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1xtauasnk7dwzhena2wzznx3ruu84mtv26g7sy7p4krnzv5fmqqeq57q7y2/mozart/vest",
+    "name": "mozart ftw Vests",
+    "symbol": "MOZART/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeHRhdWFzbms3ZHd6aGVuYTJ3enpueDNydXU4NG10djI2ZzdzeTdwNGtybnp2NWZtcXFlcTU3cTd5Mi9tb3phcnQvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1y25r9u0kvrdya34csz436vj7eja7vc8ma6m4l7/KiraWifHat",
     "entity": "KiraWifHat",
     "name": "KiraWifHat",
