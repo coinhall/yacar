@@ -36,8 +36,11 @@ func validateYacarJSONs(filePaths []string) {
 	}
 	defer closeChainFileMaps(chainFileMap)
 
-	if err := validateYacarJSON(chainFileMap); err != nil {
-		panic(err)
+	if errs := validateYacarJSON(chainFileMap); len(errs) != 0 {
+		for _, err := range errs {
+			log.Println(err)
+		}
+		os.Exit(1)
 	}
 }
 
@@ -49,7 +52,8 @@ func closeChainFileMaps(cfm map[string]map[string]*os.File) {
 	}
 }
 
-func validateYacarJSON(cfm map[string]map[string]*os.File) error {
+func validateYacarJSON(cfm map[string]map[string]*os.File) []error {
+	var errs []error
 	for chain, filemap := range cfm {
 		for _, file := range filemap {
 			var err error
@@ -76,11 +80,11 @@ func validateYacarJSON(cfm map[string]map[string]*os.File) error {
 			}
 
 			if err != nil {
-				return err
+				errs = append(errs, err)
 			}
 		}
 	}
-	return nil
+	return errs
 }
 
 func validateAccountJSON(file *os.File) error {
