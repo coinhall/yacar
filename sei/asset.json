@@ -922,6 +922,22 @@
     "icon": "https://i.imgur.com/cLbYDpJ.png"
   },
   {
+    "id": "factory/sei1q7wrynwwg5kclyv04tsn06sqlend7m3u4wp4yrfh5xm6l8l6yg4qnmwm3t/gaysei",
+    "name": "Gei Sei",
+    "symbol": "gaysei",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcTd3cnlud3dnNWtjbHl2MDR0c24wNnNxbGVuZDdtM3U0d3A0eXJmaDV4bTZsOGw2eWc0cW5td20zdC9nYXlzZWk%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1q7wrynwwg5kclyv04tsn06sqlend7m3u4wp4yrfh5xm6l8l6yg4qnmwm3t/gaysei/vest",
+    "name": "Gei Sei Vests",
+    "symbol": "gaysei/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcTd3cnlud3dnNWtjbHl2MDR0c24wNnNxbGVuZDdtM3U0d3A0eXJmaDV4bTZsOGw2eWc0cW5td20zdC9nYXlzZWkvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1qjeqed7aqfctfz9j60seezh30j0x8q6vnm06aptu225g3dfgzgzsw8jwns/SEIYANWIFHAT",
     "entity": "SEIYANWIFHAT",
     "name": "SEIYANWIFHAT",
