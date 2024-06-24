@@ -16866,6 +16866,14 @@
     "icon": "https://www.ethena.fi/shared/ethena.svg"
   },
   {
+    "id": "peggy0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+    "name": "Wrapped Mountain Protocol USD",
+    "symbol": "wUSDM",
+    "decimals": "18",
+    "type": "peggy",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweDU3RjVFMDk4Q2FEN0EzRDFFZWQ1Mzk5MUQ0ZDY2QzQ1QzlBRjc4MTI%3D&pagination.limit=1"
+  },
+  {
     "id": "peggy0x6982508145454Ce325dDbE47a25d4ec3d2311933",
     "name": "Pepe",
     "symbol": "PEPE",
