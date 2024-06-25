@@ -832,6 +832,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcGpkZmZybjR0NGczd2M2NDZsNnJ4Znk1bXJyZ2Q2bHpqNGtkdGovU0VJVg%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1plskh2nnqe9cntamr8k0dmxa38d3p8l4jpnk5fu9rwj8nwwf8xgqw4tl9t/lets",
+    "name": "DOt it baby",
+    "symbol": "LETS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcGxza2gybm5xZTljbnRhbXI4azBkbXhhMzhkM3A4bDRqcG5rNWZ1OXJ3ajhud3dmOHhncXc0dGw5dC9sZXRz&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1plskh2nnqe9cntamr8k0dmxa38d3p8l4jpnk5fu9rwj8nwwf8xgqw4tl9t/lets/vest",
+    "name": "DOt it baby Vests",
+    "symbol": "LETS/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcGxza2gybm5xZTljbnRhbXI4azBkbXhhMzhkM3A4bDRqcG5rNWZ1OXJ3ajhud3dmOHhncXc0dGw5dC9sZXRzL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1ppd8pa6kdlarrkaczqg505cr80kxappvwjcnj8/akamaru",
     "name": "akm",
     "symbol": "akm",
