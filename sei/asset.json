@@ -1254,6 +1254,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeG0ycHl0djRua2xqZXZ5ODByZHdqN250ZWZmcXZmNzZwa3FwZHIvc2NhbQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1xr6ga286tk0axv8cxh5va2ntm6eave55t6c854zkc9n0jnqpez5q4pxuy2/dogee",
+    "name": "baoskee",
+    "symbol": "dogee",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeHI2Z2EyODZ0azBheHY4Y3hoNXZhMm50bTZlYXZlNTV0NmM4NTR6a2M5bjBqbnFwZXo1cTRweHV5Mi9kb2dlZQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1xr6ga286tk0axv8cxh5va2ntm6eave55t6c854zkc9n0jnqpez5q4pxuy2/dogee/vest",
+    "name": "baoskee Vests",
+    "symbol": "dogee/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeHI2Z2EyODZ0azBheHY4Y3hoNXZhMm50bTZlYXZlNTV0NmM4NTR6a2M5bjBqbnFwZXo1cTRweHV5Mi9kb2dlZS92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1xtauasnk7dwzhena2wzznx3ruu84mtv26g7sy7p4krnzv5fmqqeq57q7y2/mozart",
     "name": "mozart ftw",
     "symbol": "MOZART",
