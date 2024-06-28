@@ -383,6 +383,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ibc.png"
   },
   {
+    "id": "factory/osmo1mgwhl36nj64mz5lw49e2xup5h4peag5ehchhykge6wttrra0jzvqm7nv7z/tlf",
+    "name": "tokem TLF FIBRA",
+    "symbol": "TLF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW1nd2hsMzZuajY0bXo1bHc0OWUyeHVwNWg0cGVhZzVlaGNoaHlrZ2U2d3R0cnJhMGp6dnFtN252N3ovdGxm&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
     "entity": "Levana Protocol",
     "name": "Levana Governance Token",
@@ -1637,6 +1645,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYm95YXJkZWU%3D&pagination.limit=1",
     "icon": "https://todayinhistorydotblog.files.wordpress.com/2020/05/9939470a6f9152f2ccf922bddd45cf53.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/bratf",
+    "name": "BratFast",
+    "symbol": "BRATF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYnJhdGY%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmQddQhxyKzfbVPikDAfDHPMRQjXzzbcpsts9j7iySnDfw"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/brh",
