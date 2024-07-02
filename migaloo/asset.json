@@ -165,154 +165,95 @@
   },
   {
     "id": "ibc/0102CC6E28D29F57444C645C86AE2F4E8789C3A85445A3B185E51F0A23862E87",
-    "name": "ERIS Amplified MNTA",
-    "symbol": "ampMNTA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAxMDJDQzZFMjhEMjlGNTc0NDRDNjQ1Qzg2QUUyRjRFODc4OUMzQTg1NDQ1QTNCMTg1RTUxRjBBMjM4NjJFODc%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAxMDJDQzZFMjhEMjlGNTc0NDRDNjQ1Qzg2QUUyRjRFODc4OUMzQTg1NDQ1QTNCMTg1RTUxRjBBMjM4NjJFODc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/ampmnta.png"
+    "origin_chain_id": "kaiyo-1",
+    "origin_id": "factory/kujira175yatpvkpgw07w0chhzuks3zrrae9z9g2y6r7u5pzqesyau4x9eqqyv0rr/ampMNTA",
+    "type": "ibc"
   },
   {
     "id": "ibc/0E1B883A15D5FCA533332CBAB1A672934C3936920399F2A3EB4F438E3EBAD0E9",
-    "name": "Shitmos",
-    "symbol": "SHITMOS",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFMUI4ODNBMTVENUZDQTUzMzMzMkNCQUIxQTY3MjkzNEMzOTM2OTIwMzk5RjJBM0VCNEY0MzhFM0VCQUQwRTk%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFMUI4ODNBMTVENUZDQTUzMzMzMkNCQUIxQTY3MjkzNEMzOTM2OTIwMzk5RjJBM0VCNEY0MzhFM0VCQUQwRTk%3D&pagination.limit=1"
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+    "type": "ibc"
   },
   {
     "id": "ibc/106B438A78C581C5291E114B21588C41F98532E04D5369CFEE5825D95D465278",
-    "name": "SAYVE",
-    "symbol": "SAYVE",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwNkI0MzhBNzhDNTgxQzUyOTFFMTE0QjIxNTg4QzQxRjk4NTMyRTA0RDUzNjlDRkVFNTgyNUQ5NUQ0NjUyNzg%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwNkI0MzhBNzhDNTgxQzUyOTFFMTE0QjIxNTg4QzQxRjk4NTMyRTA0RDUzNjlDRkVFNTgyNUQ5NUQ0NjUyNzg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3",
+    "type": "ibc"
   },
   {
     "id": "ibc/44C29C91F202E20C8E28DFB1FA89B725C54171CD77B8948836C72E7A97E4A018",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
     "entity": "RakoffToken",
-    "name": "RakoffToken",
-    "symbol": "Rakoff",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ0QzI5QzkxRjIwMkUyMEM4RTI4REZCMUZBODlCNzI1QzU0MTcxQ0Q3N0I4OTQ4ODM2QzcyRTdBOTdFNEEwMTg%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ0QzI5QzkxRjIwMkUyMEM4RTI4REZCMUZBODlCNzI1QzU0MTcxQ0Q3N0I4OTQ4ODM2QzcyRTdBOTdFNEEwMTg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png"
+    "type": "ibc"
   },
   {
     "id": "ibc/4627AD2524E3E0523047E35BB76CC90E37D9D57ACF14F0FCBCEB2480705F3CB8",
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "uluna",
     "entity": "Terra Money",
-    "name": "LUNA",
-    "symbol": "LUNA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ2MjdBRDI1MjRFM0UwNTIzMDQ3RTM1QkI3NkNDOTBFMzdEOUQ1N0FDRjE0RjBGQ0JDRUIyNDgwNzA1RjNDQjg%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ2MjdBRDI1MjRFM0UwNTIzMDQ3RTM1QkI3NkNDOTBFMzdEOUQ1N0FDRjE0RjBGQ0JDRUIyNDgwNzA1RjNDQjg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
-    "coingecko": "https://www.coingecko.com/en/coins/terra"
+    "type": "ibc"
   },
   {
     "id": "ibc/6A171A9A6DBBF5DDB976CD215EAA667641FA8EE35EDC95ACDBF68C810B62F0F5",
-    "name": "SHD",
-    "symbol": "SHD",
-    "decimals": "8",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZBMTcxQTlBNkRCQkY1RERCOTc2Q0QyMTVFQUE2Njc2NDFGQThFRTM1RURDOTVBQ0RCRjY4QzgxMEI2MkYwRjU%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZBMTcxQTlBNkRCQkY1RERCOTc2Q0QyMTVFQUE2Njc2NDFGQThFRTM1RURDOTVBQ0RCRjY4QzgxMEI2MkYwRjU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/White-Whale-Defi-Platform/white-whale-frontend/main/public/logos/shd.svg"
+    "origin_chain_id": "secret-4",
+    "origin_id": "secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm",
+    "type": "ibc"
   },
   {
     "id": "ibc/6E5BF71FE1BEBBD648C8A7CB7A790AEF0081120B2E5746E6563FC95764716D61",
-    "name": "WBTC",
-    "symbol": "WBTC",
-    "decimals": "8",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZFNUJGNzFGRTFCRUJCRDY0OEM4QTdDQjdBNzkwQUVGMDA4MTEyMEIyRTU3NDZFNjU2M0ZDOTU3NjQ3MTZENjE%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZFNUJGNzFGRTFCRUJCRDY0OEM4QTdDQjdBNzkwQUVGMDA4MTEyMEIyRTU3NDZFNjU2M0ZDOTU3NjQ3MTZENjE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.png"
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
+    "type": "ibc"
   },
   {
     "id": "ibc/721B42229246EEDA7A656DB17E494127F91E84AD63E21852737628321892A928",
-    "name": "WIND",
-    "symbol": "WIND",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzcyMUI0MjIyOTI0NkVFREE3QTY1NkRCMTdFNDk0MTI3RjkxRTg0QUQ2M0UyMTg1MjczNzYyODMyMTg5MkE5Mjg%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzcyMUI0MjIyOTI0NkVFREE3QTY1NkRCMTdFNDk0MTI3RjkxRTg0QUQ2M0UyMTg1MjczNzYyODMyMTg5MkE5Mjg%3D&pagination.limit=1"
+    "origin_chain_id": "juno-1",
+    "origin_id": "factory/juno1h6y8tkceau4d8zyv5aa0fwdj2pa2y0gz2hx0tq/uwind",
+    "type": "ibc"
   },
   {
     "id": "ibc/80E8F826480B995AE28C1EE86106C1BE2034FF1966579D29951CF61885458040",
-    "name": "axlUSDC",
-    "symbol": "axlUSDC",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzgwRThGODI2NDgwQjk5NUFFMjhDMUVFODYxMDZDMUJFMjAzNEZGMTk2NjU3OUQyOTk1MUNGNjE4ODU0NTgwNDA%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzgwRThGODI2NDgwQjk5NUFFMjhDMUVFODYxMDZDMUJFMjAzNEZGMTk2NjU3OUQyOTk1MUNGNjE4ODU0NTgwNDA%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdc",
+    "type": "ibc"
   },
   {
     "id": "ibc/B1BD4EF49A2E051EFC85E8C6A932B559CE62F9519E0E83BE29A8F0BDF89BD1D3",
-    "name": "Frogztrik NFT Token",
-    "symbol": "FROG",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IxQkQ0RUY0OUEyRTA1MUVGQzg1RThDNkE5MzJCNTU5Q0U2MkY5NTE5RTBFODNCRTI5QThGMEJERjg5QkQxRDM%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IxQkQ0RUY0OUEyRTA1MUVGQzg1RThDNkE5MzJCNTU5Q0U2MkY5NTE5RTBFODNCRTI5QThGMEJERjg5QkQxRDM%3D&pagination.limit=1"
+    "origin_chain_id": "columbus-5",
+    "origin_id": "terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9",
+    "type": "ibc"
   },
   {
     "id": "ibc/B65E189D3168DB40C88C6A6C92CA3D3BB0A8B6310325D4C43AB5702F06ECD60B",
-    "name": "WBTC",
-    "symbol": "WBTC.axl",
-    "decimals": "8",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I2NUUxODlEMzE2OERCNDBDODhDNkE2QzkyQ0EzRDNCQjBBOEI2MzEwMzI1RDRDNDNBQjU3MDJGMDZFQ0Q2MEI%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I2NUUxODlEMzE2OERCNDBDODhDNkE2QzkyQ0EzRDNCQjBBOEI2MzEwMzI1RDRDNDNBQjU3MDJGMDZFQ0Q2MEI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png"
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wbtc-satoshi",
+    "type": "ibc"
   },
   {
     "id": "ibc/BC5C0BAFD19A5E4133FDA0F3E04AE1FBEE75A4A226554B2CBB021089FF2E1F8A",
-    "name": "USDC",
-    "symbol": "USDC",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JDNUMwQkFGRDE5QTVFNDEzM0ZEQTBGM0UwNEFFMUZCRUU3NUE0QTIyNjU1NEIyQ0JCMDIxMDg5RkYyRTFGOEE%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JDNUMwQkFGRDE5QTVFNDEzM0ZEQTBGM0UwNEFFMUZCRUU3NUE0QTIyNjU1NEIyQ0JCMDIxMDg5RkYyRTFGOEE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+    "origin_chain_id": "noble-1",
+    "origin_id": "uusdc",
+    "type": "ibc"
   },
   {
     "id": "ibc/E49A6D116739E0920F8F2D68A8F0A8E07DC272FA1421F70CAD738463AA296724",
-    "name": "PLNK",
-    "symbol": "PLNK",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0OUE2RDExNjczOUUwOTIwRjhGMkQ2OEE4RjBBOEUwN0RDMjcyRkExNDIxRjcwQ0FENzM4NDYzQUEyOTY3MjQ%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0OUE2RDExNjczOUUwOTIwRjhGMkQ2OEE4RjBBOEUwN0RDMjcyRkExNDIxRjcwQ0FENzM4NDYzQUEyOTY3MjQ%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/PLNK_drk.png"
+    "origin_chain_id": "kaiyo-1",
+    "origin_id": "factory/kujira166ysf07ze5suazfzj0r05tv8amk2yn8zvsfuu7/uplnk",
+    "type": "ibc"
   },
   {
     "id": "ibc/E54A0C1E4A2A79FD4F92765F68E38939867C3DA36E2EA6BBB2CE81C43F4C8ADC",
-    "name": "boneWHALEt",
-    "symbol": "boneWHALEt",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U1NEEwQzFFNEEyQTc5RkQ0RjkyNzY1RjY4RTM4OTM5ODY3QzNEQTM2RTJFQTZCQkIyQ0U4MUM0M0Y0QzhBREM%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U1NEEwQzFFNEEyQTc5RkQ0RjkyNzY1RjY4RTM4OTM5ODY3QzNEQTM2RTJFQTZCQkIyQ0U4MUM0M0Y0QzhBREM%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/bonewhalet.svg"
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "factory/terra10j3zrymfrkta2pxe0gklc79gu06tqyuy8c3kh6tqdsrrprsjqkrqzfl4df/boneWHALEt",
+    "type": "ibc"
   },
   {
     "id": "ibc/EA459CE57199098BA5FFDBD3194F498AA78439328A92C7D136F06A5220903DA6",
-    "name": "ampWHALEt",
-    "symbol": "ampWHALEt",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VBNDU5Q0U1NzE5OTA5OEJBNUZGREJEMzE5NEY0OThBQTc4NDM5MzI4QTkyQzdEMTM2RjA2QTUyMjA5MDNEQTY%3D&pagination.limit=1",
-    "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VBNDU5Q0U1NzE5OTA5OEJBNUZGREJEMzE5NEY0OThBQTc4NDM5MzI4QTkyQzdEMTM2RjA2QTUyMjA5MDNEQTY%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/ampwhalet.svg"
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "factory/terra1j35ta0llaxcf55auv2cjqau5a7aee6g8fz7md7my7005cvh23jfsaw83dy/ampWHALEt",
+    "type": "ibc"
   },
   {
     "id": "uwhale",

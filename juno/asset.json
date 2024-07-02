@@ -340,269 +340,151 @@
   },
   {
     "id": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
+    "origin_chain_id": "bitsong-2b",
+    "origin_id": "ubtsg",
     "entity": "BitSong",
-    "name": "BitSong",
-    "symbol": "BTSG",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAwOEJGRDAwMEExMEJDRTVGMEQ0REQ4MTlBRTFDMUVDMjk0MjM5NjA2MkRBQkRENkFFNjRBNjU1QUJDNzA4NUI%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAwOEJGRDAwMEExMEJDRTVGMEQ0REQ4MTlBRTFDMUVDMjk0MjM5NjA2MkRBQkRENkFFNjRBNjU1QUJDNzA4NUI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/btsg.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/bitsong",
-    "coingecko": "https://www.coingecko.com/en/coins/bitsong"
+    "type": "ibc"
   },
   {
     "id": "ibc/01BAE2E69D02670B22758FBA74E4114B6E88FC1878936C919DA345E6C6C92ABF",
-    "name": "bWHALE",
-    "symbol": "bWHALE",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAxQkFFMkU2OUQwMjY3MEIyMjc1OEZCQTc0RTQxMTRCNkU4OEZDMTg3ODkzNkM5MTlEQTM0NUU2QzZDOTJBQkY%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAxQkFFMkU2OUQwMjY3MEIyMjc1OEZCQTc0RTQxMTRCNkU4OEZDMTg3ODkzNkM5MTlEQTM0NUU2QzZDOTJBQkY%3D&pagination.limit=1",
-    "icon": "https://i.ibb.co/0Bpqb3b/image.png"
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
+    "type": "ibc"
   },
   {
     "id": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9",
+    "origin_chain_id": "bitcanna-1",
+    "origin_id": "ubcna",
     "entity": "BitCanna",
-    "name": "BitCanna",
-    "symbol": "BCNA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBDQjVENjBFNTdGRDUyMUZBMzlEMTFFM0U0MTAxNDQzODkwMTBBQzVFRjVGMjkyQkM5QkREODMyRkEyRkRCRjk%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBDQjVENjBFNTdGRDUyMUZBMzlEMTFFM0U0MTAxNDQzODkwMTBBQzVFRjVGMjkyQkM5QkREODMyRkEyRkRCRjk%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bcna.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/bitcanna",
-    "coingecko": "https://www.coingecko.com/en/coins/bitcanna"
+    "type": "ibc"
   },
   {
     "id": "ibc/107D152BB3176FAEBF4C2A84C5FFDEEA7C7CB4FE1BBDAB710F1FD25BCD055CBF",
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "uluna",
     "entity": "Terra Money",
-    "name": "Luna",
-    "symbol": "LUNA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwN0QxNTJCQjMxNzZGQUVCRjRDMkE4NEM1RkZERUVBN0M3Q0I0RkUxQkJEQUI3MTBGMUZEMjVCQ0QwNTVDQkY%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwN0QxNTJCQjMxNzZGQUVCRjRDMkE4NEM1RkZERUVBN0M3Q0I0RkUxQkJEQUI3MTBGMUZEMjVCQ0QwNTVDQkY%3D&pagination.limit=1",
-    "icon": "https://assets.terra.money/icon/svg/Luna.svg"
+    "type": "ibc"
   },
   {
     "id": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "uusd",
     "entity": "Terra Money",
-    "name": "Terra UST Classic",
-    "symbol": "USTC",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJEQTQxMzY0NTc4MTBCQ0I5REFBQjYyMENBNjdCQzM0MkIxN0MzQzcwMTUxQ0E3MDQ5MEExNzBERjdDOUNCMjc%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJEQTQxMzY0NTc4MTBCQ0I5REFBQjYyMENBNjdCQzM0MkIxN0MzQzcwMTUxQ0E3MDQ5MEExNzBERjdDOUNCMjc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/ustc.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd",
-    "coingecko": "https://www.coingecko.com/en/coins/terraclassicusd"
+    "type": "ibc"
   },
   {
     "id": "ibc/2F7C2A3D5D42553ED46F57D8B0DE3733B1B5FF571E2C6A051D34525904B4C0AF",
-    "name": "ampWHALE",
-    "symbol": "ampWHALE",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGN0MyQTNENUQ0MjU1M0VENDZGNTdEOEIwREUzNzMzQjFCNUZGNTcxRTJDNkEwNTFEMzQ1MjU5MDRCNEMwQUY%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGN0MyQTNENUQ0MjU1M0VENDZGNTdEOEIwREUzNzMzQjFCNUZGNTcxRTJDNkEwNTFEMzQ1MjU5MDRCNEMwQUY%3D&pagination.limit=1",
-    "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
+    "type": "ibc"
   },
   {
     "id": "ibc/3A6ADE78FB8169C034C29C4F2E1A61CE596EC8235366F22381D981A98F1F5A5C",
-    "name": "WHALE",
-    "symbol": "WHALE",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNBNkFERTc4RkI4MTY5QzAzNEMyOUM0RjJFMUE2MUNFNTk2RUM4MjM1MzY2RjIyMzgxRDk4MUE5OEYxRjVBNUM%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNBNkFERTc4RkI4MTY5QzAzNEMyOUM0RjJFMUE2MUNFNTk2RUM4MjM1MzY2RjIyMzgxRDk4MUE5OEYxRjVBNUM%3D&pagination.limit=1",
-    "icon": "https://app.whitewhale.money/logos/whale.svg"
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "uwhale",
+    "type": "ibc"
   },
   {
     "id": "ibc/52423136339C1CE8C91F6A586DFE41591BDDD4665AE526DFFA8421F9ACF95196",
+    "origin_chain_id": "emoney-3",
+    "origin_id": "ungm",
     "entity": "e-Money",
-    "name": "e-Money",
-    "symbol": "NGM",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUyNDIzMTM2MzM5QzFDRThDOTFGNkE1ODZERkU0MTU5MUJEREQ0NjY1QUU1MjZERkZBODQyMUY5QUNGOTUxOTY%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUyNDIzMTM2MzM5QzFDRThDOTFGNkE1ODZERkU0MTU5MUJEREQ0NjY1QUU1MjZERkZBODQyMUY5QUNGOTUxOTY%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/ngm.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/e-money-coin",
-    "coingecko": "https://www.coingecko.com/en/coins/e-money"
+    "type": "ibc"
   },
   {
     "id": "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F",
-    "name": "Asset Mantle",
-    "symbol": "MNTL",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDQjkwNkU4MkI3QTg4RTYyNjQ0QUQ4MTEzNjFGNTg1OEI3NEJBOUVCRDc1Qzg0QjZEMjRCMjBDMDFBNDgxOUY%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDQjkwNkU4MkI3QTg4RTYyNjQ0QUQ4MTEzNjFGNTg1OEI3NEJBOUVCRDc1Qzg0QjZEMjRCMjBDMDFBNDgxOUY%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
+    "origin_chain_id": "mantle-1",
+    "origin_id": "umntl",
+    "type": "ibc"
   },
   {
     "id": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A",
+    "origin_chain_id": "dig-1",
+    "origin_id": "udig",
     "entity": "Dig Chain",
-    "name": "Dig Chain",
-    "symbol": "DIG",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY4NDJDNTkxREM0NTg4NDExQTU2NUM5RkY2NTBGQjE1QTE3REZFM0YwQTQzMjAxRTgxNDFFNEQxNEI4RDE3MUE%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY4NDJDNTkxREM0NTg4NDExQTU2NUM5RkY2NTBGQjE1QTE3REZFM0YwQTQzMjAxRTgxNDFFNEQxNEI4RDE3MUE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/dig.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/dig-chain",
-    "coingecko": "https://www.coingecko.com/en/coins/dig-chain"
+    "type": "ibc"
   },
   {
     "id": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898",
+    "origin_chain_id": "core-1",
+    "origin_id": "uxprt",
     "entity": "Persistence",
-    "name": "Persistence",
-    "symbol": "XPRT",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc0NTVCM0YyRjI3Mzc5MDZCQUNGNEFFOTgwMDY5QTRDQUI3QzdGOUZEQUFCQUVGQkE0MzlERjAzN0FFQzU4OTg%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc0NTVCM0YyRjI3Mzc5MDZCQUNGNEFFOTgwMDY5QTRDQUI3QzdGOUZEQUFCQUVGQkE0MzlERjAzN0FFQzU4OTg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/persistence",
-    "coingecko": "https://www.coingecko.com/en/coins/persistence"
+    "type": "ibc"
   },
   {
     "id": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "uluna",
     "entity": "Terra Money",
-    "name": "Terra Classic",
-    "symbol": "LUNC",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhGODY1RDk3NjBCNDgyRkY2MjU0RURGRUMxRkYyRjEyNzNCOUFCNjg3M0E3REU0ODRGODk2Mzk3OTVENzNENzU%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhGODY1RDk3NjBCNDgyRkY2MjU0RURGRUMxRkYyRjEyNzNCOUFCNjg3M0E3REU0ODRGODk2Mzk3OTVENzNENzU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/lunc.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna",
-    "coingecko": "https://www.coingecko.com/en/coins/terra-luna-classic"
+    "type": "ibc"
   },
   {
     "id": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0",
+    "origin_chain_id": "comdex-1",
+    "origin_id": "ucmdx",
     "entity": "Comdex",
-    "name": "Comdex",
-    "symbol": "CMDX",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0NkFEOTZGMjc4NzcwNTIxNTI2RDcyODNGNTgyNjhEQTJGNkFDRERFNDAzMjRBOUQxQzg2ODExRDc4Qzg2QTA%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0NkFEOTZGMjc4NzcwNTIxNTI2RDcyODNGNTgyNjhEQTJGNkFDRERFNDAzMjRBOUQxQzg2ODExRDc4Qzg2QTA%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/cmdx.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/comdex",
-    "coingecko": "https://www.coingecko.com/en/coins/comdex"
+    "type": "ibc"
   },
   {
     "id": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD",
+    "origin_chain_id": "secret-4",
+    "origin_id": "uscrt",
     "entity": "Secret Network",
-    "name": "Secret",
-    "symbol": "SCRT",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I1NUIwOEVGMzY2N0IwQzZGMDI5QzJDQzlDQUE2QjAwNzg4Q0Y2MzlFQkI4NEIzNDgxOEM4NUNCQUJBMzNBQkQ%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I1NUIwOEVGMzY2N0IwQzZGMDI5QzJDQzlDQUE2QjAwNzg4Q0Y2MzlFQkI4NEIzNDgxOEM4NUNCQUJBMzNBQkQ%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/scrt.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/secret",
-    "coingecko": "https://www.coingecko.com/en/coins/secret"
+    "type": "ibc"
   },
   {
     "id": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C",
+    "origin_chain_id": "emoney-3",
+    "origin_id": "eeur",
     "entity": "e-Money",
-    "name": "e-Money EUR",
-    "symbol": "EEUR",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I5RjdDMUU0Q0U5MjE5QjVBRjA2QzQ3QjE4NjYxREJENDlDQ0Q3QTZDMThGRjc4OUUyRkI2MkJCMzY1Q0ZGOUM%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I5RjdDMUU0Q0U5MjE5QjVBRjA2QzQ3QjE4NjYxREJENDlDQ0Q3QTZDMThGRjc4OUUyRkI2MkJCMzY1Q0ZGOUM%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/eeur.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/e-money",
-    "coingecko": "https://www.coingecko.com/en/coins/e-money-eur"
+    "type": "ibc"
   },
   {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
     "entity": "Cosmos",
-    "name": "Atom",
-    "symbol": "ATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
-    "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
+    "type": "ibc"
   },
   {
     "id": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241",
+    "origin_chain_id": "chihuahua-1",
+    "origin_id": "uhuahua",
     "entity": "Chihuahua",
-    "name": "Chihuahua",
-    "symbol": "HUAHUA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4MzZCMTkxQ0RBRThFREFDREVCRTdCNjRCNTA0QzVFMDZDQzE3QzZBMDcyREFGMjc4RjlBOTZERjY2RjYyNDE%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4MzZCMTkxQ0RBRThFREFDREVCRTdCNjRCNTA0QzVFMDZDQzE3QzZBMDcyREFGMjc4RjlBOTZERjY2RjYyNDE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/huahua.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/chihuahua-wtf",
-    "coingecko": "https://www.coingecko.com/en/coins/chihuahua-chain"
+    "type": "ibc"
   },
   {
     "id": "ibc/D8D6271EC54E3A96C6B9FB6C2BA9E99692B07CEB42754638029657072EA48337",
-    "name": "RAC",
-    "symbol": "RAC",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4RDYyNzFFQzU0RTNBOTZDNkI5RkI2QzJCQTlFOTk2OTJCMDdDRUI0Mjc1NDYzODAyOTY1NzA3MkVBNDgzMzc%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4RDYyNzFFQzU0RTNBOTZDNkI5RkI2QzJCQTlFOTk2OTJCMDdDRUI0Mjc1NDYzODAyOTY1NzA3MkVBNDgzMzc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg"
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac",
+    "type": "ibc"
   },
   {
     "id": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A",
+    "origin_chain_id": "akashnet-2",
+    "origin_id": "uakt",
     "entity": "Akash Network",
-    "name": "Akash Network",
-    "symbol": "AKT",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RGQzZGMzM3OTZENUQwMDc1QzVGQjU0QTREN0I4RTc2OTE1QUNGNDM0Q0IxRUUyQTFCQTBCQjgzMzRFMTdDM0E%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RGQzZGMzM3OTZENUQwMDc1QzVGQjU0QTREN0I4RTc2OTE1QUNGNDM0Q0IxRUUyQTFCQTBCQjgzMzRFMTdDM0E%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/akt.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/akash-network",
-    "coingecko": "https://www.coingecko.com/en/coins/akash-network"
+    "type": "ibc"
   },
   {
     "id": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
-    "name": "USDC",
-    "symbol": "USDC",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VBQzM4RDU1MzcyRjM4RjFBRkQ2OERGN0ZFOUVGNzYyRENGNjlGMjY1MjA2NDNDRjNGOUQyOTJBNzM4RDgwMzQ%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VBQzM4RDU1MzcyRjM4RjFBRkQ2OERGN0ZFOUVGNzYyRENGNjlGMjY1MjA2NDNDRjNGOUQyOTJBNzM4RDgwMzQ%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/axlusdc.png"
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdc",
+    "type": "ibc"
   },
   {
     "id": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "uosmo",
     "entity": "Osmosis",
-    "name": "Osmosis",
-    "symbol": "OSMO",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VEMDdBMzM5MUExMTJCMTc1OTE1Q0Q4RkFGNDNBMkRBOEU0NzkwRURFMTI1NjY2NDlEMEMyRjk3NzE2Qjg1MTg%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VEMDdBMzM5MUExMTJCMTc1OTE1Q0Q4RkFGNDNBMkRBOEU0NzkwRURFMTI1NjY2NDlEMEMyRjk3NzE2Qjg1MTg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
-    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
+    "type": "ibc"
   },
   {
     "id": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885",
+    "origin_chain_id": "stargaze-1",
+    "origin_id": "ustars",
     "entity": "Stargaze",
-    "name": "Stargaze",
-    "symbol": "STARS",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y2QjM2NzM4NTMwMDg2NUY2NTRFMTEwOTc2QjgzODUwMjUwNDIzMTcwNUJBQzA4NDlCMDY1MUMyMjYzODU4ODU%3D&pagination.limit=1",
-    "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y2QjM2NzM4NTMwMDg2NUY2NTRFMTEwOTc2QjgzODUwMjUwNDIzMTcwNUJBQzA4NDlCMDY1MUMyMjYzODU4ODU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/stars.png",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/stargaze/",
-    "coingecko": "https://www.coingecko.com/en/coins/stargaze"
+    "type": "ibc"
   },
   {
     "id": "juno10gthz5ufgrpuk5cscve2f0hjp56wgp90psqxcrqlg4m9mcu9dh8q4864xy",
