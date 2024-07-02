@@ -1,104 +1,171 @@
 [
   {
     "id": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
-    "origin_chain_id": "osmosis-1",
-    "origin_id": "uosmo",
     "entity": "Osmosis",
-    "type": "ibc"
+    "name": "Osmosis",
+    "symbol": "OSMO",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA0NzFGMUM0RTdBRkQzRjA3NzAyQkVGNkRDMzY1MjY4RDY0NTcwRjdDMUZEQzk4RUE2MDk4REQ2REU1OTgxN0I%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA0NzFGMUM0RTdBRkQzRjA3NzAyQkVGNkRDMzY1MjY4RDY0NTcwRjdDMUZEQzk4RUE2MDk4REQ2REU1OTgxN0I%3D&pagination.limit=1",
+    "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
+    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
     "id": "ibc/077EE5F87CE5CD419436D26533329BDC7BEE6850AD64BC316486B0DCCB13C0EB",
-    "origin_chain_id": "migaloo-1",
-    "origin_id": "uwhale",
-    "type": "ibc"
+    "name": "Whale",
+    "symbol": "WHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA3N0VFNUY4N0NFNUNENDE5NDM2RDI2NTMzMzI5QkRDN0JFRTY4NTBBRDY0QkMzMTY0ODZCMERDQ0IxM0MwRUI%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA3N0VFNUY4N0NFNUNENDE5NDM2RDI2NTMzMzI5QkRDN0JFRTY4NTBBRDY0QkMzMTY0ODZCMERDQ0IxM0MwRUI%3D&pagination.limit=1",
+    "icon": "https://app.whitewhale.money/logos/whale.svg"
   },
   {
     "id": "ibc/18ABA66B791918D51D33415DA173632735D830E2E77E63C91C11D3008CFD5262",
-    "origin_chain_id": "cosmoshub-4",
-    "origin_id": "uatom",
     "entity": "Cosmos",
-    "type": "ibc"
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE4QUJBNjZCNzkxOTE4RDUxRDMzNDE1REExNzM2MzI3MzVEODMwRTJFNzdFNjNDOTFDMTFEMzAwOENGRDUyNjI%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE4QUJBNjZCNzkxOTE4RDUxRDMzNDE1REExNzM2MzI3MzVEODMwRTJFNzdFNjNDOTFDMTFEMzAwOENGRDUyNjI%3D&pagination.limit=1",
+    "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
     "id": "ibc/386A4031D68DE6370B85F9FF7E89CEF8DE7CDE01CC193CBD87BD3ED60F6662CE",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "uusdt",
-    "type": "ibc"
+    "name": "Axelar USD Tether",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4NkE0MDMxRDY4REU2MzcwQjg1RjlGRjdFODlDRUY4REU3Q0RFMDFDQzE5M0NCRDg3QkQzRUQ2MEY2NjYyQ0U%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4NkE0MDMxRDY4REU2MzcwQjg1RjlGRjdFODlDRUY4REU3Q0RFMDFDQzE5M0NCRDg3QkQzRUQ2MEY2NjYyQ0U%3D&pagination.limit=1",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/axlUSDT.svg"
   },
   {
     "id": "ibc/45368D217CE1F76A1214FA6F1F31493B5F127793E6AB4873B39A81A8CE21A18E",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "wmatic-wei",
-    "type": "ibc"
+    "name": "Axelar Matic",
+    "symbol": "MATIC",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1MzY4RDIxN0NFMUY3NkExMjE0RkE2RjFGMzE0OTNCNUYxMjc3OTNFNkFCNDg3M0IzOUE4MUE4Q0UyMUExOEU%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1MzY4RDIxN0NFMUY3NkExMjE0RkE2RjFGMzE0OTNCNUYxMjc3OTNFNkFCNDg3M0IzOUE4MUE4Q0UyMUExOEU%3D&pagination.limit=1",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/axlMATIC.svg"
   },
   {
     "id": "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
-    "origin_chain_id": "gravity-bridge-3",
-    "origin_id": "ugraviton",
     "entity": "Cosmos",
-    "type": "ibc"
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY0QjNFRkUwOEE2QTNFRjVEMkE3RjFEM0FGMDMzRERDOTUxREE1MUY5MkUwNkNDMzFEM0Y5QUY4RTgzNjg4NjA%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY0QjNFRkUwOEE2QTNFRjVEMkE3RjFEM0FGMDMzRERDOTUxREE1MUY5MkUwNkNDMzFEM0Y5QUY4RTgzNjg4NjA%3D&pagination.limit=1",
+    "icon": "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
   },
   {
     "id": "ibc/73A56F04D27FC4CCF6F75C7516A9698B7411E1CE763E240C8A29A50404F86B53",
-    "origin_chain_id": "gravity-bridge-3",
-    "origin_id": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "type": "ibc"
+    "name": "Gravity Bridge Wrapped USDC",
+    "symbol": "gbUSDC",
+    "decimals": "0",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzczQTU2RjA0RDI3RkM0Q0NGNkY3NUM3NTE2QTk2OThCNzQxMUUxQ0U3NjNFMjQwQzhBMjlBNTA0MDRGODZCNTM%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzczQTU2RjA0RDI3RkM0Q0NGNkY3NUM3NTE2QTk2OThCNzQxMUUxQ0U3NjNFMjQwQzhBMjlBNTA0MDRGODZCNTM%3D&pagination.limit=1",
+    "icon": "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg"
   },
   {
     "id": "ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "wbtc-satoshi",
-    "type": "ibc"
+    "name": "Axelar Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxMUI3MjFGMTVBNDBBQkIyOTYzNkNCRjhBRTYzMDA3NkRERjYyODQxQUNFN0U2RDg3OTQwNUNBODg3MENFQTI%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxMUI3MjFGMTVBNDBBQkIyOTYzNkNCRjhBRTYzMDA3NkRERjYyODQxQUNFN0U2RDg3OTQwNUNBODg3MENFQTI%3D&pagination.limit=1",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/axlWBTC.svg"
   },
   {
     "id": "ibc/9B68CC79EFF12D25AF712EB805C5062B8F97B2CCE5F3FE55B107EE03095514A3",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "weth-wei",
-    "type": "ibc"
+    "name": "Axelar Wrapped Ethereum",
+    "symbol": "WETH",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlCNjhDQzc5RUZGMTJEMjVBRjcxMkVCODA1QzUwNjJCOEY5N0IyQ0NFNUYzRkU1NUIxMDdFRTAzMDk1NTE0QTM%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlCNjhDQzc5RUZGMTJEMjVBRjcxMkVCODA1QzUwNjJCOEY5N0IyQ0NFNUYzRkU1NUIxMDdFRTAzMDk1NTE0QTM%3D&pagination.limit=1",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/axlETH.svg"
   },
   {
     "id": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
-    "origin_chain_id": "kaiyo-1",
-    "origin_id": "ukuji",
     "entity": "Kujira",
-    "type": "ibc"
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyMkI0REQyMTU4Njk2NURBRUY0MkE3NjAwQkEzNzFFQTc3QzAyRTkwRkM4QTdGMjMzMEJGOUY5REUxMjlCMDc%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyMkI0REQyMTU4Njk2NURBRUY0MkE3NjAwQkEzNzFFQTc3QzAyRTkwRkM4QTdGMjMzMEJGOUY5REUxMjlCMDc%3D&pagination.limit=1",
+    "icon": "https://assets.terra.money/icon/svg/ibc/KUJI.svg"
   },
   {
     "id": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "uusdc",
-    "type": "ibc"
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UxRTM2NzRBMEU0RTFFRjlDNjk2NDZGOUFGOEQ5NDk3MTczODIxODI2MDc0NjIyRDgzMUJBQjczQ0NCOTlBMkQ%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UxRTM2NzRBMEU0RTFFRjlDNjk2NDZGOUFGOEQ5NDk3MTczODIxODI2MDc0NjIyRDgzMUJBQjczQ0NCOTlBMkQ%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/USDC.svg"
   },
   {
     "id": "ibc/E6773A970EA824CA7E62467098506762DAD69083BB71CB1603337D9F1A8CF123",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "arb-wei",
-    "type": "ibc"
+    "name": "Axelar Arbitrum",
+    "symbol": "ARB",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U2NzczQTk3MEVBODI0Q0E3RTYyNDY3MDk4NTA2NzYyREFENjkwODNCQjcxQ0IxNjAzMzM3RDlGMUE4Q0YxMjM%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U2NzczQTk3MEVBODI0Q0E3RTYyNDY3MDk4NTA2NzYyREFENjkwODNCQjcxQ0IxNjAzMzM3RDlGMUE4Q0YxMjM%3D&pagination.limit=1",
+    "icon": "https://assets.terra.dev/icon/svg/ibc/ARB.svg"
   },
   {
     "id": "ibc/EB2CED20AB0466F18BE49285E56B31306D4C60438A022EA995BA65D5E3CF7E09",
-    "origin_chain_id": "secret-4",
-    "origin_id": "uscrt",
     "entity": "Secret Network",
-    "type": "ibc"
+    "name": "Secret",
+    "symbol": "SCRT",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VCMkNFRDIwQUIwNDY2RjE4QkU0OTI4NUU1NkIzMTMwNkQ0QzYwNDM4QTAyMkVBOTk1QkE2NUQ1RTNDRjdFMDk%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VCMkNFRDIwQUIwNDY2RjE4QkU0OTI4NUU1NkIzMTMwNkQ0QzYwNDM4QTAyMkVBOTk1QkE2NUQ1RTNDRjdFMDk%3D&pagination.limit=1",
+    "icon": "https://assets.terra.money/icon/60/SCRT.png",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
+    "coingecko": "https://www.coingecko.com/en/coins/secret"
   },
   {
     "id": "ibc/F4B1551A3470D93A725460F109FB57990702B703790D8A21C7DC66AEF3BACBF4",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "wbnb-wei",
-    "type": "ibc"
+    "name": "Axelar BNB",
+    "symbol": "BNB",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0QjE1NTFBMzQ3MEQ5M0E3MjU0NjBGMTA5RkI1Nzk5MDcwMkI3MDM3OTBEOEEyMUM3REM2NkFFRjNCQUNCRjQ%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0QjE1NTFBMzQ3MEQ5M0E3MjU0NjBGMTA5RkI1Nzk5MDcwMkI3MDM3OTBEOEEyMUM3REM2NkFFRjNCQUNCRjQ%3D&pagination.limit=1",
+    "icon": "https://assets.terra.dev/icon/thorswap/BNB.svg"
   },
   {
     "id": "ibc/FA0006F056DB6719B8C16C551FC392B62F5729978FC0B125AC9A432DBB2AA1A5",
-    "origin_chain_id": "cosmoshub-4",
-    "origin_id": "uatom",
-    "type": "ibc"
+    "name": "Atom",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBMDAwNkYwNTZEQjY3MTlCOEMxNkM1NTFGQzM5MkI2MkY1NzI5OTc4RkMwQjEyNUFDOUE0MzJEQkIyQUExQTU%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBMDAwNkYwNTZEQjY3MTlCOEMxNkM1NTFGQzM5MkI2MkY1NzI5OTc4RkMwQjEyNUFDOUE0MzJEQkIyQUExQTU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/ATOM.svg"
   },
   {
     "id": "ibc/FA7775734CC73176B7425910DE001A1D2AD9B6D9E93129A5D0750EAD13E4E63A",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "uusdc",
-    "type": "ibc"
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzc3NTczNENDNzMxNzZCNzQyNTkxMERFMDAxQTFEMkFEOUI2RDlFOTMxMjlBNUQwNzUwRUFEMTNFNEU2M0E%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzc3NTczNENDNzMxNzZCNzQyNTkxMERFMDAxQTFEMkFEOUI2RDlFOTMxMjlBNUQwNzUwRUFEMTNFNEU2M0E%3D&pagination.limit=1"
   },
   {
     "id": "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",

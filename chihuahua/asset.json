@@ -1128,45 +1128,93 @@
   },
   {
     "id": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
-    "origin_chain_id": "migaloo-1",
-    "origin_id": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
-    "type": "ibc"
+    "name": "ampWHALE",
+    "symbol": "ampWHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFBQkM1M0IyQkI1Rjc2RjVERTU3RjZBNjY0MERBQzEwMEY1RDA3ODA3NTc2ODExNUZDM0I4RTgzQzU0RkQ5RkY%3D&pagination.limit=1",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFBQkM1M0IyQkI1Rjc2RjVERTU3RjZBNjY0MERBQzEwMEY1RDA3ODA3NTc2ODExNUZDM0I4RTgzQzU0RkQ5RkY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/ampwhale.svg"
   },
   {
     "id": "ibc/6BB4ADB45B1903AE497710FBC24E73C2C578A79D25EF923BD2E784A7FD0FC59F",
-    "origin_chain_id": "phoenix-1",
-    "origin_id": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
-    "type": "ibc"
+    "name": "ROAR",
+    "symbol": "ROAR",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZCQjRBREI0NUIxOTAzQUU0OTc3MTBGQkMyNEU3M0MyQzU3OEE3OUQyNUVGOTIzQkQyRTc4NEE3RkQwRkM1OUY%3D&pagination.limit=1",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZCQjRBREI0NUIxOTAzQUU0OTc3MTBGQkMyNEU3M0MyQzU3OEE3OUQyNUVGOTIzQkQyRTc4NEE3RkQwRkM1OUY%3D&pagination.limit=1",
+    "icon": "https://i.ibb.co/99v191f/image.png"
+  },
+  {
+    "id": "ibc/91532E23037BBEBC1FA05D1D6A79AE3479A4B51A4CABA6C28E15EC24206FD50F",
+    "name": "Shiba",
+    "symbol": "SHIB",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxNTMyRTIzMDM3QkJFQkMxRkEwNUQxRDZBNzlBRTM0NzlBNEI1MUE0Q0FCQTZDMjhFMTVFQzI0MjA2RkQ1MEY%3D&pagination.limit=1",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxNTMyRTIzMDM3QkJFQkMxRkEwNUQxRDZBNzlBRTM0NzlBNEI1MUE0Q0FCQTZDMjhFMTVFQzI0MjA2RkQ1MEY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/shib.svg"
+  },
+  {
+    "id": "ibc/B0E35908659CC1C74966C2A868B2A553CBB7E3A6C42A1F3BEA311E3C17FD81EF",
+    "name": "DOGE",
+    "symbol": "WDOGE",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IwRTM1OTA4NjU5Q0MxQzc0OTY2QzJBODY4QjJBNTUzQ0JCN0UzQTZDNDJBMUYzQkVBMzExRTNDMTdGRDgxRUY%3D&pagination.limit=1",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IwRTM1OTA4NjU5Q0MxQzc0OTY2QzJBODY4QjJBNTUzQ0JCN0UzQTZDNDJBMUYzQkVBMzExRTNDMTdGRDgxRUY%3D&pagination.limit=1",
+    "icon": "https://assets.terra.dev/icon/svg/DOGE.svg"
   },
   {
     "id": "ibc/C0AFA9090B2DE3B79EA0296A43CD8C3C2FDAF153CC81E90A234AB8CBB1EAD6D6",
-    "origin_chain_id": "stafihub-1",
-    "origin_id": "urhuahua",
-    "type": "ibc"
+    "name": "rHUAHUA",
+    "symbol": "rHUAHUA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MwQUZBOTA5MEIyREUzQjc5RUEwMjk2QTQzQ0Q4QzNDMkZEQUYxNTNDQzgxRTkwQTIzNEFCOENCQjFFQUQ2RDY%3D&pagination.limit=1",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MwQUZBOTA5MEIyREUzQjc5RUEwMjk2QTQzQ0Q4QzNDMkZEQUYxNTNDQzgxRTkwQTIzNEFCOENCQjFFQUQ2RDY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png"
   },
   {
     "id": "ibc/DD44CDCD7379C1550D397AE05AB87474925EB0A521A07F36298572C9F30ABEB8",
-    "origin_chain_id": "osmosis-1",
-    "origin_id": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
-    "type": "ibc"
+    "name": "Levana",
+    "symbol": "LVN",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RENDRDRENENzM3OUMxNTUwRDM5N0FFMDVBQjg3NDc0OTI1RUIwQTUyMUEwN0YzNjI5ODU3MkM5RjMwQUJFQjg%3D&pagination.limit=1",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RENDRDRENENzM3OUMxNTUwRDM5N0FFMDVBQjg3NDc0OTI1RUIwQTUyMUEwN0YzNjI5ODU3MkM5RjMwQUJFQjg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png"
   },
   {
     "id": "ibc/E452FABA9C51E85726BAB567EB582FEA1541B9D26543C6876996B61112DE72F7",
-    "origin_chain_id": "migaloo-1",
-    "origin_id": "factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
-    "type": "ibc"
+    "name": "bWHALE",
+    "symbol": "bWHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTJGQUJBOUM1MUU4NTcyNkJBQjU2N0VCNTgyRkVBMTU0MUI5RDI2NTQzQzY4NzY5OTZCNjExMTJERTcyRjc%3D&pagination.limit=1",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTJGQUJBOUM1MUU4NTcyNkJBQjU2N0VCNTgyRkVBMTU0MUI5RDI2NTQzQzY4NzY5OTZCNjExMTJERTcyRjc%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg"
   },
   {
     "id": "ibc/E45945EAF3F1587CA3013FFC6CE0B5EEE0F49DAFED2CE51370B5B6A0C3AA258E",
-    "origin_chain_id": "migaloo-1",
-    "origin_id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac",
-    "type": "ibc"
+    "name": "RAC",
+    "symbol": "RAC",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTk0NUVBRjNGMTU4N0NBMzAxM0ZGQzZDRTBCNUVFRTBGNDlEQUZFRDJDRTUxMzcwQjVCNkEwQzNBQTI1OEU%3D&pagination.limit=1",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTk0NUVBRjNGMTU4N0NBMzAxM0ZGQzZDRTBCNUVFRTBGNDlEQUZFRDJDRTUxMzcwQjVCNkEwQzNBQTI1OEU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg"
   },
   {
     "id": "ibc/FA7112322CE7656DC84D441E49BAEAB9DC0AB3C7618A178A212CDE8B3F17C70B",
-    "origin_chain_id": "migaloo-1",
-    "origin_id": "uwhale",
-    "type": "ibc"
+    "name": "WHALE",
+    "symbol": "WHALE",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzExMjMyMkNFNzY1NkRDODRENDQxRTQ5QkFFQUI5REMwQUIzQzc2MThBMTc4QTIxMkNERThCM0YxN0M3MEI%3D&pagination.limit=1",
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzExMjMyMkNFNzY1NkRDODRENDQxRTQ5QkFFQUI5REMwQUIzQzc2MThBMTc4QTIxMkNERThCM0YxN0M3MEI%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg"
   },
   {
     "id": "uhuahua",
