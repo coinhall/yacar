@@ -7,6 +7,22 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei10f8kacl49f3m2j5rsszf5d9qfq2snfspc3854p2jfld65a39jerqlgrc0n/jaja",
+    "name": "jaja",
+    "symbol": "jaja",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMGY4a2FjbDQ5ZjNtMmo1cnNzemY1ZDlxZnEyc25mc3BjMzg1NHAyamZsZDY1YTM5amVycWxncmMwbi9qYWph&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei10f8kacl49f3m2j5rsszf5d9qfq2snfspc3854p2jfld65a39jerqlgrc0n/jaja/vest",
+    "name": "jaja Vests",
+    "symbol": "jaja/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMGY4a2FjbDQ5ZjNtMmo1cnNzemY1ZDlxZnEyc25mc3BjMzg1NHAyamZsZDY1YTM5amVycWxncmMwbi9qYWphL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei10mwfmhhyr9zyfsyhl8hneu4qptxks2llgngk5t/seionara",
     "name": "Seionara",
     "symbol": "SNARA",
