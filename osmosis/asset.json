@@ -14116,13 +14116,14 @@
   },
   {
     "id": "ibc/CE5BFF1D9BADA03BB5CCA5F56939392A761B53A10FBD03B37506669C3218D3B2",
+    "entity": "Provenance",
     "name": "Provenance",
     "symbol": "HASH",
     "decimals": "9",
     "type": "ibc",
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NFNUJGRjFEOUJBREEwM0JCNUNDQTVGNTY5MzkzOTJBNzYxQjUzQTEwRkJEMDNCMzc1MDY2NjlDMzIxOEQzQjI%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NFNUJGRjFEOUJBREEwM0JCNUNDQTVGNTY5MzkzOTJBNzYxQjUzQTEwRkJEMDNCMzc1MDY2NjlDMzIxOEQzQjI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/provenance/images/hash.svg",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/provenance/images/prov.svg",
     "coingecko": "https://www.coingecko.com/en/coins/provenance-blockchain"
   },
   {
