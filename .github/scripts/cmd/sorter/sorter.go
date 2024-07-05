@@ -2,12 +2,14 @@ package sorter
 
 import (
 	"encoding/json"
-	"fmt"
 	"log"
 	"os"
+	"path/filepath"
 	"sort"
 	"strings"
 
+	"github.com/coinhall/yacar/internal/unmarshaler"
+	"github.com/coinhall/yacar/internal/walker"
 	"github.com/coinhall/yacarsdk/v2"
 )
 
@@ -17,124 +19,111 @@ func Start(filePaths []string) {
 }
 
 func sortYacarJSONs(filePaths []string) {
-	for _, filePath := range filePaths {
-		file, err := os.OpenFile(filePath, os.O_RDWR, 0644)
-		if err != nil {
-			panic(fmt.Sprintf("error while opening file: %s", err))
+	for _, fp := range filePaths {
+		fp = filepath.ToSlash(fp)
+		switch walker.MustParse(walker.TrimJsonSuffixFromFullPath(fp)) {
+		case walker.Account:
+			handleAccount(fp)
+		case walker.Asset:
+			handleAsset(fp)
+		case walker.Binary:
+			handleBinary(fp)
+		case walker.Contract:
+			handleContract(fp)
+		case walker.Entity:
+			handleEntity(fp)
+		case walker.Pool:
+			handlePool(fp)
+		default:
+			panic("unhandled case")
 		}
-		defer file.Close()
-
-		sortedJSON := sortYacarJSON(file)
-		writeYacarJSON(file, sortedJSON)
 	}
 }
 
-func sortYacarJSON(file *os.File) interface{} {
-	switch {
-	case strings.Contains(file.Name(), "account"):
-		return sortAccountJSON(file)
-	case strings.Contains(file.Name(), "asset"):
-		return sortAssetJSON(file)
-	case strings.Contains(file.Name(), "binary"):
-		return sortBinaryJSON(file)
-	case strings.Contains(file.Name(), "contract"):
-		return sortContractJSON(file)
-	case strings.Contains(file.Name(), "entity"):
-		return sortEntityJSON(file)
-	case strings.Contains(file.Name(), "pool"):
-		return sortPoolJSON(file)
-	default:
-		panic("unable to sort unknown JSON type")
+func handleAccount(fp string) {
+	accounts, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Account, 0))
+	if err != nil {
+		panic(err)
 	}
-}
-
-func sortAccountJSON(file *os.File) interface{} {
-	var accounts []yacarsdk.Account
-
-	if err := json.NewDecoder(file).Decode(&accounts); err != nil {
-		panic(fmt.Sprintf("error while decoding JSON: %s", err))
-	}
-
 	sort.Stable(yacarsdk.ByEnforcedAccountOrder(accounts))
-
-	return accounts
+	if err := writeFile(fp, accounts); err != nil {
+		panic(err)
+	}
 }
 
-func sortAssetJSON(file *os.File) interface{} {
-	var assets []yacarsdk.Asset
-
-	if err := json.NewDecoder(file).Decode(&assets); err != nil {
-		panic(fmt.Sprintf("error while decoding JSON: %s", err))
+func handleAsset(fp string) {
+	assets, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Asset, 0))
+	if err != nil {
+		panic(err)
 	}
-
 	sort.Stable(yacarsdk.ByEnforcedAssetOrder(assets))
-
-	return assets
+	if err := writeFile(fp, assets); err != nil {
+		panic(err)
+	}
 }
 
-func sortBinaryJSON(file *os.File) interface{} {
-	var binaries []yacarsdk.Binary
-
-	if err := json.NewDecoder(file).Decode(&binaries); err != nil {
-		panic(fmt.Sprintf("error while decoding JSON: %s", err))
+func handleBinary(fp string) {
+	binaries, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Binary, 0))
+	if err != nil {
+		panic(err)
 	}
-
 	sort.Stable(yacarsdk.ByEnforcedBinaryOrder(binaries))
-
-	return binaries
+	if err := writeFile(fp, binaries); err != nil {
+		panic(err)
+	}
 }
 
-func sortContractJSON(file *os.File) interface{} {
-	var contracts []yacarsdk.Contract
-
-	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
-		panic(fmt.Sprintf("error while decoding JSON: %s", err))
+func handleContract(fp string) {
+	contracts, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Contract, 0))
+	if err != nil {
+		panic(err)
 	}
-
 	sort.Stable(yacarsdk.ByEnforcedContractOrder(contracts))
-
-	return contracts
+	if err := writeFile(fp, contracts); err != nil {
+		panic(err)
+	}
 }
 
-func sortEntityJSON(file *os.File) interface{} {
-	var entities []yacarsdk.Entity
-
-	if err := json.NewDecoder(file).Decode(&entities); err != nil {
-		panic(fmt.Sprintf("error while decoding JSON: %s", err))
+func handleEntity(fp string) {
+	entities, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Entity, 0))
+	if err != nil {
+		panic(err)
 	}
-
 	sort.Stable(yacarsdk.ByEnforcedEntityOrder(entities))
-
-	return entities
+	if err := writeFile(fp, entities); err != nil {
+		panic(err)
+	}
 }
 
-func sortPoolJSON(file *os.File) interface{} {
-	var pools []yacarsdk.Pool
-
-	if err := json.NewDecoder(file).Decode(&pools); err != nil {
-		panic(fmt.Sprintf("error while decoding JSON: %s", err))
+func handlePool(fp string) {
+	pools, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Pool, 0))
+	if err != nil {
+		panic(err)
 	}
-
 	sort.Stable(yacarsdk.ByEnforcedPoolOrder(pools))
-
-	return pools
+	if err := writeFile(fp, pools); err != nil {
+		panic(err)
+	}
 }
 
-func writeYacarJSON(file *os.File, data interface{}) {
-	// Clear file
-	if err := file.Truncate(0); err != nil {
-		panic(fmt.Sprintf("error while truncating file: %s", err))
+func writeFile[T any](path string, data []T) error {
+	var sb strings.Builder
+	sbEnc := json.NewEncoder(&sb)
+	sbEnc.SetEscapeHTML(false)
+	sbEnc.SetIndent("", "  ")
+	if err := sbEnc.Encode(data); err != nil {
+		panic(err)
 	}
 
-	// Move cursor to the beginning of the file
-	if _, err := file.Seek(0, 0); err != nil {
-		panic(fmt.Sprintf("error while seeking file: %s", err))
+	parentDir := filepath.Dir(path)
+	if err := os.MkdirAll(parentDir, 0o755); err != nil {
+		return err
 	}
 
-	enc := json.NewEncoder(file)
-	enc.SetEscapeHTML(false)
-	enc.SetIndent("", "  ")
-	if err := enc.Encode(data); err != nil {
-		panic(fmt.Sprintf("error while encoding JSON: %s", err))
+	// If file exists, overwrite the contents completely
+	if err := os.WriteFile(path, []byte(sb.String()), 0o644); err != nil {
+		return err
 	}
+
+	return nil
 }
