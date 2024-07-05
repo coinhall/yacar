@@ -22105,6 +22105,15 @@
     "type": "orderbook"
   },
   {
+    "id": "0xbf94d932d1463959badee52ffbeb2eeeeeda750e655493e909ced540c375a277",
+    "asset_ids": [
+      "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
+      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
     "id": "0xbfe7d87d8cc189488fc800bfddadea0d8608e153aa588d7705ba9ab4da205de4",
     "asset_ids": [
       "factory/inj1npvrye90c9j7vfv8ldh9apt8t3a9mv9lsv52yd/KOGA",
@@ -22585,15 +22594,6 @@
     "id": "0x9b9980167ecc3645ff1a5517886652d94a0825e54a77d2057cbbe3ebee015963",
     "asset_ids": [
       "helix/INJ",
-      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    ],
-    "dex": "Helix",
-    "type": "orderbook/perp"
-  },
-  {
-    "id": "0xbf94d932d1463959badee52ffbeb2eeeeeda750e655493e909ced540c375a277",
-    "asset_ids": [
-      "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
       "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
     ],
     "dex": "Helix",

@@ -7674,12 +7674,13 @@
   },
   {
     "id": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-    "name": "USDTkv PERP",
-    "symbol": "USDTkv PERP",
+    "name": "Tether",
+    "symbol": "USDTkv",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBQkJFRjRDODkyNkREREIzMjBBRTUxODhDRkQ2MzI2N0FCQkNFRkMwNTgzRTRBRTA1RDZFNUFBMjQwMUREQUI%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBQkJFRjRDODkyNkREREIzMjBBRTUxODhDRkQ2MzI2N0FCQkNFRkMwNTgzRTRBRTA1RDZFNUFBMjQwMUREQUI%3D&pagination.limit=1"
+    "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBQkJFRjRDODkyNkREREIzMjBBRTUxODhDRkQ2MzI2N0FCQkNFRkMwNTgzRTRBRTA1RDZFNUFBMjQwMUREQUI%3D&pagination.limit=1",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/2d38ee9a-2df1-4dd0-155b-11404014bc00/public"
   },
   {
     "id": "ibc/565FE65B82C091F8BAD1379FA1B4560C036C07913355ED4BD8D156DA63F43712",
