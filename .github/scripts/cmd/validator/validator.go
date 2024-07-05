@@ -1,14 +1,13 @@
 package validator
 
 import (
-	"encoding/json"
-	"fmt"
-	"io"
+	"cmp"
 	"log"
-	"os"
 	"path/filepath"
 	"strings"
 
+	"github.com/coinhall/yacar/internal/unmarshaler"
+	"github.com/coinhall/yacar/internal/walker"
 	"github.com/coinhall/yacarsdk/v2"
 )
 
@@ -17,191 +16,181 @@ func Start(filePaths []string) {
 	log.Println("Validated JSONs successfully...")
 }
 
+type resources struct {
+	account, asset, binary, contract, entity, pool string
+}
+
 func validateYacarJSONs(filePaths []string) {
-	chainFileMap := map[string]map[string]*os.File{}
+	var err error
+	crm := getChainResources(filePaths)
+	for _, res := range crm {
+		path := cmp.Or(res.account, res.asset, res.binary, res.contract, res.entity, res.pool)
+		switch walker.MustParse(walker.TrimJsonSuffixFromFullPath(path)) {
+		case walker.Account:
+			err = handleAccount(res.account)
+		case walker.Asset:
+			err = handleAsset(res.asset, res.entity)
+		case walker.Binary:
+			err = handleBinary(res.binary)
+		case walker.Contract:
+			err = handleContract(res.contract)
+		case walker.Entity:
+			err = handleEntity(res)
+		case walker.Pool:
+			err = handlePool(res.pool)
+		default:
+			panic("unhandled case")
+		}
+
+		if err != nil {
+			panic(err)
+		}
+	}
+}
+
+func getChainResources(filePaths []string) map[string]*resources {
+	crm := map[string]*resources{}
 	for _, fp := range filePaths {
 		fp = filepath.ToSlash(fp)
-		fpElements := strings.Split(fp, "/")
-		chain := fpElements[len(fpElements)-2]
-		filetype := strings.Split(fpElements[len(fpElements)-1], ".")[0]
-		if _, ok := chainFileMap[chain]; !ok {
-			chainFileMap[chain] = map[string]*os.File{}
+		split := strings.Split(filepath.Dir(fp), "/")
+		chain := split[len(split)-1]
+		r, ok := crm[chain]
+		if !ok {
+			r = &resources{}
 		}
-
-		file, err := os.Open(fp)
-		if err != nil {
-			panic(fmt.Sprintf("error while opening file: %s", err))
+		switch walker.MustParse(walker.TrimJsonSuffixFromFullPath(fp)) {
+		case walker.Account:
+			r.account = fp
+		case walker.Asset:
+			r.asset = fp
+		case walker.Binary:
+			r.binary = fp
+		case walker.Contract:
+			r.contract = fp
+		case walker.Entity:
+			r.entity = fp
+		case walker.Pool:
+			r.pool = fp
+		default:
+			panic("unhandled case")
 		}
-		chainFileMap[chain][filetype] = file
+		crm[chain] = r
 	}
-	defer closeChainFileMaps(chainFileMap)
+	return crm
+}
 
-	if err := validateYacarJSON(chainFileMap); err != nil {
+func handleAccount(fp string) error {
+	accounts, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Account, 0))
+	if err != nil {
+		return err
+	}
+
+	_, err = yacarsdk.ValidateAccounts(accounts)
+	return err
+}
+
+func handleAsset(assetFile, entityFile string) error {
+	assets, err := unmarshaler.UnmarshalInto(assetFile, make([]yacarsdk.Asset, 0))
+	if err != nil {
+		return err
+	}
+
+	entities, err := unmarshaler.UnmarshalInto(entityFile, make([]yacarsdk.Entity, 0))
+	if err != nil {
+		return err
+	}
+
+	_, err = yacarsdk.ValidateAssets(assets, entities)
+	return err
+}
+
+// Optional
+func handleBinary(fp string) error {
+	if len(fp) == 0 {
+		return nil
+	}
+
+	binaries, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Binary, 0))
+	if err != nil {
+		return err
+	}
+
+	_, err = yacarsdk.ValidateBinaries(binaries)
+	return err
+}
+
+// Optional
+func handleContract(fp string) error {
+	if len(fp) == 0 {
+		return nil
+	}
+
+	contracts, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Contract, 0))
+	if err != nil {
 		panic(err)
 	}
-}
 
-func closeChainFileMaps(cfm map[string]map[string]*os.File) {
-	for _, fm := range cfm {
-		for _, f := range fm {
-			f.Close()
-		}
-	}
-}
-
-func validateYacarJSON(cfm map[string]map[string]*os.File) error {
-	for chain, filemap := range cfm {
-		for _, file := range filemap {
-			var err error
-			switch {
-			case strings.Contains(file.Name(), "account"):
-				err = validateAccountJSON(file)
-			case strings.Contains(file.Name(), "asset"):
-				entityFile := cfm[chain]["entity"]
-				err = validateAssetJSON(file, entityFile)
-			case strings.Contains(file.Name(), "binary"):
-				err = validateBinaryJSON(file)
-			case strings.Contains(file.Name(), "contract"):
-				err = validateContractJSON(file)
-			case strings.Contains(file.Name(), "entity"):
-				accountFile := cfm[chain]["account"]
-				assetFile := cfm[chain]["asset"]
-				binaryFile := cfm[chain]["binary"]
-				contractFile := cfm[chain]["contract"]
-				err = validateEntityJSON(file, accountFile, assetFile, binaryFile, contractFile)
-			case strings.Contains(file.Name(), "pool"):
-				err = validatePoolJSON(file)
-			default:
-				err = fmt.Errorf("unknown file type: %s", file.Name())
-			}
-
-			if err != nil {
-				return err
-			}
-		}
-	}
-	return nil
-}
-
-func validateAccountJSON(file *os.File) error {
-	var accounts []yacarsdk.Account
-
-	file.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(file).Decode(&accounts); err != nil {
-		return fmt.Errorf("error while decoding account JSON: %s", err)
-	}
-
-	_, err := yacarsdk.ValidateAccounts(accounts)
+	_, err = yacarsdk.ValidateContracts(contracts)
 	return err
 }
 
-func validateAssetJSON(assetFile, entityFile *os.File) error {
-	var (
-		assets   []yacarsdk.Asset
-		entities []yacarsdk.Entity
-	)
-
-	// Reset file offset to beginning of file in case it was read before, not doing so would cause
-	// an EOF error when trying to decode the JSON
-	assetFile.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
-		return fmt.Errorf("error while decoding asset JSON for asset validation: %s", assetFile.Name())
+func handleEntity(res *resources) error {
+	entities, err := unmarshaler.UnmarshalInto(res.entity, make([]yacarsdk.Entity, 0))
+	if err != nil {
+		return err
 	}
-
-	entityFile.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(entityFile).Decode(&entities); err != nil {
-		return fmt.Errorf("error while decoding entity JSON for asset validation: %s", err)
-	}
-
-	_, err := yacarsdk.ValidateAssets(assets, entities)
-	return err
-}
-
-func validateBinaryJSON(file *os.File) error {
-	var binaries []yacarsdk.Binary
-
-	file.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(file).Decode(&binaries); err != nil {
-		return fmt.Errorf("error while decoding binary JSON: %s", err)
-	}
-
-	_, err := yacarsdk.ValidateBinaries(binaries)
-	return err
-}
-
-func validateContractJSON(file *os.File) error {
-	var contracts []yacarsdk.Contract
-
-	file.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(file).Decode(&contracts); err != nil {
-		return fmt.Errorf("error while decoding contract JSON: %s", err)
-	}
-
-	_, err := yacarsdk.ValidateContracts(contracts)
-	return err
-}
-
-func validateEntityJSON(entityFile, accountFile, assetFile, binaryFile, contractFile *os.File) error {
-	var (
-		entities  []yacarsdk.Entity
-		accounts  []yacarsdk.Account
-		assets    []yacarsdk.Asset
-		binaries  []yacarsdk.Binary
-		contracts []yacarsdk.Contract
-	)
-
-	// Reset file offset to beginning of file in case it was read before, not doing so would cause
-	// an EOF error when trying to decode the JSON
-	entityFile.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(entityFile).Decode(&entities); err != nil {
-		return fmt.Errorf("error while decoding entity JSON for entity validation: %s", err)
-	}
-
 	usedEntities := map[string]struct{}{}
 
-	accountFile.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(accountFile).Decode(&accounts); err != nil {
-		return fmt.Errorf("error while decoding account JSON for entity validation: %s", err)
-	}
-	for _, account := range accounts {
-		usedEntities[account.Entity] = struct{}{}
-	}
-
-	assetFile.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(assetFile).Decode(&assets); err != nil {
-		return fmt.Errorf("error while decoding asset JSON for entity validation: %s", err)
-	}
-	for _, asset := range assets {
-		usedEntities[asset.Entity] = struct{}{}
+	if len(res.account) > 0 {
+		accounts, err := unmarshaler.UnmarshalInto(res.account, make([]yacarsdk.Account, 0))
+		if err != nil {
+			return err
+		}
+		for _, a := range accounts {
+			usedEntities[a.Entity] = struct{}{}
+		}
 	}
 
-	binaryFile.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(binaryFile).Decode(&binaries); err != nil {
-		return fmt.Errorf("error while decoding binary JSON for entity validation: %s", err)
-	}
-	for _, binary := range binaries {
-		usedEntities[binary.Entity] = struct{}{}
-	}
-
-	contractFile.Seek(0, io.SeekStart)
-	if err := json.NewDecoder(contractFile).Decode(&contracts); err != nil {
-		return fmt.Errorf("error while decoding contract JSON for entity validation: %s", err)
-	}
-	for _, contract := range contracts {
-		usedEntities[contract.Entity] = struct{}{}
+	if len(res.asset) > 0 {
+		assets, err := unmarshaler.UnmarshalInto(res.asset, make([]yacarsdk.Asset, 0))
+		if err != nil {
+			return err
+		}
+		for _, a := range assets {
+			usedEntities[a.Entity] = struct{}{}
+		}
 	}
 
-	_, err := yacarsdk.ValidateEntities(entities, usedEntities)
+	if len(res.binary) > 0 {
+		binaries, err := unmarshaler.UnmarshalInto(res.binary, make([]yacarsdk.Binary, 0))
+		if err != nil {
+			return err
+		}
+		for _, a := range binaries {
+			usedEntities[a.Entity] = struct{}{}
+		}
+	}
+
+	if len(res.contract) > 0 {
+		contracts, err := unmarshaler.UnmarshalInto(res.contract, make([]yacarsdk.Contract, 0))
+		if err != nil {
+			return err
+		}
+		for _, a := range contracts {
+			usedEntities[a.Entity] = struct{}{}
+		}
+	}
+
+	_, err = yacarsdk.ValidateEntities(entities, usedEntities)
 	return err
 }
 
-func validatePoolJSON(file *os.File) error {
-	var pools []yacarsdk.Pool
-
-	if err := json.NewDecoder(file).Decode(&pools); err != nil {
-		return fmt.Errorf("error while decoding pool JSON: %s", err)
+func handlePool(fp string) error {
+	pools, err := unmarshaler.UnmarshalInto(fp, make([]yacarsdk.Pool, 0))
+	if err != nil {
+		return err
 	}
 
-	_, err := yacarsdk.ValidatePools(pools)
+	_, err = yacarsdk.ValidatePools(pools)
 	return err
 }
