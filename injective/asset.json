@@ -1048,6 +1048,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj18luqttqyckgpddndh8hvaq25d5nfwjc78m56lc",
+    "name": "Hydro Wrapped INJ",
+    "symbol": "hINJ",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/0fc29fc0-141e-41e6-7042-a701cc9f9100/public"
+  },
+  {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1d5vz0uzwlpfvgwrwulxg6syy82axa58y4fuszd",
     "name": "Arbitrum (Wormhole)",
     "symbol": "ARB",
@@ -7753,6 +7761,14 @@
     "circ_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlBMTE1QjU2RTc2OUI5MjYyMUZGRjkwNTY3RTJENjBFRkQxNDZFODZFODY3NDkxREI2OUVFREE5QURDMzYyMDQ%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlBMTE1QjU2RTc2OUI5MjYyMUZGRjkwNTY3RTJENjBFRkQxNDZFODZFODY3NDkxREI2OUVFREE5QURDMzYyMDQ%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png"
+  },
+  {
+    "id": "ibc/A8B0B746B5AB736C2D8577259B510D56B8AF598008F68041E3D634BCDE72BE97",
+    "name": "Solana",
+    "symbol": "SOL",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/2aa4deed-fa31-4d1a-ba0a-d698b84f3800/public"
   },
   {
     "id": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
@@ -17188,13 +17204,5 @@
     "type": "peggy",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/puggo.jpg"
-  },
-  {
-    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj18luqttqyckgpddndh8hvaq25d5nfwjc78m56lc",
-    "name": "Hydro Wrapped INJ",
-    "symbol": "hINJ",
-    "decimals": "18",
-    "type": "tokenfactory",
-    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/0fc29fc0-141e-41e6-7042-a701cc9f9100/public"
   }
 ]
