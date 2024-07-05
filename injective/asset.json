@@ -7870,13 +7870,14 @@
   },
   {
     "id": "ibc/F3330C1B8BD1886FE9509B94C7B5398B892EA41420D2BC0B7C6A53CB8ED761D6",
+    "entity": "Pyth Network",
     "name": "Pyth Network",
     "symbol": "PYTH",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YzMzMwQzFCOEJEMTg4NkZFOTUwOUI5NEM3QjUzOThCODkyRUE0MTQyMEQyQkMwQjdDNkE1M0NCOEVENzYxRDY%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YzMzMwQzFCOEJEMTg4NkZFOTUwOUI5NEM3QjUzOThCODkyRUE0MTQyMEQyQkMwQjdDNkE1M0NCOEVENzYxRDY%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/pyth.png"
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/ec1f6834-3f68-4be3-a489-ad5f80dbff00/public"
   },
   {
     "id": "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
@@ -16880,11 +16881,13 @@
   },
   {
     "id": "peggy0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4",
+    "entity": "Omni Network",
     "name": "Omni Network",
     "symbol": "OMNI",
     "decimals": "18",
     "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweDM2RTY2ZmJCY2U1MWU0Y0Q1YmQzQzYyQjYzN0ViNDExYjE4OTQ5RDQ%3D&pagination.limit=1"
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweDM2RTY2ZmJCY2U1MWU0Y0Q1YmQzQzYyQjYzN0ViNDExYjE4OTQ5RDQ%3D&pagination.limit=1",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/ed4c9589-216d-4183-47e4-09710a62cd00/public"
   },
   {
     "id": "peggy0x3F07A84eCdf494310D397d24c1C78B041D2fa622",
@@ -17143,11 +17146,13 @@
   },
   {
     "id": "peggy0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439",
+    "entity": "Moon App",
     "name": "Moon App",
     "symbol": "APP",
     "decimals": "18",
     "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/peggy0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/peggy0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/ce816e13-52fc-4afb-4434-6f8352263300/public"
   },
   {
     "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
