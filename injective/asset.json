@@ -1041,11 +1041,27 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj13xlpypcwl5fuc84uhqzzqumnrcfpptyl6w3vrf",
+    "name": "Gryphon Staked Injective",
+    "symbol": "nINJ",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/0960d4f1-4aeb-4c1c-c357-dba49d4a8c00/public"
+  },
+  {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
     "name": "Wrapped Klaytn",
     "symbol": "WKLAY",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj18luqttqyckgpddndh8hvaq25d5nfwjc78m56lc",
+    "name": "Hydro Wrapped INJ",
+    "symbol": "hINJ",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/0fc29fc0-141e-41e6-7042-a701cc9f9100/public"
   },
   {
     "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1d5vz0uzwlpfvgwrwulxg6syy82axa58y4fuszd",
@@ -7626,6 +7642,14 @@
     "coingecko": "https://www.coingecko.com/en/coins/sommelier"
   },
   {
+    "id": "ibc/36C811A2253AA64B58A9B66C537B89348FE5792A8808AAA343082CBFCAA72278",
+    "name": "Gigachad",
+    "symbol": "GIGA",
+    "decimals": "5",
+    "type": "ibc",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/db18e160-e670-4140-d5e1-f148a7009600/public"
+  },
+  {
     "id": "ibc/3A6DD3358D9F7ADD18CDE79BA10B400511A5DE4AE2C037D7C9639B52ADAF35C6",
     "name": "Crescent Network",
     "symbol": "CRE",
@@ -7658,12 +7682,21 @@
   },
   {
     "id": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-    "name": "USDTkv PERP",
-    "symbol": "USDTkv PERP",
+    "name": "Tether",
+    "symbol": "USDTkv",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBQkJFRjRDODkyNkREREIzMjBBRTUxODhDRkQ2MzI2N0FCQkNFRkMwNTgzRTRBRTA1RDZFNUFBMjQwMUREQUI%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBQkJFRjRDODkyNkREREIzMjBBRTUxODhDRkQ2MzI2N0FCQkNFRkMwNTgzRTRBRTA1RDZFNUFBMjQwMUREQUI%3D&pagination.limit=1"
+    "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBQkJFRjRDODkyNkREREIzMjBBRTUxODhDRkQ2MzI2N0FCQkNFRkMwNTgzRTRBRTA1RDZFNUFBMjQwMUREQUI%3D&pagination.limit=1",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/2d38ee9a-2df1-4dd0-155b-11404014bc00/public"
+  },
+  {
+    "id": "ibc/4BFB3FB1903142C5A7570EE7697636436E52FDB99AB8ABE0257E178A926E2568",
+    "name": "SynesisOne",
+    "symbol": "SNS",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/6c8de59d-8fed-4510-7747-1cee88a67000/public"
   },
   {
     "id": "ibc/565FE65B82C091F8BAD1379FA1B4560C036C07913355ED4BD8D156DA63F43712",
@@ -7747,6 +7780,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png"
   },
   {
+    "id": "ibc/A8B0B746B5AB736C2D8577259B510D56B8AF598008F68041E3D634BCDE72BE97",
+    "name": "Solana",
+    "symbol": "SOL",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/2aa4deed-fa31-4d1a-ba0a-d698b84f3800/public"
+  },
+  {
     "id": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
     "name": "Stride Staked Injective",
     "symbol": "stINJ",
@@ -7755,6 +7796,14 @@
     "circ_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FDODc3MTdFQTAwMkIwMTIzQjEwQTA1MDYzRTY5QkNBMjc0QkEyQzQ0RDg0MkFFRUI0MTU1OEQyODU2RENFOTM%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FDODc3MTdFQTAwMkIwMTIzQjEwQTA1MDYzRTY5QkNBMjc0QkEyQzQ0RDg0MkFFRUI0MTU1OEQyODU2RENFOTM%3D&pagination.limit=1",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/stinj.png"
+  },
+  {
+    "id": "ibc/AF921F0874131B56897A11AA3F33D5B29CD9C147A1D7C37FE8D918CB420956B2",
+    "name": "Saga",
+    "symbol": "SAGA",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/a7bccb50-dcd7-4c02-4fc1-ab2e2f4b1400/public"
   },
   {
     "id": "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C",
@@ -7867,6 +7916,14 @@
     "circ_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VDQjBBQTI4RDYwMDFFRjk4NTA0NzU1OEM0MTBCNjU1ODFGQzg1QkQ5MkQ0RTNDRkNDQTBEM0Q5NjRDNjdDQzI%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VDQjBBQTI4RDYwMDFFRjk4NTA0NzU1OEM0MTBCNjU1ODFGQzg1QkQ5MkQ0RTNDRkNDQTBEM0Q5NjRDNjdDQzI%3D&pagination.limit=1",
     "icon": "https://app.whitewhale.money/logos/bWHALE.png"
+  },
+  {
+    "id": "ibc/F16F0F685BEF7BC6A145F16CBE78C6EC8C7C3A5F3066A98A9E57DCEA0903E537",
+    "name": "Wormhole",
+    "symbol": "W",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/e8c05506-94c6-4878-bd1b-1d0b661fc900/public"
   },
   {
     "id": "ibc/F3330C1B8BD1886FE9509B94C7B5398B892EA41420D2BC0B7C6A53CB8ED761D6",
