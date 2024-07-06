@@ -218,6 +218,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN2szYWg4a2QyazZ1NHBybHN2bThmM3BzZ2h3MmF0N2NmMm1qcHIvY2hpY2tlZ2c%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei17m3hvda79rycjf7lvjqhg6h2cyfetjyxh8u8lg2m0zy9xa2fuwxsj8y2p0/doge",
+    "name": "Butt",
+    "symbol": "DOGE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN20zaHZkYTc5cnljamY3bHZqcWhnNmgyY3lmZXRqeXhoOHU4bGcybTB6eTl4YTJmdXd4c2o4eTJwMC9kb2dl&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei17m3hvda79rycjf7lvjqhg6h2cyfetjyxh8u8lg2m0zy9xa2fuwxsj8y2p0/doge/vest",
+    "name": "Butt Vests",
+    "symbol": "DOGE/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN20zaHZkYTc5cnljamY3bHZqcWhnNmgyY3lmZXRqeXhoOHU4bGcybTB6eTl4YTJmdXd4c2o4eTJwMC9kb2dlL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei17sfpyvalnujg0f36rn4xr5944wnr3ds5k42uhnyddzzeye0mfl0q4u0dhj/henlo",
     "name": "don't be silly",
     "symbol": "Henlo",
@@ -1078,6 +1094,22 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcjdzOWVuaHNuNDg1cm1hNHVjaGd2ejQ2aGRlNGNhdzdoc3BmNnkvU0VJR09O&pagination.limit=1",
     "icon": "https://i.ibb.co/zhcLJBk/seigon.png"
+  },
+  {
+    "id": "factory/sei1rdgy5qldygs38x8edvarw462xelhc6tuduc05urf6az42gmx7ywsduyltk/team",
+    "name": "team works",
+    "symbol": "TEAM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcmRneTVxbGR5Z3MzOHg4ZWR2YXJ3NDYyeGVsaGM2dHVkdWMwNXVyZjZhejQyZ214N3l3c2R1eWx0ay90ZWFt&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1rdgy5qldygs38x8edvarw462xelhc6tuduc05urf6az42gmx7ywsduyltk/team/vest",
+    "name": "team works Vests",
+    "symbol": "TEAM/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcmRneTVxbGR5Z3MzOHg4ZWR2YXJ3NDYyeGVsaGM2dHVkdWMwNXVyZjZhejQyZ214N3l3c2R1eWx0ay90ZWFtL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1rgfh7pw3gf044jv20u26u5686l3ad5vkd0xsaz/DICK",
