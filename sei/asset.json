@@ -31,6 +31,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMG13Zm1oaHlyOXp5ZnN5aGw4aG5ldTRxcHR4a3MybGxnbmdrNXQvc2Vpb25hcmE%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei10qcmatvk99ucsfzrkeelxyd8xnr96ve6mnednsa2rf6cle33vlxq0eknql/ventures",
+    "name": "Tailwind Ventures",
+    "symbol": "VENTURES",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMHFjbWF0dms5OXVjc2Z6cmtlZWx4eWQ4eG5yOTZ2ZTZtbmVkbnNhMnJmNmNsZTMzdmx4cTBla25xbC92ZW50dXJlcw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei10qcmatvk99ucsfzrkeelxyd8xnr96ve6mnednsa2rf6cle33vlxq0eknql/ventures/vest",
+    "name": "Tailwind Ventures Vests",
+    "symbol": "VENTURES/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMHFjbWF0dms5OXVjc2Z6cmtlZWx4eWQ4eG5yOTZ2ZTZtbmVkbnNhMnJmNmNsZTMzdmx4cTBla25xbC92ZW50dXJlcy92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei124znhvxldmstmq38ef4kf83pc3zegramg0h769/ubanana",
     "name": "Banana",
     "symbol": "BANANA",
