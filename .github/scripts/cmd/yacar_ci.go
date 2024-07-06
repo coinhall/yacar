@@ -37,6 +37,7 @@ func ignoreErrorSet(projRoot string) map[string]struct{} {
 	}
 	defer file.Close()
 
+	log.Println("Populating errors to ignore from: " + errorFilePath)
 	set := make(map[string]struct{})
 	sc := bufio.NewScanner(file)
 	for sc.Scan() {

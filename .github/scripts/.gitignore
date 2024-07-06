@@ -1,6 +1,3 @@
 tmp/
-dist/**.json
-dist/**.tar.gz
-dist/**.txt
-dist/**.yaml
-dist/**.zip
+dist/
+!dist/yacar_ci*
