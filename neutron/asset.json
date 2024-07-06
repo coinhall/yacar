@@ -204,6 +204,15 @@
     "icon": "https://asteroid.ams3.digitaloceanspaces.com/ABF9C9BDD0CBF39FA2BD9E2C76CA6ABA15A50C15A52EB3B025FBC0DEEA8D6CD0.png"
   },
   {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BTC",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQlRD&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/F0459C88C41793EDE870615716805E86243A479709B8F6A34C369D5A6D964BFF.webp"
+  },
+  {
     "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CARTEL",
     "name": "Cosmos Cartel",
     "symbol": "CARTEL",
@@ -283,6 +292,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRVhUUkE%3D&pagination.limit=1",
     "icon": "https://asteroid.ams3.digitaloceanspaces.com/BB166EE1259CBAF6E489874C41DCC56CB1ECFE3AA796A6AB7563A0A7E58E924C.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/FEPE",
+    "name": "FEPE",
+    "symbol": "FEPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRkVQRQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/7C714FB00613940A54EA40951F4BE2085D9C3DDA9AE2D39FFC3723724A063F7B.jpe"
   },
   {
     "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/IBCG",
