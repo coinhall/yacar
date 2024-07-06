@@ -503,6 +503,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZTNwYXJ6eDI5MDUwZWgyam00bmo4czBrNmg0MjI4dGFqcXNyazMvc2Vpdm9yaWVz&pagination.limit=1"
   },
   {
+    "id": "factory/sei1ekpz682nfkrj36te6dsculjny0w930hrhx0mtj8yftgw43j0hpss3tj7at/future",
+    "name": "Future",
+    "symbol": "Future",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZWtwejY4Mm5ma3JqMzZ0ZTZkc2N1bGpueTB3OTMwaHJoeDBtdGo4eWZ0Z3c0M2owaHBzczN0ajdhdC9mdXR1cmU%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ekpz682nfkrj36te6dsculjny0w930hrhx0mtj8yftgw43j0hpss3tj7at/future/vest",
+    "name": "Future Vests",
+    "symbol": "Future/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZWtwejY4Mm5ma3JqMzZ0ZTZkc2N1bGpueTB3OTMwaHJoeDBtdGo4eWZ0Z3c0M2owaHBzczN0ajdhdC9mdXR1cmUvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
     "entity": "SEIWA",
     "name": "SEIWA - 清和",
