@@ -10,6 +10,7 @@ import (
 
 	"github.com/coinhall/yacar/internal/unmarshaler"
 	"github.com/coinhall/yacar/internal/walker"
+	"github.com/coinhall/yacar/internal/yacar"
 	"github.com/coinhall/yacarsdk/v2"
 )
 
@@ -21,18 +22,18 @@ func Start(filePaths []string) {
 func sortYacarJSONs(filePaths []string) {
 	for _, fp := range filePaths {
 		fp = filepath.ToSlash(fp)
-		switch walker.MustParse(walker.TrimJsonSuffixFromFullPath(fp)) {
-		case walker.Account:
+		switch yacar.MustParse(walker.GetFileNameNoSuffix(fp, yacar.FileSuffix)) {
+		case yacar.Account:
 			handleAccount(fp)
-		case walker.Asset:
+		case yacar.Asset:
 			handleAsset(fp)
-		case walker.Binary:
+		case yacar.Binary:
 			handleBinary(fp)
-		case walker.Contract:
+		case yacar.Contract:
 			handleContract(fp)
-		case walker.Entity:
+		case yacar.Entity:
 			handleEntity(fp)
-		case walker.Pool:
+		case yacar.Pool:
 			handlePool(fp)
 		default:
 			panic("unhandled case")
