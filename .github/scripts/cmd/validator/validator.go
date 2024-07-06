@@ -8,11 +8,12 @@ import (
 
 	"github.com/coinhall/yacar/internal/unmarshaler"
 	"github.com/coinhall/yacar/internal/walker"
+	"github.com/coinhall/yacar/internal/yacar"
 	"github.com/coinhall/yacarsdk/v2"
 )
 
-func Start(filePaths []string) {
-	validateYacarJSONs(filePaths)
+func Start(filePaths []string, ignoreErrors map[string]struct{}) {
+	validateYacarJSONs(filePaths, ignoreErrors)
 	log.Println("Validated JSONs successfully...")
 }
 
@@ -20,30 +21,34 @@ type resources struct {
 	account, asset, binary, contract, entity, pool string
 }
 
-func validateYacarJSONs(filePaths []string) {
+func validateYacarJSONs(filePaths []string, ignoreErrors map[string]struct{}) {
 	var err error
 	crm := getChainResources(filePaths)
 	for _, res := range crm {
 		path := cmp.Or(res.account, res.asset, res.binary, res.contract, res.entity, res.pool)
-		switch walker.MustParse(walker.TrimJsonSuffixFromFullPath(path)) {
-		case walker.Account:
+		switch yacar.MustParse(walker.GetFileNameNoSuffix(path, yacar.FileSuffix)) {
+		case yacar.Account:
 			err = handleAccount(res.account)
-		case walker.Asset:
+		case yacar.Asset:
 			err = handleAsset(res.asset, res.entity)
-		case walker.Binary:
+		case yacar.Binary:
 			err = handleBinary(res.binary)
-		case walker.Contract:
+		case yacar.Contract:
 			err = handleContract(res.contract)
-		case walker.Entity:
+		case yacar.Entity:
 			err = handleEntity(res)
-		case walker.Pool:
+		case yacar.Pool:
 			err = handlePool(res.pool)
 		default:
 			panic("unhandled case")
 		}
 
-		if err != nil {
-			panic(err)
+		if err == nil {
+			continue
+		}
+
+		if _, ok := ignoreErrors[err.Error()]; !ok {
+			log.Fatalln(err)
 		}
 	}
 }
@@ -58,18 +63,18 @@ func getChainResources(filePaths []string) map[string]*resources {
 		if !ok {
 			r = &resources{}
 		}
-		switch walker.MustParse(walker.TrimJsonSuffixFromFullPath(fp)) {
-		case walker.Account:
+		switch yacar.MustParse(walker.GetFileNameNoSuffix(fp, yacar.FileSuffix)) {
+		case yacar.Account:
 			r.account = fp
-		case walker.Asset:
+		case yacar.Asset:
 			r.asset = fp
-		case walker.Binary:
+		case yacar.Binary:
 			r.binary = fp
-		case walker.Contract:
+		case yacar.Contract:
 			r.contract = fp
-		case walker.Entity:
+		case yacar.Entity:
 			r.entity = fp
-		case walker.Pool:
+		case yacar.Pool:
 			r.pool = fp
 		default:
 			panic("unhandled case")
@@ -104,7 +109,6 @@ func handleAsset(assetFile, entityFile string) error {
 	return err
 }
 
-// Optional
 func handleBinary(fp string) error {
 	if len(fp) == 0 {
 		return nil
@@ -119,7 +123,6 @@ func handleBinary(fp string) error {
 	return err
 }
 
-// Optional
 func handleContract(fp string) error {
 	if len(fp) == 0 {
 		return nil
