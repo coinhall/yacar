@@ -193,6 +193,22 @@
     "icon": "https://i.ibb.co/7js4p52/seirio.png"
   },
   {
+    "id": "factory/sei16l99694rf2st6vdct8adwazus5x6yhedhpy2uke7ty5uaqsru2esjxgkgt/honey",
+    "name": "Honey POT",
+    "symbol": "HONEY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNmw5OTY5NHJmMnN0NnZkY3Q4YWR3YXp1czV4NnloZWRocHkydWtlN3R5NXVhcXNydTJlc2p4Z2tndC9ob25leQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei16l99694rf2st6vdct8adwazus5x6yhedhpy2uke7ty5uaqsru2esjxgkgt/honey/vest",
+    "name": "Honey POT Vests",
+    "symbol": "HONEY/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNmw5OTY5NHJmMnN0NnZkY3Q4YWR3YXp1czV4NnloZWRocHkydWtlN3R5NXVhcXNydTJlc2p4Z2tndC9ob25leS92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
     "name": "Sensei",
     "symbol": "SENSEI",
