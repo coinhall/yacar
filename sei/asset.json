@@ -250,6 +250,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN2szYWg4a2QyazZ1NHBybHN2bThmM3BzZ2h3MmF0N2NmMm1qcHIvY2hpY2tlZ2c%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei17klg5sj09ay3ckul6x56sqza7e3jjrc4lkkxazzt2qnwrcrl7l9sq5y2wc/token",
+    "name": "TAIL is for RETAIL",
+    "symbol": "🐈",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN2tsZzVzajA5YXkzY2t1bDZ4NTZzcXphN2UzampyYzRsa2t4YXp6dDJxbndyY3JsN2w5c3E1eTJ3Yy90b2tlbg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei17klg5sj09ay3ckul6x56sqza7e3jjrc4lkkxazzt2qnwrcrl7l9sq5y2wc/token/vest",
+    "name": "TAIL is for RETAIL Vests",
+    "symbol": "🐈/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN2tsZzVzajA5YXkzY2t1bDZ4NTZzcXphN2UzampyYzRsa2t4YXp6dDJxbndyY3JsN2w5c3E1eTJ3Yy90b2tlbi92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei17m3hvda79rycjf7lvjqhg6h2cyfetjyxh8u8lg2m0zy9xa2fuwxsj8y2p0/doge",
     "name": "Butt",
     "symbol": "DOGE",
