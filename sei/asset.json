@@ -771,6 +771,22 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei1gz6s66mzmlac2vz9gxwgry8fhth2q0wh3fjvc0npd38psmcm6ymql2e5c4/furroy",
+    "name": "Roy is a FURRY",
+    "symbol": "FURROY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZ3o2czY2bXptbGFjMnZ6OWd4d2dyeThmaHRoMnEwd2gzZmp2YzBucGQzOHBzbWNtNnltcWwyZTVjNC9mdXJyb3k%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1gz6s66mzmlac2vz9gxwgry8fhth2q0wh3fjvc0npd38psmcm6ymql2e5c4/furroy/vest",
+    "name": "Roy is a FURRY Vests",
+    "symbol": "FURROY/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZ3o2czY2bXptbGFjMnZ6OWd4d2dyeThmaHRoMnEwd2gzZmp2YzBucGQzOHBzbWNtNnltcWwyZTVjNC9mdXJyb3kvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
     "entity": "seisyphus",
     "name": "seisyphus",
