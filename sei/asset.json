@@ -924,6 +924,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa2tlaGtyNTZxejZ1aDlncjJyamRsanRxNnBmNWszYWRrdmc2enkvU2VpTGFyaW91cw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1kmdllz32l4cxqjxldujvqu64ds3vv9yaj3fkh9zdapn8lx3vascsk3y2k8/cat-in-box",
+    "name": "Cat in a box",
+    "symbol": "CAT-IN-BOX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa21kbGx6MzJsNGN4cWp4bGR1anZxdTY0ZHMzdnY5eWFqM2ZraDl6ZGFwbjhseDN2YXNjc2szeTJrOC9jYXQtaW4tYm94&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1kmdllz32l4cxqjxldujvqu64ds3vv9yaj3fkh9zdapn8lx3vascsk3y2k8/cat-in-box/vest",
+    "name": "Cat in a box Vests",
+    "symbol": "CAT-IN-BOX/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa21kbGx6MzJsNGN4cWp4bGR1anZxdTY0ZHMzdnY5eWFqM2ZraDl6ZGFwbjhseDN2YXNjc2szeTJrOC9jYXQtaW4tYm94L3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1kngvdedcuzxd26fjyn8qh4ntjsk7t2v586tu2k/shikoku",
     "name": "Shikoku the dog",
     "symbol": "SHIKOKU",
@@ -1262,6 +1278,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcmRneTVxbGR5Z3MzOHg4ZWR2YXJ3NDYyeGVsaGM2dHVkdWMwNXVyZjZhejQyZ214N3l3c2R1eWx0ay90ZWFtL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1rf4vay0ekw7xlc9nen34wg5q3ptuu0fv6e7nnzffnujhfazxh26q05jgcy/thanos",
+    "name": "I don't even know who you are",
+    "symbol": "Thanos",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcmY0dmF5MGVrdzd4bGM5bmVuMzR3ZzVxM3B0dXUwZnY2ZTdubnpmZm51amhmYXp4aDI2cTA1amdjeS90aGFub3M%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1rf4vay0ekw7xlc9nen34wg5q3ptuu0fv6e7nnzffnujhfazxh26q05jgcy/thanos/vest",
+    "name": "I don't even know who you are Vests",
+    "symbol": "Thanos/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcmY0dmF5MGVrdzd4bGM5bmVuMzR3ZzVxM3B0dXUwZnY2ZTdubnpmZm51amhmYXp4aDI2cTA1amdjeS90aGFub3MvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1rgfh7pw3gf044jv20u26u5686l3ad5vkd0xsaz/DICK",
