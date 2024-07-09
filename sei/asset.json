@@ -687,6 +687,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZTNwYXJ6eDI5MDUwZWgyam00bmo4czBrNmg0MjI4dGFqcXNyazMvc2Vpdm9yaWVz&pagination.limit=1"
   },
   {
+    "id": "factory/sei1e6juekql6v48xf7guqxy5p82gs92knmghrzdu4n5xvw36sl0qj0se3hcq9/wbtc",
+    "name": "wBTC",
+    "symbol": "wBTC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZTZqdWVrcWw2djQ4eGY3Z3VxeHk1cDgyZ3M5MmtubWdocnpkdTRuNXh2dzM2c2wwcWowc2UzaGNxOS93YnRj&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1e6juekql6v48xf7guqxy5p82gs92knmghrzdu4n5xvw36sl0qj0se3hcq9/wbtc/vest",
+    "name": "wBTC Vests",
+    "symbol": "wBTC/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZTZqdWVrcWw2djQ4eGY3Z3VxeHk1cDgyZ3M5MmtubWdocnpkdTRuNXh2dzM2c2wwcWowc2UzaGNxOS93YnRjL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1ehlt4zngl794lw9w6elrada8kmjxpc6qmyuqvrep45hjuyf8qtys7t4g3p/okx",
     "name": "Ok OK OK",
     "symbol": "OKX",
@@ -1160,6 +1176,22 @@
     "icon": "https://i.ibb.co/sPy5PqR/logo.jpg"
   },
   {
+    "id": "factory/sei1p2ec6stzkfg4p70teyu7haw46s0uwn90ttlryz0quszja7t77u0sluynjk/vent",
+    "name": "adasdf",
+    "symbol": "VENT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcDJlYzZzdHprZmc0cDcwdGV5dTdoYXc0NnMwdXduOTB0dGxyeXowcXVzemphN3Q3N3Uwc2x1eW5qay92ZW50&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1p2ec6stzkfg4p70teyu7haw46s0uwn90ttlryz0quszja7t77u0sluynjk/vent/vest",
+    "name": "adasdf Vests",
+    "symbol": "VENT/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcDJlYzZzdHprZmc0cDcwdGV5dTdoYXc0NnMwdXduOTB0dGxyeXowcXVzemphN3Q3N3Uwc2x1eW5qay92ZW50L3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1p3ph8fvnw80h8082qjymq97dthyaw5u0rdr3pcz5wntrhhxgzcqq7jfafg/doge",
     "name": "dogecoin",
     "symbol": "DOGE",
@@ -1424,6 +1456,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcndneXRmZHE3dnJmOGh1czQzNDc1djZ0ODQ1dmZreWduMGVyY3cvc2VpbXVyYWlkZW5vbQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1ryg0l4ecgqhtlc2pglcm77xc0ndwrhppjyxvh5ku8xa4fj7l6lsqsc002j/apt",
+    "name": "afadsf",
+    "symbol": "APT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcnlnMGw0ZWNncWh0bGMycGdsY203N3hjMG5kd3JocHBqeXh2aDVrdTh4YTRmajdsNmxzcXNjMDAyai9hcHQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ryg0l4ecgqhtlc2pglcm77xc0ndwrhppjyxvh5ku8xa4fj7l6lsqsc002j/apt/vest",
+    "name": "afadsf Vests",
+    "symbol": "APT/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcnlnMGw0ZWNncWh0bGMycGdsY203N3hjMG5kd3JocHBqeXh2aDVrdTh4YTRmajdsNmxzcXNjMDAyai9hcHQvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1s36aw9jj7j8xd65qx4mawgv2a5l97vqkdkt6vex7pgkwgy8mg64qdy32gs/bao",
     "name": "Baoskee",
     "symbol": "BAO",
@@ -1575,6 +1623,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdTVscTYwcnM0dDg3dDZubGNqc2ZtbWxybDh6anA5NWFrZjg1ejMvbW9oc2Vu&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1u6dlzj4k4gteapp5g5xs9h2rp9825qhqxtqkjpph8ull9mcjwzastrz3kh/okx2",
+    "name": "adsfa",
+    "symbol": "okx2",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdTZkbHpqNGs0Z3RlYXBwNWc1eHM5aDJycDk4MjVxaHF4dHFranBwaDh1bGw5bWNqd3phc3RyejNraC9va3gy&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1u6dlzj4k4gteapp5g5xs9h2rp9825qhqxtqkjpph8ull9mcjwzastrz3kh/okx2/vest",
+    "name": "adsfa Vests",
+    "symbol": "okx2/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdTZkbHpqNGs0Z3RlYXBwNWc1eHM5aDJycDk4MjVxaHF4dHFranBwaDh1bGw5bWNqd3phc3RyejNraC9va3gyL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1ugqxsya3w7usz9xudf6ggkg2tkj4tg7l45268q/sauseidge",
