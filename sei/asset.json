@@ -789,6 +789,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZnl0cHYyYzBnNjQ0a2xqamZmMzBtcWdnNHZqbXprY3J6NHhobTkwa2F6enV6djA1Mmxmc2Rhc3VtZS9ob25leS92ZXN0&pagination.limit=1"
   },
   {
+    "id": "factory/sei1g0hamxtrv60c2szwpftpmx396m35539q4qv3stm7a4yz6hz0akvsxfsumf/irs",
+    "name": "Internal Revenue Service",
+    "symbol": "IRS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZzBoYW14dHJ2NjBjMnN6d3BmdHBteDM5Nm0zNTUzOXE0cXYzc3RtN2E0eXo2aHowYWt2c3hmc3VtZi9pcnM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1g0hamxtrv60c2szwpftpmx396m35539q4qv3stm7a4yz6hz0akvsxfsumf/irs/vest",
+    "name": "Internal Revenue Service Vests",
+    "symbol": "IRS/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZzBoYW14dHJ2NjBjMnN6d3BmdHBteDM5Nm0zNTUzOXE0cXYzc3RtN2E0eXo2aHowYWt2c3hmc3VtZi9pcnMvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1g67gjpzn53hc4qsta9jqe7yq40atuqxmuakqkg/sea",
     "name": "SEA",
     "symbol": "SEA",
@@ -1439,6 +1455,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdG51eTh0eHF5eTJ6enR2ajduOHlhaGV0dTlzd3h2NDNlanJ2cHIvamF2ZWxpbg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1u09t9qm4lt9hw2myn97rj0rqfu6xw23xshq8s7vs9ncdaadhlldqxd794y/dede",
+    "name": "DDD",
+    "symbol": "DEDE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdTA5dDlxbTRsdDlodzJteW45N3JqMHJxZnU2eHcyM3hzaHE4czd2czluY2RhYWRobGxkcXhkNzk0eS9kZWRl&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1u09t9qm4lt9hw2myn97rj0rqfu6xw23xshq8s7vs9ncdaadhlldqxd794y/dede/vest",
+    "name": "DDD Vests",
+    "symbol": "DEDE/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdTA5dDlxbTRsdDlodzJteW45N3JqMHJxZnU2eHcyM3hzaHE4czd2czluY2RhYWRobGxkcXhkNzk0eS9kZWRlL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1u5lq60rs4t87t6nlcjsfmmlrl8zjp95akf85z3/mohsen",
