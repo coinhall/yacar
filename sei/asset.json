@@ -140,6 +140,22 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/sei13jdjgdea6dhxunzcxjx4yspwlf5fnrq0zml56hs5q3t0cmrgsdws8ka642/jei2",
+    "name": "JEI2 token",
+    "symbol": "JEI2",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxM2pkamdkZWE2ZGh4dW56Y3hqeDR5c3B3bGY1Zm5ycTB6bWw1NmhzNXEzdDBjbXJnc2R3czhrYTY0Mi9qZWky&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei13jdjgdea6dhxunzcxjx4yspwlf5fnrq0zml56hs5q3t0cmrgsdws8ka642/jei2/vest",
+    "name": "JEI2 token Vests",
+    "symbol": "JEI2/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxM2pkamdkZWE2ZGh4dW56Y3hqeDR5c3B3bGY1Zm5ycTB6bWw1NmhzNXEzdDBjbXJnc2R3czhrYTY0Mi9qZWkyL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei13ks9e2nwww40sl6vwq8qtszhz4p7y9sgps9kt6/seixtynine",
     "name": "SEIXTYNINE",
     "symbol": "SEIXTYNINE",
