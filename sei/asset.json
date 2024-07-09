@@ -505,6 +505,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxOWswM2EwOTlqbWZwMDNlanR1YXJ0aDhwc3JoOWFnNWNxNmF2OTcvc3Vtbw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1a49m23txvduveucfjuzp8wtq9qjqhrpwn8wxkfwkkyx6p0gs9acqjpsccz/tail",
+    "name": "Goku's Tail",
+    "symbol": "TAIL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxYTQ5bTIzdHh2ZHV2ZXVjZmp1enA4d3RxOXFqcWhycHduOHd4a2Z3a2t5eDZwMGdzOWFjcWpwc2Njei90YWls&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1a49m23txvduveucfjuzp8wtq9qjqhrpwn8wxkfwkkyx6p0gs9acqjpsccz/tail/vest",
+    "name": "Goku's Tail Vests",
+    "symbol": "TAIL/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxYTQ5bTIzdHh2ZHV2ZXVjZmp1enA4d3RxOXFqcWhycHduOHd4a2Z3a2t5eDZwMGdzOWFjcWpwc2Njei90YWlsL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1aaxjknqj7qwum9l8q95zgzurqgrhwny26e4dyn/GUYS",
     "name": "Guys",
     "symbol": "GUYS",
