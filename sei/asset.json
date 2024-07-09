@@ -1718,6 +1718,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeHRhdWFzbms3ZHd6aGVuYTJ3enpueDNydXU4NG10djI2ZzdzeTdwNGtybnp2NWZtcXFlcTU3cTd5Mi9tb3phcnQvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1xuntddelrxc7720y243qk3c59eg3ac9d2x3vres57mjvyg95cj7qkaq5ne/redy",
+    "name": "REDTARD",
+    "symbol": "redy",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeHVudGRkZWxyeGM3NzIweTI0M3FrM2M1OWVnM2FjOWQyeDN2cmVzNTdtanZ5Zzk1Y2o3cWthcTVuZS9yZWR5&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1xuntddelrxc7720y243qk3c59eg3ac9d2x3vres57mjvyg95cj7qkaq5ne/redy/vest",
+    "name": "REDTARD Vests",
+    "symbol": "redy/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeHVudGRkZWxyeGM3NzIweTI0M3FrM2M1OWVnM2FjOWQyeDN2cmVzNTdtanZ5Zzk1Y2o3cWthcTVuZS9yZWR5L3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1y25r9u0kvrdya34csz436vj7eja7vc8ma6m4l7/KiraWifHat",
     "entity": "KiraWifHat",
     "name": "KiraWifHat",
