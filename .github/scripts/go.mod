@@ -3,7 +3,7 @@ module github.com/coinhall/yacar
 go 1.22
 
 require (
-	github.com/coinhall/yacarsdk/v2 v2.8.1
+	github.com/coinhall/yacarsdk/v2 v2.8.2
 	golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8
 )
 
