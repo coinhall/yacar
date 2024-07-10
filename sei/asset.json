@@ -968,6 +968,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaHB4dGM3aDJjMnh6emw4amxjcHkyaGRwdXNhbDRnZXEybTR1ZHEvc2Fp&pagination.limit=1"
   },
   {
+    "id": "factory/sei1hy0pp2rd29at499ltefdj2d8tmlpr5l5qnz9r66tmrl3qa6574ustnpudq/juno",
+    "name": "Juno",
+    "symbol": "juno",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaHkwcHAycmQyOWF0NDk5bHRlZmRqMmQ4dG1scHI1bDVxbno5cjY2dG1ybDNxYTY1NzR1c3RucHVkcS9qdW5v&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1hy0pp2rd29at499ltefdj2d8tmlpr5l5qnz9r66tmrl3qa6574ustnpudq/juno/vest",
+    "name": "Juno Vests",
+    "symbol": "juno/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaHkwcHAycmQyOWF0NDk5bHRlZmRqMmQ4dG1scHI1bDVxbno5cjY2dG1ybDNxYTY1NzR1c3RucHVkcS9qdW5vL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1hyl0055px2pngr9wncyqslyve4t0gqjplac7z7u5x3l9nv9hcqrqy6e09m/honey",
     "name": "Yum",
     "symbol": "HONEY",
@@ -1125,6 +1141,22 @@
     "circ_supply": "55220000",
     "total_supply": "55220000",
     "icon": "https://i.ibb.co/FKYLhBq/GBv-Qc-Kg-Xg-AAe-BRQcccccccccc.png"
+  },
+  {
+    "id": "factory/sei1lxkynysct4mvlmjn8gzdlcx286p6eqtpz6ul4ew5z0qjcetj77fslx0nm8/shiba",
+    "name": "Shiba",
+    "symbol": "Shiba",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbHhreW55c2N0NG12bG1qbjhnemRsY3gyODZwNmVxdHB6NnVsNGV3NXowcWpjZXRqNzdmc2x4MG5tOC9zaGliYQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1lxkynysct4mvlmjn8gzdlcx286p6eqtpz6ul4ew5z0qjcetj77fslx0nm8/shiba/vest",
+    "name": "Shiba Vests",
+    "symbol": "Shiba/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbHhreW55c2N0NG12bG1qbjhnemRsY3gyODZwNmVxdHB6NnVsNGV3NXowcWpjZXRqNzdmc2x4MG5tOC9zaGliYS92ZXN0&pagination.limit=1"
   },
   {
     "id": "factory/sei1lzdrm3r0gdwdcvq0zzyxrdxq2xrfaeruvxeex0ytaj3vquppvnnqnmd2gf/weth",
