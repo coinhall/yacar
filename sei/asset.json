@@ -279,6 +279,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNXI5dG1tZGh0cG41ZHlra3Rwc2dhZTdqdmtxbWd1c2s5bXFxMGgvc2VpbXN1bmc%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei164fynplwutt79kfx7yqct6y895dmuj6wk83367hsdzgc56np8x5qy2z5wy/mcdo",
+    "name": "Mcdonal Crew",
+    "symbol": "mcdo",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNjRmeW5wbHd1dHQ3OWtmeDd5cWN0Nnk4OTVkbXVqNndrODMzNjdoc2R6Z2M1Nm5wOHg1cXkyejV3eS9tY2Rv&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei164fynplwutt79kfx7yqct6y895dmuj6wk83367hsdzgc56np8x5qy2z5wy/mcdo/vest",
+    "name": "Mcdonal Crew Vests",
+    "symbol": "mcdo/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNjRmeW5wbHd1dHQ3OWtmeDd5cWN0Nnk4OTVkbXVqNndrODMzNjdoc2R6Z2M1Nm5wOHg1cXkyejV3eS9tY2RvL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei16kqm2nmsdvmuv7sh9gftgjlg6fu8vlghfc3yzx/SEIRIO",
     "entity": "SeiMario",
     "name": "SeiMario",
