@@ -1159,6 +1159,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbjBhM2VtdTB0MjJmeGh4MjlyMnRrcGtscDNldGdzdzN0YTN5M3AvU0VJQk9OSw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1nl4338vjxwaz4lxctxeg0j8pak8t2nrvtdrlvw63990l5ua7rtuqyntaux/atom",
+    "name": "ATOM",
+    "symbol": "atom",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbmw0MzM4dmp4d2F6NGx4Y3R4ZWcwajhwYWs4dDJucnZ0ZHJsdnc2Mzk5MGw1dWE3cnR1cXludGF1eC9hdG9t&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1nl4338vjxwaz4lxctxeg0j8pak8t2nrvtdrlvw63990l5ua7rtuqyntaux/atom/vest",
+    "name": "ATOM Vests",
+    "symbol": "atom/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbmw0MzM4dmp4d2F6NGx4Y3R4ZWcwajhwYWs4dDJucnZ0ZHJsdnc2Mzk5MGw1dWE3cnR1cXludGF1eC9hdG9tL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
     "name": "Seito Kaiba",
     "symbol": "SEITO",
