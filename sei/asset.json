@@ -362,6 +362,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN3NmcHl2YWxudWpnMGYzNnJuNHhyNTk0NHducjNkczVrNDJ1aG55ZGR6emV5ZTBtZmwwcTR1MGRoai9oZW5sby92ZXN0&pagination.limit=1"
   },
   {
+    "id": "factory/sei188gcp7s4taxd2lg3q9l7cjnlmdhxs83nrsm8zxcdv69c5lfv8atserwvm8/froy2",
+    "name": "test froy",
+    "symbol": "FROY2",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxODhnY3A3czR0YXhkMmxnM3E5bDdjam5sbWRoeHM4M25yc204enhjZHY2OWM1bGZ2OGF0c2Vyd3ZtOC9mcm95Mg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei188gcp7s4taxd2lg3q9l7cjnlmdhxs83nrsm8zxcdv69c5lfv8atserwvm8/froy2/vest",
+    "name": "test froy Vests",
+    "symbol": "FROY2/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxODhnY3A3czR0YXhkMmxnM3E5bDdjam5sbWRoeHM4M25yc204enhjZHY2OWM1bGZ2OGF0c2Vyd3ZtOC9mcm95Mi92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
     "name": "BSC Wrapped USDC",
     "symbol": "USDC.bsc",
