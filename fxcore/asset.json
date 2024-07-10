@@ -16,5 +16,19 @@
     "type": "native",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fxcore/images/fx.svg",
     "coingecko": "https://www.coingecko.com/coins/fx-coin"
+  },
+  {
+    "id": "usdt",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "native"
+  },
+  {
+    "id": "weth",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "type": "native"
   }
 ]

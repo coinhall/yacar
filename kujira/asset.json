@@ -5,6 +5,7 @@
     "symbol": "WINK",
     "decimals": "6",
     "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/wink.svg",
     "verification_tx": "kujira-fin"
   },
   {
@@ -28,6 +29,22 @@
     "verification_tx": "kujira-fin"
   },
   {
+    "id": "factory/kujira15e8q5wzlk5k38gjxlhse3vu6vqnafysncx2ltexd6y9gx50vuj2qpt7dgv/boneKuji",
+    "name": "BackBone Labs Liquid Staked KUJI",
+    "symbol": "bKUJI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/bKUJI.png"
+  },
+  {
+    "id": "factory/kujira15w6jhxsv924mn9cfr0qg9z36hltmw4rzd68x40d9re6hzyhslumqjw9zqd/ulp",
+    "name": "LP Bow: CHEQ-MNTA",
+    "symbol": "LP CHEQ-MNTA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/bow.svg"
+  },
+  {
     "id": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
     "entity": "Manta DAO",
     "name": "MNTA",
@@ -37,6 +54,7 @@
     "circ_supply_api": "https://api.mantadao.app/circulating",
     "total_supply": "100000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/mnta.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/mantadao",
     "verification_tx": "kujira-fin"
   },
   {
@@ -44,7 +62,8 @@
     "name": "PLNK",
     "symbol": "PLNK",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/PLNK_drk.png"
   },
   {
     "id": "factory/kujira175yatpvkpgw07w0chhzuks3zrrae9z9g2y6r7u5pzqesyau4x9eqqyv0rr/ampMNTA",
@@ -55,11 +74,37 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/ampmnta.png"
   },
   {
+    "id": "factory/kujira17djzq5x5e5zm9q9zlp6dtxdt9p8q2zvj0qtmjs0wrxm5g9e2vf5q9d6y2t/ulp",
+    "name": "LP Bow: SOMM-MNTA",
+    "symbol": "LP SOMM-MNTA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/bow.svg"
+  },
+  {
     "id": "factory/kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh/unstk",
     "name": "NSTK",
     "symbol": "NSTK",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/nstk.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/unstake-fi"
+  },
+  {
+    "id": "factory/kujira1av284rnqh6s0l2lwdqgpgz8wuva3wh9lkmlsupjd9escn5v4fels6kwc7v/ulp",
+    "name": "LP Bow: STARS-MNTA",
+    "symbol": "LP STARS-MNTA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/bow.svg"
+  },
+  {
+    "id": "factory/kujira1l04ged98c7a7s9tllu62ld09ztylwf442qgm4thfgmadrvngeumsz4zrh2/urcpt",
+    "name": "qcFUZN",
+    "symbol": "qcFUZN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/qcfuzn.svg"
   },
   {
     "id": "factory/kujira1m96ucsfpt2yy72w09z2rxjdj38y5qd8lqx5jtggnejmdua2ynpnsxyvjex/urcpt",
@@ -113,6 +158,22 @@
     "coingecko": "https://www.coingecko.com/en/coins/fuzion"
   },
   {
+    "id": "factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/urfuzn",
+    "name": "Fuzion Receipt",
+    "symbol": "rFUZN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/fuzionr.png"
+  },
+  {
+    "id": "factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/uyfuzn",
+    "name": "Fuzion Yield",
+    "symbol": "yFUZN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/fuziony.svg"
+  },
+  {
     "id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
     "entity": "Team Local Money",
     "name": "Local Money",
@@ -123,11 +184,37 @@
     "verification_tx": "kujira-fin"
   },
   {
+    "id": "factory/kujira1u8dluwa4a83q7anz0cgpmma605r07a06f0789ajcl8l0xjrplqss005cgn/ulp",
+    "name": "LP Bow: yieldETH.axl-MNTA",
+    "symbol": "LP yieldETH.axl-MNTA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/bow.svg"
+  },
+  {
+    "id": "factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt",
+    "name": "Ghost Vault USK",
+    "symbol": "xUSK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/xusk.png"
+  },
+  {
     "id": "factory/kujira1xe0awk5planmtsmjel5xtx2hzhqdw5p8z66yqd/uaqla",
     "name": "AQLA",
     "symbol": "AQLA",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/aqla.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/aqualibre"
+  },
+  {
+    "id": "factory/kujira1ya42knfcsvy6eztegsn3hz7zpjvhzn05ge85xa2dy2zrjeul9hnspp3c06/urcpt",
+    "name": "Ghost Vault MNTA",
+    "symbol": "xMNTA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/xmnta.png"
   },
   {
     "id": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",

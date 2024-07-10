@@ -82,6 +82,7 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ibcx.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/ibc-index",
     "verification_tx": "osmosis-main"
   },
   {
@@ -139,7 +140,8 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTdmZWw0NzJsZ3pzODdla3Q5ZHZrMHpxeWg1Z2w4MHNxcDRzazRuL0xBQg%3D%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/LAB.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/LAB.png",
+    "coingecko": "https://www.coingecko.com/en/coins/mad-scientists"
   },
   {
     "id": "factory/osmo17fpr8esecnp2rrdqe2k0rhpxpcftuczjzyjk9xspdxar4dnrzw3sxawcyf/admt",
@@ -267,12 +269,20 @@
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWU1ODk0cnJlbGQ1cmVqN3l0YzAzaGt5aGM1dXI2ejgyeDR3NXg2M3drend6enFncXYwcnE4cjdsM2UvcHRydW1wZ292&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1em6xs47hd82806f5cxgyufguxrrc7l0aqx7nzzptjuqgswczk8csavdxek/alloyed/allUSDT",
+    "name": "Alloyed USDT",
+    "symbol": "allUSDT",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
     "name": "milkTIA",
     "symbol": "milkTIA",
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/milktia.png",
+    "coingecko": "https://www.coingecko.com/en/coins/milkyway-staked-tia",
     "verification_tx": "osmosis-main"
   },
   {
@@ -10701,7 +10711,8 @@
     "type": "tokenfactory",
     "circ_supply": "600000000",
     "total_supply": "1000000000",
-    "icon": "https://raw.githubusercontent.com/White-Whale-Defi-Platform/white-whale-frontend/a74f4fbce2aa6af8ac9c384a104c90d2ecfa6c9e/public/logos/sail.png"
+    "icon": "https://raw.githubusercontent.com/White-Whale-Defi-Platform/white-whale-frontend/a74f4fbce2aa6af8ac9c384a104c90d2ecfa6c9e/public/logos/sail.png",
+    "coingecko": "https://www.coingecko.com/en/coins/sail-dao"
   },
   {
     "id": "factory/osmo1reutemjul47dd953cruu6nq6euepx93elpwqlrvm7ec5halsc5xqwqyus8/atomwifhat",
@@ -10757,6 +10768,7 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/CDT.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/collateralized-debt-token",
     "verification_tx": "osmosis-main"
   },
   {
@@ -10766,6 +10778,7 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/MBRN.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/membrane",
     "verification_tx": "osmosis-main"
   },
   {
@@ -10917,6 +10930,7 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXowcXJxNjA1c2pnY3FweWxmbDRhYTZzOTB4NzM4ajdtNTh3eWF0dDB0ZHpmbGcyaGEyNnE2N2s3NDMvd2J0Yw%3D%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin",
     "verification_tx": "osmosis-main"
   },
   {

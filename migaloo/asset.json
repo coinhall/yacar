@@ -32,12 +32,21 @@
     "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMTgwd3J2NmgyeTBwYzh2d21kZDNleXA3MjQ1NTM0OWptemhmd2V3eXF5dm51a3ZobTlkNHFyanNxcTMvZGFv&pagination.limit=1"
   },
   {
+    "id": "factory/migaloo18a9m9stu3dyvewwcq9qmp85euxqcvln5mefync/fable",
+    "name": "FABLE",
+    "symbol": "FABLE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/fable.svg"
+  },
+  {
     "id": "factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk",
     "name": "ReStake Token",
     "symbol": "RSTK",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWQwdW1hOXF6Y3RzNGZ6dDdtbDM5eHA0NGF1dDVrNnF5amZ6ejRhc2FsbmVjcHBwcHIzcnNsNTJ2dnYvcnN0aw%3D%3D&pagination.limit=1"
+    "total_supply_api": "https://migaloo-api.lavenderfive.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9taWdhbG9vMWQwdW1hOXF6Y3RzNGZ6dDdtbDM5eHA0NGF1dDVrNnF5amZ6ejRhc2FsbmVjcHBwcHIzcnNsNTJ2dnYvcnN0aw%3D%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rstk.svg"
   },
   {
     "id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/shark",
@@ -108,7 +117,15 @@
     "symbol": "bWHALE",
     "decimals": "6",
     "type": "tokenfactory",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/backbone-labs-staked-whale"
+  },
+  {
+    "id": "factory/migaloo1nsskhvvh0msm7d5ke2kfg24a8d4jecsnxd28s27h0uz5kf9ap60shlqmcl/ampGASH",
+    "name": "ampGASH",
+    "symbol": "ampGASH",
+    "decimals": "6",
+    "type": "tokenfactory"
   },
   {
     "id": "factory/migaloo1p3aj9f09d7c4jxhgue0hpdpw370j6gzc59nxxx6l8d0gc9f9rfwsdwetus/lsdSHARK",
@@ -323,6 +340,7 @@
     "type": "native",
     "circ_supply_api": "https://apex.migaloo.zone/api/supply",
     "total_supply_api": "https://apex.migaloo.zone/api/supply",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/white-whale"
   }
 ]

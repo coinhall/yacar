@@ -256,7 +256,8 @@
     "symbol": "TACOS",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXRhY29z&pagination.limit=1"
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXRhY29z&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/tacos.png"
   },
   {
     "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/uweed",
@@ -272,7 +273,8 @@
     "symbol": "WOOF",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXdvb2Y%3D&pagination.limit=1"
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXdvb2Y%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/woof.png"
   },
   {
     "id": "factory/chihuahua13n3edsw7kde8flaa78ejsd58f8agn066wzpe4r/PUG",
@@ -1224,6 +1226,7 @@
     "type": "native",
     "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=dWh1YWh1YQ%3D%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
+    "coingecko": "https://www.coingecko.com/en/coins/chihuahua-token"
   }
 ]

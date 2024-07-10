@@ -1117,6 +1117,13 @@
     "type": "cw20"
   },
   {
+    "id": "terra14mqjm7n23ky3479hmaarzqnwrlmapje08runh5m7a29rz6sunhpsn9pq27",
+    "name": "SPACEX",
+    "symbol": "SPACEX",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "terra14nln3d42h0wz8xxhsws026j69fau35glhngyw3g36p6n8v3zx4fsnx63ut",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
@@ -3538,6 +3545,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
+    "name": "Rakoff Token",
+    "symbol": "RAKOFF",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/rakoff.png"
+  },
+  {
     "id": "terra1vkf48nr8z84xkg6535qqx9pw0se9hjha9dallv2xpfngn776ksyq0gr7e2",
     "name": "Toncoin (Portal)",
     "symbol": "TON",
@@ -3617,6 +3632,14 @@
     "circ_supply_api": "https://raw.githubusercontent.com/ADO12ADO/ADO/main/Data/Circulation-supply%20ADO",
     "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
     "icon": "https://raw.githubusercontent.com/ADO12ADO/ADO/main/asset/ADO.png"
+  },
+  {
+    "id": "terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9",
+    "name": "Frogztrik NFT Token",
+    "symbol": "FROG",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/FROG.png"
   },
   {
     "id": "terra1wjzwg8megt6zsfsr2tduwklh8sx3mpptquqcm7h0krxuzwc5n86sn2xh9a",
@@ -4021,6 +4044,102 @@
     "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1zxwsyteawqwdnkv49erltl4xmrhpn6ret20y74j23224stal8s5slrkxss/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
+    "id": "uaud",
+    "name": "TerraClassicAUD",
+    "symbol": "AUTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/aut.svg"
+  },
+  {
+    "id": "ucad",
+    "name": "TerraClassicCAD",
+    "symbol": "CATC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/cat.svg"
+  },
+  {
+    "id": "uchf",
+    "name": "TerraClassicCHF",
+    "symbol": "CHTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/cht.svg"
+  },
+  {
+    "id": "ucny",
+    "name": "TerraClassicCNY",
+    "symbol": "CNTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/cnt.svg"
+  },
+  {
+    "id": "udkk",
+    "name": "TerraClassicDKK",
+    "symbol": "DKTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/dkt.svg"
+  },
+  {
+    "id": "ueur",
+    "name": "TerraClassicEUR",
+    "symbol": "EUTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/eut.svg"
+  },
+  {
+    "id": "ugbp",
+    "name": "TerraClassicGBP",
+    "symbol": "GBTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/gbt.svg"
+  },
+  {
+    "id": "uhkd",
+    "name": "TerraClassicHKD",
+    "symbol": "HKTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/hkt.svg"
+  },
+  {
+    "id": "uidr",
+    "name": "TerraClassicIDR",
+    "symbol": "IDTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/idt.svg"
+  },
+  {
+    "id": "uinr",
+    "name": "TerraClassicINR",
+    "symbol": "INTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/int.svg"
+  },
+  {
+    "id": "ujpy",
+    "name": "TerraClassicJPY",
+    "symbol": "JPTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/jpt.svg"
+  },
+  {
+    "id": "ukrw",
+    "name": "TerraClassicKRW",
+    "symbol": "KRTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/krt.svg"
+  },
+  {
     "id": "uluna",
     "entity": "Terra Money",
     "name": "Luna",
@@ -4032,5 +4151,86 @@
     "icon": "https://assets.terra.money/icon/svg/Luna.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
     "coingecko": "https://www.coingecko.com/en/coins/terra"
+  },
+  {
+    "id": "umnt",
+    "name": "TerraClassicMNT",
+    "symbol": "MNTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/mnt.svg"
+  },
+  {
+    "id": "umyr",
+    "name": "TerraClassicMYR",
+    "symbol": "MYTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/myt.svg"
+  },
+  {
+    "id": "unok",
+    "name": "TerraClassicNOK",
+    "symbol": "NOTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/not.svg"
+  },
+  {
+    "id": "uphp",
+    "name": "TerraClassicPHP",
+    "symbol": "PHTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/pht.svg"
+  },
+  {
+    "id": "usdr",
+    "name": "TerraClassicSDR",
+    "symbol": "SDTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/sdt.svg"
+  },
+  {
+    "id": "usek",
+    "name": "TerraClassicSEK",
+    "symbol": "SETC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/set.svg"
+  },
+  {
+    "id": "usgd",
+    "name": "TerraClassicSGD",
+    "symbol": "SGTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/sgt.svg"
+  },
+  {
+    "id": "uthb",
+    "name": "TerraClassicTHB",
+    "symbol": "THTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/tht.svg"
+  },
+  {
+    "id": "utwd",
+    "name": "TerraClassicTWD",
+    "symbol": "TWTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/twt.svg"
+  },
+  {
+    "id": "uusd",
+    "name": "TerraClassicUSD",
+    "symbol": "USTC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/ust.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/terrausd"
   }
 ]

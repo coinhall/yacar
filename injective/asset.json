@@ -1190,7 +1190,8 @@
     "type": "tokenfactory",
     "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz%2Fautism",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz%2Fautism",
-    "icon": "https://raw.githubusercontent.com/jlee1997/autism/main/autism.jpg"
+    "icon": "https://raw.githubusercontent.com/jlee1997/autism/main/autism.jpg",
+    "coingecko": "https://www.coingecko.com/en/coins/autism"
   },
   {
     "id": "factory/inj14mn4n0lh52vxttlg5a4nx58pnvc2ntfnt44y4j/NFCTV",
@@ -3568,7 +3569,9 @@
     "name": "Hava Coin",
     "symbol": "HAVA",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/hava.png",
+    "coingecko": "https://www.coingecko.com/en/coins/hava-coin"
   },
   {
     "id": "factory/inj1h2dqvlca2lay8amfk5fgvateslp3h0sgf8wmmp/geisha",
@@ -7983,7 +7986,8 @@
     "type": "native",
     "circ_supply_api": "https://injective-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
     "total_supply_api": "https://injective-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aW5q&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/injective-protocol"
   },
   {
     "id": "inj1032h3lllszfld2utcunjvk8knx2c8eedgl7r4y",
