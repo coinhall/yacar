@@ -1,7 +1,8 @@
 [
   {
     "id": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
-    "entity": "Osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "uosmo",
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
@@ -14,6 +15,8 @@
   },
   {
     "id": "ibc/077EE5F87CE5CD419436D26533329BDC7BEE6850AD64BC316486B0DCCB13C0EB",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "uwhale",
     "name": "Whale",
     "symbol": "WHALE",
     "decimals": "6",
@@ -24,7 +27,8 @@
   },
   {
     "id": "ibc/18ABA66B791918D51D33415DA173632735D830E2E77E63C91C11D3008CFD5262",
-    "entity": "Cosmos",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
     "name": "Cosmos",
     "symbol": "ATOM",
     "decimals": "6",
@@ -35,6 +39,8 @@
   },
   {
     "id": "ibc/386A4031D68DE6370B85F9FF7E89CEF8DE7CDE01CC193CBD87BD3ED60F6662CE",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdt",
     "name": "Axelar USD Tether",
     "symbol": "USDT",
     "decimals": "6",
@@ -45,6 +51,8 @@
   },
   {
     "id": "ibc/45368D217CE1F76A1214FA6F1F31493B5F127793E6AB4873B39A81A8CE21A18E",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wmatic-wei",
     "name": "Axelar Matic",
     "symbol": "MATIC",
     "decimals": "18",
@@ -55,7 +63,6 @@
   },
   {
     "id": "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
-    "entity": "Cosmos",
     "name": "Cosmos",
     "symbol": "ATOM",
     "decimals": "6",
@@ -76,6 +83,8 @@
   },
   {
     "id": "ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wbtc-satoshi",
     "name": "Axelar Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": "8",
@@ -86,6 +95,8 @@
   },
   {
     "id": "ibc/9B68CC79EFF12D25AF712EB805C5062B8F97B2CCE5F3FE55B107EE03095514A3",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "weth-wei",
     "name": "Axelar Wrapped Ethereum",
     "symbol": "WETH",
     "decimals": "18",
@@ -96,7 +107,6 @@
   },
   {
     "id": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
-    "entity": "Kujira",
     "name": "Kujira",
     "symbol": "KUJI",
     "decimals": "6",
@@ -107,6 +117,8 @@
   },
   {
     "id": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdc",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",
@@ -117,6 +129,8 @@
   },
   {
     "id": "ibc/E6773A970EA824CA7E62467098506762DAD69083BB71CB1603337D9F1A8CF123",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "arb-wei",
     "name": "Axelar Arbitrum",
     "symbol": "ARB",
     "decimals": "18",
@@ -127,7 +141,8 @@
   },
   {
     "id": "ibc/EB2CED20AB0466F18BE49285E56B31306D4C60438A022EA995BA65D5E3CF7E09",
-    "entity": "Secret Network",
+    "origin_chain_id": "secret-4",
+    "origin_id": "uscrt",
     "name": "Secret",
     "symbol": "SCRT",
     "decimals": "6",
@@ -140,6 +155,8 @@
   },
   {
     "id": "ibc/F4B1551A3470D93A725460F109FB57990702B703790D8A21C7DC66AEF3BACBF4",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wbnb-wei",
     "name": "Axelar BNB",
     "symbol": "BNB",
     "decimals": "18",
@@ -150,6 +167,8 @@
   },
   {
     "id": "ibc/FA0006F056DB6719B8C16C551FC392B62F5729978FC0B125AC9A432DBB2AA1A5",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
     "name": "Atom",
     "symbol": "ATOM",
     "decimals": "6",
@@ -160,6 +179,8 @@
   },
   {
     "id": "ibc/FA7775734CC73176B7425910DE001A1D2AD9B6D9E93129A5D0750EAD13E4E63A",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdc",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",

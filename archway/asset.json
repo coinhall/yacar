@@ -235,7 +235,8 @@
   },
   {
     "id": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
-    "entity": "Osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "uosmo",
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
@@ -248,6 +249,8 @@
   },
   {
     "id": "ibc/1112DFAC11501682456D28D0728C1E35E134729F4D8EAA897377ACDFB29F46CC",
+    "origin_chain_id": "qwoyn-1",
+    "origin_id": "uqwoyn",
     "name": "QWOYN",
     "symbol": "QWOYN",
     "decimals": "6",
@@ -258,6 +261,8 @@
   },
   {
     "id": "ibc/13C5990F84FA5D472E1F8BB1BAAEA8774DA5F24128EC02B119107AD21FB52A61",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "weth-wei",
     "name": "ETH.axl",
     "symbol": "ETH.axl",
     "decimals": "18",
@@ -268,6 +273,8 @@
   },
   {
     "id": "ibc/1BCF1FCAFE3568E234787EDFDA12460BD8931B17FE6A729DCD60FAD845558DA1",
+    "origin_chain_id": "vidulum-1",
+    "origin_id": "uvdl",
     "name": "VDL",
     "symbol": "VDL",
     "decimals": "6",
@@ -278,7 +285,8 @@
   },
   {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-    "entity": "Cosmos",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
     "name": "Atom",
     "symbol": "ATOM",
     "decimals": "6",
@@ -291,6 +299,8 @@
   },
   {
     "id": "ibc/28A2923B26BD4CED9D664B032904D37AABE1F08E8C9E97B0FA18E885CA978EBC",
+    "origin_chain_id": "empowerchain-1",
+    "origin_id": "umpwr",
     "name": "MPWR",
     "symbol": "MPWR",
     "decimals": "6",
@@ -301,6 +311,8 @@
   },
   {
     "id": "ibc/2AE1ECA44CAD0C933CE178742595CE6796530FA1983E4FA7F4E43FBB5854D505",
+    "origin_chain_id": "cudos-1",
+    "origin_id": "acudos",
     "name": "CUDOS",
     "symbol": "CUDOS",
     "decimals": "18",
@@ -311,6 +323,8 @@
   },
   {
     "id": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "ugraviton",
     "name": "GRAV",
     "symbol": "GRAV",
     "decimals": "6",
@@ -321,6 +335,8 @@
   },
   {
     "id": "ibc/381C09E1B743A8D893DF43B0861FE77AB2C437ED4BE10CB827A0A38285C11977",
+    "origin_chain_id": "secret-4",
+    "origin_id": "secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm",
     "name": "SHD",
     "symbol": "SHD",
     "decimals": "8",
@@ -331,6 +347,8 @@
   },
   {
     "id": "ibc/3A2DEEBCD51D0B74FE7CE058D40B0BF4C0E556CE9219E8F25F92CF288FF35F56",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wbtc-satoshi",
     "name": "WBTC.axl",
     "symbol": "WBTC.axl",
     "decimals": "8",
@@ -341,6 +359,8 @@
   },
   {
     "id": "ibc/43897B9739BD63E3A08A88191999C632E052724AB96BD4C74AE31375C991F48D",
+    "origin_chain_id": "noble-1",
+    "origin_id": "uusdc",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",
@@ -351,6 +371,8 @@
   },
   {
     "id": "ibc/4FC395BDCDCD4A3A681C0D222EE64B610AEDB215DB8D18F46B575357F27CD6A7",
+    "origin_chain_id": "passage-2",
+    "origin_id": "upasg",
     "name": "PASG",
     "symbol": "PASG",
     "decimals": "6",
@@ -361,7 +383,8 @@
   },
   {
     "id": "ibc/55D94A32095A766971637425D998AAABF8357A1ABCB1CAC8614887BE51BF1FB1",
-    "entity": "Andromeda",
+    "origin_chain_id": "andromeda-1",
+    "origin_id": "uandr",
     "name": "Andromeda",
     "symbol": "ANDR",
     "decimals": "6",
@@ -373,7 +396,8 @@
   },
   {
     "id": "ibc/6A9571DE6A3F60D7703C3290E2944E806C15A47C1EA6D4AFCD3AE4DC8AF080B1",
-    "entity": "Levana Protocol",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
     "name": "Levana Governance Token",
     "symbol": "LVN",
     "decimals": "6",
@@ -396,6 +420,8 @@
   },
   {
     "id": "ibc/7D065381F942659A8CA06E8BEF5BCD61F1E60B9A648785740F8BAA4064305344",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pbb",
     "name": "Power Bottom",
     "symbol": "PBB",
     "decimals": "6",
@@ -414,7 +440,8 @@
   },
   {
     "id": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
-    "entity": "Agoric",
+    "origin_chain_id": "agoric-3",
+    "origin_id": "ubld",
     "name": "Agoric",
     "symbol": "BLD",
     "decimals": "6",
@@ -426,6 +453,8 @@
   },
   {
     "id": "ibc/8E6E7AB89246F87DA936F0EEA0A40654E7FB6B0C3E834F447EB444AAD95A106F",
+    "origin_chain_id": "omniflixhub-1",
+    "origin_id": "uflix",
     "name": "FLIX",
     "symbol": "FLIX",
     "decimals": "6",
@@ -436,6 +465,8 @@
   },
   {
     "id": "ibc/8F6360B49F40DA2B86F7F1A3335490E126E4DD9BAC60B5ED2EEA08D8A10DC372",
+    "origin_chain_id": "pylons-mainnet-1",
+    "origin_id": "ubedrock",
     "name": "ROCK",
     "symbol": "ROCK",
     "decimals": "6",
@@ -446,6 +477,8 @@
   },
   {
     "id": "ibc/926432AE1C5FA4F857B36D970BE7774C7472079506820B857B75C5DE041DD7A3",
+    "origin_chain_id": "jackal-1",
+    "origin_id": "ujkl",
     "name": "Jackal",
     "symbol": "JKL",
     "decimals": "6",
@@ -457,6 +490,8 @@
   },
   {
     "id": "ibc/9428981CEA5DA704D99DD51AAB2EC62359178392B667138CD4480B3F6585E71C",
+    "origin_chain_id": "injective-1",
+    "origin_id": "inj",
     "name": "INJ",
     "symbol": "INJ",
     "decimals": "18",
@@ -467,6 +502,8 @@
   },
   {
     "id": "ibc/B9E4FD154C92D3A23BEA029906C4C5FF2FE74CB7E3A058290B77197A263CF88B",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdc",
     "name": "USDC.axl",
     "symbol": "USDC.axl",
     "decimals": "6",
@@ -477,6 +514,8 @@
   },
   {
     "id": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",
+    "origin_chain_id": "comdex-1",
+    "origin_id": "ucmdx",
     "name": "CMDX",
     "symbol": "CMDX",
     "decimals": "6",
@@ -487,6 +526,8 @@
   },
   {
     "id": "ibc/C0336ECF2DF64E7D2C98B1422EC2B38DE9EF33C34AAADF18C6F2E3FFC7BE3615",
+    "origin_chain_id": "agoric-3",
+    "origin_id": "uist",
     "name": "Inter Protocol USD",
     "symbol": "IST",
     "decimals": "6",
@@ -497,6 +538,8 @@
   },
   {
     "id": "ibc/C2CFB1C37C146CF95B0784FD518F8030FEFC76C5800105B1742FB65FFE65F873",
+    "origin_chain_id": "akashnet-2",
+    "origin_id": "uakt",
     "name": "AKT",
     "symbol": "AKT",
     "decimals": "6",
@@ -507,6 +550,8 @@
   },
   {
     "id": "ibc/CFD58F8A64F93940D00CABE85B05A6D0FBA1FF4DF42D3C1E23C06DF30A2BAE1F",
+    "origin_chain_id": "planq_7070-2",
+    "origin_id": "aplanq",
     "name": "PLQ",
     "symbol": "PLQ",
     "decimals": "18",
@@ -517,6 +562,8 @@
   },
   {
     "id": "ibc/D13AABCCFE67FFA98AD2FADCCA765BB297171548748231E6BB0A61EFDBE137A8",
+    "origin_chain_id": "coreum-mainnet-1",
+    "origin_id": "ucore",
     "name": "COREUM",
     "symbol": "CORE",
     "decimals": "6",
@@ -535,7 +582,8 @@
   },
   {
     "id": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
-    "entity": "Axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uaxl",
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": "6",
@@ -547,6 +595,8 @@
   },
   {
     "id": "ibc/E3409E92F78AE5BF44DBC7C4741901E21EF73B7B8F98C4D48F2BD360AF242C00",
+    "origin_chain_id": "mainnet-3",
+    "origin_id": "udec",
     "name": "DEC",
     "symbol": "DEC",
     "decimals": "6",
@@ -557,6 +607,8 @@
   },
   {
     "id": "ibc/E6208E49B5FA2353C9C47D2EB9AABA03FED788E4970C7C623F6B511263E7CB11",
+    "origin_chain_id": "bitsong-2b",
+    "origin_id": "ubtsg",
     "name": "BTSG",
     "symbol": "BTSG",
     "decimals": "6",
@@ -567,6 +619,8 @@
   },
   {
     "id": "ibc/EEEF1FE5F4C01CAF351AAC0F6AFFC3C777578DE4D5B1E257091FE185F5991F15",
+    "origin_chain_id": "sentinelhub-2",
+    "origin_id": "udvpn",
     "name": "DVPN",
     "symbol": "DVPN",
     "decimals": "6",
@@ -577,6 +631,8 @@
   },
   {
     "id": "ibc/FBDF85EF021068F5618F8E1017E1DF4CB235C20ECE324D3FE40FAAEA3B2AD878",
+    "origin_chain_id": "core-1",
+    "origin_id": "stk/uosmo",
     "name": "stkOSMO",
     "symbol": "stkOSMO",
     "decimals": "6",
@@ -597,6 +653,8 @@
   },
   {
     "id": "ibc/FCB240D2C3838369155A0FA8970A8BE3EC1042F698269B9D6D9859274F00A0BB",
+    "origin_chain_id": "bitcanna-1",
+    "origin_id": "ubcna",
     "name": "BCNA",
     "symbol": "BCNA",
     "decimals": "6",

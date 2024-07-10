@@ -112,7 +112,8 @@
   },
   {
     "id": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
-    "entity": "Osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "uosmo",
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
@@ -125,7 +126,8 @@
   },
   {
     "id": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
-    "entity": "Axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wbtc-satoshi",
     "name": "Axelar Wrapped Bitcoin",
     "symbol": "axlWBTC",
     "decimals": "8",
@@ -136,6 +138,8 @@
   },
   {
     "id": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
+    "origin_chain_id": "stride-1",
+    "origin_id": "stuluna",
     "name": "Stride LUNA",
     "symbol": "stLUNA",
     "decimals": "6",
@@ -146,6 +150,8 @@
   },
   {
     "id": "ibc/0A31B4B46B4C5F10ED3EF4BFBD1453CE96A270D168FC672436ABCA2DB4CC1401",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "arb-wei",
     "name": "Axelar Arbitrum",
     "symbol": "axlARB",
     "decimals": "6",
@@ -156,6 +162,8 @@
   },
   {
     "id": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098",
+    "origin_chain_id": "stafihub-1",
+    "origin_id": "urswth",
     "name": "Liquid Staked SWTH",
     "symbol": "rSWTH",
     "decimals": "6",
@@ -165,6 +173,8 @@
   },
   {
     "id": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
+    "origin_chain_id": "stride-1",
+    "origin_id": "ustrd",
     "name": "Stride",
     "symbol": "STRD",
     "decimals": "6",
@@ -175,7 +185,8 @@
   },
   {
     "id": "ibc/10BD6ED30BA132AB96F146D71A23B46B2FC19E7D79F52707DC91F2F3A45040AD",
-    "entity": "Secret Network",
+    "origin_chain_id": "secret-4",
+    "origin_id": "uscrt",
     "name": "Secret",
     "symbol": "SCRT",
     "decimals": "6",
@@ -188,7 +199,8 @@
   },
   {
     "id": "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
-    "entity": "Kujira",
+    "origin_chain_id": "kaiyo-1",
+    "origin_id": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
     "name": "USK",
     "symbol": "USK",
     "decimals": "6",
@@ -199,7 +211,8 @@
   },
   {
     "id": "ibc/14E4FD1AB72DE9BF1D6725CBA18373C406CB9A7DA17955299F3F4DC5C6131A4E",
-    "entity": "Axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wmatic-wei",
     "name": "Axelar Matic",
     "symbol": "axlMATIC",
     "decimals": "18",
@@ -210,6 +223,8 @@
   },
   {
     "id": "ibc/177904239844D7D0E59D04F864D1278C07A80688EA67BCFA940E954FFA4CF699",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "uluna",
     "name": "Terra Luna",
     "symbol": "LUNA",
     "decimals": "6",
@@ -228,7 +243,6 @@
   },
   {
     "id": "ibc/1FD62537E1FBE67DF7574E0234112B4FE417B20AADC2F574026CB664EA9492C7",
-    "entity": "Axelar",
     "name": "Axelar ChainLink",
     "symbol": "axlLINK",
     "decimals": "18",
@@ -239,6 +253,8 @@
   },
   {
     "id": "ibc/21F3876A6F5A1A1231768FE8A065C04B5C728632B9B8BA8CA418829E0214D8EE",
+    "origin_chain_id": "dydx-mainnet-1",
+    "origin_id": "adydx",
     "name": "dYdX",
     "symbol": "DYDX",
     "decimals": "18",
@@ -259,7 +275,8 @@
   },
   {
     "id": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-    "entity": "Cosmos",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
     "name": "Cosmos",
     "symbol": "ATOM",
     "decimals": "6",
@@ -272,6 +289,8 @@
   },
   {
     "id": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
+    "origin_chain_id": "mars-1",
+    "origin_id": "umars",
     "name": "Mars",
     "symbol": "MARS",
     "decimals": "6",
@@ -281,6 +300,8 @@
   },
   {
     "id": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+    "origin_chain_id": "noble-1",
+    "origin_id": "uusdc",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",
@@ -290,7 +311,8 @@
   },
   {
     "id": "ibc/2E435CEEEBA18CCB2719E0182BC5D142A364D6CCE9957DE6E1AC4D62127D2913",
-    "entity": "Axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "frax-wei",
     "name": "Axelar Frax",
     "symbol": "axlFRAX",
     "decimals": "18",
@@ -301,7 +323,6 @@
   },
   {
     "id": "ibc/2E9CD07D7A6572A4CDAABBF0FBB89F69A9A362818132221182654819E277220A",
-    "entity": "Axelar",
     "name": "Axelar AAVE",
     "symbol": "axlAAVE",
     "decimals": "18",
@@ -312,6 +333,8 @@
   },
   {
     "id": "ibc/2F991B31CE426BCA00C5270F33AF520C2ACC73690541DBC84CBF68431D54DF04",
+    "origin_chain_id": "kaiyo-1",
+    "origin_id": "factory/kujira1n3fr5f56r2ce0s37wdvwrk98yhhq3unnxgcqus8nzsfxvllk0yxquurqty/ampKUJI",
     "name": "ampKUJI",
     "symbol": "ampKUJI",
     "decimals": "6",
@@ -322,6 +345,8 @@
   },
   {
     "id": "ibc/30C9FA3DF80892CF4615A84845349EAD427670CB38C6B03B0388BE8543B2AB4D",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "uusd",
     "name": "UST",
     "symbol": "UST",
     "decimals": "6",
@@ -331,7 +356,8 @@
   },
   {
     "id": "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
-    "entity": "White Whale",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "uwhale",
     "name": "Whale",
     "symbol": "WHALE",
     "decimals": "6",
@@ -342,7 +368,8 @@
   },
   {
     "id": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
-    "entity": "Juno",
+    "origin_chain_id": "juno-1",
+    "origin_id": "ujuno",
     "name": "Juno",
     "symbol": "JUNO",
     "decimals": "6",
@@ -364,7 +391,8 @@
   },
   {
     "id": "ibc/517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E",
-    "entity": "White Whale",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
     "name": "bWHALE",
     "symbol": "bWHALE",
     "decimals": "6",
@@ -375,6 +403,8 @@
   },
   {
     "id": "ibc/55892DEC5D6213E0353F76D72161037780DB2DCEF27C9134817808AD5005B35A",
+    "origin_chain_id": "juno-1",
+    "origin_id": "juno12etxwkxvms0uy9ak8g3pyq6a53myukufdnx82pakzmjmpm77a0ksr9gs5v",
     "name": "EMPWR",
     "symbol": "EMPWR",
     "decimals": "6",
@@ -394,7 +424,8 @@
   },
   {
     "id": "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
-    "entity": "Gravity Bridge",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "ugraviton",
     "name": "Graviton",
     "symbol": "GRAV",
     "decimals": "6",
@@ -407,6 +438,8 @@
   },
   {
     "id": "ibc/6CD39EACF052B761E3ADC709A11747CFCCA49F07DA23A26E61DB1CEF4D0CCC33",
+    "origin_chain_id": "comdex-1",
+    "origin_id": "ucmdx",
     "name": "ucmdx",
     "symbol": "UCMDX",
     "decimals": "6",
@@ -416,7 +449,6 @@
   },
   {
     "id": "ibc/6EFF21F9E65C9101370C38AA53049E4D1FF2B206A7C350B45F0ED3660E57AC75",
-    "entity": "Axelar",
     "name": "Axelar Uniswap",
     "symbol": "axlUNI",
     "decimals": "18",
@@ -427,7 +459,8 @@
   },
   {
     "id": "ibc/717ED17364D7D0C9F9049F1F38DCCB6C35AE67EB8199E490A4D6046B64F1B52D",
-    "entity": "Furya",
+    "origin_chain_id": "furya-1",
+    "origin_id": "ufury",
     "name": "Furya",
     "symbol": "FURY",
     "decimals": "6",
@@ -439,6 +472,8 @@
   },
   {
     "id": "ibc/745F771553C6359177F99817B0CCC5F7E7606904EF0856016D34DC9EBAA6745C",
+    "origin_chain_id": "injective-1",
+    "origin_id": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
     "name": "AUTISM",
     "symbol": "AUTISM",
     "decimals": "6",
@@ -448,6 +483,8 @@
   },
   {
     "id": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
+    "origin_chain_id": "carbon-1",
+    "origin_id": "swth",
     "name": "Carbon",
     "symbol": "SWTH",
     "decimals": "0",
@@ -467,6 +504,8 @@
   },
   {
     "id": "ibc/7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "untrn",
     "name": "Neutron",
     "symbol": "NTRN",
     "decimals": "6",
@@ -477,6 +516,8 @@
   },
   {
     "id": "ibc/7C5F3D31658C890C44A9FC2FDD5EB68242C33D851BA169DBEC37587A8F50B3D3",
+    "origin_chain_id": "kaiyo-1",
+    "origin_id": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
     "name": "Local Money",
     "symbol": "LOCAL",
     "decimals": "6",
@@ -486,7 +527,8 @@
   },
   {
     "id": "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
-    "entity": "Wosmo",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
     "name": "WOSMO",
     "symbol": "WOSMO",
     "decimals": "6",
@@ -497,6 +539,8 @@
   },
   {
     "id": "ibc/815FC81EB6BD612206BD9A9909A02F7691D24A5B97CDFE2124B1BDCA9D4AB14C",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "uluna",
     "name": "Terra Luna",
     "symbol": "LUNA",
     "decimals": "6",
@@ -506,7 +550,8 @@
   },
   {
     "id": "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759",
-    "entity": "Chihuahua",
+    "origin_chain_id": "chihuahua-1",
+    "origin_id": "uhuahua",
     "name": "Chihuahua",
     "symbol": "HUAHUA",
     "decimals": "6",
@@ -516,7 +561,8 @@
   },
   {
     "id": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
-    "entity": "Astroport",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
     "name": "Astroport",
     "symbol": "ASTRO",
     "decimals": "6",
@@ -527,7 +573,8 @@
   },
   {
     "id": "ibc/96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46",
-    "entity": "Manta DAO",
+    "origin_chain_id": "kaiyo-1",
+    "origin_id": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
     "name": "MNTA",
     "symbol": "MNTA",
     "decimals": "0",
@@ -538,6 +585,8 @@
   },
   {
     "id": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
+    "origin_chain_id": "kava_2222-10",
+    "origin_id": "erc20/tether/usdt",
     "name": "erc20/tether/usdt",
     "symbol": "USDT",
     "decimals": "6",
@@ -547,6 +596,8 @@
   },
   {
     "id": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
     "name": "Wrapped Lido Staked Ether",
     "symbol": "wstETH",
     "decimals": "18",
@@ -557,6 +608,8 @@
   },
   {
     "id": "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992",
+    "origin_chain_id": "kava_2222-10",
+    "origin_id": "erc20/tether/usdt",
     "name": "erc20/tether/usdt",
     "symbol": "USDT",
     "decimals": "6",
@@ -566,7 +619,8 @@
   },
   {
     "id": "ibc/B090DC21658BD57698522880590CA53947B8B09355764131AA94EC75517D46A5",
-    "entity": "Crescent Network",
+    "origin_chain_id": "crescent-1",
+    "origin_id": "ucre",
     "name": "Crescent Network",
     "symbol": "CRE",
     "decimals": "6",
@@ -578,7 +632,8 @@
   },
   {
     "id": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
-    "entity": "Kujira",
+    "origin_chain_id": "kaiyo-1",
+    "origin_id": "ukuji",
     "name": "Kujira",
     "symbol": "KUJI",
     "decimals": "6",
@@ -589,7 +644,8 @@
   },
   {
     "id": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
-    "entity": "Axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdc",
     "name": "Axelar USD Coin",
     "symbol": "axlUSDC",
     "decimals": "6",
@@ -600,7 +656,8 @@
   },
   {
     "id": "ibc/B3F639855EE7478750CC8F82072307ED6E131A8EFF20345E1D136B50C4E5EC36",
-    "entity": "White Whale",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
     "name": "ampWhale",
     "symbol": "ampWHALE",
     "decimals": "6",
@@ -611,7 +668,8 @@
   },
   {
     "id": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
-    "entity": "Axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "weth-wei",
     "name": "Axelar Wrapped Ethereum",
     "symbol": "axlWETH",
     "decimals": "18",
@@ -622,6 +680,8 @@
   },
   {
     "id": "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F",
+    "origin_chain_id": "comdex-1",
+    "origin_id": "ucmst",
     "name": "ucmst",
     "symbol": "CMST",
     "decimals": "6",
@@ -631,7 +691,8 @@
   },
   {
     "id": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
-    "entity": "Axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdt",
     "name": "Axelar USD Tether",
     "symbol": "axlUSDT",
     "decimals": "6",
@@ -642,7 +703,6 @@
   },
   {
     "id": "ibc/E46EF5449878F6B81219163F211E7329CC0729AA99DA8A589A865F82F754ADE8",
-    "entity": "Axelar",
     "name": "Axelar DAI",
     "symbol": "axlDAI",
     "decimals": "18",
@@ -653,7 +713,8 @@
   },
   {
     "id": "ibc/E83DFA7C774804925765C4EFCBFAF2088AFE8B41302AB66000CA6234BD5976E4",
-    "entity": "Andromeda",
+    "origin_chain_id": "andromeda-1",
+    "origin_id": "uandr",
     "name": "Andromeda",
     "symbol": "ANDR",
     "decimals": "6",
@@ -665,6 +726,8 @@
   },
   {
     "id": "ibc/EF21BC562B7EB4D22BBF467D011E3118B7E3AD6D095000A672A9FCECA5ABCF15",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "mkr-wei",
     "name": "Axelar Maker",
     "symbol": "axlMKR",
     "decimals": "6",
@@ -684,6 +747,8 @@
   },
   {
     "id": "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB",
+    "origin_chain_id": "kava_2222-10",
+    "origin_id": "ukava",
     "name": "KAVA",
     "symbol": "KAVA",
     "decimals": "6",
@@ -694,6 +759,8 @@
   },
   {
     "id": "ibc/F709DF4969CD26174C1A53AA95F3D98BE643C1A52C9981487766F96A1811F6A4",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk",
     "name": "RESTAKE",
     "symbol": "RSTK",
     "decimals": "6",
@@ -704,6 +771,8 @@
   },
   {
     "id": "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228",
+    "origin_chain_id": "stride-1",
+    "origin_id": "stuatom",
     "name": "stATOM",
     "symbol": "stATOM",
     "decimals": "6",

@@ -343,7 +343,8 @@
   },
   {
     "id": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
-    "entity": "BitSong",
+    "origin_chain_id": "bitsong-2b",
+    "origin_id": "ubtsg",
     "name": "BitSong",
     "symbol": "BTSG",
     "decimals": "6",
@@ -356,6 +357,8 @@
   },
   {
     "id": "ibc/01BAE2E69D02670B22758FBA74E4114B6E88FC1878936C919DA345E6C6C92ABF",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
     "name": "bWHALE",
     "symbol": "bWHALE",
     "decimals": "6",
@@ -366,7 +369,8 @@
   },
   {
     "id": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9",
-    "entity": "BitCanna",
+    "origin_chain_id": "bitcanna-1",
+    "origin_id": "ubcna",
     "name": "BitCanna",
     "symbol": "BCNA",
     "decimals": "6",
@@ -379,7 +383,8 @@
   },
   {
     "id": "ibc/107D152BB3176FAEBF4C2A84C5FFDEEA7C7CB4FE1BBDAB710F1FD25BCD055CBF",
-    "entity": "Terra Money",
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "uluna",
     "name": "Luna",
     "symbol": "LUNA",
     "decimals": "6",
@@ -390,7 +395,8 @@
   },
   {
     "id": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27",
-    "entity": "Terra Money",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "uusd",
     "name": "Terra UST Classic",
     "symbol": "USTC",
     "decimals": "6",
@@ -403,6 +409,8 @@
   },
   {
     "id": "ibc/2F7C2A3D5D42553ED46F57D8B0DE3733B1B5FF571E2C6A051D34525904B4C0AF",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
     "name": "ampWHALE",
     "symbol": "ampWHALE",
     "decimals": "6",
@@ -413,6 +421,8 @@
   },
   {
     "id": "ibc/3A6ADE78FB8169C034C29C4F2E1A61CE596EC8235366F22381D981A98F1F5A5C",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "uwhale",
     "name": "WHALE",
     "symbol": "WHALE",
     "decimals": "6",
@@ -423,7 +433,8 @@
   },
   {
     "id": "ibc/52423136339C1CE8C91F6A586DFE41591BDDD4665AE526DFFA8421F9ACF95196",
-    "entity": "e-Money",
+    "origin_chain_id": "emoney-3",
+    "origin_id": "ungm",
     "name": "e-Money",
     "symbol": "NGM",
     "decimals": "6",
@@ -436,6 +447,8 @@
   },
   {
     "id": "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F",
+    "origin_chain_id": "mantle-1",
+    "origin_id": "umntl",
     "name": "Asset Mantle",
     "symbol": "MNTL",
     "decimals": "6",
@@ -446,7 +459,8 @@
   },
   {
     "id": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A",
-    "entity": "Dig Chain",
+    "origin_chain_id": "dig-1",
+    "origin_id": "udig",
     "name": "Dig Chain",
     "symbol": "DIG",
     "decimals": "6",
@@ -459,7 +473,8 @@
   },
   {
     "id": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898",
-    "entity": "Persistence",
+    "origin_chain_id": "core-1",
+    "origin_id": "uxprt",
     "name": "Persistence",
     "symbol": "XPRT",
     "decimals": "6",
@@ -472,7 +487,8 @@
   },
   {
     "id": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75",
-    "entity": "Terra Money",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "uluna",
     "name": "Terra Classic",
     "symbol": "LUNC",
     "decimals": "6",
@@ -485,7 +501,8 @@
   },
   {
     "id": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0",
-    "entity": "Comdex",
+    "origin_chain_id": "comdex-1",
+    "origin_id": "ucmdx",
     "name": "Comdex",
     "symbol": "CMDX",
     "decimals": "6",
@@ -498,7 +515,8 @@
   },
   {
     "id": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD",
-    "entity": "Secret Network",
+    "origin_chain_id": "secret-4",
+    "origin_id": "uscrt",
     "name": "Secret",
     "symbol": "SCRT",
     "decimals": "6",
@@ -511,7 +529,8 @@
   },
   {
     "id": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C",
-    "entity": "e-Money",
+    "origin_chain_id": "emoney-3",
+    "origin_id": "eeur",
     "name": "e-Money EUR",
     "symbol": "EEUR",
     "decimals": "6",
@@ -524,7 +543,8 @@
   },
   {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-    "entity": "Cosmos",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
     "name": "Atom",
     "symbol": "ATOM",
     "decimals": "6",
@@ -537,7 +557,8 @@
   },
   {
     "id": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241",
-    "entity": "Chihuahua",
+    "origin_chain_id": "chihuahua-1",
+    "origin_id": "uhuahua",
     "name": "Chihuahua",
     "symbol": "HUAHUA",
     "decimals": "6",
@@ -550,6 +571,8 @@
   },
   {
     "id": "ibc/D8D6271EC54E3A96C6B9FB6C2BA9E99692B07CEB42754638029657072EA48337",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac",
     "name": "RAC",
     "symbol": "RAC",
     "decimals": "6",
@@ -560,7 +583,8 @@
   },
   {
     "id": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A",
-    "entity": "Akash Network",
+    "origin_chain_id": "akashnet-2",
+    "origin_id": "uakt",
     "name": "Akash Network",
     "symbol": "AKT",
     "decimals": "6",
@@ -573,6 +597,8 @@
   },
   {
     "id": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdc",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": "6",
@@ -583,7 +609,8 @@
   },
   {
     "id": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-    "entity": "Osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "uosmo",
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
@@ -596,7 +623,8 @@
   },
   {
     "id": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885",
-    "entity": "Stargaze",
+    "origin_chain_id": "stargaze-1",
+    "origin_id": "ustars",
     "name": "Stargaze",
     "symbol": "STARS",
     "decimals": "6",
@@ -1191,16 +1219,6 @@
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hopelogo.png",
     "coingecko": "https://www.coingecko.com/en/coins/hope-galaxy"
-  },
-  {
-    "id": "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
-    "entity": "POSTHUMAN",
-    "name": "POSTHUMAN",
-    "symbol": "PHMN",
-    "decimals": "6",
-    "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/PHMN.png",
-    "coingecko": "https://www.coingecko.com/en/coins/posthuman"
   },
   {
     "id": "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
