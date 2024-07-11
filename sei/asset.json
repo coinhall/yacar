@@ -1918,6 +1918,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeDQ3eTltcGo1MzdsZG5zeDMzYTM0dzNsOTV6MmZ3dGd5MmxseW4vQlRTRUk%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1xjdg6lvp35qm6swzmk34r3hcv4kf946l2mvjg7ecz67lyd9z0wrqxm4898/monocles",
+    "name": "monocles",
+    "symbol": "Monocles",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeGpkZzZsdnAzNXFtNnN3em1rMzRyM2hjdjRrZjk0NmwybXZqZzdlY3o2N2x5ZDl6MHdycXhtNDg5OC9tb25vY2xlcw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1xjdg6lvp35qm6swzmk34r3hcv4kf946l2mvjg7ecz67lyd9z0wrqxm4898/monocles/vest",
+    "name": "monocles Vests",
+    "symbol": "Monocles/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeGpkZzZsdnAzNXFtNnN3em1rMzRyM2hjdjRrZjk0NmwybXZqZzdlY3o2N2x5ZDl6MHdycXhtNDg5OC9tb25vY2xlcy92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1xm2pytv4nkljevy80rdwj7nteffqvf76pkqpdr/scam",
     "name": "Wolf Or Sheep",
     "symbol": "SCAM",
