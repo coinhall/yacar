@@ -629,6 +629,22 @@
     "icon": "https://ipfs.moralis.io:2053/ipfs/QmWQCFEx7mKbLkDXPsQULMbPNQrradvcK8tk1CG5MJafFm/communism.png"
   },
   {
+    "id": "factory/sei1ccv5662jtt8th9uzzvqgxg3dkaelw2nhjukxysvly4fqam0xttlqekmnje/nrt",
+    "name": "Naruto Uzumaki Jr",
+    "symbol": "nrt",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxY2N2NTY2Mmp0dDh0aDl1enp2cWd4ZzNka2FlbHcybmhqdWt4eXN2bHk0ZnFhbTB4dHRscWVrbW5qZS9ucnQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ccv5662jtt8th9uzzvqgxg3dkaelw2nhjukxysvly4fqam0xttlqekmnje/nrt/vest",
+    "name": "Naruto Uzumaki Jr Vests",
+    "symbol": "nrt/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxY2N2NTY2Mmp0dDh0aDl1enp2cWd4ZzNka2FlbHcybmhqdWt4eXN2bHk0ZnFhbTB4dHRscWVrbW5qZS9ucnQvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
     "entity": "SEIGNEUR",
     "name": "SEIGNEUR",
