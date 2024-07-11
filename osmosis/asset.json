@@ -12240,12 +12240,13 @@
     "origin_chain": "juno",
     "origin_chain_id": "juno-1",
     "origin_id": "juno1dpany8c0lj526lsa02sldv7shzvnw5dt5ues72rk35hd69rrydxqeraz8l",
+    "entity": "Light",
     "name": "LIGHT",
     "symbol": "LIGHT",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNEQzA4QkRGMjY4OTk3OERCQ0VFMjhDN0FEQzI5MzJBQTY1OEIyRjY0QjM3Mjc2MEZCQzVBMDA1ODY2OUFEMjk%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNEQzA4QkRGMjY4OTk3OERCQ0VFMjhDN0FEQzI5MzJBQTY1OEIyRjY0QjM3Mjc2MEZCQzVBMDA1ODY2OUFEMjk%3D&pagination.limit=1",
+    "total_supply": "1000000",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/light.png"
   },
   {
