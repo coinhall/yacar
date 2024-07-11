@@ -1271,6 +1271,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbjBhM2VtdTB0MjJmeGh4MjlyMnRrcGtscDNldGdzdzN0YTN5M3AvU0VJQk9OSw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1ng99vzmzrvh3vlnkx0py8zuuetkn4y22hflfyhwfk9qq2a20lgxsvfnxqq/kek",
+    "name": "WILL SHREK",
+    "symbol": "KEK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbmc5OXZ6bXpydmgzdmxua3gwcHk4enV1ZXRrbjR5MjJoZmxmeWh3Zms5cXEyYTIwbGd4c3ZmbnhxcS9rZWs%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ng99vzmzrvh3vlnkx0py8zuuetkn4y22hflfyhwfk9qq2a20lgxsvfnxqq/kek/vest",
+    "name": "WILL SHREK Vests",
+    "symbol": "KEK/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbmc5OXZ6bXpydmgzdmxua3gwcHk4enV1ZXRrbjR5MjJoZmxmeWh3Zms5cXEyYTIwbGd4c3ZmbnhxcS9rZWsvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1nl4338vjxwaz4lxctxeg0j8pak8t2nrvtdrlvw63990l5ua7rtuqyntaux/atom",
     "name": "ATOM",
     "symbol": "atom",
