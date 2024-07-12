@@ -1032,6 +1032,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaHB4dGM3aDJjMnh6emw4amxjcHkyaGRwdXNhbDRnZXEybTR1ZHEvc2Fp&pagination.limit=1"
   },
   {
+    "id": "factory/sei1hr9f3af3qrnmasaug9dp8tvuu4a87kjuynef6npjmw28qu3x0snsqme0lm/reid",
+    "name": "Reid cc",
+    "symbol": "REID",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaHI5ZjNhZjNxcm5tYXNhdWc5ZHA4dHZ1dTRhODdranV5bmVmNm5wam13MjhxdTN4MHNuc3FtZTBsbS9yZWlk&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1hr9f3af3qrnmasaug9dp8tvuu4a87kjuynef6npjmw28qu3x0snsqme0lm/reid/vest",
+    "name": "Reid cc Vests",
+    "symbol": "REID/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaHI5ZjNhZjNxcm5tYXNhdWc5ZHA4dHZ1dTRhODdranV5bmVmNm5wam13MjhxdTN4MHNuc3FtZTBsbS9yZWlkL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1hy0pp2rd29at499ltefdj2d8tmlpr5l5qnz9r66tmrl3qa6574ustnpudq/juno",
     "name": "Juno",
     "symbol": "juno",
