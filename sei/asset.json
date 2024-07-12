@@ -1622,6 +1622,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcjVueHBhZmc3bHVrcXM0ZWRocDNrdHRuenZhZG1ld3hwZnk0NmEvU2FpbG9yVmVudXM%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1r6m3a08xt4hkghqfdd70dclacyr7lcgkfv62pmqlw6hmhcgx620slzx6kk/tes",
+    "name": "test",
+    "symbol": "tes",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcjZtM2EwOHh0NGhrZ2hxZmRkNzBkY2xhY3lyN2xjZ2tmdjYycG1xbHc2aG1oY2d4NjIwc2x6eDZray90ZXM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1r6m3a08xt4hkghqfdd70dclacyr7lcgkfv62pmqlw6hmhcgx620slzx6kk/tes/vest",
+    "name": "test Vests",
+    "symbol": "tes/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcjZtM2EwOHh0NGhrZ2hxZmRkNzBkY2xhY3lyN2xjZ2tmdjYycG1xbHc2aG1oY2d4NjIwc2x6eDZray90ZXMvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1r7s9enhsn485rma4uchgvz46hde4caw7hspf6y/SEIGON",
     "entity": "SeiDragon",
     "name": "SeiDragon",
