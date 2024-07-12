@@ -799,6 +799,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZWtwejY4Mm5ma3JqMzZ0ZTZkc2N1bGpueTB3OTMwaHJoeDBtdGo4eWZ0Z3c0M2owaHBzczN0ajdhdC9mdXR1cmUvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1epa25hnlexec6674zmznhtza6xc37ww6jx59vh3c3va9wjdvfd6qdw3wns/bos",
+    "name": "BB",
+    "symbol": "BOS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZXBhMjVobmxleGVjNjY3NHptem5odHphNnhjMzd3dzZqeDU5dmgzYzN2YTl3amR2ZmQ2cWR3M3ducy9ib3M%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1epa25hnlexec6674zmznhtza6xc37ww6jx59vh3c3va9wjdvfd6qdw3wns/bos/vest",
+    "name": "BB Vests",
+    "symbol": "BOS/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZXBhMjVobmxleGVjNjY3NHptem5odHphNnhjMzd3dzZqeDU5dmgzYzN2YTl3amR2ZmQ2cWR3M3ducy9ib3MvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1epyu0nrw0gzllswnmlt42a58gl8wlzmr4u86gv/SEIWA",
     "entity": "SEIWA",
     "name": "SEIWA - 清和",
@@ -807,6 +823,22 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZXB5dTBucncwZ3psbHN3bm1sdDQyYTU4Z2w4d2x6bXI0dTg2Z3YvU0VJV0E%3D&pagination.limit=1",
     "icon": "https://ipfs.moralis.io:2053/ipfs/QmRuKMtApDFNLjwgnktccGZiucajxJiU3Bo8RxY7NM9NrZ/seiwa.png"
+  },
+  {
+    "id": "factory/sei1eq37sws250klhcethnfyl0fk09l4l2jkrawgc6hyl9cg385k3ypsnnrfqa/xvr",
+    "name": "Xavier",
+    "symbol": "XVR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZXEzN3N3czI1MGtsaGNldGhuZnlsMGZrMDlsNGwyamtyYXdnYzZoeWw5Y2czODVrM3lwc25ucmZxYS94dnI%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1eq37sws250klhcethnfyl0fk09l4l2jkrawgc6hyl9cg385k3ypsnnrfqa/xvr/vest",
+    "name": "Xavier Vests",
+    "symbol": "XVR/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZXEzN3N3czI1MGtsaGNldGhuZnlsMGZrMDlsNGwyamtyYXdnYzZoeWw5Y2czODVrM3lwc25ucmZxYS94dnIvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1eq64vpf3xpm2xp98hjhm2a7t9ntx9yyz88y6w2/udrgn",
@@ -915,6 +947,22 @@
     "circ_supply": "100000000000",
     "total_supply": "100000000000",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/popeye.png"
+  },
+  {
+    "id": "factory/sei1fuxmja9e7044l80e0r4ugr6xp44wydx960jdfk893d4a6k5ng4fsqwys5e/txt",
+    "name": "txt",
+    "symbol": "txt",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZnV4bWphOWU3MDQ0bDgwZTByNHVncjZ4cDQ0d3lkeDk2MGpkZms4OTNkNGE2azVuZzRmc3F3eXM1ZS90eHQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1fuxmja9e7044l80e0r4ugr6xp44wydx960jdfk893d4a6k5ng4fsqwys5e/txt/vest",
+    "name": "txt Vests",
+    "symbol": "txt/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZnV4bWphOWU3MDQ0bDgwZTByNHVncjZ4cDQ0d3lkeDk2MGpkZms4OTNkNGE2azVuZzRmc3F3eXM1ZS90eHQvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1fytpv2c0g644kljjff30mqgg4vjmzkcrz4xhm90kazzuzv052lfsdasume/honey",
