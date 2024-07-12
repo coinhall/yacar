@@ -1383,6 +1383,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbmw0MzM4dmp4d2F6NGx4Y3R4ZWcwajhwYWs4dDJucnZ0ZHJsdnc2Mzk5MGw1dWE3cnR1cXludGF1eC9hdG9tL3Zlc3Q%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1nmm3gzqhtsq9xjakn292544a3twdxrz2jy3azydp4k4j62z282pqd00am4/jack",
+    "name": "JACK-5M",
+    "symbol": "JACK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbm1tM2d6cWh0c3E5eGpha24yOTI1NDRhM3R3ZHhyejJqeTNhenlkcDRrNGo2MnoyODJwcWQwMGFtNC9qYWNr&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1nmm3gzqhtsq9xjakn292544a3twdxrz2jy3azydp4k4j62z282pqd00am4/jack/vest",
+    "name": "JACK-5M Vests",
+    "symbol": "JACK/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbm1tM2d6cWh0c3E5eGpha24yOTI1NDRhM3R3ZHhyejJqeTNhenlkcDRrNGo2MnoyODJwcWQwMGFtNC9qYWNrL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1ntacl2rjuhha4gjlzaal4as5qtnjwxtf47sfg3/useito",
     "name": "Seito Kaiba",
     "symbol": "SEITO",
