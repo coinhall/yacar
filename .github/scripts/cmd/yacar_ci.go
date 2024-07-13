@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 
+	"github.com/coinhall/yacar/cmd/ibcpropagator"
 	"github.com/coinhall/yacar/cmd/sorter"
 	"github.com/coinhall/yacar/cmd/validator"
 	"github.com/coinhall/yacar/internal/walker"
@@ -25,6 +26,7 @@ func main() {
 
 	yacarFilePaths := walker.GetLocalYacarFilePaths(projRoot)
 
+	ibcpropagator.Start(yacarFilePaths)
 	sorter.Start(yacarFilePaths)
 	validator.Start(yacarFilePaths, ignoreErrorSet(projRoot))
 }

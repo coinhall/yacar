@@ -1,15 +1,13 @@
 package sorter
 
 import (
-	"encoding/json"
 	"log"
-	"os"
 	"path/filepath"
 	"sort"
-	"strings"
 
 	"github.com/coinhall/yacar/internal/unmarshaler"
 	"github.com/coinhall/yacar/internal/walker"
+	"github.com/coinhall/yacar/internal/writer"
 	"github.com/coinhall/yacar/internal/yacar"
 	"github.com/coinhall/yacarsdk/v2"
 )
@@ -47,7 +45,7 @@ func handleAccount(fp string) {
 		panic(err)
 	}
 	sort.Stable(yacarsdk.ByEnforcedAccountOrder(accounts))
-	if err := writeFile(fp, accounts); err != nil {
+	if err := writer.WriteFile(fp, accounts); err != nil {
 		panic(err)
 	}
 }
@@ -58,7 +56,7 @@ func handleAsset(fp string) {
 		panic(err)
 	}
 	sort.Stable(yacarsdk.ByEnforcedAssetOrder(assets))
-	if err := writeFile(fp, assets); err != nil {
+	if err := writer.WriteFile(fp, assets); err != nil {
 		panic(err)
 	}
 }
@@ -69,7 +67,7 @@ func handleBinary(fp string) {
 		panic(err)
 	}
 	sort.Stable(yacarsdk.ByEnforcedBinaryOrder(binaries))
-	if err := writeFile(fp, binaries); err != nil {
+	if err := writer.WriteFile(fp, binaries); err != nil {
 		panic(err)
 	}
 }
@@ -80,7 +78,7 @@ func handleContract(fp string) {
 		panic(err)
 	}
 	sort.Stable(yacarsdk.ByEnforcedContractOrder(contracts))
-	if err := writeFile(fp, contracts); err != nil {
+	if err := writer.WriteFile(fp, contracts); err != nil {
 		panic(err)
 	}
 }
@@ -91,7 +89,7 @@ func handleEntity(fp string) {
 		panic(err)
 	}
 	sort.Stable(yacarsdk.ByEnforcedEntityOrder(entities))
-	if err := writeFile(fp, entities); err != nil {
+	if err := writer.WriteFile(fp, entities); err != nil {
 		panic(err)
 	}
 }
@@ -102,29 +100,7 @@ func handlePool(fp string) {
 		panic(err)
 	}
 	sort.Stable(yacarsdk.ByEnforcedPoolOrder(pools))
-	if err := writeFile(fp, pools); err != nil {
+	if err := writer.WriteFile(fp, pools); err != nil {
 		panic(err)
 	}
-}
-
-func writeFile[T any](path string, data []T) error {
-	var sb strings.Builder
-	sbEnc := json.NewEncoder(&sb)
-	sbEnc.SetEscapeHTML(false)
-	sbEnc.SetIndent("", "  ")
-	if err := sbEnc.Encode(data); err != nil {
-		panic(err)
-	}
-
-	parentDir := filepath.Dir(path)
-	if err := os.MkdirAll(parentDir, 0o755); err != nil {
-		return err
-	}
-
-	// If file exists, overwrite the contents completely
-	if err := os.WriteFile(path, []byte(sb.String()), 0o644); err != nil {
-		return err
-	}
-
-	return nil
 }

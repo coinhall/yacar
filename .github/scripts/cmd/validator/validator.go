@@ -1,6 +1,7 @@
 package validator
 
 import (
+	"fmt"
 	"log"
 	"path/filepath"
 	"slices"
@@ -50,8 +51,7 @@ func validateYacarJSONs(filePaths []string, ignore map[string]struct{}) {
 		errorCheck(handleContract(contract), ignore)
 		errorCheck(handleBinary(binary), ignore)
 		errorCheck(handleAsset(asset, entity), ignore)
-		errorCheck(handleEntity(entity, account, asset, binary,
-			contract, pool), ignore)
+		errorCheck(handleEntity(entity, account, asset, binary, contract), ignore)
 	}
 }
 
@@ -125,12 +125,20 @@ func handleContract(fp string) error {
 	return err
 }
 
-func handleEntity(entity, account, asset, binary, contract, pool string) error {
+func handleEntity(entity, account, asset, binary, contract string) error {
 	entities, err := unmarshaler.UnmarshalInto(entity, make([]yacarsdk.Entity, 0))
 	if err != nil {
 		return err
 	}
 	usedEntities := map[string]struct{}{}
+
+	for _, e := range entities {
+		if _, ok := usedEntities[e.Name]; !ok {
+			usedEntities[e.Name] = struct{}{}
+			continue
+		}
+		return fmt.Errorf("duplicate entity: %s", e.Name)
+	}
 
 	if len(account) > 0 {
 		accounts, err := unmarshaler.UnmarshalInto(account, make([]yacarsdk.Account, 0))
