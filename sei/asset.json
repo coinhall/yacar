@@ -1351,6 +1351,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbHhreW55c2N0NG12bG1qbjhnemRsY3gyODZwNmVxdHB6NnVsNGV3NXowcWpjZXRqNzdmc2x4MG5tOC9zaGliYS92ZXN0&pagination.limit=1"
   },
   {
+    "id": "factory/sei1lyy680hlukzm006uy4ed6rk72j5gqccdmlwa2twmq9qx247gayzquq647s/pxl",
+    "name": "pixel",
+    "symbol": "pxl",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbHl5NjgwaGx1a3ptMDA2dXk0ZWQ2cms3Mmo1Z3FjY2RtbHdhMnR3bXE5cXgyNDdnYXl6cXVxNjQ3cy9weGw%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1lyy680hlukzm006uy4ed6rk72j5gqccdmlwa2twmq9qx247gayzquq647s/pxl/vest",
+    "name": "pixel Vests",
+    "symbol": "pxl/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbHl5NjgwaGx1a3ptMDA2dXk0ZWQ2cms3Mmo1Z3FjY2RtbHdhMnR3bXE5cXgyNDdnYXl6cXVxNjQ3cy9weGwvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1lzdrm3r0gdwdcvq0zzyxrdxq2xrfaeruvxeex0ytaj3vquppvnnqnmd2gf/weth",
     "name": "wETH",
     "symbol": "weth",
@@ -1373,6 +1389,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbXUzOXpndmRzcTNyanU0ZGhyN3A5dzRubTloM3l2cXdrcHhkbTgvYm9uc2Vp&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1mul5at2kjrhx2l54vywepc8uhxpzy5seckjspfjy4uz9jvsgdstsx7k73t/pamp",
+    "name": "Piump",
+    "symbol": "PAMP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbXVsNWF0Mmtqcmh4Mmw1NHZ5d2VwYzh1aHhwenk1c2Vja2pzcGZqeTR1ejlqdnNnZHN0c3g3azczdC9wYW1w&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1mul5at2kjrhx2l54vywepc8uhxpzy5seckjspfjy4uz9jvsgdstsx7k73t/pamp/vest",
+    "name": "Piump Vests",
+    "symbol": "PAMP/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbXVsNWF0Mmtqcmh4Mmw1NHZ5d2VwYzh1aHhwenk1c2Vja2pzcGZqeTR1ejlqdnNnZHN0c3g3azczdC9wYW1wL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1myphvfn9f9q7uys372kcurpzsh74u3vpmtmdpw/SQUID",
