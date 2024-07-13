@@ -1,6 +1,42 @@
 [
   {
+    "id": "auri-core1f8u46xpl2nl6f68syqd7swj57c6l8m3s344w2t",
+    "name": "AURIEL",
+    "symbol": "AURIEL",
+    "decimals": "4",
+    "type": "cw20"
+  },
+  {
+    "id": "cibc-core1vwgy2nv8dq9qvr3c5a2qcwqtkw4gmkcu94328v",
+    "name": "MYFTTT",
+    "symbol": "MYFTTT",
+    "decimals": "2",
+    "type": "cw20"
+  },
+  {
+    "id": "cmsgft-core1u5w0mzyjext7atp56e8vyhxmete54gfegvjyc8",
+    "name": "MSGU",
+    "symbol": "MSGU",
+    "decimals": "2",
+    "type": "cw20"
+  },
+  {
     "id": "core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+    "name": "Ripple",
+    "symbol": "XRP",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/xrpl/images/xrp.svg"
+  },
+  {
+    "id": "ctoken-core1xkv90l09g3mmu3tt5ts2jydkh8t47ud35cuat4",
+    "name": "MYFT",
+    "symbol": "MYFT",
+    "decimals": "2",
+    "type": "cw20"
+  },
+  {
+    "id": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
     "name": "Ripple",
     "symbol": "XRP",
     "decimals": "6",
@@ -16,5 +52,34 @@
     "type": "native",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/coreum/images/coreum.svg",
     "coingecko": "https://www.coingecko.com/coins/coreum"
+  },
+  {
+    "id": "ulone-core1zgdprlr3hz5hhke9ght8mq723a8wlnzqwd60hm",
+    "name": "Lone",
+    "symbol": "Lone",
+    "decimals": "1",
+    "type": "cw20",
+    "icon": "https://twitter.com/helwan_mande"
+  },
+  {
+    "id": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
+    "name": "SARA",
+    "symbol": "SARA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "xrpl11278ecf9e-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+    "name": "XRPL11278ECF9E",
+    "symbol": "XRPL11278ECF9E",
+    "decimals": "15",
+    "type": "cw20"
+  },
+  {
+    "id": "xrpl691210a91a-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+    "name": "XRPL691210A91A",
+    "symbol": "XRPL691210A91A",
+    "decimals": "15",
+    "type": "cw20"
   }
 ]
