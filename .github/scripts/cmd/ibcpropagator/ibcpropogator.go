@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 	"path/filepath"
+	"slices"
 	"strings"
 
 	"github.com/coinhall/yacar/internal/unmarshaler"
@@ -12,15 +13,15 @@ import (
 )
 
 func Start(filePaths []string) {
-	chainPaths, chainAssetMap := getChainPathsAssets(filePaths)
-	updatedAssetMap := propogateNatives(chainAssetMap)
+	chainPaths, chainAssetsMap := getChainPathsAssets(filePaths)
+	updatedAssetMap := resolveBackwards(chainAssetsMap)
 	updateFiles(chainPaths, updatedAssetMap)
 	log.Println("Propogated native assets successfully...")
 }
 
 func getChainPathsAssets(filePaths []string) (map[string]string, map[string][]yacarsdk.Asset) {
 	chainPaths := make(map[string]string)
-	chainAssetMap := make(map[string][]yacarsdk.Asset)
+	chainAssetsMap := make(map[string][]yacarsdk.Asset)
 	for _, fp := range filePaths {
 		base := filepath.Base(fp)
 		if base != "asset.json" {
@@ -37,48 +38,45 @@ func getChainPathsAssets(filePaths []string) (map[string]string, map[string][]ya
 			panic(err)
 		}
 
-		chainAssetMap[chain] = append(chainAssetMap[chain], assets...)
+		chainAssetsMap[chain] = append(chainAssetsMap[chain], assets...)
 	}
 
-	return chainPaths, chainAssetMap
+	return chainPaths, chainAssetsMap
 }
 
-func propogateNatives(chainAssetMap map[string][]yacarsdk.Asset) map[string][]yacarsdk.Asset {
-	for curChain, curAssets := range chainAssetMap {
-		for otherChain, otherAssets := range chainAssetMap {
-			if curChain == otherChain {
+func resolveBackwards(chainAssetsMap map[string][]yacarsdk.Asset) map[string][]yacarsdk.Asset {
+	for chain, assets := range chainAssetsMap {
+		for i, asset := range assets {
+			// Skip if asset is not IBC or does not yet have an associated origin
+			if asset.Type != "ibc" || len(asset.OriginId) == 0 {
 				continue
 			}
 
-			chainAssetMap[otherChain] = modifyDownstreams(curAssets, otherAssets)
-		}
-	}
-	return chainAssetMap
-}
-
-func modifyDownstreams(root, downstream []yacarsdk.Asset) []yacarsdk.Asset {
-	for _, ra := range root {
-		if ra.Type == "ibc" {
-			continue
-		}
-
-		for i, da := range downstream {
-			if da.Type != "ibc" || len(da.OriginId) == 0 {
-				continue
+			rootAssets, ok := chainAssetsMap[asset.OriginChain]
+			if !ok {
+				log.Fatalf("unable to find origin chain in YACAR - %s %s", chain, asset.Id)
 			}
 
-			// This might not be unique enough
-			if da.OriginId != ra.Id {
+			isMatchingRootAsset := func(ra yacarsdk.Asset) bool { return ra.Id == asset.OriginId }
+			ri := slices.IndexFunc(rootAssets, isMatchingRootAsset)
+			if ri == -1 {
+				log.Println("missing root asset -", asset.OriginId)
 				continue
 			}
+			rootAsset := rootAssets[ri]
+			asset.Name = rootAsset.Name
+			asset.Symbol = rootAsset.Symbol
+			asset.Icon = rootAsset.Icon
 
-			da.Name = ra.Name
-			da.Symbol = ra.Symbol
-			downstream[i] = da
+			// Update asset
+			assets[i] = asset
 		}
+
+		// Update chain assets
+		chainAssetsMap[chain] = assets
 	}
 
-	return downstream
+	return chainAssetsMap
 }
 
 func updateFiles(chainPaths map[string]string, updatedAssets map[string][]yacarsdk.Asset) {
