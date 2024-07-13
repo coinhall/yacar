@@ -2112,6 +2112,22 @@
     "icon": "https://avatars.githubusercontent.com/u/155251877"
   },
   {
+    "id": "factory/sei1vnp2stmedtcm7sqp5utarhv69duttjdnnjx349df00sk4kvrpnrs8mj97f/usdt",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdm5wMnN0bWVkdGNtN3NxcDV1dGFyaHY2OWR1dHRqZG5uangzNDlkZjAwc2s0a3ZycG5yczhtajk3Zi91c2R0&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1vnp2stmedtcm7sqp5utarhv69duttjdnnjx349df00sk4kvrpnrs8mj97f/usdt/vest",
+    "name": "Tether Vests",
+    "symbol": "USDT/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdm5wMnN0bWVkdGNtN3NxcDV1dGFyaHY2OWR1dHRqZG5uangzNDlkZjAwc2s0a3ZycG5yczhtajk3Zi91c2R0L3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1vqz050hn76485j95um3ffq82guuck5pkkpatvw/1",
     "name": "pussy",
     "symbol": "🐈",
