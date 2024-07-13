@@ -694,6 +694,22 @@
     "icon": "https://ipfs.moralis.io:2053/ipfs/QmdhAWtjegtuHEHiDx7CgwjnYaz7auUNdohSjsbN99TF29/seizo.png"
   },
   {
+    "id": "factory/sei1ddg8mc4yz446tapca666p5jggk3hmtsw68q2xry5g0ax2rvzpqesccgkan/adsf",
+    "name": "asdf",
+    "symbol": "adsf",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZGRnOG1jNHl6NDQ2dGFwY2E2NjZwNWpnZ2szaG10c3c2OHEyeHJ5NWcwYXgycnZ6cHFlc2NjZ2thbi9hZHNm&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ddg8mc4yz446tapca666p5jggk3hmtsw68q2xry5g0ax2rvzpqesccgkan/adsf/vest",
+    "name": "asdf Vests",
+    "symbol": "adsf/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZGRnOG1jNHl6NDQ2dGFwY2E2NjZwNWpnZ2szaG10c3c2OHEyeHJ5NWcwYXgycnZ6cHFlc2NjZ2thbi9hZHNmL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1dsudq65aqal9xme9fu2h0shshmyqh8fu6vcjclm4k3w7zft5z4nqu4v8s0/new",
     "name": "new",
     "symbol": "new",
