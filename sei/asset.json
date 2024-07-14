@@ -1120,6 +1120,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaG41Mnp0cGQ0a2tycnVjZHpxeHdscjk0M21xMjc3c2EwcTY5M2MvdW1pbGs%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1hpwq9atq9q8y3qnduh593ajcqrjeun965uaq4ez9yugwee2azras0us2l6/pamp",
+    "name": "Pamp it",
+    "symbol": "PAMP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaHB3cTlhdHE5cTh5M3FuZHVoNTkzYWpjcXJqZXVuOTY1dWFxNGV6OXl1Z3dlZTJhenJhczB1czJsNi9wYW1w&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1hpwq9atq9q8y3qnduh593ajcqrjeun965uaq4ez9yugwee2azras0us2l6/pamp/vest",
+    "name": "Pamp it Vests",
+    "symbol": "PAMP/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaHB3cTlhdHE5cTh5M3FuZHVoNTkzYWpjcXJqZXVuOTY1dWFxNGV6OXl1Z3dlZTJhenJhczB1czJsNi9wYW1wL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1hpxtc7h2c2xzzl8jlcpy2hdpusal4geq2m4udq/sai",
     "name": "Sex AI on Sei",
     "symbol": "SAI",
