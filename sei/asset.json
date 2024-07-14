@@ -1932,6 +1932,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxc2Q0Yzk5dno0djU2N3FoZHk2bmQwZHJleGtoZnQ3cG1ld3d1eGEvRElDSw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1sun2tlz4f5239ke7a4rzrym546lg7z0hz82mukm9jeuaygmjkucqx38wej/era",
+    "name": "EraDeFi",
+    "symbol": "Era",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxc3VuMnRsejRmNTIzOWtlN2E0cnpyeW01NDZsZzd6MGh6ODJtdWttOWpldWF5Z21qa3VjcXgzOHdlai9lcmE%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1sun2tlz4f5239ke7a4rzrym546lg7z0hz82mukm9jeuaygmjkucqx38wej/era/vest",
+    "name": "EraDeFi Vests",
+    "symbol": "Era/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxc3VuMnRsejRmNTIzOWtlN2E0cnpyeW01NDZsZzd6MGh6ODJtdWttOWpldWF5Z21qa3VjcXgzOHdlai9lcmEvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1svf3urt0frn2hushvhkg6yc3vujy0pnq4dkevq73vgt9qj5thzpq2yjr3x/htl",
     "name": "Hold the line",
     "symbol": "HTL",
