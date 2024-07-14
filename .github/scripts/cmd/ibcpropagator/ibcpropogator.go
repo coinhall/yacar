@@ -54,14 +54,13 @@ func resolveBackwards(chainAssetsMap map[string][]yacarsdk.Asset) map[string][]y
 
 			rootAssets, ok := chainAssetsMap[asset.OriginChain]
 			if !ok {
-				log.Fatalf("unable to find origin chain in YACAR - %s %s", chain, asset.Id)
+				log.Fatalln("unable to find origin chain in YACAR -", chain, asset.Id)
 			}
 
 			isMatchingRootAsset := func(ra yacarsdk.Asset) bool { return ra.Id == asset.OriginId }
 			ri := slices.IndexFunc(rootAssets, isMatchingRootAsset)
 			if ri == -1 {
-				log.Println("missing root asset -", asset.OriginId)
-				continue
+				log.Fatalln("missing root asset -", asset.OriginId)
 			}
 			rootAsset := rootAssets[ri]
 			asset.Name = rootAsset.Name
