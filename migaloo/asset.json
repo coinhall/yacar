@@ -217,7 +217,7 @@
     "type": "ibc",
     "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwNkI0MzhBNzhDNTgxQzUyOTFFMTE0QjIxNTg4QzQxRjk4NTMyRTA0RDUzNjlDRkVFNTgyNUQ5NUQ0NjUyNzg%3D&pagination.limit=1",
     "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwNkI0MzhBNzhDNTgxQzUyOTFFMTE0QjIxNTg4QzQxRjk4NTMyRTA0RDUzNjlDRkVFNTgyNUQ5NUQ0NjUyNzg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/sayve.svg"
   },
   {
     "id": "ibc/44C29C91F202E20C8E28DFB1FA89B725C54171CD77B8948836C72E7A97E4A018",
@@ -237,13 +237,13 @@
     "origin_chain": "terra",
     "origin_chain_id": "phoenix-1",
     "origin_id": "uluna",
-    "name": "Luna Classic",
-    "symbol": "LUNC",
+    "name": "Luna",
+    "symbol": "LUNA",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ2MjdBRDI1MjRFM0UwNTIzMDQ3RTM1QkI3NkNDOTBFMzdEOUQ1N0FDRjE0RjBGQ0JDRUIyNDgwNzA1RjNDQjg%3D&pagination.limit=1",
     "total_supply_api": "https://migaloo-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ2MjdBRDI1MjRFM0UwNTIzMDQ3RTM1QkI3NkNDOTBFMzdEOUQ1N0FDRjE0RjBGQ0JDRUIyNDgwNzA1RjNDQjg%3D&pagination.limit=1",
-    "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
+    "icon": "https://assets.terra.money/icon/svg/Luna.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/",
     "coingecko": "https://www.coingecko.com/en/coins/terra"
   },

@@ -140,6 +140,9 @@ func handleEntity(entity, account, asset, binary, contract string) error {
 		return fmt.Errorf("duplicate entity: %s", e.Name)
 	}
 
+	// Reset
+	usedEntities = map[string]struct{}{}
+
 	if len(account) > 0 {
 		accounts, err := unmarshaler.UnmarshalInto(account, make([]yacarsdk.Account, 0))
 		if err != nil {

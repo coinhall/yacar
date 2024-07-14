@@ -418,7 +418,7 @@
   },
   {
     "id": "ibc/1AE6C91DF755F63FB9E8393F7AE6A1725B2389730C0A46ECE247D761A72DA80D",
-    "origin_chain": "terra2",
+    "origin_chain": "terra",
     "origin_chain_id": "phoenix-1",
     "origin_id": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
     "name": "Staked Astroport",
@@ -769,7 +769,7 @@
     "type": "ibc",
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY0MEUxQzNFMjhGRDQ1RjYxMTk3MURGODkxQUUzREM5MEM4MjVERjc1OURGOEZBQThGMzNGN0Y3MkIzNUFENTY%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY0MEUxQzNFMjhGRDQ1RjYxMTk3MURGODkxQUUzREM5MEM4MjVERjc1OURGOEZBQThGMzNGN0Y3MkIzNUFENTY%3D&pagination.limit=1",
-    "icon": "https://app.astroport.fi/tokens/astro.svg",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg",
     "verification_tx": "kujira-fin"
   },
   {
@@ -1254,13 +1254,13 @@
     "origin_chain": "terra",
     "origin_chain_id": "phoenix-1",
     "origin_id": "uluna",
-    "name": "Luna Classic",
-    "symbol": "LUNC",
+    "name": "Luna",
+    "symbol": "LUNA",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RBNTlDMDA5QTBCM0I5NUUwNTQ5RTZCRjdCMDc1QzgyMzkyODU5ODlGRjQ1N0E4RUREQkI1NkYxMEIyQTY5ODY%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RBNTlDMDA5QTBCM0I5NUUwNTQ5RTZCRjdCMDc1QzgyMzkyODU5ODlGRjQ1N0E4RUREQkI1NkYxMEIyQTY5ODY%3D&pagination.limit=1",
-    "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
+    "icon": "https://assets.terra.money/icon/svg/Luna.svg",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2",
     "verification_tx": "kujira-fin"
   },
