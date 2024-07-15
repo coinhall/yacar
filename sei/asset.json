@@ -1431,6 +1431,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbHpkcm0zcjBnZHdkY3ZxMHp6eXhyZHhxMnhyZmFlcnV2eGVleDB5dGFqM3ZxdXBwdm5ucW5tZDJnZi93ZXRoL3Zlc3Q%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1ms5gc86pdm4eakrqg26qkd0hplwrk0w82gef2yucf9tx0y0ufe5q8xwsuw/close",
+    "name": "Close but no cigar",
+    "symbol": "CLOSE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbXM1Z2M4NnBkbTRlYWtycWcyNnFrZDBocGx3cmswdzgyZ2VmMnl1Y2Y5dHgweTB1ZmU1cTh4d3N1dy9jbG9zZQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ms5gc86pdm4eakrqg26qkd0hplwrk0w82gef2yucf9tx0y0ufe5q8xwsuw/close/vest",
+    "name": "Close but no cigar Vests",
+    "symbol": "CLOSE/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbXM1Z2M4NnBkbTRlYWtycWcyNnFrZDBocGx3cmswdzgyZ2VmMnl1Y2Y5dHgweTB1ZmU1cTh4d3N1dy9jbG9zZS92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1mu39zgvdsq3rju4dhr7p9w4nm9h3yvqwkpxdm8/bonsei",
     "name": "Bonsei (https://t.me/BansaiOnSei)",
     "symbol": "BONSEI",
