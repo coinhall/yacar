@@ -305,6 +305,22 @@
     "icon": "https://i.ibb.co/7js4p52/seirio.png"
   },
   {
+    "id": "factory/sei16l3wr2q9m97xwg2vfanhfffzkvc9e08yvp6qdgw5ls96xu2huc3s45yuya/wigs",
+    "name": "wigsisdead",
+    "symbol": "WIGS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNmwzd3IycTltOTd4d2cydmZhbmhmZmZ6a3ZjOWUwOHl2cDZxZGd3NWxzOTZ4dTJodWMzczQ1eXV5YS93aWdz&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei16l3wr2q9m97xwg2vfanhfffzkvc9e08yvp6qdgw5ls96xu2huc3s45yuya/wigs/vest",
+    "name": "wigsisdead Vests",
+    "symbol": "WIGS/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNmwzd3IycTltOTd4d2cydmZhbmhmZmZ6a3ZjOWUwOHl2cDZxZGd3NWxzOTZ4dTJodWMzczQ1eXV5YS93aWdzL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei16l99694rf2st6vdct8adwazus5x6yhedhpy2uke7ty5uaqsru2esjxgkgt/honey",
     "name": "Honey POT",
     "symbol": "HONEY",
