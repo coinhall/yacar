@@ -252,6 +252,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNHMwOXl0cTQ1NjRyeW5hbWxqcDRoZnJrdTRnZ3RmM2xreHN6NmsweWV1eHF6a3dtbGN4cTZkenAwYS9FR0c%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei14ykttq6rjg2kfwpval9lggmzyytal82u4ljdhceh0hpjuqv0gzzsh9y9vt/fight",
+    "name": "FIGHT",
+    "symbol": "FIGHT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNHlrdHRxNnJqZzJrZndwdmFsOWxnZ216eXl0YWw4MnU0bGpkaGNlaDBocGp1cXYwZ3p6c2g5eTl2dC9maWdodA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei14ykttq6rjg2kfwpval9lggmzyytal82u4ljdhceh0hpjuqv0gzzsh9y9vt/fight/vest",
+    "name": "FIGHT Vests",
+    "symbol": "FIGHT/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNHlrdHRxNnJqZzJrZndwdmFsOWxnZ216eXl0YWw4MnU0bGpkaGNlaDBocGp1cXYwZ3p6c2g5eTl2dC9maWdodC92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei14yzrsf4kde756dkqrv7jxcgchrg94nm8fmccdq/WISH",
     "entity": "Dragon Ball Sei",
     "name": "Wealth Increment via Synergistic Holding",
