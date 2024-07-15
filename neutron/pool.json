@@ -370,6 +370,16 @@
     "lp_token_id": "neutron1vfekl4kt5q73s6g9qalkkxaegsdctmhqhl6gqx2znf7ltlaae4nsv60hy8"
   },
   {
+    "id": "neutron19jmaa83fjglqetsun8d6p57vpftqs2p0k843ey50ezkv4c3pntzqddezrq",
+    "asset_ids": [
+      "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
+      "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "factory/neutron19jmaa83fjglqetsun8d6p57vpftqs2p0k843ey50ezkv4c3pntzqddezrq/astroport/share"
+  },
+  {
     "id": "neutron19p9jm0yskr8sc99afe7sna2z5ax6v97qlnx9u6j8emfsxrg2guvssexfkt",
     "asset_ids": [
       "ibc/3649CE0C8A2C79048D8C6F31FF18FA69C9BC7EB193512E0BD03B733011290445",
@@ -1158,6 +1168,16 @@
     "dex": "Astroport",
     "type": "pcl",
     "lp_token_id": "neutron1gpalzmmp3xcq5dqf2a2clwx5ps85hckhg2fvpfzd90wntut6uspq2qya3x"
+  },
+  {
+    "id": "neutron1uwnle97ev5uut9q6a49t3elg82gj9a95ljlu8xurhxxvx0sh9hesfjdpq3",
+    "asset_ids": [
+      "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
+      "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "factory/neutron1uwnle97ev5uut9q6a49t3elg82gj9a95ljlu8xurhxxvx0sh9hesfjdpq3/astroport/share"
   },
   {
     "id": "neutron1v2l6rk3j9x84w7kulgfkfm9acmflcqjzlsat8k2teux3vj5ec5yq7et2g4",
