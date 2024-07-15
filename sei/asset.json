@@ -410,6 +410,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN3NmcHl2YWxudWpnMGYzNnJuNHhyNTk0NHducjNkczVrNDJ1aG55ZGR6emV5ZTBtZmwwcTR1MGRoai9oZW5sby92ZXN0&pagination.limit=1"
   },
   {
+    "id": "factory/sei17z06y70g7npnwyyng5kagaje6keeg4sj7yc8dhrepllfx6n2gezq5kmjne/barron",
+    "name": "Barron Dune arc",
+    "symbol": "BARRON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN3owNnk3MGc3bnBud3l5bmc1a2FnYWplNmtlZWc0c2o3eWM4ZGhyZXBsbGZ4Nm4yZ2V6cTVrbWpuZS9iYXJyb24%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei17z06y70g7npnwyyng5kagaje6keeg4sj7yc8dhrepllfx6n2gezq5kmjne/barron/vest",
+    "name": "Barron Dune arc Vests",
+    "symbol": "BARRON/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN3owNnk3MGc3bnBud3l5bmc1a2FnYWplNmtlZWc0c2o3eWM4ZGhyZXBsbGZ4Nm4yZ2V6cTVrbWpuZS9iYXJyb24vdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei188gcp7s4taxd2lg3q9l7cjnlmdhxs83nrsm8zxcdv69c5lfv8atserwvm8/froy2",
     "name": "test froy",
     "symbol": "FROY2",
