@@ -1177,6 +1177,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png"
   },
   {
+    "id": "ibc/DBBDE1753EFA93F09C468DB5E384861BB741D4AA73E9C7032D139BB2C99FDD65",
+    "name": "ibc/DBBDE1753EFA93F09C468DB5E384861BB741D4AA73E9C7032D139BB2C99FDD65",
+    "symbol": "ibc/DBBDE1753EFA93F09C468DB5E384861BB741D4AA73E9C7032D139BB2C99FDD65",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RCQkRFMTc1M0VGQTkzRjA5QzQ2OERCNUUzODQ4NjFCQjc0MUQ0QUE3M0U5QzcwMzJEMTM5QkIyQzk5RkRENjU%3D&pagination.limit=1",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RCQkRFMTc1M0VGQTkzRjA5QzQ2OERCNUUzODQ4NjFCQjc0MUQ0QUE3M0U5QzcwMzJEMTM5QkIyQzk5RkRENjU%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/DD44CDCD7379C1550D397AE05AB87474925EB0A521A07F36298572C9F30ABEB8",
     "name": "Levana",
     "symbol": "LVN",
