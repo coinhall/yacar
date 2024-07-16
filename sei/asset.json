@@ -1251,6 +1251,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZ3o2czY2bXptbGFjMnZ6OWd4d2dyeThmaHRoMnEwd2gzZmp2YzBucGQzOHBzbWNtNnltcWwyZTVjNC9mdXJyb3kvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1h49k2l4jqz33ql4cjvslq6z7erjsvgtf4va8ke4jvka3p8aakzws4af6zn/asdf",
+    "name": "asdf",
+    "symbol": "asdf",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaDQ5azJsNGpxejMzcWw0Y2p2c2xxNno3ZXJqc3ZndGY0dmE4a2U0anZrYTNwOGFha3p3czRhZjZ6bi9hc2Rm&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1h49k2l4jqz33ql4cjvslq6z7erjsvgtf4va8ke4jvka3p8aakzws4af6zn/asdf/vest",
+    "name": "asdf Vests",
+    "symbol": "asdf/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaDQ5azJsNGpxejMzcWw0Y2p2c2xxNno3ZXJqc3ZndGY0dmE4a2U0anZrYTNwOGFha3p3czRhZjZ6bi9hc2RmL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1h76utglzakjeswen79wswzj2x0m2crg722v9cv/seisyphus",
     "entity": "seisyphus",
     "name": "seisyphus",
