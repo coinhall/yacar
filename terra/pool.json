@@ -1800,6 +1800,16 @@
     "lp_token_id": "terra1qy0re65n407kenhrcf4264q0yu9qvrumjhf60ej2vlwz3pfymhfqtjnp5h"
   },
   {
+    "id": "terra1aqm68n6jqeq6hvc7hst5ndkc6yzkv9jdj3p4fckdvgg6e0qunptq56ztnd",
+    "asset_ids": [
+      "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+      "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4"
+    ],
+    "dex": "Astroport",
+    "type": "transmuter",
+    "lp_token_id": "factory/terra1aqm68n6jqeq6hvc7hst5ndkc6yzkv9jdj3p4fckdvgg6e0qunptq56ztnd/astroport/share"
+  },
+  {
     "id": "terra100fgdj6j5pzwkvcmyqnsdfmla2yx7rzzqhz3p0np29fpt0qk774qmzdw2n",
     "asset_ids": [
       "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
@@ -8248,6 +8258,16 @@
     "dex": "Terraswap",
     "type": "xyk",
     "lp_token_id": "terra1hhjh8hj0zdx2qh70gsuse4efer0dq93rwggkwd6w2jqpafa5gw4qhzn047"
+  },
+  {
+    "id": "terra1z8r4k8r9xad049hctzcss2nek8cdugkxxmgg2q59g7dluf0qh7hsfmgfnk",
+    "asset_ids": [
+      "terra1vj68f2ntauaj5dfvy5z4tq4we3hsyg363k63js5sae2t7th9aacqan89sr",
+      "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg"
+    ],
+    "dex": "Terraswap",
+    "type": "xyk",
+    "lp_token_id": "terra1ngayh4dqqzrlzmcjpdvzg3jelsrf4ww3wrlr4dmkqnmed9s2ywsqf0aul9"
   },
   {
     "id": "terra1zdpq84j8ex29wz9tmygqtftplrw87x8wmuyfh0rsy60uq7nadtsq5pjr7y",

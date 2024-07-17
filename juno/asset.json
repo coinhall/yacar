@@ -28,11 +28,27 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno129qeu6q5v496hnxrdj74e34mvdft9p3n0wjepwmgck8m47jzh4nstevyp8/asc",
+    "name": "Astral Shard Crystals",
+    "symbol": "ASC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTI5cWV1NnE1djQ5NmhueHJkajc0ZTM0bXZkZnQ5cDNuMHdqZXB3bWdjazhtNDdqemg0bnN0ZXZ5cDgvYXNj&pagination.limit=1"
+  },
+  {
     "id": "factory/juno12dvlqgch6dsft68jlv2mh8fd72d0ae6c7cwsw384fdtvgc57whxsmc49nd/arena",
     "name": "Arena DAO",
     "symbol": "ARENA",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno13389y5egutkey9w4frmsaxj9rxjmg326th0n82ny903a7xhx8plqtk35ql/factor",
+    "name": "FACTOR TOKEN",
+    "symbol": "FACTOR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTMzODl5NWVndXRrZXk5dzRmcm1zYXhqOXJ4am1nMzI2dGgwbjgybnk5MDNhN3hoeDhwbHF0azM1cWwvZmFjdG9y&pagination.limit=1"
   },
   {
     "id": "factory/juno13urh034kd6c3dv3lmxsvvhznqty0j26uf6lfa0wgmg2vrwu78hdq20xe0h/ratd",
@@ -57,11 +73,35 @@
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTRhenB0a2x3MzMzbHBlMndtamh1c3gybDdtazc0NHd2MHA0a2czL3Vwb2ls&pagination.limit=1"
   },
   {
+    "id": "factory/juno14f94pller8cr5ggh748arjm9j4d3nnfd5mn34fgp58n8zgm65gdsgh30ad/cft",
+    "name": "Crypto Fun Token",
+    "symbol": "CFT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTRmOTRwbGxlcjhjcjVnZ2g3NDhhcmptOWo0ZDNubmZkNW1uMzRmZ3A1OG44emdtNjVnZHNnaDMwYWQvY2Z0&pagination.limit=1"
+  },
+  {
     "id": "factory/juno14y76wed4mgjmffw7srm9hz8kqwaxhyuwpth28d5mmw4zm7ns87cs2qq8zr/ogm",
     "name": "OG MEME",
     "symbol": "OGM",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno15afxxwmepzdku33rkrjk95lrhm3w83ydcqlpa2vvk6sfmm9r4hvq693s2e/red",
+    "name": "Red Sox Nation",
+    "symbol": "RED",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTVhZnh4d21lcHpka3UzM3JrcmprOTVscmhtM3c4M3lkY3FscGEydnZrNnNmbW05cjRodnE2OTNzMmUvcmVk&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno15c2uadlgj5hu033j3392ash0k5plwdyzg9m6tdssmr99rd05grgqu98s9s/eexp",
+    "name": "Earthist Experiment DAO Token",
+    "symbol": "EEXP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTVjMnVhZGxnajVodTAzM2ozMzkyYXNoMGs1cGx3ZHl6ZzltNnRkc3Ntcjk5cmQwNWdyZ3F1OThzOXMvZWV4cA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/juno162wc0g4ra75r24jxaky2shs9ghp32yed7tztsc9wm76r4d46jmkssuu7ar/apl",
@@ -76,6 +116,22 @@
     "symbol": "OGM",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno17spn2089hddgtw3wuf7rgy69mq7h9sl3e4rt404xd0t8tnpw6ynqhe8t2l/shdemo",
+    "name": "Spacehall Demo DAO",
+    "symbol": "SHDEMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTdzcG4yMDg5aGRkZ3R3M3d1ZjdyZ3k2OW1xN2g5c2wzZTRydDQwNHhkMHQ4dG5wdzZ5bnFoZTh0Mmwvc2hkZW1v&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1863kv34h7u6jgnemd9xnks6vwygvm2eau3przqj44ak0uflyxmhqsujljr/invest",
+    "name": "INVEST",
+    "symbol": "INVEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTg2M2t2MzRoN3U2amduZW1kOXhua3M2dnd5Z3ZtMmVhdTNwcnpxajQ0YWswdWZseXhtaHFzdWpsanIvaW52ZXN0&pagination.limit=1"
   },
   {
     "id": "factory/juno195asgku87kxgu48s447z0ryhsyn5rl3yzvfw0d/uhava",
@@ -114,6 +170,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWNzeDc1amthOXkydTRzZDdjNW1nYTBkc3AwYWx2ZTR2dnJsanNyNnpmeHZkZHRmamEzN3Fsam5qY2UvdG1lZA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1d5u8snnftq37xj9ufcwxga08ge4kwau4hzljaeysumcyttvg6e9qwefehl/rtm",
+    "name": "Return To Monkey",
+    "symbol": "RTM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWQ1dThzbm5mdHEzN3hqOXVmY3d4Z2EwOGdlNGt3YXU0aHpsamFleXN1bWN5dHR2ZzZlOXF3ZWZlaGwvcnRt&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1ec6j4rw92dqu4vswg2xrmj3u9vuqp543ls3vfx6uf7u9vrg4uvns5wz3sw/usdc",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWVjNmo0cnc5MmRxdTR2c3dnMnhybWozdTl2dXFwNTQzbHMzdmZ4NnVmN3U5dnJnNHV2bnM1d3ozc3cvdXNkYw%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/juno1eck27qefttt5twxsg38gsr0q0hr4e3vvyxm2q4/urarma",
@@ -297,6 +369,14 @@
     "symbol": "merc",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1vwmnqk0vyxc96qgffrure4nqxupjrql0zut8s02hadgp0n79r8xq5xdsxy/ARENA",
+    "name": "Arena Token",
+    "symbol": "ARENA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXZ3bW5xazB2eXhjOTZxZ2ZmcnVyZTRucXh1cGpycWwwenV0OHMwMmhhZGdwMG43OXI4eHE1eGRzeHkvQVJFTkE%3D&pagination.limit=1"
   },
   {
     "id": "factory/juno1wgw5t65ts9nwy95p3kzqswncfxxggfxt29000vvz7juqwz089mfs4yspp9/agi",
