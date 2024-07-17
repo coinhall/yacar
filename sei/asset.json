@@ -1978,6 +1978,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcTd3cnlud3dnNWtjbHl2MDR0c24wNnNxbGVuZDdtM3U0d3A0eXJmaDV4bTZsOGw2eWc0cW5td20zdC9nYXlzZWkvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1qap3xyuvaqd5gph9g38yvzkvq3jufmla24ulkg0tcdfqwd67mqesepws5a/demo",
+    "name": "demo token",
+    "symbol": "DEMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcWFwM3h5dXZhcWQ1Z3BoOWczOHl2emt2cTNqdWZtbGEyNHVsa2cwdGNkZnF3ZDY3bXFlc2Vwd3M1YS9kZW1v&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1qap3xyuvaqd5gph9g38yvzkvq3jufmla24ulkg0tcdfqwd67mqesepws5a/demo/vest",
+    "name": "demo token Vests",
+    "symbol": "DEMO/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxcWFwM3h5dXZhcWQ1Z3BoOWczOHl2emt2cTNqdWZtbGEyNHVsa2cwdGNkZnF3ZDY3bXFlc2Vwd3M1YS9kZW1vL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1qflzapdt3w5zxlpstsqrk98h2rqak0ql2fqhclwe0dwk53rqczsszr8c9a/pamp",
     "name": "asfasf",
     "symbol": "PAMP",
