@@ -5,20 +5,19 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"slices"
 	"strings"
+
+	"github.com/coinhall/yacar/internal/yacar"
+	"golang.org/x/exp/maps"
 )
 
-func GetLocalYacarFilePaths(projRoot string) []string {
-	fileNames := []string{
-		"account",
-		"asset",
-		"binary",
-		"contract",
-		"entity",
-		"pool",
-	}
+const IgnoreErrorFile = "ignore_error.txt"
 
-	fpMap := make(map[string]struct{})
+func GetLocalYacarFilePaths(projRoot string) []string {
+	fileNames := yacar.GetAllFilesWithExt()
+
+	fpSet := make(map[string]struct{})
 
 	if err := filepath.Walk(projRoot, func(path string, info os.FileInfo, err error) error {
 		if err != nil {
@@ -31,8 +30,8 @@ func GetLocalYacarFilePaths(projRoot string) []string {
 		}
 
 		for _, fileName := range fileNames {
-			if strings.HasSuffix(path, fileName+".json") {
-				fpMap[path] = struct{}{}
+			if strings.HasSuffix(path, fileName) {
+				fpSet[path] = struct{}{}
 			}
 		}
 
@@ -41,10 +40,39 @@ func GetLocalYacarFilePaths(projRoot string) []string {
 		panic(fmt.Sprintf("error while walking root dir: %s", err))
 	}
 
-	filePaths := make([]string, 0, len(fpMap))
-	for fp := range fpMap {
-		filePaths = append(filePaths, fp)
-	}
+	filePaths := maps.Keys(fpSet)
+	slices.Sort(filePaths)
 
 	return filePaths
+}
+
+func GetErrorFilePath(projRoot string) (errorFilePath string) {
+	if err := filepath.Walk(projRoot, func(path string, info os.FileInfo, err error) error {
+		if len(errorFilePath) > 0 {
+			return nil
+		}
+
+		if err != nil {
+			log.Printf("error while walking path: %s", err)
+			return err
+		}
+
+		if info.IsDir() {
+			return nil
+		}
+
+		if filepath.Base(path) == IgnoreErrorFile {
+			errorFilePath = path
+		}
+
+		return nil
+	}); err != nil {
+		panic(fmt.Sprintf("error while walking root dir: %s", err))
+	}
+
+	return errorFilePath
+}
+
+func GetFileNameNoSuffix(fp, suffix string) string {
+	return strings.TrimSuffix(filepath.Base(fp), suffix)
 }

@@ -2329,6 +2329,14 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdGVjdTc4azhhbTBtejhuejNqaGhjODd4Y3VrZnprYTdlNDR6YWYvdW1vbzE%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1thgp6wamxwqt7rthfkeehktmq0ujh5kspluw6w/OIN",
+    "name": "OIN STORE OF VALUE",
+    "symbol": "OIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/oin.png"
+  },
+  {
     "id": "factory/sei1tnuy8txqyy2zztvj7n8yahetu9swxv43ejrvpr/javelin",
     "name": "Javelin Game Token",
     "symbol": "JVL",
@@ -2719,7 +2727,9 @@
   },
   {
     "id": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
-    "entity": "Astroport",
+    "origin_chain": "terra",
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
     "name": "Astroport",
     "symbol": "ASTRO.cw20",
     "decimals": "6",
@@ -2731,7 +2741,9 @@
   },
   {
     "id": "ibc/1FF96B82FDE4B0E38FA0A8EC24A83E1EAC2615F338468A47473BAD3B45E066D2",
-    "entity": "Astroport",
+    "origin_chain": "neutron",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
     "name": "Astroport",
     "symbol": "ASTRO",
     "decimals": "6",
@@ -2743,16 +2755,22 @@
   },
   {
     "id": "ibc/423DE4133F8676069BC9550FF251F1F870F6885621C8E363A9F70257BF3AA638",
+    "origin_chain": "injective",
+    "origin_chain_id": "injective-1",
+    "origin_id": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
     "name": "AUTISM",
     "symbol": "AUTISM",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQyM0RFNDEzM0Y4Njc2MDY5QkM5NTUwRkYyNTFGMUY4NzBGNjg4NTYyMUM4RTM2M0E5RjcwMjU3QkYzQUE2Mzg%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQyM0RFNDEzM0Y4Njc2MDY5QkM5NTUwRkYyNTFGMUY4NzBGNjg4NTYyMUM4RTM2M0E5RjcwMjU3QkYzQUE2Mzg%3D&pagination.limit=1"
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQyM0RFNDEzM0Y4Njc2MDY5QkM5NTUwRkYyNTFGMUY4NzBGNjg4NTYyMUM4RTM2M0E5RjcwMjU3QkYzQUE2Mzg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/jlee1997/autism/main/autism.jpg"
   },
   {
     "id": "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B",
-    "entity": "Stride",
+    "origin_chain": "stride",
+    "origin_chain_id": "stride-1",
+    "origin_id": "ustrd",
     "name": "Stride",
     "symbol": "STRD",
     "decimals": "6",
@@ -2765,7 +2783,10 @@
   },
   {
     "id": "ibc/4786BEBBFDD989C467C4552AD73065D8B2578230B8428B3B9275D540EB04C851",
-    "name": "LVN",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
+    "name": "Levana Governance Token",
     "symbol": "LVN",
     "decimals": "6",
     "type": "ibc",
@@ -2775,6 +2796,9 @@
   },
   {
     "id": "ibc/52BDB3EFE4EC2AA5086F16A93772F5F9B503FF818F3B9494AE5AA2C304C6FF49",
+    "origin_chain": "stride",
+    "origin_chain_id": "stride-1",
+    "origin_id": "stuatom",
     "name": "Stride Staked ATOM",
     "symbol": "stATOM",
     "decimals": "6",
@@ -2785,18 +2809,24 @@
   },
   {
     "id": "ibc/6ACE79F5ABD607D2075FAD4ABE284CBC5BB6A96C16555FFB901644E9D17411AC",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "uwhale",
     "name": "Whale",
     "symbol": "WHALE",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZBQ0U3OUY1QUJENjA3RDIwNzVGQUQ0QUJFMjg0Q0JDNUJCNkE5NkMxNjU1NUZGQjkwMTY0NEU5RDE3NDExQUM%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZBQ0U3OUY1QUJENjA3RDIwNzVGQUQ0QUJFMjg0Q0JDNUJCNkE5NkMxNjU1NUZGQjkwMTY0NEU5RDE3NDExQUM%3D&pagination.limit=1",
-    "icon": "https://app.whitewhale.money/logos/whale.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg"
   },
   {
     "id": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-    "name": "USDT",
-    "symbol": "USDT",
+    "origin_chain": "kava",
+    "origin_chain_id": "kava_2222-10",
+    "origin_id": "erc20/tether/usdt",
+    "name": "Tether USD",
+    "symbol": "USDT.kava",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZDMDBFNEFBMENDNzYxODM3MEY4MUY3Mzc4NjM4QUU2QzQ4RUZGOEM5MjAzQ0UxQzIzNTcwMTJCNDQwRUJEQjc%3D&pagination.limit=1",
@@ -2805,12 +2835,16 @@
   },
   {
     "id": "ibc/6CDD4663F2F09CD62285E2D45891FC149A3568E316CE3EBBE201A71A78A69388",
-    "name": "Atom",
+    "origin_chain": "cosmoshub",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
+    "name": "Cosmos Hub Atom",
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZDREQ0NjYzRjJGMDlDRDYyMjg1RTJENDU4OTFGQzE0OUEzNTY4RTMxNkNFM0VCQkUyMDFBNzFBNzhBNjkzODg%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZDREQ0NjYzRjJGMDlDRDYyMjg1RTJENDU4OTFGQzE0OUEzNTY4RTMxNkNFM0VCQkUyMDFBNzFBNzhBNjkzODg%3D&pagination.limit=1"
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZDREQ0NjYzRjJGMDlDRDYyMjg1RTJENDU4OTFGQzE0OUEzNTY4RTMxNkNFM0VCQkUyMDFBNzFBNzhBNjkzODg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
   },
   {
     "id": "ibc/6F24240309E0D0F9E7E72B1650599371418441F09AB408268E92D46CBAD3B0C6",
@@ -2823,28 +2857,36 @@
   },
   {
     "id": "ibc/91DF61C7EFA0E52C56BA0724E80B93DF6ADECD3A5B19D38FD2B4A7F955D2E2E7",
-    "name": "OX",
+    "origin_chain": "axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "ox-wei",
+    "name": "Open Exchange Token",
     "symbol": "OX",
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxREY2MUM3RUZBMEU1MkM1NkJBMDcyNEU4MEI5M0RGNkFERUNEM0E1QjE5RDM4RkQyQjRBN0Y5NTVEMkUyRTc%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxREY2MUM3RUZBMEU1MkM1NkJBMDcyNEU4MEI5M0RGNkFERUNEM0E1QjE5RDM4RkQyQjRBN0Y5NTVEMkUyRTc%3D&pagination.limit=1"
+    "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxREY2MUM3RUZBMEU1MkM1NkJBMDcyNEU4MEI5M0RGNkFERUNEM0E1QjE5RDM4RkQyQjRBN0Y5NTVEMkUyRTc%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/ox.svg"
   },
   {
     "id": "ibc/AB7C92666DE8C7A977666B8080CABF0127B652B9D40F7251E6914DE942D9942B",
-    "entity": "Wosmo",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
     "name": "WOSMO",
     "symbol": "WOSMO",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCN0M5MjY2NkRFOEM3QTk3NzY2NkI4MDgwQ0FCRjAxMjdCNjUyQjlENDBGNzI1MUU2OTE0REU5NDJEOTk0MkI%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCN0M5MjY2NkRFOEM3QTk3NzY2NkI4MDgwQ0FCRjAxMjdCNjUyQjlENDBGNzI1MUU2OTE0REU5NDJEOTk0MkI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wosmo.png"
+    "icon": "https://www.wosmo.dev/images/WOSMO.png"
   },
   {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-    "entity": "Cosmos",
-    "name": "Atom",
+    "origin_chain": "cosmoshub",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
+    "name": "Cosmos Hub Atom",
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
@@ -2854,17 +2896,22 @@
   },
   {
     "id": "ibc/CA6FBFAF399474A06263E10D0CE5AEBBE15189D6D4B2DD9ADE61007E68EB9DB0",
-    "name": "USDC",
-    "symbol": "USDC",
+    "origin_chain": "noble",
+    "origin_chain_id": "noble-1",
+    "origin_id": "uusdc",
+    "name": "Noble USDC",
+    "symbol": "USDC.noble",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NBNkZCRkFGMzk5NDc0QTA2MjYzRTEwRDBDRTVBRUJCRTE1MTg5RDZENEIyREQ5QURFNjEwMDdFNjhFQjlEQjA%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NBNkZCRkFGMzk5NDc0QTA2MjYzRTEwRDBDRTVBRUJCRTE1MTg5RDZENEIyREQ5QURFNjEwMDdFNjhFQjlEQjA%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.svg"
   },
   {
     "id": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-    "entity": "Osmosis",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "uosmo",
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
@@ -2877,8 +2924,11 @@
   },
   {
     "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
-    "name": "Axelar USDC",
-    "symbol": "USDC.axl",
+    "origin_chain": "axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdc",
+    "name": "USD Coin",
+    "symbol": "USDC.eth.axl",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YwODJCNjVDODhFNEI2RDVFRjFEQjI0M0NEQTFEMzMxRDAwMjc1OUU5MzhBMEY1Q0QzRkZEQzVENTNCM0UzNDk%3D&pagination.limit=1",
