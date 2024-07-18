@@ -81,13 +81,16 @@
   },
   {
     "id": "ibc/73A56F04D27FC4CCF6F75C7516A9698B7411E1CE763E240C8A29A50404F86B53",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Gravity Bridge Wrapped USDC",
     "symbol": "gbUSDC",
     "decimals": "0",
     "type": "ibc",
     "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzczQTU2RjA0RDI3RkM0Q0NGNkY3NUM3NTE2QTk2OThCNzQxMUUxQ0U3NjNFMjQwQzhBMjlBNTA0MDRGODZCNTM%3D&pagination.limit=1",
     "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzczQTU2RjA0RDI3RkM0Q0NGNkY3NUM3NTE2QTk2OThCNzQxMUUxQ0U3NjNFMjQwQzhBMjlBNTA0MDRGODZCNTM%3D&pagination.limit=1",
-    "icon": "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg"
+    "icon": "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/gravity-bridge-usdc"
   },
   {
     "id": "ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2",
