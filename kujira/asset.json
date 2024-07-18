@@ -9,6 +9,14 @@
     "verification_tx": "kujira-fin"
   },
   {
+    "id": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/ukart",
+    "name": "KART",
+    "symbol": "KART",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9rdWppcmExM3gybDI1bXBraHdud2N3ZHp6ZDM0Y3I4ZnlodDlqbGo3eHU5ZzR1ZmZlMzZnM2ZtbG44cWt2bTNxbi91a2FydA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/unami",
     "entity": "NAMI Protocol",
     "name": "NAMI",
@@ -446,6 +454,20 @@
     "verification_tx": "kujira-fin"
   },
   {
+    "id": "ibc/20014F963CC9E6488B299622F87B60C6DE71632864859EC08B4753478DAB2BB8",
+    "origin_chain": "kava",
+    "origin_chain_id": "kava_2222-10",
+    "origin_id": "erc20/tether/usdt",
+    "name": "Tether USD",
+    "symbol": "USDT.kava",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzIwMDE0Rjk2M0NDOUU2NDg4QjI5OTYyMkY4N0I2MEM2REU3MTYzMjg2NDg1OUVDMDhCNDc1MzQ3OERBQjJCQjg%3D&pagination.limit=1",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzIwMDE0Rjk2M0NDOUU2NDg4QjI5OTYyMkY4N0I2MEM2REU3MTYzMjg2NDg1OUVDMDhCNDc1MzQ3OERBQjJCQjg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/tether"
+  },
+  {
     "id": "ibc/2034A2717C2E9F5C19285A7F697CECFA14F34784B912AD32B6E3D7833090EB16",
     "origin_chain": "jackal",
     "origin_chain_id": "jackal-1",
@@ -601,6 +623,7 @@
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzMxRUQxNjhGNUU5M0Q5ODhGQ0YyMjNCMTI5ODExM0FDQTgxOERCN0JFRDhGN0I3Mzc2NEM1QzlGQUMyOTM2MDk%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzMxRUQxNjhGNUU5M0Q5ODhGQ0YyMjNCMTI5ODExM0FDQTgxOERCN0JFRDhGN0I3Mzc2NEM1QzlGQUMyOTM2MDk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png",
+    "coingecko": "https://www.coingecko.com/en/coins/lion-dao",
     "verification_tx": "kujira-fin"
   },
   {
@@ -611,7 +634,8 @@
     "type": "ibc",
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM0NThENEEyNjUzOTE4RUFFNTkyNkE2RjdDQjZEQ0U5MUMxM0RBRUNEQjA1QUE0MEYwNTBGODg2N0E2NjQ5RkU%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM0NThENEEyNjUzOTE4RUFFNTkyNkE2RjdDQjZEQ0U5MUMxM0RBRUNEQjA1QUE0MEYwNTBGODg2N0E2NjQ5RkU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/gravity-bridge-usdc"
   },
   {
     "id": "ibc/359AF48D8512344FD8B6514CA79C26AC120B4F12FFE2D2A46528A58439272BD5",
@@ -668,7 +692,8 @@
     "type": "ibc",
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNDRjMxQ0IxNzI5RkQyMDExNzE4RjY2QjIwODYxRDIzQTdGQjY0OTJDMjlGRkFERTJDMUU1OEQxMEMzRDIyNUY%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNDRjMxQ0IxNzI5RkQyMDExNzE4RjY2QjIwODYxRDIzQTdGQjY0OTJDMjlGRkFERTJDMUU1OEQxMEMzRDIyNUY%3D&pagination.limit=1",
-    "icon": "https://newt-price.vercel.app/newt-logo.png"
+    "icon": "https://newt-price.vercel.app/newt-logo.png",
+    "coingecko": "https://www.coingecko.com/en/coins/newt"
   },
   {
     "id": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
@@ -714,6 +739,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze",
     "verification_tx": "kujira-fin"
+  },
+  {
+    "id": "ibc/507BE7E33F06026652F519AD4D36716251F2D34DF04514A905D3B19A7D8130F7",
+    "origin_chain": "axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "yum-wei",
+    "name": "Axelar Wrapped YUM",
+    "symbol": "YUM.axl",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUwN0JFN0UzM0YwNjAyNjY1MkY1MTlBRDREMzY3MTYyNTFGMkQzNERGMDQ1MTRBOTA1RDNCMTlBN0Q4MTMwRjc%3D&pagination.limit=1",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUwN0JFN0UzM0YwNjAyNjY1MkY1MTlBRDREMzY3MTYyNTFGMkQzNERGMDQ1MTRBOTA1RDNCMTlBN0Q4MTMwRjc%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/yum.png"
   },
   {
     "id": "ibc/53796B3762678CD80784A7DD426EB45B89C024BE3D45224CC83FDE3DED7DA0A1",
@@ -783,7 +821,8 @@
     "type": "ibc",
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY1MDBBNjM1OEY0OUZBQjgxMUE3NUU2ODlEMUI3QzNCNTBBRTY5MjFGODAwNTY5QkY4MzkyOTgyMkVFN0E4Mjg%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY1MDBBNjM1OEY0OUZBQjgxMUE3NUU2ODlEMUI3QzNCNTBBRTY5MjFGODAwNTY5QkY4MzkyOTgyMkVFN0E4Mjg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/silk.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/silk.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/silk-bcec1136-561c-4706-a42c-8b67d0d7f7d2"
   },
   {
     "id": "ibc/6A4CEDCEA40B587A4BCF7FDFB1D5A13D13F8A807A22A4E759EA702640CE086B0",
@@ -840,7 +879,21 @@
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzgzMThCN0UwMzZFNTBDMENGNzk5ODQ4RjIzRUQ4NDc3OEFBQTg3NDlEOUMwQkNENEZGM0Y0QUY3M0M1MzM4N0Y%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzgzMThCN0UwMzZFNTBDMENGNzk5ODQ4RjIzRUQ4NDc3OEFBQTg3NDlEOUMwQkNENEZGM0Y0QUY3M0M1MzM4N0Y%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png",
+    "coingecko": "https://www.coingecko.com/en/coins/loop",
     "verification_tx": "kujira-fin"
+  },
+  {
+    "id": "ibc/8A7E0D8B80947A5BC8BD50252C96B7D8CD04B3B404424DB78196748E6314FAF3",
+    "origin_chain": "pylons",
+    "origin_chain_id": "pylons-mainnet-1",
+    "origin_id": "ubedrock",
+    "name": "Pylons",
+    "symbol": "ROCK",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhBN0UwRDhCODA5NDdBNUJDOEJENTAyNTJDOTZCN0Q4Q0QwNEIzQjQwNDQyNERCNzgxOTY3NDhFNjMxNEZBRjM%3D&pagination.limit=1",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhBN0UwRDhCODA5NDdBNUJDOEJENTAyNTJDOTZCN0Q4Q0QwNEIzQjQwNDQyNERCNzgxOTY3NDhFNjMxNEZBRjM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/pylons/images/pylons.png"
   },
   {
     "id": "ibc/9012F7E79EACC34CE81A4404ECBEED5A5DFFD61CCEE23F2B8600BAC948C483E6",
@@ -1003,7 +1056,35 @@
     "type": "ibc",
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCNUEzNjgxQzI1RjJGRUU5RjE2N0MwMzQ1RDZFN0M1MkRCREZFNkQ2QUREMzhBNzZCRjZBMDAyOEY0MjQyNkQ%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCNUEzNjgxQzI1RjJGRUU5RjE2N0MwMzQ1RDZFN0M1MkRCREZFNkQ2QUREMzhBNzZCRjZBMDAyOEY0MjQyNkQ%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png",
+    "coingecko": "https://www.coingecko.com/en/coins/andromeda-2"
+  },
+  {
+    "id": "ibc/AF371F507606449381F82454241BF562E742312BE5744B08AF66D8840C12A5C6",
+    "origin_chain": "terra",
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
+    "name": "Bitmos",
+    "symbol": "BMOS",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FGMzcxRjUwNzYwNjQ0OTM4MUY4MjQ1NDI0MUJGNTYyRTc0MjMxMkJFNTc0NEIwOEFGNjZEODg0MEMxMkE1QzY%3D&pagination.limit=1",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FGMzcxRjUwNzYwNjQ0OTM4MUY4MjQ1NDI0MUJGNTYyRTc0MjMxMkJFNTc0NEIwOEFGNjZEODg0MEMxMkE1QzY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/bitmos-io/data/main/logos/bitmos_100.png"
+  },
+  {
+    "id": "ibc/AF4CF77A64B784DE1C40471BBB366722DBE7FFEB8C42C71D2B7FB447BA193549",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FGNENGNzdBNjRCNzg0REUxQzQwNDcxQkJCMzY2NzIyREJFN0ZGRUI4QzQyQzcxRDJCN0ZCNDQ3QkExOTM1NDk%3D&pagination.limit=1",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FGNENGNzdBNjRCNzg0REUxQzQwNDcxQkJCMzY2NzIyREJFN0ZGRUI4QzQyQzcxRDJCN0ZCNDQ3QkExOTM1NDk%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin"
   },
   {
     "id": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
@@ -1041,6 +1122,7 @@
     "type": "ibc",
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I0RENBQ0Y3NzUzQzA1MDQwQUYwQTdCRjJCNTgzNDAyQzRCOEM5QjBBODZGQ0VDRTMyRUY2M0NCN0YwQTQ2QjM%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I0RENBQ0Y3NzUzQzA1MDQwQUYwQTdCRjJCNTgzNDAyQzRCOEM5QjBBODZGQ0VDRTMyRUY2M0NCN0YwQTQ2QjM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/paxg.svg",
     "verification_tx": "kujira-fin"
   },
   {
@@ -1407,6 +1489,7 @@
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YzM0IzMTMzMjVCMUM5OUI2NDZCMUI3ODZGMUVBNjIxRTM3OTRENzg3QjkwQzIwNEMzMEZFMUQ0RDQ1OTcwQUU%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YzM0IzMTMzMjVCMUM5OUI2NDZCMUI3ODZGMUVBNjIxRTM3OTRENzg3QjkwQzIwNEMzMEZFMUQ0RDQ1OTcwQUU%3D&pagination.limit=1",
     "icon": "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
+    "coingecko": "https://www.coingecko.com/en/coins/eris-amplified-luna",
     "verification_tx": "kujira-fin"
   },
   {
@@ -1436,6 +1519,7 @@
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y5N0JEQ0UyMjBDQ0I1MjEzOUM3MzA2NkUzNkM0NUVDN0VEQ0VFRjFEQUZGODkxQTM0RjRGQkExOTVBMkU2RTg%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y5N0JEQ0UyMjBDQ0I1MjEzOUM3MzA2NkUzNkM0NUVDN0VEQ0VFRjFEQUZGODkxQTM0RjRGQkExOTVBMkU2RTg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/stride-staked-osmo",
     "verification_tx": "kujira-fin"
   },
   {
@@ -1480,6 +1564,7 @@
     "circ_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZFOThBQUQ2OEYwMkYwMzU2NUU5RkEzOUE1RTYyNzk0NjY5OUIyQjA3MTE1ODg5RUQ4MTJEOEJBNjM5NTc2QTk%3D&pagination.limit=1",
     "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZFOThBQUQ2OEYwMkYwMzU2NUU5RkEzOUE1RTYyNzk0NjY5OUIyQjA3MTE1ODg5RUQ4MTJEOEJBNjM5NTc2QTk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/usd-coin",
     "verification_tx": "kujira-fin"
   },
   {
