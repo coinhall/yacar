@@ -11228,6 +11228,8 @@
   },
   {
     "id": "ibc/072E5B3D6F278B3E6A9C51D7EAD1A737148609512C5EBE8CBCB5663264A0DDB7",
+    "origin_chain_id": "injective-1",
+    "origin_id": "peggy0xd73175f9eb15eee81745d367ae59309Ca2ceb5e2",
     "name": "Gelotto (Injective)",
     "symbol": "injective.GLTO",
     "decimals": "6",
@@ -11826,6 +11828,8 @@
   },
   {
     "id": "ibc/23A62409E4AD8133116C249B1FA38EED30E500A115D7B153109462CD82C1CD99",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e",
     "name": "Page",
     "symbol": "PAGE",
     "decimals": "8",
@@ -11960,6 +11964,8 @@
   },
   {
     "id": "ibc/2BF9656CAB0384A31167DB9B0254F0FB1CB4346A229BD7E5CBDCBB911C3740F7",
+    "origin_chain_id": "evmos_9001-2",
+    "origin_id": "erc20/0x1cFc8f1FE8D5668BAFF2724547EcDbd6f013a280",
     "name": "Teledisko DAO",
     "symbol": "BERLIN",
     "decimals": "18",
@@ -12291,6 +12297,8 @@
   },
   {
     "id": "ibc/41999DF04D9441DAC0DF5D8291DF4333FBCBA810FFD63FDCE34FDF41EF37B6F7",
+    "origin_chain_id": "cerberus-chain-1",
+    "origin_id": "ucrbrus",
     "name": "Cerberus",
     "symbol": "CRBRUS",
     "decimals": "6",
@@ -12619,6 +12627,8 @@
   },
   {
     "id": "ibc/4F3B0EC2FE2D370D10C3671A1B7B06D2A964C721470C305CBB846ED60E6CAA20",
+    "origin_chain_id": "bostrom",
+    "origin_id": "hydrogen",
     "name": "Hydrogen",
     "symbol": "HYDROGEN",
     "decimals": "0",
@@ -12685,6 +12695,8 @@
   },
   {
     "id": "ibc/52E12CF5CA2BB903D84F5298B4BFD725D66CAB95E09AA4FC75B2904CA5485FEB",
+    "origin_chain_id": "juno-1",
+    "origin_id": "juno1tdjwrqmnztn2j3sj2ln9xnyps5hs48q3ddwjrz7jpv6mskappjys5czd49",
     "name": "DHK",
     "symbol": "DHK",
     "decimals": "0",
@@ -12880,6 +12892,8 @@
   },
   {
     "id": "ibc/5D270A584B1078FBE07D14570ED5E88EC1FEDA8518B76C322606291E6FD8286F",
+    "origin_chain_id": "acre_9052-1",
+    "origin_id": "erc20/0x2Cbea61fdfDFA520Ee99700F104D5b75ADf50B0c",
     "name": "Arable USD",
     "symbol": "arUSD",
     "decimals": "6",
@@ -13107,6 +13121,8 @@
   },
   {
     "id": "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "name": "Wrapped Ethereum",
     "symbol": "WETH.grv",
     "decimals": "18",
@@ -13118,6 +13134,8 @@
   },
   {
     "id": "ibc/655BCEF3CDEBE32863FF281DBBE3B06160339E9897DC9C9C9821932A5F8BA6F8",
+    "origin_chain_id": "microtick-1",
+    "origin_id": "utick",
     "name": "Microtick",
     "symbol": "TICK",
     "decimals": "6",
@@ -13143,12 +13161,15 @@
   },
   {
     "id": "ibc/6727B2F071643B3841BD535ECDD4ED9CAE52ABDD0DCD07C3630811A7A37B215C",
+    "origin_chain_id": "picasso",
+    "origin_id": "4",
     "name": "KSM",
     "symbol": "KSM",
     "decimals": "12",
     "type": "ibc",
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY3MjdCMkYwNzE2NDNCMzg0MUJENTM1RUNERDRFRDlDQUU1MkFCREQwRENEMDdDMzYzMDgxMUE3QTM3QjIxNUM%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY3MjdCMkYwNzE2NDNCMzg0MUJENTM1RUNERDRFRDlDQUU1MkFCREQwRENEMDdDMzYzMDgxMUE3QTM3QjIxNUM%3D&pagination.limit=1"
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY3MjdCMkYwNzE2NDNCMzg0MUJENTM1RUNERDRFRDlDQUU1MkFCREQwRENEMDdDMzYzMDgxMUE3QTM3QjIxNUM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/kusama/images/ksm.svg"
   },
   {
     "id": "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C",
@@ -13260,6 +13281,8 @@
   },
   {
     "id": "ibc/6B2B19D874851F631FF0AF82C38A20D4B82F438C7A22F41EDA33568345397244",
+    "origin_chain_id": "composablepolkadot",
+    "origin_id": "79228162514264337593543950342",
     "name": "DOT",
     "symbol": "DOT",
     "decimals": "10",
@@ -13402,6 +13425,8 @@
   },
   {
     "id": "ibc/71B441E27F1BBB44DD0891BCD370C2794D404D60A4FFE5AECCD9B1E28BC89805",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "name": "Tether USD",
     "symbol": "USDT.grv",
     "decimals": "6",
@@ -13620,6 +13645,8 @@
   },
   {
     "id": "ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
     "name": "PSTAKE",
     "symbol": "PSTAKE",
     "decimals": "18",
@@ -14182,6 +14209,8 @@
   },
   {
     "id": "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "USD Coin",
     "symbol": "USDC.grv",
     "decimals": "6",
@@ -14723,6 +14752,8 @@
   },
   {
     "id": "ibc/BCDB35B7390806F35E716D275E1E017999F8281A81B6F128F087EF34D1DFA761",
+    "origin_chain_id": "bostrom",
+    "origin_id": "tocyb",
     "name": "Tocyb",
     "symbol": "TOCYB",
     "decimals": "0",
@@ -15036,6 +15067,8 @@
   },
   {
     "id": "ibc/C9B0D48FD2C5B91135F118FF2484551888966590D7BDC20F6A87308DBA670796",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC.grv",
     "decimals": "8",
@@ -15242,6 +15275,8 @@
   },
   {
     "id": "ibc/D38BB3DD46864694F009AF01DA5A815B3A875F8CC52FF5679BFFCC35DC7451D5",
+    "origin_chain_id": "acre_9052-1",
+    "origin_id": "erc20/0xAE6D3334989a22A65228732446731438672418F2",
     "name": "Ciento Token",
     "symbol": "CNTO",
     "decimals": "18",
@@ -15467,6 +15502,8 @@
   },
   {
     "id": "ibc/DEE262653B9DE39BCEF0493D47E0DFC4FE62F7F046CF38B9FDEFEBE98D149A71",
+    "origin_chain_id": "evmos_9001-2",
+    "origin_id": "erc20/0x655ecB57432CC1370f65e5dc2309588b71b473A9",
     "name": "Neokingdom DAO",
     "symbol": "NEOK",
     "decimals": "18",
@@ -15500,6 +15537,8 @@
   },
   {
     "id": "ibc/E27CD305D33F150369AB526AEB6646A76EC3FFB1A6CA58A663B5DE657A89D55D",
+    "origin_chain_id": "dyson-mainnet-01",
+    "origin_id": "dys",
     "name": "Dyson Protocol",
     "symbol": "DYS",
     "decimals": "0",
@@ -15815,6 +15854,8 @@
   },
   {
     "id": "ibc/F292A17CF920E3462C816CBE6B042E779F676CAB59096904C4C1C966413E3DF5",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Dai Stablecoin",
     "symbol": "DAI.grv",
     "decimals": "18",
@@ -16028,6 +16069,8 @@
   },
   {
     "id": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4",
+    "origin_chain_id": "bostrom",
+    "origin_id": "boot",
     "name": "Bostrom",
     "symbol": "BOOT",
     "decimals": "0",
@@ -16039,6 +16082,8 @@
   },
   {
     "id": "ibc/FFA652599C77E853F017193E36B5AB2D4D9AFC4B54721A74904F80C9236BF3B7",
+    "origin_chain_id": "LumenX",
+    "origin_id": "ulumen",
     "name": "LumenX",
     "symbol": "LUMEN",
     "decimals": "6",
