@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bnb.1.6.773edb",
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.svg"
+  },
+  {
+    "id": "busd.1.6.754a80",
+    "name": "BUSD (BEP-20)",
+    "symbol": "BUSD",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png"
+  },
+  {
+    "id": "cgt/1",
+    "name": "Carbon Grouped USD",
+    "symbol": "USD",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/carbon-grouped-usd.svg"
+  },
+  {
+    "id": "eth.1.19.c3b805",
+    "name": "Ethereum (Arbitrum)",
+    "symbol": "ETH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
+  },
+  {
+    "id": "eth.1.2.942d87",
+    "name": "Ethereum (ERC20)",
+    "symbol": "ETH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
+  },
+  {
+    "id": "swth",
+    "name": "Carbon",
+    "symbol": "SWTH",
+    "decimals": "8",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/switcheo"
+  },
+  {
+    "id": "usc",
+    "name": "Carbon USD Coin",
+    "symbol": "USC",
+    "decimals": "8",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/usc.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/carbon-usd"
+  },
+  {
+    "id": "usdc.1.2.343151",
+    "name": "Circle USD",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
+  }
+]

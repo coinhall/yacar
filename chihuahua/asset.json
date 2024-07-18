@@ -256,7 +256,8 @@
     "symbol": "TACOS",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXRhY29z&pagination.limit=1"
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXRhY29z&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/tacos.png"
   },
   {
     "id": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/uweed",
@@ -272,7 +273,8 @@
     "symbol": "WOOF",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXdvb2Y%3D&pagination.limit=1"
+    "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExM2phd3NuNTc0cmYzZjB1NXJodTdlOG42c2F5eDVna3czZWRkaHAvdXdvb2Y%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/woof.png"
   },
   {
     "id": "factory/chihuahua13n3edsw7kde8flaa78ejsd58f8agn066wzpe4r/PUG",
@@ -643,6 +645,14 @@
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvQklSRA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/BYD",
+    "name": "BYD",
+    "symbol": "BYD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvQllE&pagination.limit=1"
+  },
+  {
     "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/COIN",
     "name": "COIN",
     "symbol": "COIN",
@@ -747,6 +757,14 @@
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvTUVUQUhVQQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/MOMO",
+    "name": "MOMO",
+    "symbol": "MOMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvTU9NTw%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/MONEY",
     "name": "MONEY",
     "symbol": "MONEY",
@@ -761,6 +779,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvTkZU&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/OCOP",
+    "name": "OCOP",
+    "symbol": "OCOP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvT0NPUA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/PEPE",
@@ -795,12 +821,36 @@
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvU2tpYmlkaQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/TRUMP",
+    "name": "TRUMP",
+    "symbol": "TRUMP",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvVFJVTVA%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/VND",
+    "name": "VND",
+    "symbol": "VND",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvVk5E&pagination.limit=1"
+  },
+  {
     "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/WTF",
     "name": "WTF",
     "symbol": "WTF",
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvV1RG&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/ZALO",
+    "name": "ZALO",
+    "symbol": "ZALO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvWkFMTw%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/chihuahua1nw97tyt5eslcsexev2wk5x9fqnth92tvf0fajz/SkeletonNanorobot",
@@ -963,6 +1013,24 @@
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExdzcyamdzazJzOTBobnlod3VzNjRjam1xejNyZHNwcTN2dGswM3EvTWVvdw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/chihuahua1wefqrxch9vlpvkxvxx0mtwn5ezx5afakk7nx6j/skalvcoin",
+    "name": "Skalvcoin",
+    "symbol": "SKOIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExd2VmcXJ4Y2g5dmxwdmt4dnh4MG10d241ZXp4NWFmYWtrN254Nmovc2thbHZjb2lu&pagination.limit=1",
+    "icon": "ska.lv"
+  },
+  {
+    "id": "factory/chihuahua1wefqrxch9vlpvkxvxx0mtwn5ezx5afakk7nx6j/skatoken",
+    "name": "SkaToken",
+    "symbol": "SKOIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExd2VmcXJ4Y2g5dmxwdmt4dnh4MG10d241ZXp4NWFmYWtrN254Nmovc2thdG9rZW4%3D&pagination.limit=1",
+    "icon": "blabla"
+  },
+  {
     "id": "factory/chihuahua1whusey8z9vtv8wcqeu9e8njhancxlptfacfa80/KODA",
     "name": "KODA",
     "symbol": "KODA",
@@ -1012,6 +1080,7 @@
   },
   {
     "id": "factory/chihuahua1x4q2vkrz4dfgd9hcw0p5m2f2nuv2uqmt9xr8k2/achihuahuawifhat",
+    "entity": "Chihuahuawifhat",
     "name": "BADDOG",
     "symbol": "BADDOG",
     "decimals": "6",
@@ -1062,7 +1131,10 @@
   },
   {
     "id": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
-    "name": "ampWHALE",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
+    "name": "ERIS Amplified WHALE",
     "symbol": "ampWHALE",
     "decimals": "6",
     "type": "ibc",
@@ -1072,13 +1144,29 @@
   },
   {
     "id": "ibc/6BB4ADB45B1903AE497710FBC24E73C2C578A79D25EF923BD2E784A7FD0FC59F",
-    "name": "ROAR",
+    "origin_chain": "terra",
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+    "name": "Lion DAO",
     "symbol": "ROAR",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZCQjRBREI0NUIxOTAzQUU0OTc3MTBGQkMyNEU3M0MyQzU3OEE3OUQyNUVGOTIzQkQyRTc4NEE3RkQwRkM1OUY%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZCQjRBREI0NUIxOTAzQUU0OTc3MTBGQkMyNEU3M0MyQzU3OEE3OUQyNUVGOTIzQkQyRTc4NEE3RkQwRkM1OUY%3D&pagination.limit=1",
-    "icon": "https://i.ibb.co/99v191f/image.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png",
+    "coingecko": "https://www.coingecko.com/en/coins/lion-dao"
+  },
+  {
+    "id": "ibc/7D01429FF7542DBC41C261793B480B63FE7A83260C751989CC268BC7E852EB99",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1nsskhvvh0msm7d5ke2kfg24a8d4jecsnxd28s27h0uz5kf9ap60shlqmcl/ampGASH",
+    "name": "ampGASH",
+    "symbol": "ampGASH",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzdEMDE0MjlGRjc1NDJEQkM0MUMyNjE3OTNCNDgwQjYzRkU3QTgzMjYwQzc1MTk4OUNDMjY4QkM3RTg1MkVCOTk%3D&pagination.limit=1",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzdEMDE0MjlGRjc1NDJEQkM0MUMyNjE3OTNCNDgwQjYzRkU3QTgzMjYwQzc1MTk4OUNDMjY4QkM3RTg1MkVCOTk%3D&pagination.limit=1"
   },
   {
     "id": "ibc/91532E23037BBEBC1FA05D1D6A79AE3479A4B51A4CABA6C28E15EC24206FD50F",
@@ -1102,36 +1190,63 @@
   },
   {
     "id": "ibc/C0AFA9090B2DE3B79EA0296A43CD8C3C2FDAF153CC81E90A234AB8CBB1EAD6D6",
+    "origin_chain": "stafihub",
+    "origin_chain_id": "stafihub-1",
+    "origin_id": "urhuahua",
     "name": "rHUAHUA",
     "symbol": "rHUAHUA",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MwQUZBOTA5MEIyREUzQjc5RUEwMjk2QTQzQ0Q4QzNDMkZEQUYxNTNDQzgxRTkwQTIzNEFCOENCQjFFQUQ2RDY%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MwQUZBOTA5MEIyREUzQjc5RUEwMjk2QTQzQ0Q4QzNDMkZEQUYxNTNDQzgxRTkwQTIzNEFCOENCQjFFQUQ2RDY%3D&pagination.limit=1",
-    "icon": "https://app.whitewhale.money/logos/huahua.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stafihub/images/rhuahua.svg"
+  },
+  {
+    "id": "ibc/DBBDE1753EFA93F09C468DB5E384861BB741D4AA73E9C7032D139BB2C99FDD65",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1etlu2h30tjvv8rfa4fwdc43c92f6ul5w9acxzk/uguppy",
+    "name": "GUPPY",
+    "symbol": "GUPPY",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RCQkRFMTc1M0VGQTkzRjA5QzQ2OERCNUUzODQ4NjFCQjc0MUQ0QUE3M0U5QzcwMzJEMTM5QkIyQzk5RkRENjU%3D&pagination.limit=1",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RCQkRFMTc1M0VGQTkzRjA5QzQ2OERCNUUzODQ4NjFCQjc0MUQ0QUE3M0U5QzcwMzJEMTM5QkIyQzk5RkRENjU%3D&pagination.limit=1",
+    "icon": "https://i.imgur.com/XsUMwsw.png"
   },
   {
     "id": "ibc/DD44CDCD7379C1550D397AE05AB87474925EB0A521A07F36298572C9F30ABEB8",
-    "name": "Levana",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
+    "name": "Levana Governance Token",
     "symbol": "LVN",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RENDRDRENENzM3OUMxNTUwRDM5N0FFMDVBQjg3NDc0OTI1RUIwQTUyMUEwN0YzNjI5ODU3MkM5RjMwQUJFQjg%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RENDRDRENENzM3OUMxNTUwRDM5N0FFMDVBQjg3NDc0OTI1RUIwQTUyMUEwN0YzNjI5ODU3MkM5RjMwQUJFQjg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png",
+    "coingecko": "https://www.coingecko.com/en/coins/levana-protocol"
   },
   {
     "id": "ibc/E452FABA9C51E85726BAB567EB582FEA1541B9D26543C6876996B61112DE72F7",
-    "name": "bWHALE",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
+    "name": "bWhale",
     "symbol": "bWHALE",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTJGQUJBOUM1MUU4NTcyNkJBQjU2N0VCNTgyRkVBMTU0MUI5RDI2NTQzQzY4NzY5OTZCNjExMTJERTcyRjc%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTJGQUJBOUM1MUU4NTcyNkJBQjU2N0VCNTgyRkVBMTU0MUI5RDI2NTQzQzY4NzY5OTZCNjExMTJERTcyRjc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/backbone-labs-staked-whale"
   },
   {
     "id": "ibc/E45945EAF3F1587CA3013FFC6CE0B5EEE0F49DAFED2CE51370B5B6A0C3AA258E",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac",
     "name": "RAC",
     "symbol": "RAC",
     "decimals": "6",
@@ -1142,13 +1257,17 @@
   },
   {
     "id": "ibc/FA7112322CE7656DC84D441E49BAEAB9DC0AB3C7618A178A212CDE8B3F17C70B",
-    "name": "WHALE",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "uwhale",
+    "name": "Whale",
     "symbol": "WHALE",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzExMjMyMkNFNzY1NkRDODRENDQxRTQ5QkFFQUI5REMwQUIzQzc2MThBMTc4QTIxMkNERThCM0YxN0M3MEI%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzExMjMyMkNFNzY1NkRDODRENDQxRTQ5QkFFQUI5REMwQUIzQzc2MThBMTc4QTIxMkNERThCM0YxN0M3MEI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/white-whale"
   },
   {
     "id": "uhuahua",
@@ -1158,6 +1277,7 @@
     "type": "native",
     "circ_supply_api": "https://service.chihuahua.wtf/api/v1/circulating-supply",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=dWh1YWh1YQ%3D%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/chihuahua.jpeg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
+    "coingecko": "https://www.coingecko.com/en/coins/chihuahua-token"
   }
 ]

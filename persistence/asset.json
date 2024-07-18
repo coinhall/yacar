@@ -1,0 +1,46 @@
+[
+  {
+    "id": "stk/adydx",
+    "name": "PSTAKE staked DYDX",
+    "symbol": "stkDYDX",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkdydx.svg"
+  },
+  {
+    "id": "stk/uatom",
+    "name": "PSTAKE staked ATOM",
+    "symbol": "stkATOM",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/stkatom"
+  },
+  {
+    "id": "stk/uosmo",
+    "name": "PSTAKE staked OSMO",
+    "symbol": "stkOSMO",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkosmo.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/pstake-staked-osmo"
+  },
+  {
+    "id": "stk/ustars",
+    "name": "PSTAKE staked STARS",
+    "symbol": "stkSTARS",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkstars.svg"
+  },
+  {
+    "id": "uxprt",
+    "entity": "Persistence",
+    "name": "Persistence",
+    "symbol": "XPRT",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/persistence"
+  }
+]

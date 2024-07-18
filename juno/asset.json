@@ -28,11 +28,27 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno129qeu6q5v496hnxrdj74e34mvdft9p3n0wjepwmgck8m47jzh4nstevyp8/asc",
+    "name": "Astral Shard Crystals",
+    "symbol": "ASC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTI5cWV1NnE1djQ5NmhueHJkajc0ZTM0bXZkZnQ5cDNuMHdqZXB3bWdjazhtNDdqemg0bnN0ZXZ5cDgvYXNj&pagination.limit=1"
+  },
+  {
     "id": "factory/juno12dvlqgch6dsft68jlv2mh8fd72d0ae6c7cwsw384fdtvgc57whxsmc49nd/arena",
     "name": "Arena DAO",
     "symbol": "ARENA",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno13389y5egutkey9w4frmsaxj9rxjmg326th0n82ny903a7xhx8plqtk35ql/factor",
+    "name": "FACTOR TOKEN",
+    "symbol": "FACTOR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTMzODl5NWVndXRrZXk5dzRmcm1zYXhqOXJ4am1nMzI2dGgwbjgybnk5MDNhN3hoeDhwbHF0azM1cWwvZmFjdG9y&pagination.limit=1"
   },
   {
     "id": "factory/juno13urh034kd6c3dv3lmxsvvhznqty0j26uf6lfa0wgmg2vrwu78hdq20xe0h/ratd",
@@ -57,11 +73,35 @@
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTRhenB0a2x3MzMzbHBlMndtamh1c3gybDdtazc0NHd2MHA0a2czL3Vwb2ls&pagination.limit=1"
   },
   {
+    "id": "factory/juno14f94pller8cr5ggh748arjm9j4d3nnfd5mn34fgp58n8zgm65gdsgh30ad/cft",
+    "name": "Crypto Fun Token",
+    "symbol": "CFT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTRmOTRwbGxlcjhjcjVnZ2g3NDhhcmptOWo0ZDNubmZkNW1uMzRmZ3A1OG44emdtNjVnZHNnaDMwYWQvY2Z0&pagination.limit=1"
+  },
+  {
     "id": "factory/juno14y76wed4mgjmffw7srm9hz8kqwaxhyuwpth28d5mmw4zm7ns87cs2qq8zr/ogm",
     "name": "OG MEME",
     "symbol": "OGM",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno15afxxwmepzdku33rkrjk95lrhm3w83ydcqlpa2vvk6sfmm9r4hvq693s2e/red",
+    "name": "Red Sox Nation",
+    "symbol": "RED",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTVhZnh4d21lcHpka3UzM3JrcmprOTVscmhtM3c4M3lkY3FscGEydnZrNnNmbW05cjRodnE2OTNzMmUvcmVk&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno15c2uadlgj5hu033j3392ash0k5plwdyzg9m6tdssmr99rd05grgqu98s9s/eexp",
+    "name": "Earthist Experiment DAO Token",
+    "symbol": "EEXP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTVjMnVhZGxnajVodTAzM2ozMzkyYXNoMGs1cGx3ZHl6ZzltNnRkc3Ntcjk5cmQwNWdyZ3F1OThzOXMvZWV4cA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/juno162wc0g4ra75r24jxaky2shs9ghp32yed7tztsc9wm76r4d46jmkssuu7ar/apl",
@@ -76,6 +116,22 @@
     "symbol": "OGM",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno17spn2089hddgtw3wuf7rgy69mq7h9sl3e4rt404xd0t8tnpw6ynqhe8t2l/shdemo",
+    "name": "Spacehall Demo DAO",
+    "symbol": "SHDEMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTdzcG4yMDg5aGRkZ3R3M3d1ZjdyZ3k2OW1xN2g5c2wzZTRydDQwNHhkMHQ4dG5wdzZ5bnFoZTh0Mmwvc2hkZW1v&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1863kv34h7u6jgnemd9xnks6vwygvm2eau3przqj44ak0uflyxmhqsujljr/invest",
+    "name": "INVEST",
+    "symbol": "INVEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTg2M2t2MzRoN3U2amduZW1kOXhua3M2dnd5Z3ZtMmVhdTNwcnpxajQ0YWswdWZseXhtaHFzdWpsanIvaW52ZXN0&pagination.limit=1"
   },
   {
     "id": "factory/juno195asgku87kxgu48s447z0ryhsyn5rl3yzvfw0d/uhava",
@@ -114,6 +170,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWNzeDc1amthOXkydTRzZDdjNW1nYTBkc3AwYWx2ZTR2dnJsanNyNnpmeHZkZHRmamEzN3Fsam5qY2UvdG1lZA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1d5u8snnftq37xj9ufcwxga08ge4kwau4hzljaeysumcyttvg6e9qwefehl/rtm",
+    "name": "Return To Monkey",
+    "symbol": "RTM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWQ1dThzbm5mdHEzN3hqOXVmY3d4Z2EwOGdlNGt3YXU0aHpsamFleXN1bWN5dHR2ZzZlOXF3ZWZlaGwvcnRt&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1ec6j4rw92dqu4vswg2xrmj3u9vuqp543ls3vfx6uf7u9vrg4uvns5wz3sw/usdc",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWVjNmo0cnc5MmRxdTR2c3dnMnhybWozdTl2dXFwNTQzbHMzdmZ4NnVmN3U5dnJnNHV2bnM1d3ozc3cvdXNkYw%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/juno1eck27qefttt5twxsg38gsr0q0hr4e3vvyxm2q4/urarma",
@@ -164,7 +236,8 @@
     "symbol": "WIND",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWg2eTh0a2NlYXU0ZDh6eXY1YWEwZndkajJwYTJ5MGd6Mmh4MHRxL3V3aW5k&pagination.limit=1"
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWg2eTh0a2NlYXU0ZDh6eXY1YWEwZndkajJwYTJ5MGd6Mmh4MHRxL3V3aW5k&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/wind.png"
   },
   {
     "id": "factory/juno1hhlng2ve3jyud84zklvr3shlehg0attad8tewz/utoken",
@@ -239,7 +312,8 @@
     "name": "NEXX GEN AI",
     "symbol": "NEXX",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/nexx.png"
   },
   {
     "id": "factory/juno1qrxd2hlcfxkvln2haw7jz62e6vlw4wxu85r3gwpu7w8cw8wcxpgspaj6kj/pro",
@@ -286,7 +360,8 @@
     "name": "Licorice",
     "symbol": "DGL",
     "decimals": "6",
-    "type": "tokenfactory"
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dgl.png"
   },
   {
     "id": "factory/juno1uupxqaef6qrzfls3a3vfv0ec484acdz2tgfrryle768naa59ycwq5407kw/merc",
@@ -294,6 +369,14 @@
     "symbol": "merc",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/juno1vwmnqk0vyxc96qgffrure4nqxupjrql0zut8s02hadgp0n79r8xq5xdsxy/ARENA",
+    "name": "Arena Token",
+    "symbol": "ARENA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXZ3bW5xazB2eXhjOTZxZ2ZmcnVyZTRucXh1cGpycWwwenV0OHMwMmhhZGdwMG43OXI4eHE1eGRzeHkvQVJFTkE%3D&pagination.limit=1"
   },
   {
     "id": "factory/juno1wgw5t65ts9nwy95p3kzqswncfxxggfxt29000vvz7juqwz089mfs4yspp9/agi",
@@ -340,123 +423,153 @@
   },
   {
     "id": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
-    "entity": "BitSong",
+    "origin_chain": "bitsong",
+    "origin_chain_id": "bitsong-2b",
+    "origin_id": "ubtsg",
     "name": "BitSong",
     "symbol": "BTSG",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAwOEJGRDAwMEExMEJDRTVGMEQ0REQ4MTlBRTFDMUVDMjk0MjM5NjA2MkRBQkRENkFFNjRBNjU1QUJDNzA4NUI%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAwOEJGRDAwMEExMEJDRTVGMEQ0REQ4MTlBRTFDMUVDMjk0MjM5NjA2MkRBQkRENkFFNjRBNjU1QUJDNzA4NUI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/btsg.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/bitsong",
     "coingecko": "https://www.coingecko.com/en/coins/bitsong"
   },
   {
     "id": "ibc/01BAE2E69D02670B22758FBA74E4114B6E88FC1878936C919DA345E6C6C92ABF",
-    "name": "bWHALE",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
+    "name": "bWhale",
     "symbol": "bWHALE",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAxQkFFMkU2OUQwMjY3MEIyMjc1OEZCQTc0RTQxMTRCNkU4OEZDMTg3ODkzNkM5MTlEQTM0NUU2QzZDOTJBQkY%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzAxQkFFMkU2OUQwMjY3MEIyMjc1OEZCQTc0RTQxMTRCNkU4OEZDMTg3ODkzNkM5MTlEQTM0NUU2QzZDOTJBQkY%3D&pagination.limit=1",
-    "icon": "https://i.ibb.co/0Bpqb3b/image.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/backbone-labs-staked-whale"
   },
   {
     "id": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9",
-    "entity": "BitCanna",
+    "origin_chain": "bitcanna",
+    "origin_chain_id": "bitcanna-1",
+    "origin_id": "ubcna",
     "name": "BitCanna",
     "symbol": "BCNA",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBDQjVENjBFNTdGRDUyMUZBMzlEMTFFM0U0MTAxNDQzODkwMTBBQzVFRjVGMjkyQkM5QkREODMyRkEyRkRCRjk%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBDQjVENjBFNTdGRDUyMUZBMzlEMTFFM0U0MTAxNDQzODkwMTBBQzVFRjVGMjkyQkM5QkREODMyRkEyRkRCRjk%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bcna.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/bitcanna",
     "coingecko": "https://www.coingecko.com/en/coins/bitcanna"
   },
   {
     "id": "ibc/107D152BB3176FAEBF4C2A84C5FFDEEA7C7CB4FE1BBDAB710F1FD25BCD055CBF",
-    "entity": "Terra Money",
+    "origin_chain": "terra",
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "uluna",
     "name": "Luna",
     "symbol": "LUNA",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwN0QxNTJCQjMxNzZGQUVCRjRDMkE4NEM1RkZERUVBN0M3Q0I0RkUxQkJEQUI3MTBGMUZEMjVCQ0QwNTVDQkY%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwN0QxNTJCQjMxNzZGQUVCRjRDMkE4NEM1RkZERUVBN0M3Q0I0RkUxQkJEQUI3MTBGMUZEMjVCQ0QwNTVDQkY%3D&pagination.limit=1",
-    "icon": "https://assets.terra.money/icon/svg/Luna.svg"
+    "icon": "https://assets.terra.money/icon/svg/Luna.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2"
   },
   {
     "id": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27",
-    "entity": "Terra Money",
-    "name": "Terra UST Classic",
+    "origin_chain": "terraclassic",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "uusd",
+    "name": "TerraUSD Classic",
     "symbol": "USTC",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJEQTQxMzY0NTc4MTBCQ0I5REFBQjYyMENBNjdCQzM0MkIxN0MzQzcwMTUxQ0E3MDQ5MEExNzBERjdDOUNCMjc%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJEQTQxMzY0NTc4MTBCQ0I5REFBQjYyMENBNjdCQzM0MkIxN0MzQzcwMTUxQ0E3MDQ5MEExNzBERjdDOUNCMjc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/ustc.png",
+    "icon": "https://assets.terra.money/icon/60/UST.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd",
     "coingecko": "https://www.coingecko.com/en/coins/terraclassicusd"
   },
   {
     "id": "ibc/2F7C2A3D5D42553ED46F57D8B0DE3733B1B5FF571E2C6A051D34525904B4C0AF",
-    "name": "ampWHALE",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
+    "name": "ERIS Amplified WHALE",
     "symbol": "ampWHALE",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGN0MyQTNENUQ0MjU1M0VENDZGNTdEOEIwREUzNzMzQjFCNUZGNTcxRTJDNkEwNTFEMzQ1MjU5MDRCNEMwQUY%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGN0MyQTNENUQ0MjU1M0VENDZGNTdEOEIwREUzNzMzQjFCNUZGNTcxRTJDNkEwNTFEMzQ1MjU5MDRCNEMwQUY%3D&pagination.limit=1",
-    "icon": "https://app.whitewhale.money/logos/ampWhale.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/ampwhale.svg"
   },
   {
     "id": "ibc/3A6ADE78FB8169C034C29C4F2E1A61CE596EC8235366F22381D981A98F1F5A5C",
-    "name": "WHALE",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "uwhale",
+    "name": "Whale",
     "symbol": "WHALE",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNBNkFERTc4RkI4MTY5QzAzNEMyOUM0RjJFMUE2MUNFNTk2RUM4MjM1MzY2RjIyMzgxRDk4MUE5OEYxRjVBNUM%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNBNkFERTc4RkI4MTY5QzAzNEMyOUM0RjJFMUE2MUNFNTk2RUM4MjM1MzY2RjIyMzgxRDk4MUE5OEYxRjVBNUM%3D&pagination.limit=1",
-    "icon": "https://app.whitewhale.money/logos/whale.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/white-whale"
   },
   {
     "id": "ibc/52423136339C1CE8C91F6A586DFE41591BDDD4665AE526DFFA8421F9ACF95196",
-    "entity": "e-Money",
+    "origin_chain": "emoney",
+    "origin_chain_id": "emoney-3",
+    "origin_id": "ungm",
     "name": "e-Money",
     "symbol": "NGM",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUyNDIzMTM2MzM5QzFDRThDOTFGNkE1ODZERkU0MTU5MUJEREQ0NjY1QUU1MjZERkZBODQyMUY5QUNGOTUxOTY%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUyNDIzMTM2MzM5QzFDRThDOTFGNkE1ODZERkU0MTU5MUJEREQ0NjY1QUU1MjZERkZBODQyMUY5QUNGOTUxOTY%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/ngm.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/e-money-coin",
     "coingecko": "https://www.coingecko.com/en/coins/e-money"
   },
   {
     "id": "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F",
-    "name": "Asset Mantle",
+    "origin_chain": "assetmantle",
+    "origin_chain_id": "mantle-1",
+    "origin_id": "umntl",
+    "name": "AssetMantle",
     "symbol": "MNTL",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDQjkwNkU4MkI3QTg4RTYyNjQ0QUQ4MTEzNjFGNTg1OEI3NEJBOUVCRDc1Qzg0QjZEMjRCMjBDMDFBNDgxOUY%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDQjkwNkU4MkI3QTg4RTYyNjQ0QUQ4MTEzNjFGNTg1OEI3NEJBOUVCRDc1Qzg0QjZEMjRCMjBDMDFBNDgxOUY%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/assetmantle/images/mntl.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/assetmantle"
   },
   {
     "id": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A",
-    "entity": "Dig Chain",
+    "origin_chain": "dig",
+    "origin_chain_id": "dig-1",
+    "origin_id": "udig",
     "name": "Dig Chain",
     "symbol": "DIG",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY4NDJDNTkxREM0NTg4NDExQTU2NUM5RkY2NTBGQjE1QTE3REZFM0YwQTQzMjAxRTgxNDFFNEQxNEI4RDE3MUE%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY4NDJDNTkxREM0NTg4NDExQTU2NUM5RkY2NTBGQjE1QTE3REZFM0YwQTQzMjAxRTgxNDFFNEQxNEI4RDE3MUE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/dig.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dig/images/dig.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/dig-chain",
     "coingecko": "https://www.coingecko.com/en/coins/dig-chain"
   },
   {
     "id": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898",
-    "entity": "Persistence",
+    "origin_chain": "persistence",
+    "origin_chain_id": "core-1",
+    "origin_id": "uxprt",
     "name": "Persistence",
     "symbol": "XPRT",
     "decimals": "6",
@@ -469,84 +582,99 @@
   },
   {
     "id": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75",
-    "entity": "Terra Money",
-    "name": "Terra Classic",
+    "origin_chain": "terraclassic",
+    "origin_chain_id": "columbus-5",
+    "origin_id": "uluna",
+    "name": "Luna Classic",
     "symbol": "LUNC",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhGODY1RDk3NjBCNDgyRkY2MjU0RURGRUMxRkYyRjEyNzNCOUFCNjg3M0E3REU0ODRGODk2Mzk3OTVENzNENzU%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhGODY1RDk3NjBCNDgyRkY2MjU0RURGRUMxRkYyRjEyNzNCOUFCNjg3M0E3REU0ODRGODk2Mzk3OTVENzNENzU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/lunc.png",
+    "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna",
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-classic"
   },
   {
     "id": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0",
-    "entity": "Comdex",
+    "origin_chain": "comdex",
+    "origin_chain_id": "comdex-1",
+    "origin_id": "ucmdx",
     "name": "Comdex",
     "symbol": "CMDX",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0NkFEOTZGMjc4NzcwNTIxNTI2RDcyODNGNTgyNjhEQTJGNkFDRERFNDAzMjRBOUQxQzg2ODExRDc4Qzg2QTA%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0NkFEOTZGMjc4NzcwNTIxNTI2RDcyODNGNTgyNjhEQTJGNkFDRERFNDAzMjRBOUQxQzg2ODExRDc4Qzg2QTA%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/cmdx.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/comdex",
     "coingecko": "https://www.coingecko.com/en/coins/comdex"
   },
   {
     "id": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD",
-    "entity": "Secret Network",
-    "name": "Secret",
+    "origin_chain": "secretnetwork",
+    "origin_chain_id": "secret-4",
+    "origin_id": "uscrt",
+    "name": "Secret Network",
     "symbol": "SCRT",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I1NUIwOEVGMzY2N0IwQzZGMDI5QzJDQzlDQUE2QjAwNzg4Q0Y2MzlFQkI4NEIzNDgxOEM4NUNCQUJBMzNBQkQ%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I1NUIwOEVGMzY2N0IwQzZGMDI5QzJDQzlDQUE2QjAwNzg4Q0Y2MzlFQkI4NEIzNDgxOEM4NUNCQUJBMzNBQkQ%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/scrt.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret",
     "coingecko": "https://www.coingecko.com/en/coins/secret"
   },
   {
     "id": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C",
-    "entity": "e-Money",
+    "origin_chain": "emoney",
+    "origin_chain_id": "emoney-3",
+    "origin_id": "eeur",
     "name": "e-Money EUR",
     "symbol": "EEUR",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I5RjdDMUU0Q0U5MjE5QjVBRjA2QzQ3QjE4NjYxREJENDlDQ0Q3QTZDMThGRjc4OUUyRkI2MkJCMzY1Q0ZGOUM%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I5RjdDMUU0Q0U5MjE5QjVBRjA2QzQ3QjE4NjYxREJENDlDQ0Q3QTZDMThGRjc4OUUyRkI2MkJCMzY1Q0ZGOUM%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/eeur.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/eeur.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/e-money",
     "coingecko": "https://www.coingecko.com/en/coins/e-money-eur"
   },
   {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-    "entity": "Cosmos",
-    "name": "Atom",
+    "origin_chain": "cosmoshub",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
+    "name": "Cosmos Hub Atom",
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos-hub"
   },
   {
     "id": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241",
-    "entity": "Chihuahua",
+    "origin_chain": "chihuahua",
+    "origin_chain_id": "chihuahua-1",
+    "origin_id": "uhuahua",
     "name": "Chihuahua",
     "symbol": "HUAHUA",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4MzZCMTkxQ0RBRThFREFDREVCRTdCNjRCNTA0QzVFMDZDQzE3QzZBMDcyREFGMjc4RjlBOTZERjY2RjYyNDE%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4MzZCMTkxQ0RBRThFREFDREVCRTdCNjRCNTA0QzVFMDZDQzE3QzZBMDcyREFGMjc4RjlBOTZERjY2RjYyNDE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/huahua.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/chihuahua-wtf",
     "coingecko": "https://www.coingecko.com/en/coins/chihuahua-chain"
   },
   {
     "id": "ibc/D8D6271EC54E3A96C6B9FB6C2BA9E99692B07CEB42754638029657072EA48337",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac",
     "name": "RAC",
     "symbol": "RAC",
     "decimals": "6",
@@ -557,50 +685,60 @@
   },
   {
     "id": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A",
-    "entity": "Akash Network",
+    "origin_chain": "akash",
+    "origin_chain_id": "akashnet-2",
+    "origin_id": "uakt",
     "name": "Akash Network",
     "symbol": "AKT",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RGQzZGMzM3OTZENUQwMDc1QzVGQjU0QTREN0I4RTc2OTE1QUNGNDM0Q0IxRUUyQTFCQTBCQjgzMzRFMTdDM0E%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RGQzZGMzM3OTZENUQwMDc1QzVGQjU0QTREN0I4RTc2OTE1QUNGNDM0Q0IxRUUyQTFCQTBCQjgzMzRFMTdDM0E%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/akt.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/akash-network",
     "coingecko": "https://www.coingecko.com/en/coins/akash-network"
   },
   {
     "id": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
-    "name": "USDC",
-    "symbol": "USDC",
+    "origin_chain": "axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "uusdc",
+    "name": "USD Coin",
+    "symbol": "USDC.eth.axl",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VBQzM4RDU1MzcyRjM4RjFBRkQ2OERGN0ZFOUVGNzYyRENGNjlGMjY1MjA2NDNDRjNGOUQyOTJBNzM4RDgwMzQ%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VBQzM4RDU1MzcyRjM4RjFBRkQ2OERGN0ZFOUVGNzYyRENGNjlGMjY1MjA2NDNDRjNGOUQyOTJBNzM4RDgwMzQ%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/axlusdc.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/axlusdc"
   },
   {
     "id": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-    "entity": "Osmosis",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "uosmo",
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VEMDdBMzM5MUExMTJCMTc1OTE1Q0Q4RkFGNDNBMkRBOEU0NzkwRURFMTI1NjY2NDlEMEMyRjk3NzE2Qjg1MTg%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VEMDdBMzM5MUExMTJCMTc1OTE1Q0Q4RkFGNDNBMkRBOEU0NzkwRURFMTI1NjY2NDlEMEMyRjk3NzE2Qjg1MTg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
     "id": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885",
-    "entity": "Stargaze",
+    "origin_chain": "stargaze",
+    "origin_chain_id": "stargaze-1",
+    "origin_id": "ustars",
     "name": "Stargaze",
     "symbol": "STARS",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y2QjM2NzM4NTMwMDg2NUY2NTRFMTEwOTc2QjgzODUwMjUwNDIzMTcwNUJBQzA4NDlCMDY1MUMyMjYzODU4ODU%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y2QjM2NzM4NTMwMDg2NUY2NTRFMTEwOTc2QjgzODUwMjUwNDIzMTcwNUJBQzA4NDlCMDY1MUMyMjYzODU4ODU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/stars.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/stargaze/",
     "coingecko": "https://www.coingecko.com/en/coins/stargaze"
   },
@@ -611,6 +749,14 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/KLEO.png"
+  },
+  {
+    "id": "juno10vgf2u03ufcf25tspgn05l7j3tfg0j63ljgpffy98t697m5r5hmqaw95ux",
+    "name": "Silica",
+    "symbol": "SLCA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/silica.png"
   },
   {
     "id": "juno10ynpq4wchr4ruu6mhrfh29495ep4cja5vjnkhz3j5lrgcsap9vtssyeekl",
@@ -625,7 +771,23 @@
     "name": "EMPWR",
     "symbol": "EMPWR",
     "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/empwr.png"
+  },
+  {
+    "id": "juno12k9c7z5jq7wpenua26z3459wk42vtdfs0xh0yu6awd0kg64m4m2s9qwj7j",
+    "name": "Island dao token",
+    "symbol": "ISLAND",
+    "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "juno12mcwmd6wqhledkjsurlfqtc8j0pedvxlcxw3gs4kh2qf808ehehsen8nmw",
+    "name": "Y-Foundry DAO",
+    "symbol": "YFD",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/yfd.svg"
   },
   {
     "id": "juno13926947pmrjly5p9hf5juey65c6rget0gqrnx3us3r6pvnpf4hwqm8mchy",
@@ -640,6 +802,14 @@
     "name": "MANNA",
     "symbol": "MANNA",
     "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/manna.png"
+  },
+  {
+    "id": "juno146a5m5ckc4r8pcsrhs9heqhgtqwuux24gf86f8wcxfx9jr007kaqrk74x3",
+    "name": "TAA",
+    "symbol": "TAA",
+    "decimals": "6",
     "type": "cw20"
   },
   {
@@ -649,6 +819,14 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/drgn.png"
+  },
+  {
+    "id": "juno14fz92ehqt37e096xr95kmy8nc0kz803uezxtg4fwx7agjjma86sqm8mg3h",
+    "name": "BITS",
+    "symbol": "BITS",
+    "decimals": "8",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/bits.png"
   },
   {
     "id": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
@@ -664,7 +842,24 @@
     "name": "MIDDLE",
     "symbol": "MIDDLE",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/middle.png"
+  },
+  {
+    "id": "juno159q8t5g02744lxq8lfmcn6f78qqulq9wn3y9w7lxjgkz4e0a6kvsfvapse",
+    "name": "Solarbank DAO",
+    "symbol": "SOLAR",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/solar.svg"
+  },
+  {
+    "id": "juno15au4k2jgwd0jnchy0fkg3lm00fpt7jt0j2duuzradn2q7sega2dszyn5pp",
+    "name": "Palantin",
+    "symbol": "PLTN",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/pltn.png"
   },
   {
     "id": "juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
@@ -674,6 +869,14 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png"
+  },
+  {
+    "id": "juno166heaxlyntd33a5euh4rrz26svhean4klzw594esmd02l4atan6sazy2my",
+    "name": "Mini Punks",
+    "symbol": "MNPU",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/mnpu.svg"
   },
   {
     "id": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
@@ -693,6 +896,14 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Steak.png"
+  },
+  {
+    "id": "juno17703kcxtsg37hryxnestejyyycuv5yyvnghp2e7w0kqvafnnyetsgzq62w",
+    "name": "Sunset",
+    "symbol": "SUNSET",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/sunset.png"
   },
   {
     "id": "juno17c7zyezg3m8p2tf9hqgue9jhahvle70d59e8j9nmrvhw9anrpk8qxlrghx",
@@ -717,6 +928,21 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/nmn.png"
+  },
+  {
+    "id": "juno17wzaxtfdw5em7lc94yed4ylgjme63eh73lm3lutp2rhcxttyvpwsypjm4w",
+    "name": "Another.Software Validator Token",
+    "symbol": "ASVT",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/asvt.png"
+  },
+  {
+    "id": "juno19982juyyk4njtq8pl8ytm05q9ah794kjdfgntlm0nds59g6mzfds8k5t0s",
+    "name": "dddddddd",
+    "symbol": "dddddddddd",
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
@@ -746,6 +972,14 @@
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/coindex.png"
   },
   {
+    "id": "juno1cltgm8v842gu54srmejewghnd6uqa26lzkpa635wzra9m9xuudkqa2gtcz",
+    "name": "FURY.legacy",
+    "symbol": "FURY.legacy",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/fanfury.png"
+  },
+  {
     "id": "juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv",
     "entity": "StakeEasy",
     "name": "StakeEasy seJUNO",
@@ -755,6 +989,38 @@
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sejuno.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/loop-finance/",
     "coingecko": "https://www.coingecko.com/en/coins/stakeeasy-juno-derivative/"
+  },
+  {
+    "id": "juno1dpany8c0lj526lsa02sldv7shzvnw5dt5ues72rk35hd69rrydxqeraz8l",
+    "name": "LIGHT",
+    "symbol": "LIGHT",
+    "decimals": "9",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/light.png"
+  },
+  {
+    "id": "juno1dyyf7pxeassxvftf570krv7fdf5r8e4r04mp99h0mllsqzp3rs4q7y8yqg",
+    "name": "Spacer",
+    "symbol": "SPACER",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/spacer.png"
+  },
+  {
+    "id": "juno1epxnvge53c4hkcmqzlxryw5fp7eae2utyk6ehjcfpwajwp48km3sgxsh9k",
+    "name": "Pepec",
+    "symbol": "PEPEC",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/pepec.png"
+  },
+  {
+    "id": "juno1f5datjdse3mdgrapwuzs3prl7pvxxht48ns6calnn0t77v2s9l8s0qu488",
+    "name": "Catmos",
+    "symbol": "CATMOS",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/catmos.png"
   },
   {
     "id": "juno1g0wuyu2f49ncf94r65278puxzclf5arse9f3kvffxyv4se4vgdmsk4dvqz",
@@ -773,6 +1039,21 @@
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/marble.png",
     "coingecko": "https://www.coingecko.com/en/coins/marble-dao"
+  },
+  {
+    "id": "juno1gex7r28s5q700q4ytlpkljtp473jheh8ghz0rjsrdg33aze4965qg8ftgj",
+    "name": "CASH",
+    "symbol": "CASH",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1gz8cf86zr4vw9cjcyyv432vgdaecvr9n254d3uwwkx9rermekddsxzageh",
+    "name": "GKey",
+    "symbol": "GKEY",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/gkey.svg"
   },
   {
     "id": "juno1gzys54drag6753qq75mkt3yhjwyv4rp698kfvesh0wcy5737z4tsn0chtm",
@@ -800,6 +1081,13 @@
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/arto.png"
   },
   {
+    "id": "juno1hzgry5kws7uzawj24qq7geke50fnr4ft9xfdllvrz26z3yf4j9esfvauxh",
+    "name": "BONE",
+    "symbol": "BONE",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se",
     "name": "Gelotto",
     "symbol": "GLTO",
@@ -812,7 +1100,23 @@
     "name": "SUMMIT",
     "symbol": "SUMMIT",
     "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/summit.png"
+  },
+  {
+    "id": "juno1jp0rl7pgm8hkv42x4yq0wzmuauptnrat3r0g0pcx3rw46rayh55sjuwuhk",
+    "name": "TestCW20OsmosisRelay",
+    "symbol": "TCWOSMO",
+    "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "juno1jrr0tuuzxrrwcg6hgeqhw5wqpck2y55734e7zcrp745aardlp0qqg8jz06",
+    "name": "Apemos",
+    "symbol": "APEMOS",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/apemos.png"
   },
   {
     "id": "juno1ju8k8sqwsqu5k6umrypmtyqu2wqcpnrkf4w4mntvl0javt4nma7s8lzgss",
@@ -823,12 +1127,66 @@
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/CASA.png"
   },
   {
+    "id": "juno1jwdy7v4egw36pd84aeks3ww6n8k7zhsumd4ac8q5lts83ppxueus4626e8",
+    "name": "Invaders",
+    "symbol": "INVDRS",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/invdrs.png"
+  },
+  {
+    "id": "juno1k2ruzzvvwwtwny6gq6kcwyfhkzahaunp685wmz4hafplduekj98q9hgs6d",
+    "name": "Doge Apr",
+    "symbol": "DOGA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/doga.png"
+  },
+  {
     "id": "juno1kqx9rhc8ksx52tukdx797k4rjrhkgfh4gljs04ql97hmnnkgyvxs5cqt7d",
     "name": "UniverseDAO",
     "symbol": "VERSE",
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/VERSE.png"
+  },
+  {
+    "id": "juno1l6aprfjg7vkkk97yx7n5w9dcy867nxesvjrh5xxdn6j6qjd7qwvspl7pvx",
+    "name": "yEvmos",
+    "symbol": "YEVMOS",
+    "decimals": "18",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1llg7q2d5dqlrqzh5dxv8c7kzzjszld34s5vktqmlmaaxqjssz43sxyhq0d",
+    "name": "Mille",
+    "symbol": "MILE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/mille.png"
+  },
+  {
+    "id": "juno1lpvx3mv2a6ddzfjc7zzz2v2cm5gqgqf0hx67hc5p5qwn7hz4cdjsnznhu8",
+    "name": "Void",
+    "symbol": "VOID",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/void.png"
+  },
+  {
+    "id": "juno1lrkn0zcc647pupzr5z67ru7qnyt2pze4szfxt5qqc003zquxkc3shxaks4",
+    "name": "Bird Halving",
+    "symbol": "BHV",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1m4h8q4p305wgy7vkux0w6e5ylhqll3s6pmadhxkhqtuwd5wlxhxs8xklsw",
+    "name": "WATR",
+    "symbol": "WATR",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/watr.png"
   },
   {
     "id": "juno1mkw83sv6c7sjdvsaplrzc8yaes9l42p4mhy0ssuxjnyzl87c9eps7ce3m9",
@@ -848,7 +1206,15 @@
     "symbol": "bJuno",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://app.whitewhale.money/logos/bJUNO.png"
+    "icon": "https://app.whitewhale.money/logos/bJUNO.png",
+    "coingecko": "https://www.coingecko.com/en/coins/backbone-labs-staked-juno"
+  },
+  {
+    "id": "juno1my00w2ewtuqx20h4qtvhefqdtndz9w34p620l2yk4grat2etx38q8jsxz0",
+    "name": "Tradecoin",
+    "symbol": "TRD",
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "juno1n7n7d5088qlzlj37e9mgmkhx6dfgtvt02hqxq66lcap4dxnzdhwqfmgng3",
@@ -866,6 +1232,14 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/wyJUNO.png"
+  },
+  {
+    "id": "juno1ngww7zxak55fql42wmyqrr4rhzpne24hhs4p3w4cwhcdgqgr3hxsmzl9zg",
+    "name": "Celestims",
+    "symbol": "CLST",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/celestims.png"
   },
   {
     "id": "juno1p32te9zfhd99ehpxfd06hka6hc9p7tv5kyl5909mzedg5klze09qrg08ry",
@@ -893,6 +1267,36 @@
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hulcat.png"
   },
   {
+    "id": "juno1q6yst9jw5q9wad8pxxalpu5z59v85t5smq2mj85qsdw274x4cz9su9jumm",
+    "name": "BroCoin",
+    "symbol": "BRO",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1qck3dtlhgpzt8qujk9lnrnlpa254yllpq9sqmjlupq5chf5gf25snnlt7h",
+    "name": "OAPE",
+    "symbol": "OAPE",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1qmlchtmjpvu0cr7u0tad2pq8838h6farrrjzp39eqa9xswg7teussrswlq",
+    "name": "nRide",
+    "symbol": "NRIDE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/juno/asset/nride.png"
+  },
+  {
+    "id": "juno1qqwf3lkfjhp77yja7gmg3y95pda0e5xctqrdhf3wvwdd79flagvqfgrgxp",
+    "name": "Sikoba Token",
+    "symbol": "SKOJ",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/sikoba.svg"
+  },
+  {
     "id": "juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
     "entity": "Loop",
     "name": "Loop",
@@ -910,7 +1314,8 @@
     "symbol": "RAC",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/racoon"
   },
   {
     "id": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z",
@@ -929,7 +1334,24 @@
     "symbol": "PHMN",
     "decimals": "6",
     "type": "cw20",
-    "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/PHMN.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/phmn.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/posthuman"
+  },
+  {
+    "id": "juno1s2dp05rspeuzzpzyzdchk262szehrtfpz847uvf98cnwh53ulx4qg20qwj",
+    "name": "Banana Token",
+    "symbol": "BANANA",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/banana.png"
+  },
+  {
+    "id": "juno1t46z6hg8vvsena7sue0vg6w85ljar3cundplkre9sz0skeqkap9sxyyy6m",
+    "name": "BlackHole",
+    "symbol": "HOLE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/hole.svg"
   },
   {
     "id": "juno1t8dnpktypue65q0hjz7tr3cvqypgj5vkxhd2twvng4a2ywa3j25spjuk6z",
@@ -938,6 +1360,44 @@
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/primo.png"
+  },
+  {
+    "id": "juno1u45shlp0q4gcckvsj06ss4xuvsu0z24a0d0vr9ce6r24pht4e5xq7q995n",
+    "name": "Hopers",
+    "symbol": "HOPERS",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/hopers.svg"
+  },
+  {
+    "id": "juno1u8cr3hcjvfkzxcaacv9q75uw9hwjmn8pucc93pmy6yvkzz79kh3qncca8x",
+    "name": "Juno Fox",
+    "symbol": "FOX",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/fox.png"
+  },
+  {
+    "id": "juno1ufmwzhewxsa07ym3s3v3283zfjk4ud3qa5f6dgnad0y7xmahkzjs0kyz7r",
+    "name": "cointestibc",
+    "symbol": "cointestibc",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1unhusx6m33a073l5nefkv7a6c66wqasmayhlv23rl9exwklhujqs9vkafz",
+    "name": "ELONCOIN",
+    "symbol": "ELON",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1uu3rxu7w7fpfj4sl4xpxppgymk57mzdzn6kg7492jdxh5dwk7d2qq9429e",
+    "name": "Living Tree",
+    "symbol": "TREE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/livingtree.png"
   },
   {
     "id": "juno1vaeuky9hqacenay9nmuualugvv54tdhyt2wsvhnjasx9s946hhmqaq3kh7",
@@ -956,6 +1416,20 @@
     "decimals": "3",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/cannalabs.png"
+  },
+  {
+    "id": "juno1vss29flnjxpnwnnwr5ed3v7n769jadztverpwxjwlsgtlluzmeeslzszc5",
+    "name": "Light",
+    "symbol": "LIGHT",
+    "decimals": "18",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1w6cax0hr5hkvyr54xus5sqlpyk2krrs58d04lklse94rns9q9fxspka20y",
+    "name": "Joy of missing opportunities",
+    "symbol": "JOMO",
+    "decimals": "6",
+    "type": "cw20"
   },
   {
     "id": "juno1w7kspnu3j4hmzvsltsk00xujfa84sf502vs2zjcawl03vgn7vj3sww9mh7",
@@ -994,12 +1468,73 @@
     "icon": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/czar.png"
   },
   {
+    "id": "juno1x5qt47rw84c4k6xvvywtrd40p8gxjt8wnmlahlqg07qevah3f8lqwxfs7z",
+    "name": "ShibaCosmos",
+    "symbol": "SHIBAC",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/shibacosmos.png"
+  },
+  {
+    "id": "juno1xekkh27punj0uxruv3gvuydyt856fax0nu750xns99t2qcxp7xmsqwhfma",
+    "name": "Guardian",
+    "symbol": "GRDN",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/guardian.png"
+  },
+  {
+    "id": "juno1y0y8rkzytel0htm86uknczrjeyzqzznuyqgs64fvk9k2zfnpw64qe7vmgj",
+    "name": "IBC Testing Contract",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1y29mta8ct0pnfac2krjp5nfr7mhd56x5ye04fp55t69pa490zq2sql4v2l",
+    "name": "Astral Shard Crystals",
+    "symbol": "AFA",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq",
     "name": "Block",
     "symbol": "BLOCK",
     "decimals": "6",
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/MarbleDAO/brand-assets/main/block.png"
+  },
+  {
+    "id": "juno1ytymtllllsp3hfmndvcp802p2xmy5s8m59ufel8xv9ahyxyfs4hs4kd4je",
+    "name": "Osmosis Doge",
+    "symbol": "OSDOGE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/osdoge.png"
+  },
+  {
+    "id": "juno1zkwveux7y6fmsr88atf3cyffx96p0c96qr8tgcsj7vfnhx7sal3s3zu3ps",
+    "name": "Junø Apes",
+    "symbol": "JAPE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/jape.png"
+  },
+  {
+    "id": "juno1zln4p372y059y42vmgda37h9syvqpw899z35hwf0m40n5jmhzc8shjuzck",
+    "name": "Digital",
+    "symbol": "DIGIT",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
+    "id": "juno1zqrj3ta4u7ylv0wqzd8t8q3jrr9rdmn43zuzp9zemeunecnhy8fss778g7",
+    "name": "Osmo Pepe",
+    "symbol": "PEPE",
+    "decimals": "6",
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/pepe.png"
   },
   {
     "id": "ujuno",
