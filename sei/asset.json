@@ -1758,6 +1758,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbng1NjBlZms0aHh5cjRzajlqMmw2bnhwOGY2cjl4a3B5MDR3Y2Mvc2VpcGVwZQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1ny52376ecy5ctc2p555wdj63cxt4cw8p8dqu3f45ckqxdw0xnleqfl4hn7/arbi",
+    "name": "Arbitrum Dog",
+    "symbol": "ARBI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbnk1MjM3NmVjeTVjdGMycDU1NXdkajYzY3h0NGN3OHA4ZHF1M2Y0NWNrcXhkdzB4bmxlcWZsNGhuNy9hcmJp&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ny52376ecy5ctc2p555wdj63cxt4cw8p8dqu3f45ckqxdw0xnleqfl4hn7/arbi/vest",
+    "name": "Arbitrum Dog Vests",
+    "symbol": "ARBI/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbnk1MjM3NmVjeTVjdGMycDU1NXdkajYzY3h0NGN3OHA4ZHF1M2Y0NWNrcXhkdzB4bmxlcWZsNGhuNy9hcmJpL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1nz4zj0ql4dcw2x6lljacl5f9cy8hwelum3mqfs9vg7hjr56thxusdpw8n5/pamp",
     "name": "234",
     "symbol": "PAMP",
