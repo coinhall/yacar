@@ -25,6 +25,7 @@ jobs:
           echo "status=$?" >> $GITHUB_OUTPUT
 
       - name: Commit changes
+        if: steps.validate.outputs.status == '0'
         uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
@@ -38,7 +39,7 @@ jobs:
       github.repository == 'coinhall/yacar'
     steps:
       - name: auto-merge
-        uses: pascalgn/automerge-action@v0.15.5
+        uses: pascalgn/automerge-action@v0.16.3
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_FILTER_AUTHOR: "yacarbot[bot]"
