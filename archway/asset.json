@@ -431,13 +431,16 @@
   },
   {
     "id": "ibc/6F681B32B47E765AE278844A8A97C8B7AD5A3FB591E37CFDFA0E208EFEBEF97D",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "USDC.grav",
     "symbol": "USDC.grav",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd-archway.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZGNjgxQjMyQjQ3RTc2NUFFMjc4ODQ0QThBOTdDOEI3QUQ1QTNGQjU5MUUzN0NGREZBMEUyMDhFRkVCRUY5N0Q%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-archway.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZGNjgxQjMyQjQ3RTc2NUFFMjc4ODQ0QThBOTdDOEI3QUQ1QTNGQjU5MUUzN0NGREZBMEUyMDhFRkVCRUY5N0Q%3D&pagination.limit=1",
-    "icon": "https://coinhall.astrovault.io/token/logo-usdc.grav.svg"
+    "icon": "https://coinhall.astrovault.io/token/logo-usdc.grav.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/gravity-bridge-usdc"
   },
   {
     "id": "ibc/7D065381F942659A8CA06E8BEF5BCD61F1E60B9A648785740F8BAA4064305344",
@@ -452,6 +455,8 @@
   },
   {
     "id": "ibc/7F6928F9DB35D5A420330B9470EA4419B5F305EEB668D3274FC1ACDAC325ED17",
+    "origin_chain_id": "gravity-bridge-3",
+    "origin_id": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "name": "USDT.grav",
     "symbol": "USDT.grav",
     "decimals": "6",
