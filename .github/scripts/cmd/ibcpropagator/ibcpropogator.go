@@ -54,8 +54,7 @@ func resolveBackwards(chainAssetsMap map[string][]yacarsdk.Asset) map[string][]y
 
 			rootAssets, ok := chainAssetsMap[asset.OriginChain]
 			if !ok {
-				log.Println("origin chain not in YACAR, skipping propagation... -", chain, asset.Id)
-				continue
+				log.Fatalln("origin chain not in YACAR, skipping propagation... -", chain, asset.Id)
 			}
 
 			isMatchingRootAsset := func(ra yacarsdk.Asset) bool { return ra.Id == asset.OriginId }
