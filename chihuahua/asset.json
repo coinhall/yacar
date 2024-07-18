@@ -1153,7 +1153,20 @@
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZCQjRBREI0NUIxOTAzQUU0OTc3MTBGQkMyNEU3M0MyQzU3OEE3OUQyNUVGOTIzQkQyRTc4NEE3RkQwRkM1OUY%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzZCQjRBREI0NUIxOTAzQUU0OTc3MTBGQkMyNEU3M0MyQzU3OEE3OUQyNUVGOTIzQkQyRTc4NEE3RkQwRkM1OUY%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png",
+    "coingecko": "https://www.coingecko.com/en/coins/lion-dao"
+  },
+  {
+    "id": "ibc/7D01429FF7542DBC41C261793B480B63FE7A83260C751989CC268BC7E852EB99",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1nsskhvvh0msm7d5ke2kfg24a8d4jecsnxd28s27h0uz5kf9ap60shlqmcl/ampGASH",
+    "name": "ampGASH",
+    "symbol": "ampGASH",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzdEMDE0MjlGRjc1NDJEQkM0MUMyNjE3OTNCNDgwQjYzRkU3QTgzMjYwQzc1MTk4OUNDMjY4QkM3RTg1MkVCOTk%3D&pagination.limit=1",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzdEMDE0MjlGRjc1NDJEQkM0MUMyNjE3OTNCNDgwQjYzRkU3QTgzMjYwQzc1MTk4OUNDMjY4QkM3RTg1MkVCOTk%3D&pagination.limit=1"
   },
   {
     "id": "ibc/91532E23037BBEBC1FA05D1D6A79AE3479A4B51A4CABA6C28E15EC24206FD50F",
@@ -1189,6 +1202,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stafihub/images/rhuahua.svg"
   },
   {
+    "id": "ibc/DBBDE1753EFA93F09C468DB5E384861BB741D4AA73E9C7032D139BB2C99FDD65",
+    "origin_chain": "migaloo",
+    "origin_chain_id": "migaloo-1",
+    "origin_id": "factory/migaloo1etlu2h30tjvv8rfa4fwdc43c92f6ul5w9acxzk/uguppy",
+    "name": "GUPPY",
+    "symbol": "GUPPY",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RCQkRFMTc1M0VGQTkzRjA5QzQ2OERCNUUzODQ4NjFCQjc0MUQ0QUE3M0U5QzcwMzJEMTM5QkIyQzk5RkRENjU%3D&pagination.limit=1",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RCQkRFMTc1M0VGQTkzRjA5QzQ2OERCNUUzODQ4NjFCQjc0MUQ0QUE3M0U5QzcwMzJEMTM5QkIyQzk5RkRENjU%3D&pagination.limit=1",
+    "icon": "https://i.imgur.com/XsUMwsw.png"
+  },
+  {
     "id": "ibc/DD44CDCD7379C1550D397AE05AB87474925EB0A521A07F36298572C9F30ABEB8",
     "origin_chain": "osmosis",
     "origin_chain_id": "osmosis-1",
@@ -1199,7 +1225,8 @@
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RENDRDRENENzM3OUMxNTUwRDM5N0FFMDVBQjg3NDc0OTI1RUIwQTUyMUEwN0YzNjI5ODU3MkM5RjMwQUJFQjg%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RENDRDRENENzM3OUMxNTUwRDM5N0FFMDVBQjg3NDc0OTI1RUIwQTUyMUEwN0YzNjI5ODU3MkM5RjMwQUJFQjg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png",
+    "coingecko": "https://www.coingecko.com/en/coins/levana-protocol"
   },
   {
     "id": "ibc/E452FABA9C51E85726BAB567EB582FEA1541B9D26543C6876996B61112DE72F7",
@@ -1212,7 +1239,8 @@
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTJGQUJBOUM1MUU4NTcyNkJBQjU2N0VCNTgyRkVBMTU0MUI5RDI2NTQzQzY4NzY5OTZCNjExMTJERTcyRjc%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTJGQUJBOUM1MUU4NTcyNkJBQjU2N0VCNTgyRkVBMTU0MUI5RDI2NTQzQzY4NzY5OTZCNjExMTJERTcyRjc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/bWHALE.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/backbone-labs-staked-whale"
   },
   {
     "id": "ibc/E45945EAF3F1587CA3013FFC6CE0B5EEE0F49DAFED2CE51370B5B6A0C3AA258E",
@@ -1238,7 +1266,8 @@
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzExMjMyMkNFNzY1NkRDODRENDQxRTQ5QkFFQUI5REMwQUIzQzc2MThBMTc4QTIxMkNERThCM0YxN0M3MEI%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZBNzExMjMyMkNFNzY1NkRDODRENDQxRTQ5QkFFQUI5REMwQUIzQzc2MThBMTc4QTIxMkNERThCM0YxN0M3MEI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/white-whale"
   },
   {
     "id": "uhuahua",
