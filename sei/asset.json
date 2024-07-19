@@ -2401,6 +2401,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdTZkbHpqNGs0Z3RlYXBwNWc1eHM5aDJycDk4MjVxaHF4dHFranBwaDh1bGw5bWNqd3phc3RyejNraC9va3gyL3Zlc3Q%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1ucv5qc2r623n2tuv77dmn4rjeqm3a2hu8z7ncxac6eclq274vkfs4a8y8l/gdog",
+    "name": "GROVER´S CAT",
+    "symbol": "GDOG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdWN2NXFjMnI2MjNuMnR1djc3ZG1uNHJqZXFtM2EyaHU4ejduY3hhYzZlY2xxMjc0dmtmczRhOHk4bC9nZG9n&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ucv5qc2r623n2tuv77dmn4rjeqm3a2hu8z7ncxac6eclq274vkfs4a8y8l/gdog/vest",
+    "name": "GROVER´S CAT Vests",
+    "symbol": "GDOG/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdWN2NXFjMnI2MjNuMnR1djc3ZG1uNHJqZXFtM2EyaHU4ejduY3hhYzZlY2xxMjc0dmtmczRhOHk4bC9nZG9nL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1ugqxsya3w7usz9xudf6ggkg2tkj4tg7l45268q/sauseidge",
     "name": "sauseidge",
     "symbol": "SAUSEIDGE",
