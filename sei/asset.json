@@ -295,6 +295,22 @@
     "icon": "https://arweave.net/xSR09G1SIJv7o0RdnrcA91B7lk8et274Ae8ey3ckz1E"
   },
   {
+    "id": "factory/sei156awz8tu6z7f055lr2h5zpgshk8p782xsqtwk4vpn5x6z2p7dxsqe8uzla/pamp",
+    "name": "lol",
+    "symbol": "PAMP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNTZhd3o4dHU2ejdmMDU1bHIyaDV6cGdzaGs4cDc4MnhzcXR3azR2cG41eDZ6MnA3ZHhzcWU4dXpsYS9wYW1w&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei156awz8tu6z7f055lr2h5zpgshk8p782xsqtwk4vpn5x6z2p7dxsqe8uzla/pamp/vest",
+    "name": "lol Vests",
+    "symbol": "PAMP/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNTZhd3o4dHU2ejdmMDU1bHIyaDV6cGdzaGs4cDc4MnhzcXR3azR2cG41eDZ6MnA3ZHhzcWU4dXpsYS9wYW1wL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1584g7vslgphlt8yfxlj3gjv2rlhflcde4rlz2l/useint",
     "name": "seint",
     "symbol": "SEINT",
@@ -431,6 +447,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNnh2ZHdwZWVzNTNwOWN1ZDNuamp0ZnR1cmo3NTJ5bGRlZ2M3ZXJzZGZldmNtdW5rNzNmcWxnZjZjai9mcm95L3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei16y5hv8jfny4earwd745cggskl9k0z7225s8jc3l62y2psy96l80sfny98u/pamp",
+    "name": "lol",
+    "symbol": "PAMP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNnk1aHY4amZueTRlYXJ3ZDc0NWNnZ3NrbDlrMHo3MjI1czhqYzNsNjJ5MnBzeTk2bDgwc2ZueTk4dS9wYW1w&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei16y5hv8jfny4earwd745cggskl9k0z7225s8jc3l62y2psy96l80sfny98u/pamp/vest",
+    "name": "lol Vests",
+    "symbol": "PAMP/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNnk1aHY4amZueTRlYXJ3ZDc0NWNnZ3NrbDlrMHo3MjI1czhqYzNsNjJ5MnBzeTk2bDgwc2ZueTk4dS9wYW1wL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei170273gwp44f07tykrg4ptv8twu0kxkrp8rr96p/sensei",
@@ -868,6 +900,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZGZ1OWs3Y3p3cTY2MGtuYzh0MHF4MDNkZ3JlYWo2dDI2NXMycWM4cWVxZWFtZnR6cWNucWZ2cGx0dC96enovdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1dsu7g5cs0walcsawhcru4mq3lmwrpx7gw3de8jg2w96q4s4a4k7sjmtrcr/pampit",
+    "name": "adfasdf",
+    "symbol": "PAMPIT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZHN1N2c1Y3Mwd2FsY3Nhd2hjcnU0bXEzbG13cnB4N2d3M2RlOGpnMnc5NnE0czRhNGs3c2ptdHJjci9wYW1waXQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1dsu7g5cs0walcsawhcru4mq3lmwrpx7gw3de8jg2w96q4s4a4k7sjmtrcr/pampit/vest",
+    "name": "adfasdf Vests",
+    "symbol": "PAMPIT/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxZHN1N2c1Y3Mwd2FsY3Nhd2hjcnU0bXEzbG13cnB4N2d3M2RlOGpnMnc5NnE0czRhNGs3c2ptdHJjci9wYW1waXQvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1dsudq65aqal9xme9fu2h0shshmyqh8fu6vcjclm4k3w7zft5z4nqu4v8s0/new",
@@ -1482,6 +1530,22 @@
     "icon": "https://i.ibb.co/MCVfnP1/sei7.png"
   },
   {
+    "id": "factory/sei1k5s00s49a3zwscfuth99kffkjgpzh9qsmjeakzdrcx06szl7udssuulzgg/pampit",
+    "name": "adfasdf",
+    "symbol": "PAMPIT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxazVzMDBzNDlhM3p3c2NmdXRoOTlrZmZramdwemg5cXNtamVha3pkcmN4MDZzemw3dWRzc3V1bHpnZy9wYW1waXQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1k5s00s49a3zwscfuth99kffkjgpzh9qsmjeakzdrcx06szl7udssuulzgg/pampit/vest",
+    "name": "adfasdf Vests",
+    "symbol": "PAMPIT/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxazVzMDBzNDlhM3p3c2NmdXRoOTlrZmZramdwemg5cXNtamVha3pkcmN4MDZzemw3dWRzc3V1bHpnZy9wYW1waXQvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1kde9nvjmw6ef5z8gayr5msz79eyt4nswupvfp4/GOGETA",
     "entity": "SeiGogeta",
     "name": "SeiGogeta",
@@ -1820,6 +1884,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbno0emowcWw0ZGN3Mng2bGxqYWNsNWY5Y3k4aHdlbHVtM21xZnM5dmc3aGpyNTZ0aHh1c2RwdzhuNS9wYW1wL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1nzmyajuwuqp58jnhzwwvetuhrg0rza70r8kf5e2hgafzjayv63gs9chyer/adfa",
+    "name": "adfas",
+    "symbol": "adfa",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbnpteWFqdXd1cXA1OGpuaHp3d3ZldHVocmcwcnphNzByOGtmNWUyaGdhZnpqYXl2NjNnczljaHllci9hZGZh&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1nzmyajuwuqp58jnhzwwvetuhrg0rza70r8kf5e2hgafzjayv63gs9chyer/adfa/vest",
+    "name": "adfas Vests",
+    "symbol": "adfa/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbnpteWFqdXd1cXA1OGpuaHp3d3ZldHVocmcwcnphNzByOGtmNWUyaGdhZnpqYXl2NjNnczljaHllci9hZGZhL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1p2dsf89ucu2rj85l0nmc9hsm38n4nql68xcxlg/BONSEI",
@@ -2433,6 +2513,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdTZkbHpqNGs0Z3RlYXBwNWc1eHM5aDJycDk4MjVxaHF4dHFranBwaDh1bGw5bWNqd3phc3RyejNraC9va3gyL3Zlc3Q%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1ucttn4jgmt7hcdu3cf8exdtyjfs5u0gjgwzgr002yt864yr42fssfh828z/pamp",
+    "name": "asdfasdf",
+    "symbol": "PAMP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdWN0dG40amdtdDdoY2R1M2NmOGV4ZHR5amZzNXUwZ2pnd3pncjAwMnl0ODY0eXI0MmZzc2ZoODI4ei9wYW1w&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ucttn4jgmt7hcdu3cf8exdtyjfs5u0gjgwzgr002yt864yr42fssfh828z/pamp/vest",
+    "name": "asdfasdf Vests",
+    "symbol": "PAMP/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdWN0dG40amdtdDdoY2R1M2NmOGV4ZHR5amZzNXUwZ2pnd3pncjAwMnl0ODY0eXI0MmZzc2ZoODI4ei9wYW1wL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1ucv5qc2r623n2tuv77dmn4rjeqm3a2hu8z7ncxac6eclq274vkfs4a8y8l/gdog",
     "name": "GROVER´S CAT",
     "symbol": "GDOG",
@@ -2455,6 +2551,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdWdxeHN5YTN3N3Vzejl4dWRmNmdna2cydGtqNHRnN2w0NTI2OHEvc2F1c2VpZGdl&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1utah56r59smhmu7xv4qdpuvew63ztn7pzdzm4csr722mnsfgkvhqc7u2nh/pampit",
+    "name": "adfasdf",
+    "symbol": "PAMPIT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdXRhaDU2cjU5c21obXU3eHY0cWRwdXZldzYzenRuN3B6ZHptNGNzcjcyMm1uc2Zna3ZocWM3dTJuaC9wYW1waXQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1utah56r59smhmu7xv4qdpuvew63ztn7pzdzm4csr722mnsfgkvhqc7u2nh/pampit/vest",
+    "name": "adfasdf Vests",
+    "symbol": "PAMPIT/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdXRhaDU2cjU5c21obXU3eHY0cWRwdXZldzYzenRuN3B6ZHptNGNzcjcyMm1uc2Zna3ZocWM3dTJuaC9wYW1waXQvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1uxvgj9g66n7aqrmu00vpmgz7fzg6sz4ttexcd9/vegeta",
