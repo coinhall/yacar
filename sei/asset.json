@@ -343,6 +343,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNXJjNzlyM2w3a2NmbmZnenJkMzk0NWc4c21xcWY4d21sNWVhMjNlcGh1OWVlNjRrZThtc2dwbGYzcC92YW5jZS92ZXN0&pagination.limit=1"
   },
   {
+    "id": "factory/sei15zc75p3ma8ke5f35qnmzpm0dz2f3yjwhq9459u3d9ndh60g8p4vsrffs7a/rock",
+    "name": "rock",
+    "symbol": "rock",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNXpjNzVwM21hOGtlNWYzNXFubXpwbTBkejJmM3lqd2hxOTQ1OXUzZDluZGg2MGc4cDR2c3JmZnM3YS9yb2Nr&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei15zc75p3ma8ke5f35qnmzpm0dz2f3yjwhq9459u3d9ndh60g8p4vsrffs7a/rock/vest",
+    "name": "rock Vests",
+    "symbol": "rock/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNXpjNzVwM21hOGtlNWYzNXFubXpwbTBkejJmM3lqd2hxOTQ1OXUzZDluZGg2MGc4cDR2c3JmZnM3YS9yb2NrL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei164fynplwutt79kfx7yqct6y895dmuj6wk83367hsdzgc56np8x5qy2z5wy/mcdo",
     "name": "Mcdonal Crew",
     "symbol": "mcdo",
