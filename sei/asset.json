@@ -47,6 +47,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMG13Zm1oaHlyOXp5ZnN5aGw4aG5ldTRxcHR4a3MybGxnbmdrNXQvc2Vpb25hcmE%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei10pms6ee4ay9qr6l8j9l3kf3k3tnx46k4jla4fd97qw7ayuty4vash3mwem/pamp",
+    "name": "pamp",
+    "symbol": "PAMP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMHBtczZlZTRheTlxcjZsOGo5bDNrZjNrM3RueDQ2azRqbGE0ZmQ5N3F3N2F5dXR5NHZhc2gzbXdlbS9wYW1w&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei10pms6ee4ay9qr6l8j9l3kf3k3tnx46k4jla4fd97qw7ayuty4vash3mwem/pamp/vest",
+    "name": "pamp Vests",
+    "symbol": "PAMP/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMHBtczZlZTRheTlxcjZsOGo5bDNrZjNrM3RueDQ2azRqbGE0ZmQ5N3F3N2F5dXR5NHZhc2gzbXdlbS9wYW1wL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei10qcmatvk99ucsfzrkeelxyd8xnr96ve6mnednsa2rf6cle33vlxq0eknql/ventures",
     "name": "Tailwind Ventures",
     "symbol": "VENTURES",
@@ -3012,6 +3028,22 @@
     "symbol": "SEIGNEUR",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/sei1zk84xwhe4yxrv9prx088ca0vm8zuemxu7090wtqpesp7e2crjtqsdflr87/pamp",
+    "name": "adfadsf",
+    "symbol": "PAMP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxems4NHh3aGU0eXhydjlwcngwODhjYTB2bTh6dWVteHU3MDkwd3RxcGVzcDdlMmNyanRxc2RmbHI4Ny9wYW1w&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1zk84xwhe4yxrv9prx088ca0vm8zuemxu7090wtqpesp7e2crjtqsdflr87/pamp/vest",
+    "name": "adfadsf Vests",
+    "symbol": "PAMP/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxems4NHh3aGU0eXhydjlwcngwODhjYTB2bTh6dWVteHU3MDkwd3RxcGVzcDdlMmNyanRxc2RmbHI4Ny9wYW1wL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
