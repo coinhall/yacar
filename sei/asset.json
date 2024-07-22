@@ -319,6 +319,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNTg0Zzd2c2xncGhsdDh5ZnhsajNnanYycmxoZmxjZGU0cmx6MmwvdXNlaW50&pagination.limit=1"
   },
   {
+    "id": "factory/sei15fx2turv8kkfnhvjcacltlxctsdfxulka657n9g4tracp8jn86zsecztw7/ngmi",
+    "name": "NGMI, Bitch please",
+    "symbol": "NGMI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNWZ4MnR1cnY4a2tmbmh2amNhY2x0bHhjdHNkZnh1bGthNjU3bjlnNHRyYWNwOGpuODZ6c2VjenR3Ny9uZ21p&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei15fx2turv8kkfnhvjcacltlxctsdfxulka657n9g4tracp8jn86zsecztw7/ngmi/vest",
+    "name": "NGMI, Bitch please Vests",
+    "symbol": "NGMI/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNWZ4MnR1cnY4a2tmbmh2amNhY2x0bHhjdHNkZnh1bGthNjU3bjlnNHRyYWNwOGpuODZ6c2VjenR3Ny9uZ21pL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei15qr6322k9cg7ljscwxuhglrxg2dxmtsa8g4mpjm7axk0l23hz27qy2rj5p/copy",
     "name": "Capy Homie",
     "symbol": "COPY",
