@@ -143,6 +143,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMzM2eDJmZHp6MmFxd3NoMHF6aDlxNHZwNjNwN2o5ampmcXF5NHovdmFuaXR5&pagination.limit=1"
   },
   {
+    "id": "factory/sei133zndfvqkzztgm2xl053f9rej0s8l4mvwqpquhy8nelwv68sma6sqdnd0q/asdf",
+    "name": "afasdf",
+    "symbol": "asdf",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMzN6bmRmdnFrenp0Z20yeGwwNTNmOXJlajBzOGw0bXZ3cXBxdWh5OG5lbHd2NjhzbWE2c3FkbmQwcS9hc2Rm&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei133zndfvqkzztgm2xl053f9rej0s8l4mvwqpquhy8nelwv68sma6sqdnd0q/asdf/vest",
+    "name": "afasdf Vests",
+    "symbol": "asdf/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMzN6bmRmdnFrenp0Z20yeGwwNTNmOXJlajBzOGw0bXZ3cXBxdWh5OG5lbHd2NjhzbWE2c3FkbmQwcS9hc2RmL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei139gxrlzt90khvv63uxcsxu7p5njdx85hx40u8z/umeow",
     "name": "Meow",
     "symbol": "MEOW",
@@ -743,6 +759,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxODl4a3Y3Nnd1ZGp1eGhkbXJ6czVlOWFhYWhqamh6YXdxMGR3NTZ1ZjZwYWZlcTNtZXB6cTh2NDBxNC9wYXJsbGVsL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei18pn4sspfkn0qq48e9z8afkx8gdy53nt8r2nuk8dn3qk8vdxfhj7qcagm4w/asdf",
+    "name": "afasdf",
+    "symbol": "asdf",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxOHBuNHNzcGZrbjBxcTQ4ZTl6OGFma3g4Z2R5NTNudDhyMm51azhkbjNxazh2ZHhmaGo3cWNhZ200dy9hc2Rm&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei18pn4sspfkn0qq48e9z8afkx8gdy53nt8r2nuk8dn3qk8vdxfhj7qcagm4w/asdf/vest",
+    "name": "afasdf Vests",
+    "symbol": "asdf/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxOHBuNHNzcGZrbjBxcTQ4ZTl6OGFma3g4Z2R5NTNudDhyMm51azhkbjNxazh2ZHhmaGo3cWNhZ200dy9hc2RmL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei194j6ddv6tgj9em562skuzjanhtqlshlnpehg70/uchips",
@@ -2440,6 +2472,22 @@
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxczZrd2xqdXhyZ2c5M3NqdTJhcThuMmxuMjB1M3EwbTVranhwZzAvU0lG&pagination.limit=1",
     "icon": "https://i.ibb.co/LJFwxr7/SIF.png"
+  },
+  {
+    "id": "factory/sei1s86y632zwrpk5qldxx7qytdrd2tqgpxyatppt7hunu70ntdgdw5shulcvj/pamp",
+    "name": "asfsdf",
+    "symbol": "PAMP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxczg2eTYzMnp3cnBrNXFsZHh4N3F5dGRyZDJ0cWdweHlhdHBwdDdodW51NzBudGRnZHc1c2h1bGN2ai9wYW1w&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1s86y632zwrpk5qldxx7qytdrd2tqgpxyatppt7hunu70ntdgdw5shulcvj/pamp/vest",
+    "name": "asfsdf Vests",
+    "symbol": "PAMP/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxczg2eTYzMnp3cnBrNXFsZHh4N3F5dGRyZDJ0cWdweHlhdHBwdDdodW51NzBudGRnZHc1c2h1bGN2ai9wYW1wL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1saeel30g6mkwqzdp8ezcjwvauzaclxlldn492m/SEIJAY",
