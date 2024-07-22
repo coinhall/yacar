@@ -2767,6 +2767,15 @@
     "icon": "https://arweave.net/lDcWLeOZNFLVcCQ3V6jjNF_6o0RbIC_-iI1dM1W3IHE"
   },
   {
+    "id": "factory/inj1d3nq64h56hvjvdqatk9e4p26z5y4g4l6uf2a7w/JIT",
+    "name": "J Injective Token",
+    "symbol": "JIT",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZDNucTY0aDU2aHZqdmRxYXRrOWU0cDI2ejV5NGc0bDZ1ZjJhN3cvSklU&pagination.limit=1",
+    "icon": "ipfs://QmaqtujTjzaZBBw6zRbwtfoy5NLifb9Zg9MgjfESVMaFtU"
+  },
+  {
     "id": "factory/inj1d4ld9w7mf8wjyv5y7fnhpate07fguv3s3tmngm/karmainj",
     "entity": "Karma",
     "name": "Karma",
