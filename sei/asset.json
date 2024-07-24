@@ -79,6 +79,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMHFjbWF0dms5OXVjc2Z6cmtlZWx4eWQ4eG5yOTZ2ZTZtbmVkbnNhMnJmNmNsZTMzdmx4cTBla25xbC92ZW50dXJlcy92ZXN0&pagination.limit=1"
   },
   {
+    "id": "factory/sei10ufjtseaa5ph4yhyvk7gze4guxutchkgdve3azzs8g2yh7vqrtyss9x4an/tim",
+    "name": "TIMOTHEE",
+    "symbol": "TIM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMHVmanRzZWFhNXBoNHloeXZrN2d6ZTRndXh1dGNoa2dkdmUzYXp6czhnMnloN3ZxcnR5c3M5eDRhbi90aW0%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei10ufjtseaa5ph4yhyvk7gze4guxutchkgdve3azzs8g2yh7vqrtyss9x4an/tim/vest",
+    "name": "TIMOTHEE Vests",
+    "symbol": "TIM/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxMHVmanRzZWFhNXBoNHloeXZrN2d6ZTRndXh1dGNoa2dkdmUzYXp6czhnMnloN3ZxcnR5c3M5eDRhbi90aW0vdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei124znhvxldmstmq38ef4kf83pc3zegramg0h769/ubanana",
     "name": "Banana",
     "symbol": "BANANA",
