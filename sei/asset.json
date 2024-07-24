@@ -1518,6 +1518,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaDdwM21rNzZoYTY2ZjY5cDVudHp6eHJ4YXVmNDJxOWp0dXVldm51c2Rxc3c1ZGN0NTVwc3dnNzdodS9rZWl0aC92ZXN0&pagination.limit=1"
   },
   {
+    "id": "factory/sei1hjj068m9s9c0h9s35rtasf5ewujyrywmhfrlkeu8v9ssrqdqft2sw37zdx/coppy",
+    "name": "Cappy as a cop and badass as fck on sei",
+    "symbol": "COPPY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaGpqMDY4bTlzOWMwaDlzMzVydGFzZjVld3VqeXJ5d21oZnJsa2V1OHY5c3NycWRxZnQyc3czN3pkeC9jb3BweQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1hjj068m9s9c0h9s35rtasf5ewujyrywmhfrlkeu8v9ssrqdqft2sw37zdx/coppy/vest",
+    "name": "Cappy as a cop and badass as fck on sei Vests",
+    "symbol": "COPPY/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaGpqMDY4bTlzOWMwaDlzMzVydGFzZjVld3VqeXJ5d21oZnJsa2V1OHY5c3NycWRxZnQyc3czN3pkeC9jb3BweS92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1hmhg257pl4kg5fwxx0nlkz9uanh98y2vwedl6d/SEINFELD",
     "entity": "SEINFELD",
     "name": "SEINFELD",
