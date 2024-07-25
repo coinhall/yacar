@@ -1656,6 +1656,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxaHlsMDA1NXB4MnBuZ3I5d25jeXFzbHl2ZTR0MGdxanBsYWM3ejd1NXgzbDludjloY3FycXk2ZTA5bS9ob25leS92ZXN0&pagination.limit=1"
   },
   {
+    "id": "factory/sei1j0njg5p3nan3ca7uvyxehwyxftsmq9a78hqqy5axxcsqvtqph63q6ecuej/ape",
+    "name": "ApeStore",
+    "symbol": "APE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxajBuamc1cDNuYW4zY2E3dXZ5eGVod3l4ZnRzbXE5YTc4aHFxeTVheHhjc3F2dHFwaDYzcTZlY3Vlai9hcGU%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1j0njg5p3nan3ca7uvyxehwyxftsmq9a78hqqy5axxcsqvtqph63q6ecuej/ape/vest",
+    "name": "ApeStore Vests",
+    "symbol": "APE/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxajBuamc1cDNuYW4zY2E3dXZ5eGVod3l4ZnRzbXE5YTc4aHFxeTVheHhjc3F2dHFwaDYzcTZlY3Vlai9hcGUvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1jaw4fxnr3uy4fhq2g4cphqeetqcnpuh8uke3mh/DUDESEI",
     "name": "DUDESEI",
     "symbol": "DUDESEI",
