@@ -3035,6 +3035,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdzhjbTRqYTVoeW1nOGp6M2trMHY2NmpxNDVoNzVtbGhjdG13NThyanM5bDludmV5YTM3c2ZhcnA2Zy9zYXZpb3IvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1wd6wcvf347hkyj20me7030uzsenkx8eyh9yn5s9lp6cwsvg0mwjs6l6qd4/spepe",
+    "name": "SEIYAN PEPE",
+    "symbol": "SPEPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxd2Q2d2N2ZjM0N2hreWoyMG1lNzAzMHV6c2Vua3g4ZXloOXluNXM5bHA2Y3dzdmcwbXdqczZsNnFkNC9zcGVwZQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1wd6wcvf347hkyj20me7030uzsenkx8eyh9yn5s9lp6cwsvg0mwjs6l6qd4/spepe/vest",
+    "name": "SEIYAN PEPE Vests",
+    "symbol": "SPEPE/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxd2Q2d2N2ZjM0N2hreWoyMG1lNzAzMHV6c2Vua3g4ZXloOXluNXM5bHA2Y3dzdmcwbXdqczZsNnFkNC9zcGVwZS92ZXN0&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1wefm5p4m6znsvqzgrulp53uwxw7eyerzrmvcfylsllpx356tsqysqyckmp/bag",
     "name": "$BAG",
     "symbol": "BAG",
