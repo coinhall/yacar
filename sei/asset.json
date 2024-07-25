@@ -308,6 +308,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNGs0NXZxdzZsZmE0bmgwN2x2cmo0ZGNhMmx4OGVkMGU3NXgwYTJrODN2Y3YyNDlseGg1c2NmbWp3OS9yaWsvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei14l92c7kf4hcedaf2h9wxyfh585t0lx5xvjf8flqzypqq8an8j9hsffxv6p/air",
+    "name": "AIRDROP",
+    "symbol": "AIR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNGw5MmM3a2Y0aGNlZGFmMmg5d3h5Zmg1ODV0MGx4NXh2amY4ZmxxenlwcXE4YW44ajloc2ZmeHY2cC9haXI%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei14l92c7kf4hcedaf2h9wxyfh585t0lx5xvjf8flqzypqq8an8j9hsffxv6p/air/vest",
+    "name": "AIRDROP Vests",
+    "symbol": "AIR/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNGw5MmM3a2Y0aGNlZGFmMmg5d3h5Zmg1ODV0MGx4NXh2amY4ZmxxenlwcXE4YW44ajloc2ZmeHY2cC9haXIvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei14rffmx7cw6zmlas309z59mkgaf88edudvfyh4el2mj28clznempqn92jc6/furroy",
     "name": "Roy is a furry",
     "symbol": "FURROY",
@@ -576,6 +592,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxNzIyZDNlcXRrdHp1ZzN3Y202MGg1bHRydnMwanA0eWgyZHd2YWw5NHAzamZ2dWdsdXY3czZ5c21jOS92dXNk&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei17k0ja0pap4f3nmd3gndw6hc3m6c37dfpcp3jg8tp5736lrm5et2scnvg0x/air",
+    "name": "AIRDROP",
+    "symbol": "AIR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN2swamEwcGFwNGYzbm1kM2duZHc2aGMzbTZjMzdkZnBjcDNqZzh0cDU3MzZscm01ZXQyc2NudmcweC9haXI%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei17k0ja0pap4f3nmd3gndw6hc3m6c37dfpcp3jg8tp5736lrm5et2scnvg0x/air/vest",
+    "name": "AIRDROP Vests",
+    "symbol": "AIR/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxN2swamEwcGFwNGYzbm1kM2duZHc2aGMzbTZjMzdkZnBjcDNqZzh0cDU3MzZscm01ZXQyc2NudmcweC9haXIvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei17k3ah8kd2k6u4prlsvm8f3psghw2at7cf2mjpr/chickegg",
@@ -3049,6 +3081,22 @@
     "circ_supply": "1000000000",
     "total_supply": "1000000000",
     "icon": "https://raw.githubusercontent.com/goldenrulessei/GOLDENRULES/main/goldenrules.png"
+  },
+  {
+    "id": "factory/sei1w5kzyvryl0mr3lwpd6zy4pvpyhe0pf4tvrh0fajlzdm2j8vm9hmshq3t63/air",
+    "name": "AIRDROP",
+    "symbol": "AIR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdzVrenl2cnlsMG1yM2x3cGQ2enk0cHZweWhlMHBmNHR2cmgwZmFqbHpkbTJqOHZtOWhtc2hxM3Q2My9haXI%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1w5kzyvryl0mr3lwpd6zy4pvpyhe0pf4tvrh0fajlzdm2j8vm9hmshq3t63/air/vest",
+    "name": "AIRDROP Vests",
+    "symbol": "AIR/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdzVrenl2cnlsMG1yM2x3cGQ2enk0cHZweWhlMHBmNHR2cmgwZmFqbHpkbTJqOHZtOWhtc2hxM3Q2My9haXIvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1w8cm4ja5hymg8jz3kk0v66jq45h75mlhctmw58rjs9l9nveya37sfarp6g/savior",
