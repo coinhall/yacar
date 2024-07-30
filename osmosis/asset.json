@@ -11826,6 +11826,19 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/1AEF145C549D4F9847C79E49710B198C294C7F4A107F4610DEE8E725FFC4B378",
+    "origin_chain": "lava",
+    "origin_chain_id": "lava-mainnet-1",
+    "origin_id": "ulava",
+    "name": "Lava",
+    "symbol": "LAVA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFBRUYxNDVDNTQ5RDRGOTg0N0M3OUU0OTcxMEIxOThDMjk0QzdGNEExMDdGNDYxMERFRThFNzI1RkZDNEIzNzg%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFBRUYxNDVDNTQ5RDRGOTg0N0M3OUU0OTcxMEIxOThDMjk0QzdGNEExMDdGNDYxMERFRThFNzI1RkZDNEIzNzg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lava/images/lava.png"
+  },
+  {
     "id": "ibc/1B708808D372E959CD4839C594960309283424C775F4A038AAEBE7F83A988477",
     "origin_chain": "quasar",
     "origin_chain_id": "quasar-1",
