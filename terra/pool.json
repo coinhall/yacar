@@ -2430,6 +2430,16 @@
     "lp_token_id": "terra10u5xkhpjdsx6tfw8eq3rs2rrsvxzaazsvchmfyyw7s370lfevljs8qga5y"
   },
   {
+    "id": "terra14x9fr055x5hvr48hzy2t4q7kvjvfttsvxusa4xsdcy702mnzsvuqprer8r",
+    "asset_ids": [
+      "ibc/7DD1E57984A26E7B6CBA0D93032DC24AD5274536184DFA999D166EBF6E4AA469",
+      "uluna"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO"
+  },
+  {
     "id": "terra14y5l7n04d3pdfs3fmzevmc5vxghtrklstu8jfjqmwnycgnwcylcqaqwvrh",
     "asset_ids": [
       "uluna",
@@ -8738,15 +8748,5 @@
     "dex": "White Whale",
     "type": "xyk",
     "lp_token_id": "factory/terra1zushwxgqdkg22mtv9p946yp53r6den6lv427esjaadua3ftzyjpsqgtl5z/uLP"
-  },
-  {
-    "id": "terra14x9fr055x5hvr48hzy2t4q7kvjvfttsvxusa4xsdcy702mnzsvuqprer8r",
-    "asset_ids": [
-      "ibc/7DD1E57984A26E7B6CBA0D93032DC24AD5274536184DFA999D166EBF6E4AA469",
-      "uluna"
-    ],
-    "dex": "Astroport",
-    "type": "xyk",
-    "lp_token_id": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO"
   }
 ]
