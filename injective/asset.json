@@ -17660,5 +17660,14 @@
     "type": "peggy",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGY5YTA2ZEUzRjY2MzlFNmVlNEYwNzkwOTVENTA5MzY0NEFkODVFOGI%3D&pagination.limit=1",
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/puggo.jpg"
+  },
+  {
+  "id": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+  "entity": "Cosmo",
+  "name": "Cosmo",
+  "symbol": "COSMO",
+  "decimals": "6",
+  "type": "tokenfactory",
+  "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png",
   }
 ]
