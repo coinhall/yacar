@@ -12892,6 +12892,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/echelon"
   },
   {
+    "id": "ibc/4925733868E7999F5822C961ADE9470A7FC5FA4A560BAE1DE102783C3F64C201",
+    "origin_chain": "injective",
+    "origin_chain_id": "injective-1",
+    "origin_id": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "name": "Cosmo",
+    "symbol": "COSMO",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ5MjU3MzM4NjhFNzk5OUY1ODIyQzk2MUFERTk0NzBBN0ZDNUZBNEE1NjBCQUUxREUxMDI3ODNDM0Y2NEMyMDE%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ5MjU3MzM4NjhFNzk5OUY1ODIyQzk2MUFERTk0NzBBN0ZDNUZBNEE1NjBCQUUxREUxMDI3ODNDM0Y2NEMyMDE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png"
+  },
+  {
     "id": "ibc/4976049456D261659D0EC499CC9C2391D3C7D1128A0B9FB0BBF2842D1B2BC7BC",
     "origin_chain": "migaloo",
     "origin_chain_id": "migaloo-1",
