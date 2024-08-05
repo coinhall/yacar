@@ -1876,6 +1876,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa25ndmRlZGN1enhkMjZmanluOHFoNG50anNrN3QydjU4NnR1Mmsvc2hpa29rdQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1knqjftnyjzsyqv20d8v29j24pfz7napv900c79mydg82kvp4xmts5dfh97/lfg",
+    "name": "LFG",
+    "symbol": "LFG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa25xamZ0bnlqenN5cXYyMGQ4djI5ajI0cGZ6N25hcHY5MDBjNzlteWRnODJrdnA0eG10czVkZmg5Ny9sZmc%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1knqjftnyjzsyqv20d8v29j24pfz7napv900c79mydg82kvp4xmts5dfh97/lfg/vest",
+    "name": "LFG Vests",
+    "symbol": "LFG/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa25xamZ0bnlqenN5cXYyMGQ4djI5ajI0cGZ6N25hcHY5MDBjNzlteWRnODJrdnA0eG10czVkZmg5Ny9sZmcvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1kpv8szkqdtnyul72uyj65mj5al6n5anfa5qa4m/SEIMEN",
     "name": "SEIMEN",
     "symbol": "SEIMEN",
