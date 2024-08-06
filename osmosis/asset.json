@@ -95,6 +95,15 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo14mafhhp337yjj2aujplawz0tks6jd2lel4hkwz4agyzhvvztzaqsqzjq8x/alloyed/allTRX",
+    "name": "Tron",
+    "symbol": "TRX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTRtYWZoaHAzMzd5amoyYXVqcGxhd3owdGtzNmpkMmxlbDRoa3d6NGFneXpodnZ6dHphcXNxempxOHgvYWxsb3llZC9hbGxUUlg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/tron/images/trx.svg"
+  },
+  {
     "id": "factory/osmo14qfn3y0huxauaj6fklars7yvue4mjr7t6eepgghacy4g6t3v6gqq9k0k2q/wdbrn",
     "name": "Woodburn",
     "symbol": "WDBRN",
