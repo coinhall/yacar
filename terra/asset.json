@@ -3937,6 +3937,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1xfkkgwxychgrnq0vcp82u32mecrzj8s64s03cxtmf46k6j2n2wssc7rzjf",
+    "name": "dmt",
+    "symbol": "DMT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1xfkkgwxychgrnq0vcp82u32mecrzj8s64s03cxtmf46k6j2n2wssc7rzjf/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "terra1xgkjhtn4d5csgwchma73gtx5yzjxuq0eywz25lj56eqgq4d4r37sygw8wn",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
@@ -4148,6 +4156,14 @@
     "decimals": "8",
     "type": "cw20",
     "icon": "https://assets.terra.dev/icon/svg/DOGE.svg"
+  },
+  {
+    "id": "terra1z2crwj34j6072gzr9myxrkm705kwvsxt629jay2gyrcejuyusmcs48n2a6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1z2crwj34j6072gzr9myxrkm705kwvsxt629jay2gyrcejuyusmcs48n2a6/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "terra1z3nctlwtasqshsagu2l4lj74pdm8hl7jhjyeepergtkny4cyka0se48n37",
