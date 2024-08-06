@@ -13369,6 +13369,19 @@
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/KLEO.png"
   },
   {
+    "id": "ibc/603140E681973C7A3A33B06B1D377AAD0F6AC376119735CECC04C9184A1AB080",
+    "origin_chain": "stride",
+    "origin_chain_id": "stride-1",
+    "origin_id": "stuband",
+    "name": "Stride Staked BAND",
+    "symbol": "stBAND",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYwMzE0MEU2ODE5NzNDN0EzQTMzQjA2QjFEMzc3QUFEMEY2QUMzNzYxMTk3MzVDRUNDMDRDOTE4NEExQUIwODA%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYwMzE0MEU2ODE5NzNDN0EzQTMzQjA2QjFEMzc3QUFEMEY2QUMzNzYxMTk3MzVDRUNDMDRDOTE4NEExQUIwODA%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stband.svg"
+  },
+  {
     "id": "ibc/608EF5C0CE64FEA097500DB39657BDD36CA708CC5DCC2E250A024B6981DD36BC",
     "origin_chain": "unification",
     "origin_chain_id": "FUND-MainNet-2",
