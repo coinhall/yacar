@@ -2905,6 +2905,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1mqs6mdx0ak7qvjzs6efhg65g4j5pzwpdkcgdsv5tpekln3qhggrq3qzvdp",
+    "name": "plasma",
+    "symbol": "PLASMA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1mqs6mdx0ak7qvjzs6efhg65g4j5pzwpdkcgdsv5tpekln3qhggrq3qzvdp/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "terra1mrdgys0e0hhq0n56zgy3e0htahcnwtdt4dy2ec9wcltcr6qjntmq0yen07",
     "name": "GEB",
     "symbol": "GEB",
@@ -3582,6 +3590,14 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1tr6uwxw2em0f6q40rcjtcrq6rf570pwkstmxuw8rfzk4werm83zs3nhwju",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1tr6uwxw2em0f6q40rcjtcrq6rf570pwkstmxuw8rfzk4werm83zs3nhwju/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "terra1tr7355as8t6k9y94wru5humch34yacrv3mwz9n690fugwcc8mrvs296qz8",
