@@ -12677,6 +12677,20 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/light.png"
   },
   {
+    "id": "ibc/3F8F00094F0F79D17750FF69C5F09B078084018570AAF4F1C92C86D3F73E6488",
+    "origin_chain": "routerchain",
+    "origin_chain_id": "router_9600-1",
+    "origin_id": "route",
+    "name": "Router Chain",
+    "symbol": "ROUTE",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNGOEYwMDA5NEYwRjc5RDE3NzUwRkY2OUM1RjA5QjA3ODA4NDAxODU3MEFBRjRGMUM5MkM4NkQzRjczRTY0ODg%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNGOEYwMDA5NEYwRjc5RDE3NzUwRkY2OUM1RjA5QjA3ODA4NDAxODU3MEFBRjRGMUM5MkM4NkQzRjczRTY0ODg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/routerchain/images/router.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/route"
+  },
+  {
     "id": "ibc/3FF92D26B407FD61AE95D975712A7C319CDE28DE4D80BDC9978D935932B991D7",
     "origin_chain": "axelar",
     "origin_chain_id": "axelar-dojo-1",
