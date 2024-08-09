@@ -383,7 +383,7 @@
     "type": "ibc",
     "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGOTkxQjMxQ0U0MjZCQ0EwMEM1MjcwRjMzQUY1MjBDMkFDQzczNjkwNTQxREJDODRDQkY2ODQzMUQ1NERGMDQ%3D&pagination.limit=1",
     "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGOTkxQjMxQ0U0MjZCQ0EwMEM1MjcwRjMzQUY1MjBDMkFDQzczNjkwNTQxREJDODRDQkY2ODQzMUQ1NERGMDQ%3D&pagination.limit=1",
-    "icon": "https://i.ibb.co/vzsyS2g/ampINJ.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/ampkuji.svg"
   },
   {
     "id": "ibc/30C9FA3DF80892CF4615A84845349EAD427670CB38C6B03B0388BE8543B2AB4D",
@@ -604,6 +604,15 @@
     "icon": "https://www.wosmo.dev/images/WOSMO.png"
   },
   {
+    "id": "ibc/7DD1E57984A26E7B6CBA0D93032DC24AD5274536184DFA999D166EBF6E4AA469",
+    "entity": "Cosmo",
+    "name": "Cosmo",
+    "symbol": "COSMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png"
+  },
+  {
     "id": "ibc/815FC81EB6BD612206BD9A9909A02F7691D24A5B97CDFE2124B1BDCA9D4AB14C",
     "origin_chain": "terraclassic",
     "origin_chain_id": "columbus-5",
@@ -792,6 +801,20 @@
     "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NCRjY3QTJCQ0Y2Q0FFMzQzRkRGMjUxRTUxMEM4RTE4QzM2MUZDMDJCMjM0MzBDMTIxMTE2RTA4MTE4MzVERUY%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg",
     "coingecko": "https://www.coingecko.com/en/coins/axelar-usdt"
+  },
+  {
+    "id": "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NGNTdBODNDRUQ2Q0VDN0Q3MDY2MzFCNURDNTNBQkMyMUI3RURBN0RGNzQ5MDczMkI0MzYxRTZENUREMTlDNzM%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0NGNTdBODNDRUQ2Q0VDN0Q3MDY2MzFCNURDNTNBQkMyMUI3RURBN0RGNzQ5MDczMkI0MzYxRTZENUREMTlDNzM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin"
   },
   {
     "id": "ibc/E46EF5449878F6B81219163F211E7329CC0729AA99DA8A589A865F82F754ADE8",
@@ -2905,6 +2928,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1mqs6mdx0ak7qvjzs6efhg65g4j5pzwpdkcgdsv5tpekln3qhggrq3qzvdp",
+    "name": "plasma",
+    "symbol": "PLASMA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1mqs6mdx0ak7qvjzs6efhg65g4j5pzwpdkcgdsv5tpekln3qhggrq3qzvdp/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "terra1mrdgys0e0hhq0n56zgy3e0htahcnwtdt4dy2ec9wcltcr6qjntmq0yen07",
     "name": "GEB",
     "symbol": "GEB",
@@ -3362,6 +3393,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1rz52rt3kqf2qd35qawfaq72zhfle7hth3asaptjf2hd266rgul2shlepy4",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1rz52rt3kqf2qd35qawfaq72zhfle7hth3asaptjf2hd266rgul2shlepy4/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "terra1s3fy4zc643suxfz7wsvhhgvhd0zv8jwrcl8ugdfq6z6nl3nxkg0q3s9nl2",
     "entity": "Astroport",
     "name": "LUBI-ULUN-LP",
@@ -3509,6 +3548,14 @@
     "icon": "https://2994527864-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FXwUnQUOGPapw8yl8uCUr%2Fuploads%2FED1a4o9yYy5nZzCiifc2%2FUXP%20Token%20Logo.svg?alt=media&token=492e5f90-525b-4bbf-be3a-0399c409cb4d"
   },
   {
+    "id": "terra1swzpenwh39f8aa7qht34r05f8ew6k2vehvqt2aw4fjy0fgghhheqs9l6h7",
+    "name": "torus",
+    "symbol": "TRS",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1swzpenwh39f8aa7qht34r05f8ew6k2vehvqt2aw4fjy0fgghhheqs9l6h7/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
     "entity": "Bitmos",
     "name": "Bitmos",
@@ -3566,6 +3613,14 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1tr6uwxw2em0f6q40rcjtcrq6rf570pwkstmxuw8rfzk4werm83zs3nhwju",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1tr6uwxw2em0f6q40rcjtcrq6rf570pwkstmxuw8rfzk4werm83zs3nhwju/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "terra1tr7355as8t6k9y94wru5humch34yacrv3mwz9n690fugwcc8mrvs296qz8",
@@ -3921,6 +3976,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1xfkkgwxychgrnq0vcp82u32mecrzj8s64s03cxtmf46k6j2n2wssc7rzjf",
+    "name": "dmt",
+    "symbol": "DMT",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1xfkkgwxychgrnq0vcp82u32mecrzj8s64s03cxtmf46k6j2n2wssc7rzjf/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "terra1xgkjhtn4d5csgwchma73gtx5yzjxuq0eywz25lj56eqgq4d4r37sygw8wn",
     "entity": "Terraswap",
     "name": "terraswap liquidity token",
@@ -4132,6 +4195,14 @@
     "decimals": "8",
     "type": "cw20",
     "icon": "https://assets.terra.dev/icon/svg/DOGE.svg"
+  },
+  {
+    "id": "terra1z2crwj34j6072gzr9myxrkm705kwvsxt629jay2gyrcejuyusmcs48n2a6",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1z2crwj34j6072gzr9myxrkm705kwvsxt629jay2gyrcejuyusmcs48n2a6/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "terra1z3nctlwtasqshsagu2l4lj74pdm8hl7jhjyeepergtkny4cyka0se48n37",

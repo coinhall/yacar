@@ -1013,6 +1013,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxY2N2NTY2Mmp0dDh0aDl1enp2cWd4ZzNka2FlbHcybmhqdWt4eXN2bHk0ZnFhbTB4dHRscWVrbW5qZS9ucnQvdmVzdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1ccxnxyr6vnvhulkt9d7540m8ynmuhz2w3zm6zvh04c4e0ru64cts0jfj8p/mems",
+    "name": "MemoryCoin",
+    "symbol": "MEMS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxY2N4bnh5cjZ2bnZodWxrdDlkNzU0MG04eW5tdWh6Mnczem02enZoMDRjNGUwcnU2NGN0czBqZmo4cC9tZW1z&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1ccxnxyr6vnvhulkt9d7540m8ynmuhz2w3zm6zvh04c4e0ru64cts0jfj8p/mems/vest",
+    "name": "MemoryCoin Vests",
+    "symbol": "MEMS/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxY2N4bnh5cjZ2bnZodWxrdDlkNzU0MG04eW5tdWh6Mnczem02enZoMDRjNGUwcnU2NGN0czBqZmo4cC9tZW1zL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1ce8v5tnt90a7afssu4et2dd95tczfu0scpd2x6/SEIGNEUR",
     "entity": "SEIGNEUR",
     "name": "SEIGNEUR",
@@ -1860,6 +1876,22 @@
     "total_supply_api": "https://sei-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa25ndmRlZGN1enhkMjZmanluOHFoNG50anNrN3QydjU4NnR1Mmsvc2hpa29rdQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1knqjftnyjzsyqv20d8v29j24pfz7napv900c79mydg82kvp4xmts5dfh97/lfg",
+    "name": "LFG",
+    "symbol": "LFG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa25xamZ0bnlqenN5cXYyMGQ4djI5ajI0cGZ6N25hcHY5MDBjNzlteWRnODJrdnA0eG10czVkZmg5Ny9sZmc%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1knqjftnyjzsyqv20d8v29j24pfz7napv900c79mydg82kvp4xmts5dfh97/lfg/vest",
+    "name": "LFG Vests",
+    "symbol": "LFG/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxa25xamZ0bnlqenN5cXYyMGQ4djI5ajI0cGZ6N25hcHY5MDBjNzlteWRnODJrdnA0eG10czVkZmg5Ny9sZmcvdmVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1kpv8szkqdtnyul72uyj65mj5al6n5anfa5qa4m/SEIMEN",
     "name": "SEIMEN",
     "symbol": "SEIMEN",
@@ -1959,6 +1991,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbHpkcm0zcjBnZHdkY3ZxMHp6eXhyZHhxMnhyZmFlcnV2eGVleDB5dGFqM3ZxdXBwdm5ucW5tZDJnZi93ZXRoL3Zlc3Q%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1m3x9gw4w752t88jq78dn6ugshd7mm88wfpg7lg0jajp4jr4tmp0qhfq7wl/vlp",
+    "name": "vlp",
+    "symbol": "VLP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbTN4OWd3NHc3NTJ0ODhqcTc4ZG42dWdzaGQ3bW04OHdmcGc3bGcwamFqcDRqcjR0bXAwcWhmcTd3bC92bHA%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1m3x9gw4w752t88jq78dn6ugshd7mm88wfpg7lg0jajp4jr4tmp0qhfq7wl/vusd",
+    "name": "vusd",
+    "symbol": "VUSD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbTN4OWd3NHc3NTJ0ODhqcTc4ZG42dWdzaGQ3bW04OHdmcGc3bGcwamFqcDRqcjR0bXAwcWhmcTd3bC92dXNk&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1m9hr2m3jukst4z4ygnghzda93p8ga8q458hsjmhdv80zuznaefcsd2c57l/pamp",
     "name": "adfadsf",
     "symbol": "PAMP",
@@ -1973,6 +2021,22 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbTlocjJtM2p1a3N0NHo0eWduZ2h6ZGE5M3A4Z2E4cTQ1OGhzam1oZHY4MHp1em5hZWZjc2QyYzU3bC9wYW1wL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1mh6swgwsv2re7mvpv2ps8tyndtsketnxth0dccvrj83fs8k42amqk3akf9/mems",
+    "name": "MemoryCoin",
+    "symbol": "MEMS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbWg2c3dnd3N2MnJlN212cHYycHM4dHluZHRza2V0bnh0aDBkY2N2cmo4M2ZzOGs0MmFtcWszYWtmOS9tZW1z&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1mh6swgwsv2re7mvpv2ps8tyndtsketnxth0dccvrj83fs8k42amqk3akf9/mems/vest",
+    "name": "MemoryCoin Vests",
+    "symbol": "MEMS/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxbWg2c3dnd3N2MnJlN212cHYycHM4dHluZHRza2V0bnh0aDBkY2N2cmo4M2ZzOGs0MmFtcWszYWtmOS9tZW1zL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1ms5gc86pdm4eakrqg26qkd0hplwrk0w82gef2yucf9tx0y0ufe5q8xwsuw/close",
@@ -2684,6 +2748,22 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxc2Q0Yzk5dno0djU2N3FoZHk2bmQwZHJleGtoZnQ3cG1ld3d1eGEvRElDSw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1smpvvzzslssagweremeh74hq09dxvnke78d7e65vra044akkdr6qnjeqaw/mems",
+    "name": "MemoryCoin",
+    "symbol": "MEMS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxc21wdnZ6enNsc3NhZ3dlcmVtZWg3NGhxMDlkeHZua2U3OGQ3ZTY1dnJhMDQ0YWtrZHI2cW5qZXFhdy9tZW1z&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1smpvvzzslssagweremeh74hq09dxvnke78d7e65vra044akkdr6qnjeqaw/mems/vest",
+    "name": "MemoryCoin Vests",
+    "symbol": "MEMS/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxc21wdnZ6enNsc3NhZ3dlcmVtZWg3NGhxMDlkeHZua2U3OGQ3ZTY1dnJhMDQ0YWtrZHI2cW5qZXFhdy9tZW1zL3Zlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1sun2tlz4f5239ke7a4rzrym546lg7z0hz82mukm9jeuaygmjkucqx38wej/era",
     "name": "EraDeFi",
     "symbol": "Era",
@@ -2767,6 +2847,22 @@
     "circ_supply": "1000000000",
     "total_supply": "1000000000",
     "icon": "https://i.ibb.co/NyFFb2N/Sensei-Dog.png"
+  },
+  {
+    "id": "factory/sei1tcw6a8mddqstpehglgkqjyqxtnt2xxu0nesmhwlx9w5h2jvmt23q4p8gf2/mems",
+    "name": "MemoryCoin",
+    "symbol": "MEMS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdGN3NmE4bWRkcXN0cGVoZ2xna3FqeXF4dG50Mnh4dTBuZXNtaHdseDl3NWgyanZtdDIzcTRwOGdmMi9tZW1z&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1tcw6a8mddqstpehglgkqjyqxtnt2xxu0nesmhwlx9w5h2jvmt23q4p8gf2/mems/vest",
+    "name": "MemoryCoin Vests",
+    "symbol": "MEMS/VEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxdGN3NmE4bWRkcXN0cGVoZ2xna3FqeXF4dG50Mnh4dTBuZXNtaHdseDl3NWgyanZtdDIzcTRwOGdmMi9tZW1zL3Zlc3Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/sei1tecu78k8am0mz8nz3jhhc87xcukfzka7e44zaf/ucow",
