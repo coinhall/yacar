@@ -233,6 +233,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/osmo18zdw5yvs6gfp95rp74qqwug9yduw2fyr8kplk2xgs726s9axc5usa2vpgw/alloyed/allLINK",
+    "name": "Alloyed LINK",
+    "symbol": "allLINK",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTh6ZHc1eXZzNmdmcDk1cnA3NHFxd3VnOXlkdXcyZnlyOGtwbGsyeGdzNzI2czlheGM1dXNhMnZwZ3cvYWxsb3llZC9hbGxMSU5L&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allLINK.svg"
+  },
+  {
     "id": "factory/osmo194r93tcjuls6dzspdrlj9lwt3xjnahgc6kwhgxnv8hlujuyu5alsllqejj/hava",
     "name": "HAVA",
     "symbol": "HAVA",
@@ -326,6 +335,15 @@
     "symbol": "allUSDT",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/osmo1f588gk9dazpsueevdl2w6wfkmfmhg5gdvg2uerdlzl0atkasqhsq59qc6a/alloyed/allSHIB",
+    "name": "Alloyed SHIB",
+    "symbol": "allSHIB",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWY1ODhnazlkYXpwc3VlZXZkbDJ3Nndma21mbWhnNWdkdmcydWVyZGx6bDBhdGthc3Foc3E1OXFjNmEvYWxsb3llZC9hbGxTSElC&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allSHIB.svg"
   },
   {
     "id": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
@@ -524,6 +542,15 @@
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW5mZzlkdTM5NXl6c2d2aDQ5aDBzczVscmZwM3RxMmx4NjUzNG16NG5wNzh3bDd6cHV1eHF0NHJmbXYvbG93cQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1nnlxegt0scm9qkzys9c874t0ntapv4epfjy2w49c0xdrp3dr0v4ssmelzx/alloyed/allPEPE",
+    "name": "Alloyed PEPE",
+    "symbol": "allPEPE",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW5ubHhlZ3Qwc2NtOXFrenlzOWM4NzR0MG50YXB2NGVwZmp5Mnc0OWMweGRycDNkcjB2NHNzbWVsengvYWxsb3llZC9hbGxQRVBF&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allPEPE.png"
+  },
+  {
     "id": "factory/osmo1nr8zfakf6jauye3uqa9lrmr5xumee5n42lv92z/toro",
     "entity": "TORO",
     "name": "TORO",
@@ -533,6 +560,24 @@
     "circ_supply": "16800000000",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW5yOHpmYWtmNmphdXllM3VxYTlscm1yNXh1bWVlNW40Mmx2OTJ6L3Rvcm8%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.png"
+  },
+  {
+    "id": "factory/osmo1nufyzqlm8qhu2w7lm0l4rrax0ec8rsk69mga4tel8eare7c7ljaqpk2lyg/alloyed/allOP",
+    "name": "Alloyed OP",
+    "symbol": "allOP",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW51Znl6cWxtOHFodTJ3N2xtMGw0cnJheDBlYzhyc2s2OW1nYTR0ZWw4ZWFyZTdjN2xqYXFwazJseWcvYWxsb3llZC9hbGxPUA%3D%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allOP.svg"
+  },
+  {
+    "id": "factory/osmo1p7x454ex08s4f9ztmm7wfv7lvtgdkfztj2u7v7fezfcauy85q35qmqrdpk/alloyed/allARB",
+    "name": "Alloyed ARB",
+    "symbol": "allARB",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXA3eDQ1NGV4MDhzNGY5enRtbTd3ZnY3bHZ0Z2RrZnp0ajJ1N3Y3ZmV6ZmNhdXk4NXEzNXFtcXJkcGsvYWxsb3llZC9hbGxBUkI%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allARB.svg"
   },
   {
     "id": "factory/osmo1p9t4cvy8gg927dg56l2pvk7gk9ptm2jmdp9vkc2xejfzn23clxjqqzjpzl/tokn",
@@ -11143,6 +11188,15 @@
     "icon": "https://dweb.link/ipfs/QmZQaEYqe9DcJEE1CctwV29WNigmL87smKWp5YBAJYXTAV"
   },
   {
+    "id": "factory/osmo1r53fx9fvcdzncrs7zkn4gw5vfelx5gk8k5wc6wqha2jpkh992rusr5tk02/alloyed/allDOT",
+    "name": "Alloyed DOT",
+    "symbol": "allDOT",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXI1M2Z4OWZ2Y2R6bmNyczd6a240Z3c1dmZlbHg1Z2s4azV3YzZ3cWhhMmpwa2g5OTJydXNyNXRrMDIvYWxsb3llZC9hbGxET1Q%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allDOT.svg"
+  },
+  {
     "id": "factory/osmo1rckme96ptawr4zwexxj5g5gej9s2dmud8r2t9j0k0prn5mch5g4snzzwjv/sail",
     "entity": "Sail DAO",
     "name": "Sail DAO token",
@@ -11932,6 +11986,18 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg",
     "coingecko": "https://www.coingecko.com/en/coins/akash-network",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/14A291DD362798D6805B7ABCB8D09AEEE02176108F89FA09AA43EA2EE096A2A9",
+    "origin_chain": "axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "op-wei",
+    "name": "Optimism",
+    "symbol": "OP",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE0QTI5MUREMzYyNzk4RDY4MDVCN0FCQ0I4RDA5QUVFRTAyMTc2MTA4Rjg5RkEwOUFBNDNFQTJFRTA5NkEyQTk%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE0QTI5MUREMzYyNzk4RDY4MDVCN0FCQ0I4RDA5QUVFRTAyMTc2MTA4Rjg5RkEwOUFBNDNFQTJFRTA5NkEyQTk%3D&pagination.limit=1"
   },
   {
     "id": "ibc/161D7D62BAB3B9C39003334F1671208F43C06B643CC9EDBBE82B64793C857F1D",
@@ -15618,6 +15684,16 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M4MjI2NDU1MjJGQzNFRUNGODE3NjA5QUEzOEMyNEI2NEQwNEY1QzI2N0EyM0JDQ0Y4RjJFM0JDNTc1NUZBODg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.svg",
     "coingecko": "https://www.coingecko.com/en/coins/bzedge"
+  },
+  {
+    "id": "ibc/C91210281CEB708DC6E41A47FC9EC298F45712273DD58C682BEBAD00DCB59DC2",
+    "name": "Unicorn (Solana) (Picasso)",
+    "symbol": "UWU.sol.pica",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M5MTIxMDI4MUNFQjcwOERDNkU0MUE0N0ZDOUVDMjk4RjQ1NzEyMjczREQ1OEM2ODJCRUJBRDAwRENCNTlEQzI%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M5MTIxMDI4MUNFQjcwOERDNkU0MUE0N0ZDOUVDMjk4RjQ1NzEyMjczREQ1OEM2ODJCRUJBRDAwRENCNTlEQzI%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/uwu.sol.pica.png"
   },
   {
     "id": "ibc/C97473CD237EBA2F94FDFA6ABA5EC0E22FA140655D73D2A2754F03A347BBA40B",
