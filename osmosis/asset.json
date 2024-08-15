@@ -11954,6 +11954,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/penumbra/images/um.svg"
   },
   {
+    "id": "ibc/108604FDBE97DAEF128FD4ECFEB2A8AFC2D04A7162C97EAA2FD5BCB0869D0BBC",
+    "name": "Deenar",
+    "symbol": "DEEN",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwODYwNEZEQkU5N0RBRUYxMjhGRDRFQ0ZFQjJBOEFGQzJEMDRBNzE2MkM5N0VBQTJGRDVCQ0IwODY5RDBCQkM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEwODYwNEZEQkU5N0RBRUYxMjhGRDRFQ0ZFQjJBOEFGQzJEMDRBNzE2MkM5N0VBQTJGRDVCQ0IwODY5RDBCQkM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/haqq/images/deen.svg"
+  },
+  {
     "id": "ibc/10E5E5B06D78FFBB61FD9F89209DEE5FD4446ED0550CBB8E3747DA79E10D9DC6",
     "origin_chain": "axelar",
     "origin_chain_id": "axelar-dojo-1",
