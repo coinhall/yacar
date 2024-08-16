@@ -741,12 +741,14 @@
   },
   {
     "id": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
+    "entity": "Mars Protocol token",
     "name": "Mars protocol token",
     "symbol": "MARS",
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMW5kdTJ3dmtyeHRhbmU4c2UydHI0OGd2N25zbTQ2eTVnY3FqaHV4L01BUlM%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
   },
   {
     "id": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt",
