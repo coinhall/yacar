@@ -12544,6 +12544,16 @@
     "coingecko": "https://www.coingecko.com/en/coins/neta"
   },
   {
+    "id": "ibc/2AD3C64D19ADFBB522CD738B58F421102143F827C1CAFF574A8BF0B81017D53D",
+    "name": "Tether USD (Ethereum) (Injective)",
+    "symbol": "USDT.eth.inj",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJBRDNDNjREMTlBREZCQjUyMkNENzM4QjU4RjQyMTEwMjE0M0Y4MjdDMUNBRkY1NzRBOEJGMEI4MTAxN0Q1M0Q%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJBRDNDNjREMTlBREZCQjUyMkNENzM4QjU4RjQyMTEwMjE0M0Y4MjdDMUNBRkY1NzRBOEJGMEI4MTAxN0Q1M0Q%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.inj.svg"
+  },
+  {
     "id": "ibc/2B30802A0B03F91E4E16D6175C9B70F2911377C1CAE9E50FF011C821465463F9",
     "origin_chain": "fxcore",
     "origin_chain_id": "fxcore",
