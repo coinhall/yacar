@@ -379,6 +379,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/osmo1fy6t986ksndg6p09p4qk57mt23gxmg596h5ujw52v07h44k5d5tsvp5de7/afdao",
+    "name": "AFDAO",
+    "symbol": "AFDAO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWZ5NnQ5ODZrc25kZzZwMDlwNHFrNTdtdDIzZ3htZzU5Nmg1dWp3NTJ2MDdoNDRrNWQ1dHN2cDVkZTcvYWZkYW8%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqatom",
     "name": "ATOM Squared",
     "symbol": "sqATOM",
