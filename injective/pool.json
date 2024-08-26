@@ -20220,6 +20220,16 @@
     "lp_token_id": "inj1jd0e4qh3vq70rhyh9vxtcgwcpjxtekzfn03xhx"
   },
   {
+    "id": "inj1vz9xalekxh4te76xvlt9kw3hej5ecx6jwxj9yg",
+    "asset_ids": [
+      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "inj185qcwyqwcyucfkdks5yjy5q54jr4r3r4z7jn3v"
+    ],
+    "dex": "Dojoswap",
+    "type": "xyk",
+    "lp_token_id": "inj17gjmjf4gj50akkdnkmqjt3wldmtgrlg4y8gyum"
+  },
+  {
     "id": "inj1vzte86mwssry0e742sfmahzy72n7dsutvartrk",
     "asset_ids": [
       "inj1eqtcpx655e582j5xyu7rf2z8w92pah2re5jmm3",
@@ -21604,6 +21614,15 @@
     "type": "orderbook"
   },
   {
+    "id": "0x19d28519ddfb27fd81b05a402f4e7c306930909edfdb87f27b699d2696143f74",
+    "asset_ids": [
+      "factory/inj1u6j86hy6a2z0ksuhuh54x6kh532e7esdfjd2k7/PAIN",
+      "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
     "id": "0x1af8fa374392dc1bd6331f38f0caa424a39b05dd9dfdc7a2a537f6f62bde50fe",
     "asset_ids": [
       "peggy0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
@@ -21995,6 +22014,15 @@
     "asset_ids": [
       "factory/inj1zzc2wt4xzy9yhxz7y8mzcn3s6zwvajyutgay3c/BUGS",
       "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
+    "id": "0x791f564a76ff634f13cd7afc4999418f7c9eb00636143cc9c52daa588f870744",
+    "asset_ids": [
+      "factory/inj1u6j86hy6a2z0ksuhuh54x6kh532e7esdfjd2k7/PAIN",
+      "inj"
     ],
     "dex": "Helix",
     "type": "orderbook"
