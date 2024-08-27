@@ -3302,6 +3302,22 @@
     "total_supply_api": "https://lcd-sei.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeDQ3eTltcGo1MzdsZG5zeDMzYTM0dzNsOTV6MmZ3dGd5MmxseW4vQlRTRUk%3D&pagination.limit=1"
   },
   {
+    "id": "factory/sei1x8x6gk7qxje98uyjzdx0w5k5u6ynj6lc49mnwlmhcvyjzn5z4scq2hwt0x/vlp",
+    "name": "vlp",
+    "symbol": "VLP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeDh4NmdrN3F4amU5OHV5anpkeDB3NWs1dTZ5bmo2bGM0OW1ud2xtaGN2eWp6bjV6NHNjcTJod3QweC92bHA%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/sei1x8x6gk7qxje98uyjzdx0w5k5u6ynj6lc49mnwlmhcvyjzn5z4scq2hwt0x/vusd",
+    "name": "vusd",
+    "symbol": "VUSD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9zZWkxeDh4NmdrN3F4amU5OHV5anpkeDB3NWs1dTZ5bmo2bGM0OW1ud2xtaGN2eWp6bjV6NHNjcTJod3QweC92dXNk&pagination.limit=1"
+  },
+  {
     "id": "factory/sei1xjdg6lvp35qm6swzmk34r3hcv4kf946l2mvjg7ecz67lyd9z0wrqxm4898/monocles",
     "name": "monocles",
     "symbol": "Monocles",
