@@ -15398,6 +15398,20 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/B67DF59507B3755EEDE0866C449445BD54B4DA82CCEBA89D775E53DC35664255",
+    "origin_chain": "neutron",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
+    "name": "Mars Protocol token",
+    "symbol": "MARS",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I2N0RGNTk1MDdCMzc1NUVFREUwODY2QzQ0OTQ0NUJENTRCNERBODJDQ0VCQTg5RDc3NUU1M0RDMzU2NjQyNTU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I2N0RGNTk1MDdCMzc1NUVFREUwODY2QzQ0OTQ0NUJENTRCNERBODJDQ0VCQTg5RDc3NUU1M0RDMzU2NjQyNTU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/mars-token.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
+  },
+  {
     "id": "ibc/B797E4F42CD33C50511B341E50C5CC0E8EF0D93B1E1247ABAA071583B8619202",
     "origin_chain": "bitsong",
     "origin_chain_id": "bitsong-2b",
