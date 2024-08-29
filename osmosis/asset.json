@@ -6622,6 +6622,15 @@
     "icon": "https://dweb.link/ipfs/QmbGJ7dX4Rme26qN55PpZYAzY6DdLogJhLmRjEBVNs6UfX"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/milk",
+    "name": "milk",
+    "symbol": "milk",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbWlsaw%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmTMF9ysYjTVMvYL8vqRu6oNk2HMF6wryQvkZvgwLTSLE9"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mind",
     "name": "Mastermind",
     "symbol": "MIND",
@@ -15396,6 +15405,20 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I2NkNFNjE1QzYwMEVEMEE4QjVBRjQyNUVDRkUwRDU3QkUyMzc3NTg3RjY2QzQ1OTM0QTc2ODg2RjM0REM5Qjc%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stafihub/images/ratom.svg",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/B67DF59507B3755EEDE0866C449445BD54B4DA82CCEBA89D775E53DC35664255",
+    "origin_chain": "neutron",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
+    "name": "Mars Protocol token",
+    "symbol": "MARS",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I2N0RGNTk1MDdCMzc1NUVFREUwODY2QzQ0OTQ0NUJENTRCNERBODJDQ0VCQTg5RDc3NUU1M0RDMzU2NjQyNTU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I2N0RGNTk1MDdCMzc1NUVFREUwODY2QzQ0OTQ0NUJENTRCNERBODJDQ0VCQTg5RDc3NUU1M0RDMzU2NjQyNTU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/mars-token.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
   },
   {
     "id": "ibc/B797E4F42CD33C50511B341E50C5CC0E8EF0D93B1E1247ABAA071583B8619202",
