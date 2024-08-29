@@ -759,11 +759,14 @@
   },
   {
     "id": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "entity": "dATOM",
     "name": "Drop",
     "symbol": "dATOM",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWs2aHIwZjgzZTd1bjJ3amYyOWNzcGs3ajY5anJuc2trNjVrM2VrMm5qOWR6dHJsenBqNnEwMHJ0c2EvdWRhdG9t&pagination.limit=1"
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWs2aHIwZjgzZTd1bjJ3amYyOWNzcGs3ajY5anJuc2trNjVrM2VrMm5qOWR6dHJsenBqNnEwMHJ0c2EvdWRhdG9t&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/dATOM.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/drop-staked-atom"
   },
   {
     "id": "factory/neutron1lg8nydf8nagrrp2f72y5mk9newv2gs6a3mm3cn/GAY",
