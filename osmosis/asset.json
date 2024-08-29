@@ -6622,6 +6622,15 @@
     "icon": "https://dweb.link/ipfs/QmbGJ7dX4Rme26qN55PpZYAzY6DdLogJhLmRjEBVNs6UfX"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/milk",
+    "name": "milk",
+    "symbol": "milk",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbWlsaw%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmTMF9ysYjTVMvYL8vqRu6oNk2HMF6wryQvkZvgwLTSLE9"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mind",
     "name": "Mastermind",
     "symbol": "MIND",
@@ -11572,6 +11581,14 @@
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/stibcx.svg",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "factory/osmo1yfe32cs08j5c4knx4v9thagyu44ag6gfgq0l79l33zqd7kgjcxaqe30ku8/afr",
+    "name": "DAO token ",
+    "symbol": "AFR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXlmZTMyY3MwOGo1YzRrbng0djl0aGFneXU0NGFnNmdmZ3EwbDc5bDMzenFkN2tnamN4YXFlMzBrdTgvYWZy&pagination.limit=1"
   },
   {
     "id": "factory/osmo1yxg9nt6uvysyq3cs9gmp58f48unffpfscqjyr6nv2u7mh6657nwssfyp33/sail",
