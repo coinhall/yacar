@@ -6172,6 +6172,15 @@
     "icon": "https://raw.githubusercontent.com/Marinovs/astroport-token-lists/main/img/injpepe.png"
   },
   {
+    "id": "factory/inj1tdk9unhr5x9h74z4hecxquq6qhygcp6g0n4gya/BRO",
+    "name": "Brotopia",
+    "symbol": "BRO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxdGRrOXVuaHI1eDloNzR6NGhlY3hxdXE2cWh5Z2NwNmcwbjRneWEvQlJP&pagination.limit=1",
+    "icon": "ipfs://QmTEVTSAUH5wDCTvwTcE7h2JACbNQ6ZfGeuPux6s2JmQfW"
+  },
+  {
     "id": "factory/inj1tdv8p2pp68veauzezvgt8ze0wpf6ysddh99s6g/hINJ",
     "name": "Hydrio",
     "symbol": "hINJ",
