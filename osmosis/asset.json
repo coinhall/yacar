@@ -17326,14 +17326,14 @@
   },
   {
     "id": "uosmo",
-    "entity": "Osmosis",
+    "entity": "Osmosis Alloyed Bitcoin.",
     "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
     "type": "native",
-    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=dW9zbW8%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3%2Falloyed%2FallBTC",
+    "total_supply_api": "NA",
+    "icon": "https://github.com/cosmos/chain-registry/blob/master/osmosis/images/allBTC.png",
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis",
     "verification_tx": "osmosis-main"
