@@ -11821,6 +11821,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/osmo1v48gzpjk2ncgt4rgr0zsl5sfa6a3zzm8mszl50tahg3ngqylz3cs9t4qk3/degen",
+    "name": "DEGEN",
+    "symbol": "DEGEN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXY0OGd6cGprMm5jZ3Q0cmdyMHpzbDVzZmE2YTN6em04bXN6bDUwdGFoZzNuZ3F5bHozY3M5dDRxazMvZGVnZW4%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1vdvnznwg597qngrq9mnfcfk0am9jdc9y446jewhcqdreqz4r75xq5j5zvy/ymos",
     "name": "Yieldmos Governance Token",
     "symbol": "YMOS",
