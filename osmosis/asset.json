@@ -504,7 +504,8 @@
     "symbol": "allETH",
     "decimals": "18",
     "type": "tokenfactory",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWs2YzhqbG43ZWp1cXd0cW1heTN5dnpyZzNrdWVhY3psOTZwazA2N2xkZzh1ODM1dzB5aHN3Mjd0d20vYWxsb3llZC9hbGxFVEg%3D&pagination.limit=1"
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWs2YzhqbG43ZWp1cXd0cW1heTN5dnpyZzNrdWVhY3psOTZwazA2N2xkZzh1ODM1dzB5aHN3Mjd0d20vYWxsb3llZC9hbGxFVEg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth-white.svg"
   },
   {
     "id": "factory/osmo1kqdw6pvn0xww6tyfv2sqvkkencdz0qw406x54r/IBC",
