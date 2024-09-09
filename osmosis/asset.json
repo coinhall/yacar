@@ -13563,6 +13563,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/shibacosmos.png"
   },
   {
+    "id": "ibc/453B5B25834A5D4B8FE1E894E69D73F46424F28E8ED3D8E8CA654AEFF1EC5D3B",
+    "name": "Lorenzo stBTC",
+    "symbol": "stBTC",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1M0I1QjI1ODM0QTVENEI4RkUxRTg5NEU2OUQ3M0Y0NjQyNEYyOEU4RUQzRDhFOENBNjU0QUVGRjFFQzVEM0I%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1M0I1QjI1ODM0QTVENEI4RkUxRTg5NEU2OUQ3M0Y0NjQyNEYyOEU4RUQzRDhFOENBNjU0QUVGRjFFQzVEM0I%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lorenzo/images/stBTC.svg"
+  },
+  {
     "id": "ibc/46579C587A0B8CF8B0A1FF6B0EFA2082F11876578E47FC81A9CAAD31F424AF98",
     "origin_chain": "terraclassic",
     "origin_chain_id": "columbus-5",
