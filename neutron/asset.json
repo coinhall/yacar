@@ -528,6 +528,15 @@
     "icon": "https://asteroid.ams3.digitaloceanspaces.com/A4E42E94ABF8218B1850D04F66B73281AB0B3C8978C5501A1E2A6C9C98BA0047.png"
   },
   {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NATIVE",
+    "name": "Native Token",
+    "symbol": "NATIVE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTkFUSVZF&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/1454E5382816BE8EFE0A699E58F25FDE6C2E9CF7A925ECF3291F527420226E26.jpe"
+  },
+  {
     "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NTRX",
     "name": "New Tron",
     "symbol": "NTRX",
