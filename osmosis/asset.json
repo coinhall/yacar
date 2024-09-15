@@ -12087,6 +12087,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/BVT0.png"
   },
   {
+    "id": "factory/osmo1xu3gyk399ey5ljdfzqd8728xxvgx87mgdmsp2922t2wzkfgvt5pqf3fsa2/ost",
+    "name": "OST token",
+    "symbol": "OST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXh1M2d5azM5OWV5NWxqZGZ6cWQ4NzI4eHh2Z3g4N21nZG1zcDI5MjJ0Mnd6a2ZndnQ1cHFmM2ZzYTIvb3N0&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1yfe32cs08j5c4knx4v9thagyu44ag6gfgq0l79l33zqd7kgjcxaqe30ku8/afr",
     "name": "DAO token ",
     "symbol": "AFR",
