@@ -1,37 +1,57 @@
 [
   {
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/ton",
+    "name": "Toncoin",
+    "symbol": "TON",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ton/images/ton.png"
+  },
+  {
     "id": "ibc/576B1D63E401B6A9A071C78A1D1316D016EC9333D2FEB14AD503FAC4B8731CD1",
+    "origin_chain": "neutaro",
+    "origin_chain_id": "Neutaro-1",
+    "origin_id": "uneutaro",
     "name": "Neutaro",
     "symbol": "NTMPI",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3NkIxRDYzRTQwMUI2QTlBMDcxQzc4QTFEMTMxNkQwMTZFQzkzMzNEMkZFQjE0QUQ1MDNGQUM0Qjg3MzFDRDE%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3NkIxRDYzRTQwMUI2QTlBMDcxQzc4QTFEMTMxNkQwMTZFQzkzMzNEMkZFQjE0QUQ1MDNGQUM0Qjg3MzFDRDE%3D&pagination.limit=1"
+    "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3NkIxRDYzRTQwMUI2QTlBMDcxQzc4QTFEMTMxNkQwMTZFQzkzMzNEMkZFQjE0QUQ1MDNGQUM0Qjg3MzFDRDE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutaro/images/neutaro.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/neutaro"
   },
   {
     "id": "ibc/9C4DCD21B48231D0BC2AC3D1B74A864746B37E4292694C93C617324250D002FC",
-    "name": "OSMO",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "uosmo",
+    "name": "Osmosis",
     "symbol": "OSMO",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlDNERDRDIxQjQ4MjMxRDBCQzJBQzNEMUI3NEE4NjQ3NDZCMzdFNDI5MjY5NEM5M0M2MTczMjQyNTBEMDAyRkM%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlDNERDRDIxQjQ4MjMxRDBCQzJBQzNEMUI3NEE4NjQ3NDZCMzdFNDI5MjY5NEM5M0M2MTczMjQyNTBEMDAyRkM%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
     "id": "ibc/A2E2EEC9057A4A1C2C0A6A4C78B0239118DF5F278830F50B4A6BDD7A66506B78",
-    "name": "ATOM",
+    "origin_chain": "cosmoshub",
+    "origin_chain_id": "cosmoshub-4",
+    "origin_id": "uatom",
+    "name": "Cosmos Hub Atom",
     "symbol": "ATOM",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0EyRTJFRUM5MDU3QTRBMUMyQzBBNkE0Qzc4QjAyMzkxMThERjVGMjc4ODMwRjUwQjRBNkJERDdBNjY1MDZCNzg%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0EyRTJFRUM5MDU3QTRBMUMyQzBBNkE0Qzc4QjAyMzkxMThERjVGMjc4ODMwRjUwQjRBNkJERDdBNjY1MDZCNzg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos"
   },
   {
     "id": "orai",
+    "entity": "Oraichain",
     "name": "Oraichain",
     "symbol": "ORAI",
     "decimals": "6",

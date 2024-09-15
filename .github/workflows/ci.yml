@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository and branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.ref }}
@@ -24,12 +24,12 @@ jobs:
           ROOT_DIR=${{ github.workspace }} ./format.sh
           echo "status=$?" >> $GITHUB_OUTPUT
 
-      - name: Check for changes
+      - name: Commit changes
         if: steps.validate.outputs.status == '0'
-        id: diff
-        run: |
-          cd ${{ github.workspace }}
-          git diff --quiet . || (echo "Did you forget to run the latest 'format.sh' script?" && exit 1)
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: "chore: run format.sh"
 
   automerge:
     runs-on: ubuntu-latest
@@ -39,7 +39,7 @@ jobs:
       github.repository == 'coinhall/yacar'
     steps:
       - name: auto-merge
-        uses: pascalgn/automerge-action@v0.15.5
+        uses: pascalgn/automerge-action@v0.16.3
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_FILTER_AUTHOR: "yacarbot[bot]"

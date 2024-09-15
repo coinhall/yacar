@@ -1,0 +1,307 @@
+[
+  {
+    "id": "aave-wei",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/aave.svg"
+  },
+  {
+    "id": "ape-wei",
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/ape.svg"
+  },
+  {
+    "id": "arb-wei",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/arbitrum/images/arb.svg"
+  },
+  {
+    "id": "arbitrum-weth-wei",
+    "name": "Arbitrum axlETH",
+    "symbol": "axlETH",
+    "decimals": "18",
+    "type": "cw20"
+  },
+  {
+    "id": "avalanche-uusdc",
+    "name": "USD Coin from Avalanche",
+    "symbol": "USDC.avax.axl",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+  },
+  {
+    "id": "base-weth-wei",
+    "name": "Base axlETH",
+    "symbol": "axlETH",
+    "decimals": "18",
+    "type": "native"
+  },
+  {
+    "id": "busd-wei",
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.svg"
+  },
+  {
+    "id": "cbeth-wei",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/cbeth.png"
+  },
+  {
+    "id": "dai-wei",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.svg"
+  },
+  {
+    "id": "dot-planck",
+    "name": "Wrapped Polkadot",
+    "symbol": "DOT",
+    "decimals": "10",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.svg"
+  },
+  {
+    "id": "frax-wei",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/frax.svg"
+  },
+  {
+    "id": "link-wei",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.svg"
+  },
+  {
+    "id": "mkr-wei",
+    "name": "Maker",
+    "symbol": "MKR",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/mkr.svg"
+  },
+  {
+    "id": "op-wei",
+    "name": "Optimism",
+    "symbol": "OP",
+    "decimals": "18",
+    "type": "native"
+  },
+  {
+    "id": "ox-wei",
+    "name": "Open Exchange Token",
+    "symbol": "OX",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/ox.svg"
+  },
+  {
+    "id": "pepe-wei",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/pepe.svg"
+  },
+  {
+    "id": "polygon-uusdc",
+    "name": "USD Coin from Polygon",
+    "symbol": "USDC.matic.axl",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+  },
+  {
+    "id": "polygon-weth-wei",
+    "name": "Polygon axlETH",
+    "symbol": "axlETH",
+    "decimals": "18",
+    "type": "cw20"
+  },
+  {
+    "id": "rai-wei",
+    "name": "Rai Reflex Index",
+    "symbol": "RAI",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/rai.svg"
+  },
+  {
+    "id": "reth-wei",
+    "name": "Rocket Pool Ether",
+    "symbol": "rETH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/reth.png"
+  },
+  {
+    "id": "sfrxeth-wei",
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/sfrxeth.svg"
+  },
+  {
+    "id": "shib-wei",
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/shib.svg"
+  },
+  {
+    "id": "steth-wei",
+    "name": "Lido Staked Ether",
+    "symbol": "stETH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/steth.svg"
+  },
+  {
+    "id": "uaxl",
+    "entity": "Axelar",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/axelar"
+  },
+  {
+    "id": "uni-wei",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/uni.svg"
+  },
+  {
+    "id": "uusdc",
+    "name": "USD Coin",
+    "symbol": "USDC.eth.axl",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/axlusdc"
+  },
+  {
+    "id": "uusdt",
+    "name": "Tether USD",
+    "symbol": "USDT.eth.axl",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/axelar-usdt"
+  },
+  {
+    "id": "wavax-wei",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/wavax.svg"
+  },
+  {
+    "id": "wbnb-wei",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.svg"
+  },
+  {
+    "id": "wbtc-satoshi",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC.eth.axl",
+    "decimals": "8",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png",
+    "coingecko": "https://www.coingecko.com/en/coins/axlwbtc"
+  },
+  {
+    "id": "weth-wei",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png"
+  },
+  {
+    "id": "wfil-wei",
+    "name": "Wrapped FIL from Filecoin",
+    "symbol": "axlFIL",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/filecoin/images/wfil.svg"
+  },
+  {
+    "id": "wftm-wei",
+    "name": "Wrapped FTM",
+    "symbol": "WFTM",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.svg"
+  },
+  {
+    "id": "wglmr-wei",
+    "name": "Wrapped Moonbeam",
+    "symbol": "WGLMR",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.svg"
+  },
+  {
+    "id": "wmatic-wei",
+    "name": "Wrapped Matic",
+    "symbol": "WMATIC",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.svg"
+  },
+  {
+    "id": "wsteth-wei",
+    "name": "Wrapped Lido Staked Ether",
+    "symbol": "wstETH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg"
+  },
+  {
+    "id": "yieldeth-wei",
+    "name": "Real Yield Eth",
+    "symbol": "YieldETH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/yieldeth.svg"
+  },
+  {
+    "id": "yum-wei",
+    "name": "Axelar Wrapped YUM",
+    "symbol": "YUM.axl",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/yum.png"
+  }
+]
