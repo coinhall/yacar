@@ -308,6 +308,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/osmo1akwvc3xzp6qdw7j8fd88pmf8xhs7dmykdtl6frak0pkrhfa39dwq9sfvzm/dao",
+    "name": "DAO token",
+    "symbol": "DAO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWFrd3ZjM3h6cDZxZHc3ajhmZDg4cG1mOHhoczdkbXlrZHRsNmZyYWswcGtyaGZhMzlkd3E5c2Z2em0vZGFv&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1au0pelgzu096acap743g6jqyqtnvfsw8nrwaun7vp2m6jkdclngqk85s66/fts",
     "name": "Fuck The Sail ",
     "symbol": "FTS",
@@ -3152,6 +3160,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY3Ju&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmS9jH3Dka29wYSMZ7YJZx3CcK6fGneZQzNMNdpd1y5nXm"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crne",
+    "name": "CRYPTONE",
+    "symbol": "CRNE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY3JuZQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmWePMk5FaoETTQ4yzWY74GDPk6GRGAYkLaocxE3oDdhyx"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crptfckrs",
@@ -8597,6 +8614,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcG9ybmh1Yg%3D%3D&pagination.limit=1",
     "icon": "https://i.ibb.co/ZXwXbdW/Didqlg-Gt-400x400.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/posmo",
+    "name": "Ponzmosis",
+    "symbol": "POSMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcG9zbW8%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmaBjNZzAz1REbDqqNLmVPDpDCA9Az9awrBo29Q4B9kpvY"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/potato",
