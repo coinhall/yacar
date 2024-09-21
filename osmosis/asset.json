@@ -14382,6 +14382,20 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/631DB9935E8523BDCF76B55129F5238A14C809CCB3B43AECC157DC19702F3F9E",
+    "origin_chain": "andromeda",
+    "origin_chain_id": "andromeda-1",
+    "origin_id": "uandr",
+    "name": "Andr",
+    "symbol": "ANDR",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYzMURCOTkzNUU4NTIzQkRDRjc2QjU1MTI5RjUyMzhBMTRDODA5Q0NCM0I0M0FFQ0MxNTdEQzE5NzAyRjNGOUU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYzMURCOTkzNUU4NTIzQkRDRjc2QjU1MTI5RjUyMzhBMTRDODA5Q0NCM0I0M0FFQ0MxNTdEQzE5NzAyRjNGOUU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png",
+    "coingecko": "https://www.coingecko.com/en/coins/andromeda-2"
+  },
+  {
     "id": "ibc/6329DD8CF31A334DD5BE3F68C846C9FE313281362B37686A62343BAC1EB1546D",
     "origin_chain": "axelar",
     "origin_chain_id": "axelar-dojo-1",
@@ -15323,6 +15337,16 @@
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxMjI3NUE2M0E1NjVCRkQ4MDczNEFFREZGQjU0MDEzMkM1MUU0NDZFQUM0MTQ4M0IyNkVERThBNTU3QzcxQ0Y%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkxMjI3NUE2M0E1NjVCRkQ4MDczNEFFREZGQjU0MDEzMkM1MUU0NDZFQUM0MTQ4M0IyNkVERThBNTU3QzcxQ0Y%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/mille.png"
+  },
+  {
+    "id": "ibc/92AE2F53284505223A1BB80D132F859A00E190C6A738772F0B3EF65E20BA484F",
+    "name": "Monerium EUR emoney",
+    "symbol": "EURe",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkyQUUyRjUzMjg0NTA1MjIzQTFCQjgwRDEzMkY4NTlBMDBFMTkwQzZBNzM4NzcyRjBCM0VGNjVFMjBCQTQ4NEY%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkyQUUyRjUzMjg0NTA1MjIzQTFCQjgwRDEzMkY4NTlBMDBFMTkwQzZBNzM4NzcyRjBCM0VGNjVFMjBCQTQ4NEY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eure.svg"
   },
   {
     "id": "ibc/92B223EBFA74DB99BEA92B23DEAA6050734FEEAABB84689CB8E1AE8F9C9F9AF4",
