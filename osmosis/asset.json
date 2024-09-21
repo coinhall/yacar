@@ -7915,6 +7915,15 @@
     "icon": "https://start.cooking/Chef.svg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/orgasm",
+    "name": "ORGASM",
+    "symbol": "ORGASM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvb3JnYXNt&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmWjMxMioZyPjCQSquFCGnz3FGAcWXWMboDjiqHuiB6N33"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/orx",
     "name": "ORIAX",
     "symbol": "ORX",
@@ -15340,6 +15349,9 @@
   },
   {
     "id": "ibc/92AE2F53284505223A1BB80D132F859A00E190C6A738772F0B3EF65E20BA484F",
+    "origin_chain": "noble",
+    "origin_chain_id": "noble-1",
+    "origin_id": "ueure",
     "name": "Monerium EUR emoney",
     "symbol": "EURe",
     "decimals": "6",
