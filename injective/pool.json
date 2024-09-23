@@ -19340,6 +19340,16 @@
     "lp_token_id": "inj1q663ddtf93kw0wg09j0ux7z9r4ctak836nzleh"
   },
   {
+    "id": "inj1snhu7p0hsvzrkz9yf46s43umte2aqddq7hw28z",
+    "asset_ids": [
+      "inj19uhgauf8wtvsapzg8wv83qv8el0atv4m2s0wg8",
+      "inj1zdj9kqnknztl2xclm5ssv25yre09f8908d4923"
+    ],
+    "dex": "Dojoswap",
+    "type": "xyk",
+    "lp_token_id": "inj1gdmua4v85uvhf8hqeem9qg0z9nvxn2khzt0v4u"
+  },
+  {
     "id": "inj1sp2td5ghhjkh8289en8snnc9qwrj8h4nrnk33j",
     "asset_ids": [
       "inj",
@@ -21976,6 +21986,15 @@
     "asset_ids": [
       "peggy0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
       "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+    ],
+    "dex": "Helix",
+    "type": "orderbook"
+  },
+  {
+    "id": "0x5de59857f03c90cdb364edcf99963c50b732bbd7a715430fd36f35a21a8bd54b",
+    "asset_ids": [
+      "ibc/47245D9854589FADE02554744F387D24E6D7B3D3E7B7DA5596F6C27B8458B7AA",
+      "inj"
     ],
     "dex": "Helix",
     "type": "orderbook"
