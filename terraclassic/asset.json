@@ -1368,11 +1368,13 @@
   },
   {
     "id": "terra130ah2as48m8azzcuk7ymhuystxzsxt3l24eulm7fv5s8hen83kvsvlmyxr",
+    "entity": "LUNC TRUMP",
     "name": "LUNC TRUMP",
     "symbol": "TRUMP",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra130ah2as48m8azzcuk7ymhuystxzsxt3l24eulm7fv5s8hen83kvsvlmyxr/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra130ah2as48m8azzcuk7ymhuystxzsxt3l24eulm7fv5s8hen83kvsvlmyxr/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://i.ibb.co/S66XGM3/LUNC-TRUMP.jpg"
   },
   {
     "id": "terra130fhr9jz0nylzhdvuwcpp3hne2s5qlft6hfzgv",
@@ -1483,6 +1485,14 @@
     "symbol": "INFINITY",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra135ryzm3hzpxhp7qlqlvepddqxkwwlx3haqzdrulpz993sj3cn8sq97hmej",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra135ryzm3hzpxhp7qlqlvepddqxkwwlx3haqzdrulpz993sj3cn8sq97hmej/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "terra135uuknl6dsmm63yr27t2t6rugzygnm4upxnc0y",
@@ -4563,6 +4573,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra18kqhd5ec3fcatkwc4eyg30qe5wfw97rfva6ytmwup8wpalg98jxs2yfyr9",
+    "name": "TULSA",
+    "symbol": "TULSA",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra18kqhd5ec3fcatkwc4eyg30qe5wfw97rfva6ytmwup8wpalg98jxs2yfyr9/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "terra18kr4gcky97p4fnppshh46d7zjmza7cy99t8k3asy66vhs886983sskecu3",
     "name": "BULL TERRA",
     "symbol": "BULL",
@@ -6936,7 +6954,7 @@
     "type": "cw20",
     "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1dxnh60j7qsnvh6pnxs97h6ndkdu6q93f6qwwsdn6zvfrddz3dvcqu56a6n/smart/ewogICAgICAiY2lyY3VsYXRpbmdfc3VwcGx5Ijoge30KfQ==",
     "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1dxnh60j7qsnvh6pnxs97h6ndkdu6q93f6qwwsdn6zvfrddz3dvcqu56a6n/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://i.ibb.co.com/zhqY6bq/FORTIVA.jpg"
+    "icon": "https://i.ibb.co.com/Prjq8Gn/FORTIVA.jpg"
   },
   {
     "id": "terra1dxqwv27czssrsgs57xundkw08xd6ckw9d0jhryupsa7ywaqpxfcqe8gz2a",
@@ -10412,6 +10430,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1l6t2jpd75vrtram0y7cls57gtd4clhq8v2yvrp8kpqlpm47c4z9se4dnas",
+    "name": "BLK",
+    "symbol": "BLK",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1l6t2jpd75vrtram0y7cls57gtd4clhq8v2yvrp8kpqlpm47c4z9se4dnas/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "terra1l7gjnck2kx0h0wgx2fdgvyzhvaym20yu8c58yu",
     "name": "terraswap liquidity token",
     "symbol": "uLP",
@@ -10926,6 +10952,14 @@
     "symbol": "TERRAF",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1m73rx8dnrgkxkdfnyeevzjywqjj76mvvnpdusdp6dd8hhaa5wp4quxwm83",
+    "name": "Jupiter",
+    "symbol": "Jup",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1m73rx8dnrgkxkdfnyeevzjywqjj76mvvnpdusdp6dd8hhaa5wp4quxwm83/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "terra1m7gnl8m8zmhqw9nem8gjqaat8dr0mamsv282sv",
@@ -12422,10 +12456,8 @@
     "symbol": "REX",
     "decimals": "6",
     "type": "cw20",
-    "circ_supply": "0",
-    "total_supply": "1000000000",
     "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://ibb.co/MDtkDT8"
+    "icon": "https://i.ibb.co/9qx8jZj/IMG-20240919-195913-565.jpg"
   },
   {
     "id": "terra1pyv4h3ztp34rvuu9a96lcwzrs0ed2p8qm5vur7",
@@ -13057,11 +13089,13 @@
   },
   {
     "id": "terra1rc4ef7s6pzuf9pkg8ymnw29pjz2yfm3tjg0kleu4348c2e6upkxqdfdj5u",
+    "entity": "SMarioToken",
     "name": "SMarioToken",
     "symbol": "SMT",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1rc4ef7s6pzuf9pkg8ymnw29pjz2yfm3tjg0kleu4348c2e6upkxqdfdj5u/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1rc4ef7s6pzuf9pkg8ymnw29pjz2yfm3tjg0kleu4348c2e6upkxqdfdj5u/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://www.smariotoken.com/SMRT_logo.png"
   },
   {
     "id": "terra1rck0zefy4juahqjjk5q0wz2ykp7028hjwvzcaj",
@@ -14706,6 +14740,14 @@
     "type": "cw20"
   },
   {
+    "id": "terra1uk69axvww5ewh37kgg9k05r3crqflrpuap4008z263zsxcr94nrsrmwqhy",
+    "name": "NAPPY",
+    "symbol": "NAPPY",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1uk69axvww5ewh37kgg9k05r3crqflrpuap4008z263zsxcr94nrsrmwqhy/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "terra1ukk89gn25p7xseqc4s4d45yarjlwychrwx7umv",
     "name": "ALL TIME High",
     "symbol": "ATH",
@@ -16091,11 +16133,14 @@
   },
   {
     "id": "terra1xu0ramdtu2ekgqaek99skykalywcr0wjumjnl5y9uyk3tn47ne7qejufpy",
+    "entity": "Betting Protocol",
     "name": "Betting Burner Token",
     "symbol": "BBT",
     "decimals": "6",
     "type": "cw20",
-    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1xu0ramdtu2ekgqaek99skykalywcr0wjumjnl5y9uyk3tn47ne7qejufpy/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "circ_supply": "80000000",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1xu0ramdtu2ekgqaek99skykalywcr0wjumjnl5y9uyk3tn47ne7qejufpy/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
+    "icon": "https://i.ibb.co.com/2SN38KQ/bbt.jpg"
   },
   {
     "id": "terra1xuwzeewzgc25d0qg8mz2396096vhvyxza5tvzy",
