@@ -2119,6 +2119,15 @@
     "icon": "ipfs://bafybeifunpazopwucovgs2dwfsen256jvxjweuwm2h3n22ef5ute274eai"
   },
   {
+    "id": "factory/inj18xsczx27lanjt40y9v79q0v57d76j2s8ctj85x/POOR",
+    "name": "POOR",
+    "symbol": "POOR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxOHhzY3p4MjdsYW5qdDQweTl2NzlxMHY1N2Q3NmoyczhjdGo4NXgvUE9PUg%3D%3D&pagination.limit=1",
+    "icon": "https://bafkreieqyhb4sjr24vpbqlglq77bumvkh2xf5ikkqauyfrzwfb7xpby3ia.ipfs.dweb.link/"
+  },
+  {
     "id": "factory/inj18xsczx27lanjt40y9v79q0v57d76j2s8ctj85x/TESTT",
     "name": "TestToken",
     "symbol": "TESTT",
@@ -11191,6 +11200,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19tval5k0qjgqqkuw0v8g5qz9sautru4jr9rz7e/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
+    "id": "inj19uhgauf8wtvsapzg8wv83qv8el0atv4m2s0wg8",
+    "name": "Pizza for all ninja",
+    "symbol": "PIZZA",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj19uhgauf8wtvsapzg8wv83qv8el0atv4m2s0wg8/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+  },
+  {
     "id": "inj19vy83ne9tzta2yqynj8yg7dq9ghca6yqn9hyej",
     "entity": "space candy for degens",
     "name": "space candy for degens",
@@ -16127,6 +16144,14 @@
     "symbol": "INJXMAS",
     "decimals": "8",
     "type": "cw20"
+  },
+  {
+    "id": "inj1unw3urzsuxvvt84d9chenf48tjgvjw3tcpv0wn",
+    "name": "Agora",
+    "symbol": "AGORA",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1unw3urzsuxvvt84d9chenf48tjgvjw3tcpv0wn/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "inj1up4k6vxrq4nhzvp5ssksqejk3e26q2jfvngjlj",
