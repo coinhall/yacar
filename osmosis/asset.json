@@ -349,6 +349,15 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1dywfmhyc8y0wga7qpzej0x0mgwqg25fj4eccp494w8yafzdpgamsx9ryyv/fATLAS",
+    "name": "fATLAS",
+    "symbol": "fATLAS",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWR5d2ZtaHljOHkwd2dhN3FwemVqMHgwbWd3cWcyNWZqNGVjY3A0OTR3OHlhZnpkcGdhbXN4OXJ5eXYvZkFUTEFT&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/fATLAS.png"
+  },
+  {
     "id": "factory/osmo1dywfmhyc8y0wga7qpzej0x0mgwqg25fj4eccp494w8yafzdpgamsx9ryyv/fBAD",
     "name": "fBAD",
     "symbol": "fBAD",
@@ -371,6 +380,15 @@
     "decimals": "9",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWR5d2ZtaHljOHkwd2dhN3FwemVqMHgwbWd3cWcyNWZqNGVjY3A0OTR3OHlhZnpkcGdhbXN4OXJ5eXYvZkNSWVBUT05JVU0%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1dywfmhyc8y0wga7qpzej0x0mgwqg25fj4eccp494w8yafzdpgamsx9ryyv/fGECK",
+    "name": "fGECK",
+    "symbol": "fGECK",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWR5d2ZtaHljOHkwd2dhN3FwemVqMHgwbWd3cWcyNWZqNGVjY3A0OTR3OHlhZnpkcGdhbXN4OXJ5eXYvZkdFQ0s%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/fGECK.png"
   },
   {
     "id": "factory/osmo1dywfmhyc8y0wga7qpzej0x0mgwqg25fj4eccp494w8yafzdpgamsx9ryyv/fMAD",
