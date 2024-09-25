@@ -13356,6 +13356,16 @@
     "coingecko": "https://www.coingecko.com/en/coins/function-x"
   },
   {
+    "id": "ibc/2BF7FB3908B469FA9672767DC74AF8A18E2F47F8B623B0685DE290B828FCBD23",
+    "name": "SIN",
+    "symbol": "SIN",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJCRjdGQjM5MDhCNDY5RkE5NjcyNzY3REM3NEFGOEExOEUyRjQ3RjhCNjIzQjA2ODVERTI5MEI4MjhGQ0JEMjM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJCRjdGQjM5MDhCNDY5RkE5NjcyNzY3REM3NEFGOEExOEUyRjQ3RjhCNjIzQjA2ODVERTI5MEI4MjhGQ0JEMjM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/sin.png"
+  },
+  {
     "id": "ibc/2BF9656CAB0384A31167DB9B0254F0FB1CB4346A229BD7E5CBDCBB911C3740F7",
     "name": "Teledisko DAO",
     "symbol": "BERLIN",
