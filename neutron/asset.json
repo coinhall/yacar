@@ -32,6 +32,14 @@
     "coingecko": "https://www.coingecko.com/en/coins/eclipse-fi"
   },
   {
+    "id": "factory/neutron129ukd5cwahcjkccujz87rjemjukff7jf6sau72qrhva677xgz9gs4m4jeq/uarena",
+    "name": "Arena Token",
+    "symbol": "ARENA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTI5dWtkNWN3YWhjamtjY3Vqejg3cmplbWp1a2ZmN2pmNnNhdTcycXJodmE2Nzd4Z3o5Z3M0bTRqZXEvdWFyZW5h&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron133xakkrfksq39wxy575unve2nyehg5npx75nph/GOP",
     "name": "GOP",
     "symbol": "GOP",
