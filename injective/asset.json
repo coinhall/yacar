@@ -4575,6 +4575,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1lmk94nu4dstt2fey3dyl6m7c9fu5zneuvk69et/nept",
+    "name": "Neptune Token",
+    "symbol": "NEPT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbG1rOTRudTRkc3R0MmZleTNkeWw2bTdjOWZ1NXpuZXV2azY5ZXQvbmVwdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1lnealva69klvt2dxpe0gxzj4a2ea7jqcjar7rq/INJ",
     "name": "injective",
     "symbol": "INJ",
