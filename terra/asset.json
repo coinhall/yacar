@@ -640,6 +640,20 @@
     "icon": "https://assets.terra.money/icon/svg/LUNC.svg"
   },
   {
+    "id": "ibc/830107B6700EF8D76F5DB4B586C436A3D2A672939F93BDFC6543E12DD281453A",
+    "origin_chain": "kava",
+    "origin_chain_id": "kava_2222-10",
+    "origin_id": "ukava",
+    "name": "ibc/830107B6700EF8D76F5DB4B586C436A3D2A672939F93BDFC6543E12DD281453A",
+    "symbol": "ibc/830107B6700EF8D76F5DB4B586C436A3D2A672939F93BDFC6543E12DD281453A",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzgzMDEwN0I2NzAwRUY4RDc2RjVEQjRCNTg2QzQzNkEzRDJBNjcyOTM5RjkzQkRGQzY1NDNFMTJERDI4MTQ1M0E%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzgzMDEwN0I2NzAwRUY4RDc2RjVEQjRCNTg2QzQzNkEzRDJBNjcyOTM5RjkzQkRGQzY1NDNFMTJERDI4MTQ1M0E%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/kava"
+  },
+  {
     "id": "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759",
     "origin_chain": "chihuahua",
     "origin_chain_id": "chihuahua-1",
