@@ -439,6 +439,14 @@
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWU1ODk0cnJlbGQ1cmVqN3l0YzAzaGt5aGM1dXI2ejgyeDR3NXg2M3drend6enFncXYwcnE4cjdsM2UvcHRydW1wZ292&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1ejz4kmvzkra0q4gm8z73sp2j4d3w6ev2qux3dcht8lscewplhd5qhxzvpn/saint",
+    "name": "saint",
+    "symbol": "saint",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWVqejRrbXZ6a3JhMHE0Z204ejczc3AyajRkM3c2ZXYycXV4M2RjaHQ4bHNjZXdwbGhkNXFoeHp2cG4vc2FpbnQ%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1em6xs47hd82806f5cxgyufguxrrc7l0aqx7nzzptjuqgswczk8csavdxek/alloyed/allUSDT",
     "name": "Alloyed USDT",
     "symbol": "allUSDT",
