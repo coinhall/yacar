@@ -1099,6 +1099,18 @@
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
   },
   {
+    "id": "ibc/273E4C3B307F3BD56F08652B1DA009A705F078811716DF53F7829A76ED769A8D",
+    "origin_chain": "noble",
+    "origin_chain_id": "noble-1",
+    "origin_id": "ueure",
+    "name": "Monerium EUR emoney",
+    "symbol": "EURe",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3M0U0QzNCMzA3RjNCRDU2RjA4NjUyQjFEQTAwOUE3MDVGMDc4ODExNzE2REY1M0Y3ODI5QTc2RUQ3NjlBOEQ%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3M0U0QzNCMzA3RjNCRDU2RjA4NjUyQjFEQTAwOUE3MDVGMDc4ODExNzE2REY1M0Y3ODI5QTc2RUQ3NjlBOEQ%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
     "name": "DOT",
     "symbol": "DOT",
