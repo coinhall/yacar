@@ -80,6 +80,16 @@
     "lp_token_id": "archway1qzzrct5frpnulmkjrc3k8aeth04qlc7vxt7f922c8as8rev3hg2sgdd44p"
   },
   {
+    "id": "neutron13p2sfqyneq84tdyzsv052ruvqhkseyvw7ejdvd37jfxy6v3w4snq7xc6ly",
+    "asset_ids": [
+      "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
+      "ibc/DF8722298D192AAB85D86D0462E8166234A6A9A572DD4A2EA7996029DF4DB363"
+    ],
+    "dex": "Astrovault",
+    "type": "hybrid",
+    "lp_token_id": "neutron1u22dwvad33m4r2hm8q5v5g9gea73gg938esasnrf5xsuz6rgvquqx7at3f"
+  },
+  {
     "id": "archway102gh7tqaeptt88nckg73mfx8j8du64hw4qqm53zwwykcchwar86sza46ge",
     "asset_ids": [
       "ibc/C0336ECF2DF64E7D2C98B1422EC2B38DE9EF33C34AAADF18C6F2E3FFC7BE3615",
@@ -309,6 +319,16 @@
     "dex": "Astrovault",
     "type": "stable",
     "lp_token_id": "archway1phqjqlcnt2gxmupacz075ru8pcw4e2snqfw6pyr2p36gfuzacxdqphktyf"
+  },
+  {
+    "id": "neutron170c8a5jdzwmxzc87j8xd44tkuk684h2d0k6ttplxuml8m6gqvfssum75ct",
+    "asset_ids": [
+      "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+      "neutron1vjl4ze7gr32lar5s4fj776v70j4ml7mlt4aqln2hwgfhqjck8xwqfhx8vj"
+    ],
+    "dex": "Astrovault",
+    "type": "stable",
+    "lp_token_id": "neutron1cvd37t8hscadcjnm892v0a3j5lht3xgkgxtc6wnepgha09tvlnls28ucee"
   },
   {
     "id": "archway127rzhq22dm4z8ahaevunqaws0wgt5tesgec36g3lghut6dv9qyyswccju3",
@@ -749,5 +769,35 @@
     "dex": "Astrovault",
     "type": "xyk",
     "lp_token_id": "archway13yrv3wr75rhnk96k5dyaekysrte7a9l05rc7lrmrm32fmpd2y3tqwa788v"
+  },
+  {
+    "id": "neutron15xnyw44mqjqfnndgxvzfun379wu6e6nelt3q8d9fpmnjzwyzwg8su957eg",
+    "asset_ids": [
+      "neutron10dxyft3nv4vpxh5vrpn0xw8geej8dw3g39g7nqp8mrm307ypssksau29af",
+      "ibc/DF8722298D192AAB85D86D0462E8166234A6A9A572DD4A2EA7996029DF4DB363"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "neutron10pphtafc53ykaclvygzkn5eaa47fhvxf8zvzkq4a8t00zs0l35cs7rwm4f"
+  },
+  {
+    "id": "neutron18802pjlqezucgyah5l7kru0xhzhg8m0f5t42s6vaxqhtllq09pns49dtxn",
+    "asset_ids": [
+      "neutron10dxyft3nv4vpxh5vrpn0xw8geej8dw3g39g7nqp8mrm307ypssksau29af",
+      "untrn"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "neutron19adw6eavh456a6ft6gdtzd4d8xes09u0aj7wtlau82758ntd0qhs6xlfhp"
+  },
+  {
+    "id": "neutron1vcyk497necvzhvl93vvdt27rx3e3qxxsqeh36nes2tha8e4kvq6qce2fjh",
+    "asset_ids": [
+      "neutron10dxyft3nv4vpxh5vrpn0xw8geej8dw3g39g7nqp8mrm307ypssksau29af",
+      "neutron1vjl4ze7gr32lar5s4fj776v70j4ml7mlt4aqln2hwgfhqjck8xwqfhx8vj"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "neutron1jl5fv8xthcsf6lycasxq84zt03hflc4hz9vdmuhdptkn9gsd3fqs2qcty9"
   }
 ]
