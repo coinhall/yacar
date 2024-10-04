@@ -1738,6 +1738,15 @@
     "icon": "ipfs://bafkreia7cqttdqcuyobjfm2yokbpfzqpf4xkmjdzshfpqckez5jvio342a"
   },
   {
+    "id": "factory/inj170xy50dryyk9ur52laks9d02u33gcz4l8g94gs/DRUGS",
+    "name": "INJunkies Token",
+    "symbol": "DRUGS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNzB4eTUwZHJ5eWs5dXI1Mmxha3M5ZDAydTMzZ2N6NGw4Zzk0Z3MvRFJVR1M%3D&pagination.limit=1",
+    "icon": "https://bafkreiba422adveub2xbhklqj6etrhuhctra2rtjqc6ytedjumcastbsiy.ipfs.w3s.link/"
+  },
+  {
     "id": "factory/inj172ccd0gddgz203e4pf86ype7zjx573tn8g0df9/GINGER",
     "entity": "GINGER",
     "name": "GINGER",
