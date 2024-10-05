@@ -16009,6 +16009,20 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/ABD49F44559CB3E557CC458459CB6A67CEBD66E23C7674A0B2B445230BDA1F6C",
+    "origin_chain": "stratos",
+    "origin_chain_id": "stratos-1",
+    "origin_id": "wei",
+    "name": "Stratos",
+    "symbol": "STOS",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCRDQ5RjQ0NTU5Q0IzRTU1N0NDNDU4NDU5Q0I2QTY3Q0VCRDY2RTIzQzc2NzRBMEIyQjQ0NTIzMEJEQTFGNkM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCRDQ5RjQ0NTU5Q0IzRTU1N0NDNDU4NDU5Q0I2QTY3Q0VCRDY2RTIzQzc2NzRBMEIyQjQ0NTIzMEJEQTFGNkM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stratos/images/stratos.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/stratos"
+  },
+  {
     "id": "ibc/AC6EE43E608B5A7EEE460C960480BC1C3708010E32B2071C429DA259836E10C3",
     "origin_chain": "gateway",
     "origin_chain_id": "wormchain",
