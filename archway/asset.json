@@ -586,6 +586,13 @@
     "coingecko": "https://www.coingecko.com/en/coins/akash-network"
   },
   {
+    "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+    "symbol": "ATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/coinhall/assets/logo-atom.svg"
+  },
+  {
     "id": "ibc/CFD58F8A64F93940D00CABE85B05A6D0FBA1FF4DF42D3C1E23C06DF30A2BAE1F",
     "origin_chain": "planq",
     "origin_chain_id": "planq_7070-2",
@@ -610,6 +617,13 @@
     "type": "ibc",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/coreum/images/coreum.svg",
     "coingecko": "https://www.coingecko.com/en/coins/coreum"
+  },
+  {
+    "id": "ibc/DF8722298D192AAB85D86D0462E8166234A6A9A572DD4A2EA7996029DF4DB363",
+    "symbol": "WBTC.axl",
+    "decimals": "8",
+    "type": "ibc",
+    "icon": "https://coinhall.astrovault.io/coinhall/assets/logo-wbtc.axl.svg"
   },
   {
     "id": "ibc/E070901F36B129933202BEB3EB40A78BE242D8ECBA2D1AF9161DF06F35783900",
@@ -692,27 +706,9 @@
     "coingecko": "https://www.coingecko.com/en/coins/pstake-staked-osmo"
   },
   {
-    "id": "ibc/fcb240d2c3838369155a0fa8970a8be3ec1042f698269b9d6d9859274f00a0bb",
-    "name": "BCNA",
-    "symbol": "BCNA",
+    "id": "neutron1vjl4ze7gr32lar5s4fj776v70j4ml7mlt4aqln2hwgfhqjck8xwqfhx8vj",
+    "symbol": "xATOM",
     "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://lcd-archway.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL2ZjYjI0MGQyYzM4MzgzNjkxNTVhMGZhODk3MGE4YmUzZWMxMDQyZjY5ODI2OWI5ZDZkOTg1OTI3NGYwMGEwYmI%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd-archway.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL2ZjYjI0MGQyYzM4MzgzNjkxNTVhMGZhODk3MGE4YmUzZWMxMDQyZjY5ODI2OWI5ZDZkOTg1OTI3NGYwMGEwYmI%3D&pagination.limit=1",
-    "icon": "https://coinhall.astrovault.io/token/logo-bcna.svg"
-  },
-  {
-    "id": "ibc/FCB240D2C3838369155A0FA8970A8BE3EC1042F698269B9D6D9859274F00A0BB",
-    "origin_chain": "bitcanna",
-    "origin_chain_id": "bitcanna-1",
-    "origin_id": "ubcna",
-    "name": "BitCanna",
-    "symbol": "BCNA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://lcd-archway.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZDQjI0MEQyQzM4MzgzNjkxNTVBMEZBODk3MEE4QkUzRUMxMDQyRjY5ODI2OUI5RDZEOTg1OTI3NEYwMEEwQkI%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd-archway.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZDQjI0MEQyQzM4MzgzNjkxNTVBMEZBODk3MEE4QkUzRUMxMDQyRjY5ODI2OUI5RDZEOTg1OTI3NEYwMEEwQkI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/bitcanna"
+    "icon": "https://coinhall.astrovault.io/coinhall/assets/logo-xatom.svg"
   }
 ]
