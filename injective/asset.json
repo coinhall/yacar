@@ -3671,6 +3671,15 @@
     "icon": "ipfs://QmQ3RoZ7Ly2bRgDAfAEsjSwhg3hjNGKb2f7rtMqubTjAfU"
   },
   {
+    "id": "factory/inj1gzze3j38tduv25zhul8690dr2430zqygsl024v/PEANUT",
+    "name": "PEANUT Token",
+    "symbol": "PEANUT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZ3p6ZTNqMzh0ZHV2MjV6aHVsODY5MGRyMjQzMHpxeWdzbDAyNHYvUEVBTlVU&pagination.limit=1",
+    "icon": "ipfs://QmegZj2xJxSu1iSScknQhrkzaVjdDL9eb7bp7Wktz9eNXj"
+  },
+  {
     "id": "factory/inj1h0w5sj0n07cugus02xfywaghvxxh8pp3e9egs6/trs",
     "name": "TRS",
     "symbol": "trs",
