@@ -1822,11 +1822,13 @@
   },
   {
     "id": "factory/inj178zy7myyxewek7ka7v9hru8ycpvfnen6xeps89/DRUGS",
+    "entity": "DRUGS On INJ",
     "name": "DRUGS",
     "symbol": "DRUGS",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNzh6eTdteXl4ZXdlazdrYTd2OWhydTh5Y3B2Zm5lbjZ4ZXBzODkvRFJVR1M%3D&pagination.limit=1",
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj178zy7myyxewek7ka7v9hru8ycpvfnen6xeps89%2FDRUGS",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj178zy7myyxewek7ka7v9hru8ycpvfnen6xeps89%2FDRUGS",
     "icon": "https://bafkreiba422adveub2xbhklqj6etrhuhctra2rtjqc6ytedjumcastbsiy.ipfs.w3s.link"
   },
   {
