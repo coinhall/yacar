@@ -1,0 +1,43 @@
+[
+  {
+    "id": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/bitcoin-btc",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3btc.png"
+  },
+  {
+    "id": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/bitcoin-cash-bch",
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3bch.png"
+  },
+  {
+    "id": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/dogecoin-doge",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3doge.png"
+  },
+  {
+    "id": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/litecoin-ltc",
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3ltc.png"
+  },
+  {
+    "id": "uint3",
+    "entity": "Int3face Token",
+    "name": "Int3face Token",
+    "symbol": "INT3",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3.png"
+  }
+]
