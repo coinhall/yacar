@@ -8571,10 +8571,16 @@
   },
   {
     "id": "terra1gtjr689cyaau20k8ezdxy8eup34tntun5xr9l2",
+    "entity": "Dogecoin Wormhole",
     "name": "Wormhole:Dogecoin",
     "symbol": "whDOGE",
     "decimals": "8",
-    "type": "cw20"
+    "type": "cw20",
+    "circ_supply_api": "https://api.blockchair.com/dogecoin/stats",
+    "total_supply": "146315676383",
+    "icon": "https://ibb.co.com/2kGL4Q1",
+    "coinmarketcap": "https://coinmarketcap.com/id/currencies/dogecoin/",
+    "coingecko": "https://www.coingecko.com/id/koin_koin/dogecoin"
   },
   {
     "id": "terra1gtjtyyhj2cu0ekzju4rj86vsvg7d2uu576rrl7",
