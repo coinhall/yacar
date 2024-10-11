@@ -2797,6 +2797,14 @@
     "icon": "ipfs://bafkreidod4j7rcrymbibsytn5czq6znq7rwlu6ucyuromyxaar5wknyinm"
   },
   {
+    "id": "factory/inj1crtwzupp70fp6x74h4mle8tj5s2c7fhp4rpxna/nept",
+    "name": "Neptune Token",
+    "symbol": "NEPT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxY3J0d3p1cHA3MGZwNng3NGg0bWxlOHRqNXMyYzdmaHA0cnB4bmEvbmVwdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1cus3dx8lxq2h2y9mzraxagaw8kjjcx6ul5feak/EASPORTS",
     "name": "EA SPORTS",
     "symbol": "EA",
