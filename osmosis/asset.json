@@ -455,6 +455,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg"
   },
   {
+    "id": "factory/osmo1eqjda4pc6e09jtxzxggf6jl3jye2yn453ja58we5gxwzmf5ah28qvlnaz8/alloyed/allUNI",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": "12",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWVxamRhNHBjNmUwOWp0eHp4Z2dmNmpsM2p5ZTJ5bjQ1M2phNTh3ZTVneHd6bWY1YWgyOHF2bG5hejgvYWxsb3llZC9hbGxVTkk%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/uni.svg"
+  },
+  {
     "id": "factory/osmo1f588gk9dazpsueevdl2w6wfkmfmhg5gdvg2uerdlzl0atkasqhsq59qc6a/alloyed/allSHIB",
     "name": "Alloyed SHIB",
     "symbol": "allSHIB",
