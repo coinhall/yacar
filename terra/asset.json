@@ -298,6 +298,20 @@
     "coingecko": "https://www.coingecko.com/en/coins/dydx-chain"
   },
   {
+    "id": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
+    "origin_chain": "neutron",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "name": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
+    "symbol": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzIyM0ZGNTM5NDMwMzgxQURBQjNBNjZBQzQ4MjJFMjUzQzNGODQ1RTk4NDFGMTdGRUVDMjA3QjNBQTlGOEQ5MTU%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzIyM0ZGNTM5NDMwMzgxQURBQjNBNjZBQzQ4MjJFMjUzQzNGODQ1RTk4NDFGMTdGRUVDMjA3QjNBQTlGOEQ5MTU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/dATOM.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/drop-staked-atom"
+  },
+  {
     "id": "ibc/22E17DE64D0DDACF542E250F411705ED89D544549DE7B9DCE6B7148E369BD256",
     "name": "Injective",
     "symbol": "INJ",
@@ -665,6 +679,18 @@
     "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzg1N0QzM0QyQTkyNTkxMjIxNDIyNEI4RjNGQTM4REVDRjA1MjdBQUY3NjM3NUJEMzM4OEJCMTY3MjdCQUY3NTk%3D&pagination.limit=1",
     "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzg1N0QzM0QyQTkyNTkxMjIxNDIyNEI4RjNGQTM4REVDRjA1MjdBQUY3NjM3NUJEMzM4OEJCMTY3MjdCQUY3NTk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png"
+  },
+  {
+    "id": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
+    "origin_chain": "noble",
+    "origin_chain_id": "noble-1",
+    "origin_id": "ueure",
+    "name": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
+    "symbol": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhENTJCMjUxQjQ0N0I3MTYwNDIxQUNGQkQ1MEY2QjBBQkU1Rjk4RDJDNDA0QjAzNzAxMTMwRjEyMDQ0NDM5QTE%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhENTJCMjUxQjQ0N0I3MTYwNDIxQUNGQkQ1MEY2QjBBQkU1Rjk4RDJDNDA0QjAzNzAxMTMwRjEyMDQ0NDM5QTE%3D&pagination.limit=1"
   },
   {
     "id": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
