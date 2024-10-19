@@ -45,6 +45,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/badkid.png"
   },
   {
+    "id": "factory/osmo10pk4crey8fpdyqd62rsau0y02e3rk055w5u005ah6ly7k849k5tsf72x40/alloyed/allDOGE",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTBwazRjcmV5OGZwZHlxZDYycnNhdTB5MDJlM3JrMDU1dzV1MDA1YWg2bHk3azg0OWs1dHNmNzJ4NDAvYWxsb3llZC9hbGxET0dF&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/dogecoin/images/doge.png"
+  },
+  {
     "id": "factory/osmo1279xudevmf5cw83vkhglct7jededp86k90k2le/RAPTR",
     "name": "RAPTR",
     "symbol": "RAPTR",
@@ -330,6 +339,24 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWMzc2poc25ldWFqcW40a2U4NGtxcWFmMjZjdDVjanM4ejVhbGUweXY3MDk2d2g2ZnlmNnF4bWdrcGgvbGVn&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1cranx3twqxfrgeqvgsu262gy54vafpc9xap6scye99v244zl970s7kw2sz/alloyed/allBCH",
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWNyYW54M3R3cXhmcmdlcXZnc3UyNjJneTU0dmFmcGM5eGFwNnNjeWU5OXYyNDR6bDk3MHM3a3cyc3ovYWxsb3llZC9hbGxCQ0g%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/bitcoincash/images/bch.svg"
+  },
+  {
+    "id": "factory/osmo1csp8fk353hnq2tmulklecxpex43qmjvrkxjcsh4c3eqcw2vjcslq5jls9v/alloyed/allLTC",
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWNzcDhmazM1M2hucTJ0bXVsa2xlY3hwZXg0M3FtanZya3hqY3NoNGMzZXFjdzJ2amNzbHE1amxzOXYvYWxsb3llZC9hbGxMVEM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/dogecoin/images/ltc.svg"
   },
   {
     "id": "factory/osmo1dplap7yq5sh0tepjente05rsyhvfnpfxa5r453hht27puuv6zx7qh34w32/bndao",
@@ -654,6 +681,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW15djJnNzJoOGRhbjduNGh4N3N0dDNtbXVzdDZ3czAzemg2Z3hjN3Z6NGhwbWdwNXozbHE5YXVubTkvQVZBSUwucnQ%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/avail.eth.rt.svg"
+  },
+  {
+    "id": "factory/osmo1myv2g72h8dan7n4hx7stt3mmust6ws03zh6gxc7vz4hpmgp5z3lq9aunm9/BTC.rt",
+    "name": "Rootstock (Router)",
+    "symbol": "RBTC.rt",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW15djJnNzJoOGRhbjduNGh4N3N0dDNtbXVzdDZ3czAzemg2Z3hjN3Z6NGhwbWdwNXozbHE5YXVubTkvQlRDLnJ0&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/rbtc.rt.svg"
   },
   {
     "id": "factory/osmo1myv2g72h8dan7n4hx7stt3mmust6ws03zh6gxc7vz4hpmgp5z3lq9aunm9/TRX.rt",
@@ -4126,6 +4162,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZWRpYmxlcw%3D%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmY4Qp6SCtCKUx83HwAasYJk2v4i7XVcG1A1ZGhoJkoG8d"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/efmd",
+    "name": "EarthForestryManagmentDivision",
+    "symbol": "EFMD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZWZtZA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmP1owRMtyaqeAj65yMZ9TfoJDv64NuhgEvwTbESn7s5Uq"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/egb",
@@ -10770,6 +10815,15 @@
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs__U3Azd4IDuapr-Poyl0lInIQCPeZrfqPQ&s"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/tech",
+    "name": "Cozmo",
+    "symbol": "TECH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdGVjaA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmZQdDMeKtnQz8EkKXLc4g85YhdpDtTpj5KoJESy1Azpp9"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/teh",
     "name": "Tethys",
     "symbol": "TEH",
@@ -11669,6 +11723,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvd2lsZA%3D%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmP2ruMpgA39SQpMuo8fnfF9vrTHn4Udh6A8USdLMzyw8M"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/wildcat",
+    "name": "WILDCAT",
+    "symbol": "WILDCAT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvd2lsZGNhdA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmVhDgZwaJoL22UuUHxs6gtQBtC2XH5x34S4XW49rNm71w"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/wink",
@@ -13347,6 +13410,16 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/22C342A34DD0189AC2B2697EE76C360A9FBA53748ABA76E12C3A9E9F5F1E130F",
+    "name": "Fire Bitcoin (Axelar)",
+    "symbol": "FBTC.axl",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzIyQzM0MkEzNEREMDE4OUFDMkIyNjk3RUU3NkMzNjBBOUZCQTUzNzQ4QUJBNzZFMTJDM0E5RTlGNUYxRTEzMEY%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzIyQzM0MkEzNEREMDE4OUFDMkIyNjk3RUU3NkMzNjBBOUZCQTUzNzQ4QUJBNzZFMTJDM0E5RTlGNUYxRTEzMEY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/fbtc.axl.svg"
+  },
+  {
     "id": "ibc/23104D411A6EB6031FA92FB75F227422B84989969E91DCAD56A535DD7FF0A373",
     "origin_chain": "noble",
     "origin_chain_id": "noble-1",
@@ -13633,6 +13706,19 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/2F4258D6E1E01B203D6CA83F2C7E4959615053A21EC2C2FC196F7911CAC832EF",
+    "origin_chain": "int3face",
+    "origin_chain_id": "int3face-1",
+    "origin_id": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/bitcoin-btc",
+    "name": "Bitcoin (Int3)",
+    "symbol": "BTC.int3",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGNDI1OEQ2RTFFMDFCMjAzRDZDQTgzRjJDN0U0OTU5NjE1MDUzQTIxRUMyQzJGQzE5NkY3OTExQ0FDODMyRUY%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGNDI1OEQ2RTFFMDFCMjAzRDZDQTgzRjJDN0U0OTU5NjE1MDUzQTIxRUMyQzJGQzE5NkY3OTExQ0FDODMyRUY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3btc.png"
+  },
+  {
     "id": "ibc/2F5C084037D951B24D100F15CC013A131DF786DCE1B1DBDC48F018A9B9A138DE",
     "origin_chain": "juno",
     "origin_chain_id": "juno-1",
@@ -13644,6 +13730,18 @@
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGNUMwODQwMzdEOTUxQjI0RDEwMEYxNUNDMDEzQTEzMURGNzg2RENFMUIxREJEQzQ4RjAxOEE5QjlBMTM4REU%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGNUMwODQwMzdEOTUxQjI0RDEwMEYxNUNDMDEzQTEzMURGNzg2RENFMUIxREJEQzQ4RjAxOEE5QjlBMTM4REU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/CASA.png"
+  },
+  {
+    "id": "ibc/2F6003A92088B989A159C593C551DF7B04FA0A0419CA3ED087E45E0006ECFF6E",
+    "origin_chain": "axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "polygon-uusdt",
+    "name": "Tether USD (Ethereum) (Polygon via Axelar)",
+    "symbol": "USDT.e.matic.axl",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGNjAwM0E5MjA4OEI5ODlBMTU5QzU5M0M1NTFERjdCMDRGQTBBMDQxOUNBM0VEMDg3RTQ1RTAwMDZFQ0ZGNkU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGNjAwM0E5MjA4OEI5ODlBMTU5QzU5M0M1NTFERjdCMDRGQTBBMDQxOUNBM0VEMDg3RTQ1RTAwMDZFQ0ZGNkU%3D&pagination.limit=1"
   },
   {
     "id": "ibc/2FBAC4BF296D7844796844B35978E5899984BA5A6314B2DD8F83C215550010B3",
@@ -14196,6 +14294,16 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/4AC81C97BBB5482536F6401328E0E10BCCD98F0F471DCF64319A811E25E53CAB",
+    "name": "Lombard Staked Bitcoin (Axelar)",
+    "symbol": "LBTC.axl",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBQzgxQzk3QkJCNTQ4MjUzNkY2NDAxMzI4RTBFMTBCQ0NEOThGMEY0NzFEQ0Y2NDMxOUE4MTFFMjVFNTNDQUI%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRBQzgxQzk3QkJCNTQ4MjUzNkY2NDAxMzI4RTBFMTBCQ0NEOThGMEY0NzFEQ0Y2NDMxOUE4MTFFMjVFNTNDQUI%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/lbtc.axl.svg"
+  },
+  {
     "id": "ibc/4BDADBEDA31899036AB286E9901116496A9D85FB87B35A408C9D67C0DCAC660A",
     "origin_chain": "juno",
     "origin_chain_id": "juno-1",
@@ -14358,6 +14466,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/fxs.svg"
   },
   {
+    "id": "ibc/54B2D9DC9602A1CE2A0329D51C6A1C7C4ADE71477186AEAAA549318C4513A453",
+    "origin_chain": "pryzm",
+    "origin_chain_id": "pryzm-1",
+    "origin_id": "lp:8:uosmo",
+    "name": "OSMO Yield LP",
+    "symbol": "OSMO-YIELD-LP",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU0QjJEOURDOTYwMkExQ0UyQTAzMjlENTFDNkExQzdDNEFERTcxNDc3MTg2QUVBQUE1NDkzMThDNDUxM0E0NTM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU0QjJEOURDOTYwMkExQ0UyQTAzMjlENTFDNkExQzdDNEFERTcxNDc3MTg2QUVBQUE1NDkzMThDNDUxM0E0NTM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/pryzm/images/lp.svg"
+  },
+  {
     "id": "ibc/56B988C4D934FB7503F5EA9B440C75D489C8AD5D193715B477BEC4F84B8BBA2A",
     "origin_chain": "juno",
     "origin_chain_id": "juno-1",
@@ -14426,6 +14547,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.svg",
     "coingecko": "https://www.coingecko.com/en/coins/kava",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/57B63A0795B6BC0AC4EFD0D4DEE9FE71FCC1D0FFA87F6280C9CDEF4F6727A173",
+    "name": "Tether USD (Ethereum) (Arbitrum via Axelar)",
+    "symbol": "USDT.e.arb.axl",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3QjYzQTA3OTVCNkJDMEFDNEVGRDBENERFRTlGRTcxRkNDMUQwRkZBODdGNjI4MEM5Q0RFRjRGNjcyN0ExNzM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3QjYzQTA3OTVCNkJDMEFDNEVGRDBENERFRTlGRTcxRkNDMUQwRkZBODdGNjI4MEM5Q0RFRjRGNjcyN0ExNzM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.arb.axl.svg"
   },
   {
     "id": "ibc/580F8A1EF2A4281116B8F331973CC87E579811593859AC11B4E46BF6EA73EBFE",
@@ -14624,6 +14755,16 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYxM0JGMEJGMkYyMTQ2QUU5OTQxRTkyMzcyNTc0NUU5MzE2NzZCMkMxNEU5NzY4Q0Q2MDlGQTA4NDlCMkFFMTM%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kyve/images/kyve-token.svg",
     "coingecko": "https://www.coingecko.com/en/coins/kyve-network"
+  },
+  {
+    "id": "ibc/616C2EA69BC328F245CE449785CB0B526B462C48F19DCF9B3D30699579B4308A",
+    "name": "Coinbase Wrapped BTC (Axelar)",
+    "symbol": "cbBTC.axl",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYxNkMyRUE2OUJDMzI4RjI0NUNFNDQ5Nzg1Q0IwQjUyNkI0NjJDNDhGMTlEQ0Y5QjNEMzA2OTk1NzlCNDMwOEE%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYxNkMyRUE2OUJDMzI4RjI0NUNFNDQ5Nzg1Q0IwQjUyNkI0NjJDNDhGMTlEQ0Y5QjNEMzA2OTk1NzlCNDMwOEE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/cbbtc.axl.svg"
   },
   {
     "id": "ibc/620CD4A652485ECC8BEE7716D5D64BEA1B165612FCCD9706D63A4248CB685E7C",
@@ -15298,6 +15439,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/fanfury"
   },
   {
+    "id": "ibc/7D29C888219883C47C623578ACACFC89CC29AA70FBF09C895A1EED911BF90F32",
+    "origin_chain": "int3face",
+    "origin_chain_id": "int3face-1",
+    "origin_id": "uint3",
+    "name": "Int3face",
+    "symbol": "INT3",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzdEMjlDODg4MjE5ODgzQzQ3QzYyMzU3OEFDQUNGQzg5Q0MyOUFBNzBGQkYwOUM4OTVBMUVFRDkxMUJGOTBGMzI%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzdEMjlDODg4MjE5ODgzQzQ3QzYyMzU3OEFDQUNGQzg5Q0MyOUFBNzBGQkYwOUM4OTVBMUVFRDkxMUJGOTBGMzI%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3.png"
+  },
+  {
     "id": "ibc/7D389F0ABF1E4D45BE6D7BBE36A2C50EA0559C01E076B02F8E381E685EC1F942",
     "origin_chain": "terra",
     "origin_chain_id": "phoenix-1",
@@ -15461,6 +15615,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/SEIYAN.png"
   },
   {
+    "id": "ibc/869E01805EBBDDCAEA588666CD5149728B7DC7D69F30D92F77AD67F77CEB3FDA",
+    "origin_chain": "int3face",
+    "origin_chain_id": "int3face-1",
+    "origin_id": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/bitcoin-cash-bch",
+    "name": "Bitcoin Cash (Int3)",
+    "symbol": "BCH.int3",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzg2OUUwMTgwNUVCQkREQ0FFQTU4ODY2NkNENTE0OTcyOEI3REM3RDY5RjMwRDkyRjc3QUQ2N0Y3N0NFQjNGREE%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzg2OUUwMTgwNUVCQkREQ0FFQTU4ODY2NkNENTE0OTcyOEI3REM3RDY5RjMwRDkyRjc3QUQ2N0Y3N0NFQjNGREE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3bch.png"
+  },
+  {
     "id": "ibc/884EBC228DFCE8F1304D917A712AA9611427A6C1ECC3179B2E91D7468FB091A2",
     "origin_chain": "injective",
     "origin_chain_id": "injective-1",
@@ -15609,6 +15776,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg",
     "coingecko": "https://www.coingecko.com/en/coins/axelar",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/905326586AE1C86AC8B1CDB20BE957DE5FB23963EDD2C9ADD3E835CC22115A46",
+    "origin_chain": "int3face",
+    "origin_chain_id": "int3face-1",
+    "origin_id": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/litecoin-ltc",
+    "name": "Litecoin (Int3)",
+    "symbol": "LTC.int3",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkwNTMyNjU4NkFFMUM4NkFDOEIxQ0RCMjBCRTk1N0RFNUZCMjM5NjNFREQyQzlBREQzRTgzNUNDMjIxMTVBNDY%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzkwNTMyNjU4NkFFMUM4NkFDOEIxQ0RCMjBCRTk1N0RFNUZCMjM5NjNFREQyQzlBREQzRTgzNUNDMjIxMTVBNDY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3ltc.png"
   },
   {
     "id": "ibc/905889A7F0B94F1CE1506D9BADF13AE9141E4CBDBCD565E1DFC7AE418B3E3E98",
@@ -16267,6 +16447,19 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyQkQ1ODRDRDJBMEE5Q0U1M0Q0NDQ5NjY3RTI2MTYwQzdENDRBOUM0MUFGNTBGNjAyQzIwMUU1QjNDQ0E0NkM%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/B3DFDC2958A2BE482532DA3B6B5729B469BE7475598F7487D98B1B3E085245DE",
+    "origin_chain": "int3face",
+    "origin_chain_id": "int3face-1",
+    "origin_id": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/dogecoin-doge",
+    "name": "Dogecoin (Int3)",
+    "symbol": "DOGE.int3",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IzREZEQzI5NThBMkJFNDgyNTMyREEzQjZCNTcyOUI0NjlCRTc0NzU1OThGNzQ4N0Q5OEIxQjNFMDg1MjQ1REU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IzREZEQzI5NThBMkJFNDgyNTMyREEzQjZCNTcyOUI0NjlCRTc0NzU1OThGNzQ4N0Q5OEIxQjNFMDg1MjQ1REU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3doge.png"
   },
   {
     "id": "ibc/B3FB7128CE957DE1ADB687A919AA0786C77C62FB1280C07CDD78AEA032D56853",
@@ -17637,6 +17830,16 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg",
     "coingecko": "https://www.coingecko.com/en/coins/white-whale",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/EEA21E12A250B7FBBCBBBD1F7AA78984F5C12D684B32EBEEFC585FF596A7BCDA",
+    "name": "Tether USD (Axelar)",
+    "symbol": "USDT.axl",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VFQTIxRTEyQTI1MEI3RkJCQ0JCQkQxRjdBQTc4OTg0RjVDMTJENjg0QjMyRUJFRUZDNTg1RkY1OTZBN0JDREE%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VFQTIxRTEyQTI1MEI3RkJCQ0JCQkQxRjdBQTc4OTg0RjVDMTJENjg0QjMyRUJFRUZDNTg1RkY1OTZBN0JDREE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.op.axl.svg"
   },
   {
     "id": "ibc/EFC1776BEFB7842F2DC7BABD9A3050E188145C99007ECC5F3526FED45A68D5F5",
