@@ -388,6 +388,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dgl.png"
   },
   {
+    "id": "factory/juno1ulnur0yl5e3d7d6gekw2stlft8ydltes50lzkem8hnazkvp23g8sfcjt5d/sas",
+    "name": "Soon&Someday",
+    "symbol": "SAS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXVsbnVyMHlsNWUzZDdkNmdla3cyc3RsZnQ4eWRsdGVzNTBsemtlbThobmF6a3ZwMjNnOHNmY2p0NWQvc2Fz&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1uupxqaef6qrzfls3a3vfv0ec484acdz2tgfrryle768naa59ycwq5407kw/merc",
     "name": "Mercantilism coin",
     "symbol": "merc",
