@@ -1458,6 +1458,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png"
   },
   {
+    "id": "ibc/A93BB5B9B0F3E082AE25B4AE8EC43B558A44323289338C0A8C112395E96B229E",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo104jtrwcljnxfljhml8mxrw7qetcsdmqvy3sprw/ucosmousd",
+    "name": "ibc/A93BB5B9B0F3E082AE25B4AE8EC43B558A44323289338C0A8C112395E96B229E",
+    "symbol": "ibc/A93BB5B9B0F3E082AE25B4AE8EC43B558A44323289338C0A8C112395E96B229E",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0E5M0JCNUI5QjBGM0UwODJBRTI1QjRBRThFQzQzQjU1OEE0NDMyMzI4OTMzOEMwQThDMTEyMzk1RTk2QjIyOUU%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0E5M0JCNUI5QjBGM0UwODJBRTI1QjRBRThFQzQzQjU1OEE0NDMyMzI4OTMzOEMwQThDMTEyMzk1RTk2QjIyOUU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/CosmoUSD.png"
+  },
+  {
     "id": "ibc/B4C0F9BCB087D78ED8660D2824C4B81682840D0B69E83C62A78CA5874DD742A8",
     "origin_chain": "injective",
     "origin_chain_id": "injective-1",
