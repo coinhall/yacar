@@ -14505,6 +14505,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/fxs.svg"
   },
   {
+    "id": "ibc/54B2D9DC9602A1CE2A0329D51C6A1C7C4ADE71477186AEAAA549318C4513A453",
+    "origin_chain": "pryzm",
+    "origin_chain_id": "pryzm-1",
+    "origin_id": "lp:8:uosmo",
+    "name": "OSMO Yield LP",
+    "symbol": "OSMO-YIELD-LP",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU0QjJEOURDOTYwMkExQ0UyQTAzMjlENTFDNkExQzdDNEFERTcxNDc3MTg2QUVBQUE1NDkzMThDNDUxM0E0NTM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU0QjJEOURDOTYwMkExQ0UyQTAzMjlENTFDNkExQzdDNEFERTcxNDc3MTg2QUVBQUE1NDkzMThDNDUxM0E0NTM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/pryzm/images/lp.svg"
+  },
+  {
     "id": "ibc/56B988C4D934FB7503F5EA9B440C75D489C8AD5D193715B477BEC4F84B8BBA2A",
     "origin_chain": "juno",
     "origin_chain_id": "juno-1",
@@ -15273,6 +15286,16 @@
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzcxMDY2QjAzMEQ4RkM2NDc5RTYzODU4MEUxQkE5QzQ0OTI1RThDMUY2RTQ1MDM2NjY5RDIyMDE3Q0ZEQzhDNUU%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzcxMDY2QjAzMEQ4RkM2NDc5RTYzODU4MEUxQkE5QzQ0OTI1RThDMUY2RTQ1MDM2NjY5RDIyMDE3Q0ZEQzhDNUU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/sikoba.svg"
+  },
+  {
+    "id": "ibc/715283E4A955EB803AB1DD30B488587A4D63BF0B51BADA537053DEE479BA10D6",
+    "name": "AtomOne",
+    "symbol": "ATONE",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzcxNTI4M0U0QTk1NUVCODAzQUIxREQzMEI0ODg1ODdBNEQ2M0JGMEI1MUJBREE1MzcwNTNERUU0NzlCQTEwRDY%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzcxNTI4M0U0QTk1NUVCODAzQUIxREQzMEI0ODg1ODdBNEQ2M0JGMEI1MUJBREE1MzcwNTNERUU0NzlCQTEwRDY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/atomone/images/atomone.svg"
   },
   {
     "id": "ibc/71B441E27F1BBB44DD0891BCD370C2794D404D60A4FFE5AECCD9B1E28BC89805",
