@@ -294,6 +294,14 @@
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWs2N3lteDc1Z3M5NG1odTk3dnA0ZHFueHI4d3JwZjRlMDZhejh2ZHVuOTA5OTdtdWxjcnNwem1kNXAvbHVjeQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/juno1kkmr3wmmryxuyxj7t85jfhrfaqn7jt3esdhsq6wxzgfp97c72hcsxp0psg/test",
+    "name": "test",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWtrbXIzd21tcnl4dXl4ajd0ODVqZmhyZmFxbjdqdDNlc2Roc3E2d3h6Z2ZwOTdjNzJoY3N4cDBwc2cvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1kwh55zj8y3t550z7jduffzwgvd373nlc4mt9jd4kjsyqksg0fn7svau9v3/trep",
     "name": "Test Reputation",
     "symbol": "TREP",
