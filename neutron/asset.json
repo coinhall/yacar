@@ -1481,6 +1481,20 @@
     "coingecko": "https://www.coingecko.com/en/coins/mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
   },
   {
+    "id": "ibc/9C96F6DFDDF327E23EDA6C4BD232D7DDE18362EF2A3D3B9C768CE5992E4E2A01",
+    "origin_chain": "terra",
+    "origin_chain_id": "phoenix-1",
+    "origin_id": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+    "name": "ibc/9C96F6DFDDF327E23EDA6C4BD232D7DDE18362EF2A3D3B9C768CE5992E4E2A01",
+    "symbol": "ibc/9C96F6DFDDF327E23EDA6C4BD232D7DDE18362EF2A3D3B9C768CE5992E4E2A01",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlDOTZGNkRGRERGMzI3RTIzRURBNkM0QkQyMzJEN0RERTE4MzYyRUYyQTNEM0I5Qzc2OENFNTk5MkU0RTJBMDE%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlDOTZGNkRGRERGMzI3RTIzRURBNkM0QkQyMzJEN0RERTE4MzYyRUYyQTNEM0I5Qzc2OENFNTk5MkU0RTJBMDE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png",
+    "coingecko": "https://www.coingecko.com/en/coins/lion-dao"
+  },
+  {
     "id": "ibc/A139C0E0B5E87CBA8EAEEB12B9BEE13AC7C814CFBBFA87BBCADD67E31003466C",
     "origin_chain": "stargaze",
     "origin_chain_id": "stargaze-1",
