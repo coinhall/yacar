@@ -6,5 +6,13 @@
     "decimals": "6",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/pryzm/images/AUUU.svg"
+  },
+  {
+    "id": "lp:8:uosmo",
+    "name": "OSMO Yield LP",
+    "symbol": "OSMO-YIELD-LP",
+    "decimals": "6",
+    "type": "sdk.coin",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/pryzm/images/lp.svg"
   }
 ]
