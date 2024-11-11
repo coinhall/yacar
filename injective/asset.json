@@ -5304,6 +5304,15 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1pe8rs2gfmem5ak8vtqkduzkgcyargk2fg6u4as%2FRUGAOI"
   },
   {
+    "id": "factory/inj1peplwsuqcyu3m7853cgd32pqa7k3uff4qugvaa/Goku",
+    "name": "Goku Coin",
+    "symbol": "Goku",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxcGVwbHdzdXFjeXUzbTc4NTNjZ2QzMnBxYTdrM3VmZjRxdWd2YWEvR29rdQ%3D%3D&pagination.limit=1",
+    "icon": "ipfs://QmYP27JvQz5fQvH1YkA9uHhg6Y5r7xUYKd7PqECAc8GyUr"
+  },
+  {
     "id": "factory/inj1peusyhlu85s3gq82tz8jcfxzkszte4zeqhdthw/SNASA",
     "name": "SnoopNASA",
     "symbol": "SNASA",
