@@ -15003,6 +15003,16 @@
     "coingecko": "https://www.coingecko.com/en/coins/chain4energy"
   },
   {
+    "id": "ibc/629B5691DE993DCD07AA1B0587AD52A7FA4E8F28B77DE15BCBDF936CA6F76E6C",
+    "name": "Kima Network",
+    "symbol": "KIMA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYyOUI1NjkxREU5OTNEQ0QwN0FBMUIwNTg3QUQ1MkE3RkE0RThGMjhCNzdERTE1QkNCREY5MzZDQTZGNzZFNkM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYyOUI1NjkxREU5OTNEQ0QwN0FBMUIwNTg3QUQ1MkE3RkE0RThGMjhCNzdERTE1QkNCREY5MzZDQTZGNzZFNkM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kimanetwork/images/kima.svg"
+  },
+  {
     "id": "ibc/62B50BB1DAEAD2A92D6C6ACAC118F4ED8CBE54265DCF5688E8D0A0A978AA46E7",
     "origin_chain": "shido",
     "origin_chain_id": "shido_9008-1",
