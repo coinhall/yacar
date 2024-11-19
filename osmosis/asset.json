@@ -13463,6 +13463,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/lava-network"
   },
   {
+    "id": "ibc/1B454982D3746951510D3845145B83628D4ED380D95722C8077776C4689F973A",
+    "origin_chain": "synternet",
+    "origin_chain_id": "synternet-1",
+    "origin_id": "usynt",
+    "name": "Synternet",
+    "symbol": "SYNT",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFCNDU0OTgyRDM3NDY5NTE1MTBEMzg0NTE0NUI4MzYyOEQ0RUQzODBEOTU3MjJDODA3Nzc3NkM0Njg5Rjk3M0E%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFCNDU0OTgyRDM3NDY5NTE1MTBEMzg0NTE0NUI4MzYyOEQ0RUQzODBEOTU3MjJDODA3Nzc3NkM0Njg5Rjk3M0E%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/synternet/images/synt.svg"
+  },
+  {
     "id": "ibc/1B708808D372E959CD4839C594960309283424C775F4A038AAEBE7F83A988477",
     "origin_chain": "quasar",
     "origin_chain_id": "quasar-1",
