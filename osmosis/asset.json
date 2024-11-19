@@ -18445,6 +18445,19 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/FBBC35295AA037DC0A77796B08DC3003EC918E18E75D61D675A0EEAC0643F36C",
+    "origin_chain": "medasdigital",
+    "origin_chain_id": "medasdigital-2",
+    "origin_id": "umedas",
+    "name": "Medas Digital Network",
+    "symbol": "MEDAS",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCQkMzNTI5NUFBMDM3REMwQTc3Nzk2QjA4REMzMDAzRUM5MThFMThFNzVENjFENjc1QTBFRUFDMDY0M0YzNkM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCQkMzNTI5NUFBMDM3REMwQTc3Nzk2QjA4REMzMDAzRUM5MThFMThFNzVENjFENjc1QTBFRUFDMDY0M0YzNkM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/medasdigital/images/medas.svg"
+  },
+  {
     "id": "ibc/FD506CCA1FC574F2A8175FB574C981E9F6351E194AA48AC219BD67FF934E2F33",
     "origin_chain": "dhealth",
     "origin_chain_id": "dhealth",
