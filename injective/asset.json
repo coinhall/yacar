@@ -5403,6 +5403,15 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1pht5v0ahg62h66a7qm7x8q5cth7e52fynlwlke/PAR",
+    "name": "Parrot",
+    "symbol": "PAR",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxcGh0NXYwYWhnNjJoNjZhN3FtN3g4cTVjdGg3ZTUyZnlubHdsa2UvUEFS&pagination.limit=1",
+    "icon": "ipfs://QmVLy9c7CpMdadSKLPdA4MMHm6eMNet2DqFZMDTfQxqsyD"
+  },
+  {
     "id": "factory/inj1pjcmuxd2ek7mvx4gnv6quyn6c6rjxwcrs4h5y4/truffle",
     "entity": "TRUFFLE",
     "name": "TRUFFLE",
