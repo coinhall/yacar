@@ -15058,13 +15058,12 @@
     "origin_chain": "axelar",
     "origin_chain_id": "axelar-dojo-1",
     "origin_id": "cbbtc-satoshi",
-    "name": "Coinbase Wrapped BTC (Axelar)",
-    "symbol": "cbBTC.axl",
+    "name": "Coinbase Warpped Bitcoin",
+    "symbol": "axl-cbBTC",
     "decimals": "8",
     "type": "ibc",
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYxNkMyRUE2OUJDMzI4RjI0NUNFNDQ5Nzg1Q0IwQjUyNkI0NjJDNDhGMTlEQ0Y5QjNEMzA2OTk1NzlCNDMwOEE%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYxNkMyRUE2OUJDMzI4RjI0NUNFNDQ5Nzg1Q0IwQjUyNkI0NjJDNDhGMTlEQ0Y5QjNEMzA2OTk1NzlCNDMwOEE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/cbbtc.axl.svg"
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzYxNkMyRUE2OUJDMzI4RjI0NUNFNDQ5Nzg1Q0IwQjUyNkI0NjJDNDhGMTlEQ0Y5QjNEMzA2OTk1NzlCNDMwOEE%3D&pagination.limit=1"
   },
   {
     "id": "ibc/620CD4A652485ECC8BEE7716D5D64BEA1B165612FCCD9706D63A4248CB685E7C",
@@ -18452,7 +18451,7 @@
     "origin_chain": "medasdigital",
     "origin_chain_id": "medasdigital-2",
     "origin_id": "umedas",
-    "name": "Medas Digital Network",
+    "name": "Medas Digital",
     "symbol": "MEDAS",
     "decimals": "6",
     "type": "ibc",
