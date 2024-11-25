@@ -4199,6 +4199,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png"
   },
   {
+    "id": "factory/inj1jg05kms2fae4m4k7s6uw5u03gv9pk8nfh30seh/KUATO",
+    "name": "Kuato",
+    "symbol": "KUATO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxamcwNWttczJmYWU0bTRrN3M2dXc1dTAzZ3Y5cGs4bmZoMzBzZWgvS1VBVE8%3D&pagination.limit=1",
+    "icon": "ipfs://Qma35TqWFAcaxztqdx11qV4QHumS4sqUdiy5gJrLbSdRdM"
+  },
+  {
     "id": "factory/inj1jhwwydrfxe33r7ayy7nnrvped84njx97mma56r/BEAR",
     "name": "BEAR",
     "symbol": "BEAR",
