@@ -745,6 +745,14 @@
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW5mZzlkdTM5NXl6c2d2aDQ5aDBzczVscmZwM3RxMmx4NjUzNG16NG5wNzh3bDd6cHV1eHF0NHJmbXYvbG93cQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1nlk7quc00decemsv3htlcd08zr2eczu90jkldvp9ux0l8yj7ewvsr37xmv/test",
+    "name": "testing-cw-20dao",
+    "symbol": "test",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW5sazdxdWMwMGRlY2Vtc3YzaHRsY2QwOHpyMmVjenU5MGprbGR2cDl1eDBsOHlqN2V3dnNyMzd4bXYvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1nnlxegt0scm9qkzys9c874t0ntapv4epfjy2w49c0xdrp3dr0v4ssmelzx/alloyed/allPEPE",
     "name": "Alloyed PEPE",
     "symbol": "allPEPE",
