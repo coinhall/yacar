@@ -17233,6 +17233,20 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/C1B4D4804EB8F95FFB75E6395A301F0AD6D7DDE5C3A45571B70E46A368DD353E",
+    "origin_chain": "neutron",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "name": "dATOM",
+    "symbol": "dATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MxQjRENDgwNEVCOEY5NUZGQjc1RTYzOTVBMzAxRjBBRDZEN0RERTVDM0E0NTU3MUI3MEU0NkEzNjhERDM1M0U%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MxQjRENDgwNEVCOEY5NUZGQjc1RTYzOTVBMzAxRjBBRDZEN0RERTVDM0E0NTU3MUI3MEU0NkEzNjhERDM1M0U%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/dATOM.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/drop-staked-atom"
+  },
+  {
     "id": "ibc/C1C106D915C8E8C59E5DC69BF30FEF64729A6F788060B184C86A315DBB762EF7",
     "origin_chain": "quicksilver",
     "origin_chain_id": "quicksilver-2",
