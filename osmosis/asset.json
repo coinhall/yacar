@@ -409,6 +409,14 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWR5d2ZtaHljOHkwd2dhN3FwemVqMHgwbWd3cWcyNWZqNGVjY3A0OTR3OHlhZnpkcGdhbXN4OXJ5eXYvZkJVTExT&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1dywfmhyc8y0wga7qpzej0x0mgwqg25fj4eccp494w8yafzdpgamsx9ryyv/fCEWT",
+    "name": "fCEWT",
+    "symbol": "fCEWT",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWR5d2ZtaHljOHkwd2dhN3FwemVqMHgwbWd3cWcyNWZqNGVjY3A0OTR3OHlhZnpkcGdhbXN4OXJ5eXYvZkNFV1Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1dywfmhyc8y0wga7qpzej0x0mgwqg25fj4eccp494w8yafzdpgamsx9ryyv/fCRYPTONIUM",
     "name": "fCRYPTONIUM",
     "symbol": "fCRYPTONIUM",
@@ -9960,6 +9968,15 @@
     "icon": "https://static.wikia.nocookie.net/heros/images/5/57/Sanji_Infobox.jpg/revision/latest?cb=20200704223835&path-prefix=fr"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/sant",
+    "name": "CROISSANT",
+    "symbol": "SANT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc2FudA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmRvgJnxBrr8eysTH4woELYGtpRD9Nqc3oPmcDV1eihR7V"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/sardines",
     "name": "Sardines on carbon",
     "symbol": "SARDINES",
@@ -11784,6 +11801,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdXd1&pagination.limit=1",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Stylized_uwu_emoticon.svg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/v1up",
+    "name": "Veritas Heart",
+    "symbol": "v1UP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdjF1cA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmTtFnbwovWHQcPdE8HJ3coa9Gg6ivu6SXsuH76c8rgAsy"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/vamp",
@@ -14229,7 +14255,8 @@
     "type": "ibc",
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNCOTVENjNCNTIwQzI4M0JDQTg2RjhDRDQyNkQ1NzU4NDAzOTQ2M0ZENjg0QTVDQkEzMUQyNzgwQjg2QTE5OTU%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNCOTVENjNCNTIwQzI4M0JDQTg2RjhDRDQyNkQ1NzU4NDAzOTQ2M0ZENjg0QTVDQkEzMUQyNzgwQjg2QTE5OTU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dungeon/images/DGN.png"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dungeon/images/DGN.png",
+    "coingecko": "https://www.coingecko.com/en/coins/dragon-coin-2"
   },
   {
     "id": "ibc/3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB",
@@ -17231,6 +17258,20 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/C1B4D4804EB8F95FFB75E6395A301F0AD6D7DDE5C3A45571B70E46A368DD353E",
+    "origin_chain": "neutron",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "name": "dATOM",
+    "symbol": "dATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MxQjRENDgwNEVCOEY5NUZGQjc1RTYzOTVBMzAxRjBBRDZEN0RERTVDM0E0NTU3MUI3MEU0NkEzNjhERDM1M0U%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MxQjRENDgwNEVCOEY5NUZGQjc1RTYzOTVBMzAxRjBBRDZEN0RERTVDM0E0NTU3MUI3MEU0NkEzNjhERDM1M0U%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/dATOM.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/drop-staked-atom"
   },
   {
     "id": "ibc/C1C106D915C8E8C59E5DC69BF30FEF64729A6F788060B184C86A315DBB762EF7",
