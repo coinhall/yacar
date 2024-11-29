@@ -5685,6 +5685,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Finj1qjjhhdn95u8s6tqqhx27n8g9vqtn6uhn63szp8%2FTEST"
   },
   {
+    "id": "factory/inj1qnevg53dgzvn3qfglev535hladqkqtnlumdrez/BOLZ",
+    "name": "BikBolzCoin",
+    "symbol": "BBOLZ",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxcW5ldmc1M2RnenZuM3FmZ2xldjUzNWhsYWRxa3F0bmx1bWRyZXovQk9MWg%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1qpf0xj4w824774q8mp9x29q547qe66607h96ll/ELON",
     "name": "ELONCOIN",
     "symbol": "ELON",
