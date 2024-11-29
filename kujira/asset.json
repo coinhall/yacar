@@ -241,6 +241,1111 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/xmnta.png"
   },
   {
+    "id": "factory/neutron1045nmghe520mfugjn8h8nftr2302tkpf8gwsq6kymvxg4hn5fptsn7u4q0/test",
+    "name": "testing dao token",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTA0NW5tZ2hlNTIwbWZ1Z2puOGg4bmZ0cjIzMDJ0a3BmOGd3c3E2a3ltdnhnNGhuNWZwdHNuN3U0cTAvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron129ukd5cwahcjkccujz87rjemjukff7jf6sau72qrhva677xgz9gs4m4jeq/uarena",
+    "name": "Arena Token",
+    "symbol": "ARENA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTI5dWtkNWN3YWhjamtjY3Vqejg3cmplbWp1a2ZmN2pmNnNhdTcycXJodmE2Nzd4Z3o5Z3M0bTRqZXEvdWFyZW5h&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron133xakkrfksq39wxy575unve2nyehg5npx75nph/GOP",
+    "name": "GOP",
+    "symbol": "GOP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTMzeGFra3Jma3NxMzl3eHk1NzV1bnZlMm55ZWhnNW5weDc1bnBoL0dPUA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron133xakkrfksq39wxy575unve2nyehg5npx75nph/MOO",
+    "name": "MOO",
+    "symbol": "MOO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTMzeGFra3Jma3NxMzl3eHk1NzV1bnZlMm55ZWhnNW5weDc1bnBoL01PTw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron133xakkrfksq39wxy575unve2nyehg5npx75nph/WEIRD",
+    "name": "WEIRD",
+    "symbol": "WEIRD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTMzeGFra3Jma3NxMzl3eHk1NzV1bnZlMm55ZWhnNW5weDc1bnBoL1dFSVJE&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron13uqpk26qkf727fhl4fvw2hkknhm27twv4h4vakrs9rvp0936g5rsx5cys6/pwr",
+    "name": "Power",
+    "symbol": "PWR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTN1cXBrMjZxa2Y3MjdmaGw0ZnZ3Mmhra25obTI3dHd2NGg0dmFrcnM5cnZwMDkzNmc1cnN4NWN5czYvcHdy&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1469px4vwyxraetx7u75r8uud3s2tsla4rgnv7rxdxkvcv0d8wejscvmjkf/boost",
+    "name": "BOOST",
+    "symbol": "BOOST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTQ2OXB4NHZ3eXhyYWV0eDd1NzVyOHV1ZDNzMnRzbGE0cmdudjdyeGR4a3ZjdjBkOHdlanNjdm1qa2YvYm9vc3Q%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron146tyq856rjass82pqlu9tzu287g3s78l5g4llmzx38ljqgp69jds8xpz59/gr",
+    "name": "GRAB Token",
+    "symbol": "GNTRN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTQ2dHlxODU2cmphc3M4MnBxbHU5dHp1Mjg3ZzNzNzhsNWc0bGxtengzOGxqcWdwNjlqZHM4eHB6NTkvZ3I%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron14vqv66kxnxzxc5urq5m5ja4tl045pg5gsxex2wxaqfy4m7n637jqs2s4q6/udatom",
+    "name": "Drop",
+    "symbol": "dATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTR2cXY2Nmt4bnh6eGM1dXJxNW01amE0dGwwNDVwZzVnc3hleDJ3eGFxZnk0bTduNjM3anFzMnM0cTYvdWRhdG9t&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron14yg2vvwt39fan0a5gc380e65ftydlxrpaax2l72ecxfy0l7xttts0szf73/abslt",
+    "name": "crap, not vodka",
+    "symbol": "ABSLT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTR5ZzJ2dnd0MzlmYW4wYTVnYzM4MGU2NWZ0eWRseHJwYWF4Mmw3MmVjeGZ5MGw3eHR0dHMwc3pmNzMvYWJzbHQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron14yg2vvwt39fan0a5gc380e65ftydlxrpaax2l72ecxfy0l7xttts0szf73/soild",
+    "name": "Soil, decentralized",
+    "symbol": "SOILD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTR5ZzJ2dnd0MzlmYW4wYTVnYzM4MGU2NWZ0eWRseHJwYWF4Mmw3MmVjeGZ5MGw3eHR0dHMwc3pmNzMvc29pbGQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron14yg2vvwt39fan0a5gc380e65ftydlxrpaax2l72ecxfy0l7xttts0szf73/toxic",
+    "name": "Do not touch.",
+    "symbol": "TOXIC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTR5ZzJ2dnd0MzlmYW4wYTVnYzM4MGU2NWZ0eWRseHJwYWF4Mmw3MmVjeGZ5MGw3eHR0dHMwc3pmNzMvdG94aWM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron14yg2vvwt39fan0a5gc380e65ftydlxrpaax2l72ecxfy0l7xttts0szf73/waste",
+    "name": "Do not buy this, waste man",
+    "symbol": "WASTE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTR5ZzJ2dnd0MzlmYW4wYTVnYzM4MGU2NWZ0eWRseHJwYWF4Mmw3MmVjeGZ5MGw3eHR0dHMwc3pmNzMvd2FzdGU%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron15dk63fekucecqcqlyuwy5mxpvcapmfhh0qva4s/umarbgold",
+    "name": "CigZone Marlboro Gold",
+    "symbol": "MARBGOLD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTVkazYzZmVrdWNlY3FjcWx5dXd5NW14cHZjYXBtZmhoMHF2YTRzL3VtYXJiZ29sZA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
+    "name": "AtomEconomicZone69JaeKwonInu",
+    "symbol": "CIRCUS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTcwdjg4dnJ0bmVkZXN5Znl0dWt1MjU3Y2dneGM3OXJkN2x3dDdxL3VjaXJjdXM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron177cnkczp4lctcez3ueesu609nptlelhxhrzqw560rx3tssfdjwusfatvk8/udatom",
+    "name": "Drop",
+    "symbol": "dATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTc3Y25rY3pwNGxjdGNlejN1ZWVzdTYwOW5wdGxlbGh4aHJ6cXc1NjByeDN0c3NmZGp3dXNmYXR2azgvdWRhdG9t&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron19pvz0mahhpkgdajvj7j53u5y0zsfg6c2ccf43rq6udrcjr9q2mysxtre9t/test",
+    "name": "test token",
+    "symbol": "test",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTlwdnowbWFoaHBrZ2RhanZqN2o1M3U1eTB6c2ZnNmMyY2NmNDNycTZ1ZHJjanI5cTJteXN4dHJlOXQvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1a6ydq8urdj0gkvjw9e9e5y9r5ce2qegm9m4xufpt96kcm60kmuass0mqq4/nbz",
+    "name": "Ninja Blaze Token",
+    "symbol": "NBZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWE2eWRxOHVyZGowZ2t2anc5ZTllNXk5cjVjZTJxZWdtOW00eHVmcHQ5NmtjbTYwa211YXNzMG1xcTQvbmJ6&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1aas2tvgf76g99s2thpmhzcfqmyvvala3vq2ztjqlmaymenvsq69qtex4nm/udatom",
+    "name": "Drop",
+    "symbol": "dATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWFhczJ0dmdmNzZnOTlzMnRocG1oemNmcW15dnZhbGEzdnEyenRqcWxtYXltZW52c3E2OXF0ZXg0bm0vdWRhdG9t&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ABOY",
+    "name": "Atom to da moon",
+    "symbol": "ABOY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQUJPWQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/45C51646D221E9F6AAFCD5EE2AE5770E740EB908AE15DB2445442CD937156998.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ADB",
+    "name": "AstroDickButt Token",
+    "symbol": "ADB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQURC&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/B1A851F4874F6475FBB53BFF04885E71A27AF7FC85AD0F7C611F8C33D6950D30.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ADRENOCHRO",
+    "name": "Adrenochrome",
+    "symbol": "ADRENOCHRO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQURSRU5PQ0hSTw%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/2A9F81F971E8E401165633D8ABAAD8BD9E5545A26B09C0B038F7C6C16BEE69D6.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ADWIF",
+    "name": "AstroDogWifHat",
+    "symbol": "ADWIF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQURXSUY%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/B5A06C3732C3ADCB9E655DAB944BDC00DE2ADC70C63BBBC0AAABCABCBC9C4F82.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ANC",
+    "name": "Station",
+    "symbol": "ANC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQU5D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/0A76FF3C66055AEE8834B8D9838D1C169832F7E3EA8894BE548E64654DA53567.webp"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ANGRY-BABY",
+    "name": "Angry Baby",
+    "symbol": "ANGRY-BABY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQU5HUlktQkFCWQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/CD6CA0393963C7FF37DC49D685B06980CDD19C4886F80A8C939BCA0F23BFBD93.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/APES",
+    "name": "Asteroid Apes",
+    "symbol": "APES",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVBFUw%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/474BC65936F735A15E3D03AD66A61D5D7D625352C2A91FFA706305DABB1A8456.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/APIXDEX",
+    "name": "AI PERPS PIXEL INDEX",
+    "symbol": "APIXDEX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVBJWERFWA%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/DAE52D2D49DF1C64882C0AD57DC8A31EA53EA7737F669CF30692EFE25282816A.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ARCHI",
+    "name": "Archimedix",
+    "symbol": "ARCHI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVJDSEk%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/EDCBAB989B6481ABA245AEE24A3D934B5849328E696DBE80BB09392FDF9CA991.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ASTEROIDS",
+    "name": "Asteroid Protocol",
+    "symbol": "ASTEROIDS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVNURVJPSURT&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/39C4691EB2824C1E4E82B8F50A03DC7E617C0658CD7CD9E969770DB933F3B30E.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ASTROPEPE",
+    "name": "AstroPepe",
+    "symbol": "ASTROPEPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVNUUk9QRVBF&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/5350A1D3E80E5B06F54B3454BA11BC909E7881061957C017070AB582280E3920.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATN",
+    "name": "ATOM",
+    "symbol": "ATN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVRO&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/70F6ED31FF0844FAE6D236D65F753CB9299E90BE5CC5A4020F5DCC23833D165A.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATOMAP",
+    "name": "Atomap Token",
+    "symbol": "ATOMAP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVRPTUFQ&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/3E492F531C32AB5641334980217F549F50A774B4DF0D39FED455919D4855CB05.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATOMS",
+    "name": "Atoms",
+    "symbol": "ATOMS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVRPTVM%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/715E661997839AC65C6EA3DE3D32FD2F8B50E3037AE6A486F4E212A0B64F741A.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ATOVERSE",
+    "name": "Atoverse",
+    "symbol": "ATOVERSE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVRPVkVSU0U%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/CE09C1D328FB12AFD97EB274F032223A66DA44FF7825562E879BE036BD607FC6.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/AZZ",
+    "name": "Hemorrhoidz",
+    "symbol": "AZZ",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQVpa&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/72B86E880D011D2C5FE291B55430E7DEF6FB842D0D253E9298F57D4AFDA725AE.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BABYROIDS",
+    "name": "BABY ROIDS",
+    "symbol": "BABYROIDS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQkFCWVJPSURT&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/F105E6012CA4F9FE6B06A93A81B18599733797B3142F1917831AF027BD545BAE.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BADUNCLE",
+    "name": "BadUncle",
+    "symbol": "BADUNCLE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQkFEVU5DTEU%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/CBC1ADDACB43D13EC1F34CE43902EF5F06BA1AEEEA517B7E4AA613BBBAA2692D.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BBLY",
+    "name": "Bubbly",
+    "symbol": "BBLY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQkJMWQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/DF9A8E96D26C2E9E22419E1A9F79E72F0F9067D655030BFB5A97BEED9C820972.gif"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BERRY",
+    "name": "Huckleberry",
+    "symbol": "BERRY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQkVSUlk%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/776AE9C71BD33B0E470DC45EF49165CA798FA6F46ECA296CADE22F6F2F148663.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BONK",
+    "name": "BONK",
+    "symbol": "BONK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQk9OSw%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/ABF9C9BDD0CBF39FA2BD9E2C76CA6ABA15A50C15A52EB3B025FBC0DEEA8D6CD0.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/BTC",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQlRD&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/F0459C88C41793EDE870615716805E86243A479709B8F6A34C369D5A6D964BFF.webp"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CARTEL",
+    "name": "Cosmos Cartel",
+    "symbol": "CARTEL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQ0FSVEVM&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/B0700A702E4C1195D1E36AE2513692A8FF94F25E1B7E0C63B4CA6927BF96C47B.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CAWS",
+    "name": "Crowbros",
+    "symbol": "CAWS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQ0FXUw%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/D0F353ECB699D1E30A5B0003A537B7807B5E860A1591B91D6C64B26CC0F023C1.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CLPCOIN",
+    "name": "Cosmos Little Prince",
+    "symbol": "CLPCOIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQ0xQQ09JTg%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/00EE62DA893095C8CF571B7C0F9EED019BBE2D04983A3F84269AA40608C58F58.gif"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COS",
+    "name": "Cosmos Inscription",
+    "symbol": "COS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQ09T&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/7EFD13C8CEF64FEDD3201AE5DCF4D870DBFCE8AED2FF9AA3AE649B2F1D636E33.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COSMOCORN",
+    "name": "The real Cosmos Unicorn",
+    "symbol": "COSMOCORN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQ09TTU9DT1JO&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/FC9F8358467A1F0DB42446773429A494A649EBD160EE94700A6CA9B18703D152.gif"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/COVID",
+    "name": "COVID-19",
+    "symbol": "COVID",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQ09WSUQ%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/3FF391977D6889EC8622B895E5184C1B798C56F4B8F37BF4140DE3CAF2AB9752.webp"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CSMX",
+    "name": "Cosmox",
+    "symbol": "CSMX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQ1NNWA%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/9573EAB9817304F706A71234502AA9A5A0C1693F57927FB776139D88389A8794.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/CWRMS",
+    "name": "Cosmos Worms Token",
+    "symbol": "CWRMS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vQ1dSTVM%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/70DEF52DAC38A4250D9E0F8B886F48F309E1136479E8259A82FDE13CE704019D.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DAODAO",
+    "name": "DAO",
+    "symbol": "DAODAO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vREFPREFP&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/8A7AE831942ECD252E5D446787CAD2E64EC2179594BCA83C5447DD580937F86A.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DARKSIDE",
+    "name": "Darkside",
+    "symbol": "DARKSIDE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vREFSS1NJREU%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/469487B83432178BB91FBCC8B5376D50DF8B192A62AA84232B656E563CD7CB6E.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DJJTGAAP",
+    "name": "DJJOEYTGA ASTEROID PROTOCOL",
+    "symbol": "DJJTGAAP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vREpKVEdBQVA%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/B8766C8B051CD44DE96CCB9EDAF30F724819B5A957D12903A2797248B21B8EE7.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DYM",
+    "name": "Dymension",
+    "symbol": "DYM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRFlN&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/01CD604F7F401E23214AFA2728283C62A926662346EC4EE1C0D185C6CAE86EEE.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/DYOR",
+    "name": "Do Your Own Research",
+    "symbol": "DYOR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRFlPUg%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/1E5CAC7963DF627E02F054547AA93BC1EBCA1912AA26B2354165727D85E2F93A.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/EBC",
+    "name": "Ethan Bryan Cock",
+    "symbol": "EBC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRUJD&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/D5766E4D0B970A36A8A40B4220D3523B75669C7757431F2D4EC39E5A18D2AEB5.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ELITES",
+    "name": "Elites",
+    "symbol": "ELITES",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRUxJVEVT&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/EED8D94BD8742F2B6B46163B1EECF1D4EDF06E85444B88649B1F3E7ABCDC7573.webp"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/EVILDOGE",
+    "name": "Evil Doge",
+    "symbol": "EVILDOGE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRVZJTERPR0U%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/80EEFD8BA4EA19267CE5660A035EB3CAB4B9C2C883EBBDFB58D0F5733C92DA73.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/EXTRA",
+    "name": "The Asteroidal Alien Association",
+    "symbol": "EXTRA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRVhUUkE%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/BB166EE1259CBAF6E489874C41DCC56CB1ECFE3AA796A6AB7563A0A7E58E924C.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/FEPE",
+    "name": "FEPE",
+    "symbol": "FEPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRkVQRQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/7C714FB00613940A54EA40951F4BE2085D9C3DDA9AE2D39FFC3723724A063F7B.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/FIBRIL",
+    "name": "FIBRIL THE FERTILIZER",
+    "symbol": "FIBRIL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vRklCUklM&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/8E3E4A5B276E59728A296179F3E689B3D3A71660C7A47BB1C4A549346A502D00.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/GREED",
+    "name": "GREED",
+    "symbol": "GREED",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vR1JFRUQ%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/32877C8C5344AB2BF594ED417B95AEE692DBCB458F29D7641E15C214175784F2.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/IBCG",
+    "name": "IBC Gangsters",
+    "symbol": "IBCG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vSUJDRw%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/271ED1E29493D15C76AEB4E231FEF61B82E6ACE7703451F2CC1688E119BD459E.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ICOSMOSDAO",
+    "name": "iCosmosDAO",
+    "symbol": "ICOSMOSDAO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vSUNPU01PU0RBTw%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/D1059E907BFBDDC554893415D133B02C0CD93B0FA67BD5DB47E1E5351D692C96.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/JAE",
+    "name": "Atom1kLFGInu",
+    "symbol": "JAE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vSkFF&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/7A35A5185BEFBA296BC8AD7FFC4962FCE3F6DB661D8E8FF4537C78973821B136.webp"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/KUJI",
+    "name": "Kujinscriptions",
+    "symbol": "KUJI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vS1VKSQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/E2B518AB61588271AB725EF88BC021352D02874E884CF9C15DAA97DB29E41D7C.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/LOUNGE",
+    "name": "Zen Lounge",
+    "symbol": "LOUNGE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTE9VTkdF&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/83CD41169E2391E682F71FA6AD2CB927A52F0F524217F331B7C4FF2F89EF6EB3.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MAGA",
+    "name": "Make Atom Great Again",
+    "symbol": "MAGA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTUFHQQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/5310BE9F60C19DAAAC3D873A4DACBB2259022B8F024231715B39A20762AA9366.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MANUTD",
+    "name": "Manchester United",
+    "symbol": "MANUTD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTUFOVVRE&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/7B6DC87CC95DE8EE3CF7303A6BEFB800E52CC5EBC5B5269EB42FD4D7A7B235F5.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MCF",
+    "name": "MicroCosmicFriends",
+    "symbol": "MCF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTUNG&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/47F8F55ACA2C023CB9958572EAB478BE02CF6F797672653D003CBDF851F0C918.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MEMECOIN",
+    "name": "Memecoin",
+    "symbol": "MEMECOIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTUVNRUNPSU4%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/A4E42E94ABF8218B1850D04F66B73281AB0B3C8978C5501A1E2A6C9C98BA0047.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/MONOCLE",
+    "name": "Atomonocles",
+    "symbol": "MONOCLE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTU9OT0NMRQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/DF002A878D0B5811583E3ACC0F7D48D5ED2D9B7570A323F0A62CA0F4AFD48911.gif"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NATIVE",
+    "name": "Native Token",
+    "symbol": "NATIVE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTkFUSVZF&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/1454E5382816BE8EFE0A699E58F25FDE6C2E9CF7A925ECF3291F527420226E26.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NEOR",
+    "name": "Neo Resurrected",
+    "symbol": "NEOR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTkVPUg%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/E5E5C7D2C92FFA9E9D0DEF16E3453909D84CAD97B7EF2E777AA1E9AEEC22ECB1.gif"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NTRX",
+    "name": "New Tron",
+    "symbol": "NTRX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTlRSWA%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/C11D3D7890F5A78F7482402C9E83CFC1D4A77B114C1B3DAC15682AA926B5DE3B.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/OSMOSISLAB",
+    "name": "OSMOSIS ZONE",
+    "symbol": "OSMOSISLAB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vT1NNT1NJU0xBQg%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/89728D5FDE1CB6125F4AE164BC8E8F50266466BE8DDA35A29FB9BA1A444B388B.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PEPE",
+    "name": "PEPE",
+    "symbol": "PEPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUEVQRQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/111758828CC37123CB49247151DAE5C97014CBBD8C75950667F1D96BA077EB59.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PEPE2.0",
+    "name": "PEPE2.0",
+    "symbol": "PEPE2.0",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUEVQRTIuMA%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/33A2E80F7F5BA6F5360F2DD4838D29E179C83752870592A9054C3A094C36FA71.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PEPEC",
+    "name": "PEPE COSMOS COINs",
+    "symbol": "PEPEC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUEVQRUM%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/285BDB4E64DCA8323C30412FD9DB00348C35810319BC4EAA26CDC80E0448C4B0.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PLNT",
+    "name": "PLANET 9",
+    "symbol": "PLNT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUExOVA%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/A488148A2BC437594572C5C39174ABFF7A3E3C7A078AE0CF84CFA16847BAC5E1.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PSPOT",
+    "name": "Prostate",
+    "symbol": "PSPOT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUFNQT1Q%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/24B46E12696DA31ADFB5335F3FBBF74528AEA826C072DC07E95A842A9063D46E.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/PUNKS",
+    "name": "CosmosPunk",
+    "symbol": "PUNKS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUFVOS1M%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/A6922FEBDC0218F7E7CAB6CC551675A5F10AEB885336DDD7A2AAD477A3CF5EB2.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/R-DICK",
+    "name": "ROIDS DICK",
+    "symbol": "R-DICK",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUi1ESUNL&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/1E2A24DC53A49442711004DAC9D11DE98E035F5CF12F5FD9B0CA42724D8B3994.jfif"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/RNBW",
+    "name": "Rainbow Coin",
+    "symbol": "RNBW",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUk5CVw%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/DF79BB9CA714927CC80DE0B924228DB1C525793296D462F67ABECBBA8691450B.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ROCKEET",
+    "name": "Rockeet",
+    "symbol": "ROCKEET",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUk9DS0VFVA%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/2ADC4EFA5B39462B13068A7676BCAE3D1E9A38AB7AA77C7EC31B4036024FD3D9.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ROID",
+    "name": "Asteroids",
+    "symbol": "ROID",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUk9JRA%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/78E084DB84E95EDF66D4D94E96D2EDA985D1B834A1D8BFFEA349C6AF76203F08.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ROIDS",
+    "name": "Asteroids",
+    "symbol": "ROIDS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUk9JRFM%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/FB87E737DEEA418E7E4236DBD7B751679009454BDC2D1A48B0A202AB060B9126.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ROIDS2",
+    "name": "Late for Asteroids",
+    "symbol": "ROIDS2",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vUk9JRFMy&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/1491137AE30F43A4201EB092D801F679B2E24B9256F470001823A43593F03D34.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SHROOMAFIA",
+    "name": "Psychedelic Gangsters",
+    "symbol": "SHROOMAFIA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vU0hST09NQUZJQQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/3863337F762A4706603BFB26AF0ED03212ED3B0A029B534D6BAE647274B10702.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SNOWY",
+    "name": "SNOWY",
+    "symbol": "SNOWY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vU05PV1k%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/BCCD0FABA8FB0CFD60FCEC32A5465E20CF6B2D2E917A471149A195A922FC2932.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STAKE",
+    "name": "StakecitoWifHat",
+    "symbol": "STAKE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vU1RBS0U%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/8E5F2DA52B3CCAA65EDB43BEDDAC831082A30F2A127EC81500D05044577C35C6.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STIM",
+    "name": "Stimulus",
+    "symbol": "STIM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vU1RJTQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/F02233C524D734C97CC87B745B6DC86E0BCDD22454326B24018AD3E831AA6E9F.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STRD",
+    "name": "Stride",
+    "symbol": "STRD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vU1RSRA%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/2481856217574EE14A2433CF90C0BA24D60EE54C140DF49766F829CBAC7983B6.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STROIDS",
+    "name": "stROIDS",
+    "symbol": "STROIDS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vU1RST0lEUw%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/B045605AEDCDC1EB54F83E1D8B20D19A4C326B704F5CC6EC5FCEEED34FFE1161.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SUCRE",
+    "name": "Sucre",
+    "symbol": "SUCRE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vU1VDUkU%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/FE39F276DFA75B880AC0CAEFBA494ACE04BF264127743A5A7E945EF5C5165C19.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/SUNNY",
+    "name": "Sunny Aggarwal Token",
+    "symbol": "SUNNY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vU1VOTlk%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/66E26F55E3A48546296F3F01FC2DC7E303672031BCA0644A32C51475C7C20C0B.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/TIA",
+    "name": "Celestia",
+    "symbol": "TIA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vVElB&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/642933493B28D2023DCB052F6D5B2C1FC6CF24EA90407EDFB1E6432EE0EB47C6.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/TRIPLE7",
+    "name": "777Gaming",
+    "symbol": "TRIPLE7",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vVFJJUExFNw%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/D150FA176A0C626C828647E0D6674EA50226BF537A45FFE527FB7DAA07F13D44.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/VBUCKS",
+    "name": "Vendetta Markets",
+    "symbol": "VBUCKS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vVkJVQ0tT&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/DFF8FF9DA8A82D8FF2C91B63928F308D5C46634DF485B5B451E0B070555BB405.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/VEGGS",
+    "name": "Veggs Token",
+    "symbol": "VEGGS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vVkVHR1M%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/ADBF244740B5BE4321F8E0A984F01249EA574426894C158A83DE810CDD1E8A21.jpe"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WIF",
+    "name": "DogWifHat",
+    "symbol": "WIF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vV0lG&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/4109251BEF0740BA662187393EFCBDE3563C28DFB3C56E90C826B0994A1EB979.png"
+  },
+  {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/WOSM",
+    "name": "Wosmongton",
+    "symbol": "WOSM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vV09TTQ%3D%3D&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/11368F904FB66319B1BDF1DB9E63E0B2F423B8A7DFB1DE838EFEFD4EC2891601.jpe"
+  },
+  {
+    "id": "factory/neutron1ees4460xhj7z6g49fn8z39mg533qw7nh7wtcsj/sloth",
+    "name": "SLOTH",
+    "symbol": "SLOTH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWVlczQ0NjB4aGo3ejZnNDlmbjh6MzltZzUzM3F3N25oN3d0Y3NqL3Nsb3Ro&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
+    "name": "Astroport token",
+    "symbol": "ASTRO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWZmdXM1NTNlZXQ5NzhrMDI0bG1zc3cwY3pzeHdyOTdtZ2d5djg1bHBjc2RrZnQ4djl1ZnN6M3NhMDcvYXN0cm8%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro.svg"
+  },
+  {
+    "id": "factory/neutron1hc446dup098gwau4an2qrmw23n6fc34xus2fdvrkd7vm5mfktxxsyc70ku/octo",
+    "name": "OCTOPUSS Governance Token",
+    "symbol": "OCTO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWhjNDQ2ZHVwMDk4Z3dhdTRhbjJxcm13MjNuNmZjMzR4dXMyZmR2cmtkN3ZtNW1ma3R4eHN5Yzcwa3Uvb2N0bw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "name": "Drop",
+    "symbol": "dATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWs2aHIwZjgzZTd1bjJ3amYyOWNzcGs3ajY5anJuc2trNjVrM2VrMm5qOWR6dHJsenBqNnEwMHJ0c2EvdWRhdG9t&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1m8v9heyw4u7q8g9jl28a6wg5m947druegr6q3cj9vj8dq246nuhsagj24f/crus",
+    "name": "Crus DAO Tocen",
+    "symbol": "Crus",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMW04djloZXl3NHU3cThnOWpsMjhhNndnNW05NDdkcnVlZ3I2cTNjajl2ajhkcTI0Nm51aHNhZ2oyNGYvY3J1cw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
+    "name": "Mars protocol token",
+    "symbol": "MARS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMW5kdTJ3dmtyeHRhbmU4c2UydHI0OGd2N25zbTQ2eTVnY3FqaHV4L01BUlM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
+  },
+  {
+    "id": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/DON",
+    "name": "DON",
+    "symbol": "DON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXB3am4zdHN1bW0zajd2N2NsenFoanNhdWt2NHRkamxjbGhkeXRhd2hldDY4Zndsejg0ZnFjcmR5ZjUvRE9O&pagination.limit=1",
+    "icon": "ipfs://QmXrrqWNh2z9AFobHHkrU4cvdZD1HS37ExjtefoKaKMrad"
+  },
+  {
+    "id": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/NELSON",
+    "name": "Nelson on Neutron",
+    "symbol": "NELSON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXB3am4zdHN1bW0zajd2N2NsenFoanNhdWt2NHRkamxjbGhkeXRhd2hldDY4Zndsejg0ZnFjcmR5ZjUvTkVMU09O&pagination.limit=1",
+    "icon": "ipfs://QmSGybeq553a7NNJvTjfkm1GVpTwT6KJMEuXBDx6jmaJBF"
+  },
+  {
+    "id": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/NFA",
+    "name": "NFA.Zone",
+    "symbol": "NFA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXB3am4zdHN1bW0zajd2N2NsenFoanNhdWt2NHRkamxjbGhkeXRhd2hldDY4Zndsejg0ZnFjcmR5ZjUvTkZB&pagination.limit=1",
+    "icon": "ipfs://QmbqoZx3RdTVMSQ68tuD6yvAcDYVqFZeRdJKdwbhBaFcSW"
+  },
+  {
+    "id": "factory/neutron1pwjn3tsumm3j7v7clzqhjsaukv4tdjlclhdytawhet68fwlz84fqcrdyf5/WOOF",
+    "name": "woof",
+    "symbol": "WOOF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXB3am4zdHN1bW0zajd2N2NsenFoanNhdWt2NHRkamxjbGhkeXRhd2hldDY4Zndsejg0ZnFjcmR5ZjUvV09PRg%3D%3D&pagination.limit=1",
+    "icon": "ipfs://bafybeibe5p2aynoprrqen2cqbwhmzf3exfzn2x5tzsbbxjtbhsx2hx75sa"
+  },
+  {
+    "id": "factory/neutron1qfmcff2w253qha7jf53p4ttqyfccce6k539zgg/acanew",
+    "name": "acANEW",
+    "symbol": "acANEW",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXFmbWNmZjJ3MjUzcWhhN2pmNTNwNHR0cXlmY2NjZTZrNTM5emdnL2FjYW5ldw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1qfmcff2w253qha7jf53p4ttqyfccce6k539zgg/anew",
+    "name": "ANEW",
+    "symbol": "ANEW",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXFmbWNmZjJ3MjUzcWhhN2pmNTNwNHR0cXlmY2NjZTZrNTM5emdnL2FuZXc%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1qm224945hrkwc5qze40tau499n46ydmulpeagscmsuyxfrds02usf7mnpu/scrap",
+    "name": "SCRAP",
+    "symbol": "SCRAP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXFtMjI0OTQ1aHJrd2M1cXplNDB0YXU0OTluNDZ5ZG11bHBlYWdzY21zdXl4ZnJkczAydXNmN21ucHUvc2NyYXA%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1r0gzk2gxpn95mvx6nvwpnm3dj5nt7j4rezkyjw27w6hydjurq9uq3yh562/test",
+    "name": "testing dao token",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXIwZ3prMmd4cG45NW12eDZudndwbm0zZGo1bnQ3ajRyZXpreWp3Mjd3Nmh5ZGp1cnE5dXEzeWg1NjIvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1r89rnk4uu3dq4z44cxvl6809cwq7s0edfeja5lny3xueatkargqs7pfz9f/udatom",
+    "name": "Drop",
+    "symbol": "dATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXI4OXJuazR1dTNkcTR6NDRjeHZsNjgwOWN3cTdzMGVkZmVqYTVsbnkzeHVlYXRrYXJncXM3cGZ6OWYvdWRhdG9t&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1rd5mw7k8g3wuncluq9psdv0tryck75p7wtmvwqf5s8wt43498afs9snexm/test",
+    "name": "pls ignore",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXJkNW13N2s4ZzN3dW5jbHVxOXBzZHYwdHJ5Y2s3NXA3d3RtdndxZjVzOHd0NDM0OThhZnM5c25leG0vdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1shwxlkpdjd8h5wdtrykypwd2v62z5glr95yp0etdcspkkjwm5meq82ndxs/amatom",
+    "name": "amATOM",
+    "symbol": "amATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXNod3hsa3BkamQ4aDV3ZHRyeWt5cHdkMnY2Mno1Z2xyOTV5cDBldGRjc3Bra2p3bTVtZXE4Mm5keHMvYW1hdG9t&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1t8j8qsdjuat8ghqqda8t3wvrcl5gywaavw6zem2ylmkpshh2k8jsrl2jhj/ifth",
+    "name": "If Then Token",
+    "symbol": "IfTh",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXQ4ajhxc2RqdWF0OGdocXFkYTh0M3d2cmNsNWd5d2Fhdnc2emVtMnlsbWtwc2hoMms4anNybDJqaGovaWZ0aA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1utv6r92w5w0s4g37qr8qavx8jgfeus6yyux2hs/acsimon",
+    "name": "acSIMON",
+    "symbol": "acSM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXV0djZyOTJ3NXcwczRnMzdxcjhxYXZ4OGpnZmV1czZ5eXV4MmhzL2Fjc2ltb24%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1utv6r92w5w0s4g37qr8qavx8jgfeus6yyux2hs/simon",
+    "name": "SIMONO",
+    "symbol": "SIMONO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXV0djZyOTJ3NXcwczRnMzdxcjhxYXZ4OGpnZmV1czZ5eXV4MmhzL3NpbW9u&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1vlf0wsvq2r47r9tdsmyl48ahf6szjqcnqr3ks003q6urr36u9mwqswuhxm/incel",
+    "name": "INCEL",
+    "symbol": "INCEL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXZsZjB3c3ZxMnI0N3I5dGRzbXlsNDhhaGY2c3pqcWNucXIza3MwMDNxNnVycjM2dTltd3Fzd3VoeG0vaW5jZWw%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1vqkzsmthv5w5zt349ylpnr9n6jkw6dqx0s2fge6dldp2eawhuahskj0fwm/yield",
+    "name": "YIELD",
+    "symbol": "YIELD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXZxa3pzbXRodjV3NXp0MzQ5eWxwbnI5bjZqa3c2ZHF4MHMyZmdlNmRsZHAyZWF3aHVhaHNrajBmd20veWllbGQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1z92l5hfgng36h3vewzwkkwzudmfm5vdx0jmkj5djswrrhfvyakzqyrr40x/degenft",
+    "name": "DEGENFT",
+    "symbol": "DEGENFT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXo5Mmw1aGZnbmczNmgzdmV3endra3d6dWRtZm01dmR4MGpta2o1ZGpzd3JyaGZ2eWFrenF5cnI0MHgvZGVnZW5mdA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1zkzg8r7zrsth36whp09l2rqlzmyglg3us2atatp6ha5ual5waq3swjzfc3/copntest",
+    "name": "COP test Noble COOP",
+    "symbol": "COPNTEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXpremc4cjd6cnN0aDM2d2hwMDlsMnJxbHpteWdsZzN1czJhdGF0cDZoYTV1YWw1d2FxM3N3anpmYzMvY29wbnRlc3Q%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1zl2htquajn50vxu5ltz0y5hf2qzvkgnjaaza2rssef268xplq6vsjuruxm/fuel",
+    "name": "FUEL",
+    "symbol": "FUEL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXpsMmh0cXVham41MHZ4dTVsdHoweTVoZjJxenZrZ25qYWF6YTJyc3NlZjI2OHhwbHE2dnNqdXJ1eG0vZnVlbA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO",
+    "name": "Staked Astroport Token",
+    "symbol": "xASTRO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://kujira-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXpsZjNodXRzYTRxbm11ZTUzbHoydGZ4cnV0cDh5MmUzcmo0bmtnaGczcnVwZ2w0bXF5OHM1amd4c24veEFTVFJP&pagination.limit=1",
+    "icon": "https://app.astroport.fi/tokens/xAstro.svg"
+  },
+  {
     "id": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
     "origin_chain": "axelar",
     "origin_chain_id": "axelar-dojo-1",
