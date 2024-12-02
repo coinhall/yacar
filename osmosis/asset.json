@@ -602,6 +602,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1gq5hsgc2c4qrs7z274lusfmrx3h4u670lgme8su8j0vsf8zullsss8kepx/ttf",
+    "name": "Test TokenFactory",
+    "symbol": "TTF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWdxNWhzZ2MyYzRxcnM3ejI3NGx1c2ZtcngzaDR1NjcwbGdtZThzdThqMHZzZjh6dWxsc3NzOGtlcHgvdHRm&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1hg0zf0c9can4tvtulh5gmmxe4jpflre3yewxjl/XTRUMP",
     "entity": "Trump Kemistry",
     "name": "XTRUMP",
