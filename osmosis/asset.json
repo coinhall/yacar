@@ -557,6 +557,15 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWZ5NnQ5ODZrc25kZzZwMDlwNHFrNTdtdDIzZ3htZzU5Nmg1dWp3NTJ2MDdoNDRrNWQ1dHN2cDVkZTcvYWZkYW8%3D&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1g2dlzpemhq6wjyzlfm40y7frnprcj7rxgm68nvck95ru2qxfud3sh772wf/TTF",
+    "name": "Test TokenFactory",
+    "symbol": "TTF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWcyZGx6cGVtaHE2d2p5emxmbTQweTdmcm5wcmNqN3J4Z202OG52Y2s5NXJ1MnF4ZnVkM3NoNzcyd2YvVFRG&pagination.limit=1",
+    "icon": "https://pngimg.com/d/apple_logo_PNG19689.png"
+  },
+  {
     "id": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqatom",
     "name": "ATOM Squared",
     "symbol": "sqATOM",
