@@ -1165,6 +1165,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1x997dy6ka7y8u0r56yk2k83llspy33yet9zcnq",
+    "name": "TruINJ",
+    "symbol": "TRUINJ",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNGVqcWp5cTh1bTRwM3hmcWo3NHlsZDV3YXFsamY4OGY5ZW5ldWsvaW5qMXg5OTdkeTZrYTd5OHUwcjU2eWsyazgzbGxzcHkzM3lldDl6Y25x&pagination.limit=1"
+  },
+  {
     "id": "factory/inj14epxlhe56lhk5s3nc8wzmetwh6rpehuufe89ak/NODEVNORUG",
     "name": "NODEV NORUG",
     "symbol": "nodevnorug",
