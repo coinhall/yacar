@@ -12675,6 +12675,15 @@
     "icon": "https://dweb.link/ipfs/QmZQaEYqe9DcJEE1CctwV29WNigmL87smKWp5YBAJYXTAV"
   },
   {
+    "id": "factory/osmo1qnglc04tmhg32uc4kxlxh55a5cmhj88cpa3rmtly484xqu82t79sfv94w0/alloyed/allXRP",
+    "name": "Ripple",
+    "symbol": "XRP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXFuZ2xjMDR0bWhnMzJ1YzRreGx4aDU1YTVjbWhqODhjcGEzcm10bHk0ODR4cXU4MnQ3OXNmdjk0dzAvYWxsb3llZC9hbGxYUlA%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/xrpl/images/xrp.svg"
+  },
+  {
     "id": "factory/osmo1r53fx9fvcdzncrs7zkn4gw5vfelx5gk8k5wc6wqha2jpkh992rusr5tk02/alloyed/allDOT",
     "name": "Alloyed DOT",
     "symbol": "allDOT",
@@ -14323,6 +14332,16 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM1Q0VDQzMzMEQxMUREMDBGQUNCNTU1RDA3Njg3NjMxRTBCQzdEMjI2MjYwQ0M1RjAxNUY2RDc5ODA4MTk1MzM%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/humans/images/heart-dark-mode.svg",
     "coingecko": "https://www.coingecko.com/en/coins/humans-ai"
+  },
+  {
+    "id": "ibc/35F2FB6D55E1F4249D81E0E2B4F9F7961BEBE402517609043FD94796412755F0",
+    "name": "amATOM",
+    "symbol": "amATOM",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM1RjJGQjZENTVFMUY0MjQ5RDgxRTBFMkI0RjlGNzk2MUJFQkU0MDI1MTc2MDkwNDNGRDk0Nzk2NDEyNzU1RjA%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM1RjJGQjZENTVFMUY0MjQ5RDgxRTBFMkI0RjlGNzk2MUJFQkU0MDI1MTc2MDkwNDNGRDk0Nzk2NDEyNzU1RjA%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/amATOM.svg"
   },
   {
     "id": "ibc/37CB3078432510EE57B9AFA8DBE028B33AE3280A144826FEAC5F2334CF2C5539",
