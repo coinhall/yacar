@@ -148,6 +148,15 @@
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTRxZm4zeTBodXhhdWFqNmZrbGFyczd5dnVlNG1qcjd0NmVlcGdnaGFjeTRnNnQzdjZncXE5azBrMnEvd2Ricm4%3D&pagination.limit=1"
   },
   {
+    "id": "factory/osmo15e8cremjk8wskmx56jpmxxdnpaq39j5c948z2u/test",
+    "name": "Test token",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTVlOGNyZW1qazh3c2tteDU2anBteHhkbnBhcTM5ajVjOTQ4ejJ1L3Rlc3Q%3D&pagination.limit=1",
+    "icon": "https://pngtree.com/freepng/bule-border_3551748.html"
+  },
+  {
     "id": "factory/osmo15vnefu3p0dkkgkzud958nu80j86vyatrl7ghxmumy6jhzs80qlkqgx2zmq/mbt",
     "name": "Meta Builders Token",
     "symbol": "MBT",
