@@ -12693,6 +12693,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allDOT.svg"
   },
   {
+    "id": "factory/osmo1r8c9zgrhuk67ptn5r7qqnkqdmnrq23rrzvc4uqm5qq55vjush0asz2drql/WORLD",
+    "name": "World token",
+    "symbol": "WORLD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXI4Yzl6Z3JodWs2N3B0bjVyN3FxbmtxZG1ucnEyM3JyenZjNHVxbTVxcTU1dmp1c2gwYXN6MmRycWwvV09STEQ%3D&pagination.limit=1",
+    "icon": "https://i.pinimg.com/736x/d1/b2/b2/d1b2b25212d44afdf8e0c71bc0bcd8f6.jpg"
+  },
+  {
     "id": "factory/osmo1rckme96ptawr4zwexxj5g5gej9s2dmud8r2t9j0k0prn5mch5g4snzzwjv/sail",
     "entity": "Sail DAO",
     "name": "Sail DAO token",
