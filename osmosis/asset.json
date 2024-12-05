@@ -14194,6 +14194,20 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/2E3784772E70F7B3A638BA88F65C8BE125D3CDB6E28C6AABC51098C94F5E16A5",
+    "origin_chain": "xion",
+    "origin_chain_id": "xion-mainnet-1",
+    "origin_id": "uxion",
+    "name": "Xion Mainnet",
+    "symbol": "XION",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJFMzc4NDc3MkU3MEY3QjNBNjM4QkE4OEY2NUM4QkUxMjVEM0NEQjZFMjhDNkFBQkM1MTA5OEM5NEY1RTE2QTU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJFMzc4NDc3MkU3MEY3QjNBNjM4QkE4OEY2NUM4QkUxMjVEM0NEQjZFMjhDNkFBQkM1MTA5OEM5NEY1RTE2QTU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/xion/images/burnt-round.png",
+    "coingecko": "https://www.coingecko.com/en/coins/xion-2"
+  },
+  {
     "id": "ibc/2EB516F83C9FF44AB6826F269CA98A5622608C6C955E12112E58F23A324FEE07",
     "origin_chain": "fxcore",
     "origin_chain_id": "fxcore",
