@@ -26,6 +26,15 @@
     "icon": "https://assets.coingecko.com/coins/images/33818/standard/01_ckBTC_Token_HEX__4x.png"
   },
   {
+    "id": "factory/osmo10c4y9csfs8q7mtvfg4p9gd8d0acx0hpc2mte9xqzthd7rd3348tsfhaesm/sICP-native-ICP",
+    "name": "ICP",
+    "symbol": "ICP",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTBjNHk5Y3NmczhxN210dmZnNHA5Z2Q4ZDBhY3gwaHBjMm10ZTl4cXp0aGQ3cmQzMzQ4dHNmaGFlc20vc0lDUC1uYXRpdmUtSUNQ&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/octopus-network/omnity-interoperability/9061b7e2ea9e0717b47010279ff1ffd6f1f4c1fc/assets/token_logo/icp.svg"
+  },
+  {
     "id": "factory/osmo10hp462rtftac2t33zg40ytnwge3syq7hcjc7g7tvk26e7rfsj0gq7px3cq/bar",
     "name": "Barter",
     "symbol": "BAR",
@@ -14192,6 +14201,20 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.svg",
     "coingecko": "https://www.coingecko.com/en/coins/agoric",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/2E3784772E70F7B3A638BA88F65C8BE125D3CDB6E28C6AABC51098C94F5E16A5",
+    "origin_chain": "xion",
+    "origin_chain_id": "xion-mainnet-1",
+    "origin_id": "uxion",
+    "name": "Xion Mainnet",
+    "symbol": "XION",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJFMzc4NDc3MkU3MEY3QjNBNjM4QkE4OEY2NUM4QkUxMjVEM0NEQjZFMjhDNkFBQkM1MTA5OEM5NEY1RTE2QTU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJFMzc4NDc3MkU3MEY3QjNBNjM4QkE4OEY2NUM4QkUxMjVEM0NEQjZFMjhDNkFBQkM1MTA5OEM5NEY1RTE2QTU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/xion/images/burnt-round.png",
+    "coingecko": "https://www.coingecko.com/en/coins/xion-2"
   },
   {
     "id": "ibc/2EB516F83C9FF44AB6826F269CA98A5622608C6C955E12112E58F23A324FEE07",
