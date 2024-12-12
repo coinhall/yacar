@@ -341,6 +341,16 @@
     "lp_token_id": "neutron1cvd37t8hscadcjnm892v0a3j5lht3xgkgxtc6wnepgha09tvlnls28ucee"
   },
   {
+    "id": "nibi1w8k7tllhd9a2qjca4ucd4e56hydvhs5hhqpfhmj47m2zs2twgmxqw7wg39",
+    "asset_ids": [
+      "unibi",
+      "nibi1cehpv50vl90g9qkwwny8mw7txw79zs6f7wsfe8ey7dgp238gpy4qhdqjhm"
+    ],
+    "dex": "Astrovault",
+    "type": "stable",
+    "lp_token_id": "nibi1j4ydqy0kthqzgd8xlp29fc0q8grvyffeq3dgvf2f700x8uxhchlqs2v4mj"
+  },
+  {
     "id": "archway127rzhq22dm4z8ahaevunqaws0wgt5tesgec36g3lghut6dv9qyyswccju3",
     "asset_ids": [
       "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
@@ -829,5 +839,25 @@
     "dex": "Astrovault",
     "type": "xyk",
     "lp_token_id": "neutron1jl5fv8xthcsf6lycasxq84zt03hflc4hz9vdmuhdptkn9gsd3fqs2qcty9"
+  },
+  {
+    "id": "nibi1gn8t6ua4dxc4qzxxnm93fpa8wzmxt99vk6hva3njq05c2jacnnuqdufq9n",
+    "asset_ids": [
+      "tf/nibi1vetfuua65frvf6f458xgtjerf0ra7wwjykrdpuyn0jur5x07awxsfka0ga/axv",
+      "nibi1cehpv50vl90g9qkwwny8mw7txw79zs6f7wsfe8ey7dgp238gpy4qhdqjhm"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "nibi1yqxlye4hvrmzmqrf9dse5g7kzyx2khdh6wqt2ruphnxafk695eds890297"
+  },
+  {
+    "id": "nibi1ndlfc9vus0jfx6e7l7eyddguw006rqx7zsg396wnrs3sn3m5yfls67p7t7",
+    "asset_ids": [
+      "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
+      "nibi1cehpv50vl90g9qkwwny8mw7txw79zs6f7wsfe8ey7dgp238gpy4qhdqjhm"
+    ],
+    "dex": "Astrovault",
+    "type": "xyk",
+    "lp_token_id": "nibi1ukl7een6el22c89nw4hmm2n7tyra4p2yef80s89ndcn4u2aly5nqhy2yk0"
   }
 ]
