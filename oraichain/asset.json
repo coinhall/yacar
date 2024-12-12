@@ -1,5 +1,20 @@
 [
   {
+    "id": "factory/orai1m6nkxgc0pfe4h5x6h5cyy7tjr2yu38n68m4h46/test",
+    "name": "COINS",
+    "symbol": "COINS",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai1wuh4g3euvs3u4vlmn3lljh363wl25t6n9fcydawtlykpw3jgp0kqg83vcc/VHM",
+    "name": "Vuong Hung Mot",
+    "symbol": "VHM",
+    "decimals": "9"
+  },
+  {
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/oraim8c9d1nkfuQk9EzGYEUGxqL3MHQYndRw1huVo5h"
+  },
+  {
     "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/ton",
     "name": "Toncoin",
     "symbol": "TON",
@@ -184,21 +199,5 @@
     "symbol": "TEST",
     "decimals": "6",
     "type": "ow20"
-  },
-  {
-    "id": "orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt",
-    "name": "Milky Token",
-    "symbol": "MILKY",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6",
-    "name": "ORAIX Token",
-    "symbol": "ORAIX",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   }
 ]
