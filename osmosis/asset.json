@@ -15737,6 +15737,16 @@
     "coingecko": "https://www.coingecko.com/en/coins/bluzelle"
   },
   {
+    "id": "ibc/643EBFFC9D4533E93A5CF144FE786A6FB326F4C0C6224F7CB7563CC374EE56EE",
+    "name": "Elys Network",
+    "symbol": "ELYS",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY0M0VCRkZDOUQ0NTMzRTkzQTVDRjE0NEZFNzg2QTZGQjMyNkY0QzBDNjIyNEY3Q0I3NTYzQ0MzNzRFRTU2RUU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzY0M0VCRkZDOUQ0NTMzRTkzQTVDRjE0NEZFNzg2QTZGQjMyNkY0QzBDNjIyNEY3Q0I3NTYzQ0MzNzRFRTU2RUU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/elys/images/elys.png"
+  },
+  {
     "id": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
     "origin_chain": "injective",
     "origin_chain_id": "injective-1",
