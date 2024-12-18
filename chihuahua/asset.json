@@ -698,11 +698,13 @@
   },
   {
     "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
+    "entity": "Chihuahua",
     "name": "CHIHUAHUA",
     "symbol": "CHIHUAHUA",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvQ2hpaHVhaHVh&pagination.limit=1"
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExbXpjZnpoNHVmazJjdGE1OXBtOWE2d2R5dnY4YzR2NWVwcXpqNDYvQ2hpaHVhaHVh&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/chihuahua.png"
   },
   {
     "id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/COIN",
