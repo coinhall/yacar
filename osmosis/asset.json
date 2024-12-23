@@ -17698,6 +17698,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/terraclassicusd"
   },
   {
+    "id": "ibc/BE2B0A9FC3A122C92883D3258098D7C6BB02F8F887E8A0BDE58609E7CA2649B2",
+    "origin_chain": "aaronetwork",
+    "origin_chain_id": "aaronetwork",
+    "origin_id": "uaaron",
+    "name": "Aaron Network",
+    "symbol": "AARON",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JFMkIwQTlGQzNBMTIyQzkyODgzRDMyNTgwOThEN0M2QkIwMkY4Rjg4N0U4QTBCREU1ODYwOUU3Q0EyNjQ5QjI%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JFMkIwQTlGQzNBMTIyQzkyODgzRDMyNTgwOThEN0M2QkIwMkY4Rjg4N0U4QTBCREU1ODYwOUU3Q0EyNjQ5QjI%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/aaronetwork/images/aaron.png"
+  },
+  {
     "id": "ibc/BF685448E564B5A4AC8F6E0493A0B979D0E0BF5EC11F7E15D25A0A2160C944DD",
     "origin_chain": "neutron",
     "origin_chain_id": "neutron-1",
