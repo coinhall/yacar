@@ -5205,6 +5205,15 @@
     "icon": "ipfs://bafkreiaa5xqsk7zmjhgzc7tb7qgycs5dzvshvwvgktmdva6ofaxh3p3bw4"
   },
   {
+    "id": "factory/inj1n636d9gzrqggdk66n2f97th0x8yuhfrtx520e7/ausd",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbjYzNmQ5Z3pycWdnZGs2Nm4yZjk3dGgweDh5dWhmcnR4NTIwZTcvYXVzZA%3D%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/token-icon/AUSD_880px.webp"
+  },
+  {
     "id": "factory/inj1n85jfpxee430qavn9edlkup9kny7aszarag8ed/MADARA",
     "name": "MADARA",
     "symbol": "MDRA",
