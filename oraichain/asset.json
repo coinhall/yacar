@@ -8,6 +8,30 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ton/images/ton.png"
   },
   {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/BVTT",
+    "name": "Bach Van Trung",
+    "symbol": "BVTT",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/SCB",
+    "name": "Sacombank",
+    "symbol": "SCB",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/SHB",
+    "name": "shinhan token",
+    "symbol": "SHB",
+    "decimals": "3"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/TEST1",
+    "name": "test1",
+    "symbol": "TEST1",
+    "decimals": "3"
+  },
+  {
     "id": "ibc/576B1D63E401B6A9A071C78A1D1316D016EC9333D2FEB14AD503FAC4B8731CD1",
     "origin_chain": "neutaro",
     "origin_chain_id": "Neutaro-1",
@@ -177,28 +201,5 @@
     "decimals": "6",
     "type": "ow20",
     "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1nd4r053e3kgedgld2ymen8l9yrw8xpjyaal7j5/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1sz582zwxkd4csscf4zzr9evnrmtah8xlqjxx69",
-    "name": "test Token",
-    "symbol": "TEST",
-    "decimals": "6",
-    "type": "ow20"
-  },
-  {
-    "id": "orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt",
-    "name": "Milky Token",
-    "symbol": "MILKY",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6",
-    "name": "ORAIX Token",
-    "symbol": "ORAIX",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   }
 ]
