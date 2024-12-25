@@ -1,11 +1,56 @@
 [
   {
+    "id": "factory/orai1v5kjdl8et3kkpg78mjscelccrtf6ze6vufqnlvrf5xh5k2c6zxksuwge4u/CAPY",
+    "name": "CAPYBARA",
+    "symbol": "CAPY",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/oraim8c9d1nkfuQk9EzGYEUGxqL3MHQYndRw1huVo5h"
+  },
+  {
     "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/ton",
     "name": "Toncoin",
     "symbol": "TON",
     "decimals": "9",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ton/images/ton.png"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/ACB",
+    "name": "acb bank",
+    "symbol": "ACB",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/HAJUA",
+    "name": "HAUNV",
+    "symbol": "HAJUA",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/LKT",
+    "name": "LT",
+    "symbol": "LKT",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/MY_TEST",
+    "name": "MY_TEST",
+    "symbol": "MY_TEST",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/SCB",
+    "name": "Sacombank",
+    "symbol": "SCB",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/VBP",
+    "name": "VP Bank",
+    "symbol": "VBP",
+    "decimals": "1"
   },
   {
     "id": "ibc/576B1D63E401B6A9A071C78A1D1316D016EC9333D2FEB14AD503FAC4B8731CD1",
@@ -145,60 +190,5 @@
     "decimals": "6",
     "type": "ow20",
     "total_supply": "222000000000000"
-  },
-  {
-    "id": "orai1hn8w33cqvysun2aujk5sv33tku4pgcxhhnsxmvnkfvdxagcx0p8qa4l98q",
-    "name": "Orchai Token",
-    "symbol": "OCH",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1hn8w33cqvysun2aujk5sv33tku4pgcxhhnsxmvnkfvdxagcx0p8qa4l98q/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1llsm2ly9lchj006cw2mmlu8wmhr0sa988sp3m5",
-    "name": "Milky Token",
-    "symbol": "MILKY",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1llsm2ly9lchj006cw2mmlu8wmhr0sa988sp3m5/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1lus0f0rhx8s03gdllx2n6vhkmf0536dv57wfge",
-    "name": "ORAIX Token",
-    "symbol": "ORAIX",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1lus0f0rhx8s03gdllx2n6vhkmf0536dv57wfge/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1nd4r053e3kgedgld2ymen8l9yrw8xpjyaal7j5",
-    "name": "KWT Token",
-    "symbol": "KWT",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1nd4r053e3kgedgld2ymen8l9yrw8xpjyaal7j5/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1sz582zwxkd4csscf4zzr9evnrmtah8xlqjxx69",
-    "name": "test Token",
-    "symbol": "TEST",
-    "decimals": "6",
-    "type": "ow20"
-  },
-  {
-    "id": "orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt",
-    "name": "Milky Token",
-    "symbol": "MILKY",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6",
-    "name": "ORAIX Token",
-    "symbol": "ORAIX",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   }
 ]
