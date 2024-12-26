@@ -1,11 +1,23 @@
 [
   {
+    "id": "factory/orai1v5kjdl8et3kkpg78mjscelccrtf6ze6vufqnlvrf5xh5k2c6zxksuwge4u/KURUMI",
+    "name": " KURUMI",
+    "symbol": "KURUMI",
+    "decimals": "6"
+  },
+  {
     "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/ton",
     "name": "Toncoin",
     "symbol": "TON",
     "decimals": "9",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ton/images/ton.png"
+  },
+  {
+    "id": "factory/orai1ytjgzxvtsq3ukhzmt39cp85j27zzqf5y706y9qrffrnpn3vd3uds957ydu/CTKT2",
+    "name": "Chi Tra Kho Tinh 2",
+    "symbol": "CTKT2",
+    "decimals": "6"
   },
   {
     "id": "ibc/576B1D63E401B6A9A071C78A1D1316D016EC9333D2FEB14AD503FAC4B8731CD1",
@@ -192,13 +204,5 @@
     "decimals": "6",
     "type": "ow20",
     "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6",
-    "name": "ORAIX Token",
-    "symbol": "ORAIX",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   }
 ]
