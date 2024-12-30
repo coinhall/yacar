@@ -17,6 +17,15 @@
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTA2cTI5NzJ6ZjJhOWZycHJ4MHZrZGdzNDltNTc4dnA0NXhuYW01d253NHNneDZmNmZmZnNtamE2cmgvZnRz&pagination.limit=1"
   },
   {
+    "id": "factory/osmo10c4y9csfs8q7mtvfg4p9gd8d0acx0hpc2mte9xqzthd7rd3348tsfhaesm/dogecoin-native-DOGE",
+    "name": "DOGE",
+    "symbol": "DOGE",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTBjNHk5Y3NmczhxN210dmZnNHA5Z2Q4ZDBhY3gwaHBjMm10ZTl4cXp0aGQ3cmQzMzQ4dHNmaGFlc20vZG9nZWNvaW4tbmF0aXZlLURPR0U%3D&pagination.limit=1",
+    "icon": "https://cryptologos.cc/logos/dogecoin-doge-logo.svg"
+  },
+  {
     "id": "factory/osmo10c4y9csfs8q7mtvfg4p9gd8d0acx0hpc2mte9xqzthd7rd3348tsfhaesm/sICP-icrc-ckBTC",
     "name": "ckBTC",
     "symbol": "ckBTC",
