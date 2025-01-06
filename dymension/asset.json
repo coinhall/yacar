@@ -12,6 +12,48 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
+    "id": "gamm/pool/10",
+    "name": "GAMM-10",
+    "symbol": "GAMM-10",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/11",
+    "name": "GAMM-11",
+    "symbol": "GAMM-11",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/2",
+    "name": "GAMM-2",
+    "symbol": "GAMM-2",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/3",
+    "name": "GAMM-3",
+    "symbol": "GAMM-3",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/4",
+    "name": "GAMM-4",
+    "symbol": "GAMM-4",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/5",
+    "name": "GAMM-5",
+    "symbol": "GAMM-5",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/6",
+    "name": "GAMM-6",
+    "symbol": "GAMM-6",
+    "decimals": "18"
+  },
+  {
     "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
     "origin_chain": "evmos",
     "origin_chain_id": "evmos_9001-2",
@@ -202,88 +244,5 @@
     "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
     "coingecko": "https://www.coingecko.com/en/coins/cosmos"
-  },
-  {
-    "id": "ibc/D934516FBE457F3A98AFABD87E0EFF7F95A15325C191EA8CDD7763C702FDDEC2",
-    "origin_chain": "axelar",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "uaxl",
-    "name": "Axelar",
-    "symbol": "AXL",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q5MzQ1MTZGQkU0NTdGM0E5OEFGQUJEODdFMEVGRjdGOTVBMTUzMjVDMTkxRUE4Q0RENzc2M0M3MDJGRERFQzI%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q5MzQ1MTZGQkU0NTdGM0E5OEFGQUJEODdFMEVGRjdGOTVBMTUzMjVDMTkxRUE4Q0RENzc2M0M3MDJGRERFQzI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/axelar"
-  },
-  {
-    "id": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
-    "origin_chain": "axelar",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "weth-wei",
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UzQUIwREZERTlFNzgyMjYyQjc3MEMzMkRGOTRBQzJBOTJCOTNEQzQ4MjUzNzZENkY2Qzg3NEQzQzg3Nzg2NEU%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UzQUIwREZERTlFNzgyMjYyQjc3MEMzMkRGOTRBQzJBOTJCOTNEQzQ4MjUzNzZENkY2Qzg3NEQzQzg3Nzg2NEU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
-    "coingecko": "https://www.coingecko.com/en/coins/axlweth"
-  },
-  {
-    "id": "ibc/F428C5D24BEF8CA22EE74810A583422C12F02865ADAC185678C73015A88227B3",
-    "origin_chain": "osmosis",
-    "origin_chain_id": "osmosis-1",
-    "origin_id": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
-    "name": "milkTIA",
-    "symbol": "milkTIA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0MjhDNUQyNEJFRjhDQTIyRUU3NDgxMEE1ODM0MjJDMTJGMDI4NjVBREFDMTg1Njc4QzczMDE1QTg4MjI3QjM%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0MjhDNUQyNEJFRjhDQTIyRUU3NDgxMEE1ODM0MjJDMTJGMDI4NjVBREFDMTg1Njc4QzczMDE1QTg4MjI3QjM%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/milktia.png",
-    "coingecko": "https://www.coingecko.com/en/coins/milkyway-staked-tia"
-  },
-  {
-    "id": "ibc/F46BA5EDCA6DAA5F7EFD3838430E03647CDC786BB1B89BC9FDD1CBE16B099645",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "stutia",
-    "name": "Stride Staked TIA",
-    "symbol": "stTIA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/sttia.svg"
-  },
-  {
-    "id": "ibc/FB53D1684F155CBB86D9CE917807E42B59209EBE3AD3A92E15EF66586C073942",
-    "origin_chain": "nim",
-    "origin_chain_id": "nim_1122-1",
-    "origin_id": "anim",
-    "name": "NIM Network",
-    "symbol": "NIM",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nim/images/nim.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/nim-network"
-  },
-  {
-    "id": "ibc/FF6C2E86490C1C4FBBD24F55032831D2415B9D7882F85C3CC9C2401D79362BEA",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "ustrd",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride"
   }
 ]
