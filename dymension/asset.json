@@ -12,6 +12,12 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
+    "id": "gamm/pool/2",
+    "name": "GAMM-2",
+    "symbol": "GAMM-2",
+    "decimals": "18"
+  },
+  {
     "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
     "origin_chain": "evmos",
     "origin_chain_id": "evmos_9001-2",
@@ -273,17 +279,9 @@
     "coingecko": "https://www.coingecko.com/en/coins/nim-network"
   },
   {
-    "id": "ibc/FF6C2E86490C1C4FBBD24F55032831D2415B9D7882F85C3CC9C2401D79362BEA",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "ustrd",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride"
+    "id": "IRO/dymensiondoge_269729-1",
+    "name": "IRO/DDOGE",
+    "symbol": "IRO/DDOGE",
+    "decimals": "18"
   }
 ]
