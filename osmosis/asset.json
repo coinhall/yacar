@@ -461,6 +461,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/fGECK.png"
   },
   {
+    "id": "factory/osmo1dywfmhyc8y0wga7qpzej0x0mgwqg25fj4eccp494w8yafzdpgamsx9ryyv/fHAM",
+    "name": "fHAM",
+    "symbol": "fHAM",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWR5d2ZtaHljOHkwd2dhN3FwemVqMHgwbWd3cWcyNWZqNGVjY3A0OTR3OHlhZnpkcGdhbXN4OXJ5eXYvZkhBTQ%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1dywfmhyc8y0wga7qpzej0x0mgwqg25fj4eccp494w8yafzdpgamsx9ryyv/fMAD",
     "name": "fMAD",
     "symbol": "fMAD",
@@ -10742,6 +10750,15 @@
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6m2J4s6BcditXffb3j2GOsbmFK99AfqYAEg&s"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ski",
+    "name": "Skibidi",
+    "symbol": "SKI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc2tp&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmV7ujYtQotgeQeNgiuckLBuyndQccSe7AJiDi7DHAY5sB"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/skibidiohiosigmarizz",
     "name": "SkibidiOhioSigmaRizz",
     "symbol": "SkibidiOhioSigmaRizz",
@@ -16345,6 +16362,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2"
   },
   {
+    "id": "ibc/794CF0A448ECA518B9FEAB3356BD283E8762460F8FE87A013E6F9DBA6C53601C",
+    "origin_chain": "chihuahua",
+    "origin_chain_id": "chihuahua-1",
+    "origin_id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
+    "name": "Chihuahua",
+    "symbol": "CHIHUAHUA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc5NENGMEE0NDhFQ0E1MThCOUZFQUIzMzU2QkQyODNFODc2MjQ2MEY4RkU4N0EwMTNFNkY5REJBNkM1MzYwMUM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc5NENGMEE0NDhFQ0E1MThCOUZFQUIzMzU2QkQyODNFODc2MjQ2MEY4RkU4N0EwMTNFNkY5REJBNkM1MzYwMUM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/chihuahua.png"
+  },
+  {
     "id": "ibc/79A676508A2ECA1021EDDC7BB9CF70CEEC9514C478DA526A5A8B3E78506C2206",
     "origin_chain": "quicksilver",
     "origin_chain_id": "quicksilver-2",
@@ -18280,6 +18310,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/mkr.svg",
     "coingecko": "https://www.coingecko.com/en/coins/maker",
     "verification_tx": "osmosis-main"
+  },
+  {
+    "id": "ibc/D28B585D6B67E2F1479BBA3E949C687289C94D33FFA0720E3A8CB0B244AD8BC6",
+    "origin_chain": "aaronetwork",
+    "origin_chain_id": "aaronetwork",
+    "origin_id": "uaaron",
+    "name": "Aaron Network",
+    "symbol": "AARON",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0QyOEI1ODVENkI2N0UyRjE0NzlCQkEzRTk0OUM2ODcyODlDOTREMzNGRkEwNzIwRTNBOENCMEIyNDRBRDhCQzY%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0QyOEI1ODVENkI2N0UyRjE0NzlCQkEzRTk0OUM2ODcyODlDOTREMzNGRkEwNzIwRTNBOENCMEIyNDRBRDhCQzY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/aaronetwork/images/aaron.png"
   },
   {
     "id": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
