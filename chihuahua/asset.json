@@ -481,6 +481,14 @@
     "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExYWFsM3ZycXV5NXpzc2VuZGs5bGVsbXR5dHRqcng3OGo5NHE1YzQvQnVsbHNoaXQ%3D&pagination.limit=1"
   },
   {
+    "id": "factory/chihuahua1ckt782a2t43f7c4x7gqx3qvnjmzyjvp9ca0r38/crypto",
+    "name": "CRYPTO",
+    "symbol": "CRYPTO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExY2t0NzgyYTJ0NDNmN2M0eDdncXgzcXZuam16eWp2cDljYTByMzgvY3J5cHRv&pagination.limit=1"
+  },
+  {
     "id": "factory/chihuahua1cm8u5cyrf0k6mlt5dhqlsnje7wr58k5uyx29h2/MRC8",
     "name": "MRC8",
     "symbol": "MRC8",
@@ -1332,6 +1340,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExejZqeXZscTltbDJuc2dyMzhzZDY4N3p2eGc2ZXo3bHJmbjY1ZDMvZG9ndXNk&pagination.limit=1"
+  },
+  {
+    "id": "factory/chihuahua1z6jyvlq9ml2nsgr38sd687zvxg6ez7lrfn65d3/worldusd",
+    "name": "WUSD",
+    "symbol": "WUSD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExejZqeXZscTltbDJuc2dyMzhzZDY4N3p2eGc2ZXo3bHJmbjY1ZDMvd29ybGR1c2Q%3D&pagination.limit=1"
   },
   {
     "id": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
