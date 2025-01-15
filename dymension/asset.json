@@ -26,6 +26,12 @@
     "coingecko": "https://www.coingecko.com/en/coins/evmos"
   },
   {
+    "id": "ibc/06E986DAC5B8364D9BA8DEF216F2E2889B53238510BAFADA2A3D2819822E6A5C",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA2RTk4NkRBQzVCODM2NEQ5QkE4REVGMjE2RjJFMjg4OUI1MzIzODUxMEJBRkFEQTJBM0QyODE5ODIyRTZBNUM%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA2RTk4NkRBQzVCODM2NEQ5QkE4REVGMjE2RjJFMjg4OUI1MzIzODUxMEJBRkFEQTJBM0QyODE5ODIyRTZBNUM%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
     "origin_chain": "osmosis",
     "origin_chain_id": "osmosis-1",
@@ -118,6 +124,12 @@
     "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDNThDQzEwOUZCMDY3MDczRjFCODA0ODFFRTlDM0E4NDg0MzMwRkVDQjM1RDI1OTFCMjhFN0UxQTZGQ0Y2NEM%3D&pagination.limit=1",
     "icon": "https://coinhall.astrovault.io/token/logo-arch.svg",
     "coingecko": "https://www.coingecko.com/en/coins/archway"
+  },
+  {
+    "id": "ibc/8EEB88C2234242089595FD03E2BFF059177152F30C50D4072C8F352BD06B888A",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhFRUI4OEMyMjM0MjQyMDg5NTk1RkQwM0UyQkZGMDU5MTc3MTUyRjMwQzUwRDQwNzJDOEYzNTJCRDA2Qjg4OEE%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhFRUI4OEMyMjM0MjQyMDg5NTk1RkQwM0UyQkZGMDU5MTc3MTUyRjMwQzUwRDQwNzJDOEYzNTJCRDA2Qjg4OEE%3D&pagination.limit=1"
   },
   {
     "id": "ibc/AB30D2F9C131AE1EFA8449C74490326BD5ACC40EF69A2D8563994AA05CE0B258",
@@ -271,19 +283,5 @@
     "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nim/images/nim.svg",
     "coingecko": "https://www.coingecko.com/en/coins/nim-network"
-  },
-  {
-    "id": "ibc/FF6C2E86490C1C4FBBD24F55032831D2415B9D7882F85C3CC9C2401D79362BEA",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "ustrd",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride"
   }
 ]
