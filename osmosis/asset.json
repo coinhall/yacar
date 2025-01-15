@@ -14872,6 +14872,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dhealth/images/dhp.svg"
   },
   {
+    "id": "ibc/3D00ACF371FC6B7BC871399B1909DDE18749FA19DE6B7A4F74E1D96BC073B3BC",
+    "origin_chain": "chihuahua",
+    "origin_chain_id": "chihuahua-1",
+    "origin_id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/wirelibertyfence",
+    "name": "wirelibertyfence",
+    "symbol": "WLF",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNEMDBBQ0YzNzFGQzZCN0JDODcxMzk5QjE5MDlEREUxODc0OUZBMTlERTZCN0E0Rjc0RTFEOTZCQzA3M0IzQkM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNEMDBBQ0YzNzFGQzZCN0JDODcxMzk5QjE5MDlEREUxODc0OUZBMTlERTZCN0E0Rjc0RTFEOTZCQzA3M0IzQkM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/wirelibertyfence.png"
+  },
+  {
     "id": "ibc/3DB1721541C94AD19D7735FECED74C227E13F925BDB814392980B40A19C1ED54",
     "origin_chain": "juno",
     "origin_chain_id": "juno-1",
@@ -16353,6 +16366,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/terra-luna-2"
   },
   {
+    "id": "ibc/794CF0A448ECA518B9FEAB3356BD283E8762460F8FE87A013E6F9DBA6C53601C",
+    "origin_chain": "chihuahua",
+    "origin_chain_id": "chihuahua-1",
+    "origin_id": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
+    "name": "Chihuahua",
+    "symbol": "CHIHUAHUA",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc5NENGMEE0NDhFQ0E1MThCOUZFQUIzMzU2QkQyODNFODc2MjQ2MEY4RkU4N0EwMTNFNkY5REJBNkM1MzYwMUM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc5NENGMEE0NDhFQ0E1MThCOUZFQUIzMzU2QkQyODNFODc2MjQ2MEY4RkU4N0EwMTNFNkY5REJBNkM1MzYwMUM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/chihuahua.png"
+  },
+  {
     "id": "ibc/79A676508A2ECA1021EDDC7BB9CF70CEEC9514C478DA526A5A8B3E78506C2206",
     "origin_chain": "quicksilver",
     "origin_chain_id": "quicksilver-2",
@@ -17732,6 +17758,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/shido-2"
   },
   {
+    "id": "ibc/BC26A7A805ECD6822719472BCB7842A48EF09DF206182F8F259B2593EB5D23FB",
+    "origin_chain": "atomone",
+    "origin_chain_id": "atomone-1",
+    "origin_id": "uatone",
+    "name": "AtomOne",
+    "symbol": "ATONE",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JDMjZBN0E4MDVFQ0Q2ODIyNzE5NDcyQkNCNzg0MkE0OEVGMDlERjIwNjE4MkY4RjI1OUIyNTkzRUI1RDIzRkI%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JDMjZBN0E4MDVFQ0Q2ODIyNzE5NDcyQkNCNzg0MkE0OEVGMDlERjIwNjE4MkY4RjI1OUIyNTkzRUI1RDIzRkI%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/atomone/images/atomone.svg"
+  },
+  {
     "id": "ibc/BCDB35B7390806F35E716D275E1E017999F8281A81B6F128F087EF34D1DFA761",
     "name": "Tocyb",
     "symbol": "TOCYB",
@@ -18290,6 +18329,19 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "ibc/D28B585D6B67E2F1479BBA3E949C687289C94D33FFA0720E3A8CB0B244AD8BC6",
+    "origin_chain": "aaronetwork",
+    "origin_chain_id": "aaronetwork",
+    "origin_id": "uaaron",
+    "name": "Aaron Network",
+    "symbol": "AARON",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0QyOEI1ODVENkI2N0UyRjE0NzlCQkEzRTk0OUM2ODcyODlDOTREMzNGRkEwNzIwRTNBOENCMEIyNDRBRDhCQzY%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0QyOEI1ODVENkI2N0UyRjE0NzlCQkEzRTk0OUM2ODcyODlDOTREMzNGRkEwNzIwRTNBOENCMEIyNDRBRDhCQzY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/aaronetwork/images/aaron.png"
+  },
+  {
     "id": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
     "origin_chain": "axelar",
     "origin_chain_id": "axelar-dojo-1",
@@ -18528,6 +18580,19 @@
     "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RDMEQzMzAzQkJFNzM5RTA3MzIyNEQwMzE0Mzg1Qjg4QjI0N0Y1NkQ3MUQ3MjZBOTE0MTRDQ0EyNDRGRkZFN0U%3D&pagination.limit=1",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RDMEQzMzAzQkJFNzM5RTA3MzIyNEQwMzE0Mzg1Qjg4QjI0N0Y1NkQ3MUQ3MjZBOTE0MTRDQ0EyNDRGRkZFN0U%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/mnpu.svg"
+  },
+  {
+    "id": "ibc/DC1DF96AB7F5109433C3D5FDADE83F8EC2D522B80FAB0593BC1A2781F36AD633",
+    "origin_chain": "injective",
+    "origin_chain_id": "injective-1",
+    "origin_id": "factory/inj1llr45x92t7jrqtxvc02gpkcqhqr82dvyzkr4mz/NBZ",
+    "name": "Ninja Blaze",
+    "symbol": "NBZ",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RDMURGOTZBQjdGNTEwOTQzM0MzRDVGREFERTgzRjhFQzJENTIyQjgwRkFCMDU5M0JDMUEyNzgxRjM2QUQ2MzM%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RDMURGOTZBQjdGNTEwOTQzM0MzRDVGREFERTgzRjhFQzJENTIyQjgwRkFCMDU5M0JDMUEyNzgxRjM2QUQ2MzM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/NBZ.svg"
   },
   {
     "id": "ibc/DD3938D8131F41994C1F01F4EB5233DEE9A0A5B787545B9A07A321925655BF38",
