@@ -510,13 +510,13 @@
     "origin_chain": "axelar",
     "origin_chain_id": "axelar-dojo-1",
     "origin_id": "wsteth-wei",
-    "name": "Axelar Wrapped Lido Staked Ether",
-    "symbol": "axlwstETH",
+    "name": "Wrapped Lido Staked Ether",
+    "symbol": "wstETH",
     "decimals": "18",
     "type": "ibc",
     "circ_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3QzVFQ0FFM0FBQTczODJBQzkzQ0ZFOTcxQ0EyRjlCNjY5MzIzRkRGNUE1QTEzOEI1MzVFNEY5RUFEMTg1QkQ%3D&pagination.limit=1",
     "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3QzVFQ0FFM0FBQTczODJBQzkzQ0ZFOTcxQ0EyRjlCNjY5MzIzRkRGNUE1QTEzOEI1MzVFNEY5RUFEMTg1QkQ%3D&pagination.limit=1",
-    "icon": "https://assets.terra.dev/icon/svg/ibc/wstETH.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg"
   },
   {
     "id": "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
