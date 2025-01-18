@@ -1494,11 +1494,13 @@
   },
   {
     "id": "factory/neutron1zl2htquajn50vxu5ltz0y5hf2qzvkgnjaaza2rssef268xplq6vsjuruxm/fuel",
+    "entity": "FUEL",
     "name": "FUEL",
     "symbol": "FUEL",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXpsMmh0cXVham41MHZ4dTVsdHoweTVoZjJxenZrZ25qYWF6YTJyc3NlZjI2OHhwbHE2dnNqdXJ1eG0vZnVlbA%3D%3D&pagination.limit=1"
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXpsMmh0cXVham41MHZ4dTVsdHoweTVoZjJxenZrZ25qYWF6YTJyc3NlZjI2OHhwbHE2dnNqdXJ1eG0vZnVlbA%3D%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/fuel.png"
   },
   {
     "id": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO",
