@@ -6294,6 +6294,15 @@
     "icon": "https://bafkreieybh474d7mb6rvnmkdjfbts2l2pb3i7wk5xpgh3y5fu5ip5pwic4.ipfs.nftstorage.link"
   },
   {
+    "id": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BITCOIN",
+    "name": "Bitcoin",
+    "symbol": "BITCOIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxczlocjV6ZnozeHJremNoZGU5NGhkMmQwZWRqczRxNW1ycXJ6NngvQklUQ09JTg%3D%3D&pagination.limit=1",
+    "icon": "ipfs://QmeZ6vBKmCB5CUVHX9gGi7iTbRH1xELQEaTikHShmwnJxN"
+  },
+  {
     "id": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/INC",
     "name": "instantnoodles",
     "symbol": "INC",
