@@ -63,24 +63,30 @@
   },
   {
     "id": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
+    "entity": "Sara",
     "name": "SARA",
     "symbol": "SARA",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/coreum/images/sara.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/pulsara"
   },
   {
     "id": "xrpl11278ecf9e-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
     "name": "XRPL11278ECF9E",
     "symbol": "XRPL11278ECF9E",
     "decimals": "15",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/xrpl/images/solo.svg"
   },
   {
     "id": "xrpl570c00a604-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
     "name": "XRPL570C00A604",
     "symbol": "XRPL570C00A604",
     "decimals": "15",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/xrpl/images/rlusd.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/ripple-usd"
   },
   {
     "id": "xrpl691210a91a-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
