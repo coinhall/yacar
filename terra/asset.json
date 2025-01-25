@@ -19,6 +19,14 @@
     "icon": "https://i.ibb.co/Jk1FqRD/IMG-2486.png"
   },
   {
+    "id": "factory/terra1dvvduq0uegn9juch9v0fc97fff3c85nu9f9gveu83dldej07jxysyrrg7m/rise",
+    "name": "PhoenixRise MEME",
+    "symbol": "RISE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS90ZXJyYTFkdnZkdXEwdWVnbjlqdWNoOXYwZmM5N2ZmZjNjODVudTlmOWd2ZXU4M2RsZGVqMDdqeHlzeXJyZzdtL3Jpc2U%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/terra1hj8vslywgrgwuluajuggzpgcudk5fc9d4e6la08426dffgyl7ujs8a3e88/bcoin",
     "name": "BukeleCoin",
     "symbol": "BCOIN",
@@ -507,6 +515,9 @@
   },
   {
     "id": "ibc/57C5ECAE3AAA7382AC93CFE971CA2F9B669323FDF5A5A138B535E4F9EAD185BD",
+    "origin_chain": "axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wsteth-wei",
     "name": "Axelar Wrapped Lido Staked Ether",
     "symbol": "axlwstETH",
     "decimals": "18",
