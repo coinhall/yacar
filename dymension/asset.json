@@ -12,6 +12,30 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
+    "id": "gamm/pool/1",
+    "name": "GAMM-1",
+    "symbol": "GAMM-1",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/14",
+    "name": "GAMM-14",
+    "symbol": "GAMM-14",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/17",
+    "name": "GAMM-17",
+    "symbol": "GAMM-17",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/2",
+    "name": "GAMM-2",
+    "symbol": "GAMM-2",
+    "decimals": "18"
+  },
+  {
     "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
     "origin_chain": "evmos",
     "origin_chain_id": "evmos_9001-2",
@@ -244,46 +268,5 @@
     "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0MjhDNUQyNEJFRjhDQTIyRUU3NDgxMEE1ODM0MjJDMTJGMDI4NjVBREFDMTg1Njc4QzczMDE1QTg4MjI3QjM%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/milktia.png",
     "coingecko": "https://www.coingecko.com/en/coins/milkyway-staked-tia"
-  },
-  {
-    "id": "ibc/F46BA5EDCA6DAA5F7EFD3838430E03647CDC786BB1B89BC9FDD1CBE16B099645",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "stutia",
-    "name": "Stride Staked TIA",
-    "symbol": "stTIA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/sttia.svg"
-  },
-  {
-    "id": "ibc/FB53D1684F155CBB86D9CE917807E42B59209EBE3AD3A92E15EF66586C073942",
-    "origin_chain": "nim",
-    "origin_chain_id": "nim_1122-1",
-    "origin_id": "anim",
-    "name": "NIM Network",
-    "symbol": "NIM",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nim/images/nim.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/nim-network"
-  },
-  {
-    "id": "ibc/FF6C2E86490C1C4FBBD24F55032831D2415B9D7882F85C3CC9C2401D79362BEA",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "ustrd",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride"
   }
 ]
