@@ -6339,15 +6339,18 @@
   },
   {
     "id": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BITCOIN",
+    "entity": "Cosmos Bitcoin",
     "name": "Bitcoin",
     "symbol": "BITCOIN",
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxczlocjV6ZnozeHJremNoZGU5NGhkMmQwZWRqczRxNW1ycXJ6NngvQklUQ09JTg%3D%3D&pagination.limit=1",
-    "icon": "ipfs://QmeZ6vBKmCB5CUVHX9gGi7iTbRH1xELQEaTikHShmwnJxN"
+    "icon": "ipfs://QmeZ6vBKmCB5CUVHX9gGi7iTbRH1xELQEaTikHShmwnJxN",
+    "coingecko": "https://www.coingecko.com/en/coins/ "
   },
   {
     "id": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BRICS",
+    "entity": "Bricscoin",
     "name": "Bricscoin",
     "symbol": "BRICS",
     "decimals": "6",
@@ -6357,6 +6360,7 @@
   },
   {
     "id": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/CRYPTO",
+    "entity": "Crypto",
     "name": "Crypto",
     "symbol": "CRYPTO",
     "decimals": "6",
@@ -6366,6 +6370,7 @@
   },
   {
     "id": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/INC",
+    "entity": "Instant Noodles Coin",
     "name": "instantnoodles",
     "symbol": "INC",
     "decimals": "6",
