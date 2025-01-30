@@ -120,6 +120,12 @@
     "coingecko": "https://www.coingecko.com/en/coins/archway"
   },
   {
+    "id": "ibc/7585D73046673D3A8E6BD632DD29778082DC3F97B2E045D8495ADEFB15EB90AA",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc1ODVENzMwNDY2NzNEM0E4RTZCRDYzMkREMjk3NzgwODJEQzNGOTdCMkUwNDVEODQ5NUFERUZCMTVFQjkwQUE%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc1ODVENzMwNDY2NzNEM0E4RTZCRDYzMkREMjk3NzgwODJEQzNGOTdCMkUwNDVEODQ5NUFERUZCMTVFQjkwQUE%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/AB30D2F9C131AE1EFA8449C74490326BD5ACC40EF69A2D8563994AA05CE0B258",
     "origin_chain": "stride",
     "origin_chain_id": "stride-1",
