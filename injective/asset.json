@@ -1255,6 +1255,22 @@
     "icon": "ipfs://bafkreihqrvhvzdyq56qh2pcle2fe5kzb34afksk46qxk74e2v4tb35gl5q"
   },
   {
+    "id": "factory/inj14jyhvnant6plc3ej7wa25fadpkmcxlh4lepm5g/BILL",
+    "name": "Billion Dollar Coin",
+    "symbol": "BILL",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNGp5aHZuYW50NnBsYzNlajd3YTI1ZmFkcGttY3hsaDRsZXBtNWcvQklMTA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/inj14jyhvnant6plc3ej7wa25fadpkmcxlh4lepm5g/BILLS",
+    "name": "Billion Dollar Coin",
+    "symbol": "BILLS",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNGp5aHZuYW50NnBsYzNlajd3YTI1ZmFkcGttY3hsaDRsZXBtNWcvQklMTFM%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
     "entity": "Autism",
     "name": "AUTISM",
