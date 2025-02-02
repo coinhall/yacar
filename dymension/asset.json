@@ -12,6 +12,18 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
+    "id": "gamm/pool/16",
+    "name": "GAMM-16",
+    "symbol": "GAMM-16",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/3",
+    "name": "GAMM-3",
+    "symbol": "GAMM-3",
+    "decimals": "18"
+  },
+  {
     "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
     "origin_chain": "evmos",
     "origin_chain_id": "evmos_9001-2",
@@ -118,6 +130,12 @@
     "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDNThDQzEwOUZCMDY3MDczRjFCODA0ODFFRTlDM0E4NDg0MzMwRkVDQjM1RDI1OTFCMjhFN0UxQTZGQ0Y2NEM%3D&pagination.limit=1",
     "icon": "https://coinhall.astrovault.io/token/logo-arch.svg",
     "coingecko": "https://www.coingecko.com/en/coins/archway"
+  },
+  {
+    "id": "ibc/A526E143013686502D5D19F5FCAF34BB2082B8BB72960F1D63B568ECB136BEBA",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0E1MjZFMTQzMDEzNjg2NTAyRDVEMTlGNUZDQUYzNEJCMjA4MkI4QkI3Mjk2MEYxRDYzQjU2OEVDQjEzNkJFQkE%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0E1MjZFMTQzMDEzNjg2NTAyRDVEMTlGNUZDQUYzNEJCMjA4MkI4QkI3Mjk2MEYxRDYzQjU2OEVDQjEzNkJFQkE%3D&pagination.limit=1"
   },
   {
     "id": "ibc/AB30D2F9C131AE1EFA8449C74490326BD5ACC40EF69A2D8563994AA05CE0B258",
@@ -246,44 +264,9 @@
     "coingecko": "https://www.coingecko.com/en/coins/milkyway-staked-tia"
   },
   {
-    "id": "ibc/F46BA5EDCA6DAA5F7EFD3838430E03647CDC786BB1B89BC9FDD1CBE16B099645",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "stutia",
-    "name": "Stride Staked TIA",
-    "symbol": "stTIA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/sttia.svg"
-  },
-  {
-    "id": "ibc/FB53D1684F155CBB86D9CE917807E42B59209EBE3AD3A92E15EF66586C073942",
-    "origin_chain": "nim",
-    "origin_chain_id": "nim_1122-1",
-    "origin_id": "anim",
-    "name": "NIM Network",
-    "symbol": "NIM",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nim/images/nim.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/nim-network"
-  },
-  {
-    "id": "ibc/FF6C2E86490C1C4FBBD24F55032831D2415B9D7882F85C3CC9C2401D79362BEA",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "ustrd",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride"
+    "id": "IRO/shrekkkkkkk_583486-1",
+    "name": "IRO/SHREK",
+    "symbol": "IRO/SHREK",
+    "decimals": "18"
   }
 ]
