@@ -470,6 +470,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno1zjqsel42pj5e6wvxxw7hjs9gn06yqz4m3ffyua3x2v44m4l8trjsr92q9s/empr",
+    "name": "Emporion Staking Coin",
+    "symbol": "EMPR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXpqcXNlbDQycGo1ZTZ3dnh4dzdoanM5Z24wNnlxejRtM2ZmeXVhM3gydjQ0bTRsOHRyanNyOTJxOXMvZW1wcg%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
     "origin_chain": "bitsong",
     "origin_chain_id": "bitsong-2b",
