@@ -2615,6 +2615,14 @@
     "icon": "ipfs://bafkreih3hfxb3hs3g7l3nvtb6ojfb6sf6pot74zxbfvj5n77phkkloq7za"
   },
   {
+    "id": "factory/inj1aglxesx45amx6567hnfgmyrtgjnarwq8gn3wnz/SOL",
+    "name": "SOL",
+    "symbol": "SOL",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxYWdseGVzeDQ1YW14NjU2N2huZmdteXJ0Z2puYXJ3cThnbjN3bnovU09M&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1aj47a2vflavw92yyhn7rpa32f0dazf5cfj59v8/binjans",
     "name": "BINJANS",
     "symbol": "BINJANS",
