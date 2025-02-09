@@ -3685,6 +3685,14 @@
     "icon": "https://www.spuun.xyz/logob.png"
   },
   {
+    "id": "factory/inj1fnph0kalvlzrphxlkzzaz5339w8s8g843d22y8/test",
+    "name": "test",
+    "symbol": "test",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZm5waDBrYWx2bHpycGh4bGt6emF6NTMzOXc4czhnODQzZDIyeTgvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1fnpmp99kclt00kst3ht8g0g44erxr5wx6fem9x/MOL",
     "name": "injective",
     "symbol": "MOL",
