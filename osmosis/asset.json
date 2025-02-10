@@ -16918,6 +16918,18 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/int3bch.png"
   },
   {
+    "id": "ibc/8765FF0D37A7A85357ED28061EDEBC736743216DB06FE92231957CE158FB351E",
+    "origin_chain": "sidechain",
+    "origin_chain_id": "sidechain-1",
+    "origin_id": "sat",
+    "name": "BTC-pegged token on Side Chain",
+    "symbol": "SBTC",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzg3NjVGRjBEMzdBN0E4NTM1N0VEMjgwNjFFREVCQzczNjc0MzIxNkRCMDZGRTkyMjMxOTU3Q0UxNThGQjM1MUU%3D&pagination.limit=1",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzg3NjVGRjBEMzdBN0E4NTM1N0VEMjgwNjFFREVCQzczNjc0MzIxNkRCMDZGRTkyMjMxOTU3Q0UxNThGQjM1MUU%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/884EBC228DFCE8F1304D917A712AA9611427A6C1ECC3179B2E91D7468FB091A2",
     "origin_chain": "injective",
     "origin_chain_id": "injective-1",
