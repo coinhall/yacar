@@ -1,5 +1,13 @@
 [
   {
+    "id": "aqarch",
+    "name": "Quicksilver Liquid Staked ARCH",
+    "symbol": "qARCH",
+    "decimals": "18",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qarch.svg"
+  },
+  {
     "id": "aqdydx",
     "name": "Quicksilver Liquid Staked DYDX",
     "symbol": "qDYDX",
@@ -32,6 +40,14 @@
     "type": "native",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qck.png",
     "coingecko": "https://www.coingecko.com/en/coins/quicksilver"
+  },
+  {
+    "id": "uqflix",
+    "name": "Quicksilver Liquid Staked FLIX",
+    "symbol": "qFLIX",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qflix.svg"
   },
   {
     "id": "uqjuno",
