@@ -1160,6 +1160,14 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWVlczQ0NjB4aGo3ejZnNDlmbjh6MzltZzUzM3F3N25oN3d0Y3NqL3Nsb3Ro&pagination.limit=1"
   },
   {
+    "id": "factory/neutron1euscqp0yrd7kx9ehh25mmjg4u3p3pdru70fckmzpajn50tgrhe9qmkljhm/fund",
+    "name": "fundDAO",
+    "symbol": "fund",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWV1c2NxcDB5cmQ3a3g5ZWhoMjVtbWpnNHUzcDNwZHJ1NzBmY2ttenBham41MHRncmhlOXFta2xqaG0vZnVuZA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
     "entity": "Astroport",
     "name": "Astroport",
