@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sat",
+    "entity": "BTC-pegged token on Side Chain",
+    "name": "BTC-pegged token on Side Chain",
+    "symbol": "SBTC",
+    "decimals": "8",
+    "type": "native"
+  },
+  {
+    "id": "uside",
+    "entity": "Side Chain native token",
+    "name": "Side Chain native token",
+    "symbol": "SIDE",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sidechain/images/side.svg"
+  }
+]
