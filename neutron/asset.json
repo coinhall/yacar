@@ -1482,6 +1482,14 @@
     "icon": "https://i.ibb.co/h27VC32/cartel.png"
   },
   {
+    "id": "factory/neutron1xem9uuwv29tlw2eejpq0pnk2r975jpzc4v697r9xfaxc9csgzq9sdmchf9/fund",
+    "name": "fundDAO",
+    "symbol": "fund",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXhlbTl1dXd2Mjl0bHcyZWVqcHEwcG5rMnI5NzVqcHpjNHY2OTdyOXhmYXhjOWNzZ3pxOXNkbWNoZjkvZnVuZA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1yqj9vcc0y73xfxjzegaj4v8q0zefevnlpuh4rj/GODDARD",
     "entity": "GODDARD",
     "name": "GODDARD",
