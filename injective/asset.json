@@ -8083,6 +8083,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1x08lmtq2np4yhg7ae9fvwu9axydkukz49ex6vz/SOL",
+    "name": "SOL",
+    "symbol": "SOL",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxeDA4bG10cTJucDR5aGc3YWU5ZnZ3dTlheHlka3VrejQ5ZXg2dnovU09M&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1x5thnvjfwzmtxxhqckrap8ysgs2duy29m4xwsp/sansu",
     "name": "SANSU",
     "symbol": "SANSU",
