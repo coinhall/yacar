@@ -802,6 +802,14 @@
     "icon": "https://pbs.twimg.com/profile_images/1736635476193263616/XqV-5XOf_400x400.jpg"
   },
   {
+    "id": "factory/inj13jyz77lpvz3s3hx7s9z78l38vsuxa8yjzv6v3g/BTC",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxM2p5ejc3bHB2ejNzM2h4N3M5ejc4bDM4dnN1eGE4eWp6djZ2M2cvQlRD&pagination.limit=1"
+  },
+  {
     "id": "factory/inj13m5k0v69lrrng4y3h5895dlkr6zcp272jmhrve/Ninjutsu",
     "entity": "NINJUTSU",
     "name": "NINJUTSU",
@@ -5375,6 +5383,14 @@
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbXV4MGhlNjh1bWpwY3k4bHRlZmV1eG05aGEyd3czNjg5cnYyZzQvVEVTVDEz&pagination.limit=1",
     "icon": "ipfs://bafkreig4rygi7chlztp6hyfilndebtssp6xfakeben2xkupgbiidagw5wm"
+  },
+  {
+    "id": "factory/inj1mvn98g04ftlglkwrfk2n73s0a3lu7v5vca0uhm/BTC",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbXZuOThnMDRmdGxnbGt3cmZrMm43M3MwYTNsdTd2NXZjYTB1aG0vQlRD&pagination.limit=1"
   },
   {
     "id": "factory/inj1mwsgdlq6rxs3xte8p2m0pcw565czhgngrxgl38/Santa",
