@@ -4420,6 +4420,14 @@
     "icon": "https://i.ibb.co/bHD9zb0/injectools.jpg"
   },
   {
+    "id": "factory/inj1j8qealwukl6j39zkmz0sqq9n0qjqnuc8dctc0h/BTC",
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxajhxZWFsd3VrbDZqMzl6a216MHNxcTluMHFqcW51YzhkY3RjMGgvQlRD&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1ja9dyvqlx5u7rvlevmjwhr29p42424242pp3wn/CROCO",
     "name": "CROCO",
     "symbol": "CROCO",
