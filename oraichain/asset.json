@@ -8,6 +8,17 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ton/images/ton.png"
   },
   {
+    "id": "ibc/0BF3CC1D5561F75EFCAE3B74E8B8348BD93732B3B9B7A81F1871C409FADD057A",
+    "origin_chain": "stargaze",
+    "origin_chain_id": "stargaze-1",
+    "origin_id": "ustars",
+    "type": "ibc",
+    "circ_supply_api": "https://api-orai.blockval.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCRjNDQzFENTU2MUY3NUVGQ0FFM0I3NEU4QjgzNDhCRDkzNzMyQjNCOUI3QTgxRjE4NzFDNDA5RkFERDA1N0E%3D&pagination.limit=1",
+    "total_supply_api": "https://api-orai.blockval.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCRjNDQzFENTU2MUY3NUVGQ0FFM0I3NEU4QjgzNDhCRDkzNzMyQjNCOUI3QTgxRjE4NzFDNDA5RkFERDA1N0E%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/stargaze"
+  },
+  {
     "id": "ibc/576B1D63E401B6A9A071C78A1D1316D016EC9333D2FEB14AD503FAC4B8731CD1",
     "origin_chain": "neutaro",
     "origin_chain_id": "Neutaro-1",
