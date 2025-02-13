@@ -3683,6 +3683,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/usd-coin"
   },
   {
+    "id": "ibc/E0C7F36BFCEE38D8B2BF70B12046B7B3388B2D603EABD547DC5CCF99D160294E",
+    "origin_chain": "injective",
+    "origin_chain_id": "injective-1",
+    "origin_id": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "name": "ibc/E0C7F36BFCEE38D8B2BF70B12046B7B3388B2D603EABD547DC5CCF99D160294E",
+    "symbol": "ibc/E0C7F36BFCEE38D8B2BF70B12046B7B3388B2D603EABD547DC5CCF99D160294E",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UwQzdGMzZCRkNFRTM4RDhCMkJGNzBCMTIwNDZCN0IzMzg4QjJENjAzRUFCRDU0N0RDNUNDRjk5RDE2MDI5NEU%3D&pagination.limit=1",
+    "total_supply_api": "https://sei-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UwQzdGMzZCRkNFRTM4RDhCMkJGNzBCMTIwNDZCN0IzMzg4QjJENjAzRUFCRDU0N0RDNUNDRjk5RDE2MDI5NEU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png"
+  },
+  {
     "id": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
     "origin_chain": "osmosis",
     "origin_chain_id": "osmosis-1",
