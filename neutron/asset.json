@@ -1559,6 +1559,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
   },
   {
+    "id": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
+    "origin_chain": "injective",
+    "origin_chain_id": "injective-1",
+    "origin_id": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "name": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
+    "symbol": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFERTgzRTFDMTVEOTE4NkRFNDZCQzM5NkYxMzg0QTlFNjg3NzU2QjQ0NTQxMDU0OUE0NjhFREIxMEU0RkE3Mjg%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFERTgzRTFDMTVEOTE4NkRFNDZCQzM5NkYxMzg0QTlFNjg3NzU2QjQ0NTQxMDU0OUE0NjhFREIxMEU0RkE3Mjg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png"
+  },
+  {
     "id": "ibc/273E4C3B307F3BD56F08652B1DA009A705F078811716DF53F7829A76ED769A8D",
     "origin_chain": "noble",
     "origin_chain_id": "noble-1",
