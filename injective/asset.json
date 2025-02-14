@@ -5569,6 +5569,14 @@
     "icon": "https://i.ibb.co/dK7FxgF/squid.png"
   },
   {
+    "id": "factory/inj1nl94n6gwsf7n54f69k690uxaynlc58kup7mqf2/ETH",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxbmw5NG42Z3dzZjduNTRmNjlrNjkwdXhheW5sYzU4a3VwN21xZjIvRVRI&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1nm8kf7pn60mww3hnqj5je28q49u4h9gnk6g344/WEED",
     "name": "WEED",
     "symbol": "WEED",
