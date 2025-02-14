@@ -5709,6 +5709,14 @@
     "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/54Lk35D58JCLXPbbPt2nMuMSspc2XFogrhZbGx3WESbb.png?size=lg&key=44e450"
   },
   {
+    "id": "factory/inj1p476rad7gc5jt0c2frfr0ny7773etef7fss0u3/ETH",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxcDQ3NnJhZDdnYzVqdDBjMmZyZnIwbnk3NzczZXRlZjdmc3MwdTMvRVRI&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1p8ey297l9qf835eprx4s3nlkesrugg28s23u0g/PANDA",
     "name": "Panda Ninja",
     "symbol": "PANDA",
