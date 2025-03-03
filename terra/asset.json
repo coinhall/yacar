@@ -722,7 +722,8 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhENTJCMjUxQjQ0N0I3MTYwNDIxQUNGQkQ1MEY2QjBBQkU1Rjk4RDJDNDA0QjAzNzAxMTMwRjEyMDQ0NDM5QTE%3D&pagination.limit=1",
-    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhENTJCMjUxQjQ0N0I3MTYwNDIxQUNGQkQ1MEY2QjBBQkU1Rjk4RDJDNDA0QjAzNzAxMTMwRjEyMDQ0NDM5QTE%3D&pagination.limit=1"
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhENTJCMjUxQjQ0N0I3MTYwNDIxQUNGQkQ1MEY2QjBBQkU1Rjk4RDJDNDA0QjAzNzAxMTMwRjEyMDQ0NDM5QTE%3D&pagination.limit=1",
+    "coingecko": "https://www.coingecko.com/en/coins/monerium-eur-money"
   },
   {
     "id": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
@@ -3910,6 +3911,14 @@
     "symbol": "uLP",
     "decimals": "6",
     "type": "cw20"
+  },
+  {
+    "id": "terra1v80q2l9aev0re8yrujs2ga6kp906nxtyjpys4k3eajc028vy9rwq578r9v",
+    "name": "Cat Wif Hat (Wormhole)",
+    "symbol": "CatWifHat",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmwasm/wasm/v1/contract/terra1v80q2l9aev0re8yrujs2ga6kp906nxtyjpys4k3eajc028vy9rwq578r9v/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   },
   {
     "id": "terra1vd0pgkrg0t0ekz5gefudvw0crlzvcqztc5ngec34memth5ft6mnqtjmd2m",
