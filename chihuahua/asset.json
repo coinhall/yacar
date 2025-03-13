@@ -349,6 +349,14 @@
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExNHA1emdrOG11dWs0ODZnaGRoOWpnOHAwYTh4Z3Z6aGgzOTNtdzQvamFja2Fzcw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/chihuahua15p2wsumxdhgsq5taq2aqxz6q3kj4t6eqdd8tqj/brhua",
+    "name": "brhua",
+    "symbol": "brhua",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://chihuahua-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9jaGlodWFodWExNXAyd3N1bXhkaGdzcTV0YXEyYXF4ejZxM2tqNHQ2ZXFkZDh0cWovYnJodWE%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/chihuahua15w7wae2crwa678cf9fuqzn6k76hnz0f5p8e9sy/badberas",
     "name": "Badberas",
     "symbol": "BADB",
@@ -1818,7 +1826,8 @@
     "type": "ibc",
     "circ_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTk0NUVBRjNGMTU4N0NBMzAxM0ZGQzZDRTBCNUVFRTBGNDlEQUZFRDJDRTUxMzcwQjVCNkEwQzNBQTI1OEU%3D&pagination.limit=1",
     "total_supply_api": "https://api.chihuahua.wtf/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0U0NTk0NUVBRjNGMTU4N0NBMzAxM0ZGQzZDRTBCNUVFRTBGNDlEQUZFRDJDRTUxMzcwQjVCNkEwQzNBQTI1OEU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/racoon"
   },
   {
     "id": "ibc/FA7112322CE7656DC84D441E49BAEAB9DC0AB3C7618A178A212CDE8B3F17C70B",
