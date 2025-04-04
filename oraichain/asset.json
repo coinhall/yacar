@@ -10,213 +10,132 @@
     "coingecko": "https://www.coingecko.com/en/coins/sam-2"
   },
   {
-    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/ton",
-    "name": "Toncoin",
-    "symbol": "TON",
-    "decimals": "9",
-    "type": "tokenfactory",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ton/images/ton.png"
+    "id": "factory/orai163gprd7pnv2xt664fm7nx04j6wh587fd0d4aw6/USDCtest",
+    "name": "USDC Test",
+    "symbol": "USDCtest",
+    "decimals": "6"
   },
   {
-    "id": "ibc/576B1D63E401B6A9A071C78A1D1316D016EC9333D2FEB14AD503FAC4B8731CD1",
-    "origin_chain": "neutaro",
-    "origin_chain_id": "Neutaro-1",
-    "origin_id": "uneutaro",
-    "name": "Neutaro",
-    "symbol": "NTMPI",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3NkIxRDYzRTQwMUI2QTlBMDcxQzc4QTFEMTMxNkQwMTZFQzkzMzNEMkZFQjE0QUQ1MDNGQUM0Qjg3MzFDRDE%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3NkIxRDYzRTQwMUI2QTlBMDcxQzc4QTFEMTMxNkQwMTZFQzkzMzNEMkZFQjE0QUQ1MDNGQUM0Qjg3MzFDRDE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutaro/images/neutaro.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/neutaro"
+    "id": "factory/orai17hyr3eg92fv34fdnkend48scu32hn26gqxw3hnwkfy904lk9r09qqzty42/0x4199038528601ebb286def39fa02313971682d32",
+    "name": "TESTT",
+    "symbol": "TESTT",
+    "decimals": "18"
   },
   {
-    "id": "ibc/9C4DCD21B48231D0BC2AC3D1B74A864746B37E4292694C93C617324250D002FC",
-    "origin_chain": "osmosis",
-    "origin_chain_id": "osmosis-1",
-    "origin_id": "uosmo",
-    "name": "Osmosis",
-    "symbol": "OSMO",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlDNERDRDIxQjQ4MjMxRDBCQzJBQzNEMUI3NEE4NjQ3NDZCMzdFNDI5MjY5NEM5M0M2MTczMjQyNTBEMDAyRkM%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzlDNERDRDIxQjQ4MjMxRDBCQzJBQzNEMUI3NEE4NjQ3NDZCMzdFNDI5MjY5NEM5M0M2MTczMjQyNTBEMDAyRkM%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
+    "id": "factory/orai17hyr3eg92fv34fdnkend48scu32hn26gqxw3hnwkfy904lk9r09qqzty42/0x450f300495b9be5ef2be0789d0e5d7f98f82ac4f",
+    "name": "TESTT",
+    "symbol": "TESTT",
+    "decimals": "18"
   },
   {
-    "id": "ibc/A2E2EEC9057A4A1C2C0A6A4C78B0239118DF5F278830F50B4A6BDD7A66506B78",
-    "origin_chain": "cosmoshub",
-    "origin_chain_id": "cosmoshub-4",
-    "origin_id": "uatom",
-    "name": "Cosmos Hub Atom",
-    "symbol": "ATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0EyRTJFRUM5MDU3QTRBMUMyQzBBNkE0Qzc4QjAyMzkxMThERjVGMjc4ODMwRjUwQjRBNkJERDdBNjY1MDZCNzg%3D&pagination.limit=1",
-    "total_supply_api": "https://lcd.orai.io/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0EyRTJFRUM5MDU3QTRBMUMyQzBBNkE0Qzc4QjAyMzkxMThERjVGMjc4ODMwRjUwQjRBNkJERDdBNjY1MDZCNzg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/cosmos"
+    "id": "factory/orai17hyr3eg92fv34fdnkend48scu32hn26gqxw3hnwkfy904lk9r09qqzty42/0x711eadeb8b097edd306d9399f12cb79fecde2a2d",
+    "name": "YASUO",
+    "symbol": "YASUO",
+    "decimals": "18"
   },
   {
-    "id": "orai",
-    "entity": "Oraichain",
-    "name": "Oraichain",
-    "symbol": "ORAI",
-    "decimals": "6",
-    "type": "native",
-    "circ_supply_api": "https://api.token.orai.io/v1/cs",
-    "total_supply_api": "https://api.token.orai.io/v1/total-supply",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/oraichain-token"
+    "id": "factory/orai17hyr3eg92fv34fdnkend48scu32hn26gqxw3hnwkfy904lk9r09qqzty42/0x8365f3b3a6fcfa1843a6f69eff89246aea533d55",
+    "name": "YASUO",
+    "symbol": "YASUO",
+    "decimals": "18"
   },
   {
-    "id": "orai1065qe48g7aemju045aeyprflytemx7kecxkf5m7u5h5mphd0qlcs47pclp",
-    "name": "stake-comp-orai",
-    "symbol": "SCORAI",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1065qe48g7aemju045aeyprflytemx7kecxkf5m7u5h5mphd0qlcs47pclp/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "id": "factory/orai17hyr3eg92fv34fdnkend48scu32hn26gqxw3hnwkfy904lk9r09qqzty42/0x883640f47b9c0ccace5bec5ba52d4468db81294f",
+    "name": "YASUO",
+    "symbol": "YASUO",
+    "decimals": "18"
   },
   {
-    "id": "orai10g6frpysmdgw5tdqke47als6f97aqmr8s3cljsvjce4n5enjftcqtamzsd",
-    "name": "BTC Token",
-    "symbol": "BTC",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai10g6frpysmdgw5tdqke47als6f97aqmr8s3cljsvjce4n5enjftcqtamzsd/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/bitcoin/images/btc.png"
+    "id": "factory/orai17hyr3eg92fv34fdnkend48scu32hn26gqxw3hnwkfy904lk9r09qqzty42/0xb95e42e88b8c4978ed591206e2ebd4db60adaa12",
+    "name": "TESTT",
+    "symbol": "TESTT",
+    "decimals": "18"
   },
   {
-    "id": "orai10ldgzued6zjp0mkqwsv2mux3ml50l97c74x8sg",
-    "name": "aiRight Token",
-    "symbol": "AIRI",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai10ldgzued6zjp0mkqwsv2mux3ml50l97c74x8sg/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "id": "factory/orai17hyr3eg92fv34fdnkend48scu32hn26gqxw3hnwkfy904lk9r09qqzty42/0xdd392e08a44629dcfac680848b5a48a7594fa3a2",
+    "name": "YASUO",
+    "symbol": "YASUO",
+    "decimals": "18"
   },
   {
-    "id": "orai12hzjxfh77wl572gdzct2fxv2arxcwh6gykc7qh",
-    "name": "USDT Token",
-    "symbol": "USDT",
+    "id": "factory/orai1cecxmg2c087asjcs4n4pt0zyha2wthm8l6440u/TMAS",
+    "name": "TestMAS",
+    "symbol": "TMAS",
     "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai12hzjxfh77wl572gdzct2fxv2arxcwh6gykc7qh/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
+    "icon": "https://drive.google.com/file/d/1njnptbk50erMQZ41ATGRkGo8jxK9jO3W/preview"
   },
   {
-    "id": "orai15un8msx3n5zf9ahlxmfeqd2kwa5wm0nrpxer304m9nd5q6qq0g6sku5pdd",
-    "name": "USDC Token",
-    "symbol": "USDC",
+    "id": "factory/orai1cw9ap2sxk6yn7j4sgj0zj4qhr30f4pm223kvn5/HNR",
+    "name": "test-hnr",
+    "symbol": "HNR",
     "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai15un8msx3n5zf9ahlxmfeqd2kwa5wm0nrpxer304m9nd5q6qq0g6sku5pdd/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
+    "icon": "https://www.svgrepo.com/show/515597/coin.svg"
   },
   {
-    "id": "orai19q4qak2g3cj2xc2y3060t0quzn3gfhzx08rjlrdd3vqxhjtat0cq668phq",
-    "name": "scatom-cw20",
-    "symbol": "SCATOM",
+    "id": "factory/orai1d6mqmje0584qr693uc97gqh55qkf0hn5j3q2cl/AST",
+    "name": "ARJUN SINGH TOMAR",
+    "symbol": "AST",
     "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai19q4qak2g3cj2xc2y3060t0quzn3gfhzx08rjlrdd3vqxhjtat0cq668phq/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "icon": "https://maps.app.goo.gl/XqUEVPLepiW4GErPA"
   },
   {
-    "id": "orai19rtmkk6sn4tppvjmp5d5zj6gfsdykrl5rw2euu5gwur3luheuuusesqn49",
-    "name": "INJ Token",
-    "symbol": "INJ",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai19rtmkk6sn4tppvjmp5d5zj6gfsdykrl5rw2euu5gwur3luheuuusesqn49/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
+    "id": "factory/orai1prgdvy4vq6l9xs7t3wv2k9nxeyw6xpwql4fzwa0p566820z3we0qkj0fft/HEHEHUHU",
+    "name": "HEHEHUHU",
+    "symbol": "HEHEHUHU",
+    "decimals": "6"
   },
   {
-    "id": "orai1c7tpjenafvgjtgm9aqwm7afnke6c56hpdms8jc6md40xs3ugd0es5encn0",
-    "name": "TRON Token",
-    "symbol": "TRON",
+    "id": "factory/orai1swgjn86kevs22wxf0546l98mnt0v02dg9ts4tl/RealTrumPep",
+    "name": "Official RealTrumPepe",
+    "symbol": "RealTrumPep",
     "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1c7tpjenafvgjtgm9aqwm7afnke6c56hpdms8jc6md40xs3ugd0es5encn0/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "icon": "https://ipfs.filebase.io/ipfs/QmYun1Ux8oiv7jfDz54EmYo5eEFYCf3SWmUHGzWaKrJsdD"
   },
   {
-    "id": "orai1dqa52a7hxxuv8ghe7q5v0s36ra0cthea960q2cukznleqhk0wpnshfegez",
-    "name": "WETH Token",
-    "symbol": "WETH",
+    "id": "factory/orai1swgjn86kevs22wxf0546l98mnt0v02dg9ts4tl/RealTrumPepe",
+    "name": "RealTrumPepe",
+    "symbol": "RealTrumPepe",
     "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1dqa52a7hxxuv8ghe7q5v0s36ra0cthea960q2cukznleqhk0wpnshfegez/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/476fc6d1ae5edc24c3164df153283c2b19370920/_non-cosmos/ethereum/images/eth-white.svg"
+    "icon": "https://ipfs.filebase.io/ipfs/QmYun1Ux8oiv7jfDz54EmYo5eEFYCf3SWmUHGzWaKrJsdD"
   },
   {
-    "id": "orai1gzvndtzceqwfymu2kqhta2jn6gmzxvzqwdgvjw",
-    "name": "Milky Token",
-    "symbol": "MILKY",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply": "222000000000000"
+    "id": "factory/orai1uyn6qu0chg9eqxrdrzfdxvutg0rnzd5ehupj595700fyu9e3zn4qupx8v5/HVH",
+    "name": "Hung Vuong Huu",
+    "symbol": "HVH",
+    "decimals": "6"
   },
   {
-    "id": "orai1hn8w33cqvysun2aujk5sv33tku4pgcxhhnsxmvnkfvdxagcx0p8qa4l98q",
-    "name": "Orchai Token",
-    "symbol": "OCH",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1hn8w33cqvysun2aujk5sv33tku4pgcxhhnsxmvnkfvdxagcx0p8qa4l98q/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "id": "factory/orai1v5kjdl8et3kkpg78mjscelccrtf6ze6vufqnlvrf5xh5k2c6zxksuwge4u/KURUMI",
+    "name": " KURUMI",
+    "symbol": "KURUMI",
+    "decimals": "6"
   },
   {
-    "id": "orai1llsm2ly9lchj006cw2mmlu8wmhr0sa988sp3m5",
-    "name": "Milky Token",
-    "symbol": "MILKY",
+    "id": "factory/orai1vypnkf7fler02lukfxvrjyt92uz2yylqehptt8/TSAM3",
+    "name": "TSAM3",
+    "symbol": "TSAM3",
     "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1llsm2ly9lchj006cw2mmlu8wmhr0sa988sp3m5/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "icon": "https://host.lastsamorais.com/sam.png"
   },
   {
-    "id": "orai1lus0f0rhx8s03gdllx2n6vhkmf0536dv57wfge",
-    "name": "ORAIX Token",
-    "symbol": "ORAIX",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1lus0f0rhx8s03gdllx2n6vhkmf0536dv57wfge/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/3JtW1YteX1rX3jTbbjcTCDfSNnktSgBY3P1Yy67MdBWn"
   },
   {
-    "id": "orai1nd4r053e3kgedgld2ymen8l9yrw8xpjyaal7j5",
-    "name": "KWT Token",
-    "symbol": "KWT",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1nd4r053e3kgedgld2ymen8l9yrw8xpjyaal7j5/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/3T81dLbtnNebhPfA8st3ckyW1QVnK27rW159gkGeS9EK"
   },
   {
-    "id": "orai1sz582zwxkd4csscf4zzr9evnrmtah8xlqjxx69",
-    "name": "test Token",
-    "symbol": "TEST",
-    "decimals": "6",
-    "type": "ow20"
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/9Rd1BLdQA1gHPsrbmN2LDfV2fL4dNGxjdvnETbgaD28x"
   },
   {
-    "id": "orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt",
-    "name": "Milky Token",
-    "symbol": "MILKY",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/BRqRVPwtyndv2vaWNFjDSv8fH7Rccnfeo8uw5RxSbjUt"
   },
   {
-    "id": "orai1vdqtppe7556vtayrp4qes495ytccux83y6jldk59s5cf20d3a65qd82vrx",
-    "name": "$TEST-HONOR",
-    "symbol": "TEST-HONOR",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1vdqtppe7556vtayrp4qes495ytccux83y6jldk59s5cf20d3a65qd82vrx/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/extPEPE"
   },
   {
-    "id": "orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6",
-    "name": "ORAIX Token",
-    "symbol": "ORAIX",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/GddADC2Ekpc8uURwnXBCC3nJH4pDpJrE8NfrBZcX93Fn"
+  },
+  {
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/moonGvQw19jXedkQFf5qgdzSRCZvNv2eNbmvR6ZwSkk"
   }
 ]
