@@ -44,6 +44,15 @@
     "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA3NzE1RTkwMjEwNDc4OEZFMjVDMTI4NkEyMTFEQ0U5REI5RUVENUNBRUQyNkY4MDE4QTI2NzJCMEI2QTREMEQ%3D&pagination.limit=1"
   },
   {
+    "id": "ibc/0B485A407A6B7B8F0BC7A652EBADFA3EB578C74DD018EEDDF1F10380FB6C1253",
+    "name": "erc20/0x9EB09A35237060D0FcC4523c35B35cDe80418c9c",
+    "symbol": "OUSD",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCNDg1QTQwN0E2QjdCOEYwQkM3QTY1MkVCQURGQTNFQjU3OEM3NEREMDE4RUVEREYxRjEwMzgwRkI2QzEyNTM%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCNDg1QTQwN0E2QjdCOEYwQkM3QTY1MkVCQURGQTNFQjU3OEM3NEREMDE4RUVEREYxRjEwMzgwRkI2QzEyNTM%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/0D7FCB8A39648D712CE661ECB8460750D2B7B5F0192B7C2A3731AF1FA11CAD65",
     "name": "UOD",
     "symbol": "UOD",
