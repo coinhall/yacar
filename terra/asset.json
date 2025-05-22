@@ -254,6 +254,19 @@
     "coingecko": "https://www.coingecko.com/en/coins/secret"
   },
   {
+    "id": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+    "origin_chain": "axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wbnb-wei",
+    "name": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+    "symbol": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEzMTlDNkIzOENBNjEzQzg5RDc4QzJEMTQ2MUIzMDUwMzhCMTA4NUY2ODU1RThDRDI3NkZFM0Y3Qzk2MDBCNEM%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEzMTlDNkIzOENBNjEzQzg5RDc4QzJEMTQ2MUIzMDUwMzhCMTA4NUY2ODU1RThDRDI3NkZFM0Y3Qzk2MDBCNEM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.svg"
+  },
+  {
     "id": "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
     "origin_chain": "kujira",
     "origin_chain_id": "kaiyo-1",
