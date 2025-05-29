@@ -713,6 +713,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png"
   },
   {
+    "id": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
+    "name": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
+    "symbol": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzg4Mzg2QUM0ODE1MkQ0OEIzNEIwODI2NDhERjgzNkY5NzU1MDZGMEI1N0RCQkZDMTBBNTQyMTNCMUJGNDg0Q0I%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzg4Mzg2QUM0ODE1MkQ0OEIzNEIwODI2NDhERjgzNkY5NzU1MDZGMEI1N0RCQkZDMTBBNTQyMTNCMUJGNDg0Q0I%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
     "origin_chain": "noble",
     "origin_chain_id": "noble-1",
