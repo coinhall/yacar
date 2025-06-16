@@ -3773,6 +3773,14 @@
     "icon": "ipfs://bafkreifn7yf4smllmo5ip5pajopfqvoc5lzx4w6kamfmkjr2oxslbjpzru"
   },
   {
+    "id": "factory/inj1d5xuqkrj8kwqvwyxss4q5w0dkduywqq3uucv87/lp",
+    "name": "choice liquidity token",
+    "symbol": "uLP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxZDV4dXFrcmo4a3dxdnd5eHNzNHE1dzBka2R1eXdxcTN1dWN2ODcvbHA%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1d7eurkuvgu77kgssd00e55hcwm3uewagm4xxsd/maw8sr9gf8",
     "name": "maw8sr9gf8",
     "symbol": "maw8sr9gf8",
@@ -5251,6 +5259,14 @@
     "decimals": "18",
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxaHdncW54a3ptbWNncjZsc2xqc3FnY3E5MDNramh2ZTljMDJ0aDAvd2F3YQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/inj1hxqhvykkz2wmsr5pxc4yhnv0x8g82t800d7t8z/mbw7j14b8a",
+    "name": "mbw7j14b8a",
+    "symbol": "mbw7j14b8a",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxaHhxaHZ5a2t6Mndtc3I1cHhjNHlobnYweDhnODJ0ODAwZDd0OHovbWJ3N2oxNGI4YQ%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/inj1hyjg677dqp3uj3dh9vny874k2gjr5fuvdjjzk7/kami",
@@ -10717,6 +10733,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/inj1zdjjsc0nggmyh29emtxgypazppmpp30xj9dpl0/mbysbqme57",
+    "name": "mbysbqme57",
+    "symbol": "mbysbqme57",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxemRqanNjMG5nZ215aDI5ZW10eGd5cGF6cHBtcHAzMHhqOWRwbDAvbWJ5c2JxbWU1Nw%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1ze3ad8k5aw7ejwlpvwfdht9yslnpfqez45sd3v/BCAT",
     "name": "Banana Cat BCAT so cute",
     "symbol": "BCAT",
@@ -11262,6 +11286,20 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
   },
   {
+    "id": "ibc/9495CFCB73E9D060D7B8C974C22AD8D5F1D97F93B66A4E326A3052ABE6470BB6",
+    "origin_chain": "neutron",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
+    "name": "ibc/9495CFCB73E9D060D7B8C974C22AD8D5F1D97F93B66A4E326A3052ABE6470BB6",
+    "symbol": "ibc/9495CFCB73E9D060D7B8C974C22AD8D5F1D97F93B66A4E326A3052ABE6470BB6",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0OTVDRkNCNzNFOUQwNjBEN0I4Qzk3NEMyMkFEOEQ1RjFEOTdGOTNCNjZBNEUzMjZBMzA1MkFCRTY0NzBCQjY%3D&pagination.limit=1",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzk0OTVDRkNCNzNFOUQwNjBEN0I4Qzk3NEMyMkFEOEQ1RjFEOTdGOTNCNjZBNEUzMjZBMzA1MkFCRTY0NzBCQjY%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/dATOM.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/drop-staked-atom"
+  },
+  {
     "id": "ibc/984E90A8E0265B9804B7345C7542BF9B3046978AE5557B4AABADDFE605CACABE",
     "origin_chain": "gateway",
     "origin_chain_id": "wormchain",
@@ -11414,6 +11452,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/canto/images/canto.svg"
   },
   {
+    "id": "ibc/D9555B7C95F9BB3ABA9263059E996CEC74450E0448B9E4BB64490EACB51BF0E2",
+    "origin_chain": "neutron",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia",
+    "name": "ibc/D9555B7C95F9BB3ABA9263059E996CEC74450E0448B9E4BB64490EACB51BF0E2",
+    "symbol": "ibc/D9555B7C95F9BB3ABA9263059E996CEC74450E0448B9E4BB64490EACB51BF0E2",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q5NTU1QjdDOTVGOUJCM0FCQTkyNjMwNTlFOTk2Q0VDNzQ0NTBFMDQ0OEI5RTRCQjY0NDkwRUFDQjUxQkYwRTI%3D&pagination.limit=1",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q5NTU1QjdDOTVGOUJCM0FCQTkyNjMwNTlFOTk2Q0VDNzQ0NTBFMDQ0OEI5RTRCQjY0NDkwRUFDQjUxQkYwRTI%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/dTIA.svg"
+  },
+  {
     "id": "ibc/DD648F5D3CDA56D0D8D8820CF703D246B9FC4007725D8B38D23A21FF1A1477E3",
     "origin_chain": "osmosis",
     "origin_chain_id": "osmosis-1",
@@ -11450,7 +11501,8 @@
     "type": "ibc",
     "circ_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VCRDVBMjRDNTU0MTk4RUJBRjQ0OTc5QzVCNEQyQzJEMzEyRTZFQkFCNzE5NjJDOTJGNzM1NDk5Qzc1NzU4Mzk%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VCRDVBMjRDNTU0MTk4RUJBRjQ0OTc5QzVCNEQyQzJEMzEyRTZFQkFCNzE5NjJDOTJGNzM1NDk5Qzc1NzU4Mzk%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/astroport-fi"
   },
   {
     "id": "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2",
