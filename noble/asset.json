@@ -14,7 +14,8 @@
     "name": "Monerium EUR emoney",
     "symbol": "EURe",
     "decimals": "6",
-    "type": "native"
+    "type": "native",
+    "coingecko": "https://www.coingecko.com/en/coins/monerium-eur-money"
   },
   {
     "id": "ufrienzies",
@@ -32,5 +33,14 @@
     "type": "native",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.svg",
     "coingecko": "https://www.coingecko.com/en/coins/usd-coin"
+  },
+  {
+    "id": "uusdn",
+    "name": "Noble Dollar",
+    "symbol": "USDN",
+    "decimals": "6",
+    "type": "native",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDN.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/noble-dollar-usdn"
   }
 ]
