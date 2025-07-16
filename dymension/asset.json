@@ -12,6 +12,24 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
+    "id": "gamm/pool/12",
+    "name": "GAMM-12",
+    "symbol": "GAMM-12",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/18",
+    "name": "GAMM-18",
+    "symbol": "GAMM-18",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/28",
+    "name": "GAMM-28",
+    "symbol": "GAMM-28",
+    "decimals": "18"
+  },
+  {
     "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
     "origin_chain": "evmos",
     "origin_chain_id": "evmos_9001-2",
@@ -413,24 +431,9 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
   {
-    "id": "IRO/heilelonmusk_653667-1",
-    "name": "IRO/HELON",
-    "symbol": "IRO/HELON",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/milkyway_418549-1",
-    "name": "IRO/MILK",
-    "symbol": "IRO/MILK",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/odysphere_224126-1",
-    "name": "IRO/ODY",
-    "symbol": "IRO/ODY",
-    "decimals": "18",
-    "type": "cw20"
+    "id": "IRO/sunbucksai_510043-1",
+    "name": "IRO/SUN",
+    "symbol": "IRO/SUN",
+    "decimals": "18"
   }
 ]
