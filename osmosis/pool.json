@@ -12947,6 +12947,17 @@
     "lp_token_id": "gamm/pool/846"
   },
   {
+    "id": "osmo1qzscr6mne5e03jtxmevvgecc3c508jj0hj9577l5uy6g6ue0ms8qm2ldja",
+    "asset_ids": [
+      "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ba-ba",
+      "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fost",
+      "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/wiha"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/3070"
+  },
+  {
     "id": "osmo1r07mhgxvqsf0wa4k0j85ljdzp08xmlptmld8k8m0nzuwpcsyuefq5k3zjt",
     "asset_ids": [
       "ibc/38ADC6FFDDDB7D70B72AD0322CEA8844CB18FAA0A23400DBA8A99D43E18B3748",
@@ -28630,6 +28641,17 @@
     "dex": "Osmosis",
     "type": "stable",
     "lp_token_id": "gamm/pool/2859"
+  },
+  {
+    "id": "osmo1wcru08pqlxk0457gy9wtxm6dkqy7cg0848yukq6pn580lck22aus3uazkc",
+    "asset_ids": [
+      "factory/osmo1em6xs47hd82806f5cxgyufguxrrc7l0aqx7nzzptjuqgswczk8csavdxek/alloyed/allUSDT",
+      "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fost",
+      "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+    ],
+    "dex": "Osmosis",
+    "type": "stable",
+    "lp_token_id": "gamm/pool/3071"
   },
   {
     "id": "osmo1x6e8lf40vwlc2ynyj59gm6k85lrzv8s4ayn3hmwf70frps0yqs2s4gaph9",
