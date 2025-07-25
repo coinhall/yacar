@@ -2193,6 +2193,14 @@
     "icon": "https://twitter.com/smileinjection/photo"
   },
   {
+    "id": "factory/inj16hymp42jy6x4n9qk05ltny854uv260perw45de/testUSD",
+    "name": "factory/inj16hymp42jy6x4n9qk05ltny854uv260perw45de/testUSD",
+    "symbol": "factory/inj16hymp42jy6x4n9qk05ltny854uv260perw45de/testUSD",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNmh5bXA0Mmp5Nng0bjlxazA1bHRueTg1NHV2MjYwcGVydzQ1ZGUvdGVzdFVTRA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj16j0dhn7qg9sh7cg8y3vm6fecpfweq4f46tzrvd/VAULT",
     "name": "VouchVault",
     "symbol": "VAULT",
@@ -2453,6 +2461,14 @@
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxN2c5anNqMzdqdDB3Nzd4NGdmbXQ2cnhmMHIyenIzMDdra3k4NzUvSU5K&pagination.limit=1",
     "icon": "ipfs://bafkreiakfz7oaouncdlkjiam7vjmioklihnyb32awbcz2xm5p5lahenrdi"
+  },
+  {
+    "id": "factory/inj17ge6x0f2gpz5ae3q067g7u62w0mc4t57mum8z6/test-sol-trend-no-deposit",
+    "name": "test-sol-trend-no-deposit",
+    "symbol": "test-sol-trend-no-deposit",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxN2dlNngwZjJncHo1YWUzcTA2N2c3dTYydzBtYzR0NTdtdW04ejYvdGVzdC1zb2wtdHJlbmQtbm8tZGVwb3NpdA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/inj17gkuet8f6pssxd8nycm3qr9d9y699rupv6397z/KISH",
@@ -3163,6 +3179,14 @@
     "decimals": "9",
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxYTdlMHQ1c2FtZzlyZGVsNWdld254dXB4c212eW00M2xmajZ2ZmUvYXRj&pagination.limit=1"
+  },
+  {
+    "id": "factory/inj1a7ld9gyy2glcfd3hyqqq3npzdev7c6dgzgenqd/blackpanthertookourmoney",
+    "name": "BLACKPANTHERTOOKOURMONEY",
+    "symbol": "BLACKPANTHERTOOKOURMONEY",
+    "decimals": "18",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxYTdsZDlneXkyZ2xjZmQzaHlxcXEzbnB6ZGV2N2M2ZGd6Z2VucWQvYmxhY2twYW50aGVydG9va291cm1vbmV5&pagination.limit=1"
   },
   {
     "id": "factory/inj1a9dsv5whfhqptkycx4l9uly9x684lwmwuv7l3n/KGM",
@@ -10290,6 +10314,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxeGY0YTNodXI0NXoybjcyMmR5aGFxdm02a3FlcXdjNXQ0dHN3MDMvRkItYTIxMC1mZHR1NW12dA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/inj1xhyw7qjjuqjxh43cxc208hzhxmlw7xpsnzln57/Test-Fund-no-deposits",
+    "name": "Test-Fund-no-deposits",
+    "symbol": "Test-Fund-no-deposits",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxeGh5dzdxamp1cWp4aDQzY3hjMjA4aHpoeG1sdzd4cHNuemxuNTcvVGVzdC1GdW5kLW5vLWRlcG9zaXRz&pagination.limit=1"
+  },
+  {
     "id": "factory/inj1xhzt72xa3pyk25chwa3kh5j2dpuwehmycukh38/test",
     "name": "test",
     "symbol": "test",
@@ -11643,7 +11675,8 @@
     "type": "ibc",
     "circ_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VCRDVBMjRDNTU0MTk4RUJBRjQ0OTc5QzVCNEQyQzJEMzEyRTZFQkFCNzE5NjJDOTJGNzM1NDk5Qzc1NzU4Mzk%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0VCRDVBMjRDNTU0MTk4RUJBRjQ0OTc5QzVCNEQyQzJEMzEyRTZFQkFCNzE5NjJDOTJGNzM1NDk5Qzc1NzU4Mzk%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/astroport-fi"
   },
   {
     "id": "ibc/ECB0AA28D6001EF985047558C410B65581FC85BD92D4E3CFCCA0D3D964C67CC2",
@@ -21678,41 +21711,10 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweEMwODUxMjkyN0QxMjM0OEY2NjIwYTY5ODEwNWUxQkFhYzZFY0Q5MTE%3D&pagination.limit=1"
   },
   {
-    "id": "peggy0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439",
-    "entity": "Moon App",
-    "name": "Moon App",
-    "symbol": "APP",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweEM1ZDI3RjI3RjA4RDFGRDFFM0ViQkFhNTBiMzQ0MmU2YzBENTA0Mzk%3D&pagination.limit=1",
-    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/ce816e13-52fc-4afb-4434-6f8352263300/public"
-  },
-  {
-    "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-    "name": "GRT",
-    "symbol": "GRT",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGM5NDRFOTBDNjRCMmMwNzY2MkEyOTJiZTYyNDRCRGYwNUNkYTQ0YTc%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/graphToken.svg"
-  },
-  {
-    "id": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "name": "Tether",
-    "symbol": "USDT",
+    "id": "share122",
+    "name": "SBET/USDT PERP share token",
+    "symbol": "INSURANCE-SBET/USDT PERP",
     "decimals": "6",
-    "type": "peggy",
-    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGRBQzE3Rjk1OEQyZWU1MjNhMjIwNjIwNjk5NDU5N0MxM0Q4MzFlYzc%3D&pagination.limit=1",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGRBQzE3Rjk1OEQyZWU1MjNhMjIwNjIwNjk5NDU5N0MxM0Q4MzFlYzc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
-  },
-  {
-    "id": "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
-    "name": "Puggo",
-    "symbol": "PUG",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGY5YTA2ZEUzRjY2MzlFNmVlNEYwNzkwOTVENTA5MzY0NEFkODVFOGI%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/puggo.jpg"
+    "type": "share"
   }
 ]
