@@ -12,6 +12,30 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
+    "id": "gamm/pool/1",
+    "name": "GAMM-1",
+    "symbol": "GAMM-1",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/10",
+    "name": "GAMM-10",
+    "symbol": "GAMM-10",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/14",
+    "name": "GAMM-14",
+    "symbol": "GAMM-14",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/7",
+    "name": "GAMM-7",
+    "symbol": "GAMM-7",
+    "decimals": "18"
+  },
+  {
     "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
     "origin_chain": "evmos",
     "origin_chain_id": "evmos_9001-2",
@@ -413,31 +437,9 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
   {
-    "id": "IRO/heilelonmusk_653667-1",
-    "name": "IRO/HELON",
-    "symbol": "IRO/HELON",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/kukkurukku_718596-1",
-    "name": "IRO/KURU",
-    "symbol": "IRO/KURU",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/milkyway_418549-1",
-    "name": "IRO/MILK",
-    "symbol": "IRO/MILK",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/odysphere_224126-1",
-    "name": "IRO/ODY",
-    "symbol": "IRO/ODY",
-    "decimals": "18",
-    "type": "cw20"
+    "id": "IRO/world_691756-1",
+    "name": "IRO/WORLD",
+    "symbol": "IRO/WORLD",
+    "decimals": "18"
   }
 ]
