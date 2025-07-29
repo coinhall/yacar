@@ -12,432 +12,237 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
-    "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
-    "origin_chain": "evmos",
-    "origin_chain_id": "evmos_9001-2",
-    "origin_id": "aevmos",
-    "name": "Evmos",
-    "symbol": "EVMOS",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA0RTAxNDc3QTY5REYxRTVFRTk5Rjg1QzE1QjY2RDY4RDIzMjkyMjc1MzU3Q0FBNDRCMkUwNTI3MzEwQTQwNUU%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA0RTAxNDc3QTY5REYxRTVFRTk5Rjg1QzE1QjY2RDY4RDIzMjkyMjc1MzU3Q0FBNDRCMkUwNTI3MzEwQTQwNUU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/evmos"
+    "id": "gamm/pool/1",
+    "name": "GAMM-1",
+    "symbol": "GAMM-1",
+    "decimals": "18"
   },
   {
-    "id": "ibc/06E986DAC5B8364D9BA8DEF216F2E2889B53238510BAFADA2A3D2819822E6A5C",
-    "name": "MEME",
-    "symbol": "MEME",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA2RTk4NkRBQzVCODM2NEQ5QkE4REVGMjE2RjJFMjg4OUI1MzIzODUxMEJBRkFEQTJBM0QyODE5ODIyRTZBNUM%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA2RTk4NkRBQzVCODM2NEQ5QkE4REVGMjE2RjJFMjg4OUI1MzIzODUxMEJBRkFEQTJBM0QyODE5ODIyRTZBNUM%3D&pagination.limit=1"
+    "id": "gamm/pool/10",
+    "name": "GAMM-10",
+    "symbol": "GAMM-10",
+    "decimals": "18"
   },
   {
-    "id": "ibc/07715E902104788FE25C1286A211DCE9DB9EED5CAED26F8018A2672B0B6A4D0D",
-    "name": "GOG",
-    "symbol": "GOG",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA3NzE1RTkwMjEwNDc4OEZFMjVDMTI4NkEyMTFEQ0U5REI5RUVENUNBRUQyNkY4MDE4QTI2NzJCMEI2QTREMEQ%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzA3NzE1RTkwMjEwNDc4OEZFMjVDMTI4NkEyMTFEQ0U5REI5RUVENUNBRUQyNkY4MDE4QTI2NzJCMEI2QTREMEQ%3D&pagination.limit=1"
+    "id": "gamm/pool/11",
+    "name": "GAMM-11",
+    "symbol": "GAMM-11",
+    "decimals": "18"
   },
   {
-    "id": "ibc/0B485A407A6B7B8F0BC7A652EBADFA3EB578C74DD018EEDDF1F10380FB6C1253",
-    "name": "erc20/0x9EB09A35237060D0FcC4523c35B35cDe80418c9c",
-    "symbol": "OUSD",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCNDg1QTQwN0E2QjdCOEYwQkM3QTY1MkVCQURGQTNFQjU3OEM3NEREMDE4RUVEREYxRjEwMzgwRkI2QzEyNTM%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCNDg1QTQwN0E2QjdCOEYwQkM3QTY1MkVCQURGQTNFQjU3OEM3NEREMDE4RUVEREYxRjEwMzgwRkI2QzEyNTM%3D&pagination.limit=1"
+    "id": "gamm/pool/12",
+    "name": "GAMM-12",
+    "symbol": "GAMM-12",
+    "decimals": "18"
   },
   {
-    "id": "ibc/0D7FCB8A39648D712CE661ECB8460750D2B7B5F0192B7C2A3731AF1FA11CAD65",
-    "name": "UOD",
-    "symbol": "UOD",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBEN0ZDQjhBMzk2NDhENzEyQ0U2NjFFQ0I4NDYwNzUwRDJCN0I1RjAxOTJCN0MyQTM3MzFBRjFGQTExQ0FENjU%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBEN0ZDQjhBMzk2NDhENzEyQ0U2NjFFQ0I4NDYwNzUwRDJCN0I1RjAxOTJCN0MyQTM3MzFBRjFGQTExQ0FENjU%3D&pagination.limit=1"
+    "id": "gamm/pool/13",
+    "name": "GAMM-13",
+    "symbol": "GAMM-13",
+    "decimals": "18"
   },
   {
-    "id": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
-    "origin_chain": "osmosis",
-    "origin_chain_id": "osmosis-1",
-    "origin_id": "uosmo",
-    "name": "Osmosis",
-    "symbol": "OSMO",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEzQjJDNTM2QkIwNTdBQzc5RDU2MTZCOEVBMUI5NTQwRUMxRjIxNzA3MThDQUZGNkYwMDgzQzk2NkZGRkVEMEI%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEzQjJDNTM2QkIwNTdBQzc5RDU2MTZCOEVBMUI5NTQwRUMxRjIxNzA3MThDQUZGNkYwMDgzQzk2NkZGRkVEMEI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis",
-    "coingecko": "https://www.coingecko.com/en/coins/osmosis"
+    "id": "gamm/pool/14",
+    "name": "GAMM-14",
+    "symbol": "GAMM-14",
+    "decimals": "18"
   },
   {
-    "id": "ibc/17429541DF4BBB84103FD972CC9DF668B76B76430D7353B085A0E606FF153AAD",
-    "name": "EPIC",
-    "symbol": "EPIC",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE3NDI5NTQxREY0QkJCODQxMDNGRDk3MkNDOURGNjY4Qjc2Qjc2NDMwRDczNTNCMDg1QTBFNjA2RkYxNTNBQUQ%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE3NDI5NTQxREY0QkJCODQxMDNGRDk3MkNDOURGNjY4Qjc2Qjc2NDMwRDczNTNCMDg1QTBFNjA2RkYxNTNBQUQ%3D&pagination.limit=1"
+    "id": "gamm/pool/15",
+    "name": "GAMM-15",
+    "symbol": "GAMM-15",
+    "decimals": "18"
   },
   {
-    "id": "ibc/27A5DE18D796A595123D97078F9AB9EAEFC23540724384F219EACED2BD5511F5",
-    "origin_chain": "secretnetwork",
-    "origin_chain_id": "secret-4",
-    "origin_id": "uscrt",
-    "name": "Secret Network",
-    "symbol": "SCRT",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3QTVERTE4RDc5NkE1OTUxMjNEOTcwNzhGOUFCOUVBRUZDMjM1NDA3MjQzODRGMjE5RUFDRUQyQkQ1NTExRjU%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3QTVERTE4RDc5NkE1OTUxMjNEOTcwNzhGOUFCOUVBRUZDMjM1NDA3MjQzODRGMjE5RUFDRUQyQkQ1NTExRjU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/secret"
+    "id": "gamm/pool/16",
+    "name": "GAMM-16",
+    "symbol": "GAMM-16",
+    "decimals": "18"
   },
   {
-    "id": "ibc/2F2F132E47342479A8B7A8DB241F276609C53A1478CEB9A57411A910C9B061DB",
-    "origin_chain": "neutron",
-    "origin_chain_id": "neutron-1",
-    "origin_id": "untrn",
-    "name": "Neutron",
-    "symbol": "NTRN",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGMkYxMzJFNDczNDI0NzlBOEI3QThEQjI0MUYyNzY2MDlDNTNBMTQ3OENFQjlBNTc0MTFBOTEwQzlCMDYxREI%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzJGMkYxMzJFNDczNDI0NzlBOEI3QThEQjI0MUYyNzY2MDlDNTNBMTQ3OENFQjlBNTc0MTFBOTEwQzlCMDYxREI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/neutron-3"
+    "id": "gamm/pool/17",
+    "name": "GAMM-17",
+    "symbol": "GAMM-17",
+    "decimals": "18"
   },
   {
-    "id": "ibc/45D6B52CAD911A15BD9C2F5FFDA80E26AFCB05C7CD520070790ABC86D2B24229",
-    "origin_chain": "celestia",
-    "origin_chain_id": "celestia",
-    "origin_id": "utia",
-    "name": "Celestia",
-    "symbol": "TIA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1RDZCNTJDQUQ5MTFBMTVCRDlDMkY1RkZEQTgwRTI2QUZDQjA1QzdDRDUyMDA3MDc5MEFCQzg2RDJCMjQyMjk%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzQ1RDZCNTJDQUQ5MTFBMTVCRDlDMkY1RkZEQTgwRTI2QUZDQjA1QzdDRDUyMDA3MDc5MEFCQzg2RDJCMjQyMjk%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/celestia"
+    "id": "gamm/pool/18",
+    "name": "GAMM-18",
+    "symbol": "GAMM-18",
+    "decimals": "18"
   },
   {
-    "id": "ibc/4FE29DB266C83C166D7CB2547D6E3CEA3C2EFF56160540571E495D18E7CF3ADE",
-    "name": "ODY",
-    "symbol": "ODY",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRGRTI5REIyNjZDODNDMTY2RDdDQjI1NDdENkUzQ0VBM0MyRUZGNTYxNjA1NDA1NzFFNDk1RDE4RTdDRjNBREU%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRGRTI5REIyNjZDODNDMTY2RDdDQjI1NDdENkUzQ0VBM0MyRUZGNTYxNjA1NDA1NzFFNDk1RDE4RTdDRjNBREU%3D&pagination.limit=1"
+    "id": "gamm/pool/19",
+    "name": "GAMM-19",
+    "symbol": "GAMM-19",
+    "decimals": "18"
   },
   {
-    "id": "ibc/5620289B0E1106C8A2421F212FEC4EB19E3CBA964662DB61754CCDE8FAAC29FF",
-    "name": "Dr.BE",
-    "symbol": "Dr.BE",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2MjAyODlCMEUxMTA2QzhBMjQyMUYyMTJGRUM0RUIxOUUzQ0JBOTY0NjYyREI2MTc1NENDREU4RkFBQzI5RkY%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2MjAyODlCMEUxMTA2QzhBMjQyMUYyMTJGRUM0RUIxOUUzQ0JBOTY0NjYyREI2MTc1NENDREU4RkFBQzI5RkY%3D&pagination.limit=1"
+    "id": "gamm/pool/2",
+    "name": "GAMM-2",
+    "symbol": "GAMM-2",
+    "decimals": "18"
   },
   {
-    "id": "ibc/5A26C8DC8DA66F4DD94326E67F94510188F5F7AFE2DB3933A0C823670E56EABF",
-    "origin_chain": "mande",
-    "origin_chain_id": "mande_18071918-1",
-    "origin_id": "amand",
-    "name": "Mande Network",
-    "symbol": "MAND",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVBMjZDOERDOERBNjZGNEREOTQzMjZFNjdGOTQ1MTAxODhGNUY3QUZFMkRCMzkzM0EwQzgyMzY3MEU1NkVBQkY%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVBMjZDOERDOERBNjZGNEREOTQzMjZFNjdGOTQ1MTAxODhGNUY3QUZFMkRCMzkzM0EwQzgyMzY3MEU1NkVBQkY%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mande/images/mande.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/mande-network"
+    "id": "gamm/pool/20",
+    "name": "GAMM-20",
+    "symbol": "GAMM-20",
+    "decimals": "18"
   },
   {
-    "id": "ibc/5C58CC109FB067073F1B80481EE9C3A8484330FECB35D2591B28E7E1A6FCF64C",
-    "origin_chain": "archway",
-    "origin_chain_id": "archway-1",
-    "origin_id": "aarch",
-    "name": "Archway",
-    "symbol": "ARCH",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDNThDQzEwOUZCMDY3MDczRjFCODA0ODFFRTlDM0E4NDg0MzMwRkVDQjM1RDI1OTFCMjhFN0UxQTZGQ0Y2NEM%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzVDNThDQzEwOUZCMDY3MDczRjFCODA0ODFFRTlDM0E4NDg0MzMwRkVDQjM1RDI1OTFCMjhFN0UxQTZGQ0Y2NEM%3D&pagination.limit=1",
-    "icon": "https://coinhall.astrovault.io/token/logo-arch.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/archway"
+    "id": "gamm/pool/21",
+    "name": "GAMM-21",
+    "symbol": "GAMM-21",
+    "decimals": "18"
   },
   {
-    "id": "ibc/7585D73046673D3A8E6BD632DD29778082DC3F97B2E045D8495ADEFB15EB90AA",
-    "name": "KITTY",
-    "symbol": "KITTY",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc1ODVENzMwNDY2NzNEM0E4RTZCRDYzMkREMjk3NzgwODJEQzNGOTdCMkUwNDVEODQ5NUFERUZCMTVFQjkwQUE%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzc1ODVENzMwNDY2NzNEM0E4RTZCRDYzMkREMjk3NzgwODJEQzNGOTdCMkUwNDVEODQ5NUFERUZCMTVFQjkwQUE%3D&pagination.limit=1"
+    "id": "gamm/pool/22",
+    "name": "GAMM-22",
+    "symbol": "GAMM-22",
+    "decimals": "18"
   },
   {
-    "id": "ibc/803AFE90C2F6D1F0E8BF672524540AF2980C5D7481256D618D33EF3B823B18C3",
-    "name": "DESMOS",
-    "symbol": "DESMOS",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzgwM0FGRTkwQzJGNkQxRjBFOEJGNjcyNTI0NTQwQUYyOTgwQzVENzQ4MTI1NkQ2MThEMzNFRjNCODIzQjE4QzM%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzgwM0FGRTkwQzJGNkQxRjBFOEJGNjcyNTI0NTQwQUYyOTgwQzVENzQ4MTI1NkQ2MThEMzNFRjNCODIzQjE4QzM%3D&pagination.limit=1"
+    "id": "gamm/pool/23",
+    "name": "GAMM-23",
+    "symbol": "GAMM-23",
+    "decimals": "18"
   },
   {
-    "id": "ibc/8EEB88C2234242089595FD03E2BFF059177152F30C50D4072C8F352BD06B888A",
-    "name": "AVIA",
-    "symbol": "AVIA",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhFRUI4OEMyMjM0MjQyMDg5NTk1RkQwM0UyQkZGMDU5MTc3MTUyRjMwQzUwRDQwNzJDOEYzNTJCRDA2Qjg4OEE%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzhFRUI4OEMyMjM0MjQyMDg5NTk1RkQwM0UyQkZGMDU5MTc3MTUyRjMwQzUwRDQwNzJDOEYzNTJCRDA2Qjg4OEE%3D&pagination.limit=1"
+    "id": "gamm/pool/24",
+    "name": "GAMM-24",
+    "symbol": "GAMM-24",
+    "decimals": "18"
   },
   {
-    "id": "ibc/A526E143013686502D5D19F5FCAF34BB2082B8BB72960F1D63B568ECB136BEBA",
-    "name": "DGM",
-    "symbol": "DGM",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0E1MjZFMTQzMDEzNjg2NTAyRDVEMTlGNUZDQUYzNEJCMjA4MkI4QkI3Mjk2MEYxRDYzQjU2OEVDQjEzNkJFQkE%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0E1MjZFMTQzMDEzNjg2NTAyRDVEMTlGNUZDQUYzNEJCMjA4MkI4QkI3Mjk2MEYxRDYzQjU2OEVDQjEzNkJFQkE%3D&pagination.limit=1"
+    "id": "gamm/pool/25",
+    "name": "GAMM-25",
+    "symbol": "GAMM-25",
+    "decimals": "18"
   },
   {
-    "id": "ibc/AB30D2F9C131AE1EFA8449C74490326BD5ACC40EF69A2D8563994AA05CE0B258",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "stadym",
-    "name": "Stride Staked DYM",
-    "symbol": "stDYM",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCMzBEMkY5QzEzMUFFMUVGQTg0NDlDNzQ0OTAzMjZCRDVBQ0M0MEVGNjlBMkQ4NTYzOTk0QUEwNUNFMEIyNTg%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0FCMzBEMkY5QzEzMUFFMUVGQTg0NDlDNzQ0OTAzMjZCRDVBQ0M0MEVGNjlBMkQ4NTYzOTk0QUEwNUNFMEIyNTg%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stdym.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride-staked-dym"
+    "id": "gamm/pool/26",
+    "name": "GAMM-26",
+    "symbol": "GAMM-26",
+    "decimals": "18"
   },
   {
-    "id": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
-    "origin_chain": "kujira",
-    "origin_chain_id": "kaiyo-1",
-    "origin_id": "ukuji",
-    "name": "Kuji",
-    "symbol": "KUJI",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyMkI0REQyMTU4Njk2NURBRUY0MkE3NjAwQkEzNzFFQTc3QzAyRTkwRkM4QTdGMjMzMEJGOUY5REUxMjlCMDc%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyMkI0REQyMTU4Njk2NURBRUY0MkE3NjAwQkEzNzFFQTc3QzAyRTkwRkM4QTdGMjMzMEJGOUY5REUxMjlCMDc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png",
-    "coingecko": "https://www.coingecko.com/en/coins/kujira"
+    "id": "gamm/pool/27",
+    "name": "GAMM-27",
+    "symbol": "GAMM-27",
+    "decimals": "18"
   },
   {
-    "id": "ibc/B2861C3497F93CD1CA5FA0A325A1C5C2160E1C7C2B2F1E1CC2FB09DE926A94B6",
-    "name": "STN",
-    "symbol": "STN",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyODYxQzM0OTdGOTNDRDFDQTVGQTBBMzI1QTFDNUMyMTYwRTFDN0MyQjJGMUUxQ0MyRkIwOURFOTI2QTk0QjY%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IyODYxQzM0OTdGOTNDRDFDQTVGQTBBMzI1QTFDNUMyMTYwRTFDN0MyQjJGMUUxQ0MyRkIwOURFOTI2QTk0QjY%3D&pagination.limit=1"
+    "id": "gamm/pool/28",
+    "name": "GAMM-28",
+    "symbol": "GAMM-28",
+    "decimals": "18"
   },
   {
-    "id": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
-    "origin_chain": "noble",
-    "origin_chain_id": "noble-1",
-    "origin_id": "uusdc",
-    "name": "Noble USDC",
-    "symbol": "USDC",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IzNTA0RTA5MjQ1NkJBNjE4Q0MyOEFDNjcxQTcxRkIwOEM2Q0EwRkQwQkU3QzhBNUI1QTNFMkREOTMzQ0M5RTQ%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0IzNTA0RTA5MjQ1NkJBNjE4Q0MyOEFDNjcxQTcxRkIwOEM2Q0EwRkQwQkU3QzhBNUI1QTNFMkREOTMzQ0M5RTQ%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/usd-coin"
+    "id": "gamm/pool/29",
+    "name": "GAMM-29",
+    "symbol": "GAMM-29",
+    "decimals": "18"
   },
   {
-    "id": "ibc/B72B5B3F7AD44783584921DC33354BCE07C8EB0A7F0349247C3DAD38C3B6E6A5",
-    "origin_chain": "kava",
-    "origin_chain_id": "kava_2222-10",
-    "origin_id": "erc20/tether/usdt",
-    "name": "Tether USD",
-    "symbol": "USDT.kava",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I3MkI1QjNGN0FENDQ3ODM1ODQ5MjFEQzMzMzU0QkNFMDdDOEVCMEE3RjAzNDkyNDdDM0RBRDM4QzNCNkU2QTU%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I3MkI1QjNGN0FENDQ3ODM1ODQ5MjFEQzMzMzU0QkNFMDdDOEVCMEE3RjAzNDkyNDdDM0RBRDM4QzNCNkU2QTU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/tether"
+    "id": "gamm/pool/3",
+    "name": "GAMM-3",
+    "symbol": "GAMM-3",
+    "decimals": "18"
   },
   {
-    "id": "ibc/B72C05CE7B0EBD1BB083757E0607E2A860357B51856691BC4E19BA59532410D1",
-    "name": "OWL",
-    "symbol": "OWL",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I3MkMwNUNFN0IwRUJEMUJCMDgzNzU3RTA2MDdFMkE4NjAzNTdCNTE4NTY2OTFCQzRFMTlCQTU5NTMyNDEwRDE%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I3MkMwNUNFN0IwRUJEMUJCMDgzNzU3RTA2MDdFMkE4NjAzNTdCNTE4NTY2OTFCQzRFMTlCQTU5NTMyNDEwRDE%3D&pagination.limit=1"
+    "id": "gamm/pool/31",
+    "name": "GAMM-31",
+    "symbol": "GAMM-31",
+    "decimals": "18"
   },
   {
-    "id": "ibc/BEE9A8F835D60717548FFE9AC9E90F18AB8096574EB1211F88074CB3511B7860",
-    "origin_chain": "osmosis",
-    "origin_chain_id": "osmosis-1",
-    "origin_id": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
-    "name": "Wrapped Bitcoin",
-    "symbol": "WBTC",
-    "decimals": "8",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JFRTlBOEY4MzVENjA3MTc1NDhGRkU5QUM5RTkwRjE4QUI4MDk2NTc0RUIxMjExRjg4MDc0Q0IzNTExQjc4NjA%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0JFRTlBOEY4MzVENjA3MTc1NDhGRkU5QUM5RTkwRjE4QUI4MDk2NTc0RUIxMjExRjg4MDc0Q0IzNTExQjc4NjA%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/wrapped-bitcoin"
+    "id": "gamm/pool/32",
+    "name": "GAMM-32",
+    "symbol": "GAMM-32",
+    "decimals": "18"
   },
   {
-    "id": "ibc/C0400257F9FA419490A88B13625C8F85EC2C7CBA414D6E69F5FF9BEE1E8F3F25",
-    "name": "YAMOD",
-    "symbol": "YAMOD",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MwNDAwMjU3RjlGQTQxOTQ5MEE4OEIxMzYyNUM4Rjg1RUMyQzdDQkE0MTRENkU2OUY1RkY5QkVFMUU4RjNGMjU%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MwNDAwMjU3RjlGQTQxOTQ5MEE4OEIxMzYyNUM4Rjg1RUMyQzdDQkE0MTRENkU2OUY1RkY5QkVFMUU4RjNGMjU%3D&pagination.limit=1"
+    "id": "gamm/pool/33",
+    "name": "GAMM-33",
+    "symbol": "GAMM-33",
+    "decimals": "18"
   },
   {
-    "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-    "origin_chain": "cosmoshub",
-    "origin_chain_id": "cosmoshub-4",
-    "origin_id": "uatom",
-    "name": "Cosmos Hub Atom",
-    "symbol": "ATOM",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0M0Q0ZGNDZGRDZERTM1Q0E0Q0Y0Q0UwMzFFNjQzQzhGREM5QkE0Qjk5QUU1OThFOUIwRUQ5OEZFM0EyMzE5Rjk%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/cosmos"
+    "id": "gamm/pool/34",
+    "name": "GAMM-34",
+    "symbol": "GAMM-34",
+    "decimals": "18"
   },
   {
-    "id": "ibc/D934516FBE457F3A98AFABD87E0EFF7F95A15325C191EA8CDD7763C702FDDEC2",
-    "origin_chain": "axelar",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "uaxl",
-    "name": "Axelar",
-    "symbol": "AXL",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q5MzQ1MTZGQkU0NTdGM0E5OEFGQUJEODdFMEVGRjdGOTVBMTUzMjVDMTkxRUE4Q0RENzc2M0M3MDJGRERFQzI%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q5MzQ1MTZGQkU0NTdGM0E5OEFGQUJEODdFMEVGRjdGOTVBMTUzMjVDMTkxRUE4Q0RENzc2M0M3MDJGRERFQzI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/axelar"
+    "id": "gamm/pool/35",
+    "name": "GAMM-35",
+    "symbol": "GAMM-35",
+    "decimals": "18"
   },
   {
-    "id": "ibc/DE00E9D8B265387C0DB156B74608A033DBE9BDF1FF13500F701133F4E2FDA7DB",
-    "name": "KYZE",
-    "symbol": "KYZE",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RFMDBFOUQ4QjI2NTM4N0MwREIxNTZCNzQ2MDhBMDMzREJFOUJERjFGRjEzNTAwRjcwMTEzM0Y0RTJGREE3REI%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0RFMDBFOUQ4QjI2NTM4N0MwREIxNTZCNzQ2MDhBMDMzREJFOUJERjFGRjEzNTAwRjcwMTEzM0Y0RTJGREE3REI%3D&pagination.limit=1"
+    "id": "gamm/pool/36",
+    "name": "GAMM-36",
+    "symbol": "GAMM-36",
+    "decimals": "18"
   },
   {
-    "id": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
-    "origin_chain": "axelar",
-    "origin_chain_id": "axelar-dojo-1",
-    "origin_id": "weth-wei",
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UzQUIwREZERTlFNzgyMjYyQjc3MEMzMkRGOTRBQzJBOTJCOTNEQzQ4MjUzNzZENkY2Qzg3NEQzQzg3Nzg2NEU%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UzQUIwREZERTlFNzgyMjYyQjc3MEMzMkRGOTRBQzJBOTJCOTNEQzQ4MjUzNzZENkY2Qzg3NEQzQzg3Nzg2NEU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
-    "coingecko": "https://www.coingecko.com/en/coins/axlweth"
+    "id": "gamm/pool/37",
+    "name": "GAMM-37",
+    "symbol": "GAMM-37",
+    "decimals": "18"
   },
   {
-    "id": "ibc/F428C5D24BEF8CA22EE74810A583422C12F02865ADAC185678C73015A88227B3",
-    "origin_chain": "osmosis",
-    "origin_chain_id": "osmosis-1",
-    "origin_id": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
-    "name": "milkTIA",
-    "symbol": "milkTIA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0MjhDNUQyNEJFRjhDQTIyRUU3NDgxMEE1ODM0MjJDMTJGMDI4NjVBREFDMTg1Njc4QzczMDE1QTg4MjI3QjM%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0MjhDNUQyNEJFRjhDQTIyRUU3NDgxMEE1ODM0MjJDMTJGMDI4NjVBREFDMTg1Njc4QzczMDE1QTg4MjI3QjM%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/milktia.png",
-    "coingecko": "https://www.coingecko.com/en/coins/milkyway-staked-tia"
+    "id": "gamm/pool/38",
+    "name": "GAMM-38",
+    "symbol": "GAMM-38",
+    "decimals": "18"
   },
   {
-    "id": "ibc/F46BA5EDCA6DAA5F7EFD3838430E03647CDC786BB1B89BC9FDD1CBE16B099645",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "stutia",
-    "name": "Stride Staked TIA",
-    "symbol": "stTIA",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Y0NkJBNUVEQ0E2REFBNUY3RUZEMzgzODQzMEUwMzY0N0NEQzc4NkJCMUI4OUJDOUZERDFDQkUxNkIwOTk2NDU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/sttia.svg"
+    "id": "gamm/pool/39",
+    "name": "GAMM-39",
+    "symbol": "GAMM-39",
+    "decimals": "18"
   },
   {
-    "id": "ibc/FB53D1684F155CBB86D9CE917807E42B59209EBE3AD3A92E15EF66586C073942",
-    "origin_chain": "nim",
-    "origin_chain_id": "nim_1122-1",
-    "origin_id": "anim",
-    "name": "NIM Network",
-    "symbol": "NIM",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nim/images/nim.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/nim-network"
+    "id": "gamm/pool/4",
+    "name": "GAMM-4",
+    "symbol": "GAMM-4",
+    "decimals": "18"
   },
   {
-    "id": "ibc/FF6C2E86490C1C4FBBD24F55032831D2415B9D7882F85C3CC9C2401D79362BEA",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "ustrd",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride"
+    "id": "gamm/pool/40",
+    "name": "GAMM-40",
+    "symbol": "GAMM-40",
+    "decimals": "18"
   },
   {
-    "id": "IRO/heilelonmusk_653667-1",
-    "name": "IRO/HELON",
-    "symbol": "IRO/HELON",
-    "decimals": "18",
-    "type": "cw20"
+    "id": "gamm/pool/5",
+    "name": "GAMM-5",
+    "symbol": "GAMM-5",
+    "decimals": "18"
   },
   {
-    "id": "IRO/kukkurukku_718596-1",
-    "name": "IRO/KURU",
-    "symbol": "IRO/KURU",
-    "decimals": "18",
-    "type": "cw20"
+    "id": "gamm/pool/6",
+    "name": "GAMM-6",
+    "symbol": "GAMM-6",
+    "decimals": "18"
   },
   {
-    "id": "IRO/milkyway_418549-1",
-    "name": "IRO/MILK",
-    "symbol": "IRO/MILK",
-    "decimals": "18",
-    "type": "cw20"
+    "id": "gamm/pool/7",
+    "name": "GAMM-7",
+    "symbol": "GAMM-7",
+    "decimals": "18"
   },
   {
-    "id": "IRO/odysphere_224126-1",
-    "name": "IRO/ODY",
-    "symbol": "IRO/ODY",
-    "decimals": "18",
-    "type": "cw20"
+    "id": "gamm/pool/8",
+    "name": "GAMM-8",
+    "symbol": "GAMM-8",
+    "decimals": "18"
+  },
+  {
+    "id": "IRO/booobs_642717-1",
+    "name": "IRO/BOOBS",
+    "symbol": "IRO/BOOBS",
+    "decimals": "18"
   }
 ]
