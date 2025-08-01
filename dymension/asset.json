@@ -12,6 +12,48 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
+    "id": "gamm/pool/12",
+    "name": "GAMM-12",
+    "symbol": "GAMM-12",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/27",
+    "name": "GAMM-27",
+    "symbol": "GAMM-27",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/28",
+    "name": "GAMM-28",
+    "symbol": "GAMM-28",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/3",
+    "name": "GAMM-3",
+    "symbol": "GAMM-3",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/37",
+    "name": "GAMM-37",
+    "symbol": "GAMM-37",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/8",
+    "name": "GAMM-8",
+    "symbol": "GAMM-8",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/9",
+    "name": "GAMM-9",
+    "symbol": "GAMM-9",
+    "decimals": "18"
+  },
+  {
     "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
     "origin_chain": "evmos",
     "origin_chain_id": "evmos_9001-2",
@@ -385,66 +427,9 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/sttia.svg"
   },
   {
-    "id": "ibc/FB53D1684F155CBB86D9CE917807E42B59209EBE3AD3A92E15EF66586C073942",
-    "origin_chain": "nim",
-    "origin_chain_id": "nim_1122-1",
-    "origin_id": "anim",
-    "name": "NIM Network",
-    "symbol": "NIM",
-    "decimals": "18",
-    "type": "ibc",
-    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZCNTNEMTY4NEYxNTVDQkI4NkQ5Q0U5MTc4MDdFNDJCNTkyMDlFQkUzQUQzQTkyRTE1RUY2NjU4NkMwNzM5NDI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nim/images/nim.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/nim-network"
-  },
-  {
-    "id": "ibc/FF6C2E86490C1C4FBBD24F55032831D2415B9D7882F85C3CC9C2401D79362BEA",
-    "origin_chain": "stride",
-    "origin_chain_id": "stride-1",
-    "origin_id": "ustrd",
-    "name": "Stride",
-    "symbol": "STRD",
-    "decimals": "6",
-    "type": "ibc",
-    "circ_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "total_supply_api": "https://api-dymension.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0ZGNkMyRTg2NDkwQzFDNEZCQkQyNEY1NTAzMjgzMUQyNDE1QjlENzg4MkY4NUMzQ0M5QzI0MDFENzkzNjJCRUE%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/stride"
-  },
-  {
-    "id": "IRO/heilelonmusk_653667-1",
-    "name": "IRO/HELON",
-    "symbol": "IRO/HELON",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/kukkurukku_718596-1",
-    "name": "IRO/KURU",
-    "symbol": "IRO/KURU",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/milkyway_418549-1",
-    "name": "IRO/MILK",
-    "symbol": "IRO/MILK",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/odysphere_224126-1",
-    "name": "IRO/ODY",
-    "symbol": "IRO/ODY",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/ucffinance_657966-1",
-    "name": "IRO/UCF",
-    "symbol": "IRO/UCF",
-    "decimals": "18",
-    "type": "cw20"
+    "id": "IRO/vr_967759-1",
+    "name": "IRO/VRR",
+    "symbol": "IRO/VRR",
+    "decimals": "18"
   }
 ]
