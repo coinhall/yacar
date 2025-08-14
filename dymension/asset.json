@@ -146,6 +146,17 @@
     "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2MjAyODlCMEUxMTA2QzhBMjQyMUYyMTJGRUM0RUIxOUUzQ0JBOTY0NjYyREI2MTc1NENDREU4RkFBQzI5RkY%3D&pagination.limit=1"
   },
   {
+    "id": "ibc/567D01F41E7047F60174CD64D10E8D85E09E1B831023BC75622A8F67C540DCD4",
+    "origin_chain": "kava",
+    "origin_chain_id": "kava_2222-10",
+    "origin_id": "ukava",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2N0QwMUY0MUU3MDQ3RjYwMTc0Q0Q2NEQxMEU4RDg1RTA5RTFCODMxMDIzQkM3NTYyMkE4RjY3QzU0MERDRDQ%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2N0QwMUY0MUU3MDQ3RjYwMTc0Q0Q2NEQxMEU4RDg1RTA5RTFCODMxMDIzQkM3NTYyMkE4RjY3QzU0MERDRDQ%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/kava"
+  },
+  {
     "id": "ibc/5A26C8DC8DA66F4DD94326E67F94510188F5F7AFE2DB3933A0C823670E56EABF",
     "origin_chain": "mande",
     "origin_chain_id": "mande_18071918-1",
@@ -413,11 +424,23 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
   {
+    "id": "IRO/basilisk_813285-1",
+    "name": "IRO/BASIL",
+    "symbol": "IRO/BASIL",
+    "decimals": "18"
+  },
+  {
     "id": "IRO/heilelonmusk_653667-1",
     "name": "IRO/HELON",
     "symbol": "IRO/HELON",
     "decimals": "18",
     "type": "cw20"
+  },
+  {
+    "id": "IRO/koenigtokin_772828-1",
+    "name": "IRO/KOENT",
+    "symbol": "IRO/KOENT",
+    "decimals": "18"
   },
   {
     "id": "IRO/kukkurukku_718596-1",
@@ -437,20 +460,6 @@
     "id": "IRO/odysphere_224126-1",
     "name": "IRO/ODY",
     "symbol": "IRO/ODY",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/ucffinance_657966-1",
-    "name": "IRO/UCF",
-    "symbol": "IRO/UCF",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/zombieland_209250-1",
-    "name": "IRO/ZMB",
-    "symbol": "IRO/ZMB",
     "decimals": "18",
     "type": "cw20"
   }
