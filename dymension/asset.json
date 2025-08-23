@@ -12,6 +12,30 @@
     "coingecko": "https://www.coingecko.com/en/coins/dymension"
   },
   {
+    "id": "gamm/pool/15",
+    "name": "GAMM-15",
+    "symbol": "GAMM-15",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/39",
+    "name": "GAMM-39",
+    "symbol": "GAMM-39",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/44",
+    "name": "GAMM-44",
+    "symbol": "GAMM-44",
+    "decimals": "18"
+  },
+  {
+    "id": "gamm/pool/7",
+    "name": "GAMM-7",
+    "symbol": "GAMM-7",
+    "decimals": "18"
+  },
+  {
     "id": "ibc/04E01477A69DF1E5EE99F85C15B66D68D23292275357CAA44B2E0527310A405E",
     "origin_chain": "evmos",
     "origin_chain_id": "evmos_9001-2",
@@ -144,6 +168,17 @@
     "type": "ibc",
     "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2MjAyODlCMEUxMTA2QzhBMjQyMUYyMTJGRUM0RUIxOUUzQ0JBOTY0NjYyREI2MTc1NENDREU4RkFBQzI5RkY%3D&pagination.limit=1",
     "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2MjAyODlCMEUxMTA2QzhBMjQyMUYyMTJGRUM0RUIxOUUzQ0JBOTY0NjYyREI2MTc1NENDREU4RkFBQzI5RkY%3D&pagination.limit=1"
+  },
+  {
+    "id": "ibc/567D01F41E7047F60174CD64D10E8D85E09E1B831023BC75622A8F67C540DCD4",
+    "origin_chain": "kava",
+    "origin_chain_id": "kava_2222-10",
+    "origin_id": "ukava",
+    "type": "ibc",
+    "circ_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2N0QwMUY0MUU3MDQ3RjYwMTc0Q0Q2NEQxMEU4RDg1RTA5RTFCODMxMDIzQkM3NTYyMkE4RjY3QzU0MERDRDQ%3D&pagination.limit=1",
+    "total_supply_api": "https://dymension-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU2N0QwMUY0MUU3MDQ3RjYwMTc0Q0Q2NEQxMEU4RDg1RTA5RTFCODMxMDIzQkM3NTYyMkE4RjY3QzU0MERDRDQ%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/kava"
   },
   {
     "id": "ibc/5A26C8DC8DA66F4DD94326E67F94510188F5F7AFE2DB3933A0C823670E56EABF",
@@ -413,45 +448,15 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride"
   },
   {
-    "id": "IRO/heilelonmusk_653667-1",
-    "name": "IRO/HELON",
-    "symbol": "IRO/HELON",
-    "decimals": "18",
-    "type": "cw20"
+    "id": "IRO/adaptiveyieldoptimizer_450157-1",
+    "name": "IRO/AYD",
+    "symbol": "IRO/AYD",
+    "decimals": "18"
   },
   {
-    "id": "IRO/kukkurukku_718596-1",
-    "name": "IRO/KURU",
-    "symbol": "IRO/KURU",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/milkyway_418549-1",
-    "name": "IRO/MILK",
-    "symbol": "IRO/MILK",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/odysphere_224126-1",
-    "name": "IRO/ODY",
-    "symbol": "IRO/ODY",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/ucffinance_657966-1",
-    "name": "IRO/UCF",
-    "symbol": "IRO/UCF",
-    "decimals": "18",
-    "type": "cw20"
-  },
-  {
-    "id": "IRO/zombieland_209250-1",
-    "name": "IRO/ZMB",
-    "symbol": "IRO/ZMB",
-    "decimals": "18",
-    "type": "cw20"
+    "id": "IRO/ferrumcoin_544154-1",
+    "name": "IRO/FRC",
+    "symbol": "IRO/FRC",
+    "decimals": "18"
   }
 ]
