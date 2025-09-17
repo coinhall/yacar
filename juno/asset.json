@@ -89,6 +89,14 @@
     "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTRzd25jeWhndDY0MDl6andzbmh1bjB6emF0eDRjd2NudHRrc3hqbnp0cHUwM3V4cWEyNHFtbDByeWMvdGVzdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/juno14vz2m3p5g9eag05dljhrhhjp2u2phqw4tutg87wqfwuwxh9tm6xqp4h5zd/lowo",
+    "name": "Leonine DAO stable token",
+    "symbol": "Lowo",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTR2ejJtM3A1ZzllYWcwNWRsamhyaGhqcDJ1MnBocXc0dHV0Zzg3d3Fmd3V3eGg5dG02eHFwNGg1emQvbG93bw%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno14y76wed4mgjmffw7srm9hz8kqwaxhyuwpth28d5mmw4zm7ns87cs2qq8zr/ogm",
     "name": "OG MEME",
     "symbol": "OGM",
@@ -341,6 +349,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno1n46f7uea2mp46makhtsncygjetxywn7emw3e3vy6f8yx63qy300qlltfey/bos",
+    "name": "Boston Money Cat Token",
+    "symbol": "BOS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMW40NmY3dWVhMm1wNDZtYWtodHNuY3lnamV0eHl3bjdlbXczZTN2eTZmOHl4NjNxeTMwMHFsbHRmZXkvYm9z&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1pgr63fx2fwrl2cf5dechjpsrcxhmdx469r28fwsavvvk8euuv9jq0shhku/tst",
     "name": "Test Token",
     "symbol": "TST",
@@ -483,7 +499,8 @@
     "symbol": "EMPR",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXpqcXNlbDQycGo1ZTZ3dnh4dzdoanM5Z24wNnlxejRtM2ZmeXVhM3gydjQ0bTRsOHRyanNyOTJxOXMvZW1wcg%3D%3D&pagination.limit=1"
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXpqcXNlbDQycGo1ZTZ3dnh4dzdoanM5Z24wNnlxejRtM2ZmeXVhM3gydjQ0bTRsOHRyanNyOTJxOXMvZW1wcg%3D%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/empr.png"
   },
   {
     "id": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
@@ -745,7 +762,8 @@
     "type": "ibc",
     "circ_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4RDYyNzFFQzU0RTNBOTZDNkI5RkI2QzJCQTlFOTk2OTJCMDdDRUI0Mjc1NDYzODAyOTY1NzA3MkVBNDgzMzc%3D&pagination.limit=1",
     "total_supply_api": "https://api-juno-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0Q4RDYyNzFFQzU0RTNBOTZDNkI5RkI2QzJCQTlFOTk2OTJCMDdDRUI0Mjc1NDYzODAyOTY1NzA3MkVBNDgzMzc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg"
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rac.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/racoon"
   },
   {
     "id": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A",

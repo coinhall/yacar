@@ -8,6 +8,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/bonewhalet.svg"
   },
   {
+    "id": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
+    "name": "ERIS Amplified CAPA",
+    "symbol": "ampCAPA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/ampCapa.svg"
+  },
+  {
     "id": "factory/terra1dndhtdr2v7ca8rrn67chlqw3cl3xhm3m2uxls62vghcg3fsh5tpss5xmcu/MOAR",
     "entity": "Lion DAO",
     "name": "MOAR",
@@ -3720,7 +3728,8 @@
     "type": "cw20",
     "circ_supply_api": "https://capa-supply.capapult-se.workers.dev",
     "total_supply_api": "https://phoenix-lcd.terra.dev/cosmwasm/wasm/v1/contract/terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://assets.capapult.finance/icon/Capa.svg"
+    "icon": "https://assets.capapult.finance/icon/Capa.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/capapult"
   },
   {
     "id": "terra1t906pc4s8ptgrr8gx8m52hvvse8ytq5za86fmudm2wr4vw2kyqzqyph4ml",
