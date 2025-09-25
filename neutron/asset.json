@@ -257,6 +257,22 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMThoNXB2bXZncmsyMG11cmE4dzQ3ajZlMGZ5cjlqNThrY2xxeTJoMnBnOHFyaDc4dmQyNnFubDR6MjAvcHVuaw%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/neutron197k8x8rr6860jt40jsaa779yyh53ug5y7aewp9uffd38f5npp9tqaw48d3/inflow_btc_ushare",
+    "name": "Inflow BTC",
+    "symbol": "Inflow BTC",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTk3azh4OHJyNjg2MGp0NDBqc2FhNzc5eXloNTN1ZzV5N2Fld3A5dWZmZDM4ZjVucHA5dHFhdzQ4ZDMvaW5mbG93X2J0Y191c2hhcmU%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron19n7699nh4388v6wcxjke88j5933phrc3azsw783wnkt4255nc9rqzr79c0/inflow_usdc_ushare",
+    "name": "Inflow USDC",
+    "symbol": "Inflow USDC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTluNzY5OW5oNDM4OHY2d2N4amtlODhqNTkzM3BocmMzYXpzdzc4M3dua3Q0MjU1bmM5cnF6cjc5YzAvaW5mbG93X3VzZGNfdXNoYXJl&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron19pvz0mahhpkgdajvj7j53u5y0zsfg6c2ccf43rq6udrcjr9q2mysxtre9t/test",
     "name": "test token",
     "symbol": "test",
@@ -930,6 +946,15 @@
     "icon": "https://asteroid.ams3.digitaloceanspaces.com/7418862F22E981C41B94EC1759E5ED35F30471476A1EBD5AAE00CFF083480115.png"
   },
   {
+    "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NTN",
+    "name": "Neutron",
+    "symbol": "NTN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWQ1OXJrd21rdDZmNDZhZXlyYTZ6Zms2Z2hlaGxzcWMycWV2dzk2YzZ4NHhmbXlrNHF4aHNqaDhham4vTlRO&pagination.limit=1",
+    "icon": "https://asteroid.ams3.digitaloceanspaces.com/E3271D1330325ACC4459C1F10B3865103E8096210B169018CE0D8152E97ED1A9.png"
+  },
+  {
     "id": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/NTRX",
     "name": "New Tron",
     "symbol": "NTRX",
@@ -1236,6 +1261,14 @@
     "icon": "https://asteroid.ams3.digitaloceanspaces.com/0056617AABA3C7C8E384FC855786FE1BBD8F30E02CA7DF0BE5B2059E79AF52BD.jpe"
   },
   {
+    "id": "factory/neutron1dhgrjpcgkxr4mk5lhjknhyttzdvfcu87cezegzvqp8955r5tdv2qugsftv/inflow_btc_ushare",
+    "name": "Inflow BTC",
+    "symbol": "Inflow BTC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWRoZ3JqcGNna3hyNG1rNWxoamtuaHl0dHpkdmZjdTg3Y2V6ZWd6dnFwODk1NXI1dGR2MnF1Z3NmdHYvaW5mbG93X2J0Y191c2hhcmU%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1ees4460xhj7z6g49fn8z39mg533qw7nh7wtcsj/sloth",
     "name": "SLOTH",
     "symbol": "SLOTH",
@@ -1275,6 +1308,14 @@
     "icon": "https://i.imgur.com/CbqmEUQ.png"
   },
   {
+    "id": "factory/neutron1fqp7r63msu4s0hvxgw63l8fcs5vsw63gw63u7tfvar5xe4rp292sldudgf/inflow_atom_ushare",
+    "name": "Inflow ATOM",
+    "symbol": "Inflow ATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWZxcDdyNjNtc3U0czBodnhndzYzbDhmY3M1dnN3NjNndzYzdTd0ZnZhcjV4ZTRycDI5MnNsZHVkZ2YvaW5mbG93X2F0b21fdXNoYXJl&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1frc0p5czd9uaaymdkug2njz7dc7j65jxukp9apmt9260a8egujkspms2t2/udntrn",
     "entity": "dNTRN",
     "name": "dNTRN",
@@ -1309,6 +1350,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWo4dXpjbGN2ZGo5a3QwdDZ6bGQ3NXhycnNyNXA3bXg0eWVjcDgzZTBrdzNmMHg5dGRjOHNoNnFwdmovaHlkcm9faW5mbG93X3VhdG9t&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron1jymuhmex63kq8r20vss30jq2n7jmz9kqpegka8qwqccxx4nveufsmkv2fa/inflow_atom_ushare",
+    "name": "Inflow ATOM",
+    "symbol": "Inflow ATOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMWp5bXVobWV4NjNrcThyMjB2c3MzMGpxMm43am16OWtxcGVna2E4cXdxY2N4eDRudmV1ZnNta3YyZmEvaW5mbG93X2F0b21fdXNoYXJl&pagination.limit=1"
   },
   {
     "id": "factory/neutron1k3zuqrwkad0kpeh6p9fl7a2nnnevkv95t3cpdz/DANZA",
@@ -1579,12 +1628,28 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXRta2Nsdmh6dmVmbXF1Z2xkeDZzZnA2c25ycGNwazYwenNydW04bXV0M3IzNmVzeThnbXFmdmx4aGEvaHlkcm9faW5mbG93X3VudHJu&pagination.limit=1"
   },
   {
+    "id": "factory/neutron1tngf6jfpgsvsdtrprmetxvwmjnj4tccfurf2tu7yx88ed37uvr2spfg7aa/inflow_usdc_ushare",
+    "name": "Inflow USDC",
+    "symbol": "Inflow USDC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXRuZ2Y2amZwZ3N2c2R0cnBybWV0eHZ3bWpuajR0Y2NmdXJmMnR1N3l4ODhlZDM3dXZyMnNwZmc3YWEvaW5mbG93X3VzZGNfdXNoYXJl&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
     "name": "Lido wstETH",
     "symbol": "wstETH",
     "decimals": "18",
     "type": "tokenfactory",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg"
+  },
+  {
+    "id": "factory/neutron1usat35u2pktf5ra455wxun0ayyya30fxq6slqdm8dqlvy70jh54qpk5j7f/inflow_usdc_ushare",
+    "name": "Inflow USDC",
+    "symbol": "inflow_usdc_share",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXVzYXQzNXUycGt0ZjVyYTQ1NXd4dW4wYXl5eWEzMGZ4cTZzbHFkbThkcWx2eTcwamg1NHFwazVqN2YvaW5mbG93X3VzZGNfdXNoYXJl&pagination.limit=1"
   },
   {
     "id": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia",
@@ -1648,6 +1713,14 @@
     "icon": "https://i.ibb.co/h27VC32/cartel.png"
   },
   {
+    "id": "factory/neutron1x9ajs72tw8m3c4vuq6sj5aa0xg69ed3d0w3et0dpfucmgw9f8r4s8dh020/tmdao",
+    "name": "Test Montelibero DAO",
+    "symbol": "TMDAO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXg5YWpzNzJ0dzhtM2M0dnVxNnNqNWFhMHhnNjllZDNkMHczZXQwZHBmdWNtZ3c5ZjhyNHM4ZGgwMjAvdG1kYW8%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron1xem9uuwv29tlw2eejpq0pnk2r975jpzc4v697r9xfaxc9csgzq9sdmchf9/fund",
     "name": "fundDAO",
     "symbol": "fund",
@@ -1703,6 +1776,15 @@
     "icon": "https://app.astroport.fi/tokens/xAstro.svg"
   },
   {
+    "id": "ibc/0E293A7622DC9A6439DB60E6D234B5AF446962E27CA3AB44D0590603DFF6968E",
+    "name": "ibc/0E293A7622DC9A6439DB60E6D234B5AF446962E27CA3AB44D0590603DFF6968E",
+    "symbol": "ibc/0E293A7622DC9A6439DB60E6D234B5AF446962E27CA3AB44D0590603DFF6968E",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFMjkzQTc2MjJEQzlBNjQzOURCNjBFNkQyMzRCNUFGNDQ2OTYyRTI3Q0EzQUI0NEQwNTkwNjAzREZGNjk2OEU%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFMjkzQTc2MjJEQzlBNjQzOURCNjBFNkQyMzRCNUFGNDQ2OTYyRTI3Q0EzQUI0NEQwNTkwNjAzREZGNjk2OEU%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/1053E271314D36FECBC915B51474F8B3962597CE88FF3E4A74795B0E3F367A8B",
     "origin_chain": "kujira",
     "origin_chain_id": "kaiyo-1",
@@ -1717,6 +1799,32 @@
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
   },
   {
+    "id": "ibc/17E2B6610FC9DF24D3AD8F1CBA03308B9FD284AB8123E5E485902E54369E985A",
+    "origin_chain": "noble",
+    "origin_chain_id": "noble-1",
+    "origin_id": "ufrienzies",
+    "name": "ibc/17E2B6610FC9DF24D3AD8F1CBA03308B9FD284AB8123E5E485902E54369E985A",
+    "symbol": "ibc/17E2B6610FC9DF24D3AD8F1CBA03308B9FD284AB8123E5E485902E54369E985A",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE3RTJCNjYxMEZDOURGMjREM0FEOEYxQ0JBMDMzMDhCOUZEMjg0QUI4MTIzRTVFNDg1OTAyRTU0MzY5RTk4NUE%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE3RTJCNjYxMEZDOURGMjREM0FEOEYxQ0JBMDMzMDhCOUZEMjg0QUI4MTIzRTVFNDg1OTAyRTU0MzY5RTk4NUE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/frnz.svg"
+  },
+  {
+    "id": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
+    "origin_chain": "injective",
+    "origin_chain_id": "injective-1",
+    "origin_id": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "name": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
+    "symbol": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFERTgzRTFDMTVEOTE4NkRFNDZCQzM5NkYxMzg0QTlFNjg3NzU2QjQ0NTQxMDU0OUE0NjhFREIxMEU0RkE3Mjg%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFERTgzRTFDMTVEOTE4NkRFNDZCQzM5NkYxMzg0QTlFNjg3NzU2QjQ0NTQxMDU0OUE0NjhFREIxMEU0RkE3Mjg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png"
+  },
+  {
     "id": "ibc/273E4C3B307F3BD56F08652B1DA009A705F078811716DF53F7829A76ED769A8D",
     "origin_chain": "noble",
     "origin_chain_id": "noble-1",
@@ -1726,7 +1834,8 @@
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3M0U0QzNCMzA3RjNCRDU2RjA4NjUyQjFEQTAwOUE3MDVGMDc4ODExNzE2REY1M0Y3ODI5QTc2RUQ3NjlBOEQ%3D&pagination.limit=1",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3M0U0QzNCMzA3RjNCRDU2RjA4NjUyQjFEQTAwOUE3MDVGMDc4ODExNzE2REY1M0Y3ODI5QTc2RUQ3NjlBOEQ%3D&pagination.limit=1"
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzI3M0U0QzNCMzA3RjNCRDU2RjA4NjUyQjFEQTAwOUE3MDVGMDc4ODExNzE2REY1M0Y3ODI5QTc2RUQ3NjlBOEQ%3D&pagination.limit=1",
+    "coingecko": "https://www.coingecko.com/en/coins/monerium-eur-money"
   },
   {
     "id": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
@@ -1780,6 +1889,42 @@
     "coingecko": "https://www.coingecko.com/en/coins/osmosis"
   },
   {
+    "id": "ibc/38C9F396219825CF172C499009B63F2BC8D15FC14205EA0AAA49F00C0E70E514",
+    "origin_chain": "osmosis",
+    "origin_chain_id": "osmosis-1",
+    "origin_id": "factory/osmo1qdvwftqd8ml6t9w6dmj97m03ck5ghqqmd8y7cm/cult",
+    "name": "ibc/38C9F396219825CF172C499009B63F2BC8D15FC14205EA0AAA49F00C0E70E514",
+    "symbol": "ibc/38C9F396219825CF172C499009B63F2BC8D15FC14205EA0AAA49F00C0E70E514",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4QzlGMzk2MjE5ODI1Q0YxNzJDNDk5MDA5QjYzRjJCQzhEMTVGQzE0MjA1RUEwQUFBNDlGMDBDMEU3MEU1MTQ%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM4QzlGMzk2MjE5ODI1Q0YxNzJDNDk5MDA5QjYzRjJCQzhEMTVGQzE0MjA1RUEwQUFBNDlGMDBDMEU3MEU1MTQ%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/cult.png"
+  },
+  {
+    "id": "ibc/3D1DE9E56DFC9583441B43A2BB9F5965516B14128E300170FCF71CE7917F9615",
+    "origin_chain": "secretnetwork",
+    "origin_chain_id": "secret-4",
+    "origin_id": "secret1fl449muk5yq8dlad7a22nje4p5d2pnsgymhjfd",
+    "name": "ibc/3D1DE9E56DFC9583441B43A2BB9F5965516B14128E300170FCF71CE7917F9615",
+    "symbol": "ibc/3D1DE9E56DFC9583441B43A2BB9F5965516B14128E300170FCF71CE7917F9615",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNEMURFOUU1NkRGQzk1ODM0NDFCNDNBMkJCOUY1OTY1NTE2QjE0MTI4RTMwMDE3MEZDRjcxQ0U3OTE3Rjk2MTU%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNEMURFOUU1NkRGQzk1ODM0NDFCNDNBMkJCOUY1OTY1NTE2QjE0MTI4RTMwMDE3MEZDRjcxQ0U3OTE3Rjk2MTU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/silk.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/silk-bcec1136-561c-4706-a42c-8b67d0d7f7d2"
+  },
+  {
+    "id": "ibc/3F1D988D9EEA19EB0F3950B4C19664218031D8BCE68CE7DE30F187D5ACEA0463",
+    "name": "ibc/3F1D988D9EEA19EB0F3950B4C19664218031D8BCE68CE7DE30F187D5ACEA0463",
+    "symbol": "ibc/3F1D988D9EEA19EB0F3950B4C19664218031D8BCE68CE7DE30F187D5ACEA0463",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNGMUQ5ODhEOUVFQTE5RUIwRjM5NTBCNEMxOTY2NDIxODAzMUQ4QkNFNjhDRTdERTMwRjE4N0Q1QUNFQTA0NjM%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzNGMUQ5ODhEOUVFQTE5RUIwRjM5NTBCNEMxOTY2NDIxODAzMUQ4QkNFNjhDRTdERTMwRjE4N0Q1QUNFQTA0NjM%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/4A6A46D4263F2ED3DCE9CF866FE15E6903FB5E12D87EB8BDC1B6B1A1E2D397B4",
     "origin_chain": "dymension",
     "origin_chain_id": "dymension_1100-1",
@@ -1821,6 +1966,20 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-saga"
   },
   {
+    "id": "ibc/53E1B5B1C060CF4B556E91020EACD272CD9160E996E598FC93D2436814050471",
+    "origin_chain": "bitsong",
+    "origin_chain_id": "bitsong-2b",
+    "origin_id": "ubtsg",
+    "name": "ibc/53E1B5B1C060CF4B556E91020EACD272CD9160E996E598FC93D2436814050471",
+    "symbol": "ibc/53E1B5B1C060CF4B556E91020EACD272CD9160E996E598FC93D2436814050471",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUzRTFCNUIxQzA2MENGNEI1NTZFOTEwMjBFQUNEMjcyQ0Q5MTYwRTk5NkU1OThGQzkzRDI0MzY4MTQwNTA0NzE%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzUzRTFCNUIxQzA2MENGNEI1NTZFOTEwMjBFQUNEMjcyQ0Q5MTYwRTk5NkU1OThGQzkzRDI0MzY4MTQwNTA0NzE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/bitsong"
+  },
+  {
     "id": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
     "origin_chain": "axelar",
     "origin_chain_id": "axelar-dojo-1",
@@ -1845,7 +2004,8 @@
     "type": "ibc",
     "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3NTFCOEJDREE2ODhGRDBBOEVDMEIyOTJFRUYxQ0RFQUI0Qjc2NkI2M0VDNjMyNzc4QjE5NkQzMTdDNDBDM0E%3D&pagination.limit=1",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzU3NTFCOEJDREE2ODhGRDBBOEVDMEIyOTJFRUYxQ0RFQUI0Qjc2NkI2M0VDNjMyNzc4QjE5NkQzMTdDNDBDM0E%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg"
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro-cw20.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/astroport-fi"
   },
   {
     "id": "ibc/58923AAE6E879D7CB5FB0F2F05550FD4F696099AB0F5CDF0A05CC0309DD8BC78",
@@ -2133,6 +2293,18 @@
     "coingecko": "https://www.coingecko.com/en/coins/stride-staked-atom"
   },
   {
+    "id": "ibc/B7BF60BB54433071B49D586F54BD4DED5E20BEFBBA91958E87488A761115106B",
+    "origin_chain": "lombardledger",
+    "origin_chain_id": "ledger-mainnet-1",
+    "origin_id": "uclbtc",
+    "name": "ibc/B7BF60BB54433071B49D586F54BD4DED5E20BEFBBA91958E87488A761115106B",
+    "symbol": "ibc/B7BF60BB54433071B49D586F54BD4DED5E20BEFBBA91958E87488A761115106B",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I3QkY2MEJCNTQ0MzMwNzFCNDlENTg2RjU0QkQ0REVENUUyMEJFRkJCQTkxOTU4RTg3NDg4QTc2MTExNTEwNkI%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0I3QkY2MEJCNTQ0MzMwNzFCNDlENTg2RjU0QkQ0REVENUUyMEJFRkJCQTkxOTU4RTg3NDg4QTc2MTExNTEwNkI%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
     "origin_chain": "stride",
     "origin_chain_id": "stride-1",
@@ -2174,6 +2346,15 @@
     "coingecko": "https://www.coingecko.com/en/coins/axelar"
   },
   {
+    "id": "ibc/C0F284F165E6152F6DDDA900537C1BC8DA1EA00F03B9C9EC1841FA7E004EF7A3",
+    "name": "ibc/C0F284F165E6152F6DDDA900537C1BC8DA1EA00F03B9C9EC1841FA7E004EF7A3",
+    "symbol": "ibc/C0F284F165E6152F6DDDA900537C1BC8DA1EA00F03B9C9EC1841FA7E004EF7A3",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MwRjI4NEYxNjVFNjE1MkY2REREQTkwMDUzN0MxQkM4REExRUEwMEYwM0I5QzlFQzE4NDFGQTdFMDA0RUY3QTM%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MwRjI4NEYxNjVFNjE1MkY2REREQTkwMDUzN0MxQkM4REExRUEwMEYwM0I5QzlFQzE4NDFGQTdFMDA0RUY3QTM%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "origin_chain": "cosmoshub",
     "origin_chain_id": "cosmoshub-4",
@@ -2203,6 +2384,15 @@
     "coingecko": "https://www.coingecko.com/en/coins/axlwbtc"
   },
   {
+    "id": "ibc/E2A000FD3EDD91C9429B473995CE2C7C555BCC8CFC1D0A3D02F514392B7A80E8",
+    "name": "ibc/E2A000FD3EDD91C9429B473995CE2C7C555BCC8CFC1D0A3D02F514392B7A80E8",
+    "symbol": "ibc/E2A000FD3EDD91C9429B473995CE2C7C555BCC8CFC1D0A3D02F514392B7A80E8",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UyQTAwMEZEM0VERDkxQzk0MjlCNDczOTk1Q0UyQzdDNTU1QkNDOENGQzFEMEEzRDAyRjUxNDM5MkI3QTgwRTg%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0UyQTAwMEZEM0VERDkxQzk0MjlCNDczOTk1Q0UyQzdDNTU1QkNDOENGQzFEMEEzRDAyRjUxNDM5MkI3QTgwRTg%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
     "origin_chain": "axelar",
     "origin_chain_id": "axelar-dojo-1",
@@ -2215,6 +2405,19 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YwODJCNjVDODhFNEI2RDVFRjFEQjI0M0NEQTFEMzMxRDAwMjc1OUU5MzhBMEY1Q0QzRkZEQzVENTNCM0UzNDk%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
     "coingecko": "https://www.coingecko.com/en/coins/axlusdc"
+  },
+  {
+    "id": "ibc/F16C7C5B6F7E96ACDA73E35BCA3A3DE49DDF7164066A359C843E9709041CE6B9",
+    "origin_chain": "int3face",
+    "origin_chain_id": "int3face-1",
+    "origin_id": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/dogecoin-doge",
+    "name": "ibc/F16C7C5B6F7E96ACDA73E35BCA3A3DE49DDF7164066A359C843E9709041CE6B9",
+    "symbol": "ibc/F16C7C5B6F7E96ACDA73E35BCA3A3DE49DDF7164066A359C843E9709041CE6B9",
+    "decimals": "8",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YxNkM3QzVCNkY3RTk2QUNEQTczRTM1QkNBM0EzREU0OURERjcxNjQwNjZBMzU5Qzg0M0U5NzA5MDQxQ0U2Qjk%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0YxNkM3QzVCNkY3RTk2QUNEQTczRTM1QkNBM0EzREU0OURERjcxNjQwNjZBMzU5Qzg0M0U5NzA5MDQxQ0U2Qjk%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/int3face/images/doge.int3.svg"
   },
   {
     "id": "neutron122xmvrx27htz6h3pqdy82aacr62kt7j63tdfq38ps5qmy0j6w32qnxm4w6",
