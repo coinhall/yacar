@@ -369,6 +369,15 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWFrd3ZjM3h6cDZxZHc3ajhmZDg4cG1mOHhoczdkbXlrZHRsNmZyYWswcGtyaGZhMzlkd3E5c2Z2em0vZGFv&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1are7fpe5l6jzm9sjn7u4qkq6q77wwrrsxzlyw8lcegmmaxdukvuq4h46dx/LABS",
+    "entity": "Labrador",
+    "name": "Labrador",
+    "symbol": "LABS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/LABS.png"
+  },
+  {
     "id": "factory/osmo1au0pelgzu096acap743g6jqyqtnvfsw8nrwaun7vp2m6jkdclngqk85s66/fts",
     "name": "Fuck The Sail ",
     "symbol": "FTS",
@@ -8126,6 +8135,7 @@
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mtc",
+    "entity": "Matcha Club",
     "name": "Matcha Club",
     "symbol": "MTC",
     "decimals": "6",
@@ -11413,6 +11423,7 @@
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/stlth",
+    "entity": "Stealth",
     "name": "Stealth",
     "symbol": "STLTH",
     "decimals": "6",
