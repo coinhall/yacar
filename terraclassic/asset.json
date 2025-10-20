@@ -29,6 +29,20 @@
     "coingecko": "https://www.coingecko.com/en/coins/white-whale"
   },
   {
+    "id": "ibc/0BB9D8513E8E8E9AE6A9D211D9136E6DA42288DDE6CFAA453A150A4566054DC5",
+    "origin_chain": "noble",
+    "origin_chain_id": "noble-1",
+    "origin_id": "uusdc",
+    "name": "Noble USDC",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCQjlEODUxM0U4RThFOUFFNkE5RDIxMUQ5MTM2RTZEQTQyMjg4RERFNkNGQUE0NTNBMTUwQTQ1NjYwNTREQzU%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCQjlEODUxM0U4RThFOUFFNkE5RDIxMUQ5MTM2RTZEQTQyMjg4RERFNkNGQUE0NTNBMTUwQTQ1NjYwNTREQzU%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/usd-coin"
+  },
+  {
     "id": "ibc/18ABA66B791918D51D33415DA173632735D830E2E77E63C91C11D3008CFD5262",
     "origin_chain": "cosmoshub",
     "origin_chain_id": "cosmoshub-4",
