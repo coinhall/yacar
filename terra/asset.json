@@ -8,6 +8,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/bonewhalet.svg"
   },
   {
+    "id": "factory/terra12jkkml78ghfuk9fw3get6kg6nlusmaef50tp3lxgm7hh0kgcfhksldyzkl/score",
+    "name": "Roarscore.xyz token",
+    "symbol": "SCORE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS90ZXJyYTEyamtrbWw3OGdoZnVrOWZ3M2dldDZrZzZubHVzbWFlZjUwdHAzbHhnbTdoaDBrZ2NmaGtzbGR5emtsL3Njb3Jl&pagination.limit=1"
+  },
+  {
     "id": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
     "name": "ERIS Amplified CAPA",
     "symbol": "ampCAPA",
@@ -233,6 +241,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stafihub/images/rswth.svg"
   },
   {
+    "id": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
+    "name": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
+    "symbol": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFRjU2MzA1NzZDNjY5NjhFRjA3ODc4NjhDRjA5RkQ4NjZGQUQxMzFCQzE0OEQyNEExNDgzNThBODVGMEVCNjI%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBFRjU2MzA1NzZDNjY5NjhFRjA3ODc4NjhDRjA5RkQ4NjZGQUQxMzFCQzE0OEQyNEExNDgzNThBODVGMEVCNjI%3D&pagination.limit=1"
+  },
+  {
     "id": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
     "origin_chain": "stride",
     "origin_chain_id": "stride-1",
@@ -260,6 +277,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg",
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret/",
     "coingecko": "https://www.coingecko.com/en/coins/secret"
+  },
+  {
+    "id": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+    "origin_chain": "axelar",
+    "origin_chain_id": "axelar-dojo-1",
+    "origin_id": "wbnb-wei",
+    "name": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+    "symbol": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEzMTlDNkIzOENBNjEzQzg5RDc4QzJEMTQ2MUIzMDUwMzhCMTA4NUY2ODU1RThDRDI3NkZFM0Y3Qzk2MDBCNEM%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzEzMTlDNkIzOENBNjEzQzg5RDc4QzJEMTQ2MUIzMDUwMzhCMTA4NUY2ODU1RThDRDI3NkZFM0Y3Qzk2MDBCNEM%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.svg"
   },
   {
     "id": "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
@@ -476,6 +506,19 @@
     "total_supply_api": "https://phoenix-lcd.terra.dev/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzM2QTAyRkZDNEU3NERGNEY2NDMwNTEzMEMzREZBMUIwNkJFQUM3NzU2NDg5MjdBQTQ0NDY3Qzc2QTc3QUI4REI%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg",
     "coingecko": "https://www.coingecko.com/en/coins/white-whale"
+  },
+  {
+    "id": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
+    "origin_chain": "neutron",
+    "origin_chain_id": "neutron-1",
+    "origin_id": "factory/neutron1zl2htquajn50vxu5ltz0y5hf2qzvkgnjaaza2rssef268xplq6vsjuruxm/fuel",
+    "name": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
+    "symbol": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRCNDQxNzlBQzJGMEJFRTUwQzE2QTY3M0IzQjg4NjM5ODk4ODY5Mjg4NUIyODQ4QTFDOEFFRjI3MTQ4QjM5NjE%3D&pagination.limit=1",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzRCNDQxNzlBQzJGMEJFRTUwQzE2QTY3M0IzQjg4NjM5ODk4ODY5Mjg4NUIyODQ4QTFDOEFFRjI3MTQ4QjM5NjE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/fuel.png"
   },
   {
     "id": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
