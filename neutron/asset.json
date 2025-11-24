@@ -1,5 +1,11 @@
 [
   {
+    "id": "coinfactory.neutron14ga4max0v2h996hun8l2nd7qrnzj2n6wcm6suym0ga4phgz7w2rsyyysqs.wmaxbtc",
+    "name": "Wrapped maxBTC",
+    "symbol": "wmaxBTC",
+    "decimals": "8"
+  },
+  {
     "id": "factory/neutron1045nmghe520mfugjn8h8nftr2302tkpf8gwsq6kymvxg4hn5fptsn7u4q0/test",
     "name": "testing dao token",
     "symbol": "TEST",
@@ -263,6 +269,30 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMThoNXB2bXZncmsyMG11cmE4dzQ3ajZlMGZ5cjlqNThrY2xxeTJoMnBnOHFyaDc4dmQyNnFubDR6MjAvcHVuaw%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/BLUE",
+    "name": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/BLUE",
+    "symbol": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/BLUE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMThxZ3h1bnByY3J5ZXV6bDNteXd2c2themFkbXVsOTh4ejd0Yzk0aGpnNG5ocWM3eWV5MHFkZnFybm0vQkxVRQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/BROWN",
+    "name": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/BROWN",
+    "symbol": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/BROWN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMThxZ3h1bnByY3J5ZXV6bDNteXd2c2themFkbXVsOTh4ejd0Yzk0aGpnNG5ocWM3eWV5MHFkZnFybm0vQlJPV04%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/CYAN",
+    "name": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/CYAN",
+    "symbol": "factory/neutron18qgxunprcryeuzl3mywvskazadmul98xz7tc94hjg4nhqc7yey0qdfqrnm/CYAN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMThxZ3h1bnByY3J5ZXV6bDNteXd2c2themFkbXVsOTh4ejd0Yzk0aGpnNG5ocWM3eWV5MHFkZnFybm0vQ1lBTg%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/neutron197k8x8rr6860jt40jsaa779yyh53ug5y7aewp9uffd38f5npp9tqaw48d3/inflow_btc_ushare",
@@ -2590,43 +2620,5 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1wkshmjne0nclhfh6xw67w20885jgr9k52u7lnekme8jdvw897hmqraymux/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "neutron1wz2yt6dv7jhtyyxutpgreus0l25dzramj860n656aa9g78tvwrmquyp0ck",
-    "name": "Seilu Ntrn",
-    "symbol": "SEILUNTRN",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1wz2yt6dv7jhtyyxutpgreus0l25dzramj860n656aa9g78tvwrmquyp0ck/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "neutron1ydjtjhhsmh909e9ahu746qdhd0hppx03pawq28xcqec4vez4j24qz9g0jv",
-    "name": "BONK On NTRN",
-    "symbol": "BONK",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1ydjtjhhsmh909e9ahu746qdhd0hppx03pawq28xcqec4vez4j24qz9g0jv/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7",
-    "entity": "LAIKA",
-    "name": "LAIKA",
-    "symbol": "LAIKA",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmwasm/wasm/v1/contract/neutron1yh2lv497ex0e7j62ewyx6x08uxcnvjlcvlusyr73v4azctyysursee7lh7/smart/eyJ0b2tlbl9pbmZvIjp7fX0=",
-    "icon": "https://i.ibb.co/m0GyLzz/laika.png"
-  },
-  {
-    "id": "untrn",
-    "entity": "Neutron",
-    "name": "Neutron",
-    "symbol": "NTRN",
-    "decimals": "6",
-    "type": "native",
-    "circ_supply_api": "https://info.neutron.org/v1/circulating_supply",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=dW50cm4%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg",
-    "coingecko": "https://www.coingecko.com/en/coins/neutron-3"
   }
 ]
