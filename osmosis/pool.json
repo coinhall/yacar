@@ -15237,6 +15237,16 @@
     "lp_token_id": "gamm/pool/465"
   },
   {
+    "id": "osmo1uentu6hwpmyptjz30az07ku86rj3vc4y4fgcc44rs0s3hu8xag3qzgwru3",
+    "asset_ids": [
+      "factory/osmo1p7x454ex08s4f9ztmm7wfv7lvtgdkfztj2u7v7fezfcauy85q35qmqrdpk/alloyed/allARB",
+      "factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/3291"
+  },
+  {
     "id": "osmo1uepgnvm2npfwck8cg0k8uuz9zdvrkcsjwug8ml0l7rasxlhrh5gq08xk9q",
     "asset_ids": [
       "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
@@ -17729,6 +17739,16 @@
     "dex": "Osmosis",
     "type": "balancerV1",
     "lp_token_id": "gamm/pool/2835"
+  },
+  {
+    "id": "osmo1z67tcnu7vyjv0watqpkh0u2rlq8vkr59zfzl3gz24cwfzepe94rqkakchn",
+    "asset_ids": [
+      "factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC",
+      "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/3290"
   },
   {
     "id": "osmo1z6hhq4rugh22jeq9lx9py5dxctj2qq3jdrnhfdlr2nhmru4dzfzsejfpdp",
