@@ -33,13 +33,13 @@
     "origin_chain": "noble",
     "origin_chain_id": "noble-1",
     "origin_id": "uusdc",
-    "name": "USDC",
+    "name": "Noble USDC",
     "symbol": "USDC",
     "decimals": "6",
     "type": "ibc",
     "circ_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCQjlEODUxM0U4RThFOUFFNkE5RDIxMUQ5MTM2RTZEQTQyMjg4RERFNkNGQUE0NTNBMTUwQTQ1NjYwNTREQzU%3D&pagination.limit=1",
     "total_supply_api": "https://terra-classic-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzBCQjlEODUxM0U4RThFOUFFNkE5RDIxMUQ5MTM2RTZEQTQyMjg4RERFNkNGQUE0NTNBMTUwQTQ1NjYwNTREQzU%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.svg",
     "coingecko": "https://www.coingecko.com/en/coins/usd-coin"
   },
   {
