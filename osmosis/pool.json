@@ -1123,6 +1123,16 @@
     "lp_token_id": "gamm/pool/263"
   },
   {
+    "id": "osmo12m0r5wha2x9ypzq5u7yue2dhmzh65gvk7l7xkkf3zx2hpqhje70qd9f2m8",
+    "asset_ids": [
+      "factory/osmo1nufyzqlm8qhu2w7lm0l4rrax0ec8rsk69mga4tel8eare7c7ljaqpk2lyg/alloyed/allOP",
+      "factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/3322"
+  },
+  {
     "id": "osmo12m79yuk8h7vxkhg0lt7j9ja3nz6zh6hn9vp9va0te3h205kju9pq6aemmn",
     "asset_ids": [
       "ibc/C91210281CEB708DC6E41A47FC9EC298F45712273DD58C682BEBAD00DCB59DC2",
@@ -9804,6 +9814,16 @@
     "dex": "Osmosis",
     "type": "balancerV1",
     "lp_token_id": "gamm/pool/31"
+  },
+  {
+    "id": "osmo1jl8z6r78k6kgs40mzm7rfwep7qxkqmpn6lss8ny7nrt206t27fdsxktxld",
+    "asset_ids": [
+      "factory/osmo1nufyzqlm8qhu2w7lm0l4rrax0ec8rsk69mga4tel8eare7c7ljaqpk2lyg/alloyed/allOP",
+      "uosmo"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/3323"
   },
   {
     "id": "osmo1jm5tyuxars5j84jdeeqkp0zpyfk2ea84x7fec8jq03x00708f3qqwr3f57",
