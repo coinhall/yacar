@@ -459,6 +459,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno1uynr9jqem0dlqpmnkq870tejzst4kmscc40spt/uboost",
+    "name": "BOOST",
+    "symbol": "BOOST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXV5bnI5anFlbTBkbHFwbW5rcTg3MHRlanpzdDRrbXNjYzQwc3B0L3Vib29zdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1vwmnqk0vyxc96qgffrure4nqxupjrql0zut8s02hadgp0n79r8xq5xdsxy/ARENA",
     "name": "Arena Token",
     "symbol": "ARENA",
