@@ -334,6 +334,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno1jw9nk5at7fsl0dfn49zt7l48pd6c5khj8l8zxq/daosupreme",
+    "name": "DAOSUPREME",
+    "symbol": "DAOSUPREME",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWp3OW5rNWF0N2ZzbDBkZm40OXp0N2w0OHBkNmM1a2hqOGw4enhxL2Rhb3N1cHJlbWU%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1k67ymx75gs94mhu97vp4dqnxr8wrpf4e06az8vdun90997mulcrspzmd5p/lucy",
     "name": "Lucy Dao Token",
     "symbol": "LUCY",
@@ -489,6 +497,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXV5bnI5anFlbTBkbHFwbW5rcTg3MHRlanpzdDRrbXNjYzQwc3B0L3Vib29zdA%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1vtyqhrjrf9jz2vpglsd8d23jhlgm0xg20qxgh9/gogogo",
+    "name": "GOGOGO",
+    "symbol": "GOGOGO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXZ0eXFocmpyZjlqejJ2cGdsc2Q4ZDIzamhsZ20weGcyMHF4Z2g5L2dvZ29nbw%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/juno1vtyqhrjrf9jz2vpglsd8d23jhlgm0xg20qxgh9/turbo",
