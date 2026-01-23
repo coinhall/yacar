@@ -244,6 +244,30 @@
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWQ1dThzbm5mdHEzN3hqOXVmY3d4Z2EwOGdlNGt3YXU0aHpsamFleXN1bWN5dHR2ZzZlOXF3ZWZlaGwvcnRt&pagination.limit=1"
   },
   {
+    "id": "factory/juno1dungwe7j2heczgs9s7wrkrz3xugjcucks44ekz/bronce",
+    "name": "DGNBRONCE",
+    "symbol": "DGNBRONCE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWR1bmd3ZTdqMmhlY3pnczlzN3dya3J6M3h1Z2pjdWNrczQ0ZWt6L2Jyb25jZQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1dungwe7j2heczgs9s7wrkrz3xugjcucks44ekz/gold",
+    "name": "DGNgold",
+    "symbol": "DGNgold",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWR1bmd3ZTdqMmhlY3pnczlzN3dya3J6M3h1Z2pjdWNrczQ0ZWt6L2dvbGQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/juno1dungwe7j2heczgs9s7wrkrz3xugjcucks44ekz/silver",
+    "name": "DGNsilver",
+    "symbol": "DGNsilver",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWR1bmd3ZTdqMmhlY3pnczlzN3dya3J6M3h1Z2pjdWNrczQ0ZWt6L3NpbHZlcg%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1ec6j4rw92dqu4vswg2xrmj3u9vuqp543ls3vfx6uf7u9vrg4uvns5wz3sw/usdc",
     "name": "USDC",
     "symbol": "USDC",
