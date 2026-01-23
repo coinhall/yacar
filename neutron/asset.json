@@ -257,6 +257,16 @@
     "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTc3Y25rY3pwNGxjdGNlejN1ZWVzdTYwOW5wdGxlbGh4aHJ6cXc1NjByeDN0c3NmZGp3dXNmYXR2azgvdWRhdG9t&pagination.limit=1"
   },
   {
+    "id": "factory/neutron17sp75wng9vl2hu3sf4ky86d7smmk3wle9gkts2gmedn9x4ut3xcqa5xp34/maxbtc",
+    "entity": "maxBTC",
+    "name": "maxBTC",
+    "symbol": "maxBTC",
+    "decimals": "8",
+    "type": "tokenfactory",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/maxBTC.svg",
+    "coingecko": "https://www.coingecko.com/en/coins/maxbtc"
+  },
+  {
     "id": "factory/neutron18h5pvmvgrk20mura8w47j6e0fyr9j58kclqy2h2pg8qrh78vd26qnl4z20/punk",
     "name": "punkVC",
     "symbol": "punk",
