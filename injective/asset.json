@@ -1697,6 +1697,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNTVhcjJ0bmU2MmZucGVybWt4YWVydmtjdHd5ejN1dzRneG40c20vbWQ1eDBpMjgxNQ%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/inj155mer38u3xaav8g95nd620fsgnxatf9zlsptc4/mfhuyj0v58",
+    "name": "mfhuyj0v58",
+    "symbol": "mfhuyj0v58",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxNTVtZXIzOHUzeGFhdjhnOTVuZDYyMGZzZ254YXRmOXpsc3B0YzQvbWZodXlqMHY1OA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/inj156zqdswjfcttc8hrvwd5z3nv5n53l5xg9mqvht/King",
     "name": "King_of_INJ",
     "symbol": "King",
@@ -11852,6 +11860,19 @@
     "circ_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MyMEMwQTgyMkJEMjJCMkNFRjBEMDY3NDAwRkNDRkI2RkFFRUU5RTkxRDM2MEI0RTA3MjVCRDUyMjMwMkQ1NjU%3D&pagination.limit=1",
     "total_supply_api": "https://lcd-injective.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MyMEMwQTgyMkJEMjJCMkNFRjBEMDY3NDAwRkNDRkI2RkFFRUU5RTkxRDM2MEI0RTA3MjVCRDUyMjMwMkQ1NjU%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.svg"
+  },
+  {
+    "id": "ibc/C3F872E2DF65D066215F3D61364A7D5342784DAB2A5B0441B9B558D692802902",
+    "origin_chain": "xrplevm",
+    "origin_chain_id": "xrplevm_1440000-1",
+    "origin_id": "axrp",
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MzRjg3MkUyREY2NUQwNjYyMTVGM0Q2MTM2NEE3RDUzNDI3ODREQUIyQTVCMDQ0MUI5QjU1OEQ2OTI4MDI5MDI%3D&pagination.limit=1",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MzRjg3MkUyREY2NUQwNjYyMTVGM0Q2MTM2NEE3RDUzNDI3ODREQUIyQTVCMDQ0MUI5QjU1OEQ2OTI4MDI5MDI%3D&pagination.limit=1",
+    "coingecko": "https://www.coingecko.com/en/coins/ripple"
   },
   {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
