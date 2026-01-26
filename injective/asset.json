@@ -11854,6 +11854,19 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.svg"
   },
   {
+    "id": "ibc/C3F872E2DF65D066215F3D61364A7D5342784DAB2A5B0441B9B558D692802902",
+    "origin_chain": "xrplevm",
+    "origin_chain_id": "xrplevm_1440000-1",
+    "origin_id": "axrp",
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": "18",
+    "type": "ibc",
+    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MzRjg3MkUyREY2NUQwNjYyMTVGM0Q2MTM2NEE3RDUzNDI3ODREQUIyQTVCMDQ0MUI5QjU1OEQ2OTI4MDI5MDI%3D&pagination.limit=1",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjL0MzRjg3MkUyREY2NUQwNjYyMTVGM0Q2MTM2NEE3RDUzNDI3ODREQUIyQTVCMDQ0MUI5QjU1OEQ2OTI4MDI5MDI%3D&pagination.limit=1",
+    "coingecko": "https://www.coingecko.com/en/coins/ripple"
+  },
+  {
     "id": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
     "origin_chain": "cosmoshub",
     "origin_chain_id": "cosmoshub-4",
