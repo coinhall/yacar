@@ -406,6 +406,14 @@
     "total_supply_api": "https://lcd-juno.whispernode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWt3aDU1emo4eTN0NTUwejdqZHVmZnp3Z3ZkMzczbmxjNG10OWpkNGtqc3lxa3NnMGZuN3N2YXU5djMvdHJlcA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/juno1lse4u2773gksnyknq3srvwnsqwed7anrhwufhzp84hdthesz64esj4zccp/testcs",
+    "name": "Test CW Token for C.S",
+    "symbol": "TESTCS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMWxzZTR1Mjc3M2drc255a25xM3Nydnduc3F3ZWQ3YW5yaHd1Zmh6cDg0aGR0aGVzejY0ZXNqNHpjY3AvdGVzdGNz&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1mka8fy0gjvax6vlr7jc9p99rcgg6l6r3zffmccjcqtqsa2l9rt4s2cqtt2/crpts",
     "name": "CryptigersDAO token",
     "symbol": "CRPTS",
