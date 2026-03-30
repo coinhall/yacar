@@ -7028,6 +7028,18 @@
     "lp_token_id": "gamm/pool/2491"
   },
   {
+    "id": "osmo1dp2yx073swmgwd2f9xh6x4wmxa7aznvumjhy4hnp0lnx97kx5acqggknay",
+    "asset_ids": [
+      "factory/osmo14klwqgkmackvx2tqa0trtg69dmy0nrg4ntq4gjgw2za4734r5seqjqm4gm/uibcx",
+      "factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC",
+      "ibc/0863B7BFD46942F07AA55B3C7138C50F26D9A8168A47767897B04DBF41B7DF37",
+      "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/3410"
+  },
+  {
     "id": "osmo1dpn3ktgnlylqc3smqz4shez3m6p43lxns0tnh4z2zgmpz80thsxqjx7qhk",
     "asset_ids": [
       "ibc/9B6FBABA36BB4A3BF127AE5E96B572A5197FD9F3111D895D8919B07BC290764A",
@@ -14271,6 +14283,18 @@
     "dex": "Osmosis",
     "type": "balancerV1",
     "lp_token_id": "gamm/pool/1830"
+  },
+  {
+    "id": "osmo1rp7tcr0hfnv7ygerwjsmmqr2fgrgllzaf2kgxx4e2v3kc8ks56vqcyzhwn",
+    "asset_ids": [
+      "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
+      "ibc/559B4D308D13DFD4CF535B417C97740E99516B6EF4E0C66AD54CCAD2F46C55E5",
+      "ibc/92BF104008D75F9E9A602F948C824E75271A62EAB940D381AF7B1A6D95BF6021",
+      "ibc/BF55329AEA7E79B0AAB320C41A76AC8B9E4E9E07EEED8643AB57440C0978F402"
+    ],
+    "dex": "Osmosis",
+    "type": "balancerV1",
+    "lp_token_id": "gamm/pool/3409"
   },
   {
     "id": "osmo1rp8xap0z59k20fkt7078q8g4t37ee8reqpwt6afgglhe3h70hvls9xl5c4",
@@ -22748,6 +22772,16 @@
     "dex": "Osmosis",
     "type": "concentrated",
     "lp_token_id": "gamm/pool/1430"
+  },
+  {
+    "id": "osmo1cczjwt2z4h40xtrsjum5a8ny436utlgavael6mu2psjs0ccyl3zs9cuvqy",
+    "asset_ids": [
+      "ibc/2CC08A10459B40B0251B8CB9C036C98BED1ABBD5F03772E371DCD0FFDA3EC7F3",
+      "ibc/75345531D87BD90BF108BE7240BD721CB2CB0A1F16D4EBA71B09EC3C43E15C8F"
+    ],
+    "dex": "Osmosis",
+    "type": "concentrated",
+    "lp_token_id": "gamm/pool/3408"
   },
   {
     "id": "osmo1ce7xpte3sg5hd55njtd57leh2kswp7p589f85xj8tkqp5yvftcsss25at3",
