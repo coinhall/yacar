@@ -14,6 +14,14 @@
     "type": "tokenfactory"
   },
   {
+    "id": "factory/juno10gqef8f8p4zuygyqjktt40jfv2k7sfrtzjcdtnewhtctzzvd862qz5rpua/web",
+    "name": "web34ever",
+    "symbol": "web",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMTBncWVmOGY4cDR6dXlneXFqa3R0NDBqZnYyazdzZnJ0empjZHRuZXdodGN0enp2ZDg2MnF6NXJwdWEvd2Vi&pagination.limit=1"
+  },
+  {
     "id": "factory/juno10r39fueph9fq7a6lgswu4zdsg8t3gxlq670lt0/reece",
     "name": "reeces token",
     "symbol": "REECE",
