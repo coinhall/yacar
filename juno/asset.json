@@ -532,6 +532,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dgl.png"
   },
   {
+    "id": "factory/juno1uar7mx583e575yq5zmu6ndmhu2pzleg7l330ytfds20dgp09qzksd92cds/dbs",
+    "name": "denebis",
+    "symbol": "DBS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXVhcjdteDU4M2U1NzV5cTV6bXU2bmRtaHUycHpsZWc3bDMzMHl0ZmRzMjBkZ3AwOXF6a3NkOTJjZHMvZGJz&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1ulnur0yl5e3d7d6gekw2stlft8ydltes50lzkem8hnazkvp23g8sfcjt5d/sas",
     "name": "Soon&Someday",
     "symbol": "SAS",
