@@ -1833,6 +1833,32 @@
     "coingecko": "https://www.coingecko.com/en/coins/kujira"
   },
   {
+    "id": "ibc/17E2B6610FC9DF24D3AD8F1CBA03308B9FD284AB8123E5E485902E54369E985A",
+    "origin_chain": "noble",
+    "origin_chain_id": "noble-1",
+    "origin_id": "ufrienzies",
+    "name": "Frienzies",
+    "symbol": "FRNZ",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE3RTJCNjYxMEZDOURGMjREM0FEOEYxQ0JBMDMzMDhCOUZEMjg0QUI4MTIzRTVFNDg1OTAyRTU0MzY5RTk4NUE%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzE3RTJCNjYxMEZDOURGMjREM0FEOEYxQ0JBMDMzMDhCOUZEMjg0QUI4MTIzRTVFNDg1OTAyRTU0MzY5RTk4NUE%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/frnz.svg"
+  },
+  {
+    "id": "ibc/1DE83E1C15D9186DE46BC396F1384A9E687756B445410549A468EDB10E4FA728",
+    "origin_chain": "injective",
+    "origin_chain_id": "injective-1",
+    "origin_id": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
+    "name": "Cosmo",
+    "symbol": "COSMO",
+    "decimals": "6",
+    "type": "ibc",
+    "circ_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFERTgzRTFDMTVEOTE4NkRFNDZCQzM5NkYxMzg0QTlFNjg3NzU2QjQ0NTQxMDU0OUE0NjhFREIxMEU0RkE3Mjg%3D&pagination.limit=1",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=aWJjLzFERTgzRTFDMTVEOTE4NkRFNDZCQzM5NkYxMzg0QTlFNjg3NzU2QjQ0NTQxMDU0OUE0NjhFREIxMEU0RkE3Mjg%3D&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png"
+  },
+  {
     "id": "ibc/273E4C3B307F3BD56F08652B1DA009A705F078811716DF53F7829A76ED769A8D",
     "origin_chain": "noble",
     "origin_chain_id": "noble-1",
