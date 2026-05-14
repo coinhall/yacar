@@ -1605,7 +1605,8 @@
     "symbol": "amATOM",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXNod3hsa3BkamQ4aDV3ZHRyeWt5cHdkMnY2Mno1Z2xyOTV5cDBldGRjc3Bra2p3bTVtZXE4Mm5keHMvYW1hdG9t&pagination.limit=1"
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMXNod3hsa3BkamQ4aDV3ZHRyeWt5cHdkMnY2Mno1Z2xyOTV5cDBldGRjc3Bra2p3bTVtZXE4Mm5keHMvYW1hdG9t&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/amATOM.svg"
   },
   {
     "id": "factory/neutron1sztnqpwgklwpdk7jzuxxd3twgv8n049p3nuhw3jzmhqklla6gjrsrd7hg3/subdenom",
