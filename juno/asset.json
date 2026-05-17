@@ -540,6 +540,14 @@
     "icon": "https://cccc.cccc/test.pdf"
   },
   {
+    "id": "factory/juno1tm748xtl4wmxfn5hqn6r66tzv0csc3qsey04st/uusdc",
+    "name": "Axelar Wrapped USDC (KEPLR BOUNTY POC)",
+    "symbol": "USDC.axl",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://juno-api.polkachu.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9qdW5vMXRtNzQ4eHRsNHdteGZuNWhxbjZyNjZ0enYwY3NjM3FzZXkwNHN0L3V1c2Rj&pagination.limit=1"
+  },
+  {
     "id": "factory/juno1u805lv20qc6jy7c3ttre7nct6uyl20pfky5r7e/DGL",
     "name": "Licorice",
     "symbol": "DGL",
