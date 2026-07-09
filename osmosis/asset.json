@@ -53,6 +53,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/internetcomputer/images/icp.svg"
   },
   {
+    "id": "factory/osmo10d7vwl9p0sj8tfkqqnr5uvetfqm5azrenafp3t4hs2q0x6ja636s5sf32u/lndx",
+    "name": "Leonine DAO Index ",
+    "symbol": "LNDX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTBkN3Z3bDlwMHNqOHRma3FxbnI1dXZldGZxbTVhenJlbmFmcDN0NGhzMnEweDZqYTYzNnM1c2YzMnUvbG5keA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo10hp462rtftac2t33zg40ytnwge3syq7hcjc7g7tvk26e7rfsj0gq7px3cq/bar",
     "name": "Barter",
     "symbol": "BAR",
@@ -99,12 +107,44 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ton/images/ton.svg"
   },
   {
+    "id": "factory/osmo12r3yc76u9lxe33yemstatnw8602culdjzrtr8lmnpycmd3z7d4jsxx60kc/7E7Bc759hC6kdxi8oD23QXskwzh9dXpmkwuVRH8v6WMm",
+    "name": "ubbn",
+    "symbol": "ubbn",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTJyM3ljNzZ1OWx4ZTMzeWVtc3RhdG53ODYwMmN1bGRqenJ0cjhsbW5weWNtZDN6N2Q0anN4eDYwa2MvN0U3QmM3NTloQzZrZHhpOG9EMjNRWHNrd3poOWRYcG1rd3VWUkg4djZXTW0%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo12r3yc76u9lxe33yemstatnw8602culdjzrtr8lmnpycmd3z7d4jsxx60kc/FwNhFaW3zLxoLUgXCdWjqBzcvGNPaB7B2XZqm2xgrB93",
+    "name": "ebbn",
+    "symbol": "eBABY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTJyM3ljNzZ1OWx4ZTMzeWVtc3RhdG53ODYwMmN1bGRqenJ0cjhsbW5weWNtZDN6N2Q0anN4eDYwa2MvRndOaEZhVzN6THhvTFVnWENkV2pxQnpjdkdOUGFCN0IyWFpxbTJ4Z3JCOTM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo12x44mc9m9az7mlnf5rnsqvkv3k9hc54jxdcjwc/wcarbon",
+    "name": "Wrapped Carbon",
+    "symbol": "wCARBON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTJ4NDRtYzltOWF6N21sbmY1cm5zcXZrdjNrOWhjNTRqeGRjandjL3djYXJib24%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo13ahfm35s0qwg45l09hgx3w7q2c9jc45d4mcptprsjuj6k6pnad9s7tavek/vst",
     "name": "ValueSharkToken",
     "symbol": "VST",
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo13ahfm35s0qwg45l09hgx3w7q2c9jc45d4mcptprsjuj6k6pnad9s7tavek%2Fvst"
+  },
+  {
+    "id": "factory/osmo13gknctejg8yrzgcx7ny2ad9v3kmy099uwkmtv6f5srks9qj34k9sguwwqq/dbs",
+    "name": "DENEBIS",
+    "symbol": "DBS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTNna25jdGVqZzh5cnpnY3g3bnkyYWQ5djNrbXkwOTl1d2ttdHY2ZjVzcmtzOXFqMzRrOXNndXd3cXEvZGJz&pagination.limit=1"
   },
   {
     "id": "factory/osmo13gu58hzw3e9aqpj25h67m7snwcjuccd7v4p55w/brnz",
@@ -138,6 +178,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTQ0ZGx2ZnYzMnNtOHNtbnJ3cnZ0bmphOGRsNmVjMzUwMG1keTB6bWFubHEzcjk5cHJkd3FlMGNhY2QvZmVkb3Jh&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo145ex77durttrjsen9lq5adwg664yajr42jspfaf578vx6jn6hq6q00cg8s/layal",
+    "name": "BINJABI ART TOKEN ",
+    "symbol": "LAYAL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTQ1ZXg3N2R1cnR0cmpzZW45bHE1YWR3ZzY2NHlhanI0MmpzcGZhZjU3OHZ4NmpuNmhxNnEwMGNnOHMvbGF5YWw%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo14gn4f2u68czlz42y847c00wxn3syeumzpvhl9j4nnrxrv7w085cqjudsc3/spectre",
@@ -184,6 +232,14 @@
     "icon": "https://pngtree.com/freepng/bule-border_3551748.html"
   },
   {
+    "id": "factory/osmo15eqez2el4c3fdud5y9py7sususnw3kqycrrd4v605kvl6tsfx46snnhqes/dstar",
+    "name": "Death Star",
+    "symbol": "DSTAR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTVlcWV6MmVsNGMzZmR1ZDV5OXB5N3N1c3Vzbncza3F5Y3JyZDR2NjA1a3ZsNnRzZng0NnNubmhxZXMvZHN0YXI%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo15vnefu3p0dkkgkzud958nu80j86vyatrl7ghxmumy6jhzs80qlkqgx2zmq/mbt",
     "name": "Meta Builders Token",
     "symbol": "MBT",
@@ -214,6 +270,14 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTZueHRucm5sN2xjdHZuaGhwY3hxbW1wdjYzbjkzemdnMHVrYXZleWMwamw0ZHRhZDc5Y3M1M2MzYW4vQlZU&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/BVT1.png"
+  },
+  {
+    "id": "factory/osmo16paf7r4286np5z0a23t6dl8eg9fd2gpgy4md7ja9uqga3wwumqzsel9qd3/ktb",
+    "name": "CORPORATE COMMERCIAL BANK",
+    "symbol": "KTB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTZwYWY3cjQyODZucDV6MGEyM3Q2ZGw4ZWc5ZmQyZ3BneTRtZDdqYTl1cWdhM3d3dW1xenNlbDlxZDMva3Ri&pagination.limit=1"
   },
   {
     "id": "factory/osmo16rt8lv6ex7c9q5xfexds03l5a9lf6hvs37mn3vfzwjn5sj7xqmjscjh5n9/jones",
@@ -259,6 +323,14 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTdmcHI4ZXNlY25wMnJyZHFlMmswcmhweHBjZnR1Y3pqenlqazl4c3BkeGFyNGRucnp3M3N4YXdjeWYvYWRtdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/osmo17u4q7e93udu326y8tppye5kgx9wn5vrv5xud5jttupqayg0x9ddqqye3h2/avl",
+    "name": "Auditable and Verifiable Labratories Token ",
+    "symbol": "AVL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTd1NHE3ZTkzdWR1MzI2eTh0cHB5ZTVrZ3g5d241dnJ2NXh1ZDVqdHR1cHFheWcweDlkZHFxeWUzaDIvYXZs&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo17vv0g0962ch492lw4dwnrezznrwhqle46hqtpgke4nhx86wjnjqq3q7vr0/egg",
     "name": "E",
     "symbol": "EGG",
@@ -291,6 +363,22 @@
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMThod2Q5a2pobnR3eXM3c3E3MDc4cjRqYWFzcjV3MDhoaDN0Z2xoeno1ejNrazh0cnFtMnNzdzJzbHcvc3Vs&pagination.limit=1"
   },
   {
+    "id": "factory/osmo18m3pl3jl8wmnvckf3a02ydqygxx0m2tfzky5qg/vosmo",
+    "name": "OSMO Voucher",
+    "symbol": "OSMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMThtM3BsM2psOHdtbnZja2YzYTAyeWRxeWd4eDBtMnRmemt5NXFnL3Zvc21v&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo18m3pl3jl8wmnvckf3a02ydqygxx0m2tfzky5qg/vtestabc",
+    "name": "Test Voucher ABC",
+    "symbol": "TESTABC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMThtM3BsM2psOHdtbnZja2YzYTAyeWRxeWd4eDBtMnRmemt5NXFnL3Z0ZXN0YWJj&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo18qm6x83sew0g5rd8g5q2u097hzvve53kvhcadx33krqthxdyyekqshgvt7/act",
     "name": "tezcoin",
     "symbol": "ACT",
@@ -312,6 +400,14 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTh6ZHc1eXZzNmdmcDk1cnA3NHFxd3VnOXlkdXcyZnlyOGtwbGsyeGdzNzI2czlheGM1dXNhMnZwZ3cvYWxsb3llZC9hbGxMSU5L&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allLINK.svg"
+  },
+  {
+    "id": "factory/osmo190mletnkvnl322x27nc4yjz2qrxf2xef9tf4ahhyewwqu7whjmrql9ddtx/caby",
+    "name": "CABY Protocol",
+    "symbol": "CABY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTkwbWxldG5rdm5sMzIyeDI3bmM0eWp6MnFyeGYyeGVmOXRmNGFoaHlld3dxdTd3aGptcnFsOWRkdHgvY2FieQ%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo194r93tcjuls6dzspdrlj9lwt3xjnahgc6kwhgxnv8hlujuyu5alsllqejj/hava",
@@ -338,6 +434,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/0l/images/libra.png"
   },
   {
+    "id": "factory/osmo19w2t4ue7qpdh6022m3yxmxvv3w7jla7u3hfq0r/test",
+    "name": "Test Token",
+    "symbol": "TEST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMTl3MnQ0dWU3cXBkaDYwMjJtM3l4bXh2djN3N2psYTd1M2hmcTByL3Rlc3Q%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1a7zhzeqh0y0rqeyzmkpmm8qnlrpfhcl5aywym0mugsxncpczm4gq2l2u5m/fts",
     "name": "Fuck The Sail ",
     "symbol": "FTS",
@@ -352,6 +456,40 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWFmbDh1ZmhkNjVtaHpjODN2M3U0bnRjcWozZTZ4NzltbmtnNTQ0MHJja25qa3l3ZThucHMyM3BxZHEveHRt&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1agaf7984z233pppmu2jxgpy8239atsj45vwv80/airdrop",
+    "name": "Airdrop",
+    "symbol": "AIRD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWFnYWY3OTg0ejIzM3BwcG11Mmp4Z3B5ODIzOWF0c2o0NXZ3djgwL2FpcmRyb3A%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1agaf7984z233pppmu2jxgpy8239atsj45vwv80/usdc",
+    "name": "Airdrop",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWFnYWY3OTg0ejIzM3BwcG11Mmp4Z3B5ODIzOWF0c2o0NXZ3djgwL3VzZGM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1agaf7984z233pppmu2jxgpy8239atsj45vwv80/uusdc",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWFnYWY3OTg0ejIzM3BwcG11Mmp4Z3B5ODIzOWF0c2o0NXZ3djgwL3V1c2Rj&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.png"
+  },
+  {
+    "id": "factory/osmo1agaf7984z233pppmu2jxgpy8239atsj45vwv80/uuuusdcd",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWFnYWY3OTg0ejIzM3BwcG11Mmp4Z3B5ODIzOWF0c2o0NXZ3djgwL3V1dXVzZGNk&pagination.limit=1",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.png"
   },
   {
     "id": "factory/osmo1aj076qd054wupmpx9amah3ugh2rv0qs4n9j3l4lac8lhtswk78wq7e2ctf/tkf",
@@ -749,12 +887,44 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ibc.png"
   },
   {
+    "id": "factory/osmo1kywtxf8y7wd3uxq4dysfqh6c2yed4ad2ss6vqc9efcj8m7rj7luqcqcd8h/nexus",
+    "name": "Nexus Nomads DAO Token",
+    "symbol": "NEXUS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWt5d3R4Zjh5N3dkM3V4cTRkeXNmcWg2YzJ5ZWQ0YWQyc3M2dnFjOWVmY2o4bTdyajdsdXFjcWNkOGgvbmV4dXM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1levrh6sulrfm5jxqzqcpyx89pu06y8c3s73cgj/uvovina",
+    "name": "VOVINA Sovereign Reserve",
+    "symbol": "VOVINA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWxldnJoNnN1bHJmbTVqeHF6cWNweXg4OXB1MDZ5OGMzczczY2dqL3V2b3ZpbmE%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1lmjx38ynvm9zars4xkqv2eannuxwlr6r829smjtgj3g9h9zlzwuskf5w0r/test",
+    "name": "Test",
+    "symbol": "Test",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMWxtangzOHludm05emFyczR4a3F2MmVhbm51eHdscjZyODI5c21qdGdqM2c5aDl6bHp3dXNrZjV3MHIvdGVzdA%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1mgwhl36nj64mz5lw49e2xup5h4peag5ehchhykge6wttrra0jzvqm7nv7z/tlf",
     "name": "tokem TLF FIBRA",
     "symbol": "TLF",
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW1nd2hsMzZuajY0bXo1bHc0OWUyeHVwNWg0cGVhZzVlaGNoaHlrZ2U2d3R0cnJhMGp6dnFtN252N3ovdGxm&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1mlku52mfeg24mucpla46fdn79h0yczmwaryhusww9suj42pch3sqqcefqp/privat",
+    "name": "Privat DAO Token",
+    "symbol": "PRIVAT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW1sa3U1Mm1mZWcyNG11Y3BsYTQ2ZmRuNzloMHljem13YXJ5aHVzd3c5c3VqNDJwY2gzc3FxY2VmcXAvcHJpdmF0&pagination.limit=1"
   },
   {
     "id": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
@@ -776,6 +946,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW1ueXVwZ2xhZHp0Nm13dHM2bmp0NDl4cjZ3MHU1Zmduc3VtZXA4cDU0OHpmYTA0aDY2N3EzZDQyZXgvbGlmZQ%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1mxvq386decc2jjxvlrvf0r6nt9m6esqc8vp7anu9pqs9j82yqfpquk8f60/stlth",
+    "name": "Stealth",
+    "symbol": "STLTH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW14dnEzODZkZWNjMmpqeHZscnZmMHI2bnQ5bTZlc3FjOHZwN2FudTlwcXM5ajgyeXFmcHF1azhmNjAvc3RsdGg%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo1myv2g72h8dan7n4hx7stt3mmust6ws03zh6gxc7vz4hpmgp5z3lq9aunm9/AVAIL.rt",
@@ -859,6 +1037,14 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW5sazdxdWMwMGRlY2Vtc3YzaHRsY2QwOHpyMmVjenU5MGprbGR2cDl1eDBsOHlqN2V3dnNyMzd4bXYvdGVzdA%3D%3D&pagination.limit=1"
   },
   {
+    "id": "factory/osmo1nn7a5wgd5gt5uzj8ljqwdnpvn0sfq4htwph7hgwukww9f6kggq5qjs4uyu/labs",
+    "name": "Labrador",
+    "symbol": "LABS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMW5uN2E1d2dkNWd0NXV6ajhsanF3ZG5wdm4wc2ZxNGh0d3BoN2hnd3Vrd3c5ZjZrZ2dxNXFqczR1eXUvbGFicw%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1nnlxegt0scm9qkzys9c874t0ntapv4epfjy2w49c0xdrp3dr0v4ssmelzx/alloyed/allPEPE",
     "name": "Alloyed PEPE",
     "symbol": "allPEPE",
@@ -906,12 +1092,28 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allARB.svg"
   },
   {
+    "id": "factory/osmo1p9cxwmrxsjdwseppztj5vp04ju7utf392mpyzfet5j97thvs5k2q0ny00r/pzuno",
+    "name": "pZunofy",
+    "symbol": "pZUNO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXA5Y3h3bXJ4c2pkd3NlcHB6dGo1dnAwNGp1N3V0ZjM5Mm1weXpmZXQ1ajk3dGh2czVrMnEwbnkwMHIvcHp1bm8%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1p9t4cvy8gg927dg56l2pvk7gk9ptm2jmdp9vkc2xejfzn23clxjqqzjpzl/tokn",
     "name": "ToknWrks",
     "symbol": "TOKN",
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXA5dDRjdnk4Z2c5MjdkZzU2bDJwdms3Z2s5cHRtMmptZHA5dmtjMnhlamZ6bjIzY2x4anFxempwemwvdG9rbg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1pcr30an0vtec0r4flefd0npzu5ggztkqajc2lllyqw4usa26qwns7lnev3/inflow_osmo_share",
+    "name": "Inflow Osmo",
+    "symbol": "Inflow OSMO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXBjcjMwYW4wdnRlYzByNGZsZWZkMG5wenU1Z2d6dGtxYWpjMmxsbHlxdzR1c2EyNnF3bnM3bG5ldjMvaW5mbG93X29zbW9fc2hhcmU%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
@@ -1123,6 +1325,15 @@
     "icon": "https://i.imgur.com/XgF8ery.png"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/allin",
+    "name": "ALLIN",
+    "symbol": "ALLIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYWxsaW4%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmQD6oKTAct6FdiMJMuv4R7nAtzgg32hbiSrubjhU69sZc"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/almst",
     "name": "ALLLLLLLLLLLMOST",
     "symbol": "ALMST",
@@ -1157,6 +1368,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYW1i&pagination.limit=1",
     "icon": "https://png.klev.club/uploads/posts/2024-04/png-klev-club-irkt-p-yantar-png-16.png"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/amc",
+    "name": "America",
+    "symbol": "AMC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYW1j&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmNfjuYY3uVGpDv2UQiS34LoXLzcSVuG67d1DRhZxVcRVi"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ana",
@@ -1294,6 +1514,15 @@
     "icon": "https://dweb.link/ipfs/QmS9eNPFKoBoTEyCwaHgTce1A4EabpHDTFV9CAyhyVJeMi"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/arkad",
+    "name": "ARKADIAH",
+    "symbol": "ARKAD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYXJrYWQ%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qmc3EKXAxsUEBsF6EuVnK1SJw6ixrFZZU7rrpAsg12ohCh"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/army",
     "name": "ARMY",
     "symbol": "ARMY",
@@ -1382,6 +1611,24 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYXRm&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmX25KRf53oLYAL7rMoceXuUbMhqRRLGK6FSytqAUMrZZF"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ati",
+    "name": "All-Terrain Industries",
+    "symbol": "ATI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYXRp&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmeZ6icrMQyuB99t6CjvkEmYcRnoFB8NTU56Bn52BiJ1ip"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/atin",
+    "name": "All-Terrain Industries Inc.",
+    "symbol": "ATIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYXRpbg%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmeZ6icrMQyuB99t6CjvkEmYcRnoFB8NTU56Bn52BiJ1ip"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/atm",
@@ -1528,6 +1775,15 @@
     "icon": "https://dweb.link/ipfs/QmeKwzygHKqRZy8Lhcyj1XcfYgWuUoLTBSUQUwxdSixjDS"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ba-ba",
+    "name": "von Baysen-Bażeński",
+    "symbol": "BA-BA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmEtYmE%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmbStffYaQ9TujCYgzMEyvqho7Rz5qtmAi7mtPxLqSY9cG"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/babe",
     "name": "AtMeBabe",
     "symbol": "BABE",
@@ -1553,6 +1809,24 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmFidQ%3D%3D&pagination.limit=1",
     "icon": "https://i.stargaze-apis.com/u03LF5talk7bCfv2C7buJTnaQ99soa_x5tebkUYEzoc/f:jpg/resize:fit:700:::/dpr:2/plain/ipfs://bafybeictugfluo7kqbelwuuvlrzofgshgxuhznvjqyxgni6j3jeqzua6oa/257.png"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/baby",
+    "name": "NEON",
+    "symbol": "baby",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmFieQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmVzWTEu6zQQEQ6YErV1PLHKx6WutHYMu4TBD3V6rJVaxc"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/babyfartcoin",
+    "name": "Baby Fartcoin",
+    "symbol": "BABYFARTCOIN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmFieWZhcnRjb2lu&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qmbyy3cpZhZ7mMpZTVDsrD5MxgJWpbjPoESZPUxauNaW4r"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/babylasagna",
@@ -1672,6 +1946,15 @@
     "icon": "https://dweb.link/ipfs/QmW7ApSSmPJejBKWpjwDPUtp2nMDyPXGtsPC3tCaCAn6sk"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/bar",
+    "name": "Barium",
+    "symbol": "BAR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmFy&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmfKBwAAj4yf6PjjmmtE7D2y616KmtBrAoYdE9dQQ5zSm8"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/barron",
     "name": "BarronTrump",
     "symbol": "BARRON",
@@ -1751,6 +2034,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmNj&pagination.limit=1",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BitConnect.svg/1200px-BitConnect.svg.png"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/bco",
+    "name": "Bombardiro Crocodillo",
+    "symbol": "BCO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYmNv&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmNSbfmrXuGCchrVcYCS2nMfH8Efo4JhFQsxkBfYekPxFX"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/bdgr",
@@ -2408,6 +2700,15 @@
     "icon": "https://dweb.link/ipfs/QmfT8j9mGkyBs5ALRkps78KiPw7Nd2Etus6dUuZCdhATXE"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/brk",
+    "name": "Berkshire Hathamoon",
+    "symbol": "brk",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYnJr&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmajjWFUVkXZSway4Ursp4ecntZFCPnKBFhjH9yq5SBzWm"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/broke",
     "name": "Plan Broke",
     "symbol": "BroKE",
@@ -2478,6 +2779,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYnRoYw%3D%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmXjb4CaDKeSFsKSgskJPTmr93a425aEefo56oWau5UaUf"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/btm",
+    "name": "BITMEME",
+    "symbol": "BTM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvYnRt&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmWxna1EJWgutqKKhDKsv6TPtV6Z7Nm1GnJLo3zzdt3you"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/btс",
@@ -2813,6 +3123,15 @@
     "icon": "https://www.crowwithknife.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcrow-with-knife.d44b0919.png&w=640&q=75"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cbit",
+    "name": "Cornbits",
+    "symbol": "CBit",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY2JpdA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmSvMkGbLhyLnBivEqixQxe2ehVpEGj1sDoXYdrWfR9fB1"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cbm",
     "name": "cookboom",
     "symbol": "cbm",
@@ -2840,6 +3159,15 @@
     "icon": "https://dweb.link/ipfs/QmVFNGnd6AgXHW1dxRTdH71zci6kXzfeTPrZovhngy1nXk"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cbt",
+    "name": "Check Bin Token",
+    "symbol": "CBT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY2J0&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmQ8aAZZYhoKD8yozSKDBv1PoU41B4xuTFiVRcVJca4Qjx"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cbtc",
     "name": "Cookbtc",
     "symbol": "CBTC",
@@ -2847,6 +3175,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY2J0Yw%3D%3D&pagination.limit=1",
     "icon": "https://pbs.twimg.com/media/Fv00iBWWIAARwHa.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cbuddha",
+    "name": "Crypto Buddha",
+    "symbol": "CBUDDHA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY2J1ZGRoYQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmV32HAySLyZzMDLUarvqTbzHFt1ujYW3iSuu8mADzT6JM"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cca",
@@ -3092,6 +3429,15 @@
     "icon": "https://dweb.link/ipfs/QmWe2m27MqoChfX3HQ4jezZskSkEAyusxoDDc24hasvhar"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cia",
+    "name": "Candace Intelligence Agency",
+    "symbol": "CIA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY2lh&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmbDtMDMX1wsG42g4mqKtQ5KWLV5pS1VtVA4kSLMMhtnHV"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cibc",
     "name": "Cum in Butt Cum",
     "symbol": "cIBC",
@@ -3182,6 +3528,15 @@
     "icon": "https://porocni-fotograf.com/compcat30/"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cmpn",
+    "name": "CosmosPolitan",
+    "symbol": "CMPN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY21wbg%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmcsUa1imfnuU5Boyib45nnoZVHuHPcR9c386QnBv2RnxU"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cmr",
     "name": "camaro",
     "symbol": "CMR",
@@ -3189,6 +3544,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY21y&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmeBrhWni3ebM9Qo2TYbjHyaBaNGuyrrbvY5y2RTVhSfFn"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cmx",
+    "name": "Охуенно  называется",
+    "symbol": "CMX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY214&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmYo1nVP1rYfwC5He9UqU2jXdvZDR7ttgvkY1rNpeFKqqP"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cnb",
@@ -3432,6 +3796,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY29zbW8%3D&pagination.limit=1",
     "icon": "https://static.vecteezy.com/system/resources/previews/011/026/763/original/watercolor-halloween-clip-art-clip-art-graphic-free-png.png"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cosmopepe",
+    "name": "Cosmo Pepe",
+    "symbol": "COSMOPEPE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY29zbW9wZXBl&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmV2TRMcEKa1fRhmKvb3GGZcVY18dNbffp8zGJRCAdaGmu"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cosmos",
@@ -3703,6 +4076,15 @@
     "icon": "https://img.freepik.com/premium-vector/smiling-chef-cartoon-character_8250-10.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ctl",
+    "name": "CryptoTrtl",
+    "symbol": "CTL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY3Rs&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmcvSJt113G8MtMhDksfH3n5rPSMkxicFcEj5kGQ6j1Swy"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ctm",
     "name": "CATMIAOU",
     "symbol": "CTM",
@@ -3710,6 +4092,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY3Rt&pagination.limit=1",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Tx5Ok0dqjfpGVLCkJiPveJsRVPe3YpbAuw&s"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ctrn",
+    "name": "citrone zkBTC ",
+    "symbol": "CTRN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvY3Rybg%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmVbpNSmZD2Ruf9KXCvf462bkUVb4uCbwvctTaAnjo41KF"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cuc",
@@ -3973,6 +4364,15 @@
     "icon": "https://dweb.link/ipfs/QmQdPYEEwfAtMWJ1eEEPtF5uCKKWtMZQnTMDBVS4vMyNqq"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ddhs",
+    "name": "888",
+    "symbol": "DdHs",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZGRocw%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qmf8i2pFvhQxMV1V63k71iZJGTTNb5ddHVuwa1Pz2GcNEy"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ddv",
     "name": "Dudina",
     "symbol": "DDV",
@@ -4069,6 +4469,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZGh6&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/Qmb88B1FUR9E5zmXBKTnPrciczMVHS1487DUieebLRothD"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/diah",
+    "name": "ARKADIAH",
+    "symbol": "DIAH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZGlhaA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmaQV3v5sXx6RGUmGHN3dA1zdj3dYMzCjqNbRoPN3rcBUd"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/diamh",
@@ -4222,6 +4631,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZG1k&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmR62uZL6tvzZvH9qZ3wybUxkJagdMCPJNS59UrsxSysEE"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/dmf",
+    "name": "DumpFun",
+    "symbol": "DMF",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZG1m&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmVN1wpPkmuoz1LqoJiPNtcSehFaxAY3p6Wk4EAmF7KREu"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/dnbtc",
@@ -4449,6 +4867,15 @@
     "icon": "https://dweb.link/ipfs/QmeMjnY2U9byfqLkVoPB3SV1Anf8BaXgd9Z7gXqueJiwaS"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/dro",
+    "name": "Boydro",
+    "symbol": "Dro",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZHJv&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmfT6qURDoJPU4TwLhVrLewwksaifZBL1Z8JuRkjfz6DzB"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/drugs",
     "name": "Syndicate Drugs Making Happy Tingle",
     "symbol": "Drugs",
@@ -4456,6 +4883,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZHJ1Z3M%3D&pagination.limit=1",
     "icon": "https://i.imgur.com/8f9uHTN.png"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/dt3",
+    "name": "Daitarn3",
+    "symbol": "Dt3",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZHQz&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmTHNTCj7j9cmLfRy3R7E36zPnCARSZL2vsDf19VguyMxr"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/dtm",
@@ -4591,6 +5027,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZWdn&pagination.limit=1",
     "icon": "https://tse2.mm.bing.net/th/id/OIG1.u8KcoENZ7cuPydikVU2o?w=270&h=270&c=6&r=0&o=5&pid=ImgGn"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/eggplant",
+    "name": "Eggplant",
+    "symbol": "EGGPLANT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZWdncGxhbnQ%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmNVFndkUzSGsEtTxs6oKueQBJvCEEBY5MqqiPtQ7dc5V9"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/egpc",
@@ -4898,6 +5343,15 @@
     "icon": "https://i.ibb.co/K2RZ46C/f876429f-a17f-44a6-8b2e-911cbb337f86.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fci",
+    "name": "Forum Bitcoin Indonesia",
+    "symbol": "FCI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZmNp&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmfGXcJeSd7RRH6fCHVxGrY8JHvSCYWbdjP6Z82wZWHXSM"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fcker",
     "name": "FOOCKER",
     "symbol": "FCKER",
@@ -4968,6 +5422,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZmZidHRt&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmazdueAoA94C55HSnWophg6gZ5N9AC9junUDPhvmhTKMb"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fibe",
+    "name": "Fiber enterprise ",
+    "symbol": "FIBE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZmliZQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmRAnAjSLbxYU4bv3v8pAgApBkjBKLW7ZWzMSMjPUJ3CzJ"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fig",
@@ -5177,6 +5640,15 @@
     "icon": "https://pbs.twimg.com/media/GM6RaXVboAIuvIG?format=png&name=240x240"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fost",
+    "name": "Fost",
+    "symbol": "FOST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZm9zdA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmYrv9XL7TN2LHwJ1zYq5yG1hXfWb7cjbSq6AEVsH4DEK1"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fot",
     "name": "Fortis Oeconomia",
     "symbol": "FOT",
@@ -5283,6 +5755,24 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZnNr&pagination.limit=1",
     "icon": "https://i.vgy.me/CDrJXz.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fsm",
+    "name": "Flying Spaghetti Monster",
+    "symbol": "FSM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZnNt&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qmext7J26SJsa3bLvxZNEE78kzBSouJCJGrD2bvyXV9kSB"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fuckbike",
+    "name": "FUCK Ali-Rev-Gator",
+    "symbol": "FUCKBIKE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZnVja2Jpa2U%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmWNZ49dH1oTnE638YDaE42cMxRC6d8DCKn24sqT3AzQEn"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fuckit",
@@ -5427,6 +5917,24 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZ2Vua2lkYW1hZXBpYw%3D%3D&pagination.limit=1",
     "icon": "https://i.seadn.io/gae/pbwJ_YDig6Igdsbk-xRD2QNTbmf6gkrp7QGKMem0OhZf57tBS8YUgl_QHo5FcIZmI6QRhJiQp9RahkXc37Q_kIiOFcPDNx_ub8qSxw?auto=format&dpr=1&w=1000"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/gfd",
+    "name": "Girlfriend",
+    "symbol": "GFD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZ2Zk&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmSBNPx6ZRVsx6npBLAJJk7QjUDiw7xwkdqE6uzbZ8eG5R"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/gge",
+    "name": "GEEGEE",
+    "symbol": "GGE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvZ2dl&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qmbm3q7QfkHMnH8V2HwPkCViPNunqeJ7AGf8SQnKajJEZr"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ghvn",
@@ -5796,6 +6304,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvaGFtYnVyZw%3D%3D&pagination.limit=1",
     "icon": "https://i.postimg.cc/sDr2St0z/2024-05-12-020915.png"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/hand",
+    "name": "Have A Nice Day",
+    "symbol": "Hand",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvaGFuZA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmXHXMNMLi2zT2VoczehjFAys5v7KyJsHecU9Av9PG3QVg"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/hands",
@@ -6174,6 +6691,24 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvaWJj&pagination.limit=1",
     "icon": "https://www.ibcprotocol.dev/_next/image?url=https%3A%2F%2Fdev.ibcprotocol.dev%2Fstorage%2Fmedia%2Fpages%2Fhow-ibc-works%2F770d333767-1705299662%2Farchitecture-of-ibc-light.png&w=1920&q=75"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ico",
+    "name": "ICOSMO",
+    "symbol": "ICO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvaWNv&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmRKkNaXU4EncpREN5iPRxccSQ9cYAHDvh8JDDGG3riEGP"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/icos",
+    "name": "Icosmos",
+    "symbol": "ICOS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvaWNvcw%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmRKkNaXU4EncpREN5iPRxccSQ9cYAHDvh8JDDGG3riEGP"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/idc",
@@ -6815,6 +7350,15 @@
     "icon": "https://dweb.link/ipfs/Qma1DajjCnewA7uNZwhMKBe7PDnqrtorGdoh9L92ZecJkN"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/khb",
+    "name": "KHEBRE Token",
+    "symbol": "KHB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgva2hi&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmZp55k5ifvaFkxmwYsrFp4tsdum3c8tZxm1n5fmfytw9q"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/khi",
     "name": "KappaHi",
     "symbol": "KHI",
@@ -7049,6 +7593,15 @@
     "icon": "https://dweb.link/ipfs/QmY3LFPNnUgqfNpEvfmYtau8YUhK3hRzjxxw9xQkULtxvo"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/kwon",
+    "name": "Jaekwoninuwithhat",
+    "symbol": "KWON",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgva3dvbg%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmSXXoZVoY5ErY5ZSqz6isoUXX1hmAUz3MUBskpkPdPDqN"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/kyg",
     "name": "Koyangi",
     "symbol": "KYG",
@@ -7121,6 +7674,15 @@
     "icon": "https://dweb.link/ipfs/QmZWVjzzXGkMpFtQgwpgTi8Ew2a31huvRNWWsWjVAB7oq7"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/lasse",
+    "name": "Lasse Knutas",
+    "symbol": "Lasse",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbGFzc2U%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmRzjvEBDakCjPvoLuziweXpawC3Ug27vt5xEJ8S6erdik"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/latins",
     "name": "LATINS",
     "symbol": "LATINS",
@@ -7139,6 +7701,15 @@
     "icon": "https://www.roadtolaughtale.com/wp-content/uploads/2022/12/toon-g5-luffy-1024x724.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/lavoid",
+    "name": "LAVOID",
+    "symbol": "LAVOID",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbGF2b2lk&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmYS1Hh2FUoSLPum5VYYng6tB6AEpnV68A4VjABca844p4"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/lba",
     "name": "Lba",
     "symbol": "Lba",
@@ -7146,6 +7717,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbGJh&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmfYUjp1aYdnPRNdk8S7RtLq2ZK2mKLkQxBYfuFa8Sfcgo"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/lbh",
+    "name": "Lubaha",
+    "symbol": "LBH",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbGJo&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmfJAFU3u1oQThCgpv3tqgjEve9aBwbHJK3xE2QLe7sSJY"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/lca",
@@ -7191,6 +7771,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbGZn&pagination.limit=1",
     "icon": "https://i.redd.it/w50a0e8ur2371.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/lfrog",
+    "name": "Laser Frog",
+    "symbol": "LFROG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbGZyb2c%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmdH47wyUsxEZdgy5kvnWGTJqEGaqtB7ZWdbBYqwpnGPRN"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/lit",
@@ -7378,6 +7967,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbHVuc2FoZA%3D%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmbpMCXDAdZspzQq6F2zjxG3UgMjLgrrm8WFRkfLKkKU1F"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/lus",
+    "name": "Solus",
+    "symbol": "LUS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbHVz&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmQJWQvUMFqVqzKqgPP5cgdoMYBj29h9gx5BqD5QYc9MVx"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/lvi",
@@ -7621,6 +8219,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbWRs&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmRhJ3MNZTZAArhMptnsHJEgjsyxVevAYgPKYoWb5bHUpL"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mdm",
+    "name": "MimmoModem",
+    "symbol": "MDM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbWRt&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qmapittm5DtXfd54co266fBWoUYhXLfpaMQM3DRtZwDAK2"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mdoge",
@@ -7882,6 +8489,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbWxz&pagination.limit=1",
     "icon": "https://framerusercontent.com/images/vexFIMeMDHu4RckqVk24J1qsVc.gif"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mmd",
+    "name": "MintMind Design ",
+    "symbol": "MMD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbW1k&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmWZ54H8oh4Q96oDSBzo9UXup63TZ1m9xh8HHevkAvQvwR"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mmm",
@@ -8289,6 +8905,15 @@
     "icon": "https://pbs.twimg.com/media/GNAB0FYWIAEYTjK?format=jpg&name=small"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/nasty",
+    "name": "NASTY BOOKS",
+    "symbol": "NASTY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbmFzdHk%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmTDmBKBFn9jDr8zKE7got5qGWDyZbMZrPFAhkhVFzGyqZ"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/nba",
     "name": "shaqkobemagicjordan",
     "symbol": "NBA",
@@ -8305,6 +8930,24 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbmJs&pagination.limit=1",
     "icon": "https://iili.io/Jr8C6LG.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ndfi",
+    "name": "NotDyingForIsrael",
+    "symbol": "NDFI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbmRmaQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmR5aQw9uEGd9y7YnAGVMhsjRithfBWufZaJVEWDQB4QTi"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/necro",
+    "name": "Necro",
+    "symbol": "NECRO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbmVjcm8%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmX1Y2GQcDFwpFAwvedvRn3PdgbnTQ1svxMq9DfyY6nTe5"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/neet",
@@ -8413,6 +9056,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbmlrYQ%3D%3D&pagination.limit=1",
     "icon": "https://w.wallha.com/ws/14/PNZ3dkWJ.png"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ninedollers",
+    "name": "Nine Dollers",
+    "symbol": "NineDollers",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbmluZWRvbGxlcnM%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmU6q3KguRGj5j8yg1aBrTtMzBbg8mbR5RMuLVHdSLCsJp"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/nip",
@@ -8549,6 +9201,24 @@
     "icon": "https://niocton.ru/wp-content/uploads/2024/01/nemoneta.png"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/notx",
+    "name": "Nothing XXX",
+    "symbol": "NOTX",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbm90eA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmZkXp9AHzHt4ffPVAW6yQenuENdKJpr6jwDSKrMyGZ5HZ"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/nstrouter",
+    "name": "Router",
+    "symbol": "NSTRouter",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbnN0cm91dGVy&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmZswFphJ8PwzzhQxSvje2Uzpn8Vh9ETYciHWHJURo8cSF"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ntrn",
     "name": "Neutron",
     "symbol": "NTRN",
@@ -8556,6 +9226,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbnRybg%3D%3D&pagination.limit=1",
     "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficodrops.com%2Fwp-content%2Fuploads%2F2023%2F10%2FEWIv5tJe_400x400.jpg&f=1&nofb=1&ipt=a8c76f46aaed3ec507c6e2a8c041c9b788b18600187e2c041664ab5c69a2c172&ipo=images"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/nug",
+    "name": "Nugget",
+    "symbol": "NUG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvbnVn&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmVsopveobZjuiy7AwWvXcrVs7zjGdJzWkA6AEg3ywr3PK"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/nut",
@@ -8610,6 +9289,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvb2JjdA%3D%3D&pagination.limit=1",
     "icon": "https://i.imgur.com/XY25HgW.jpeg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/obel",
+    "name": "Obel",
+    "symbol": "OBEL",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvb2JlbA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmZeyAePErPhwmEtyLUyGme9ysQkSZB5YBRYf9opo7qXkp"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/obi",
@@ -8772,6 +9460,15 @@
     "icon": "https://media.animexx.de/fanfictions/charaktere/51/200651/448876.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/omos",
+    "name": "SISOMOS",
+    "symbol": "OMOS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvb21vcw%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qmbx7v26FY5M2JyGrFi6tGzt5XyHaSTDqsoWwzYUFr6ULi"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/onaut",
     "name": "Osmonauts",
     "symbol": "Onaut",
@@ -8880,6 +9577,15 @@
     "icon": "https://start.cooking/Chef.svg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/org",
+    "name": "ORANGE",
+    "symbol": "ORG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvb3Jn&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmUFDf59NiiHmHw4aFAKptas7ZsP79Wp78Yu8bbdDWevq2"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/orgasm",
     "name": "ORGASM",
     "symbol": "ORGASM",
@@ -8916,6 +9622,15 @@
     "icon": "https://dweb.link/ipfs/QmaeHt1KfkRYwSZjGDcVtWrWTsyYCrgNMHhnYxrM4KXB3r"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/osmo",
+    "name": "ITC",
+    "symbol": "osmo",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvb3Ntbw%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmNV5zxv3k1Z9b1dpsBonzZ6b9sqb9izR1Ftm2eNBaAzdQ"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/osmocat",
     "name": "OsmoNautCat",
     "symbol": "OsmoCat",
@@ -8950,6 +9665,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvb3Ntb3BlcGU%3D&pagination.limit=1",
     "icon": "https://th.bing.com/th/id/OIG3.ne2I14Js3OGRm6S.B_Ab?pid=ImgGn"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/osmorewards",
+    "name": "OSMOGIFTS.COM",
+    "symbol": "OSMOREWARDS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvb3Ntb3Jld2FyZHM%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmR5imCiCYbdicDBz7MeXztFEDTJX9R1MDet4gPb3SHMAY"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/osmosis",
@@ -9213,6 +9937,15 @@
     "icon": "https://dweb.link/ipfs/QmXDMbA1g2YKudvbJv5gkDJBjtT39buPNeC7uK8fLfpVLi"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pea",
+    "name": "Peaness",
+    "symbol": "PEA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcGVh&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmeLBwNumFD2EfNGmEYxQW3C5wZ4AC7H1LZodmM9fddefR"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/peaz",
     "name": "Hopewell",
     "symbol": "Peaz",
@@ -9402,6 +10135,15 @@
     "icon": "https://dweb.link/ipfs/QmTTeEDce2oMxsaExU95ngTxj2Q1yzHWqyFdtJZaKeSrJJ"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pici",
+    "name": "PICI",
+    "symbol": "PICI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcGljaQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmdSagvC1Mdu2R7XfPRMAjKEpwkpueDgSbPnW5TtYy7ftC"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pickle",
     "name": "wolf47",
     "symbol": "pickle",
@@ -9443,6 +10185,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcGlsbHM%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pimples",
+    "name": "(G)AJPimplepoppernonfrencoin",
+    "symbol": "PIMPLES",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcGltcGxlcw%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmfF7FTWvuBovQAkFNm5ax5a3ECjYtjWMuobs4ANpK2LiK"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pinu",
@@ -9515,6 +10266,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcGxhbmI%3D&pagination.limit=1",
     "icon": "https://pbs.twimg.com/profile_images/1541188633163595776/DB1plS2K_400x400.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/plei",
+    "name": "Pleiadian",
+    "symbol": "PLEI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcGxlaQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmW9deNhseg2TdRu6yLhtVtrv1hAchr1d61bVCbg6jmumr"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pmzn",
@@ -9616,6 +10376,15 @@
     "icon": "https://media.istockphoto.com/id/590062982/photo/poop-emoticon-on-pink-background.jpg?s=612x612&w=0&k=20&c=w4YJ3m5JTCc-MCYx6tY5QjSkwD26_H5UffX29SVZQP0="
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/poop420",
+    "name": "POOP420",
+    "symbol": "POOP420",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcG9vcDQyMA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmXPebPxJ4qixWjJDz9w7SeUWwPNUCMqPk3d6kd1QXEa9o"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/popcoin",
     "name": "Popcoin",
     "symbol": "Popcoin",
@@ -9697,6 +10466,15 @@
     "icon": "https://dl.openseauserdata.com/cache/originImage/files/90d0a9f30b909ffbbeb640a9d813501b.png"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ppsspp",
+    "name": "Pepe's last supper",
+    "symbol": "PPSSPP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcHBzc3Bw&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmejPsnG35kkn9f6TKC4QTp4m2pmaeZiataqhyFuUSR7pV"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/praisethesunny",
     "name": "PraiseTheSunny",
     "symbol": "PRAISETHESUNNY",
@@ -9722,6 +10500,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcHJlcw%3D%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/Qmb6tz55QKxTnPsSHWPswA7bEHdJH4CWr5RaWRjq1k9LT6"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/prevost",
+    "name": "PREVOST",
+    "symbol": "PREVOST",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcHJldm9zdA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmcWnQEnbp56TxwDhzacgMR9coYVNBqgKjji6iAHRi93Xs"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/prl",
@@ -9776,6 +10563,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcHN5Y2hvcGVwZXg%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmWLmXLbHQD1WDzrdJ2QvxpDY8BjSRP9MbuVm5K8qu72FA"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ptm",
+    "name": "Phantom Token MEME",
+    "symbol": "PTM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcHRt&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmQJ9ye3iMcYReoHPjk5Pcw4iS9nFb5XDYRFwtYKKfswZ6"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ptp",
@@ -9920,6 +10716,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcHp0bQ%3D%3D&pagination.limit=1",
     "icon": "ipfs://bafkreialpmdwwvgatbnm6wjeshmubufngx6alqdoaqpmkbj3zibosu37wu"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pzuno",
+    "name": "pZunofy",
+    "symbol": "pZUNO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcHp1bm8%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmeCAo4Z7oJad7NgWYCF1xYGfjfGqoZQFiX9GBShrAat65"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pzz",
@@ -10118,6 +10923,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcmV1&pagination.limit=1",
     "icon": "https://images.idgesg.net/images/article/2019/02/high_voltage_letter_r_programming_language_by_vrender_gettyimages_plus_circles_halftone_by_hakkiarslan_gettyimages_2400x1600-100789395-large.jpg?auto=webp&quality=85,70"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/revengreen",
+    "name": "REVENGREEN",
+    "symbol": "REVENGREEN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcmV2ZW5ncmVlbg%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/Qmbj9M8wLvqUUhVLuJWr2eFX4qX4kaVWfWS8uEe6nrrRnq"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/rex",
@@ -10345,6 +11159,15 @@
     "icon": "https://i.ytimg.com/vi/xwEt2hgpMO8/maxresdefault.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/rugdoc",
+    "name": "Rug Doctor",
+    "symbol": "RUGDOC",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcnVnZG9j&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmS5xwibwUfhGGuHctjfx87mp3g8uY2nJRYrkF2jCHUKhR"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ruggz",
     "name": "Rugged Zaki",
     "symbol": "RuggZ",
@@ -10352,6 +11175,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcnVnZ3o%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmZ1knXWhEphX9qks3bw4XJ5yZfs1eVfjfbC4sHi9o858q"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/rugrats",
+    "name": "RugRats",
+    "symbol": "rugrats",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvcnVncmF0cw%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmUuorDAaeCHygidyRQCJ2TR935pYELKTGjMQWmk7DZNH2"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/run",
@@ -10678,6 +11510,15 @@
     "icon": "https://dweb.link/ipfs/QmUZe2o8FehiNzz7sGrrtmjxxPQNsFR3wjwW6wLenS5FdG"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/sent",
+    "name": "Sentient",
+    "symbol": "Sent",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc2VudA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmRZ4CNMX1YE4zu87j8qeNd5ch5MbnwWirUKErj2dbQFvp"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/seven",
     "name": "The 7 Green Shade Token ",
     "symbol": "SEVEN",
@@ -10931,6 +11772,15 @@
     "icon": "https://us-tuna-sounds-images.voicemod.net/00cee873-1a27-49f3-928c-3b3a7efff336-1707581522940.png"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/skii",
+    "name": "skii",
+    "symbol": "skii",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc2tpaQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmZJVGkWoAiHTjYAxeHEga9UVRgmQt8gLnA6X7QvbjduF1"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/skulls",
     "name": "Skulls",
     "symbol": "SKULLS",
@@ -10965,6 +11815,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc2t5ZGl2ZXI%3D&pagination.limit=1",
     "icon": "https://static.vecteezy.com/system/resources/previews/014/693/099/large_2x/man-skydiving-icon-simple-style-vector.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/sla",
+    "name": "Slacker",
+    "symbol": "Sla",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc2xh&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmeHVCdbkc7T24RxKhZWuVbMwVF2k7HKX4dx1iLGHNMjtJ"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/slayer",
@@ -11083,6 +11942,15 @@
     "icon": "https://i.imgur.com/5ypN33j.jpeg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/snks",
+    "name": "SNEAKERS",
+    "symbol": "SNKS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc25rcw%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmVPU2BFDA7C1LHTXKgVQcaJjTsd8NjJqJnTh9jqfcR2Pp"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/snn",
     "name": "SOOOOON by nomic",
     "symbol": "SnN",
@@ -11134,6 +12002,15 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc29sYW5h&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/som",
+    "name": "Sun Of Man",
+    "symbol": "SOM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc29t&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmdrSyeApy4gSMvjEL9QPJEoXn7H4naDgEBxjHUQB7c4RL"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/soma",
@@ -11233,6 +12110,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc3BpY2U%3D&pagination.limit=1",
     "icon": "https://www.efghfoods.com/wp-content/uploads/2023/06/Exploring-the-Rich-History-of-Indian-Spices.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/spicemos",
+    "name": "spicemos",
+    "symbol": "SPICEMOS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc3BpY2Vtb3M%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmQNfuTmxAspNwg4M8zAwjY9145nChJ3y3QPD9NaFw27i8"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/spinc",
@@ -11412,6 +12298,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc3RlbGxh&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmPz8ocU2LzcYkx8LYm3mTbjBM85EqA5p2fXzNUmzhBsT2"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/stellar",
+    "name": "Stellar",
+    "symbol": "STELLAR",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvc3RlbGxhcg%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmfD5Rzf8LFP44diDMPY1urbSZ9spoirugDR8RGubaU1mi"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/stgme",
@@ -11700,6 +12595,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdGF0ZQ%3D%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmSDH7LnhoxPHKtT7hAATT7bEHYkxz81rSNVJmErNQTp1C"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/tbad",
+    "name": "Test Badlanders",
+    "symbol": "TBAD",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdGJhZA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmdXqKjWtCe7eGH7daTj38X6JGR3qVNoMUHGLAtvqCgWie"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/tbc",
@@ -12044,6 +12948,15 @@
     "icon": "https://cdn4.volusion.store/mwceg-gjtbh/v/vspfiles/photos/TrumpCoinOnly-2.png?v-cache=1699020757"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/trav",
+    "name": "luciatravella",
+    "symbol": "trav",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdHJhdg%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmaU6T7kqebDYhjpGQVLDMhg2kkpARqHWWz9Qncq8Dvw3Y"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/trees",
     "name": "MADTREES",
     "symbol": "TREES",
@@ -12368,6 +13281,15 @@
     "icon": "https://www.nicepng.com/png/detail/185-1857814_pepe-vector-free-download-on-mbtskoudsalg-png-pepe.png"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ufo",
+    "name": "Aliencoin",
+    "symbol": "UFO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdWZv&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmR5xCpSfALjhwgeV6A5DYcErN9VnrVX9Pjq6xzx6ZnVip"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ufr",
     "name": "UnframedArt",
     "symbol": "UFR",
@@ -12384,6 +13306,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdWty&pagination.limit=1",
     "icon": "https://cdn.countryflags.com/thumbs/ukraine/flag-3d-round-250.png"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/uma",
+    "name": "Umamusume Pretty Derby",
+    "symbol": "UMA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdW1h&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmVqTBx9C7He2JBx63ZEimV9Uhc5aQp64zBywoWznsGc8x"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/un1",
@@ -12591,6 +13522,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdm1lbWU%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmexuXQoLSmbZd6XzvxEi5MvAb2ywbo4X7MsynTRPkYpgw"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/void",
+    "name": "VOID",
+    "symbol": "VOID",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvdm9pZA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmYS1Hh2FUoSLPum5VYYng6tB6AEpnV68A4VjABca844p4"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/vtc",
@@ -12873,6 +13813,15 @@
     "icon": "https://i.kym-cdn.com/entries/icons/original/000/033/559/cover1.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/wsol",
+    "name": "Wrapped sol",
+    "symbol": "Wsol",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvd3NvbA%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmWYFgrdYsNS9F8Ah4ZNe6yKzRmCQd1dUSZE2xwQUYURWC"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/wtf",
     "name": "WeTheFringe",
     "symbol": "WTF",
@@ -12961,6 +13910,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://api-osmosis-ia.cosmosia.notional.ventures/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgveGdyOA%3D%3D&pagination.limit=1",
     "icon": "https://i.postimg.cc/cJwYZvs0/XGR8-Logo.jpg"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/xingxing",
+    "name": "XingXing",
+    "symbol": "XINGXING",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgveGluZ3hpbmc%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmR7KDoXh5itBjpawXPUoRxKrjaw7M23woCSeMEkuNBveP"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/xlc",
@@ -13080,6 +14038,15 @@
     "icon": "https://t3.ftcdn.net/jpg/05/34/00/60/360_F_534006006_y15R1j7Myu3779bNIVhEcIzUzsNy9dEB.jpg"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/yea",
+    "name": "YEA",
+    "symbol": "YEA",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgveWVh&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmNq8tYf4AyJjQ214iYeViSUicTb55qihZTZDHM5u6kmhd"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/yey",
     "name": "YES - YES ",
     "symbol": "YEY",
@@ -13140,6 +14107,15 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgveW91cm1vbQ%3D%3D&pagination.limit=1",
     "icon": "https://dweb.link/ipfs/QmbReGDDSU6upde7BhxwfoRBbndcchKwqQSFLMuQ6JNwzU"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/yungog",
+    "name": "Yung Kong Khan",
+    "symbol": "YUNGOG",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgveXVuZ29n&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmbXN5skUt6hMyrHznKNBdnhceopSSGEwnTcVsp6rgiEFK"
   },
   {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/yup",
@@ -13268,6 +14244,24 @@
     "icon": "https://dweb.link/ipfs/QmTqjwqMXq3SCCchGsDfEQd3pNqn9VnMHaNPubzFgoqvay"
   },
   {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/zerop",
+    "name": "ZeroP",
+    "symbol": "ZeroP",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvemVyb3A%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmdquTptTMbWfvSbyFjzpyDUtCGfvUyhchT8C5WiueDJF5"
+  },
+  {
+    "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/ziby",
+    "name": "Ziby",
+    "symbol": "ZIBY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXE3N2N3MG1tbGx1eHUwd3IyOWZjZGQwdGRuaDc4Z3poa3ZoZTRuNnVsYWw5cXZydHU0M3F0ZDBuaDgvemlieQ%3D%3D&pagination.limit=1",
+    "icon": "https://dweb.link/ipfs/QmNfA2fHDcGpnHXC5QArPhNor3YubtfYtJs7D9nw561JHV"
+  },
+  {
     "id": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/zigar",
     "name": "ZombieCigars",
     "symbol": "ZIGAR",
@@ -13331,6 +14325,14 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/xrpl/images/xrp.svg"
   },
   {
+    "id": "factory/osmo1qtwhxm0etkudsy73muejmtawt4ufwazgwtdlqx03d0vd3rpw5qgsqz7lg2/mimi",
+    "name": "DOGDAO",
+    "symbol": "MIMI",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXF0d2h4bTBldGt1ZHN5NzNtdWVqbXRhd3Q0dWZ3YXpnd3RkbHF4MDNkMHZkM3JwdzVxZ3NxejdsZzIvbWltaQ%3D%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1r53fx9fvcdzncrs7zkn4gw5vfelx5gk8k5wc6wqha2jpkh992rusr5tk02/alloyed/allDOT",
     "name": "Alloyed DOT",
     "symbol": "allDOT",
@@ -13347,6 +14349,14 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXI4Yzl6Z3JodWs2N3B0bjVyN3FxbmtxZG1ucnEyM3JyenZjNHVxbTVxcTU1dmp1c2gwYXN6MmRycWwvV09STEQ%3D&pagination.limit=1",
     "icon": "https://i.pinimg.com/736x/d1/b2/b2/d1b2b25212d44afdf8e0c71bc0bcd8f6.jpg"
+  },
+  {
+    "id": "factory/osmo1rak6fx5qm5y5nhua98r8tm7r4sdz58ahgh2782q3jexgkta5l32qhxt3x9/jtt",
+    "name": "Jedi Testnet Token",
+    "symbol": "JTT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXJhazZmeDVxbTV5NW5odWE5OHI4dG03cjRzZHo1OGFoZ2gyNzgycTNqZXhna3RhNWwzMnFoeHQzeDkvanR0&pagination.limit=1"
   },
   {
     "id": "factory/osmo1rckme96ptawr4zwexxj5g5gej9s2dmud8r2t9j0k0prn5mch5g4snzzwjv/sail",
@@ -13456,6 +14466,22 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ashLAB.png"
   },
   {
+    "id": "factory/osmo1tm748xtl4wmxfn5hqn6r66tzv0csc3qs8dl7p9/umyt",
+    "name": "MyToken",
+    "symbol": "MYT",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXRtNzQ4eHRsNHdteGZuNWhxbjZyNjZ0enYwY3NjM3FzOGRsN3A5L3VteXQ%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1tm748xtl4wmxfn5hqn6r66tzv0csc3qs8dl7p9/uusdc",
+    "name": "Axelar Wrapped USDC (KEPLR BOUNTY POC)",
+    "symbol": "USDC.axl",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXRtNzQ4eHRsNHdteGZuNWhxbjZyNjZ0enYwY3NjM3FzOGRsN3A5L3V1c2Rj&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1ty695n07an8gcnne2cqs6qmlhkvuzhznvpdw68jst6n26d24zm8s6wa92r/cbg",
     "name": "CosmosBG",
     "symbol": "CBG",
@@ -13471,11 +14497,27 @@
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply/by_denom?denom=factory%2Fosmo1tyrmsl3n86c853tf3dxkzn00v4vjylcp6mat3s%2Fupaw"
   },
   {
+    "id": "factory/osmo1ucgxgzc0p90087sj8rnnwd9jm0pujly32rf0v3y3j8ff7z4fp2ashkjf88/krb",
+    "name": "KRB Dao Privacy Chain Coin",
+    "symbol": "KRB",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXVjZ3hnemMwcDkwMDg3c2o4cm5ud2Q5am0wcHVqbHkzMnJmMHYzeTNqOGZmN3o0ZnAyYXNoa2pmODgva3Ji&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1upvuv0sw3uwdncl92pqp7lp2hplnda9qeh3xdua73xpg3559ecsshs8cyl/aero",
     "name": "AERO DAO Token",
     "symbol": "AERO",
     "decimals": "6",
     "type": "tokenfactory"
+  },
+  {
+    "id": "factory/osmo1ux2g4n0fpzxd7qku0cehq8u0w5tqp7jp0jgr90fl20k4u6xcku5qdfw3g8/pln",
+    "name": "Polski Zloty 3.0",
+    "symbol": "PLN",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXV4Mmc0bjBmcHp4ZDdxa3UwY2VocTh1MHc1dHFwN2pwMGpncjkwZmwyMGs0dTZ4Y2t1NXFkZnczZzgvcGxu&pagination.limit=1"
   },
   {
     "id": "factory/osmo1v48gzpjk2ncgt4rgr0zsl5sfa6a3zzm8mszl50tahg3ngqylz3cs9t4qk3/degen",
@@ -13484,6 +14526,14 @@
     "decimals": "6",
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXY0OGd6cGprMm5jZ3Q0cmdyMHpzbDVzZmE2YTN6em04bXN6bDUwdGFoZzNuZ3F5bHozY3M5dDRxazMvZGVnZW4%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1vcgrse9gr0d26jfaa4gwj09at6n94uhptskexmfka2j3sw7zx6xsfe2mdn/asaal",
+    "name": "Asaal Binjabi Token ",
+    "symbol": "Asaal",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXZjZ3JzZTlncjBkMjZqZmFhNGd3ajA5YXQ2bjk0dWhwdHNrZXhtZmthMmozc3c3eng2eHNmZTJtZG4vYXNhYWw%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo1vdvnznwg597qngrq9mnfcfk0am9jdc9y446jewhcqdreqz4r75xq5j5zvy/ymos",
@@ -13574,6 +14624,30 @@
     "icon": "https://image.similarpng.com/very-thumbnail/2021/07/Colorful-logo-design-template-on-transparent-background-PNG.png"
   },
   {
+    "id": "factory/osmo1wypsnn7n5hsd2kvk424qv9yuretz9m6ky8gf6c/uatom2",
+    "name": "ATOM2",
+    "symbol": "ATOM2",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXd5cHNubjduNWhzZDJrdms0MjRxdjl5dXJldHo5bTZreThnZjZjL3VhdG9tMg%3D%3D&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1wypsnn7n5hsd2kvk424qv9yuretz9m6ky8gf6c/uatomone",
+    "name": "atomone",
+    "symbol": "ATOMONE",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXd5cHNubjduNWhzZDJrdms0MjRxdjl5dXJldHo5bTZreThnZjZjL3VhdG9tb25l&pagination.limit=1"
+  },
+  {
+    "id": "factory/osmo1xnyk89rthfmjssjlwxglpsuh0qxqfdh39huwqjkpyxhz6kw4fzdqep6myg/bubbas",
+    "name": "BUBBAS",
+    "symbol": "BUBBAS",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXhueWs4OXJ0aGZtanNzamx3eGdscHN1aDBxeHFmZGgzOWh1d3Fqa3B5eGh6Nmt3NGZ6ZHFlcDZteWcvYnViYmFz&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1xpnhhfkg7u2y5tdmlr5c96pn57nqdse4hvjr8g5qdtu8d50x0qhqtta40c/sfyl",
     "name": "SorryForYourLoss Token",
     "symbol": "SFYL",
@@ -13659,6 +14733,14 @@
     "verification_tx": "osmosis-main"
   },
   {
+    "id": "factory/osmo1z3gl0qu7fhzhk4ylw4tnxht23zg3wpt09de2fa5wj6a3kt7g0apq58c6n9/cty",
+    "name": "CityCoin",
+    "symbol": "CTY",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXozZ2wwcXU3Zmh6aGs0eWx3NHRueGh0MjN6ZzN3cHQwOWRlMmZhNXdqNmEza3Q3ZzBhcHE1OGM2bjkvY3R5&pagination.limit=1"
+  },
+  {
     "id": "factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC",
     "name": "Alloyed BTC",
     "symbol": "allBTC",
@@ -13683,6 +14765,14 @@
     "type": "tokenfactory",
     "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXpldHh6YzVua2E0am0yMDNsamp0amY5MzNqd2poNDVnZTZzcGZlZWY0NDdybm5ocXhjNHFyYXpyY3ovYWxsb3llZC9hbGxCTkI%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.svg"
+  },
+  {
+    "id": "factory/osmo1zk6swa5k3yykfup4kmc7lg6fhzs8v0jhsm2s0cu3wsxf6puj3fds782qsa/fNUTTEST",
+    "name": "fNUTTEST",
+    "symbol": "fNUTTEST",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://lcd.osmosis.zone/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9vc21vMXprNnN3YTVrM3l5a2Z1cDRrbWM3bGc2Zmh6czh2MGpoc20yczBjdTN3c3hmNnB1ajNmZHM3ODJxc2EvZk5VVFRFU1Q%3D&pagination.limit=1"
   },
   {
     "id": "factory/osmo1zkaars59qfz9w4kmwm5js8xteftga5kwftxvqy390kmj79cwksxqscuxwf/fts",
