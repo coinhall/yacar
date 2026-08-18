@@ -10,6 +10,21 @@
     "coingecko": "https://www.coingecko.com/en/coins/sam-2"
   },
   {
+    "id": "factory/orai163gprd7pnv2xt664fm7nx04j6wh587fd0d4aw6/USDC.test",
+    "name": "USDC.test",
+    "symbol": "USDC.test",
+    "decimals": "6"
+  },
+  {
+    "id": "factory/orai17hyr3eg92fv34fdnkend48scu32hn26gqxw3hnwkfy904lk9r09qqzty42/0x553a323c320affd9c658ec50963066e5e2118d8b",
+    "name": "YASUO",
+    "symbol": "YASUO",
+    "decimals": "18"
+  },
+  {
+    "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/2R8BaVRzSYLM4kW9YCMHWr7WRS3DB8yFdpL7368wjdNG"
+  },
+  {
     "id": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/ton",
     "name": "Toncoin",
     "symbol": "TON",
@@ -202,21 +217,5 @@
     "decimals": "6",
     "type": "ow20",
     "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1thrhu8dw6w6g33n0mhp4qyjv8svds5w2n4h0kt/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1vdqtppe7556vtayrp4qes495ytccux83y6jldk59s5cf20d3a65qd82vrx",
-    "name": "$TEST-HONOR",
-    "symbol": "TEST-HONOR",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1vdqtppe7556vtayrp4qes495ytccux83y6jldk59s5cf20d3a65qd82vrx/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
-  },
-  {
-    "id": "orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6",
-    "name": "ORAIX Token",
-    "symbol": "ORAIX",
-    "decimals": "6",
-    "type": "ow20",
-    "total_supply_api": "https://api-orai.blockval.io/cosmwasm/wasm/v1/contract/orai1wwlvdksa5nj5ws6v886hxr089706mgtw8adcd6/smart/eyJ0b2tlbl9pbmZvIjp7fX0="
   }
 ]
