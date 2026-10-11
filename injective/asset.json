@@ -1,5 +1,53 @@
 [
   {
+    "id": "erc20:0x00C58Cb98489A3CA684a65efF748D43aF8d3977C",
+    "name": "Rich",
+    "symbol": "RICH",
+    "decimals": "18"
+  },
+  {
+    "id": "erc20:0x1d4722C8173447Dc3f45004291D6f67BB31A202f",
+    "name": "INJECTIVE IN JUICE",
+    "symbol": "INJUICE",
+    "decimals": "18"
+  },
+  {
+    "id": "erc20:0x2a25fbD67b3aE485e461fe55d9DbeF302B7D3989",
+    "name": "ibc/2CBC2EA121AE42563B08028466F37B600F2D7D4282342DE938283CC3FB2BC00E",
+    "symbol": "UUSDC",
+    "decimals": "6"
+  },
+  {
+    "id": "erc20:0x3e29D27633fa7475Ca23ce123B7aE2C20B462379",
+    "name": "Injective Cipher",
+    "symbol": "INJCIPHER",
+    "decimals": "18"
+  },
+  {
+    "id": "erc20:0x6D4F6768161C200E9d5d4c621d38BBC954a5E836",
+    "name": "BS2",
+    "symbol": "BS2",
+    "decimals": "18"
+  },
+  {
+    "id": "erc20:0x82f96a0154fc9AdaE67E982310d63d0a7828FEef",
+    "name": "Winjective",
+    "symbol": "WINJ",
+    "decimals": "18"
+  },
+  {
+    "id": "erc20:0x8365f3cce35Ffa802F2fAbE0878842463379537e",
+    "name": "STRIPPY",
+    "symbol": "STRIPPY",
+    "decimals": "18"
+  },
+  {
+    "id": "erc20:0x8684274a623511151bc1Cc0871516e25D9cF9fEa",
+    "name": "Hyper ninja",
+    "symbol": "HYPERNINJA",
+    "decimals": "18"
+  },
+  {
     "id": "erc20:0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
     "name": "USDC",
     "symbol": "USDC",
@@ -7,6 +55,24 @@
     "type": "cw20",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
     "coingecko": "https://www.coingecko.com/en/coins/usd-coin"
+  },
+  {
+    "id": "erc20:0xBA2770D3027e5826c0971ddC353d4Fd762343b47",
+    "name": "Siskin",
+    "symbol": "SISKIN",
+    "decimals": "18"
+  },
+  {
+    "id": "erc20:0xc3dD627938376fFe1a0a11b1E8F9ab8B61D8ACcF",
+    "name": "Injective Waifu - INJIVA",
+    "symbol": "INJIVA",
+    "decimals": "18"
+  },
+  {
+    "id": "erc20:0xEf6b3833832BBDa54c7A6B147Ac1291884e6C506",
+    "name": "Robin the goblin",
+    "symbol": "ROBIN",
+    "decimals": "18"
   },
   {
     "id": "factory/inj1043hsv3ug5z9updx32a0a3rae87w6fzlzhcjm4/INJ",
@@ -2494,6 +2560,14 @@
     "type": "tokenfactory",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxN2c5anNqMzdqdDB3Nzd4NGdmbXQ2cnhmMHIyenIzMDdra3k4NzUvSU5K&pagination.limit=1",
     "icon": "ipfs://bafkreiakfz7oaouncdlkjiam7vjmioklihnyb32awbcz2xm5p5lahenrdi"
+  },
+  {
+    "id": "factory/inj17ge6x0f2gpz5ae3q067g7u62w0mc4t57mum8z6/test-sol-trend-no-deposit",
+    "name": "test-sol-trend-no-deposit",
+    "symbol": "test-sol-trend-no-deposit",
+    "decimals": "9",
+    "type": "tokenfactory",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9pbmoxN2dlNngwZjJncHo1YWUzcTA2N2c3dTYydzBtYzR0NTdtdW04ejYvdGVzdC1zb2wtdHJlbmQtbm8tZGVwb3NpdA%3D%3D&pagination.limit=1"
   },
   {
     "id": "factory/inj17gkuet8f6pssxd8nycm3qr9d9y699rupv6397z/KISH",
@@ -21922,103 +21996,5 @@
     "type": "peggy",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweEEwYjg2OTkxYzYyMThiMzZjMWQxOUQ0YTJlOUViMGNFMzYwNmVCNDg%3D&pagination.limit=1",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg"
-  },
-  {
-    "id": "peggy0xAaEf88cEa01475125522e117BFe45cF32044E238",
-    "name": "GuildFi",
-    "symbol": "GF",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweEFhRWY4OGNFYTAxNDc1MTI1NTIyZTExN0JGZTQ1Y0YzMjA0NEUyMzg%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/gf.png"
-  },
-  {
-    "id": "peggy0xb2617246d0c6c0087f18703d576831899ca94f01",
-    "name": "ZigCoin",
-    "symbol": "ZIG",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGIyNjE3MjQ2ZDBjNmMwMDg3ZjE4NzAzZDU3NjgzMTg5OWNhOTRmMDE%3D&pagination.limit=1"
-  },
-  {
-    "id": "peggy0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
-    "name": "AXS",
-    "symbol": "AXS",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweEJCMEUxN0VGNjVGODJBYjAxOGQ4RURkNzc2ZThERDk0MDMyN0IyOGI%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/axs.png"
-  },
-  {
-    "id": "peggy0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
-    "name": "Renzo Restaked ETH",
-    "symbol": "ezETH",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGJmNTQ5NUVmZTVEQjljZTAwZjgwMzY0QzhCNDIzNTY3ZTU4ZDIxMTA%3D&pagination.limit=1"
-  },
-  {
-    "id": "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-    "name": "SNX",
-    "symbol": "SNX",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweEMwMTFhNzNlZTg1NzZGYjQ2RjVFMWM1NzUxY0EzQjlGZTBhZjJhNkY%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/synthetix.svg"
-  },
-  {
-    "id": "peggy0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "name": "Wrapped Ethereum",
-    "symbol": "WETH",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweEMwMmFhQTM5YjIyM0ZFOEQwQTBlNUM0RjI3ZUFEOTA4M0M3NTZDYzI%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
-  },
-  {
-    "id": "peggy0xC08512927D12348F6620a698105e1BAac6EcD911",
-    "name": "GMO JPY",
-    "symbol": "GYEN",
-    "decimals": "6",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweEMwODUxMjkyN0QxMjM0OEY2NjIwYTY5ODEwNWUxQkFhYzZFY0Q5MTE%3D&pagination.limit=1"
-  },
-  {
-    "id": "peggy0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439",
-    "entity": "Moon App",
-    "name": "Moon App",
-    "symbol": "APP",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweEM1ZDI3RjI3RjA4RDFGRDFFM0ViQkFhNTBiMzQ0MmU2YzBENTA0Mzk%3D&pagination.limit=1",
-    "icon": "https://imagedelivery.net/DYKOWp0iCc0sIkF-2e4dNw/ce816e13-52fc-4afb-4434-6f8352263300/public"
-  },
-  {
-    "id": "peggy0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-    "name": "GRT",
-    "symbol": "GRT",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGM5NDRFOTBDNjRCMmMwNzY2MkEyOTJiZTYyNDRCRGYwNUNkYTQ0YTc%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/graphToken.svg"
-  },
-  {
-    "id": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "name": "Tether",
-    "symbol": "USDT",
-    "decimals": "6",
-    "type": "peggy",
-    "circ_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGRBQzE3Rjk1OEQyZWU1MjNhMjIwNjIwNjk5NDU5N0MxM0Q4MzFlYzc%3D&pagination.limit=1",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGRBQzE3Rjk1OEQyZWU1MjNhMjIwNjIwNjk5NDU5N0MxM0Q4MzFlYzc%3D&pagination.limit=1",
-    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
-  },
-  {
-    "id": "peggy0xf9a06dE3F6639E6ee4F079095D5093644Ad85E8b",
-    "name": "Puggo",
-    "symbol": "PUG",
-    "decimals": "18",
-    "type": "peggy",
-    "total_supply_api": "https://injective-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=cGVnZ3kweGY5YTA2ZEUzRjY2MzlFNmVlNEYwNzkwOTVENTA5MzY0NEFkODVFOGI%3D&pagination.limit=1",
-    "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/puggo.jpg"
   }
 ]
