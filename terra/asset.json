@@ -24,6 +24,15 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/ampCapa.svg"
   },
   {
+    "id": "factory/terra187wskthf3t9t4pnt3hu4j2674ympc066tvz502/ugem",
+    "name": "GEM",
+    "symbol": "GEM",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://terra-lcd.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS90ZXJyYTE4N3dza3RoZjN0OXQ0cG50M2h1NGoyNjc0eW1wYzA2NnR2ejUwMi91Z2Vt&pagination.limit=1",
+    "icon": "ipfs://bafkreielrfulfg2ji2nchqer5rjpq3sn7lqs4s2fula4jvg7677oh7hyoy"
+  },
+  {
     "id": "factory/terra1dndhtdr2v7ca8rrn67chlqw3cl3xhm3m2uxls62vghcg3fsh5tpss5xmcu/MOAR",
     "entity": "Lion DAO",
     "name": "MOAR",
